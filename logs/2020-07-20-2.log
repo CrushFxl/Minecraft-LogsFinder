@@ -1,0 +1,611 @@
+[22:34:58] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[22:34:58] [Server thread/INFO]: Loading properties
+[22:34:58] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[22:34:58] [Server thread/INFO]: Debug logging is disabled
+[22:34:58] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[22:34:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:34:58] [Server thread/INFO]: Default game type: SURVIVAL
+[22:34:58] [Server thread/INFO]: Generating keypair
+[22:34:58] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[22:34:58] [Server thread/INFO]: Using default channel type
+[22:34:59] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:35:01] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[22:35:01] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[22:35:01] [Server thread/WARN]: Legacy plugin PlayerPoints v1.7.1 does not specify an api-version.
+[22:35:01] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[22:35:01] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[22:35:01] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[22:35:01] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[22:35:01] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[22:35:01] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[22:35:01] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[22:35:01] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[22:35:01] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[22:35:01] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v1.7.1
+[22:35:01] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[22:35:01] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[22:35:01] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[22:35:01] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[22:35:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:35:01] [Server thread/INFO]: Preparing level "world"
+[22:35:01] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:35:08] [Server thread/INFO]: Loaded 6 recipes
+[22:35:08] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:35:08] [Server thread/INFO]: View Distance: 12
+[22:35:08] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[22:35:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:35:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:35:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:35:08] [Server thread/INFO]: Item Merge Radius: 8.0
+[22:35:08] [Server thread/INFO]: Item Despawn Rate: 3000
+[22:35:08] [Server thread/INFO]: Experience Merge Radius: 8.0
+[22:35:08] [Server thread/INFO]: Mob Spawn Range: 4
+[22:35:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[22:35:08] [Server thread/INFO]: Max TNT Explosions: 100
+[22:35:08] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[22:35:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:35:08] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[22:35:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:35:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:35:08] [Server thread/INFO]: View Distance: 12
+[22:35:08] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[22:35:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:35:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:35:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:35:08] [Server thread/INFO]: Item Merge Radius: 8.0
+[22:35:08] [Server thread/INFO]: Item Despawn Rate: 3000
+[22:35:08] [Server thread/INFO]: Experience Merge Radius: 8.0
+[22:35:08] [Server thread/INFO]: Mob Spawn Range: 4
+[22:35:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[22:35:08] [Server thread/INFO]: Max TNT Explosions: 100
+[22:35:08] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[22:35:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:35:08] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[22:35:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:35:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:35:08] [Server thread/INFO]: View Distance: 12
+[22:35:08] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[22:35:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:35:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:35:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:35:08] [Server thread/INFO]: Item Merge Radius: 8.0
+[22:35:08] [Server thread/INFO]: Item Despawn Rate: 3000
+[22:35:08] [Server thread/INFO]: Experience Merge Radius: 8.0
+[22:35:08] [Server thread/INFO]: Mob Spawn Range: 4
+[22:35:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:35:08] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[22:35:08] [Server thread/INFO]: Max TNT Explosions: 100
+[22:35:08] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[22:35:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:35:08] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[22:35:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:35:08] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[22:35:08] [Server thread/INFO]: Preparing spawn area: 0%
+[22:35:08] [Server thread/INFO]: Preparing spawn area: 14%
+[22:35:09] [Server thread/INFO]: Preparing spawn area: 99%
+[22:35:09] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[22:35:09] [Server thread/INFO]: Time elapsed: 1263 ms
+[22:35:09] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[22:35:09] [Server thread/INFO]: Preparing spawn area: 0%
+[22:35:10] [Server thread/INFO]: Preparing spawn area: 100%
+[22:35:10] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[22:35:10] [Server thread/INFO]: Time elapsed: 535 ms
+[22:35:10] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[22:35:10] [Server thread/INFO]: Preparing spawn area: 0%
+[22:35:10] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[22:35:10] [Server thread/INFO]: Time elapsed: 420 ms
+[22:35:10] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[22:35:10] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[22:35:10] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[22:35:10] [Server thread/INFO]: --------------------
+[22:35:10] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[22:35:10] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[22:35:10] [Server thread/INFO]: --------------------
+[22:35:10] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[22:35:10] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[22:35:10] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[22:35:10] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[22:35:10] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[22:35:10] [Server thread/INFO]:  
+[22:35:10] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[22:35:10] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[22:35:10] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[22:35:10] [Server thread/INFO]:  
+[22:35:10] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[22:35:10] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[22:35:10] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[22:35:10] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[22:35:10] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[22:35:10] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[22:35:10] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[22:35:10] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[22:35:10] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[22:35:10] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[22:35:10] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[22:35:10] [Server thread/INFO]: [EntityTrackerFixer] Vault not found! using default permission system...
+[22:35:10] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[22:35:10] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[22:35:10] [Server thread/INFO]: [SAML] Loading config.yml...
+[22:35:10] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[22:35:10] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[22:35:10] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[22:35:10] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[22:35:10] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[22:35:10] [Server thread/INFO]: [SAML] Loading messages.yml...
+[22:35:10] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[22:35:10] [Server thread/INFO]: [SAML] Successfully enabled.
+[22:35:10] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5*
+[22:35:10] [Server thread/INFO]: [ChatC] 聊天管理插件已启用！
+[22:35:10] [Server thread/INFO]: [ChatC] 聊天管理插件当前版本：V0.5 （2017年8月24日）
+[22:35:10] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[22:35:10] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v1.7.1*
+[22:35:10] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0*
+[22:35:10] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[22:35:10] [Server thread/INFO]: [GM+] Checking Your version...
+[22:35:10] [Server thread/INFO]: ===============================
+[22:35:10] [Server thread/INFO]: 
+[22:35:10] [Server thread/INFO]:  GroupManager+ is now enable!
+[22:35:10] [Server thread/INFO]:  
+[22:35:10] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[22:35:10] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[22:35:10] [Server thread/INFO]:  Current version: v3.3
+[22:35:10] [Server thread/INFO]:  
+[22:35:10] [Server thread/INFO]: ===============================
+[22:35:10] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[22:35:11] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[22:35:11] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[22:35:11] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[22:35:11] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[22:35:11] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1*
+[22:35:11] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[22:35:11] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[22:35:11] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[22:35:11] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[22:35:11] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[22:35:32] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[22:35:32] [Server thread/INFO]: [TAB] Enabled in 21043ms
+[22:35:32] [Server thread/INFO]: Done (30.531s)! For help, type "help"
+[22:35:32] [Server thread/INFO]: Timings Reset
+[22:35:32] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[22:35:32] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[22:35:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@75002b42[id=<null>,name=jason_ji,properties={},legacy=false] (/127.0.0.1:50946) lost connection: Disconnected
+[22:35:35] [Thread-17/INFO]: --------------------
+[22:35:35] [Thread-17/INFO]: [CoreProtect] Version 19.0 is now available.
+[22:35:35] [Thread-17/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[22:35:35] [Thread-17/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[22:35:35] [Thread-17/INFO]: --------------------
+[22:35:40] [Craft Scheduler Thread - 5/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[22:35:40] [Craft Scheduler Thread - 5/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[22:35:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@3fa61407[id=<null>,name=jason_ji,properties={},legacy=false] (/127.0.0.1:50961) lost connection: Disconnected
+[22:35:55] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@3fa61407[id=<null>,name=jason_ji,properties={},legacy=false] (/127.0.0.1:50961): Authentication servers are down. Please try again later, sorry!
+[22:35:55] [User Authenticator #1/ERROR]: Couldn't verify username because servers are unavailable
+[22:35:59] [User Authenticator #2/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[22:35:59] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[22:35:59] [Server thread/INFO]: jason_ji[/127.0.0.1:50993] logged in with entity id 843 at ([world_nether]191.49325879318852, 100.0, 906.2300294428859)
+[22:36:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@28be0e00[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:51003) lost connection: Disconnected
+[22:36:17] [User Authenticator #1/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:36:17] [Server thread/INFO]: adhesive_tape[/127.0.0.1:51005] logged in with entity id 937 at ([world_nether]288.4999910884164, 119.0, 991.3431299580229)
+[22:36:31] [Server thread/INFO]: There are 2 of a max 40 players online: jason_ji, adhesive_tape
+[22:36:33] [User Authenticator #2/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[22:36:33] [Server thread/INFO]: Laohuaji[/127.0.0.1:51000] logged in with entity id 992 at ([world_nether]271.4441317436759, 119.0, 996.3100000119209)
+[22:36:36] [Server thread/INFO]: jason_ji >> 我想不上去了
+[22:36:39] [Server thread/INFO]: jason_ji >> 先
+[22:36:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@6b9742a6[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:51013) lost connection: Disconnected
+[22:36:50] [Server thread/INFO]: adhesive_tape >> 都快炸完了
+[22:36:53] [Server thread/INFO]: adhesive_tape >> 上来
+[22:36:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@7fe8810f[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:51011) lost connection: Disconnected
+[22:37:00] [Server thread/INFO]: jason_ji >> 行吧
+[22:37:06] [User Authenticator #1/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[22:37:06] [Server thread/INFO]: Mr_director[/127.0.0.1:51020] logged in with entity id 1015 at ([world_nether]229.43146548335582, 119.0, 996.3015444764058)
+[22:37:08] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@7fe8810f[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:51011): Authentication servers are down. Please try again later, sorry!
+[22:37:08] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
+[22:37:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@53b8b6f[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:51017) lost connection: Disconnected
+[22:37:16] [Server thread/INFO]: Laohuaji >> 问题是我下不去了qwq
+[22:37:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ac5d7d1[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:51031) lost connection: Disconnected
+[22:37:26] [Server thread/INFO]: Mr_director >> 死回去
+[22:37:31] [Server thread/INFO]: Laohuaji >> 那算了
+[22:37:35] [Server thread/INFO]: adhesive_tape >> 待会会有办法的
+[22:37:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@3bcc9ab3[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:51036) lost connection: Disconnected
+[22:37:38] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@5aa4c1dd[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:51027): Authentication servers are down. Please try again later, sorry!
+[22:37:38] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
+[22:37:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@5aa4c1dd[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:51027) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:37:40] [Server thread/INFO]: Mr_director >> 你看右边
+[22:37:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@364d9559[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:51041) lost connection: Disconnected
+[22:37:47] [Server thread/INFO]: Laohuaji >> 我床被憨明挖了
+[22:37:50] [User Authenticator #2/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[22:37:51] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:51039] logged in with entity id 1097 at ([world]2775.323842707356, 63.5, -407.5319757585946)
+[22:37:51] [Server thread/INFO]: Mr_director >> 错了错边
+[22:37:54] [Server thread/INFO]: Mr_director >> 左边
+[22:37:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@6507872b[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:51047) lost connection: Disconnected
+[22:37:57] [Server thread/INFO]: Mr_director >> ....
+[22:38:02] [Server thread/INFO]: Mr_director >> 我是傻逼
+[22:38:10] [Server thread/INFO]: Mr_director >> 滑稽看你右边
+[22:38:21] [Server thread/INFO]: Laohuaji >> 我能看一排
+[22:38:23] [Server thread/INFO]: Laohuaji >> qwq
+[22:38:33] [Server thread/INFO]: adhesive_tape >> 录视频没
+[22:38:34] [Server thread/INFO]: Mr_director >> 走那条神奇的地狱岩路回去
+[22:38:41] [Server thread/INFO]: Laohuaji >> 灵魂出窍是个好东西qwq
+[22:39:13] [Server thread/ERROR]: Could not pass event PlayerChatEvent to ChatC v0.5
+java.lang.IllegalArgumentException: character to be escaped is missing
+	at java.util.regex.Matcher.appendReplacement(Unknown Source) ~[?:1.8.0_181]
+	at java.util.regex.Matcher.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.String.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at cf.cc7w.ChatC.ChatC.onchat(ChatC.java:247) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor26.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:559) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection$5.evaluate(PlayerConnection.java:1743) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.util.Waitable.run(Waitable.java:25) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1198) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[22:39:13] [Server thread/INFO]: <jason_ji> !!!!!!!\
+[22:39:17] [Server thread/INFO]: Laohuaji >> ????
+[22:39:18] [Server thread/INFO]: jason_ji >> 完了
+[22:39:22] [Server thread/INFO]: Mr_director >> hhhc
+[22:39:30] [Server thread/INFO]: Laohuaji >> ?
+[22:39:31] [Server thread/INFO]: jason_ji >> 不小心挖掉一个粘液块
+[22:39:31] [Server thread/INFO]: Mr_director >> 路没了
+[22:39:37] [Server thread/INFO]: Mr_director >> ?
+[22:39:43] [Server thread/INFO]: Mr_director >> 哪块
+[22:39:48] [Server thread/INFO]: jason_ji >> 我这里
+[22:39:58] [Server thread/INFO]: Mr_director >> 放回去啊
+[22:40:05] [Server thread/INFO]: jason_ji >> 掉岩浆里了
+[22:40:06] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:40:09] [Server thread/INFO]: Mr_director >> .
+[22:40:10] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:40:12] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:40:14] [Server thread/INFO]: Laohuaji >> .
+[22:40:16] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:40:25] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:40:44] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:40:46] [Server thread/INFO]: adhesive_tape >> 哪
+[22:41:17] [Server thread/INFO]: jason_ji >> 行了
+[22:41:42] [Server thread/INFO]: jason_ji >> 北梦没上线吗
+[22:42:06] [Server thread/INFO]: sen_lv_ling_ issued server command: /co l a:kill r:10 t:5h
+[22:42:16] [Server thread/INFO]: adhesive_tape >> 不对
+[22:42:34] [Server thread/INFO]: adhesive_tape >> 北梦要上线才能开机
+[22:42:44] [Server thread/INFO]: adhesive_tape >> 要不她直接掉岩浆
+[22:42:51] [Server thread/INFO]: jason_ji >> 是
+[22:43:03] [Server thread/INFO]: adhesive_tape >> 那今天就到这把
+[22:43:11] [Server thread/INFO]: jason_ji >> ...
+[22:43:14] [Server thread/INFO]: Laohuaji >> qwq???????
+[22:43:22] [Server thread/INFO]: Laohuaji >> 我们都动了好久了吧
+[22:43:33] [User Authenticator #3/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[22:43:33] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@13bfb155[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@f0184e0]},legacy=false] (/127.0.0.1:51106): 你还不在白名单噢 加入审核群1145301933 进行审核
+[22:43:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@13bfb155[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@f0184e0]},legacy=false] (/127.0.0.1:51106) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[22:43:37] [Server thread/INFO]: Laohuaji >> 现在他回来估计也是掉岩浆？
+[22:43:42] [Server thread/INFO]: adhesive_tape >> 没有
+[22:43:51] [Server thread/INFO]: adhesive_tape >> 刚才重启才掉线的
+[22:43:54] [Server thread/INFO]: Laohuaji >> o
+[22:44:37] [Server thread/INFO]: Laohuaji >> 那我回去了qwq
+[22:44:44] [Server thread/INFO]: adhesive_tape >> ...
+[22:44:51] [Server thread/INFO]: Mr_director >> ...
+[22:44:57] [Server thread/INFO]: Laohuaji >> ?
+[22:45:01] [Server thread/INFO]: jason_ji >> 还开机不
+[22:45:02] [Server thread/INFO]: adhesive_tape >> 没事
+[22:45:05] [Server thread/INFO]: adhesive_tape >> 不开机了
+[22:45:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[22:45:11] [Server thread/INFO]: adhesive_tape >> 下来吧
+[22:45:12] [Server thread/INFO]: Mr_director >> 也是
+[22:45:18] [Server thread/INFO]: jason_ji >> 那我也走了
+[22:45:24] [Server thread/INFO]: Mr_director >> 溜了溜了
+[22:45:31] [Server thread/INFO]: Mr_director tried to swim in lava
+[22:45:43] [Server thread/INFO]: adhesive_tape >> 可以，很骚
+[22:45:49] [Server thread/INFO]: Mr_director >> 清空背包
+[22:47:16] [Server thread/INFO]: adhesive_tape >> 一个个跑得比兔子还快
+[22:47:18] [Server thread/WARN]: jason_ji moved wrongly!
+[22:47:28] [Server thread/INFO]: jason_ji >> 。。。
+[22:47:34] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[22:47:34] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[22:47:38] [Server thread/INFO]: Mr_director >> 那可不
+[22:47:39] [Server thread/INFO]: adhesive_tape >> 盾构机爽吗
+[22:47:53] [Server thread/INFO]: jason_ji >> 双爽
+[22:48:08] [Server thread/INFO]: adhesive_tape >> 、、
+[22:48:11] [Server thread/INFO]: adhesive_tape >> 我去
+[22:48:12] [Server thread/INFO]: Laohuaji >> hhhhhhhhhh
+[22:48:16] [Server thread/INFO]: adhesive_tape >> 我的船
+[22:48:19] [Server thread/INFO]: Mr_director >> 最简单的回家就是自杀
+[22:48:23] [Server thread/INFO]: Laohuaji >> hhhhhhhhhhhhhhhhhhhhhhhh
+[22:48:29] [Server thread/WARN]: jason_ji moved wrongly!
+[22:48:31] [Server thread/INFO]: Mr_director >> bay说的（不是
+[22:48:43] [Server thread/WARN]: 15ef1e32-0c75-463b-b03d-0fd74a7d6147 (vehicle of adhesive_tape) moved wrongly!
+[22:48:43] [Server thread/WARN]: 15ef1e32-0c75-463b-b03d-0fd74a7d6147 (vehicle of adhesive_tape) moved wrongly!
+[22:48:44] [Server thread/INFO]: Mr_director >> 虽然bay也经常自杀回家
+[22:48:45] [Server thread/WARN]: 15ef1e32-0c75-463b-b03d-0fd74a7d6147 (vehicle of adhesive_tape) moved wrongly!
+[22:49:05] [Server thread/WARN]: ef02215d-fcae-4b89-b708-10ea2c3009b3 (vehicle of jason_ji) moved wrongly!
+[22:49:05] [Server thread/WARN]: ef02215d-fcae-4b89-b708-10ea2c3009b3 (vehicle of jason_ji) moved wrongly!
+[22:49:09] [Server thread/INFO]: Mr_director >> 末地刷铁塔，我又来了qwq
+[22:49:15] [Server thread/INFO]: Laohuaji >> ?
+[22:50:13] [Server thread/INFO]: jason_ji issued server command: /co i
+[22:50:45] [Server thread/INFO]: jason_ji issued server command: /co i
+[22:50:49] [Server thread/INFO]: Laohuaji >> 这真是个好地方
+[22:51:15] [Server thread/INFO]: Laohuaji >> 全死了？？？？？
+[22:51:21] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 还只砍了一边
+[22:51:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 另一半没有
+[22:51:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 另一半少了两只
+[22:51:42] [Server thread/INFO]: jason_ji issued server command: /co i
+[22:52:22] [Server thread/INFO]: jason_ji issued server command: /co i
+[22:52:26] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[22:52:26] [Server thread/INFO]: jason_ji left the game
+[22:52:41] [Server thread/INFO]: adhesive_tape >> 明天开机
+[22:52:55] [Server thread/INFO]: adhesive_tape >> 今天到此为止
+[22:53:00] [Server thread/INFO]: Laohuaji issued server command: /co l a:kill r:10t:12h
+[22:53:03] [Server thread/INFO]: adhesive_tape >> 快炸完了
+[22:53:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> wtm
+[22:53:16] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:53:29] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:53:35] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:53:57] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:54:42] [Server thread/INFO]: Laohuaji >> 海晶咋没萝卜了qwq
+[22:55:06] [Server thread/INFO]: Laohuaji >> 就一组qwq
+[22:55:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你们吃的真快
+[22:55:13] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:55:16] [Server thread/INFO]: Laohuaji >> 拿了怪不好意思的
+[22:55:29] [Server thread/INFO]: sen_lv_ling_ issued server command: /co l 2
+[22:55:33] [Server thread/INFO]: Laohuaji has made the advancement [A Throwaway Joke]
+[22:55:37] [Server thread/INFO]: sen_lv_ling_ issued server command: /co l 3
+[22:55:41] [Server thread/INFO]: sen_lv_ling_ issued server command: /co l 4
+[22:55:47] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:56:18] [Server thread/INFO]: Laohuaji >> 这三叉戟都能附魔啥qwq
+[22:56:25] [Server thread/INFO]: Laohuaji >> 咋感觉没伤害
+[22:57:28] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:57:42] [Server thread/INFO]: sen_lv_ling_ issued server command: /co l 2
+[22:57:42] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[22:58:04] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:58:11] [Server thread/INFO]: adhesive_tape issued server command: /
+[22:58:34] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[22:59:02] [Server thread/INFO]: adhesive_tape >> 女巫塔好像坏了
+[22:59:22] [Server thread/INFO]: adhesive_tape >> dir
+[22:59:25] [Server thread/INFO]: adhesive_tape >> 过来看看
+[22:59:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> = =
+[22:59:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 干嘛
+[22:59:46] [Server thread/INFO]: adhesive_tape >> 没事了
+[22:59:48] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 在写举报信呢
+[22:59:51] [Server thread/INFO]: adhesive_tape >> 好了
+[22:59:53] [Server thread/INFO]: Laohuaji >> qwq
+[23:00:07] [Server thread/INFO]: Laohuaji >> 我再去打一个三叉戟玩玩qwq
+[23:01:08] [Server thread/INFO]: adhesive_tape >> 挂机ing
+[23:01:17] [Server thread/INFO]: adhesive_tape >> 女巫塔挂机
+[23:04:18] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@b079839[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:51245): Authentication servers are down. Please try again later, sorry!
+[23:04:18] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[23:04:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@b079839[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:51245) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:04:53] [User Authenticator #4/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[23:04:54] [Server thread/INFO]: Crushxl[/127.0.0.1:51253] logged in with entity id 13935 at ([world]1150.696079606742, 98.85805216297858, 355.5811425893892)
+[23:04:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> = =
+[23:05:04] [User Authenticator #4/INFO]: UUID of player hence_tape is 2a111da9-f9cb-42dc-8ffc-4f295ba4896b
+[23:05:04] [Server thread/INFO]: hence_tape[/127.0.0.1:51256] logged in with entity id 14341 at ([world_nether]975.6999999880791, 65.0, -247.69999998807907)
+[23:05:06] [Server thread/INFO]: Crushxl issued server command: /gamemode creative
+[23:05:06] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[23:05:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[23:05:17] [Server thread/INFO]: Crushxl issued server command: /tp Crushxl 2789 10 -377
+[23:05:17] [Server thread/INFO]: [Crushxl: Teleported Crushxl to 2789.5, 10.0, -376.5]
+[23:05:31] [Server thread/INFO]: hence_tape >> 过了很久终于我愿回头看
+[23:05:31] [Server thread/INFO]: Crushxl issued server command: /co rb r:3 t:1d
+[23:05:39] [Server thread/INFO]: hence_tape >> 你就在对岸走的好慢
+[23:06:00] [Server thread/INFO]: hence_tape >> 任由我独自在假寐与现实之间两难
+[23:06:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[23:06:46] [Server thread/INFO]: Laohuaji >> ?
+[23:06:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 跳跃二
+[23:06:54] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 谢谢
+[23:06:58] [Server thread/INFO]: <服主> Crushxl >> 坐标呢 放岩浆的那个
+[23:07:03] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 上面
+[23:07:05] [Server thread/INFO]: <服主> Crushxl >> 信里没写坐标=
+[23:07:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 里面
+[23:08:26] [Server thread/INFO]: Laohuaji >> 貌似就死了一边qwq
+[23:08:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 差不多
+[23:09:01] [Server thread/INFO]: Crushxl issued server command: /co rb a:kill r:10 t:1d
+[23:09:12] [Server thread/INFO]: Crushxl issued server command: /co rb a:kill r:10 t:1d
+[23:09:26] [Server thread/INFO]: Crushxl issued server command: /co rb a:kill r:10 t:1d
+[23:09:30] [Server thread/INFO]: Villager EntityVillager['Farmer'/19166, uuid='b9fa7edf-5a06-4d5a-9270-d6bec31671c5', l='world', x=2770.30, y=73.25, z=-409.50, cx=173, cz=-26, tl=67, v=true, d=false] died, message: 'Farmer was slain by 森语'
+[23:09:32] [Server thread/INFO]: Laohuaji >> ohhhhhhh
+[23:09:32] [Server thread/INFO]: Crushxl issued server command: /co rb a:kill r:10 t:1d
+[23:09:36] [Server thread/INFO]: Crushxl issued server command: /co rb a:kill r:10 t:12
+[23:09:41] [Server thread/INFO]: Crushxl issued server command: /co rb a:kill r:10 t:2d
+[23:09:48] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[23:09:48] [Server thread/INFO]: Crushxl left the game
+[23:09:50] [Server thread/INFO]: Laohuaji >> 这咋少一个qwq
+[23:10:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 又要重新打骨折一遍 = =
+[23:10:53] [Server thread/INFO]: Laohuaji >> qwq
+[23:12:04] [User Authenticator #5/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[23:12:04] [Server thread/INFO]: Crushxl[/127.0.0.1:51308] logged in with entity id 21621 at ([world]2793.0306262770596, 63.0, -413.9162216581138)
+[23:12:14] [Server thread/INFO]: Laohuaji >> 咦？
+[23:12:15] [Server thread/INFO]: Crushxl issued server command: /undo
+[23:12:17] [Server thread/INFO]: Crushxl issued server command: /undo
+[23:12:19] [Server thread/INFO]: Crushxl issued server command: /co undo
+[23:12:22] [Server thread/INFO]: Crushxl issued server command: /co undo
+[23:12:24] [Server thread/INFO]: Crushxl issued server command: /co undo
+[23:12:26] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[23:12:26] [Server thread/INFO]: Crushxl left the game
+[23:12:31] [Server thread/INFO]: Laohuaji >> e
+[23:12:45] [Server thread/INFO]: Laohuaji >> ??????
+[23:12:49] [Server thread/INFO]: Laohuaji >> 咋又没了qwq
+[23:12:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[23:13:17] [Server thread/INFO]: Laohuaji >> 是你运走了嘛
+[23:15:53] [User Authenticator #6/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[23:15:53] [Server thread/INFO]: Crushxl[/127.0.0.1:51335] logged in with entity id 25026 at ([world]2791.2599434472227, 63.0, -414.17014535943196)
+[23:16:11] [Server thread/INFO]: Crushxl issued server command: /co rb a:kill t:1d r:20
+[23:16:18] [Server thread/INFO]: Villager EntityVillager['Farmer'/25108, uuid='10670c47-f530-4032-b420-861ff06f194e', l='world', x=2770.30, y=73.32, z=-409.50, cx=173, cz=-26, tl=109, v=true, d=false] died, message: 'Farmer was slain by 森语'
+[23:16:19] [Server thread/INFO]: Crushxl issued server command: /co rb a:kill t:1d r:20
+[23:16:21] [Server thread/INFO]: Laohuaji >> 好了qwq
+[23:16:24] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[23:16:24] [Server thread/INFO]: Crushxl left the game
+[23:16:26] [Server thread/INFO]: Villager EntityVillager['Farmer'/25184, uuid='28b01d9c-77a0-4ae4-8c7e-13c27d4941c3', l='world', x=2770.30, y=73.71, z=-409.50, cx=173, cz=-26, tl=87, v=true, d=false] died, message: 'Farmer was slain by 森语'
+[23:17:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 是你们没睡觉还是小泠没睡觉 = =
+[23:17:19] [Server thread/INFO]: Laohuaji >> 我刚睡玩
+[23:17:31] [Server thread/INFO]: adhesive_tape >> 我刚来
+[23:17:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ？？？
+[23:17:42] [Server thread/INFO]: adhesive_tape >> 来
+[23:17:47] [Server thread/INFO]: adhesive_tape >> 我帮忙打断腿
+[23:18:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你打断我的就不减价了
+[23:18:09] [Server thread/INFO]: adhesive_tape >> ???
+[23:18:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我明天有空就弄吧
+[23:18:22] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ad
+[23:18:25] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 睡觉
+[23:18:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 马赛克平台还莫名其妙的刷怪
+[23:20:51] [Server thread/INFO]: adhesive_tape >> 先打农民陈
+[23:20:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 后面的黑曜石墙做一下照明
+[23:20:55] [Server thread/INFO]: Laohuaji >> qwq
+[23:20:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我打
+[23:21:57] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[23:23:20] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ？
+[23:23:33] [Server thread/INFO]: Laohuaji >> ?
+[23:23:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 谁铺的铁轨？？？
+[23:24:02] [Server thread/INFO]: Laohuaji >> bzdqwq
+[23:24:08] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这么铺？？？
+[23:25:02] [Server thread/INFO]: Laohuaji >> ?????
+[23:25:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 永封两个
+[23:25:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我真nb
+[23:25:37] [Server thread/INFO]: Laohuaji >> hhhhh
+[23:25:40] [Server thread/INFO]: Laohuaji >> 不是
+[23:25:44] [Server thread/INFO]: Laohuaji >> 这村民你
+[23:25:47] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 就离谱
+[23:25:49] [Server thread/INFO]: Laohuaji >> 呢qwq
+[23:26:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 谁还把铁轨和拉杆拆了
+[23:26:08] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> wtm
+[23:26:10] [Server thread/INFO]: Laohuaji >> .?
+[23:26:15] [Server thread/INFO]: Laohuaji issued server command: /co i
+[23:26:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 今晚血压飙升
+[23:26:46] [Server thread/INFO]: Laohuaji issued server command: /co i
+[23:27:13] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[23:27:23] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[23:27:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 岩浆搞没的拉杆和铁轨
+[23:27:57] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我忘了把压力板补回去了
+[23:29:33] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[23:29:37] [Server thread/INFO]: Laohuaji >> 这咋玩的qwq
+[23:29:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[23:29:57] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不用
+[23:30:02] [Server thread/INFO]: Laohuaji >> o
+[23:30:06] [Server thread/INFO]: Laohuaji >> 铁轨qwq
+[23:30:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 生物不会主动过铁轨
+[23:30:18] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 为他们
+[23:30:22] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> wtm
+[23:30:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 乱套了
+[23:30:29] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[23:30:35] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[23:30:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 又少一个拉杆
+[23:31:00] [Server thread/INFO]: Laohuaji >> 灵异事件
+[23:32:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 明天弄
+[23:32:42] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 好烦
+[23:34:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 又有个农民在外面
+[23:34:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 就离谱
+[23:34:07] [Server thread/INFO]: Laohuaji >> ha
+[23:34:42] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 回档貌似多了一个农民emmmm
+[23:34:50] [Server thread/INFO]: Laohuaji >> qwq
+[23:35:05] [Server thread/INFO]: Laohuaji >> 那我觉得是不是应该杀了
+[23:35:08] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[23:35:11] [Server thread/INFO]: Laohuaji >> qwq
+[23:35:15] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你杀吧
+[23:35:19] [Server thread/INFO]: Laohuaji >> 算了
+[23:35:32] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[23:35:48] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这家伙放养
+[23:36:01] [Server thread/INFO]: Laohuaji >> odkqwq
+[23:36:06] [Server thread/INFO]: Laohuaji >> 我先下了
+[23:36:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 好的
+[23:36:15] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[23:36:15] [Server thread/INFO]: Laohuaji left the game
+[23:38:12] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[23:38:20] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[23:38:59] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[23:39:04] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[23:43:22] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[23:43:31] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[23:44:25] [Server thread/INFO]: adhesive_tape >> ..
+[23:44:40] [Server thread/INFO]: adhesive_tape >> 我在海底放了海晶灯
+[23:44:56] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我运回来的潜影贝呢？？？
+[23:45:02] [Server thread/INFO]: adhesive_tape >> 应该不会刷溺尸胃
+[23:45:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> wtm
+[23:46:04] [Server thread/INFO]: adhesive_tape >> 没了
+[23:46:09] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> wtm
+[23:48:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[23:49:16] [Server thread/INFO]: Banned tianqixiaobaobao: Banned by an operator.
+[23:49:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6300ms or 126 ticks behind
+[23:49:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> f
+[23:49:30] [Server thread/INFO]: That player does not exist
+[23:49:38] [Server thread/INFO]: [SAML] TPS low (16.36). Will attempt to freeze some mobs...
+[23:49:38] [Server thread/INFO]: [SAML] 453 mobs affected (453 frozen, 0 nerfed) in 102ms. Total of 453/893 affected (453 frozen, 140 nerfed).
+[23:50:02] [Server thread/INFO]: Banned SUPERKAER: Banned by an operator.
+[23:50:36] [Server thread/ERROR]: Could not pass event PlayerChatEvent to ChatC v0.5
+java.lang.IllegalArgumentException: character to be escaped is missing
+	at java.util.regex.Matcher.appendReplacement(Unknown Source) ~[?:1.8.0_181]
+	at java.util.regex.Matcher.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.String.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at cf.cc7w.ChatC.ChatC.onchat(ChatC.java:247) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor26.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:559) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection$5.evaluate(PlayerConnection.java:1743) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.util.Waitable.run(Waitable.java:25) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1198) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[23:50:36] [Server thread/INFO]: <sen_lv_ling_> 啊这\
+[23:51:18] [Server thread/INFO]: adhesive_tape >> 绝了
+[23:52:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 睡了，明天有空打骨折
+[23:52:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 顺便排序
+[23:52:13] [Server thread/INFO]: adhesive_tape >> 我也
+[23:52:27] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[23:52:27] [Server thread/INFO]: adhesive_tape left the game
+[23:52:31] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[23:52:31] [Server thread/INFO]: sen_lv_ling_ left the game
+[23:53:47] [Server thread/INFO]: hence_tape lost connection: Disconnected
+[23:53:47] [Server thread/INFO]: hence_tape left the game
+[23:55:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@450c4b69[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:51614) lost connection: Disconnected
+[23:57:24] [Server thread/INFO]: There are 1 of a max 40 players online: Mr_director
+[23:58:05] [Server thread/INFO]: Mr_director issued server command: /co i
+[23:58:24] [Server thread/INFO]: Mr_director issued server command: /co i

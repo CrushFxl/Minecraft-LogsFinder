@@ -1,0 +1,1768 @@
+[00:00:01] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[00:00:01] [Server thread/INFO]: Magical7 left the game
+[00:01:05] [Server thread/INFO]: qingfeng159 lost connection: Disconnected
+[00:01:05] [Server thread/INFO]: qingfeng159 left the game
+[00:01:05] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[00:01:05] [Server thread/INFO]: adhesive_tape left the game
+[00:01:05] [Server thread/INFO]: miHoYo_FuHua lost connection: Disconnected
+[00:01:05] [Server thread/INFO]: miHoYo_FuHua left the game
+[00:01:05] [Server thread/INFO]: Laffey_Jiang lost connection: Disconnected
+[00:01:05] [Server thread/INFO]: Laffey_Jiang left the game
+[00:01:05] [Server thread/INFO]: Tatsu999999 lost connection: Disconnected
+[00:01:05] [Server thread/INFO]: Tatsu999999 left the game
+[00:01:05] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[00:01:05] [Server thread/INFO]: Twilight2033 left the game
+[00:01:05] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[00:01:05] [Server thread/INFO]: YuHuaQingZhu left the game
+[00:01:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@56afa513[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:59525) lost connection: Disconnected
+[00:01:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@3cb1e878[id=<null>,name=qingfeng159,properties={},legacy=false] (/127.0.0.1:59532) lost connection: Disconnected
+[00:01:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@54ad25c[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:59533) lost connection: Disconnected
+[00:01:26] [User Authenticator #194/INFO]: UUID of player qingfeng159 is 56cc75d8-e708-4898-ab75-511d9a1e4e96
+[00:01:26] [Server thread/INFO]: qingfeng159[/127.0.0.1:59546] logged in with entity id 1014996 at ([world]2587.4959146183232, 62.0, -336.9181453502545)
+[00:01:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@3f924994[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:59547) lost connection: Disconnected
+[00:01:29] [User Authenticator #192/INFO]: Disconnecting /127.0.0.1:59525: Failed to verify username!
+[00:01:29] [User Authenticator #192/ERROR]: Username 'Magical7' tried to join with an invalid session
+[00:01:31] [Server thread/INFO]: qingfeng159 >> ...[m
+[00:01:32] [User Authenticator #195/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[00:01:33] [Server thread/INFO]: Twilight2033[/127.0.0.1:59554] logged in with entity id 1015524 at ([world]7065.753625347033, 64.0, -538.704785311333)
+[00:01:33] [User Authenticator #196/INFO]: UUID of player miHoYo_FuHua is 5993cb85-5924-4e1d-b969-8e62a7b337d0
+[00:01:33] [Server thread/INFO]: miHoYo_FuHua[/127.0.0.1:59550] logged in with entity id 1015663 at ([world_the_end]20002.761802214096, 119.0, 7447.674920602372)
+[00:01:34] [User Authenticator #193/INFO]: Disconnecting com.mojang.authlib.GameProfile@3cb1e878[id=<null>,name=qingfeng159,properties={},legacy=false] (/127.0.0.1:59532): Authentication servers are down. Please try again later, sorry!
+[00:01:34] [User Authenticator #193/ERROR]: Couldn't verify username because servers are unavailable
+[00:01:43] [Server thread/INFO]: Twilight2033 >> ĞÂÄê¿ìÀÖ[m
+[00:01:49] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ĞÂÄê¿ìÀÖ~[m
+[00:01:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@33c8e65c[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:59556) lost connection: Disconnected
+[00:01:56] [Server thread/INFO]: qingfeng159 >> ĞÂÄê¿ìÀÖ[m
+[00:02:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@71290996[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:59559) lost connection: Disconnected
+[00:02:08] [User Authenticator #198/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[00:02:08] [Server thread/INFO]: Magical7[/127.0.0.1:59566] logged in with entity id 1015788 at ([world]1584.0619100749855, 64.5, 887.7082897028359)
+[00:02:29] [User Authenticator #197/INFO]: Disconnecting com.mojang.authlib.GameProfile@31cd2724[id=<null>,name=Tatsu999999,properties={},legacy=false] (/127.0.0.1:59564): Authentication servers are down. Please try again later, sorry!
+[00:02:29] [User Authenticator #197/ERROR]: Couldn't verify username because servers are unavailable
+[00:02:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@31cd2724[id=<null>,name=Tatsu999999,properties={},legacy=false] (/127.0.0.1:59564) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:03:00] [User Authenticator #199/INFO]: Disconnecting com.mojang.authlib.GameProfile@81e93b9[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:59571): Authentication servers are down. Please try again later, sorry!
+[00:03:00] [User Authenticator #199/ERROR]: Couldn't verify username because servers are unavailable
+[00:03:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@81e93b9[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:59571) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:03:01] [User Authenticator #200/INFO]: UUID of player Tatsu999999 is 6f70eec2-2625-49ee-bcff-603ab702a4ae
+[00:03:01] [Server thread/INFO]: Tatsu999999[/127.0.0.1:59575] logged in with entity id 1016747 at ([world]-2059.914669600203, 69.0, 8.401618237287899)
+[00:03:09] [User Authenticator #201/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[00:03:09] [Server thread/INFO]: adhesive_tape[/127.0.0.1:59579] logged in with entity id 1016975 at ([world_the_end]-317.38911624902704, 88.01681837771294, 31140.14813050209)
+[00:03:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Å£Äê¿ìÀÖà»à»à»[m
+[00:03:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> !!!![m
+[00:03:46] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> Å£Äê¿ìÀÖ~[m
+[00:03:54] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-25.0,0.0
+[00:04:44] [User Authenticator #202/INFO]: UUID of player Laffey_Jiang is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[00:04:44] [Server thread/INFO]: Laffey_Jiang[/127.0.0.1:59589] logged in with entity id 1017740 at ([world_the_end]20002.761802214096, 119.0, 7447.674920602372)
+[00:04:57] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ±¦±´ĞÂÄê¿ìÀÖ£¡[m
+[00:05:15] [Server thread/INFO]: Laffey_Jiang issued server command: /p pay miHoYo_FuHua 200
+[00:05:18] [Server thread/INFO]: Twilight2033 >> ¿ÉÏ§ÑÌ»¨×öÉÙÁË[m
+[00:05:19] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ±¦±´ĞÂÄê¿ìÀÖ~[m
+[00:05:26] [Server thread/INFO]: Twilight2033 >> ĞÂÄê¿ìÀÖ[m
+[00:05:31] [Server thread/INFO]: Twilight2033 >> ÁïÁË[m
+[00:05:33] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[00:05:33] [Server thread/INFO]: Twilight2033 left the game
+[00:05:40] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> [0;33;22m ¸÷Î»ĞÂÄê¿ìÀÖ£¡[m
+[00:05:42] [User Authenticator #203/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[00:05:42] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:59601] logged in with entity id 1018201 at ([world]5123.433423719287, 99.0, -1066.7130311179253)
+[00:05:47] [Server thread/INFO]: YuHuaQingZhu >> ĞÂÄê¿ìÀÖ£¡[m
+[00:05:55] [Server thread/INFO]: Magical7 >> µÈÏÂÈ¥Ö÷³Ç·ÅÑÌ»¨Âğ[m
+[00:07:22] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> Ò»ÍíÉÏÉíÉÏ¶àÁË2Íò[m
+[00:07:24] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> Îßºş[m
+[00:07:29] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> w?[m
+[00:07:41] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ĞÂÄê¾ÍÊÇºÃ[m
+[00:07:43] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ä½ÔÆ¸Õ¸ÕÅäÁË¸ö1.6wµÄµçÄÔ[m
+[00:07:47] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÎÒËáÁË[m
+[00:07:51] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÓĞºì°üÄÃ[m
+[00:07:54] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> w[m
+[00:08:21] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> Ëû»¹ÎÊÁËÎÒÒ»ÏÂ[m
+[00:08:40] [User Authenticator #204/INFO]: UUID of player Shallow_dream_ is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[00:08:40] [Server thread/INFO]: Shallow_dream_[/127.0.0.1:59616] logged in with entity id 1019581 at ([world]2677.699999988079, 68.0, -377.30000001192093)
+[00:09:03] [Server thread/INFO]: Villager EntityVillager['Villager'/1019914, l='ServerLevel[world]', x=2774.35, y=63.83, z=-422.63] died, message: 'Villager suffocated in a wall'
+[00:09:06] [Server thread/INFO]: Shallow_dream_ >> ºÏÕÕÂï[m
+[00:09:18] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÄÇÎÒ»ØÀ´[m
+[00:09:24] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÔÚÄÄ[m
+[00:09:26] [Server thread/INFO]: Shallow_dream_ >> Òª²»ÒªºÏÕÕ[m
+[00:09:30] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> tapeÄãÏÖÔÚ¶àÉÙÇÊ³ále[m
+[00:09:31] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ç³ÔÆÂğ[m
+[00:09:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¾ÍÁ©[m
+[00:09:49] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ×Ü¹²[m
+[00:09:58] [Server thread/INFO]: Shallow_dream_ >> Òª²»ÒªºÏÕÕ£¿[m
+[00:10:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> 13+24[m
+[00:10:23] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÔÚÄÄºÏÕÕ[m
+[00:10:48] [Server thread/INFO]: Shallow_dream_ >> ÄãÃÇÏëÔÚÄÄÀïºÏÕÕ[m
+[00:10:53] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÎÒ18+27[m
+[00:10:54] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ¶«¶É¿ÉÒÔ[m
+[00:10:57] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ¶¼¿ÉÒÔ[m
+[00:10:58] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÎÒÃÇÆ½·ÖÒ»ÏÂ[m
+[00:11:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> hold on[m
+[00:11:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÒª»ØÈ¥ÁËÂğ[m
+[00:11:33] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> en[m
+[00:11:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄÇÎÒÒ²»á°Ñ[m
+[00:11:59] [Server thread/INFO]: qingfeng159 lost connection: Disconnected
+[00:11:59] [Server thread/INFO]: qingfeng159 left the game
+[00:12:03] [User Authenticator #205/INFO]: UUID of player qingfeng159 is 56cc75d8-e708-4898-ab75-511d9a1e4e96
+[00:12:03] [Server thread/INFO]: qingfeng159[/127.0.0.1:59643] logged in with entity id 1022182 at ([world_nether]218.89706207612295, 115.5625, 23.302194910052382)
+[00:12:45] [Server thread/INFO]: There are 8 of a max of 50 players online: Magical7, Tatsu999999, adhesive_tape, Laffey_Jiang, YuHuaQingZhu, Shallow_dream_, qingfeng159, miHoYo_FuHua
+[00:12:48] [User Authenticator #206/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[00:12:48] [Server thread/INFO]: xf998[/127.0.0.1:59655] logged in with entity id 1022833 at ([world]21.30000001192093, 66.0, 601.5303185834815)
+[00:12:56] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÔÚÄÄÔÚÄÄ[m
+[00:14:01] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode creative
+[00:14:01] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Creative Mode]
+[00:14:10] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> w![m
+[00:14:14] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÎÒÏëÒª£¡[m
+[00:14:20] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ?[m
+[00:14:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ´óÉùËµ![m
+[00:14:35] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> awa[m
+[00:14:38] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ò»»áµÄ[m
+[00:14:47] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÏÈÈ¥ºÏÕÕÀ²[m
+[00:14:53] [User Authenticator #207/INFO]: Disconnecting com.mojang.authlib.GameProfile@15a70ab1[id=<null>,name=Xiao_Hong_Mao,properties={},legacy=false] (/127.0.0.1:59666): Authentication servers are down. Please try again later, sorry!
+[00:14:53] [User Authenticator #207/ERROR]: Couldn't verify username because servers are unavailable
+[00:14:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@15a70ab1[id=<null>,name=Xiao_Hong_Mao,properties={},legacy=false] (/127.0.0.1:59666) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:15:00] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÎÒÕûÀíÒ»ÏÂ[m
+[00:15:00] [User Authenticator #208/INFO]: UUID of player Xiao_Hong_Mao is 3cb3c835-af8d-4e8b-8506-a54938079821
+[00:15:00] [Server thread/INFO]: Xiao_Hong_Mao[/127.0.0.1:59669] logged in with entity id 1024189 at ([world_nether]334.8013557278591, 115.0, -12.44343505632263)
+[00:15:14] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ö÷³Ç»¹ÊÇÇ³ÔÆ[m
+[00:15:14] [Server thread/INFO]: [0;32;1m<Ğ¡ºìÃ±>[0;37;1m Xiao_Hong_Mao >> ÄÄ¼¯ºÏ[m
+[00:15:15] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-26.0,0.0
+[00:15:22] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÎÒÏ²»¶Ç³ÔÆ[m
+[00:15:33] [Server thread/INFO]: Shallow_dream_ >> ÄÇ¾ÍÇ³ÔÆ[m
+[00:15:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ö÷³ÇÔõÃ´ºÏÕÕ...[m
+[00:15:49] [Server thread/INFO]: qingfeng159 >> Ö÷³Ç²»ÊÇ¿Õ³ÇÃ´[m
+[00:15:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÔÚºÚê×Ê¯Æ½Ì¨µÈÄã[m
+[00:16:24] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ç³ÔÆ¼¯ºÏÀ²£¡[m
+[00:16:28] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ¿ìÀ´¿ìÀ´£¡[m
+[00:16:32] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ºĞ×ÓÔÚÄãÉíÉÏ[m
+[00:16:37] [User Authenticator #209/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[00:16:37] [Server thread/INFO]: Ghost_king_[/127.0.0.1:59679] logged in with entity id 1025255 at ([world_the_end]92.4081049747592, 15.0, -0.3543532847174258)
+[00:16:38] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> xf[m
+[00:16:40] [Server thread/INFO]: [0;32;1m<Ğ¡ºìÃ±>[0;37;1m Xiao_Hong_Mao >> ËŞ¹Ü°¢ÒÌÓÖÀ´ÁË[m
+[00:16:44] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ê²Ã´ºĞ×Ó£¨[m
+[00:16:50] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> xf[m
+[00:16:57] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> Äã°ÑÎÒºĞ×ÓÎü×ßÁË2333[m
+[00:16:59] [Server thread/INFO]: [0;33;22m<ÖÜÄêÇì>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÔÚÄÄÁË[m
+[00:17:05] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ğ¡²ÌµçÄÔºÃÄãÀ´ÕÕ°É[m
+[00:17:11] [Server thread/INFO]: [0;33;22m<ÖÜÄêÇì>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÔÚÄÄÀïqwqÎÒÒ²Òª[m
+[00:17:11] [Server thread/INFO]: xf998 >> ¸Õ¸Õ¿¨ÁËÒ»ÏÂ[m
+[00:17:11] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ç³ÔÆ[m
+[00:17:32] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ËÍÄã¸öºĞ×Ó[m
+[00:17:34] [Server thread/INFO]: Shallow_dream_ >> 3177 71 584ÕâÔõÃ´Ñù[m
+[00:17:37] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÎÒ¹ıÀ´[m
+[00:17:46] [Server thread/INFO]: Laffey_Jiang issued server command: /tp Shallow_dream_
+[00:17:46] [Server thread/INFO]: [Laffey_Jiang: Teleported Laffey_Jiang to Shallow_dream_]
+[00:17:48] [Server thread/INFO]: [0;33;22m<ÖÜÄêÇì>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> À­·Æ[m
+[00:17:49] [Server thread/WARN]: Boat (vehicle of xf998) moved wrongly! 0.6252498227595069
+[00:17:57] [Server thread/INFO]: [0;33;22m<ÖÜÄêÇì>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸Ä³ÆºÅ£¡[m
+[00:17:58] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÎÒ¾õµÃ¿ÉÒÔ[m
+[00:18:06] [Server thread/INFO]: [0;33;22m<ÖÜÄêÇì>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ç°ÃæÄÇ¸ö»ÆÉ«µÄ[m
+[00:18:06] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÄãÓĞ¼¸¸ö³ÆºÅ£¨[m
+[00:18:14] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÖÜÄêÇìÄÜ¸ÄÂğ£¿[m
+[00:18:15] [Server thread/INFO]: [0;33;22m<ÖÜÄêÇì>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸Ä³É[m
+[00:18:17] [Server thread/INFO]: [0;33;22m<ÖÜÄêÇì>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÜ°¡[m
+[00:18:25] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ºÃ[m
+[00:18:27] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÎÒ»»¸ö¶Ë[m
+[00:18:29] [Server thread/INFO]: miHoYo_FuHua lost connection: Disconnected
+[00:18:29] [Server thread/INFO]: miHoYo_FuHua left the game
+[00:18:42] [Server thread/INFO]: [0;33;22m<ÖÜÄêÇì>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ç³ÔÆÔÚÕâ±ß[m
+[00:18:49] [Server thread/INFO]: qingfeng159 >> ÚÀ[m
+[00:18:53] [Server thread/INFO]: [0;33;22m<ÖÜÄêÇì>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Çå·çÒ²À´ÁËÚÀ[m
+[00:19:01] [Server thread/INFO]: qingfeng159 >> ½ñÌìÖÕÓÚÓĞÊ±¼äÍæÁË[m
+[00:19:17] [Server thread/INFO]: Laffey_Jiang issued server command: /chatc user Ghost_king_ prefix &6<É­Óï´ò²Ğ>&a<GKÓÄÁéÍõ>&f__
+[00:19:21] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ëµ¾ä»°[m
+[00:19:31] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> gk[m
+[00:19:35] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¡[m
+[00:19:37] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> awa[m
+[00:19:42] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õæ²»´Á[m
+[00:19:44] [User Authenticator #210/INFO]: UUID of player miHoYo_FuHua is 5993cb85-5924-4e1d-b969-8e62a7b337d0
+[00:19:44] [Server thread/INFO]: miHoYo_FuHua[/127.0.0.1:59696] logged in with entity id 1028027 at ([world]3051.5189347210103, 62.9375, 606.5019016643171)
+[00:20:23] [User Authenticator #211/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[00:20:23] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:59708] logged in with entity id 1028169 at ([world]1414.8104530317644, 64.0, 39.3368074433096)
+[00:20:25] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿£¿£¿[m
+[00:20:28] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ¿ìÀ´¿ìÀ´[m
+[00:20:30] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÔÚÄÄÄØ[m
+[00:20:34] [Server thread/INFO]: Shallow_dream_ >> 3177 71 584[m
+[00:20:38] [Server thread/INFO]: Shallow_dream_ >> Ç³ÔÆ[m
+[00:20:39] [Server thread/INFO]: There are 12 of a max of 50 players online: Magical7, Tatsu999999, YuHuaQingZhu, Shallow_dream_, qingfeng159, xf998, Laffey_Jiang, Xiao_Hong_Mao, Ghost_king_, adhesive_tape, miHoYo_FuHua, Li_zi_wei
+[00:20:40] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÕªĞÇ¸óÆ½Ì¨[m
+[00:21:09] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> xfµÄÆ¤·ôÎÒºÃÏë¸«Í·¿³ÉÏÈ¥£¨[m
+[00:21:11] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÎÒºÍ±¦±´ÌùÌù¿©[m
+[00:21:15] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ohhhhhh[m
+[00:21:16] [Server thread/INFO]: xf998 >> ...[m
+[00:21:21] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 2333[m
+[00:21:30] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ¿ìÀ´ÅÄÕÕÀ²£¡[m
+[00:21:32] [Server thread/INFO]: Li_zi_wei >> µÈÎÒqwq[m
+[00:21:41] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ç³ÔÆÕªĞÇ¸óÆ½Ì¨À²£¡[m
+[00:21:43] [Server thread/INFO]: Laffey_Jiang issued server command: /
+[00:22:10] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> »¹ÓĞÈËÒªÀ´Âğ[m
+[00:22:12] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÊÒ»ÏÂ[m
+[00:22:12] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÄÄ¸öÁé»ê³öÇÏµÄÉèÖÃ¼üÊÇÊ²Ã´À´×Å[m
+[00:22:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ....[m
+[00:22:15] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> äÆ[m
+[00:22:16] [Server thread/INFO]: qingfeng159 >> ....[m
+[00:22:18] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ¡£¡£¡£[m
+[00:22:18] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ²îµãËÀÁË[m
+[00:22:18] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> k[m
+[00:22:26] [Server thread/INFO]: xf998 >> ÎÒ²îµãÃ»ÁË[m
+[00:22:37] [Server thread/INFO]: qingfeng159 >> ...[m
+[00:22:41] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ë­ÓĞ½ğÂÜ²·¸øÒ»µãqwq[m
+[00:22:49] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ë®¾§¸øÎÒÊÕÁË£¡[m
+[00:22:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m
+[00:22:55] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Õ¨ÁË×Ô¼ºĞŞ£¡[m
+[00:22:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en[m
+[00:23:00] [Server thread/WARN]: Magical7 moved too quickly! 0.0031701054897439462,-21.0,-0.011098191049995876
+[00:23:00] [Server thread/INFO]: Li_zi_wei >> àâàâßË[m
+[00:23:14] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[00:23:14] [Server thread/INFO]: Li_zi_wei left the game
+[00:23:14] [Server thread/INFO]: Shallow_dream_ >> Ë­·ÅµÄqwq[m
+[00:23:43] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> µÈÏÂlzw[m
+[00:23:46] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> À­·Æ²»»áÊÇÍü¼ÇÁË[m
+[00:23:49] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ?[m
+[00:23:55] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ë®¾§µÄÓ¢ÎÄ°É[m
+[00:23:56] [User Authenticator #212/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[00:23:56] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:59725] logged in with entity id 1030089 at ([world]3186.5630273115153, 72.0, 581.3000000119209)
+[00:24:02] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÕâÃ´¾Ã¶¼»¹Ã»killµôË®¾§[m
+[00:24:05] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ?[m
+[00:24:10] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÎÒÈ·ÊµÍüÁË[m
+[00:24:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ender_crystall[m
+[00:24:25] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> Õ¾ºÃ¿©[m
+[00:24:36] [Server thread/INFO]: Laffey_Jiang issued server command: /kill ender_crystall
+[00:24:39] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> emmÎÒÕâÀï±³¹âÊ²Ã´¹í£¨[m
+[00:24:44] [Server thread/INFO]: Laffey_Jiang issued server command: /kill ender_crystall
+[00:24:45] [Server thread/INFO]: qingfeng159 >> ...[m
+[00:24:49] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÃÇ²»±³¹âÂï[m
+[00:24:54] [Server thread/INFO]: qingfeng159 >> ÕâÀï»¹ÓĞ±³¹âÎÊÌâÃ´[m
+[00:24:59] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ºÃÁËÂï[m
+[00:25:00] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÊÇÓĞµã±³¹â[m
+[00:25:03] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¿ªÁË¹âÓ°»á°¡[m
+[00:25:08] [Server thread/INFO]: qingfeng159 >> ..[m
+[00:25:10] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> w[m
+[00:25:11] [Server thread/INFO]: qingfeng159 >> ÄÇÃ»ÊÂÁË[m
+[00:25:14] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ¿ÉÒÔÊÔÊÔÍíÉÏ[m
+[00:25:15] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÄÇÔõÃ´°ì[m
+[00:25:15] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µ½ºóÃæÈ¥°É[m
+[00:25:20] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÍøÉÏÒ²±³¹â[m
+[00:25:28] [Server thread/INFO]: qingfeng159 >> ..[m
+[00:25:32] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> emmmm[m
+[00:25:45] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÄÇ¾Í»¹ÊÇº½Ä¸ÉÏ£¿[m
+[00:25:46] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ã²ËÆÒ²ÓĞÒ»µã[m
+[00:25:49] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µÈÏÂÎç°É[m
+[00:25:52] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ×æ´«ÅÄÕÕµØµã£¨[m
+[00:26:31] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> È¥ÄÄ[m
+[00:26:41] [Server thread/INFO]: Shallow_dream_ >> º½Ä¸ßÂ[m
+[00:26:42] [Server thread/INFO]: Li_zi_wei >> ¡¶ÎÒ ÔÚ ÎÒ l p ÉÏ Ãæ ºÍ ±ğ µÄ ÄĞ ÈË ºÏ Ó°¡·[m
+[00:26:47] [Server thread/INFO]: qingfeng159 >> ?[m
+[00:26:49] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> º½Ä¸ÊÔÊÔ£¨[m
+[00:26:56] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ±¦±´¿ìÀ´[m
+[00:26:59] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> Ğ»Ğ»[m
+[00:27:11] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-25.423978185671473,-0.010272521320644046
+[00:28:01] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> tapeÄØ[m
+[00:28:02] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> m7Ñ¤°¡[m
+[00:28:03] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-25.650265573194453,0.0
+[00:28:27] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> awa[m
+[00:28:50] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[00:28:50] [Server thread/INFO]: Magical7 left the game
+[00:28:57] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ºÃÁË[m
+[00:29:07] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ĞÂÄê¿ìÀÖ£¡[m
+[00:29:14] [Server thread/INFO]: Laffey_Jiang issued server command: /p me
+[00:29:21] [Server thread/INFO]: Shallow_dream_ >> ĞÂÄê¿ìÀÖ[m
+[00:29:23] [Server thread/INFO]: Laffey_Jiang issued server command: /p pay miHoYo_FuHua 200
+[00:29:26] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ĞÂÄê¿ìÀÖ~[m
+[00:29:28] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> awa[m
+[00:29:32] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¹şÅúÅ£Ò®£¡[m
+[00:29:33] [Server thread/INFO]: Li_zi_wei issued server command: /qd
+[00:29:33] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mLi_zi_wei [0;33;22mÄ¿Ç°ÓĞ [0;32;1m68 [0;33;22m¹±Ï×µãÊı[m
+[00:29:47] [Server thread/INFO]: Li_zi_wei >> ĞÂÄê¿ìÀÖ£¡[m
+[00:29:51] [Server thread/INFO]: qingfeng159 >> ĞÂÄê¿ìÀÖ[m
+[00:30:08] [User Authenticator #213/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[00:30:08] [Server thread/INFO]: Magical7[/127.0.0.1:59749] logged in with entity id 1031006 at ([world]3144.3911100380783, 79.0, 633.9841160810679)
+[00:30:21] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ·¢ÅóÓÑÈ¦£¡[m
+[00:30:24] [Server thread/INFO]: Shallow_dream_ lost connection: Disconnected
+[00:30:24] [Server thread/INFO]: Shallow_dream_ left the game
+[00:30:24] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> awa[m
+[00:30:24] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-26.075460679448653,-0.013348470951655145
+[00:30:44] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> »°ËµÕâ¸öË®¾§ÔõÃ´´¦Àí£¨[m
+[00:30:50] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> kill @e[m
+[00:30:54] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÎÒkill ²»µô£¨[m
+[00:30:55] [Server thread/INFO]: Li_zi_wei >> Ë®Á÷£¿[m
+[00:31:02] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ´ó±¯[m
+[00:31:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÈÃ¿ª[m
+[00:31:12] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> kill @[m
+[00:31:19] [Server thread/INFO]: qingfeng159 lost connection: Disconnected
+[00:31:19] [Server thread/INFO]: qingfeng159 left the game
+[00:31:24] [User Authenticator #214/INFO]: UUID of player qingfeng159 is 56cc75d8-e708-4898-ab75-511d9a1e4e96
+[00:31:24] [Server thread/INFO]: qingfeng159[/127.0.0.1:59765] logged in with entity id 1031184 at ([world_nether]370.9456037703515, 116.0, 24.83650062980514)
+[00:31:32] [Server thread/INFO]: Li_zi_wei >> tape:Ê²Ã´»¨ÀïºúÉÚ[m
+[00:31:37] [Server thread/INFO]: qingfeng159 lost connection: Disconnected
+[00:31:37] [Server thread/INFO]: qingfeng159 left the game
+[00:31:39] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ahhhhhh[m
+[00:31:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m
+[00:31:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»Ğ¡ĞÄÔú»µÁË[m
+[00:31:59] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> kill @e[type=ender_cycstal[m
+[00:32:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒĞŞÒ»ĞŞ[m
+[00:32:03] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[00:32:03] [Server thread/INFO]: YuHuaQingZhu left the game
+[00:32:07] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> tape[m
+[00:32:17] [Server thread/INFO]: Xiao_Hong_Mao lost connection: Disconnected
+[00:32:17] [Server thread/INFO]: Xiao_Hong_Mao left the game
+[00:33:08] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²İ[m
+[00:33:12] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> º¾ÎŞÈËĞÔ£¨[m
+[00:33:21] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> awa[m
+[00:33:22] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> Òª¾ÍÄÃ°É[m
+[00:33:32] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-26.100461579744625,0.0
+[00:33:41] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ğ¡²ÌËÍµÄĞÂÄêÀñÎïÂï[m
+[00:33:46] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ğ¡²ÌÊ²Ã´Ê±ºòÈ¥ÌÍµÄÄ©µØ£¨[m
+[00:33:50] [Server thread/INFO]: xf998 has made the advancement [Into Fire]
+[00:33:56] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ±¦±´¸Õ´ÓÄ©µØ»ØÀ´°¢[m
+[00:33:58] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> awa[m
+[00:34:02] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿£¿£¿£¿£¿[m
+[00:34:12] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Õ¦ÁË[m
+[00:34:17] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ò»Ö±¶¼ÔÚÄ©µØ£¿£¿£¿£¿£¿£¿£¿[m
+[00:34:23] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-26.625000149014355,0.0
+[00:34:26] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÒòÎªÃ»ÊÂ¸É2333[m
+[00:34:34] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> »°ËµÖÜÄêÇìÎªÊ²Ã´ÒªºÍ¹ÜÀíÒ»¸öÑÕÉ«°¢£¨[m
+[00:34:46] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µ±Äêtape£ºÎÒÎŞÁÄ ÕÒÁËÒ»ºĞ×ÓÇÊ³á[m
+[00:35:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ´ó¶à·ÖÈËÁË[m
+[00:35:31] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²İ Õâ¸ö»ÃÒíÖ»´òÎÒ£¨[m
+[00:35:33] [User Authenticator #215/INFO]: Disconnecting com.mojang.authlib.GameProfile@1f6d58e8[id=<null>,name=YuHuaQingZhu,properties={},legacy=false] (/127.0.0.1:59784): Authentication servers are down. Please try again later, sorry!
+[00:35:33] [User Authenticator #215/ERROR]: Couldn't verify username because servers are unavailable
+[00:35:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f6d58e8[id=<null>,name=YuHuaQingZhu,properties={},legacy=false] (/127.0.0.1:59784) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:35:38] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÎÒ×¼±¸×Ô¼ºÁôÒ»ºĞÆäËûµÄ¶¼·Ö³öÈ¥[m
+[00:35:40] [User Authenticator #216/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[00:35:40] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:59788] logged in with entity id 1032828 at ([world]3009.0753369151416, 63.0, 594.0482659220391)
+[00:36:40] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> lzw¿ÕÖĞÕ¶»ÃÒí2333[m
+[00:36:46] [Server thread/INFO]: Li_zi_wei >> ²İ£¨[m
+[00:38:08] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÕâ¼üÅÌÔõÃ´ÀÏÊÇ¿¨×¡£¨[m
+[00:38:14] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> »»Ò»¸ö[m
+[00:38:24] [Server thread/INFO]: xf998 was blown up by Creeper
+[00:38:30] [Server thread/INFO]: Li_zi_wei >> ²»ÁĞµß¿ÕÕ½[m
+[00:38:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ĞŞºÃÁË[m
+[00:39:13] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÄãÃÇÄÃµÄºÃ¿ì¹ş¹ş¹ş[m
+[00:39:29] [Server thread/INFO]: Li_zi_wei >> Ï´ ½Ù[m
+[00:39:41] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÒªÊÇÎÒ[m
+[00:39:44] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÖ±½Ó[m
+[00:39:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã²»ÊÇËµÒªºÍÎÒÆ½·ÖÇÊ³áÀ´×Å?[m
+[00:39:51] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> Õû¸öºĞ×Ó²ğ×ß¿É»¹ĞĞ[m
+[00:39:52] [Server thread/INFO]: Li_zi_wei >> ²İ£¿£¿£¿[m
+[00:39:57] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÏÖÔÚ±»Ï´½ÙÁË[m
+[00:40:01] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 23333[m
+[00:40:05] [Server thread/INFO]: Li_zi_wei >> °¡[m
+[00:40:09] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> 9+27[m
+[00:40:13] [Server thread/INFO]: Li_zi_wei >> ´ò´íÁË¶Ô²»Æğ[m
+[00:40:23] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Î´À´Ò»Äê¹À¼Æ²»È±ÇÊ³á£¨[m
+[00:40:48] [Server thread/INFO]: xf998 was shot by Stray
+[00:40:55] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> lzwÒ»ÄÃÄÃÒ»ÅÅ[m
+[00:40:57] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÕæÊµ[m
+[00:41:01] [Server thread/INFO]: Li_zi_wei >> ([m
+[00:41:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄÇÎÒĞÂÄêÒ²·¢·¢ÇÊ³áºÃÁË[m
+[00:41:17] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> lzw£ºÕâ¾ÍÊÇÄãÈÃÎÒÉçËÀµÄÔ­Òò£¿[m
+[00:41:23] [Server thread/INFO]: Li_zi_wei >> ÏÂ±²×ÓµÄ²Ğº¡ÓÃÁ¿£¿[m
+[00:41:24] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ´íÁË[m
+[00:41:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×Ô¼ºÄÃ°É[m
+[00:41:41] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÇÎÒ·¢²Ğº¡°É[m
+[00:41:49] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ¾ÍÈ±ÇÊ³á ÆäËû¶¼²»È±qwq[m
+[00:41:55] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ±¦±´°ÑÎÒºĞ×ÓÎü×ßÁË[m
+[00:42:09] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÄÃÄãÈı±¾ÄÍ¾ÃÈıqwq£©[m
+[00:42:12] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ²»»áÖ±½ÓÎŞÁË°É[m
+[00:42:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[00:42:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ëæ±ãÄÃ[m
+[00:42:27] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> È»ºóÀ­·Æ·´ÊÖÒ»¸ö[m
+[00:42:31] [Server thread/INFO]: Li_zi_wei >> »ÃÒí£¬ºÍÎÒ´ò¿ÕÕ½£¡[m
+[00:42:33] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Çå³ıËùÓĞÎïÆ·[m
+[00:42:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»ĞĞ[m
+[00:42:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÉäËû[m
+[00:43:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄÄ¸öĞ¡¿É°®ÏëÒªÇÊ³áµÄ¸úÎÒËµ¹ş[m
+[00:43:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ò»ÈË×î¶àÒ»¸ö[m
+[00:43:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> »¹ÓĞ8¸ö[m
+[00:43:58] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÎÒÈ¥ÈºÀïËµ°ÉÒª²»[m
+[00:44:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> aaz[m
+[00:44:34] [User Authenticator #217/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[00:44:34] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:59821] logged in with entity id 1037124 at ([world]1879.1429859772593, 70.0, 6007.161969977348)
+[00:45:13] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> 2333[m
+[00:45:39] [Server thread/INFO]: xf998 >> ÎÒÃÇ·şÓĞÖíÈËËşÂğ[m
+[00:45:46] [Server thread/INFO]: Li_zi_wei >> ±¨¸æÖ¸»Óß÷£¬À­·ÆÒÑ¾­ÏÂº£ÁËß÷~¿ÉÒÔÔË¶¯ÁËß÷~[m
+[00:45:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄÇ±ØÑ§µÄ[m
+[00:45:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄÇ±ØĞëÓĞ[m
+[00:45:54] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÓĞ[m
+[00:45:56] [Server thread/INFO]: xf998 >> ÔÚÄÄ[m
+[00:46:09] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 500¶«±ß[m
+[00:46:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã»¹ÓĞ¶àÉÙÇÊ³á[m
+[00:46:21] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ·¢ºÏ½ğ ÎÒÌ«ÇîÁË£©[m
+[00:46:27] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ö»ÄÜ·¢ºÏ½ğÁË[m
+[00:46:27] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ·¢·ÅµÄ»°ÎÒ»¹ÓĞ°Ë¸ö[m
+[00:46:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> æÎ3¸öºÏ½ğ[m
+[00:46:47] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> tapeÄã±ğ°ÑËûºÏÒ»Æğqwq[m
+[00:46:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> 23333[m
+[00:46:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ğ»Ğ»gk[m
+[00:47:06] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> æÎÁ½¸ö¿é~[m
+[00:47:06] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> lzw¿´ÎÒ¶ªÁË¸ö¶«Î÷[m
+[00:47:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ·¢µÄ»°ÎÒ»¹ÓĞ7¸ö[m
+[00:47:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> 23333[m
+[00:47:11] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¶ş»°²»ËµÖ±½Ó¼ñ×ß[m
+[00:47:15] [Server thread/INFO]: Li_zi_wei >> 2333[m
+[00:47:18] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ¶ªÁË¸öÂ¥Ìİ2333[m
+[00:47:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Òª²»Äã°ïÎÒÔì°Ñ¹­[m
+[00:47:37] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> w[m
+[00:47:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÔÙ¸øÄãµã¿Ç[m
+[00:47:48] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Òª²»È»·¢¹±Ï×µã°É£¡[m
+[00:47:48] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ£¿[m
+[00:47:54] [Server thread/INFO]: Li_zi_wei >> ºÃÒ®£¡[m
+[00:47:57] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ±¦±´ÎÒµÄºĞ×Ó[m
+[00:47:59] [Server thread/INFO]: Laffey_Jiang issued server command: /p me
+[00:47:59] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ºÃÒ®£¡[m
+[00:48:02] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ±»ÄãÎü×ßÁË[m
+[00:48:12] [Server thread/INFO]: Laffey_Jiang issued server command: /p
+[00:48:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸Ã»»Æ¤·ôÁË[m
+[00:48:35] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[00:48:39] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÓĞÊ®¸öÈËµÄ»°......[m
+[00:48:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ·¢¹±Ï×µãÒ®[m
+[00:48:51] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-1970.205627923974,0.0
+[00:48:51] [Server thread/INFO]: Li_zi_wei >> Ã¿ÈË20.21¹±Ï×£¨[m
+[00:48:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ohhhhh[m
+[00:48:55] [Server thread/INFO]: Laffey_Jiang issued server command: /p giveall 8
+[00:48:56] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ò®[m
+[00:49:01] [Server thread/INFO]: Laffey_Jiang issued server command: /p me
+[00:49:01] [Server thread/INFO]: Li_zi_wei >> ºÃÒ®£¡[m
+[00:49:03] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ºÃÒ®[m
+[00:49:03] [Server thread/INFO]: xf998 >> ohhh[m
+[00:49:08] [Server thread/INFO]: adhesive_tape issued server command: /qd
+[00:49:08] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1madhesive_tape [0;33;22mÄ¿Ç°ÓĞ [0;32;1m74 [0;33;22m¹±Ï×µãÊı[m
+[00:49:09] [Server thread/INFO]: adhesive_tape issued server command: /p me
+[00:49:10] [Server thread/INFO]: Laffey_Jiang issued server command: /p set me 0
+[00:49:14] [Server thread/INFO]: Magical7 >> nice[m
+[00:49:14] [Server thread/WARN]: xf998 moved too quickly! -0.16418365855857076,1.1661092609382138,13.533839584147778
+[00:49:14] [Server thread/INFO]: adhesive_tape issued server command: /p lead
+[00:49:14] [Server thread/WARN]: Ttu_nnm moved too quickly! -5.054359282412406,0.001335979112141672,-14.130855587945604
+[00:49:15] [Server thread/INFO]: Li_zi_wei issued server command: /p me
+[00:49:17] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ±¦±´»ØÍ·ÔÚÈºÀïËµÒ»ÏÂ£¬ÎÒºÍtapeÔÚ·¢·ÅÇÊ³á×Ü¹²15¸ö£¬Ò»ÈË×î¶àÒ»¸ö[m
+[00:49:20] [Server thread/INFO]: Laffey_Jiang issued server command: /p set Laffey_Jiang 0
+[00:49:44] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÊÇÓÃÎÒ×Ô¼ºµÄ¹±Ï×µã·¢µÄ£¨[m
+[00:49:50] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ò»¹²¾ÍÊ£80ÁË£¨[m
+[00:49:54] [Server thread/INFO]: miHoYo_FuHua issued server command: /playerpoints:p
+[00:49:54] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ËùÒÔÊÇupµÄ2333[m
+[00:50:01] [Server thread/INFO]: miHoYo_FuHua issued server command: /points me
+[00:50:04] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> upµÄÎÒ¸øĞ¡²ÌÁË£¨[m
+[00:50:07] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Laffey´ó·½awa£¡£¡£¡[m
+[00:50:10] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> 444µã..[m
+[00:50:16] [Server thread/WARN]: Magical7 moved too quickly! -0.011258680041464686,-27.25046524338837,0.0
+[00:50:19] [Server thread/INFO]: Magical7 issued server command: /qd
+[00:50:19] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mMagical7 [0;33;22mÄ¿Ç°ÓĞ [0;32;1m63 [0;33;22m¹±Ï×µãÊı[m
+[00:50:24] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> µ«ÊÇÎÒ»¹ÊÇ²»ÖªµÀÕâ ¹±Ï×µãÓĞÊ²Ã´ÓÃ[m
+[00:50:26] [Server thread/INFO]: Magical7 issued server command: /p
+[00:50:34] [Server thread/INFO]: Magical7 issued server command: /p l
+[00:50:37] [Server thread/INFO]: Magical7 issued server command: /p lead
+[00:50:46] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Íæ¼Ò¼ä¿ÉÒÔ×÷Îª»õ±Ò[m
+[00:50:58] [Server thread/INFO]: Li_zi_wei >> ¸øÎÒ200 ÎÒ¾Í¿ÉÒÔÈ¥¸ãÒ»¸öÂÌÉ«Í·ÏÎ[m
+[00:51:02] [Server thread/INFO]: Li_zi_wei >> ((([m
+[00:51:11] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Íæ¼Ò¹ÜÀí¼ä¿ÉÒÔ¹ºÂò/¸ü¸Ä³ÆºÅ[m
+[00:51:17] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »òÕß»ñµÃ»Øµµ×Ê¸ñ[m
+[00:51:22] [Server thread/INFO]: miHoYo_FuHua issued server command: /points pay Li_zi_wei 200
+[00:51:29] [Server thread/INFO]: Li_zi_wei >> ???[m
+[00:51:33] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> »Øµµ£¿[m
+[00:51:40] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¶Ô ¿ÉÒÔ»Ø[m
+[00:51:41] [Server thread/INFO]: Li_zi_wei >> ÀÏ°å´óÆø[m
+[00:51:53] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> lzwÄã²»ÊÇÄÚ²àÂï[m
+[00:51:56] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-25.725000103792425,0.0
+[00:51:57] [Server thread/INFO]: miHoYo_FuHua issued server command: /points
+[00:51:59] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÚ²âÊÇ50Ñ½[m
+[00:52:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> (¹Ò»úÏ´Ôè)[m
+[00:52:04] [Server thread/INFO]: Li_zi_wei >> ?[m
+[00:52:08] [Server thread/INFO]: Li_zi_wei >> É¶£¿[m
+[00:52:09] [Server thread/INFO]: miHoYo_FuHua issued server command: /points lead
+[00:52:28] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÚ²âÊ±×ÊÖú1rmb=1µãÊı[m
+[00:52:37] [Server thread/INFO]: Li_zi_wei >> àÅ¶Ô[m
+[00:53:00] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> È»ºó×ÊÖú´ï50rmb¿ÉÒÔ»»Ò»¸öÂÌÉ«µÄ[m
+[00:53:08] [Server thread/INFO]: Li_zi_wei >> ÎÒÃ»µ½£¨[m
+[00:53:11] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ×Ô¶¨Òå 8×Ö·û[m
+[00:53:12] [Server thread/INFO]: Li_zi_wei >> ÎÒ20£¨[m
+[00:53:15] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Å¶ÄÇÃ»ÊÂÁË[m
+[00:53:19] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÄÇÃ»ÊÂÁË[m
+[00:53:27] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒµ±Ê±Á½¸öºÅ[m
+[00:53:35] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÎÒÒªÊÇ²»°ÑµãÊı¸ølzw¾ÓÈ»ÊÇµÚÒ»¿É»¹ĞĞ[m
+[00:53:45] [Server thread/INFO]: Ghost_king_ issued server command: /p lead
+[00:53:53] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¡£¿[m
+[00:53:58] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ¾ÓÈ»ÓĞ408¸ö£¿[m
+[00:53:58] [Server thread/INFO]: Tatsu999999 lost connection: Disconnected
+[00:53:58] [Server thread/INFO]: Tatsu999999 left the game
+[00:54:04] [Server thread/INFO]: xf998 issued server command: /p
+[00:54:09] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÇ»¬»üÔÚ¸øÎÒ8¸öÖ®Ç°[m
+[00:54:13] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÊÇ400¸ö[m
+[00:54:15] [Server thread/INFO]: xf998 issued server command: /points lead
+[00:54:16] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ºÃÕûÆëqwq[m
+[00:54:17] [Server thread/INFO]: Laffey_Jiang issued server command: /w
+[00:54:19] [Server thread/INFO]: xf998 issued server command: /p
+[00:54:20] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> w[m
+[00:54:22] [Server thread/INFO]: Li_zi_wei >> qwq[m
+[00:54:23] [Server thread/INFO]: Laffey_Jiang issued server command: /p
+[00:54:26] [Server thread/INFO]: xf998 issued server command: /points me
+[00:54:33] [Server thread/INFO]: Laffey_Jiang issued server command: /p lead
+[00:54:35] [Server thread/INFO]: Li_zi_wei >> ÎÒÀ´ÕÒÀ­·ÆÒªÍ·ÏÎqwq[m
+[00:54:45] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ×ßÁË ÕÒ¸öµØ·½Ë¯Ò»¾õqwq[m
+[00:55:01] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> µãÈÆÁËÒ»È¦»Øµ½ÁËËûÄÇ[m
+[00:55:02] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[00:55:02] [Server thread/INFO]: Ttu_nnm left the game
+[00:55:16] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> È»ºóÒª²Ğº¡µÄÀ´µØÓü½»Í¨º£¾§Õ¾[m
+[00:55:26] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÎÒÏÈÏÂ¿©[m
+[00:55:29] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> Íí°²Å¶~[m
+[00:55:35] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ±¦±´ÔÙ¼û£¡[m
+[00:55:36] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> µÈ»áÓĞ¿ÎÁË[m
+[00:55:40] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ´²ÉÏµÈÎÒ£¡[m
+[00:55:50] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ¿´ÄãµÈ²»µÈµÃµ½ÎÒ¿©[m
+[00:55:51] [Server thread/INFO]: Li_zi_wei >> qwq[m
+[00:55:56] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> µÈµÃµ½£¡[m
+[00:56:00] [Server thread/INFO]: miHoYo_FuHua lost connection: Disconnected
+[00:56:00] [Server thread/INFO]: miHoYo_FuHua left the game
+[00:56:12] [Server thread/INFO]: Li_zi_wei >> »¬»üÍ·ÏÎÔõÃ´»»qwq[m
+[00:58:36] [User Authenticator #218/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[00:58:36] [Server thread/INFO]: TMN_233[/127.0.0.1:59872] logged in with entity id 1042403 at ([world]2688.4668320125743, 63.5, -362.17365599546355)
+[00:58:41] [Server thread/INFO]: TMN_233 issued server command: /qd
+[00:58:41] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mTMN_233 [0;33;22mÄ¿Ç°ÓĞ [0;32;1m3 [0;33;22m¹±Ï×µãÊı[m
+[00:59:00] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[00:59:03] [Server thread/INFO]: Ghost_king_ issued server command: /qd
+[00:59:03] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mGhost_king_ [0;33;22mÄ¿Ç°ÓĞ [0;32;1m410 [0;33;22m¹±Ï×µãÊı[m
+[00:59:04] [Server thread/INFO]: Laffey_Jiang issued server command: /qd
+[00:59:04] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mLaffey_Jiang [0;33;22mÄ¿Ç°ÓĞ [0;32;1m2 [0;33;22m¹±Ï×µãÊı[m
+[00:59:06] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ºÃµÄ[m
+[00:59:11] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 410¸öµãÊı[m
+[00:59:16] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ºÜÊæ·ş[m
+[00:59:18] [Server thread/INFO]: Magical7 issued server command: /co i
+[00:59:31] [Server thread/INFO]: xf998 issued server command: /co i
+[00:59:32] [Server thread/INFO]: Magical7 issued server command: /co i
+[00:59:41] [Server thread/INFO]: xf998 issued server command: /co inspect
+[01:00:04] [User Authenticator #219/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[01:00:04] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:59880] logged in with entity id 1043303 at ([world_the_end]194.5882450589203, 41.0, -312.5673453753143)
+[01:00:14] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °´ÕÕ[m
+[01:00:20] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °´ÕÕ[m
+[01:00:22] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[01:00:33] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ?[m
+[01:00:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡Õâ[m
+[01:00:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ¹ÇÕÛ»úÍâÃæÕ¦ÓĞ¸ö´åÃñ[m
+[01:01:13] [Server thread/INFO]: TMN_233 issued server command: /p
+[01:01:24] [Server thread/INFO]: TMN_233 issued server command: /p pay Li_zi_wei 4
+[01:01:26] [Server thread/INFO]: Villager EntityVillager['Fisherman'/1762, l='ServerLevel[world_the_end]', x=187.20, y=2.00, z=-329.82] died, message: 'Fisherman hit the ground too hard'
+[01:01:26] [Server thread/INFO]: TMN_233 issued server command: /p pay Li_zi_wei 3
+[01:01:33] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÏÖÔÚËûÃ»ÁË[m
+[01:01:38] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[01:01:38] [Server thread/INFO]: TMN_233 left the game
+[01:01:54] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> É­Óï[m
+[01:01:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ???[m
+[01:02:01] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> É¶Ê±ºò¸øÄ©µØ¹ÇÕÛ»ú[m
+[01:02:03] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸øËû[m
+[01:02:05] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> lz[m
+[01:02:05] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãÕâÉ¶Í·ÏÎ[m
+[01:02:09] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¼Ó¼¸¸öÅÆ×ÓºÍ·ÖÀà[m
+[01:02:12] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 2333333[m
+[01:02:13] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> lzwÒªÉ¶Í·ÏÎ[m
+[01:02:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[01:02:30] [Server thread/INFO]: Li_zi_wei >> ÈÃÎÒÏëÏë£¨[m
+[01:02:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»¿Õ[m
+[01:02:50] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ½¨Òé¡°gk´ò²Ğ¡±[m
+[01:02:50] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ã»¿Õ£¿[m
+[01:02:58] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÇ¾Í°ÉÉ­Óï´ò²Ğ£¨£¡[m
+[01:03:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÕâÁ½Ìì¶¼Ã»ÉÏÏß[m
+[01:03:20] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãÈ¥°ÑÏÂÃæµØ°å¶ÑÂúÏä×ÓÎÒ¾ÍÈ¥[m
+[01:03:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¾ÍÖªµÀÆÈº¦ÎÒ[m
+[01:03:54] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÏÂÁË[m
+[01:03:57] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[01:03:57] [Server thread/INFO]: Magical7 left the game
+[01:03:58] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> qwq[m
+[01:04:04] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »ØÈ¥°ïÄãÆÌ¹şawa[m
+[01:04:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºÇ[m
+[01:04:16] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¹Ô£¨[m
+[01:04:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> qwq[m
+[01:04:23] [Server thread/INFO]: xf998 lost connection: Disconnected
+[01:04:23] [Server thread/INFO]: xf998 left the game
+[01:04:23] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»¹Ô[m
+[01:04:30] [Server thread/INFO]: Li_zi_wei >> <·şÀ×ÄªÁåÉ­³ø>[m
+[01:04:41] [Server thread/INFO]: Li_zi_wei >> @Laffey[m
+[01:04:50] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ?[m
+[01:04:51] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÇÊ³áÄØ2333[m
+[01:04:55] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 8×Ö·û[m
+[01:05:00] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÕâ12¸öÁË[m
+[01:05:00] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ³ÆºÅ¿ÉÒÔÓĞÕâÃ´³¤ Âğ£¨[m
+[01:05:01] [Server thread/INFO]: Li_zi_wei >> Å¶×Ö·û°¡[m
+[01:05:20] [Server thread/INFO]: Li_zi_wei >> À×ÄªÁåÉ­ ¹»ÁË£¨[m
+[01:05:39] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> À­·Æ½´[m
+[01:05:44] [Server thread/INFO]: Li_zi_wei issued server command: /p pay Laffey_Jiang 200
+[01:05:44] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[01:05:44] [Server thread/INFO]: YuHuaQingZhu left the game
+[01:05:45] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÊ²Ã´Ê±ºòÎÊÒ»ÏÂxl[m
+[01:05:51] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÎÊÉ¶[m
+[01:06:09] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¾ÍËµºìÊ¯ÏµµÄÄÇ¸ö ½¨ÖşÌá½»[m
+[01:06:14] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ê²Ã´Ê±ºòÍêÉÆ£¨[m
+[01:06:15] [Server thread/INFO]: Li_zi_wei issued server command: /p lead
+[01:06:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËùÒÔÎÒÉÏÏß¸ÉÂï[m
+[01:06:17] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> emmm[m
+[01:06:19] [Server thread/INFO]: Li_zi_wei issued server command: /p lead 0
+[01:06:29] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> xl[m
+[01:06:36] [Server thread/INFO]: Li_zi_wei issued server command: /p pay miHoYo_FuHua 80
+[01:06:58] [User Authenticator #220/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[01:07:02] [User Authenticator #221/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[01:07:15] [User Authenticator #222/INFO]: UUID of player Laffey_Jiang is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[01:07:25] [User Authenticator #223/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[01:07:29] [User Authenticator #224/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[01:07:30] [User Authenticator #225/INFO]: UUID of player Laffey_Jiang is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[01:07:39] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:39] [Spigot Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Spigot bug.
+[01:07:39] [Spigot Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
+[01:07:39] [Spigot Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
+[01:07:39] [Spigot Watchdog Thread/ERROR]: If you are unsure or still think this is a Spigot bug, please report to https://www.spigotmc.org/
+[01:07:39] [Spigot Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[01:07:39] [Spigot Watchdog Thread/ERROR]: Spigot version: git-Spigot-37d799b-3eb7236 (MC: 1.16.4)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:39] [Spigot Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Spigot!):
+[01:07:39] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:39] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 	PID: 20 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		com.evilmidget38.UUIDFetcher.writeBody(UUIDFetcher.java:60)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		com.evilmidget38.UUIDFetcher.call(UUIDFetcher.java:43)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.PlayerPoints.translateNameToUUID(PlayerPoints.java:247)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.commands.PayCommand.execute(PayCommand.java:73)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.services.CommandHandler.onCommand(CommandHandler.java:130)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:758)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:1788)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1631)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1584)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:1)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnectionUtils$$Lambda$4306/677594473.run(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:941)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:934)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:918)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:850)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3176/1573666695.run(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:39] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:39] [Spigot Watchdog Thread/ERROR]: Entire Thread Dump:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Keep-Alive-Timer
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 8227 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.http.KeepAliveCache.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Async Chat Thread - #162
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 8214 | Suspended: false | Native: false | State: WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_16_R3.util.Waitable.get(Waitable.java:40)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnection.chat(PlayerConnection.java:1744)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1648)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1586)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PacketPlayInChat$1.run(PacketPlayInChat.java:41)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.FutureTask.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Async Chat Thread - #161
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 8184 | Suspended: false | Native: false | State: WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_16_R3.util.Waitable.get(Waitable.java:40)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnection.chat(PlayerConnection.java:1744)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1648)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1586)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PacketPlayInChat$1.run(PacketPlayInChat.java:41)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.FutureTask.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: pool-5-thread-9
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 7931 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.SynchronousQueue.poll(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-2177
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 7727 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-2104
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 7361 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-2072
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 7218 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.AppInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.BufferedInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.AppInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.fill(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read1(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:334)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-2038
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 7072 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-1597
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 5323 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-1569
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 5263 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-1411
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 4855 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-1169
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 4174 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-1142
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 4131 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-943
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 3820 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:334)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-913
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 3776 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-884
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 3729 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-852
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 3618 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-610
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 2132 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-378
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 1507 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-306
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 1204 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-23
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 120 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Craft Scheduler Thread - 0
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 66 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.URL.openStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.anjocaido.groupmanager.utils.UpdateChecker.lambda$getVersion$0(UpdateChecker.java:24)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.anjocaido.groupmanager.utils.UpdateChecker$$Lambda$3737/249824787.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-20
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 65 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.BufferedInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.fill(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read1(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.HttpURLConnection.getResponseCode(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.thread.CheckUpdate.run(CheckUpdate.java:95)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #3
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 64 | Suspended: false | Native: false | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.select(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #2
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 63 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.select(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #1
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 62 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.select(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: pool-6-thread-1
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 61 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: pool-5-thread-3
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 59 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		me.neznamy.tab.shared.cpu.CPUManager$4.run(CPUManager.java:116)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.FutureTask.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: pool-5-thread-2
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 58 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		me.neznamy.tab.shared.cpu.CPUManager$4.run(CPUManager.java:116)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.FutureTask.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: pool-5-thread-1
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 57 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		me.neznamy.tab.shared.cpu.CPUManager$1.run(CPUManager.java:44)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.FutureTask.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: HikariPool-1 housekeeper
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 53 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: HSQLDB Timer @7da241f0
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 52 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		me.leoko.advancedban.shaded.org.hsqldb.lib.HsqlTimer$TaskQueue.park(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		me.leoko.advancedban.shaded.org.hsqldb.lib.HsqlTimer.nextTask(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		me.leoko.advancedban.shaded.org.hsqldb.lib.HsqlTimer$TaskRunner.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Timer-0
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 51 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-16
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 50 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.consumer.Consumer.run(Consumer.java:121)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-15
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 49 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.coreprotect.thread.CacheCleanUp.run(CacheCleanUp.java:17)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: mysql-cj-abandoned-connection-cleanup
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 48 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:80)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #0
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.select(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: ObjectCleanerThread
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 40 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Metrics Thread
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 39 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Watchdog Thread
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.management.ThreadImpl.dumpThreads0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:86)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Server console handler
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 35 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.Kernel32.ReadConsoleInputW(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.Kernel32.readConsoleInputHelper(Kernel32.java:761)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.Kernel32.readConsoleKeyInput(Kernel32.java:794)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.WindowsSupport.readConsoleInput(WindowsSupport.java:97)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.WindowsTerminal.readConsoleInput(WindowsTerminal.java:215)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.WindowsTerminal.access$000(WindowsTerminal.java:55)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.WindowsTerminal$1.read(WindowsTerminal.java:157)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.DedicatedServer$1.run(DedicatedServer.java:81)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: TerminalConsoleWriter
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.BufferedOutputStream.flush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.PrintStream.flush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.PrintStream.flush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.PrintStream.flush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.cs.StreamEncoder.flush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.FileOutputStream.writeBytes(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.FileOutputStream.write(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedOutputStream.flush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.PrintStream.flush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.FilterOutputStream.flush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.PrintStream.flush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.PrintStream.flush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.FilterOutputStream.flush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.cs.StreamEncoder.implFlush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.nio.cs.StreamEncoder.flush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.io.OutputStreamWriter.flush(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.flush(ConsoleReader.java:976)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_16_R3.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:48)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: D3D Screen Updater
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 33 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.d3d.D3DRenderQueue.flushBuffer(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.d3d.D3DRenderQueue.flushBuffer(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.d3d.D3DRenderQueue.flushNow(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.d3d.D3DSurfaceData.swapBuffers(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.d3d.D3DScreenUpdateManager.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 34 | Suspended: false | Native: false | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 20 | Suspended: false | Native: true | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		com.evilmidget38.UUIDFetcher.writeBody(UUIDFetcher.java:60)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		com.evilmidget38.UUIDFetcher.call(UUIDFetcher.java:43)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.PlayerPoints.translateNameToUUID(PlayerPoints.java:247)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.commands.PayCommand.execute(PayCommand.java:73)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.services.CommandHandler.onCommand(CommandHandler.java:130)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:758)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:1788)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1631)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1584)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:1)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.PlayerConnectionUtils$$Lambda$4306/677594473.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:941)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:934)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:918)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:850)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3176/1573666695.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-5
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 30 | Suspended: false | Native: false | State: WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.ServerGUI.lambda$3(ServerGUI.java:136)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.ServerGUI$$Lambda$3189/1274940184.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: TimerQueue
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.DelayQueue.take(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		javax.swing.TimerQueue.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: AWT-EventQueue-0
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 29 | Suspended: false | Native: false | State: WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.d3d.D3DScreenUpdateManager.runUpdateNow(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.d3d.D3DBlitLoops.IsoBlit(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.d3d.D3DRTTSurfaceToSurfaceBlit.Blit(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.pipe.DrawImage.blitSurfaceData(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.pipe.DrawImage.renderImageCopy(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.pipe.DrawImage.copyImage(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.pipe.DrawImage.copyImage(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.pipe.ValidatePipe.copyImage(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.SunGraphics2D.drawImage(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.SunGraphics2D.drawImage(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		javax.swing.RepaintManager$PaintManager.paint(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		javax.swing.RepaintManager.paint(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		javax.swing.JComponent.paintForceDoubleBuffered(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		javax.swing.JViewport.blitDoubleBuffered(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		javax.swing.JViewport.windowBlitPaint(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		javax.swing.JViewport.setViewPosition(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		javax.swing.JViewport.scrollRectToVisible(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		javax.swing.JComponent.scrollRectToVisible(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		javax.swing.text.DefaultCaret.adjustVisibility(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		javax.swing.text.DefaultCaret.repaintNewCaret(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		javax.swing.text.DefaultCaret$1.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.awt.event.InvocationEvent.dispatch(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.awt.EventQueue.access$500(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.awt.EventQueue$3.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.awt.EventQueue$3.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.security.AccessController.doPrivileged(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.awt.EventQueue.dispatchEvent(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.awt.EventDispatchThread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: AWT-Windows
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.awt.windows.WToolkit.eventLoop(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.awt.windows.WToolkit.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: AWT-Shutdown
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.awt.AWTAutoShutdown.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Java2D Disposer
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 25 | Suspended: false | Native: false | State: WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.Disposer.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: NonBlockingInputStreamThread
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: false | State: WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Snooper Timer
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 21 | Suspended: false | Native: false | State: WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Timer hack thread
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 16 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R3.SystemUtils$6.run(SourceFile:636)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Attach Listener
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 5 | Suspended: false | Native: false | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 4 | Suspended: false | Native: false | State: RUNNABLE
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Finalizer
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 3 | Suspended: false | Native: false | State: WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Reference Handler
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	PID: 2 | Suspended: false | Native: false | State: WAITING
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Reference.tryHandlePending(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+[01:07:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[01:07:40] [Spigot Watchdog Thread/INFO]: Startup script './start.sh' does not exist! Stopping server.
+[01:07:40] [Spigot Watchdog Thread/INFO]: Stopping server
+[01:07:40] [Spigot Watchdog Thread/INFO]: [AnGmode] Disabling AnGmode v1.0-SNAPSHOT
+[01:07:40] [Spigot Watchdog Thread/INFO]: [AnGmode] ¡ìaÏÂ´ÎÔÙ¼û~~
+[01:07:40] [Spigot Watchdog Thread/INFO]: [Lores] Disabling Lores v1.4.1
+[01:07:40] [Spigot Watchdog Thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[01:07:40] [Spigot Watchdog Thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is disabled![m
+[01:07:40] [Spigot Watchdog Thread/INFO]: GroupManager version 3.3 is disabled!
+[01:07:40] [Spigot Watchdog Thread/INFO]: [CrowdLocator] Disabling CrowdLocator v1.0
+[01:07:40] [Spigot Watchdog Thread/INFO]: [PlayerPoints] Disabling PlayerPoints v2.1.5-SNAPSHOT
+[01:07:40] [Spigot Watchdog Thread/INFO]: [ChatC] Disabling ChatC v0.5
+[01:07:40] [Spigot Watchdog Thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şÒÑ¹Ø±Õ£¡
+[01:07:40] [Spigot Watchdog Thread/INFO]: [ChatC] ¸ĞĞ»ÄúµÄÊ¹ÓÃ£¡
+[01:07:40] [Spigot Watchdog Thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[01:07:40] [Spigot Watchdog Thread/INFO]: [TAB] Disabling TAB v2.8.10
+[01:07:40] [Spigot Watchdog Thread/INFO]: [0;32;1m[TAB] Disabled in 0ms[m
+[01:07:40] [Spigot Watchdog Thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[01:07:40] [Spigot Watchdog Thread/INFO]: Database closed
+[01:07:40] [Spigot Watchdog Thread/INFO]: HikariPool-1 - Shutdown initiated...
+[01:07:40] [Spigot Watchdog Thread/INFO]: HikariPool-1 - Shutdown completed.
+[01:07:40] [Spigot Watchdog Thread/INFO]: 
+[01:07:40] [Spigot Watchdog Thread/INFO]:  
+[01:07:40] [Spigot Watchdog Thread/INFO]: [0;30;1m[]=====[[0;37;22mDisabling AdvancedBan[0;30;1m]=====[]
+[01:07:40] [Spigot Watchdog Thread/INFO]: [0;30;1m| [0;31;1mInformation:
+[01:07:40] [Spigot Watchdog Thread/INFO]: [0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[01:07:40] [Spigot Watchdog Thread/INFO]: [0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[01:07:40] [Spigot Watchdog Thread/INFO]: [0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[01:07:40] [Spigot Watchdog Thread/INFO]: [0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[01:07:40] [Spigot Watchdog Thread/INFO]: [0;30;1m| [0;31;1mSupport:
+[01:07:40] [Spigot Watchdog Thread/INFO]: [0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[01:07:40] [Spigot Watchdog Thread/INFO]: [0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[01:07:40] [Spigot Watchdog Thread/INFO]: [0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[01:07:40] [Spigot Watchdog Thread/INFO]: [0;30;1m[]================================[][m
+[01:07:40] [Spigot Watchdog Thread/INFO]:  [m
+[01:07:40] [Spigot Watchdog Thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[01:07:40] [Spigot Watchdog Thread/INFO]: [PxAutoMessage] ÕıÔÚ¹Ø±ÕÆ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[01:07:40] [Spigot Watchdog Thread/INFO]: [OnlineRewards] Disabling OnlineRewards v1.0.0
+[01:07:40] [Spigot Watchdog Thread/INFO]: [OnlineRewards]  
+[01:07:40] [Spigot Watchdog Thread/INFO]: [OnlineRewards] >>>>>>>>>>>>>>>>>>>>>>>> OnlineRewards Unloaded <<<<<<<<<<<<<<<<<<<<<<<<
+[01:07:40] [Spigot Watchdog Thread/INFO]: [OnlineRewards]  
+[01:07:40] [Spigot Watchdog Thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[01:07:40] [Spigot Watchdog Thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[01:07:41] [Spigot Watchdog Thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[01:07:41] [Spigot Watchdog Thread/INFO]: Saving players
+[01:07:41] [Spigot Watchdog Thread/INFO]: Laffey_Jiang lost connection: Server closed

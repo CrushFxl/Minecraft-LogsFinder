@@ -1,0 +1,398 @@
+[10:36:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[10:36:20] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[10:36:20] [Worker-Main-6/INFO]: Loaded 7 recipes
+[10:36:22] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[10:36:22] [Server thread/INFO]: Loading properties
+[10:36:23] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-379750e-43c7ff9 (MC: 1.16.2) (Implementing API version 1.16.2-R0.1-SNAPSHOT)
+[10:36:23] [Server thread/INFO]: Debug logging is disabled
+[10:36:23] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[10:36:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:36:23] [Server thread/INFO]: Default game type: SURVIVAL
+[10:36:23] [Server thread/INFO]: Generating keypair
+[10:36:23] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[10:36:23] [Server thread/INFO]: Using default channel type
+[10:36:24] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[10:36:26] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[10:36:26] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[10:36:26] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[10:36:26] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[10:36:26] [Server thread/WARN]: Legacy plugin PiglinFix vAlpha 1.1 does not specify an api-version.
+[10:36:26] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[10:36:26] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[10:36:26] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[10:36:26] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[10:36:26] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[10:36:26] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[10:36:26] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[10:36:26] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[10:36:26] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[10:36:26] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[10:36:26] [Server thread/INFO]: [PiglinFix] Loading PiglinFix vAlpha 1.1
+[10:36:26] [Server thread/INFO]: [TAB] Loading TAB v2.8.4
+[10:36:26] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[10:36:26] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[10:36:26] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[10:36:26] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[10:36:26] [Server thread/INFO]: Preparing level "world"
+[10:36:26] [Server thread/INFO]: -------- World Settings For [world] --------
+[10:36:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10:36:26] [Server thread/INFO]: Item Despawn Rate: 3000
+[10:36:26] [Server thread/INFO]: Item Merge Radius: 8.0
+[10:36:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:36:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:36:26] [Server thread/INFO]: View Distance: 12
+[10:36:26] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[10:36:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:36:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:36:26] [Server thread/INFO]: Experience Merge Radius: 8.0
+[10:36:26] [Server thread/INFO]: Mob Spawn Range: 4
+[10:36:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[10:36:26] [Server thread/INFO]: Max TNT Explosions: 100
+[10:36:26] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[10:36:26] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[10:36:26] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[10:36:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10:36:26] [Server thread/INFO]: Item Despawn Rate: 3000
+[10:36:26] [Server thread/INFO]: Item Merge Radius: 8.0
+[10:36:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:36:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:36:26] [Server thread/INFO]: View Distance: 12
+[10:36:26] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[10:36:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:36:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:36:26] [Server thread/INFO]: Experience Merge Radius: 8.0
+[10:36:26] [Server thread/INFO]: Mob Spawn Range: 4
+[10:36:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[10:36:26] [Server thread/INFO]: Max TNT Explosions: 100
+[10:36:26] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[10:36:26] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[10:36:26] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[10:36:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10:36:26] [Server thread/INFO]: Item Despawn Rate: 3000
+[10:36:26] [Server thread/INFO]: Item Merge Radius: 8.0
+[10:36:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:36:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:36:26] [Server thread/INFO]: View Distance: 12
+[10:36:26] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[10:36:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:36:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:36:26] [Server thread/INFO]: Experience Merge Radius: 8.0
+[10:36:26] [Server thread/INFO]: Mob Spawn Range: 4
+[10:36:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:36:26] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[10:36:26] [Server thread/INFO]: Max TNT Explosions: 100
+[10:36:26] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[10:36:26] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[10:36:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:36:28] [Server thread/INFO]: Preparing spawn area: 0%
+[10:36:28] [Server thread/INFO]: Preparing spawn area: 0%
+[10:36:28] [Server thread/INFO]: Preparing spawn area: 0%
+[10:36:28] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:36:28] [Server thread/INFO]: Time elapsed: 2310 ms
+[10:36:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:36:29] [Server thread/INFO]: Preparing spawn area: 0%
+[10:36:29] [Server thread/INFO]: Preparing spawn area: 0%
+[10:36:29] [Server thread/INFO]: Time elapsed: 660 ms
+[10:36:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:36:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:36:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:36:30] [Server thread/INFO]: Time elapsed: 673 ms
+[10:36:30] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[10:36:30] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[10:36:30] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[10:36:30] [Server thread/INFO]: --------------------
+[10:36:30] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[10:36:30] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[10:36:30] [Server thread/INFO]: --------------------
+[10:36:30] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[10:36:30] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[10:36:30] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[10:36:30] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[10:36:30] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[10:36:30] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[10:36:30] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[10:36:30] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[10:36:30] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[10:36:30] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[10:36:30] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[10:36:30] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minemora.entitytrackerfixer.v1_16_R2.NMSHandler
+[10:36:30] [Server thread/WARN]: 	at java.net.URLClassLoader.findClass(Unknown Source)
+[10:36:30] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:167)
+[10:36:30] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:96)
+[10:36:30] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[10:36:30] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[10:36:30] [Server thread/WARN]: 	at java.lang.Class.forName0(Native Method)
+[10:36:30] [Server thread/WARN]: 	at java.lang.Class.forName(Unknown Source)
+[10:36:30] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.nms.NMSCheck.getNMS(NMSCheck.java:14)
+[10:36:30] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:25)
+[10:36:30] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[10:36:30] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351)
+[10:36:30] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480)
+[10:36:30] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492)
+[10:36:30] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406)
+[10:36:30] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435)
+[10:36:30] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219)
+[10:36:30] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808)
+[10:36:30] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164)
+[10:36:30] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[10:36:30] [Server thread/ERROR]: [EntityTrackerFixer] Could not find support for this Spigot version.
+[10:36:30] [Server thread/ERROR]: Error occurred while enabling EntityTrackerFixer v1.3.1 (Is it up to date?)
+java.lang.NullPointerException: null
+	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:26) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[10:36:30] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[10:36:30] [Server thread/INFO]: [OpenInv] Your version of CraftBukkit (v1_16_R2) is not supported.
+[10:36:30] [Server thread/INFO]: [OpenInv] If this version is a recent release, check for an update.
+[10:36:30] [Server thread/INFO]: [OpenInv] If this is an older version, ensure that you've downloaded the legacy support version.
+[10:36:30] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5
+[10:36:30] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼þÒÑÆôÓÃ£¡
+[10:36:30] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼þµ±Ç°°æ±¾£ºV0.5 £¨2017Äê8ÔÂ24ÈÕ£©
+[10:36:30] [Server thread/INFO]: [ChatC] ¸ÐÐ»ÄúµÄÊ¹ÓÃ£¡
+[10:36:30] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3
+[10:36:30] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;33;1mChecking Your version...[m
+[10:36:30] [Server thread/INFO]: [0;34;1m===============================[m
+[10:36:30] [Server thread/INFO]: [0;32;1m[m
+[10:36:30] [Server thread/INFO]: [0;32;1m GroupManager+ is now enable![m
+[10:36:30] [Server thread/INFO]: [0;32;1m [m
+[10:36:30] [Server thread/INFO]: [0;33;1m Thank you for using GroupManager+ :)[m
+[10:36:30] [Server thread/INFO]: [0;33;1m GroupManager+ is create by HappyAreaBean![m
+[10:36:30] [Server thread/INFO]: [0;36;1m Current version: [0;32;1mv3.3[m
+[10:36:30] [Server thread/INFO]: [0;32;1m [m
+[10:36:30] [Server thread/INFO]: [0;34;1m===============================[m
+[10:36:30] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mWorld Found: world[m
+[10:36:30] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mSuperperms support enabled.[m
+[10:36:30] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is set for every 10 minutes![m
+[10:36:30] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBackups will be retained for 24 hours![m
+[10:36:30] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mGroupManager+ v3.3 is now enabled![m
+[10:36:30] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3
+[10:36:30] [Server thread/INFO]: [PxAutoMessage] ÕýÔÚÆô¶¯Æ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[10:36:30] [Server thread/INFO]: [PxAutoMessage] ³õÊ¼»¯ÐÅÏ¢Ä£¿é...
+[10:36:30] [Server thread/INFO]: [PxAutoMessage] ×¢²áÃüÁî¼àÌýÏµÍ³...
+[10:36:30] [Server thread/INFO]: [PxAutoMessage] ¼ÓÔØÍê±Ï£¡
+[10:36:30] [Server thread/INFO]:  
+[10:36:30] [Server thread/INFO]: > ×÷Õß£ºAn_ye (QQ:1444691679)
+[10:36:30] [Server thread/INFO]: > ±¾²å¼þ×Ô´øºº»¯£¬ÇëÎðÏàÐÅËùÎ½µÄºº»¯°æ£¡
+[10:36:30] [Server thread/INFO]: > £¨×÷ÕßµÄ»°£ºI'm Chinese.£©
+[10:36:30] [Server thread/INFO]:  
+[10:36:30] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0
+[10:36:30] [Server thread/INFO]: HikariPool-1 - Starting...
+[10:36:31] [Server thread/INFO]: checkpointClose start
+[10:36:31] [Server thread/INFO]: checkpointClose synched
+[10:36:31] [Server thread/INFO]: checkpointClose script done
+[10:36:31] [Server thread/INFO]: checkpointClose end
+[10:36:31] [Server thread/INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[10:36:31] [Server thread/INFO]: HikariPool-1 - Start completed.
+[10:43:55] [Server thread/INFO]: 
+ 
+[0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
+[0;30;1m| [0;31;1mInformation:
+[0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[0;30;1m| [0;31;1mSupport:
+[0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[0;30;1m| [0;31;1mUpdate:
+[0;30;1m|   [0;37;22mFailed to check for updates :(
+[0;30;1m[]================================[][m
+ [m
+[10:43:55] [Server thread/INFO]: [PiglinFix] Enabling PiglinFix vAlpha 1.1
+[10:43:55] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mFixing Piglin drops [0;35;1m-By RanWhite[m
+[10:43:55] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mLastest version is new[m
+[10:43:55] [Server thread/INFO]: [TAB] Enabling TAB v2.8.4
+[10:43:55] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.16.2 (v1_16_R2)[m
+[10:43:55] [Server thread/INFO]: [0;31;1m[TAB] File [0;33;1mplugins\TAB\errors.txt[0;31;1m exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.[m
+[10:43:55] [Server thread/INFO]: [0;31;1m[TAB] Animation "[0;33;1mWelcome[0;31;1m" does not have any texts! [0;36;1mIgnoring.[m
+[10:43:55] [Server thread/INFO]: [0;33;1m[TAB] There were 2 startup warnings.[m
+[10:43:55] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 43ms[m
+[10:43:55] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT
+[10:43:55] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0
+[10:43:55] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1
+[10:43:55] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[10:43:55] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[10:43:55] [Server thread/INFO]: [AnGmode] ¡ìaÄãºÃ£¡ÎÒÊÇÐ¡°²£¬¸ÐÐ»ÄãÄÜÊ¹ÓÃÕâ¸ö²å¼þ£¡
+[10:43:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:43:55] [Server thread/INFO]: Done (449.465s)! For help, type "help"
+[10:43:55] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBukkit Permissions Updated![m
+[10:43:55] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@3eb46513[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63017) lost connection: Disconnected
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b405e4f[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63023) lost connection: Disconnected
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@7ca27e5f[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63026) lost connection: Disconnected
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f55f285[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63032) lost connection: Disconnected
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d48081[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63030) lost connection: Disconnected
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b2f04b2[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63029) lost connection: Disconnected
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@2490cb0e[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63031) lost connection: Disconnected
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@1461d4c3[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63044) lost connection: Disconnected
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@32978e46[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63049) lost connection: Disconnected
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@12e1632[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63092) lost connection: Disconnected
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@234475a2[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63097) lost connection: Disconnected
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@39997ac5[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63103) lost connection: Disconnected
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@37f2260e[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63104) lost connection: Disconnected
+[10:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@469c2944[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63107) lost connection: Disconnected
+[10:43:59] [Thread-18/INFO]: [0;32;1m[TAB] Version 2.8.7 is out! Your version: 2.8.4[m
+[10:43:59] [Thread-18/INFO]: [0;32;1m[TAB] Get the update at https://www.spigotmc.org/resources/57806/[m
+[10:43:59] [Thread-19/INFO]: --------------------
+[10:43:59] [Thread-19/INFO]: [CoreProtect] Version 19.2 is now available.
+[10:43:59] [Thread-19/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[10:43:59] [Thread-19/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[10:43:59] [Thread-19/INFO]: --------------------
+[10:44:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@3476ec01[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63121) lost connection: Disconnected
+[10:44:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@7c3a880a[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63132) lost connection: Disconnected
+[10:45:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@58ea8ad9[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63150) lost connection: Timed out
+[10:46:01] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@55c0abd6[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63158): Authentication servers are down. Please try again later, sorry!
+[10:46:01] [User Authenticator #1/ERROR]: Couldn't verify username because servers are unavailable
+[10:46:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@55c0abd6[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63158) lost connection: Authentication servers are down. Please try again later, sorry!
+[10:46:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@6f2ffd3[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63170) lost connection: Disconnected
+[10:46:40] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@4655faa9[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63172): Authentication servers are down. Please try again later, sorry!
+[10:46:40] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
+[10:46:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@4655faa9[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63172) lost connection: Authentication servers are down. Please try again later, sorry!
+[10:47:12] [User Authenticator #3/INFO]: Disconnecting com.mojang.authlib.GameProfile@7df90e7e[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63179): Authentication servers are down. Please try again later, sorry!
+[10:47:12] [User Authenticator #3/ERROR]: Couldn't verify username because servers are unavailable
+[10:47:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@7df90e7e[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63179) lost connection: Authentication servers are down. Please try again later, sorry!
+[10:47:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@7374796c[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63185) lost connection: Disconnected
+[10:48:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ae45807[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63191) lost connection: Disconnected
+[10:49:31] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@61103df7[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63197): Authentication servers are down. Please try again later, sorry!
+[10:49:31] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[10:49:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@61103df7[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63197) lost connection: Authentication servers are down. Please try again later, sorry!
+[10:53:14] [User Authenticator #5/INFO]: Disconnecting com.mojang.authlib.GameProfile@561e9d6a[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63218): Authentication servers are down. Please try again later, sorry!
+[10:53:14] [User Authenticator #5/ERROR]: Couldn't verify username because servers are unavailable
+[10:53:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@561e9d6a[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63218) lost connection: Authentication servers are down. Please try again later, sorry!
+[10:53:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b88a9cf[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63221) lost connection: Disconnected
+[10:53:44] [User Authenticator #6/INFO]: Disconnecting com.mojang.authlib.GameProfile@1b88a9cf[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:63221): Authentication servers are down. Please try again later, sorry!
+[10:53:44] [User Authenticator #6/ERROR]: Couldn't verify username because servers are unavailable
+[11:20:34] [User Authenticator #7/INFO]: Disconnecting com.mojang.authlib.GameProfile@4c88ae6b[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63371): Authentication servers are down. Please try again later, sorry!
+[11:20:34] [User Authenticator #7/ERROR]: Couldn't verify username because servers are unavailable
+[11:20:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@4c88ae6b[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63371) lost connection: Authentication servers are down. Please try again later, sorry!
+[11:21:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@6f9b77ae[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63378) lost connection: Disconnected
+[11:21:00] [User Authenticator #8/INFO]: Disconnecting com.mojang.authlib.GameProfile@6f9b77ae[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63378): Authentication servers are down. Please try again later, sorry!
+[11:21:00] [User Authenticator #8/ERROR]: Couldn't verify username because servers are unavailable
+[11:21:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ef66e83[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63426) lost connection: Disconnected
+[11:21:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@4aa5964e[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63430) lost connection: Disconnected
+[11:21:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@b0cc2af[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63436) lost connection: Disconnected
+[11:23:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@3f1ef267[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:63450) lost connection: Disconnected
+[11:43:55] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[12:43:55] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[13:43:55] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[13:59:26] [Server thread/INFO]: Stopping the server
+[13:59:26] [Server thread/INFO]: Stopping server
+[13:59:26] [Server thread/INFO]: [AnGmode] Disabling AnGmode v1.0-SNAPSHOT
+[13:59:26] [Server thread/INFO]: [AnGmode] ¡ìaÏÂ´ÎÔÙ¼û~~
+[13:59:26] [Server thread/INFO]: [Lores] Disabling Lores v1.4.1
+[13:59:26] [Server thread/INFO]: [CrowdLocator] Disabling CrowdLocator v1.0
+[13:59:26] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v2.1.5-SNAPSHOT
+[13:59:26] [Server thread/INFO]: [TAB] Disabling TAB v2.8.4
+[13:59:26] [Server thread/INFO]: [0;32;1m[TAB] Disabled in 6ms[m
+[13:59:26] [Server thread/INFO]: [PiglinFix] Disabling PiglinFix vAlpha 1.1
+[13:59:26] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[13:59:26] [Server thread/INFO]: Database closed
+[13:59:26] [Server thread/INFO]: HikariPool-1 - Shutdown initiated...
+[13:59:26] [Server thread/INFO]: HikariPool-1 - Shutdown completed.
+[13:59:26] [Server thread/INFO]: 
+ 
+[0;30;1m[]=====[[0;37;22mDisabling AdvancedBan[0;30;1m]=====[]
+[0;30;1m| [0;31;1mInformation:
+[0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[0;30;1m| [0;31;1mSupport:
+[0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[0;30;1m[]================================[][m
+ [m
+[13:59:26] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[13:59:26] [Server thread/INFO]: [PxAutoMessage] ÕýÔÚ¹Ø±ÕÆ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[13:59:26] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[13:59:26] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is disabled![m
+[13:59:26] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[13:59:26] [Server thread/INFO]: [ChatC] Disabling ChatC v0.5
+[13:59:26] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼þÒÑ¹Ø±Õ£¡
+[13:59:26] [Server thread/INFO]: [ChatC] ¸ÐÐ»ÄúµÄÊ¹ÓÃ£¡
+[13:59:26] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[13:59:26] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.3.1
+[13:59:26] [Server thread/ERROR]: Error occurred while disabling EntityTrackerFixer v1.3.1 (Is it up to date?)
+java.lang.NullPointerException: null
+	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onDisable(EntityTrackerFixer.java:34) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.disablePlugins(CraftServer.java:426) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.stop(MinecraftServer.java:715) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.stop(DedicatedServer.java:647) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:887) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[13:59:26] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[13:59:26] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[13:59:27] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[13:59:27] [Server thread/INFO]: Saving players
+[13:59:27] [Server thread/INFO]: Saving worlds
+[13:59:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:59:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:59:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:59:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:59:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:59:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:59:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:59:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:59:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

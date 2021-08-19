@@ -1,0 +1,1917 @@
+[21:06:56] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:06:56] [Server thread/INFO]: Loading properties
+[21:06:56] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[21:06:57] [Server thread/INFO]: Debug logging is disabled
+[21:06:57] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[21:06:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:06:57] [Server thread/INFO]: Default game type: SURVIVAL
+[21:06:57] [Server thread/INFO]: Generating keypair
+[21:06:57] [Server thread/INFO]: Starting Minecraft server on *:30560
+[21:06:57] [Server thread/INFO]: Using default channel type
+[21:06:58] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[21:07:00] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[21:07:00] [Server thread/WARN]: Legacy plugin WhiteList v3.0 does not specify an api-version.
+[21:07:00] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[21:07:00] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[21:07:00] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[21:07:00] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[21:07:00] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.2.2
+[21:07:00] [Server thread/INFO]: [WhiteList] Loading WhiteList v3.0
+[21:07:00] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[21:07:00] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[21:07:00] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[21:07:00] [Server thread/INFO]: [MySkin] Loading MySkin v3.0
+[21:07:00] [Server thread/INFO]: [VillagerOptimiser] Loading VillagerOptimiser v1.1.2
+[21:07:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:07:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:07:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:07:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:07:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:07:00] [Server thread/INFO]: Preparing level "world"
+[21:07:01] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:07:08] [Server thread/INFO]: Loaded 6 recipes
+[21:07:08] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:07:08] [Server thread/INFO]: View Distance: 8
+[21:07:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:07:08] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:07:08] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:07:08] [Server thread/INFO]: Item Despawn Rate: 4000
+[21:07:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:07:08] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:07:08] [Server thread/INFO]: Mob Spawn Range: 4
+[21:07:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:07:08] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:07:08] [Server thread/INFO]: Max TNT Explosions: 100
+[21:07:08] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[21:07:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:07:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:07:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:07:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:07:08] [Server thread/INFO]: View Distance: 8
+[21:07:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:07:08] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:07:08] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:07:08] [Server thread/INFO]: Item Despawn Rate: 4000
+[21:07:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:07:08] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:07:08] [Server thread/INFO]: Mob Spawn Range: 4
+[21:07:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:07:08] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:07:08] [Server thread/INFO]: Max TNT Explosions: 100
+[21:07:08] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[21:07:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:07:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:07:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:07:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:07:08] [Server thread/INFO]: View Distance: 8
+[21:07:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:07:08] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:07:08] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:07:08] [Server thread/INFO]: Item Despawn Rate: 4000
+[21:07:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:07:08] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:07:08] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:07:08] [Server thread/INFO]: Mob Spawn Range: 4
+[21:07:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:07:08] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:07:08] [Server thread/INFO]: Max TNT Explosions: 100
+[21:07:08] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[21:07:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:07:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:07:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:07:08] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[21:07:09] [Server thread/INFO]: Preparing spawn area: 0%
+[21:07:09] [Server thread/INFO]: Preparing spawn area: 4%
+[21:07:09] [Server thread/INFO]: Preparing spawn area: 46%
+[21:07:10] [Server-Worker-1/INFO]: Preparing spawn area: 100%
+[21:07:10] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[21:07:10] [Server thread/INFO]: Time elapsed: 1879 ms
+[21:07:10] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[21:07:10] [Server thread/INFO]: Preparing spawn area: 0%
+[21:07:11] [Server thread/INFO]: Preparing spawn area: 100%
+[21:07:11] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[21:07:11] [Server thread/INFO]: Time elapsed: 689 ms
+[21:07:11] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[21:07:11] [Server thread/INFO]: Preparing spawn area: 0%
+[21:07:12] [Server thread/INFO]: Preparing spawn area: 100%
+[21:07:12] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[21:07:12] [Server thread/INFO]: Time elapsed: 678 ms
+[21:07:12] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[21:07:12] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[21:07:12] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[21:07:12] [Server thread/INFO]: --------------------
+[21:07:12] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[21:07:12] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[21:07:12] [Server thread/INFO]: --------------------
+[21:07:12] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[21:07:12] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[21:07:12] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[21:07:12] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[21:07:12] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[21:07:12] [Server thread/INFO]:  
+[21:07:12] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[21:07:12] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[21:07:12] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[21:07:12] [Server thread/INFO]:  
+[21:07:12] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[21:07:12] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[21:07:12] [Server thread/INFO]: [TAB] Animation "MyAnimation1" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:07:12] [Server thread/INFO]: [TAB] Animation "ServerName" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:07:12] [Server thread/INFO]: [TAB] Animation "web" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:07:12] [Server thread/INFO]: [TAB] Animation "online" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:07:12] [Server thread/INFO]: [TAB] Animation "vote" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:07:12] [Server thread/INFO]: [TAB] Animation "Welcome" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:07:12] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[21:07:12] [Server thread/INFO]: [TAB] Animation "time" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:07:12] [Server thread/INFO]: [TAB] Animation "versions" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:07:12] [Server thread/INFO]: [TAB] There were 9 startup warnings.
+[21:07:12] [Server thread/INFO]: [TAB] Enabled in 509ms
+[21:07:12] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.2.2
+[21:07:12] [Server thread/INFO]: [WhiteList] Enabling WhiteList v3.0*
+[21:07:13] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[21:07:13] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[21:07:13] [Server thread/INFO]: [SAML] Loading config.yml...
+[21:07:13] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[21:07:13] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[21:07:13] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[21:07:13] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[21:07:13] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[21:07:13] [Server thread/INFO]: [SAML] Loading messages.yml...
+[21:07:13] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[21:07:13] [Server thread/INFO]: [SAML] Successfully enabled.
+[21:07:13] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5*
+[21:07:13] [Server thread/INFO]: [ChatC] 聊天管理插件已启用！
+[21:07:13] [Server thread/INFO]: [ChatC] 聊天管理插件当前版本：V0.5 （2017年8月24日）
+[21:07:13] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[21:07:13] [Server thread/INFO]: [MySkin] Enabling MySkin v3.0
+[21:07:13] [Server thread/INFO]: [MySkin] Running on server version v1_15_R1
+[21:07:13] [Server thread/INFO]: [VillagerOptimiser] Enabling VillagerOptimiser v1.1.2
+[21:07:13] [Server thread/INFO]: [VillagerOptimiser] Loading config.yml...
+[21:07:13] [Server thread/INFO]: [VillagerOptimiser] Successfully loaded config.yml.
+[21:07:13] [Server thread/INFO]: [VillagerOptimiser] Successfully enabled.
+[21:07:13] [Server thread/INFO]: Done (12.489s)! For help, type "help"
+[21:07:13] [Server thread/INFO]: Timings Reset
+[21:07:13] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[21:07:13] [User Authenticator #2/INFO]: UUID of player jason_ji is b2a6704f-18c5-3c2b-a0bb-5513c2bb873a
+[21:07:13] [User Authenticator #1/INFO]: UUID of player nan_nono_boom is bfaa4531-2878-3ae6-bce4-ea82d37c948b
+[21:07:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b3d6c71[id=bfaa4531-2878-3ae6-bce4-ea82d37c948b,name=nan_nono_boom,properties={},legacy=false] (/60.180.140.221:26619) lost connection: Disconnected
+[21:07:14] [Server thread/INFO]: jason_ji[/117.9.140.25:65097] logged in with entity id 892 at ([world]5155.368394470912, 64.0, 205.46921401650226)
+[21:07:15] [Craft Scheduler Thread - 2/INFO]: [MySkin] You are running up to date version 3.0
+[21:07:20] [User Authenticator #1/INFO]: UUID of player Star_ash is aa5c472a-c0d6-36fc-a0da-9268557b5ce0
+[21:07:20] [Server thread/INFO]: Star_ash[/106.7.177.70:7234] logged in with entity id 1485 at ([world]5176.375731517755, 64.0, 210.3541815826191)
+[21:07:25] [User Authenticator #1/INFO]: UUID of player nan_nono_boom is bfaa4531-2878-3ae6-bce4-ea82d37c948b
+[21:07:25] [Server thread/INFO]: nan_nono_boom[/60.180.140.221:26852] logged in with entity id 1491 at ([world]-179.9451338892087, 71.0, -16.476595059800182)
+[21:07:25] [User Authenticator #1/INFO]: UUID of player xxuurruuii is 7687b2a5-a0d3-3ae6-84ab-425f51c11371
+[21:07:26] [Server thread/INFO]: xxuurruuii[/115.217.144.137:5085] logged in with entity id 1565 at ([world]5216.309566786202, 192.0, 243.69999998807907)
+[21:07:28] [Server thread/INFO]: xxuurruuii >> awa
+[21:07:51] [Server thread/INFO]: Star_ash issued server command: /openinv windy_xx
+[21:08:13] [User Authenticator #1/INFO]: UUID of player North_dream is d67a3baa-7576-3c30-8780-392ea4cf4568
+[21:08:14] [Server thread/INFO]: North_dream[/39.158.155.157:48178] logged in with entity id 1994 at ([world]2786.805942150705, 68.0, -344.17490389845597)
+[21:08:22] [Server thread/INFO]: Star_ash issued server command: /openinv crushxl
+[21:08:48] [Server thread/INFO]: Star_ash issued server command: /openinv yhy
+[21:09:23] [Server thread/INFO]: xxuurruuii >> 没人了
+[21:09:26] [Server thread/INFO]: xxuurruuii >> 再见
+[21:09:29] [User Authenticator #3/INFO]: UUID of player Aly_xxx is be64e0b8-61b5-3f6d-8bf8-25a111a41c38
+[21:09:30] [Server thread/INFO]: Aly_xxx[/218.109.195.32:32865] logged in with entity id 3608 at ([world_nether]644.0131297123974, 114.0, 28.17917272354369)
+[21:09:31] [Server thread/INFO]: xxuurruuii fell from a high place
+[21:09:39] [Server thread/INFO]: xxuurruuii >> 我还在
+[21:09:41] [Server thread/INFO]: xxuurruuii >> 滑稽
+[21:09:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[21:09:48] [User Authenticator #3/INFO]: UUID of player Twilight203 is 1202da80-513c-37cf-b348-c7ff4ec606e7
+[21:09:49] [Server thread/INFO]: Twilight203[/120.231.49.194:47965] logged in with entity id 3741 at ([world]5270.223675956873, 74.0, 332.91272028754537)
+[21:10:14] [Server thread/INFO]: Aly_xxx >> 谁能帮我来铺带釉陶瓦
+[21:10:53] [User Authenticator #4/INFO]: UUID of player 4022sun is 0f8facbb-1bc0-32a4-8482-a1609c7cb93b
+[21:10:53] [Server thread/INFO]: 4022sun[/117.182.181.212:16571] logged in with entity id 4400 at ([world_nether]204.30000001192093, 109.0, 794.6999999880791)
+[21:11:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[21:11:41] [Server thread/INFO]: jason_ji has reached the goal [Zombie Doctor]
+[21:12:00] [Server thread/INFO]: <紫晶镇> jason_ji >> 什么情况
+[21:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[21:13:01] [Server thread/INFO]: Aly_xxx >> 艹
+[21:13:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[21:13:33] [Server thread/INFO]: [SAML] TPS low (18.49). Will attempt to freeze some mobs...
+[21:13:33] [Server thread/INFO]: [SAML] 1102 mobs affected (1102 frozen, 0 nerfed) in 366ms. Total of 1116/1760 affected (1102 frozen, 641 nerfed).
+[21:14:07] [Server thread/INFO]: nan_nono_boom >> 完全不知道该干什么.jpg
+[21:14:20] [Server thread/INFO]: Star_ash >> 一起来查案吧.jpg
+[21:14:26] [Server thread/INFO]: nan_nono_boom >> :(
+[21:14:30] [Server thread/INFO]: <海晶港> 4022sun >> 一起来掏地狱吧
+[21:14:41] [Server thread/INFO]: Aly_xxx >> 来紫晶镇铺陶瓦.png
+[21:14:54] [Server thread/INFO]: nan_nono_boom >> 海星
+[21:15:54] [Server thread/INFO]: xxuurruuii >> 咋查
+[21:16:01] [Server thread/INFO]: <海晶港> 4022sun >> 调监控
+[21:16:29] [Server thread/INFO]: xxuurruuii >> 一起来挖黑曜石柱吧.png
+[21:16:48] [Server thread/INFO]: xxuurruuii >> t203?
+[21:17:30] [Server thread/INFO]: nan_nono_boom >> 好多哦小镇（
+[21:17:45] [Server thread/INFO]: xxuurruuii >> 憨明在挂机池了思考人生
+[21:17:50] [Server thread/INFO]: xxuurruuii >> 憨明在挂机池里思考人生
+[21:17:53] [Server thread/INFO]: <紫晶镇> Twilight203 >> xxuurruuii
+[21:17:53] [Server thread/INFO]: <海晶港> 4022sun >> 23333
+[21:17:58] [Server thread/INFO]: xxuurruuii >> ?
+[21:18:00] [Server thread/INFO]: <紫晶镇> Twilight203 >> 好烦啊
+[21:18:01] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> y要来海晶吗，新人
+[21:18:07] [Server thread/INFO]: <紫晶镇> Twilight203 >> moshuang不玩了
+[21:18:11] [Server thread/INFO]: xxuurruuii >> 咋了
+[21:18:25] [Server thread/INFO]: <紫晶镇> Twilight203 >> 他海龟帽被偷了
+[21:18:29] [Server thread/INFO]: <紫晶镇> Twilight203 >> 还查不到
+[21:18:31] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 难道是因为我抢了他同学？？？
+[21:18:36] [Server thread/INFO]: xxuurruuii >> 主动不玩还是被动不玩
+[21:18:38] [Server thread/INFO]: <海晶港> 4022sun >> ????
+[21:18:41] [Server thread/INFO]: <海晶港> 4022sun >> 北梦
+[21:18:44] [Server thread/INFO]: <海晶港> 4022sun >> 石头厂炸了吗
+[21:18:45] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> ?
+[21:18:48] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 没有吧
+[21:18:49] [Server thread/INFO]: <紫晶镇> Twilight203 >> 算被动吧
+[21:18:53] [Server thread/INFO]: <海晶港> 4022sun >> 你去看看
+[21:18:56] [Server thread/INFO]: <紫晶镇> Twilight203 >> 被气的
+[21:19:00] [Server thread/INFO]: <海晶港> 4022sun >> 刚刚群里有人说炸了
+[21:19:01] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> XD
+[21:19:05] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> tnt没了
+[21:19:05] [Server thread/INFO]: xxuurruuii >> 那就是主动啊XD
+[21:19:05] [Server thread/INFO]: 4022sun fell from a high place
+[21:19:11] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 其他都没事
+[21:19:12] [Server thread/INFO]: <海晶港> 4022sun >> 留
+[21:19:16] [Server thread/INFO]: <海晶港> 4022sun >> 北梦
+[21:19:18] [Server thread/INFO]: xxuurruuii >> 我们给他一个海龟帽吧
+[21:19:20] [Server thread/INFO]: Star_ash >> 对了
+[21:19:22] [Server thread/INFO]: Star_ash >> Aly_xxx
+[21:19:23] [Server thread/INFO]: <海晶港> 4022sun >> 你帮我捡下东西
+[21:19:27] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 复制及还在上面推
+[21:19:27] [Server thread/INFO]: Aly_xxx >> ???
+[21:19:31] [Server thread/INFO]: Star_ash >> 还没和你说处罚的事
+[21:19:34] [Server thread/INFO]: <海晶港> 4022sun >> 你帮我捡下东西
+[21:19:37] [Server thread/INFO]: <海晶港> 4022sun >> 算了】
+[21:19:38] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 在哪
+[21:19:43] [Server thread/INFO]: <海晶港> 4022sun >> 给我鞘翅
+[21:19:48] [Server thread/INFO]: <海晶港> 4022sun >> 我在石头厂
+[21:19:51] [Server thread/INFO]: Star_ash >> 弄坏别人机器造成不便
+[21:19:57] [Server thread/INFO]: Star_ash >> 禁言一个小时可以吗
+[21:20:02] [Server thread/INFO]: <海晶港> 4022sun >> 烟花
+[21:20:04] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 不用烟花？
+[21:20:05] [Server thread/INFO]: <海晶港> 4022sun >> 还有萝卜
+[21:20:10] [Server thread/INFO]: xxuurruuii >> 一小时挺少的
+[21:20:17] [Server thread/INFO]: Aly_xxx >> 内个，好吧
+[21:20:22] [Server thread/INFO]: <紫晶镇> Twilight203 >> 不他不玩了
+[21:20:25] [Server thread/INFO]: Star_ash >> 但毕竟不是恶意嘛
+[21:20:25] [Server thread/INFO]: xxuurruuii >> 我被禁言的那段时间我刚好在上课
+[21:20:30] [Server thread/INFO]: Star_ash >> 也算认错了
+[21:20:37] [Server thread/INFO]: xxuurruuii >> 然后我一点没影响
+[21:20:38] [Server thread/INFO]: xxuurruuii >> XD
+[21:20:42] [Server thread/INFO]: Star_ash >> 对了
+[21:20:53] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 那个新人呢
+[21:20:54] [Server thread/INFO]: Star_ash >> 机器主人还要求你归还一些比较器
+[21:20:56] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 怎么不说话
+[21:20:58] [Server thread/INFO]: xxuurruuii >> e
+[21:21:03] [Server thread/INFO]: Star_ash >> Aly_xxx
+[21:21:08] [Server thread/INFO]: <紫晶镇> Twilight203 >> 咋办啊
+[21:21:13] [Server thread/INFO]: xxuurruuii >> ?
+[21:21:16] [Server thread/INFO]: <紫晶镇> Twilight203 >> 心好空虚啊
+[21:21:19] [Server thread/INFO]: Star_ash >> 你弄一些放底下箱子里面好吧
+[21:21:19] [Server thread/INFO]: Aly_xxx >> ?
+[21:21:21] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 海龟帽丢了就退服？
+[21:21:24] [Server thread/INFO]: Star_ash >> 4个
+[21:21:27] [Server thread/INFO]: Star_ash >> 比较器
+[21:21:28] [User Authenticator #5/INFO]: UUID of player whichwho is da89e723-da55-3702-ab7a-6ff4f008af05
+[21:21:29] [Server thread/INFO]: whichwho[/183.200.0.176:8793] logged in with entity id 13751 at ([world]2746.062794060168, 64.0, -372.7391301999057)
+[21:21:29] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 为什么不找海晶要
+[21:21:36] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 鳞甲滞销
+[21:21:36] [Server thread/INFO]: <紫晶镇> jason_ji >> 快来救我
+[21:21:37] [Server thread/INFO]: 4022sun fell from a high place
+[21:21:39] [Server thread/INFO]: <紫晶镇> Twilight203 >> 这货刚来
+[21:21:40] [Server thread/INFO]: <海晶港> 4022sun >> ?????
+[21:21:40] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> emmmm
+[21:21:46] [Server thread/INFO]: nan_nono_boom lost connection: Disconnected
+[21:21:46] [Server thread/INFO]: nan_nono_boom left the game
+[21:21:47] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 你死哪啦
+[21:21:51] [Server thread/INFO]: <海晶港> 4022sun >> 就在空置域
+[21:21:53] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 给我坐标
+[21:21:54] [Server thread/INFO]: xxuurruuii >> e
+[21:21:56] [Server thread/INFO]: <紫晶镇> Twilight203 >> 咋办嘤嘤嘤
+[21:21:58] [Server thread/INFO]: <紫晶镇> jason_ji >> 小尸壳鸡其实
+[21:21:59] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 哪个空置域
+[21:21:59] [User Authenticator #5/INFO]: UUID of player Breaking_Lead is 0c74ba3b-4a3e-3616-b182-9e85ee4454ee
+[21:21:59] [Server thread/INFO]: Breaking_Lead[/113.201.92.62:17828] logged in with entity id 14104 at ([world]1331.658954174834, 63.0, 134.5718946625415)
+[21:22:03] [Server thread/INFO]: <海晶港> 4022sun >> 161 58 705
+[21:22:05] [Server thread/INFO]: <紫晶镇> jason_ji >> 我没死
+[21:22:07] [Server thread/INFO]: <海晶港> 4022sun >> 地狱的
+[21:22:07] [Server thread/INFO]: Star_ash issued server command: /chatc user alx_xx mute 1h
+[21:22:08] [Server thread/INFO]: <海晶港> whichwho >> 好吵
+[21:22:10] [Server thread/INFO]: Aly_xxx >> ?谁刚才叫我
+[21:22:10] [Server thread/INFO]: <海晶港> 4022sun >> 还有3min
+[21:22:14] [Server thread/INFO]: Star_ash issued server command: /chatc user Alx_xx mute 1h
+[21:22:15] [Server thread/INFO]: <海晶港> 4022sun >> 丢
+[21:22:19] [Server thread/INFO]: Star_ash issued server command: /chatc user alx_xx mute 1h
+[21:22:38] [Server thread/INFO]: Breaking_Lead >> 好久没来，好多新面孔啊
+[21:22:43] [Server thread/INFO]: <海晶港> whichwho >> 我装备给你你去？
+[21:22:43] [Server thread/INFO]: <海晶港> 4022sun >> 作死脱装备
+[21:22:44] [Server thread/INFO]: Breaking_Lead >> 草
+[21:22:45] [Server thread/INFO]: <海晶港> 4022sun >> 唉
+[21:22:48] [Server thread/INFO]: <海晶港> 4022sun >> 北梦过去了
+[21:22:54] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 幸好我有备用鞘翅
+[21:22:54] [Server thread/INFO]: Breaking_Lead >> 我上错号了
+[21:22:58] [Server thread/INFO]: <海晶港> 4022sun >> 我太难啦……
+[21:22:59] [Server thread/INFO]: <海晶港> whichwho >> 找不见可就**了
+[21:23:01] [Server thread/INFO]: Breaking_Lead >> 这是我间谍号
+[21:23:07] [Server thread/INFO]: Breaking_Lead >> 幸亏yd不在
+[21:23:09] [Server thread/INFO]: Breaking_Lead >> 再见
+[21:23:09] [Server thread/INFO]: <海晶港> 4022sun >> 你的鞘翅在169 64 765
+[21:23:15] [Server thread/INFO]: Breaking_Lead lost connection: Disconnected
+[21:23:15] [Server thread/INFO]: Breaking_Lead left the game
+[21:23:26] [Server thread/INFO]: <海晶港> 4022sun >> 2min
+[21:23:29] [Server thread/INFO]: <海晶港> 4022sun >> aaaaaaa
+[21:23:35] [Server thread/INFO]: <海晶港> whichwho >> 全身的弹射物保护
+[21:23:44] [Server thread/INFO]: <海晶港> whichwho >> 当年掏末地城留下的
+[21:23:50] [Server thread/INFO]: <海晶港> 4022sun >> 我下次再脱装备我剁手……
+[21:24:22] [Server thread/INFO]: <海晶港> 4022sun >> 这个时间点应该没了
+[21:24:23] [Server thread/INFO]: <海晶港> 4022sun >> 艹
+[21:24:25] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> XD
+[21:24:38] [Server thread/INFO]: <海晶港> 4022sun >> 要不让小冷加个墓碑呗
+[21:24:41] [Server thread/INFO]: <海晶港> 4022sun >> XD
+[21:24:51] [Server thread/INFO]: <海晶港> whichwho >> 区块不加载应该还有救
+[21:24:57] [Server thread/INFO]: <海晶港> 4022sun >> ???
+[21:25:15] [Server thread/INFO]: <海晶港> 4022sun >> 重新燃起了希望
+[21:25:22] [User Authenticator #6/INFO]: UUID of player Erliucwj is ec7bfac4-d764-3389-889f-a0cb89567bc6
+[21:25:22] [Server thread/INFO]: Erliucwj[/120.244.232.132:37005] logged in with entity id 18857 at ([world]132.5, 71.0625002, 237.5)
+[21:25:40] [Server thread/INFO]: Erliucwj lost connection: Disconnected
+[21:25:40] [Server thread/INFO]: Erliucwj left the game
+[21:25:42] [User Authenticator #6/INFO]: UUID of player Erliucwj is ec7bfac4-d764-3389-889f-a0cb89567bc6
+[21:25:42] [Server thread/INFO]: Erliucwj[/120.244.232.132:37080] logged in with entity id 19197 at ([world]132.5, 71.0625002, 237.5)
+[21:26:04] [Server thread/INFO]: Erliucwj lost connection: Disconnected
+[21:26:04] [Server thread/INFO]: Erliucwj left the game
+[21:26:16] [Server thread/INFO]: <海晶港> 4022sun >> 焦急的等待
+[21:26:29] [User Authenticator #6/INFO]: UUID of player Ghost_king_ is efb7414e-805e-3d58-8736-6af967530b4b
+[21:26:29] [Server thread/INFO]: Ghost_king_[/113.111.114.155:42914] logged in with entity id 19544 at ([world_nether]227.39995841194118, 118.0, 773.7512375135274)
+[21:26:37] [Server thread/INFO]: <海晶港> 4022sun >> ghost
+[21:26:41] [Server thread/INFO]: <海晶港> 4022sun >> 我重来了
+[21:26:41] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 背包满了
+[21:26:43] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 捡不起来
+[21:26:45] [Server thread/INFO]: <海晶港> 4022sun >> …………………………………………………………
+[21:26:48] [Server thread/INFO]: <海晶港> 4022sun >> 拖
+[21:26:52] [Server thread/INFO]: <海晶港> 4022sun >> 先刷一波时间……
+[21:27:00] [Server thread/INFO]: <海晶港> 4022sun >> 我给你送箱子
+[21:27:33] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[21:27:34] [Server thread/INFO]: <海晶港> whichwho >> 你在哪里
+[21:27:38] [Server thread/INFO]: <海晶港> whichwho >> 我在附近
+[21:27:44] [Server thread/INFO]: <海晶港> Ghost_king_ >> 其实吧
+[21:27:48] [Server thread/INFO]: <海晶港> 4022sun >> 161 58 705
+[21:27:50] [Server thread/INFO]: <海晶港> Ghost_king_ >> 我也重来了
+[21:28:00] [Server thread/INFO]: <海晶港> Ghost_king_ >> 就很离谱
+[21:28:09] [Server thread/WARN]: whichwho moved wrongly!
+[21:28:09] [Server thread/INFO]: <海晶港> Ghost_king_ >> 岩浆流速迷离
+[21:28:09] [User Authenticator #7/INFO]: UUID of player gabe_new is b9b2fa76-467b-3e50-9471-bec0ec7d6016
+[21:28:09] [Server thread/INFO]: gabe_new[/113.201.92.62:17540] logged in with entity id 20272 at ([world]1334.2259969094305, 63.0, 101.4581395141325)
+[21:28:29] [Server thread/INFO]: <海晶港> Ghost_king_ >> 话说我为何要上线
+[21:28:39] [Server thread/INFO]: <海晶港> 4022sun >> 造盾构机！@
+[21:28:39] [Server thread/INFO]: gabe_new lost connection: Disconnected
+[21:28:39] [Server thread/INFO]: gabe_new left the game
+[21:28:42] [Server thread/INFO]: <海晶港> Ghost_king_ >> 我应该去想想怎么压缩空间啊
+[21:28:43] [User Authenticator #7/INFO]: UUID of player nan_nono_boom is bfaa4531-2878-3ae6-bce4-ea82d37c948b
+[21:28:43] [Server thread/INFO]: nan_nono_boom[/60.180.140.221:28475] logged in with entity id 21826 at ([world]1382.7355365492836, 66.5, 85.87237794573423)
+[21:29:05] [Server thread/INFO]: <海晶港> Ghost_king_ >> 我的长连杆可以用
+[21:29:08] [Server thread/INFO]: <海晶港> Ghost_king_ >> 时序没问题
+[21:29:11] [Server thread/INFO]: <海晶港> whichwho >> 可能有些掉岩浆了
+[21:29:12] [Server thread/INFO]: <海晶港> Ghost_king_ >> 死不掉
+[21:29:18] [Server thread/INFO]: <海晶港> whichwho >> 大部分应该都捡了
+[21:29:19] [User Authenticator #7/INFO]: UUID of player gabe_new is b9b2fa76-467b-3e50-9471-bec0ec7d6016
+[21:29:19] [Server thread/INFO]: gabe_new[/113.201.92.62:18219] logged in with entity id 23362 at ([world]1334.2259969094305, 63.0, 101.4581395141325)
+[21:29:24] [Server thread/INFO]: <海晶港> 4022sun >> 我死在陆地上……
+[21:29:25] [Server thread/INFO]: <海晶港> Ghost_king_ >> 但是……空间应该挺大
+[21:29:41] [Server thread/INFO]: <海晶港> Ghost_king_ >> 你扑街而死？
+[21:29:46] [Server thread/INFO]: <海晶港> 4022sun >> 摔死的
+[21:29:55] [Server thread/INFO]: <海晶港> whichwho >> 是在地上，但是岩浆旁边有些你的掉落物
+[21:29:55] [Server thread/INFO]: <海晶港> Ghost_king_ >> 那不就是扑街吗
+[21:30:05] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 一些废的
+[21:30:05] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[21:30:05] [Server thread/INFO]: Ghost_king_ left the game
+[21:30:07] [Server thread/INFO]: <海晶港> 4022sun >> 鞘翅还在ma
+[21:30:07] [Server thread/INFO]: <海晶港> whichwho >> 一滴恶魂泪
+[21:30:24] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 我鞘翅呢
+[21:30:33] [Server thread/INFO]: <海晶港> 4022sun >> 你的鞘翅在169 64 765
+[21:31:26] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> ???
+[21:31:33] [Server thread/INFO]: <海晶港> 4022sun >> e
+[21:31:34] [Server thread/INFO]: <海晶港> whichwho >> 51本书，10个石英矿
+[21:31:38] [Server thread/INFO]: <海晶港> whichwho >> 别的没啦？
+[21:31:39] [Server thread/INFO]: <海晶港> 4022sun >> ??
+[21:31:42] [Server thread/INFO]: <海晶港> 4022sun >> 书？
+[21:31:57] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 1
+[21:32:01] [Server thread/INFO]: <海晶港> whichwho >> 一个满耐久的剪刀
+[21:32:03] [Server thread/INFO]: <海晶港> 4022sun >> 北梦……
+[21:32:05] [Server thread/INFO]: <海晶港> whichwho >> 还有啥？
+[21:32:07] [Server thread/INFO]: <海晶港> 4022sun >> 你鞘翅没了……
+[21:32:17] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> ?
+[21:32:20] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> emmm
+[21:32:33] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 我身上这件鞘翅是送新萌的
+[21:32:39] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> soqwq
+[21:32:55] [Server thread/INFO]: <海晶港> 4022sun >> 我东西你捡了嘛
+[21:32:59] [Server thread/INFO]: <海晶港> whichwho >> 没啥事我先回了？
+[21:33:02] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> jianle
+[21:33:11] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 我末地箱里
+[21:33:14] [User Authenticator #8/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[21:33:14] [Server thread/INFO]: Auston[/157.122.65.81:52875] logged in with entity id 28012 at ([world]2758.763982284459, 76.0, -370.74596475223603)
+[21:33:30] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 你有末地箱吗
+[21:33:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
+[21:33:32] [Server thread/INFO]: <海晶港> 4022sun >> NO
+[21:33:36] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 我之前放在你死的地点了
+[21:33:41] [Server thread/INFO]: [SAML] TPS low (16.64). Will attempt to freeze some mobs...
+[21:33:41] [Server thread/INFO]: [SAML] 1296 mobs affected (1296 frozen, 0 nerfed) in 206ms. Total of 1598/2472 affected (1595 frozen, 1071 nerfed).
+[21:33:42] [Server thread/INFO]: <海晶港> whichwho >> 我挖了
+[21:33:45] [Server thread/INFO]: <海晶港> 4022sun >> 通道有
+[21:33:54] [Server thread/INFO]: Twilight203 lost connection: Disconnected
+[21:33:54] [Server thread/INFO]: Twilight203 left the game
+[21:33:59] [Server thread/WARN]: Auston was kicked due to keepalive timeout!
+[21:33:59] [Server thread/INFO]: Auston lost connection: Timed out
+[21:33:59] [Server thread/INFO]: Auston left the game
+[21:34:01] [User Authenticator #8/INFO]: UUID of player Twilight203 is 1202da80-513c-37cf-b348-c7ff4ec606e7
+[21:34:01] [Server thread/INFO]: Twilight203[/120.231.49.194:47966] logged in with entity id 30090 at ([world]5299.317210527941, 64.0, 295.2161498436086)
+[21:34:04] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 你这坐标，，，
+[21:34:10] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 你没加小地图
+[21:34:12] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> ？
+[21:34:15] [Server thread/INFO]: <海晶港> 4022sun >> 加了
+[21:34:21] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> emm
+[21:34:31] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 你这个鞘翅给我呗qwq
+[21:34:34] [Server thread/INFO]: <海晶港> 4022sun >> cao
+[21:34:42] [Server thread/INFO]: <海晶港> 4022sun >> 我就一个
+[21:34:44] [Server thread/INFO]: <海晶港> 4022sun >> QAQ
+[21:34:44] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> qwq
+[21:34:52] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 我身上这个是给新萌的
+[21:35:01] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 新萌没了鞘翅多伤心啊
+[21:35:05] [Server thread/INFO]: <海晶港> 4022sun >> 内个谁不是有嘛
+[21:35:18] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 那你找which要呗qwq
+[21:35:21] [User Authenticator #9/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[21:35:21] [Server thread/INFO]: Auston[/157.122.65.81:46092] logged in with entity id 32053 at ([world]2758.763982284459, 76.0, -370.74596475223603)
+[21:35:22] [Server thread/INFO]: <海晶港> 4022sun >> ……………………………………
+[21:35:27] [Server thread/INFO]: <海晶港> 4022sun >> 我……
+[21:35:34] [Server thread/INFO]: North_dream lost connection: Disconnected
+[21:35:34] [Server thread/INFO]: North_dream left the game
+[21:35:34] [Server thread/INFO]: <海晶港> 4022sun >> 凸(艹皿艹 )
+[21:35:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[21:35:43] [Server thread/INFO]: [SAML] TPS low (17.73). Will attempt to freeze some mobs...
+[21:35:43] [Server thread/INFO]: [SAML] 838 mobs affected (838 frozen, 0 nerfed) in 267ms. Total of 1571/2399 affected (1569 frozen, 1061 nerfed).
+[21:36:05] [Server thread/WARN]: Twilight203 moved wrongly!
+[21:36:08] [Server thread/INFO]: <海晶港> 4022sun >> so，我装备呢……
+[21:36:22] [Server thread/INFO]: <海晶港> 4022sun >> 我今晚为什么要上线……
+[21:36:28] [Server thread/INFO]: Twilight203 lost connection: Disconnected
+[21:36:28] [Server thread/INFO]: Twilight203 left the game
+[21:36:59] [User Authenticator #10/INFO]: UUID of player North_dream is d67a3baa-7576-3c30-8780-392ea4cf4568
+[21:37:00] [Server thread/INFO]: North_dream[/39.158.155.157:48476] logged in with entity id 35700 at ([world_nether]169.30000001192093, 66.0, 768.0510128204556)
+[21:37:03] [Server thread/INFO]: <海晶港> 4022sun >> so，我装备呢……
+[21:37:11] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 我潜隐箱里
+[21:37:13] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 啊呸
+[21:37:17] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 末地箱里
+[21:37:17] [Server thread/INFO]: <海晶港> 4022sun >> 过来
+[21:37:23] [Server thread/INFO]: <海晶港> 4022sun >> 通道这里有末影箱
+[21:37:28] [Server thread/INFO]: <海晶港> 4022sun >> = =
+[21:37:39] [Server thread/INFO]: <海晶港> 4022sun >> 早知道不借北梦鞘翅了
+[21:37:44] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> ?
+[21:37:46] [Server thread/INFO]: <海晶港> whichwho >> 你在哪里
+[21:37:50] [Server thread/INFO]: <海晶港> 4022sun >> 通道
+[21:37:53] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 不借我鞘翅?
+[21:38:08] [Server thread/INFO]: <海晶港> 4022sun >> 我还有一只三叉戟
+[21:38:17] [Server thread/INFO]: <海晶港> 4022sun >> 你别嚣张=w=
+[21:38:41] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 1
+[21:38:44] [Server thread/INFO]: <海晶港> 4022sun >> 2
+[21:38:55] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> ?
+[21:39:01] [Server thread/INFO]: 4022sun has made the advancement [A Throwaway Joke]
+[21:39:02] [Server thread/INFO]: <紫晶镇> jason_ji >> 赚到了哈哈
+[21:39:24] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 末地箱给我
+[21:39:43] [Server thread/INFO]: nan_nono_boom lost connection: Disconnected
+[21:39:43] [Server thread/INFO]: nan_nono_boom left the game
+[21:39:52] [Server thread/INFO]: gabe_new lost connection: Disconnected
+[21:39:52] [Server thread/INFO]: gabe_new left the game
+[21:40:29] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> qwq
+[21:40:35] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> which
+[21:40:38] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 你还有鞘翅吗
+[21:40:41] [Server thread/INFO]: <海晶港> 4022sun >> ??
+[21:40:45] [Server thread/INFO]: <海晶港> 4022sun >> 多了把三叉戟
+[21:40:49] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> ?
+[21:40:51] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 给我！
+[21:40:51] [Server thread/INFO]: <海晶港> whichwho >> 虽然还有不少
+[21:40:59] [Server thread/INFO]: <海晶港> whichwho >> 但是不喜欢被白嫖
+[21:41:02] [Server thread/INFO]: Auston lost connection: Disconnected
+[21:41:02] [Server thread/INFO]: Auston left the game
+[21:41:04] [Server thread/INFO]: <海晶港> 4022sun >> QAQ
+[21:41:05] [User Authenticator #11/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[21:41:06] [Server thread/INFO]: Auston[/157.122.65.81:49245] logged in with entity id 39515 at ([world]2709.223626325109, 63.0, -325.81666452864846)
+[21:41:07] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> XD
+[21:41:11] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> qwq
+[21:41:16] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 你怪他
+[21:41:17] [Server thread/WARN]: Auston moved too quickly! -0.476373662970218,-1.252203340253729,-18.97166027334265
+[21:41:21] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 他弄丢的我鞘翅
+[21:41:22] [Server thread/INFO]: <海晶港> 4022sun >> 我的呢………………
+[21:41:24] [Server thread/INFO]: <海晶港> 4022sun >> cao
+[21:41:25] [Server thread/INFO]: <海晶港> whichwho >> 自己拿一个
+[21:41:33] [Server thread/INFO]: <海晶港> 4022sun >> 我不说了你鞘翅的坐标了
+[21:41:37] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> qwq
+[21:41:43] [Server thread/INFO]: <海晶港> 4022sun >> 你不去拿= =
+[21:41:43] [Server thread/INFO]: Auston lost connection: Disconnected
+[21:41:43] [Server thread/INFO]: Auston left the game
+[21:41:50] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 你有小地图就给我发坐标啊
+[21:41:59] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 那个蓝色的坐标
+[21:42:00] [Server thread/INFO]: <梦曦城><海晶港> North_dream >> 我先下了
+[21:42:01] [Server thread/INFO]: <海晶港> 4022sun >> = =
+[21:42:03] [User Authenticator #11/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[21:42:03] [Server thread/INFO]: Auston[/157.122.65.81:14635] logged in with entity id 40718 at ([world]2728.638998823502, 63.0, -343.76249998807907)
+[21:42:07] [Server thread/INFO]: <海晶港> 4022sun >> 白
+[21:42:12] [Server thread/WARN]: Auston moved too quickly! -25.945833765158568,-0.6073954500486565,3.5920561630390466
+[21:42:14] [Server thread/INFO]: North_dream lost connection: Disconnected
+[21:42:14] [Server thread/INFO]: North_dream left the game
+[21:42:16] [Server thread/INFO]: <海晶港> 4022sun >> 今儿太沙雕了
+[21:42:21] [Server thread/INFO]: Auston lost connection: Disconnected
+[21:42:21] [Server thread/INFO]: Auston left the game
+[21:42:25] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[21:42:25] [Server thread/INFO]: jason_ji left the game
+[21:42:52] [Server thread/INFO]: <海晶港> 4022sun >> 挖石英然后GG
+[21:43:00] [Server thread/INFO]: <海晶港> whichwho >> 不缺石英了
+[21:43:11] [Server thread/INFO]: <海晶港> whichwho >> 石英都一盒子了
+[21:43:16] [Server thread/INFO]: <海晶港> 4022sun >> 还有的挖呢
+[21:43:23] [Server thread/INFO]: <海晶港> 4022sun >> 等退这块的时候
+[21:43:26] [Server thread/INFO]: <海晶港> 4022sun >> 推
+[21:43:30] [Server thread/INFO]: <海晶港> 4022sun >> 还能挖一点
+[21:43:33] [Server thread/INFO]: <海晶港> whichwho >> 快别挖了
+[21:43:42] [Server thread/INFO]: <海晶港> whichwho >> 就都炸了吧
+[21:43:55] [Server thread/INFO]: <海晶港> whichwho >> 炸空置域的时候也没见挖钻石的
+[21:43:57] [Server thread/INFO]: <海晶港> 4022sun >> 多多益善=w
+[21:44:01] [Server thread/INFO]: <海晶港> 4022sun >> =w=
+[21:44:07] [Server thread/INFO]: <海晶港> 4022sun >> 空置域是世吞
+[21:44:16] [Server thread/INFO]: <海晶港> 4022sun >> 你冒着TNT雨挖啊
+[21:44:25] [Server thread/INFO]: <海晶港> 4022sun >> 233
+[21:45:22] [User Authenticator #12/INFO]: UUID of player Erliucwj is ec7bfac4-d764-3389-889f-a0cb89567bc6
+[21:45:22] [Server thread/INFO]: Erliucwj[/120.244.232.132:34289] logged in with entity id 41854 at ([world]132.5, 71.0625002, 237.5)
+[21:45:26] [Server thread/INFO]: <海晶港> whichwho >> 一直都觉得你们炸的地方不对
+[21:45:38] [Server thread/INFO]: <海晶港> whichwho >> 但是已经施工这么多了
+[21:45:45] [Server thread/INFO]: <海晶港> 4022sun >> XD
+[21:46:46] [User Authenticator #13/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[21:46:46] [Server thread/INFO]: Auston[/157.122.65.81:16816] logged in with entity id 42592 at ([world]2754.5848325886604, 63.5, -347.3545561511181)
+[21:46:47] [Server thread/INFO]: xxuurruuii >> 失去梦想
+[21:46:49] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:46:49] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[21:46:52] [Server thread/INFO]: xxuurruuii was shot by 工具骷髅
+[21:46:58] [Server thread/INFO]: <海晶港> 4022sun >> ??
+[21:47:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[21:47:39] [Server thread/INFO]: xxuurruuii fell from a high place
+[21:47:50] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[21:47:50] [Server thread/INFO]: [SAML] TPS low (17.8). Will attempt to freeze some mobs...
+[21:47:50] [Server thread/INFO]: [SAML] 744 mobs affected (744 frozen, 0 nerfed) in 165ms. Total of 1122/1693 affected (1119 frozen, 602 nerfed).
+[21:47:50] [Server thread/INFO]: Star_ash lost connection: Disconnected
+[21:47:50] [Server thread/INFO]: Star_ash left the game
+[21:48:06] [Server thread/INFO]: xxuurruuii fell from a high place
+[21:48:16] [Server thread/INFO]: Erliucwj lost connection: Disconnected
+[21:48:16] [Server thread/INFO]: Erliucwj left the game
+[21:48:23] [Server thread/INFO]: Aly_xxx >> 空置域在哪里啊
+[21:48:34] [Server thread/INFO]: Auston lost connection: Disconnected
+[21:48:34] [Server thread/INFO]: Auston left the game
+[21:48:41] [User Authenticator #14/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[21:48:41] [Server thread/INFO]: Auston[/119.147.145.5:52905] logged in with entity id 44899 at ([world]2771.1617869468546, 63.0, -389.86231058773643)
+[21:49:12] [Server thread/INFO]: xxuurruuii tried to swim in lava
+[21:49:17] [Server thread/INFO]: Aly_xxx >> ???
+[21:49:19] [Server thread/INFO]: <海晶港> 4022sun >> ??
+[21:49:23] [Server thread/INFO]: whichwho lost connection: Disconnected
+[21:49:23] [Server thread/INFO]: whichwho left the game
+[21:49:24] [User Authenticator #14/INFO]: UUID of player whichwho is da89e723-da55-3702-ab7a-6ff4f008af05
+[21:49:24] [Server thread/INFO]: whichwho[/183.200.0.176:8959] logged in with entity id 46223 at ([world_nether]334.69999998807907, 115.0, -8.070604338768627)
+[21:49:28] [Server thread/INFO]: <海晶港> 4022sun >> 一百种死法？
+[21:49:35] [Server thread/INFO]: Aly_xxx >> 怎么复制旗帜
+[21:49:44] [Server thread/INFO]: <海晶港> 4022sun >> 羊驼
+[21:50:08] [Server thread/INFO]: <海晶港> whichwho >> 我好像
+[21:50:14] [Server thread/INFO]: Aly_xxx >> ?
+[21:50:14] [Server thread/INFO]: <海晶港> whichwho >> 干了什么不得了的事情
+[21:50:17] [Server thread/INFO]: Aly_xxx >> 怎么复制旗帜
+[21:50:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[21:50:33] [Server thread/INFO]: Auston lost connection: Flying is not enabled on this server
+[21:50:33] [Server thread/INFO]: Auston left the game
+[21:50:33] [Server thread/WARN]: handleDisconnection() called twice
+[21:50:36] [User Authenticator #15/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[21:50:36] [Server thread/INFO]: Auston[/119.147.145.9:52921] logged in with entity id 46781 at ([world]2811.6980474161587, 63.0361253090856, -412.2355281484373)
+[21:50:37] [Server thread/INFO]: xxuurruuii fell out of the world
+[21:50:40] [Server thread/INFO]: <海晶港> whichwho >> 海晶的这个门貌似被我弄坏了
+[21:50:50] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[21:50:50] [Server thread/INFO]: 4022sun left the game
+[21:50:51] [User Authenticator #15/INFO]: UUID of player 4022sun is 0f8facbb-1bc0-32a4-8482-a1609c7cb93b
+[21:50:51] [Server thread/INFO]: 4022sun[/117.182.181.212:15906] logged in with entity id 47857 at ([world_nether]264.70027698909365, 116.0, 780.062656653607)
+[21:51:02] [User Authenticator #15/INFO]: UUID of player gabe_new is b9b2fa76-467b-3e50-9471-bec0ec7d6016
+[21:51:03] [Server thread/INFO]: gabe_new[/113.201.92.62:17962] logged in with entity id 48051 at ([world]1364.9646896516667, 63.0, 88.69999998807906)
+[21:51:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5036ms or 100 ticks behind
+[21:51:44] [Server thread/INFO]: xxuurruuii drowned
+[21:51:54] [Server thread/INFO]: [SAML] TPS low (18.14). Will attempt to freeze some mobs...
+[21:51:54] [Server thread/INFO]: [SAML] 724 mobs affected (724 frozen, 0 nerfed) in 176ms. Total of 1215/1906 affected (1213 frozen, 777 nerfed).
+[21:52:08] [Server thread/INFO]: Aly_xxx >> 1000死法
+[21:52:17] [Server thread/INFO]: xxuurruuii suffocated in a wall
+[21:52:22] [Server thread/INFO]: Aly_xxx >> 1001死法
+[21:52:51] [Server thread/INFO]: xxuurruuii was squashed by a falling anvil
+[21:54:16] [Server thread/INFO]: <海晶港> whichwho >> 十组蜂蜜块
+[21:54:23] [Server thread/INFO]: xxuurruuii >> 为什么剧毒药水毒不死= =
+[21:54:25] [Server thread/INFO]: <海晶港> whichwho >> 这效率够高
+[21:54:35] [Server thread/INFO]: <海晶港> whichwho >> 剧毒死不了。。。
+[21:54:41] [Server thread/INFO]: <海晶港> whichwho >> 需要毒蜘蛛
+[21:54:45] [Server thread/INFO]: <海晶港> 4022sun >> 建议凋零
+[21:54:54] [Server thread/INFO]: <海晶港> whichwho >> 内个好像是致命剧毒
+[21:55:05] [Server thread/INFO]: <海晶港> 4022sun >> 毒蜘蛛也不会死
+[21:55:16] [Server thread/INFO]: xxuurruuii >> 毒蜘蛛是伤害+中毒
+[21:55:23] [Server thread/INFO]: xxuurruuii >> 毒蜘蛛的中毒死不了
+[21:55:32] [Server thread/INFO]: xxuurruuii >> 瞬间伤害咋做
+[21:55:51] [Server thread/INFO]: <海晶港> whichwho >> 瞬间治疗+发酵蛛眼
+[21:55:59] [Server thread/INFO]: <海晶港> 4022sun >> 腐化
+[21:56:19] [Server thread/INFO]: <海晶港> whichwho >> 瞬间治疗是金西瓜
+[21:58:09] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[21:58:09] [Server thread/INFO]: 4022sun left the game
+[21:58:10] [User Authenticator #16/INFO]: UUID of player 4022sun is 0f8facbb-1bc0-32a4-8482-a1609c7cb93b
+[21:58:10] [Server thread/INFO]: 4022sun[/117.182.181.212:16352] logged in with entity id 55176 at ([world_nether]303.3298981834444, 117.0, 776.4019509701379)
+[21:58:18] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[21:58:18] [Server thread/INFO]: 4022sun left the game
+[21:58:20] [User Authenticator #16/INFO]: UUID of player 4022sun is 0f8facbb-1bc0-32a4-8482-a1609c7cb93b
+[21:58:20] [Server thread/INFO]: 4022sun[/117.182.181.212:16366] logged in with entity id 55304 at ([world_nether]303.3298981834444, 117.0, 776.4019509701379)
+[21:58:24] [Server thread/INFO]: xxuurruuii hit the ground too hard
+[21:58:39] [Server thread/INFO]: <海晶港> 4022sun >> 谁在地狱
+[21:58:41] [Server thread/INFO]: <海晶港> 4022sun >> ？
+[21:58:59] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[21:58:59] [Server thread/INFO]: 4022sun left the game
+[21:59:01] [User Authenticator #16/INFO]: UUID of player 4022sun is 0f8facbb-1bc0-32a4-8482-a1609c7cb93b
+[21:59:01] [Server thread/INFO]: 4022sun[/117.182.181.212:16388] logged in with entity id 55708 at ([world_nether]281.8865444661209, 117.0, 777.3000000119209)
+[22:00:37] [Server thread/INFO]: <海晶港> whichwho >> 来帮我盖二层？
+[22:00:41] [Server thread/INFO]: <海晶港> whichwho >> 还是加宽
+[22:00:58] [Server thread/INFO]: <海晶港> whichwho >> 蜜蜂有点太多了
+[22:00:59] [Server thread/INFO]: xxuurruuii was killed by xxuurruuii using magic
+[22:00:59] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:00:59] [Server thread/INFO]: Auston left the game
+[22:01:01] [User Authenticator #17/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:01:01] [Server thread/INFO]: Auston[/119.147.145.17:52947] logged in with entity id 56646 at ([world]2743.99891976489, 63.0, -450.0194477061261)
+[22:01:47] [Server thread/INFO]: <海晶港> whichwho >> 需要大量的蜜蜂无巢可归
+[22:01:53] [Server thread/WARN]: Auston moved too quickly! 0.45055707891833663,0.7491870787446828,15.97159779969735
+[22:01:57] [Server thread/INFO]: <海晶港> 4022sun >> 魔鬼
+[22:01:58] [Server thread/INFO]: <海晶港> whichwho >> 是时候盖新农场了
+[22:02:19] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:02:20] [Server thread/INFO]: Auston left the game
+[22:02:40] [Server thread/INFO]: <海晶港> whichwho >> 所有蜜蜂工作一波就有半组蜂蜜块
+[22:02:48] [User Authenticator #18/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:02:48] [Server thread/INFO]: Auston[/157.122.65.81:40491] logged in with entity id 57517 at ([world]2744.373770133175, 63.0, -420.94816537401425)
+[22:02:53] [Server thread/INFO]: <海晶港> whichwho >> 但是大部分蜜蜂是冻结状态
+[22:03:00] [Server thread/INFO]: <海晶港> whichwho >> 这就很气
+[22:03:26] [Server thread/INFO]: <海晶港> whichwho >> 蜜脾收集了两盒了
+[22:04:08] [Server thread/INFO]: xxuurruuii >> 好无聊啊
+[22:04:42] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:04:42] [Server thread/INFO]: Auston left the game
+[22:06:32] [User Authenticator #19/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:06:32] [Server thread/INFO]: Auston[/157.122.65.81:20005] logged in with entity id 59133 at ([world]2802.867845334174, 63.0, -427.4818561926861)
+[22:07:03] [Server thread/INFO]: <海晶港> whichwho >> 发射器
+[22:07:14] [Server thread/INFO]: <海晶港> whichwho >> 这破玩意真难做
+[22:07:17] [User Authenticator #19/INFO]: UUID of player Bili_CMZ is 289a7da1-b258-309e-8d6a-6982a64be4b1
+[22:07:17] [Server thread/INFO]: Bili_CMZ[/117.62.97.19:35648] logged in with entity id 59486 at ([world]2704.8884879471952, 66.0, -340.69999998807907)
+[22:07:32] [Server thread/INFO]: gabe_new >> oo
+[22:07:33] [User Authenticator #19/INFO]: UUID of player Li_zi_wei is 8a82c95f-5ace-351d-a712-6eb8488d929d
+[22:07:33] [Server thread/INFO]: Li_zi_wei[/112.10.138.253:5323] logged in with entity id 59579 at ([world]1373.862500011921, 65.875, -8.395416071396973)
+[22:07:35] [Server thread/INFO]: gabe_new >> oo
+[22:07:46] [Server thread/INFO]: Bili_CMZ >> LZW
+[22:07:48] [Server thread/INFO]: gabe_new >> liziwei有装备吗
+[22:07:53] [User Authenticator #19/INFO]: UUID of player Li_zi_wei is 8a82c95f-5ace-351d-a712-6eb8488d929d
+[22:07:53] [Server thread/INFO]: Li_zi_wei lost connection: You logged in from another location
+[22:07:53] [Server thread/INFO]: Li_zi_wei left the game
+[22:07:53] [Server thread/INFO]: Li_zi_wei[/112.10.138.253:5345] logged in with entity id 60608 at ([world]1373.862500011921, 65.875, -8.395416071396973)
+[22:07:53] [Server thread/WARN]: handleDisconnection() called twice
+[22:07:54] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[22:07:54] [Server thread/INFO]: gabe_new >> 我没资本了
+[22:08:06] [Server thread/INFO]: gabe_new >> 不能雇黑奴了(
+[22:08:06] [Server thread/INFO]: Bili_CMZ >> LZW现在什么情况？
+[22:08:09] [Server thread/INFO]: Bili_CMZ >> LZW现在什么情况？
+[22:08:12] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 看q群
+[22:08:21] [Server thread/INFO]: gabe_new >> 群号多少
+[22:08:23] [Server thread/INFO]: gabe_new >> awa
+[22:08:23] [Server thread/INFO]: Bili_CMZ >> 看不了。。QQ没了
+[22:08:30] [Server thread/INFO]: <海晶港> 4022sun >> ??
+[22:08:34] [Server thread/INFO]: gabe_new >> 我加下外群
+[22:08:40] [Server thread/INFO]: gabe_new >> 我回来了
+[22:08:44] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:08:44] [Server thread/INFO]: Auston left the game
+[22:08:47] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> gabe你人在哪
+[22:08:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[22:08:53] [Server thread/INFO]: gabe_new >> 龙岩基地
+[22:09:03] [Server thread/INFO]: gabe_new >> 我要回来吗
+[22:09:09] [Server thread/INFO]: <海晶港> 4022sun >> WC
+[22:09:14] [Server thread/INFO]: <海晶港> 4022sun >> 差点去世
+[22:09:16] [Server thread/INFO]: Bili_CMZ >> 4022
+[22:09:21] [Server thread/INFO]: <海晶港> 4022sun >> ?
+[22:09:24] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 坐标哪里
+[22:09:30] [Server thread/INFO]: Bili_CMZ >> 现在海晶缺什么吗？
+[22:09:38] [Server thread/INFO]: <海晶港> 4022sun >> 不缺啥了吧
+[22:09:43] [Server thread/INFO]: gabe_new >> 2500 2500直接走地狱基岩上方
+[22:09:47] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 海晶不是共镇2333
+[22:09:50] [Server thread/INFO]: gabe_new >> 312 312有地狱门
+[22:09:53] [Server thread/INFO]: Bili_CMZ >> 刷黑曜石机?
+[22:10:08] [Server thread/INFO]: Bili_CMZ >> 刷黑曜石机?(反复去世机)
+[22:10:15] [Server thread/INFO]: Aly_xxx >> 23333
+[22:10:26] [Server thread/INFO]: Bili_CMZ >> LZW
+[22:10:27] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 趁我没被ban
+[22:10:32] [Server thread/INFO]: Bili_CMZ >> ？？？
+[22:10:40] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 赶紧送东西（
+[22:10:43] [Server thread/INFO]: gabe_new >> ok
+[22:10:45] [Server thread/INFO]: Bili_CMZ >> 给我吧
+[22:10:45] [Server thread/INFO]: gabe_new >> awa
+[22:10:55] [Server thread/INFO]: Bili_CMZ >> 鞘翅TAT
+[22:10:55] [Server thread/INFO]: gabe_new >> 我永远不会被ban
+[22:10:59] [Server thread/INFO]: gabe_new >> 我以前一直开挂
+[22:11:01] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> py(
+[22:11:03] [Server thread/INFO]: gabe_new >> 你们都没发现
+[22:11:27] [Server thread/INFO]: gabe_new >> lzw你在哪我去找你awa
+[22:11:40] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 我在来2500 2500路上
+[22:11:42] [User Authenticator #20/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:11:42] [Server thread/INFO]: Auston[/157.122.65.81:47670] logged in with entity id 66136 at ([world]2802.231704927324, 63.0, -430.4571448451586)
+[22:11:56] [Server thread/INFO]: gabe_new >> 噗
+[22:12:03] [Server thread/INFO]: gabe_new >> 我刚到共镇
+[22:12:08] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 233
+[22:12:10] [Server thread/INFO]: xxuurruuii >> 好无聊啊
+[22:12:26] [Server thread/INFO]: gabe_new >> 等着我
+[22:12:36] [Server thread/INFO]: Bili_CMZ >> 给我吧
+[22:12:41] [Server thread/WARN]: gabe_new was kicked for floating too long!
+[22:12:41] [Server thread/INFO]: gabe_new lost connection: Flying is not enabled on this server
+[22:12:41] [Server thread/INFO]: gabe_new left the game
+[22:12:41] [Server thread/WARN]: handleDisconnection() called twice
+[22:12:43] [User Authenticator #21/INFO]: UUID of player gabe_new is b9b2fa76-467b-3e50-9471-bec0ec7d6016
+[22:12:43] [Server thread/INFO]: gabe_new[/113.201.92.62:18216] logged in with entity id 67110 at ([world_nether]64.53371374500264, 136.84371474773482, 82.1006454771396)
+[22:13:08] [Server thread/INFO]: gabe_new >> 没找到你
+[22:13:19] [Server thread/INFO]: gabe_new >> 在地狱312 312处
+[22:13:32] [Server thread/INFO]: gabe_new >> 基岩层上方
+[22:14:27] [Server thread/INFO]: gabe_new >> 233
+[22:14:33] [Server thread/INFO]: Bili_CMZ >> ?
+[22:14:45] [Server thread/INFO]: gabe_new >> 胸甲
+[22:14:54] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 等下
+[22:15:29] [Server thread/INFO]: Bili_CMZ >> 你们在哪？
+[22:16:21] [Server thread/INFO]: xxuurruuii was killed by xxuurruuii using magic
+[22:16:26] [Server thread/INFO]: <海晶港> 4022sun >> ??
+[22:16:26] [Server thread/INFO]: Bili_CMZ >> ??
+[22:16:31] [Server thread/INFO]: Bili_CMZ >> 天才？
+[22:16:45] [Server thread/INFO]: xxuurruuii >> 瞬间伤害
+[22:16:48] [Server thread/INFO]: xxuurruuii >> 药水
+[22:16:50] [Server thread/INFO]: Bili_CMZ >> ..
+[22:16:52] [Server thread/INFO]: <海晶港> 4022sun >> ??
+[22:17:02] [Server thread/INFO]: whichwho lost connection: Disconnected
+[22:17:02] [Server thread/INFO]: whichwho left the game
+[22:17:04] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:17:04] [Server thread/INFO]: Auston left the game
+[22:17:05] [User Authenticator #22/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:17:05] [Server thread/INFO]: Auston[/157.122.65.81:56444] logged in with entity id 70241 at ([world]2742.799280118396, 63.0, -450.6116028655256)
+[22:17:08] [Server thread/INFO]: gabe_new was blown up by Creeper
+[22:17:15] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:17:15] [Server thread/INFO]: Auston left the game
+[22:17:23] [User Authenticator #22/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:17:23] [Server thread/INFO]: Auston[/157.122.65.81:53430] logged in with entity id 71294 at ([world]2742.506245246315, 63.0, -450.4684139190989)
+[22:17:31] [Server thread/INFO]: gabe_new was slain by Li_zi_wei using [ドクター、終わってない仕事がたくさんありますから、まだ休んじゃだめです]
+[22:17:35] [Server thread/INFO]: <海晶港> 4022sun >> ?????
+[22:17:36] [Server thread/INFO]: xxuurruuii >> .
+[22:17:36] [Server thread/INFO]: Bili_CMZ >> ????
+[22:17:41] [Server thread/INFO]: Bili_CMZ >> woc
+[22:17:44] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 打错了。。。
+[22:17:48] [Server thread/INFO]: Bili_CMZ lost connection: Disconnected
+[22:17:48] [Server thread/INFO]: Bili_CMZ left the game
+[22:17:50] [User Authenticator #22/INFO]: UUID of player Bili_CMZ is 289a7da1-b258-309e-8d6a-6982a64be4b1
+[22:17:50] [Server thread/INFO]: Bili_CMZ[/117.62.97.19:33921] logged in with entity id 72565 at ([world_nether]34.16034883623589, 115.0, 21.777128411829228)
+[22:17:52] [Server thread/INFO]: gabe_new was shot by Skeleton
+[22:18:00] [Server thread/INFO]: gabe_new >> 都被怪物抢走了
+[22:18:01] [Server thread/INFO]: Bili_CMZ >> 你们到底在哪？
+[22:18:06] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:18:06] [Server thread/INFO]: Auston left the game
+[22:18:08] [User Authenticator #22/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:18:08] [Server thread/INFO]: gabe_new >> 2500 2500
+[22:18:08] [Server thread/INFO]: Auston[/157.122.65.81:54427] logged in with entity id 72758 at ([world]2742.4437486200886, 63.0, -451.6619802377749)
+[22:18:12] [Server thread/INFO]: Bili_CMZ >> 地狱？
+[22:18:14] [Server thread/INFO]: xxuurruuii went up in flames
+[22:18:25] [Server thread/INFO]: Bili_CMZ >> 溜了
+[22:18:32] [Server thread/INFO]: Bili_CMZ >> 求个鞘翅
+[22:18:36] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:18:36] [Server thread/INFO]: Auston left the game
+[22:18:57] [User Authenticator #22/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:18:57] [Server thread/INFO]: Auston[/157.122.65.81:37784] logged in with entity id 74042 at ([world]2742.1016401973047, 63.0, -450.0496189305869)
+[22:19:04] [Server thread/WARN]: Auston moved too quickly! -25.837216944568354,-3.0013359791121417,1.0999236087068311
+[22:19:08] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:08] [Server thread/INFO]: Auston lost connection: Flying is not enabled on this server
+[22:19:08] [Server thread/INFO]: Auston left the game
+[22:19:08] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:08] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:08] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:08] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:09] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:10] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:11] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:12] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:13] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:14] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:15] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:16] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:17] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:18] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/INFO]: xxuurruuii drowned whilst trying to escape xxuurruuii
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:19] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:20] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:21] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:21] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:21] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:21] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:21] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:21] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:19:23] [User Authenticator #22/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:19:23] [Server thread/INFO]: Auston[/157.122.65.81:17535] logged in with entity id 75399 at ([world]2767.938857141873, 65.92293597758626, -451.14954253929375)
+[22:19:35] [Server thread/WARN]: Auston moved wrongly!
+[22:19:54] [Server thread/INFO]: gabe_new >> 我..
+[22:19:59] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:19:59] [Server thread/INFO]: Auston left the game
+[22:19:59] [Server thread/INFO]: gabe_new >> 都被炸了
+[22:20:00] [Server thread/INFO]: gabe_new >> ?
+[22:20:01] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 装备再
+[22:20:01] [Server thread/INFO]: xxuurruuii >> 真·自我放逐
+[22:20:02] [User Authenticator #22/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:20:02] [Server thread/INFO]: Auston[/157.122.65.81:22066] logged in with entity id 76472 at ([world]2753.750105116939, 63.0, -449.4227957053527)
+[22:20:04] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 在
+[22:20:04] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:20:04] [Server thread/INFO]: Auston left the game
+[22:20:09] [Server thread/INFO]: Bili_CMZ >> ?
+[22:20:12] [User Authenticator #22/INFO]: UUID of player Windy_xx is 05ccfeb7-a3f8-3c1f-b477-41d81224b9c2
+[22:20:12] [Server thread/INFO]: Windy_xx[/175.4.216.60:29334] logged in with entity id 77387 at ([world_nether]333.1919679988389, 115.5, -4.9097363898542135)
+[22:20:18] [Server thread/INFO]: gabe_new >> 谢谢你
+[22:20:22] [User Authenticator #22/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:20:22] [Server thread/INFO]: Auston[/157.122.65.81:28445] logged in with entity id 77480 at ([world]2753.750105116939, 63.0, -449.4227957053527)
+[22:20:26] [Server thread/INFO]: Bili_CMZ >> 哇
+[22:20:26] [Server thread/INFO]: <紫晶镇> <Windy_xx>  哎哟我TM
+[22:20:30] [Server thread/INFO]: Bili_CMZ >> 羡慕
+[22:20:34] [Server thread/INFO]: <紫晶镇> <Windy_xx>  一脸懵B的进群
+[22:20:45] [Server thread/INFO]: <紫晶镇> <Windy_xx>  一脸懵逼的进服务器
+[22:20:56] [Server thread/INFO]: gabe_new >> 有弓嘛awa
+[22:20:58] [Server thread/INFO]: Bili_CMZ >> LZW送装备
+[22:21:04] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 不是
+[22:21:04] [Server thread/INFO]: xxuurruuii >> 失去梦想
+[22:21:08] [Server thread/INFO]: Bili_CMZ >> ?
+[22:21:09] [Server thread/INFO]: xxuurruuii blew up
+[22:21:11] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 这是gabe原本给我的
+[22:21:14] [Server thread/INFO]: Bili_CMZ >> O
+[22:21:18] [Server thread/INFO]: Bili_CMZ >> 886
+[22:21:20] [Server thread/INFO]: xxuurruuii >> 自我放弃
+[22:21:22] [Server thread/INFO]: Bili_CMZ >> 我下了
+[22:21:25] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:25] [Server thread/INFO]: Auston lost connection: Flying is not enabled on this server
+[22:21:25] [Server thread/INFO]: Auston left the game
+[22:21:25] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:25] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:25] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:25] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:25] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:25] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:25] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:25] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:25] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:25] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/INFO]: Bili_CMZ lost connection: Disconnected
+[22:21:26] [Server thread/INFO]: Bili_CMZ left the game
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:26] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:27] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:28] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:29] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:30] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:31] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:32] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:33] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:34] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:35] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:36] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:37] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:38] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:39] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:40] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:41] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:42] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:43] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:44] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:45] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:46] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:47] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:48] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:49] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:50] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:51] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:52] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:53] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:54] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:55] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:55] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:55] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:55] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:55] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:21:55] [Server thread/WARN]: Auston was kicked for floating too long!
+[22:22:01] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> ?
+[22:22:07] [Server thread/INFO]: gabe_new >> 鞘翅qwq
+[22:22:16] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 没带。。。
+[22:22:18] [Server thread/INFO]: gabe_new >> 算了我自己找
+[22:22:28] [Server thread/INFO]: Aly_xxx >> ???
+[22:22:39] [Server thread/INFO]: gabe_new >> lzw过来看看star_ash
+[22:22:45] [Server thread/WARN]: Li_zi_wei moved too quickly! -8.24530473473851,-0.9031272476744903,-10.61938612139511
+[22:22:52] [User Authenticator #23/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:22:52] [Server thread/INFO]: Auston[/157.122.65.81:1911] logged in with entity id 84211 at ([world]2780.4357838156457, 63.282925328564396, -396.39272754747776)
+[22:23:00] [Server thread/INFO]: <紫晶镇> <Windy_xx>  我到现在还是没搞清楚发生了什么
+[22:23:12] [Server thread/INFO]: gabe_new >> 下了
+[22:23:26] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> e,,,
+[22:23:40] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 等下
+[22:23:51] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 为什么黑云这边有钻石甲骷髅
+[22:23:53] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:23:53] [Server thread/INFO]: Auston left the game
+[22:23:55] [User Authenticator #24/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:23:55] [Server thread/INFO]: Auston[/157.122.65.81:57933] logged in with entity id 85638 at ([world]2779.8485851471655, 63.09590362663486, -396.35475865328345)
+[22:24:13] [Server thread/INFO]: gabe_new >> 别人死了，骷髅穿的
+[22:24:29] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 那我抢了不犯法吧/doge
+[22:24:40] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:24:40] [Server thread/INFO]: Auston left the game
+[22:24:43] [User Authenticator #24/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:24:43] [Server thread/INFO]: Auston[/157.122.65.81:16056] logged in with entity id 87016 at ([world]2780.645042169653, 63.72886686639477, -396.0935195707141)
+[22:25:38] [Server thread/WARN]: gabe_new was kicked for floating too long!
+[22:25:38] [Server thread/INFO]: gabe_new lost connection: Flying is not enabled on this server
+[22:25:38] [Server thread/INFO]: gabe_new left the game
+[22:25:39] [Server thread/WARN]: handleDisconnection() called twice
+[22:25:40] [User Authenticator #24/INFO]: UUID of player gabe_new is b9b2fa76-467b-3e50-9471-bec0ec7d6016
+[22:25:40] [Server thread/INFO]: gabe_new[/113.201.92.62:18362] logged in with entity id 88418 at ([world]2478.5633772825013, 19.924891546506764, 2523.542263735567)
+[22:26:16] [Server thread/WARN]: Auston was kicked due to keepalive timeout!
+[22:26:16] [Server thread/INFO]: Auston lost connection: Timed out
+[22:26:16] [Server thread/INFO]: Auston left the game
+[22:26:46] [Server thread/INFO]: Windy_xx lost connection: Disconnected
+[22:26:46] [Server thread/INFO]: Windy_xx left the game
+[22:26:53] [User Authenticator #25/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:26:53] [Server thread/INFO]: Auston[/157.122.65.81:27952] logged in with entity id 88824 at ([world]2806.648050298946, 63.0, -417.92785641878834)
+[22:27:51] [Server thread/INFO]: gabe_new >> 有了
+[22:27:54] [Server thread/INFO]: gabe_new >> 走了
+[22:27:57] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[22:27:57] [Server thread/INFO]: 4022sun left the game
+[22:27:59] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[22:28:05] [Server thread/INFO]: gabe_new lost connection: Disconnected
+[22:28:05] [Server thread/INFO]: gabe_new left the game
+[22:28:47] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:28:47] [Server thread/INFO]: Auston left the game
+[22:28:50] [User Authenticator #26/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:28:50] [Server thread/INFO]: Auston[/157.122.65.81:10962] logged in with entity id 90590 at ([world]2788.8256766968366, 63.0, -389.45380466273315)
+[22:29:22] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:29:22] [Server thread/INFO]: Auston left the game
+[22:29:38] [User Authenticator #26/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:29:38] [Server thread/INFO]: Auston[/157.122.65.81:19512] logged in with entity id 91953 at ([world]2780.276444830039, 63.0, -379.18305219999274)
+[22:29:39] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 【处罚决定】Li_zi_wei 封禁7天处理
+[22:29:51] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 413开始
+[22:29:54] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:29:54] [Server thread/INFO]: Auston left the game
+[22:29:58] [Server thread/INFO]: <共产镇><赞助> Li_zi_wei >> 帮我戒网瘾（bushi
+[22:30:04] [User Authenticator #26/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:30:04] [Server thread/INFO]: Auston[/157.122.65.81:42415] logged in with entity id 93235 at ([world]2780.276444830039, 63.0, -379.18305219999274)
+[22:30:40] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:30:40] [Server thread/INFO]: Auston left the game
+[22:31:30] [User Authenticator #27/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:31:30] [Server thread/INFO]: Auston[/157.122.65.81:64239] logged in with entity id 95871 at ([world]2780.276444830039, 63.0, -379.18305219999274)
+[22:31:39] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[22:31:39] [Server thread/INFO]: Li_zi_wei left the game
+[22:33:35] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:33:35] [Server thread/INFO]: Auston left the game
+[22:33:36] [User Authenticator #28/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:33:36] [Server thread/INFO]: Auston[/157.122.65.81:26988] logged in with entity id 98129 at ([world]2737.6985775165936, 63.0, -392.1883926929208)
+[22:33:48] [Server thread/WARN]: Auston moved too quickly! -23.44171884987236,0.0,-2.47465617649209
+[22:34:36] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:34:36] [Server thread/INFO]: Auston left the game
+[22:35:18] [User Authenticator #29/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:35:18] [Server thread/INFO]: Auston[/157.122.65.81:50182] logged in with entity id 99486 at ([world]2761.140296366466, 63.0, -389.7137365164287)
+[22:35:35] [Server thread/WARN]: Auston moved too quickly! -14.346160585454982,0.0,6.496379731047398
+[22:35:38] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:35:38] [Server thread/INFO]: Auston left the game
+[22:36:14] [User Authenticator #29/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:36:14] [Server thread/INFO]: Auston[/157.122.65.81:57025] logged in with entity id 100665 at ([world]2775.6629244062287, 63.0, -396.78059580020545)
+[22:36:45] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:36:45] [Server thread/INFO]: Auston left the game
+[22:36:46] [User Authenticator #29/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[22:36:46] [Server thread/INFO]: Auston[/157.122.65.81:56977] logged in with entity id 101794 at ([world]2775.4052892603318, 63.0, -398.4001208889772)
+[22:37:11] [Server thread/INFO]: Auston lost connection: Disconnected
+[22:37:11] [Server thread/INFO]: Auston left the game
+[22:39:59] [Server thread/INFO]: xxuurruuii was slain by Zombie
+[22:41:38] [User Authenticator #30/INFO]: UUID of player Cherisss is 477561a3-a4ea-38c5-9b0e-8bb2f2444cbc
+[22:41:38] [Server thread/INFO]: Cherisss[/124.132.74.127:5744] logged in with entity id 103400 at ([world]-913.4141702666808, 74.0, -7386.139072056114)
+[22:47:24] [User Authenticator #31/INFO]: UUID of player Magical7 is 6bfbca57-2a58-36c0-90ed-e3d5d6a76dc2
+[22:47:25] [Server thread/INFO]: Magical7[/39.169.219.45:14294] logged in with entity id 109287 at ([world_nether]197.90816352799754, 115.0, 69.27488014201984)
+[22:47:35] [User Authenticator #31/INFO]: UUID of player 4022sun is 0f8facbb-1bc0-32a4-8482-a1609c7cb93b
+[22:47:35] [Server thread/INFO]: 4022sun[/117.182.181.212:16660] logged in with entity id 109608 at ([world_nether]262.2151418152524, 118.0, 776.2818985079418)
+[22:47:57] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[22:47:57] [Server thread/INFO]: Magical7 left the game
+[22:47:58] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[22:47:58] [Server thread/INFO]: Villager EntityVillager['Villager'/105767, uuid='c068feea-54fb-456d-b691-049f047e99f3', l='world', x=-896.72, y=72.04, z=-7439.60, cx=-57, cz=-465, tl=35255, v=true, d=false] died, message: 'Villager was shot by Cherisss'
+[22:48:04] [Server thread/INFO]: Villager EntityVillager['Villager'/103421, uuid='324bcce1-1357-4cbe-bb16-838ffd432ca7', l='world', x=-919.34, y=72.00, z=-7439.70, cx=-58, cz=-465, tl=24065, v=true, d=false] died, message: 'Villager was shot by Cherisss'
+[22:49:59] [Server thread/INFO]: Cherisss lost connection: Disconnected
+[22:49:59] [Server thread/INFO]: Cherisss left the game
+[22:50:38] [Server thread/INFO]: Aly_xxx lost connection: Disconnected
+[22:50:38] [Server thread/INFO]: Aly_xxx left the game
+[22:50:45] [User Authenticator #32/INFO]: UUID of player Aly_xxx is be64e0b8-61b5-3f6d-8bf8-25a111a41c38
+[22:50:46] [Server thread/INFO]: Aly_xxx[/218.109.195.32:32825] logged in with entity id 112589 at ([world]-247.51692925920506, 64.0, 11.393604454586221)
+[22:50:51] [Server thread/INFO]: Aly_xxx lost connection: Disconnected
+[22:50:51] [Server thread/INFO]: Aly_xxx left the game
+[22:53:30] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[22:53:30] [Server thread/INFO]: 4022sun left the game
+[22:57:21] [User Authenticator #33/INFO]: UUID of player Small_CaiQAQ is eeb3a343-cea4-3e82-8c4d-751dc563bc8e
+[22:57:21] [Server thread/INFO]: Small_CaiQAQ[/117.175.140.78:15253] logged in with entity id 112724 at ([world]263.63161554834676, 63.0, 112.67082097621417)
+[22:57:48] [Server thread/INFO]: Small_CaiQAQ lost connection: Disconnected
+[22:57:48] [Server thread/INFO]: Small_CaiQAQ left the game
+[22:58:17] [User Authenticator #33/INFO]: UUID of player Kit_Key_poor is 3659332f-7a6d-3b85-9f17-0013fe3f3647
+[22:58:17] [Server thread/INFO]: Kit_Key_poor[/119.163.148.203:59992] logged in with entity id 112794 at ([world]5219.076391713854, 107.0, -508.53571471241804)
+[22:59:42] [User Authenticator #34/INFO]: UUID of player Mr_director is 4f17e877-3d02-30fe-9922-528c867f1ba3
+[22:59:43] [Server thread/INFO]: Mr_director[/111.224.163.153:10380] logged in with entity id 113359 at ([world]1760.6914205215405, 7.0, 342.88952914257624)
+[23:00:43] [Server thread/INFO]: xxuurruuii lost connection: Disconnected
+[23:00:43] [Server thread/INFO]: xxuurruuii left the game
+[23:03:30] [User Authenticator #35/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[23:03:30] [Server thread/INFO]: Auston[/157.122.65.81:58577] logged in with entity id 115206 at ([world]2775.4052892603318, 63.0, -398.4001208889772)
+[23:05:21] [Server thread/INFO]: Kit_Key_poor lost connection: Disconnected
+[23:05:21] [Server thread/INFO]: Kit_Key_poor left the game
+[23:05:52] [User Authenticator #36/INFO]: UUID of player Kit_Key_poor is 3659332f-7a6d-3b85-9f17-0013fe3f3647
+[23:05:52] [Server thread/INFO]: Kit_Key_poor[/119.163.148.203:60103] logged in with entity id 117781 at ([world]5212.566184444317, 107.0, -509.55271676184316)
+[23:06:43] [Server thread/INFO]: Auston lost connection: Disconnected
+[23:06:43] [Server thread/INFO]: Auston left the game
+[23:06:47] [User Authenticator #36/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[23:06:47] [Server thread/INFO]: Auston[/157.122.65.81:15760] logged in with entity id 118618 at ([world]2804.9879094560915, 63.0, -415.81516631131745)
+[23:06:57] [Server thread/WARN]: Auston moved too quickly! 0.6462557256695618,0.0,-10.53553570395053
+[23:07:58] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[23:13:10] [Server thread/INFO]: Auston lost connection: Disconnected
+[23:13:10] [Server thread/INFO]: Auston left the game
+[23:13:12] [User Authenticator #37/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[23:13:12] [Server thread/INFO]: Auston[/157.122.65.81:28184] logged in with entity id 125862 at ([world]2806.264847692489, 64.0, -428.6363459076672)
+[23:13:31] [Server thread/INFO]: Auston lost connection: Disconnected
+[23:13:31] [Server thread/INFO]: Auston left the game
+[23:13:36] [User Authenticator #37/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[23:13:36] [Server thread/INFO]: Auston[/157.122.65.81:56584] logged in with entity id 126892 at ([world]2807.5589980664736, 63.0, -426.92576263011534)
+[23:17:14] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:17:14] [Server thread/INFO]: Mr_director left the game
+[23:18:08] [Server thread/INFO]: Villager EntityVillager['Farmer'/124754, uuid='883693b4-440c-44df-9fa7-e9829c478b02', l='world', x=5236.30, y=96.64, z=226.30, cx=327, cz=14, tl=12125095, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[23:19:10] [User Authenticator #38/INFO]: UUID of player Mr_director is 4f17e877-3d02-30fe-9922-528c867f1ba3
+[23:19:10] [Server thread/INFO]: Mr_director[/111.224.163.153:11630] logged in with entity id 129910 at ([world]1756.314423569045, 6.0625, 401.159302054557)
+[23:19:15] [Server thread/INFO]: Kit_Key_poor lost connection: Disconnected
+[23:19:15] [Server thread/INFO]: Kit_Key_poor left the game
+[23:19:22] [Server thread/INFO]: Auston lost connection: Disconnected
+[23:19:22] [Server thread/INFO]: Auston left the game
+[23:19:28] [User Authenticator #38/INFO]: UUID of player Li_zi_wei is 8a82c95f-5ace-351d-a712-6eb8488d929d
+[23:19:28] [Server thread/INFO]: Li_zi_wei[/112.10.138.253:6026] logged in with entity id 130141 at ([world]1353.4153674691215, 64.0, 38.22499973953784)
+[23:19:34] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[23:19:34] [Server thread/INFO]: Li_zi_wei left the game
+[23:20:16] [User Authenticator #38/INFO]: UUID of player Auston is 581ba7e5-2cf8-33c7-afbb-0de22a3ead36
+[23:20:17] [Server thread/INFO]: Auston[/157.122.65.81:60461] logged in with entity id 131046 at ([world]2799.915998942164, 63.0, -429.0182652480774)
+[23:27:58] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[23:35:23] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:35:23] [Server thread/INFO]: Mr_director left the game
+[23:35:25] [User Authenticator #39/INFO]: UUID of player Mr_director is 4f17e877-3d02-30fe-9922-528c867f1ba3
+[23:35:25] [Server thread/INFO]: Mr_director[/111.224.80.75:1083] logged in with entity id 135751 at ([world]1771.1739497239555, 7.0, 322.72193328694027)
+[23:40:35] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:40:35] [Server thread/INFO]: Mr_director left the game
+[23:40:40] [User Authenticator #40/INFO]: UUID of player Mr_director is 4f17e877-3d02-30fe-9922-528c867f1ba3
+[23:40:40] [Server thread/INFO]: Mr_director[/111.224.80.75:2435] logged in with entity id 137596 at ([world]1784.3975998218339, 7.0, 390.74357175439)
+[23:41:20] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:41:20] [Server thread/INFO]: Mr_director left the game
+[23:41:24] [User Authenticator #40/INFO]: UUID of player Mr_director is 4f17e877-3d02-30fe-9922-528c867f1ba3
+[23:41:24] [Server thread/INFO]: Mr_director[/111.224.80.75:2525] logged in with entity id 137848 at ([world]1760.9324952451427, 6.0625, 423.0453697665589)
+[23:41:41] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:41:41] [Server thread/INFO]: Mr_director left the game
+[23:42:03] [User Authenticator #40/INFO]: UUID of player Mr_director is 4f17e877-3d02-30fe-9922-528c867f1ba3
+[23:42:03] [Server thread/INFO]: Mr_director[/111.224.80.75:2618] logged in with entity id 138117 at ([world]1759.7389952686904, 7.0, 425.3334314490743)
+[23:43:43] [User Authenticator #41/INFO]: UUID of player Aiqi is 707631f6-bcdd-3e8b-8f08-0f8c7dabfb44
+[23:43:43] [Server thread/INFO]: Aiqi[/112.224.132.213:29056] logged in with entity id 138550 at ([world]2760.2257663827772, 73.0, -355.0205021133788)
+[23:44:12] [Server thread/INFO]: Aiqi lost connection: Disconnected
+[23:44:12] [Server thread/INFO]: Aiqi left the game
+[23:44:20] [User Authenticator #41/INFO]: UUID of player Aiqi is 707631f6-bcdd-3e8b-8f08-0f8c7dabfb44
+[23:44:20] [Server thread/INFO]: Aiqi[/112.224.132.213:29058] logged in with entity id 138785 at ([world]2760.2257663827772, 73.0, -355.0205021133788)
+[23:44:28] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:44:28] [Server thread/INFO]: Mr_director left the game
+[23:46:03] [User Authenticator #42/INFO]: UUID of player Mr_director is 4f17e877-3d02-30fe-9922-528c867f1ba3
+[23:46:03] [Server thread/INFO]: Mr_director[/111.224.80.75:2928] logged in with entity id 139222 at ([world]1779.5287668232013, 7.0, 334.4535709294197)
+[23:47:58] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 

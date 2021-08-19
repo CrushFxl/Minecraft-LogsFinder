@@ -1,0 +1,433 @@
+[22:26:35] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[22:26:35] [Server thread/INFO]: Loading properties
+[22:26:35] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[22:26:35] [Server thread/INFO]: Debug logging is disabled
+[22:26:35] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[22:26:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:26:36] [Server thread/INFO]: Default game type: SURVIVAL
+[22:26:36] [Server thread/INFO]: Generating keypair
+[22:26:36] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[22:26:36] [Server thread/INFO]: Using default channel type
+[22:26:36] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:26:38] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[22:26:38] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[22:26:38] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[22:26:38] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[22:26:38] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[22:26:38] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[22:26:38] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[22:26:38] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[22:26:38] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[22:26:38] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[22:26:38] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[22:26:38] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[22:26:38] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[22:26:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:26:38] [Server thread/INFO]: Preparing level "world"
+[22:26:38] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:26:46] [Server thread/INFO]: Loaded 6 recipes
+[22:26:46] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:26:46] [Server thread/INFO]: View Distance: 8
+[22:26:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:26:46] [Server thread/INFO]: Item Merge Radius: 8.0
+[22:26:46] [Server thread/INFO]: Item Despawn Rate: 3000
+[22:26:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:26:46] [Server thread/INFO]: Experience Merge Radius: 8.0
+[22:26:46] [Server thread/INFO]: Mob Spawn Range: 4
+[22:26:46] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[22:26:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:26:46] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[22:26:47] [Server thread/INFO]: Max TNT Explosions: 100
+[22:26:47] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[22:26:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:26:47] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[22:26:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:26:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:26:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:26:47] [Server thread/INFO]: View Distance: 8
+[22:26:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:26:47] [Server thread/INFO]: Item Merge Radius: 8.0
+[22:26:47] [Server thread/INFO]: Item Despawn Rate: 3000
+[22:26:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:26:47] [Server thread/INFO]: Experience Merge Radius: 8.0
+[22:26:47] [Server thread/INFO]: Mob Spawn Range: 4
+[22:26:47] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[22:26:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[22:26:47] [Server thread/INFO]: Max TNT Explosions: 100
+[22:26:47] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[22:26:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:26:47] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[22:26:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:26:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:26:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:26:47] [Server thread/INFO]: View Distance: 8
+[22:26:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:26:47] [Server thread/INFO]: Item Merge Radius: 8.0
+[22:26:47] [Server thread/INFO]: Item Despawn Rate: 3000
+[22:26:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:26:47] [Server thread/INFO]: Experience Merge Radius: 8.0
+[22:26:47] [Server thread/INFO]: Mob Spawn Range: 4
+[22:26:47] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[22:26:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:26:47] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[22:26:47] [Server thread/INFO]: Max TNT Explosions: 100
+[22:26:47] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[22:26:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:26:47] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[22:26:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:26:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:26:47] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[22:26:47] [Server thread/INFO]: Preparing spawn area: 0%
+[22:26:47] [Server thread/INFO]: Preparing spawn area: 10%
+[22:26:48] [Server thread/INFO]: Preparing spawn area: 100%
+[22:26:48] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[22:26:48] [Server thread/INFO]: Time elapsed: 1362 ms
+[22:26:48] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[22:26:48] [Server thread/INFO]: Preparing spawn area: 0%
+[22:26:49] [Server thread/INFO]: Preparing spawn area: 100%
+[22:26:49] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[22:26:49] [Server thread/INFO]: Time elapsed: 568 ms
+[22:26:49] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[22:26:49] [Server thread/INFO]: Preparing spawn area: 0%
+[22:26:49] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[22:26:49] [Server thread/INFO]: Time elapsed: 348 ms
+[22:26:49] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[22:26:49] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[22:26:49] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[22:26:49] [Server thread/INFO]: --------------------
+[22:26:49] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[22:26:49] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[22:26:49] [Server thread/INFO]: --------------------
+[22:26:49] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[22:26:49] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[22:26:49] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[22:26:49] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[22:26:49] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[22:26:49] [Server thread/INFO]:  
+[22:26:49] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[22:26:49] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[22:26:49] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[22:26:49] [Server thread/INFO]:  
+[22:26:49] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[22:26:49] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[22:26:49] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[22:26:49] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[22:27:03] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[22:27:03] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[22:27:03] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[22:27:03] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[22:27:03] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[22:27:03] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[22:27:03] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[22:27:03] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[22:27:03] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[22:27:03] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[22:27:03] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[22:27:03] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[22:27:03] [Server thread/INFO]: [EntityTrackerFixer] Vault not found! using default permission system...
+[22:27:03] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[22:27:03] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[22:27:03] [Server thread/INFO]: [SAML] Loading config.yml...
+[22:27:03] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[22:27:03] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[22:27:03] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[22:27:03] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[22:27:03] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[22:27:03] [Server thread/INFO]: [SAML] Loading messages.yml...
+[22:27:03] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[22:27:04] [Server thread/INFO]: [SAML] Successfully enabled.
+[22:27:04] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0*
+[22:27:04] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[22:27:04] [Server thread/INFO]: [GM+] Checking Your version...
+[22:27:04] [Server thread/INFO]: ===============================
+[22:27:04] [Server thread/INFO]: 
+[22:27:04] [Server thread/INFO]:  GroupManager+ is now enable!
+[22:27:04] [Server thread/INFO]:  
+[22:27:04] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[22:27:04] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[22:27:04] [Server thread/INFO]:  Current version: v3.3
+[22:27:04] [Server thread/INFO]:  
+[22:27:04] [Server thread/INFO]: ===============================
+[22:27:04] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[22:27:04] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[22:27:04] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[22:27:04] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[22:27:04] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[22:27:04] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[22:27:04] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[22:27:04] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[22:27:04] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[22:27:07] [Server thread/INFO]: [TAB] Version 2.8.2 is out! Your version: 2.7.2
+[22:27:07] [Server thread/INFO]: [TAB] Get the update at https://www.spigotmc.org/resources/57806/
+[22:27:07] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[22:27:07] [Server thread/INFO]: [TAB] Enabled in 3594ms
+[22:27:07] [Server thread/INFO]: Done (28.958s)! For help, type "help"
+[22:27:07] [Server thread/INFO]: Timings Reset
+[22:27:07] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[22:27:07] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[22:27:09] [Craft Scheduler Thread - 5/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[22:27:09] [Craft Scheduler Thread - 5/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[22:27:16] [User Authenticator #1/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[22:27:17] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[22:27:17] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:63049] logged in with entity id 998 at ([world]2779.904287550618, 63.0, -396.2649874533515)
+[22:27:21] [User Authenticator #1/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:27:21] [Server thread/INFO]: adhesive_tape[/127.0.0.1:63056] logged in with entity id 1611 at ([world]2780.1390872627835, 63.0, -397.18247083149424)
+[22:27:22] [User Authenticator #1/INFO]: UUID of player xxuurruuii is e4032104-ba08-4db3-82a0-d4f7323bcaf4
+[22:27:22] [Server thread/INFO]: xxuurruuii[/127.0.0.1:63057] logged in with entity id 1614 at ([world]5185.491448433156, 64.16610926093821, 305.0261129211741)
+[22:27:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@581a6be0[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:63059) lost connection: Disconnected
+[22:27:53] [User Authenticator #1/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[22:27:53] [Server thread/INFO]: Crushxl[/127.0.0.1:63066] logged in with entity id 2337 at ([world]-87.90771934691675, 65.0, 5.025826112759337)
+[22:28:09] [User Authenticator #1/INFO]: UUID of player YiFanFengShun is 6b491d23-aa75-4830-8683-36a79ae50c53
+[22:28:09] [Server thread/INFO]: YiFanFengShun[/127.0.0.1:63074] logged in with entity id 2544 at ([world]5155.1201926016365, 64.0, 198.35503834639368)
+[22:28:19] [Async Chat Thread - #0/INFO]: <adhesive_tape> 嗨呀
+[22:28:22] [Async Chat Thread - #0/INFO]: <adhesive_tape> 真是
+[22:28:25] [Async Chat Thread - #0/INFO]: <adhesive_tape> 这下好了
+[22:29:03] [Server thread/WARN]: YiFanFengShun moved wrongly!
+[22:30:27] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=5158, y=64, z=200}
+[22:30:56] [User Authenticator #2/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[22:30:56] [Server thread/INFO]: Laohuaji[/127.0.0.1:63096] logged in with entity id 4275 at ([world]-118.32308249739555, 65.0, 277.2962177078543)
+[22:31:50] [Server thread/INFO]: Villager EntityVillager['精准采集时运'/1110, uuid='4e704750-72e5-41ee-8c91-956fe60ce020', l='world', x=2789.35, y=64.00, z=-417.35, cx=174, cz=-27, tl=616614, v=true, d=false] died, message: '精准采集时运 was slain by sen_lv_ling_ using [森语.毁灭]'
+[22:32:14] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> adhesive_tape
+[22:32:21] [Async Chat Thread - #1/INFO]: <adhesive_tape> A
+[22:32:33] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 来刷附魔
+[22:32:41] [Async Chat Thread - #1/INFO]: <adhesive_tape> 不会
+[22:32:52] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> .
+[22:33:07] [Async Chat Thread - #1/INFO]: <YiFanFengShun> xxuurruuii快来看！！
+[22:33:16] [Async Chat Thread - #1/INFO]: <YiFanFengShun> 我太感动了
+[22:33:20] [Async Chat Thread - #1/INFO]: <YiFanFengShun> 成功了
+[22:33:28] [Async Chat Thread - #1/INFO]: <adhesive_tape> o
+[22:33:30] [Async Chat Thread - #1/INFO]: <adhesive_tape> 回了
+[22:33:32] [Server thread/INFO]: YiFanFengShun issued server command: /
+[22:33:33] [Async Chat Thread - #1/INFO]: <adhesive_tape> 会了
+[22:33:59] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 拿斧头砍啊
+[22:34:11] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 等他没职业再放
+[22:34:18] [Async Chat Thread - #1/INFO]: <xxuurruuii> ?
+[22:34:43] [Async Chat Thread - #1/INFO]: <adhesive_tape> 怎么着就
+[22:34:48] [Async Chat Thread - #1/INFO]: <YiFanFengShun> xxuurruuii
+[22:34:53] [Server thread/INFO]: Crushxl was poked to death by a sweet berry bush
+[22:34:54] [Async Chat Thread - #1/INFO]: <xxuurruuii> 哇
+[22:34:55] [Async Chat Thread - #1/INFO]: <YiFanFengShun> 尼康
+[22:34:56] [Async Chat Thread - #1/INFO]: <adhesive_tape> 怎么这么久
+[22:34:57] [Async Chat Thread - #1/INFO]: <xxuurruuii> ??
+[22:34:57] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> ?
+[22:35:07] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 有时间瞬间变
+[22:35:15] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 有时间要等一晚
+[22:35:50] [Async Chat Thread - #1/INFO]: <adhesive_tape> 真久
+[22:35:59] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 要过一晚
+[22:36:15] [Async Chat Thread - #1/INFO]: <adhesive_tape> 好难刷
+[22:36:42] [Async Chat Thread - #1/INFO]: <adhesive_tape> 睡觉
+[22:36:47] [Async Chat Thread - #1/INFO]: <adhesive_tape> 看看会不会变
+[22:37:04] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[22:37:18] [Async Chat Thread - #1/INFO]: <adhesive_tape> 睡觉啦大伙
+[22:37:26] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 啊这
+[22:37:36] [Server thread/INFO]: Villager EntityVillager['Villager'/1683, uuid='3d2c7b0f-f829-487d-bd59-ce5c6799d83e', l='world', x=5264.10, y=73.42, z=299.33, cx=329, cz=18, tl=299227, v=true, d=false] died, message: 'Villager was squished too much'
+[22:37:55] [Server thread/INFO]: Villager EntityVillager['Villager'/1701, uuid='ecd63407-f4de-40ea-92fa-fded9aea4e71', l='world', x=5264.70, y=73.19, z=299.30, cx=329, cz=18, tl=1058603, v=true, d=false] died, message: 'Villager was squished too much'
+[22:37:55] [Async Chat Thread - #1/INFO]: <adhesive_tape> 睡觉啦
+[22:38:02] [Async Chat Thread - #1/INFO]: <adhesive_tape> 宿管查房啦
+[22:38:05] [Async Chat Thread - #1/INFO]: <adhesive_tape> 嘤嘤嘤
+[22:38:19] [Async Chat Thread - #1/INFO]: <xxuurruuii> zzz
+[22:38:40] [Async Chat Thread - #1/INFO]: <YiFanFengShun> zzz
+[22:38:51] [Async Chat Thread - #1/INFO]: <Crushxl> z
+[22:38:56] [Async Chat Thread - #1/INFO]: <Laohuaji> z
+[22:39:00] [Async Chat Thread - #1/INFO]: <xxuurruuii> 我们镇又刷猪人了
+[22:39:07] [Async Chat Thread - #1/INFO]: <YiFanFengShun> 。
+[22:39:17] [Async Chat Thread - #1/INFO]: <adhesive_tape> 睡觉
+[22:39:19] [Async Chat Thread - #1/INFO]: <adhesive_tape> ！
+[22:39:23] [Async Chat Thread - #1/INFO]: <xxuurruuii> 谁还没睡觉
+[22:39:26] [Async Chat Thread - #1/INFO]: <adhesive_tape> 不睡觉打屁股
+[22:39:28] [Async Chat Thread - #1/INFO]: <xxuurruuii> sen_lv_ling_
+[22:39:31] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> ?
+[22:39:35] [Async Chat Thread - #1/INFO]: <YiFanFengShun> 明天做个诱引装置
+[22:39:37] [Async Chat Thread - #1/INFO]: <xxuurruuii> YiFanFengShun
+[22:39:41] [Async Chat Thread - #1/INFO]: <YiFanFengShun> ,
+[22:39:42] [Async Chat Thread - #1/INFO]: <xxuurruuii> Laohuaji
+[22:39:45] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 我都躺了半天了
+[22:39:45] [Async Chat Thread - #1/INFO]: <xxuurruuii> adhesive_tape
+[22:39:46] [Async Chat Thread - #1/INFO]: <adhesive_tape> Laohuaji
+[22:39:48] [Async Chat Thread - #1/INFO]: <xxuurruuii> ???
+[22:39:53] [Async Chat Thread - #1/INFO]: <adhesive_tape> 我第一个睡的
+[22:40:10] [Async Chat Thread - #1/INFO]: <adhesive_tape> Laohuaji
+[22:40:34] [Async Chat Thread - #1/INFO]: <Laohuaji> 主城没床就离谱
+[22:40:37] [Async Chat Thread - #1/INFO]: <adhesive_tape> 滑稽
+[22:40:44] [Async Chat Thread - #1/INFO]: <Laohuaji> 我睡了qwq
+[22:40:53] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 啊这
+[22:41:00] [Async Chat Thread - #1/INFO]: <adhesive_tape> 下线等
+[22:41:15] [Async Chat Thread - #1/INFO]: <adhesive_tape> 赶紧
+[22:41:20] [Async Chat Thread - #1/INFO]: <adhesive_tape> 睡觉
+[22:41:39] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 啊这
+[22:42:04] [Async Chat Thread - #1/INFO]: <Crushxl> 我管这叫昏迷
+[22:42:05] [Async Chat Thread - #1/INFO]: <adhesive_tape> 这么久都没变
+[22:42:10] [Async Chat Thread - #1/INFO]: <Laohuaji> hhhhh
+[22:42:20] [Async Chat Thread - #1/INFO]: <adhesive_tape> 干死算了
+[22:42:22] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> = =
+[22:42:27] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 随你
+[22:42:45] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 啊这
+[22:42:50] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 小泠
+[22:43:08] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 我村民繁殖机里面村民没了
+[22:43:21] [Async Chat Thread - #1/INFO]: <adhesive_tape> 晴天霹雳
+[22:43:28] [Async Chat Thread - #1/INFO]: <adhesive_tape> 便女巫了？
+[22:43:33] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 淦
+[22:43:40] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 连续两只末影螨
+[22:43:43] [Async Chat Thread - #1/INFO]: <xxuurruuii> e
+[22:43:48] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 愣是把我打下来了
+[22:43:49] [Async Chat Thread - #1/INFO]: <Laohuaji> ohhhh
+[22:43:56] [Async Chat Thread - #1/INFO]: <xxuurruuii> 从某种意义来说
+[22:44:00] [Async Chat Thread - #1/INFO]: <Laohuaji> 活的xl
+[22:44:04] [Async Chat Thread - #1/INFO]: <xxuurruuii> 你是欧皇
+[22:44:13] [Async Chat Thread - #1/INFO]: <Crushxl> 吃的XD
+[22:44:24] [Async Chat Thread - #1/INFO]: <adhesive_tape> 小冷过来补几只村民
+[22:44:32] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 小泠来我家，我家有金萝北~
+[22:44:34] [Async Chat Thread - #1/INFO]: <Crushxl> 者不能吃（
+[22:44:41] [Async Chat Thread - #1/INFO]: <xxuurruuii> )
+[22:44:43] [Async Chat Thread - #1/INFO]: <Laohuaji> 影分身
+[22:45:08] [Async Chat Thread - #1/INFO]: <xxuurruuii> 哪里有大量皮革
+[22:45:22] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 咋又是个要皮革的
+[22:45:28] [Async Chat Thread - #1/INFO]: <Laohuaji> hhhhhhh
+[22:45:33] [Async Chat Thread - #1/INFO]: <xxuurruuii> （指两位数）
+[22:45:39] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 江南皮革一套要不
+[22:45:50] [Async Chat Thread - #1/INFO]: <adhesive_tape> 挂机了哈
+[22:45:53] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 嗯
+[22:46:12] [Async Chat Thread - #1/INFO]: <adhesive_tape> 玩cf
+[22:46:13] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 没金锭就很难受
+[22:47:12] [Async Chat Thread - #1/INFO]: <adhesive_tape> 明早起来炸地狱
+[22:47:17] [Async Chat Thread - #1/INFO]: <xxuurruuii> yffs?
+[22:47:30] [Async Chat Thread - #1/INFO]: <xxuurruuii> 这猪人塔能用吗
+[22:48:05] [Async Chat Thread - #1/INFO]: <xxuurruuii> 一大箱金粒
+[22:48:19] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 啊这
+[22:48:42] [Server thread/INFO]: xxuurruuii lost connection: Timed out
+[22:48:42] [Server thread/INFO]: xxuurruuii left the game
+[22:49:08] [Async Chat Thread - #1/INFO]: <YiFanFengShun> 小泠你看这手办行不行
+[22:49:54] [Async Chat Thread - #1/INFO]: <adhesive_tape> 海晶的守卫者农场在哪
+[22:50:06] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> ?
+[22:50:10] [Async Chat Thread - #1/INFO]: <adhesive_tape> 在哪
+[22:50:17] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 我们有守卫者农场？
+[22:50:23] [Async Chat Thread - #1/INFO]: <adhesive_tape> 没有吗
+[22:50:37] [Async Chat Thread - #1/INFO]: <adhesive_tape> 太好了
+[22:50:40] [Async Chat Thread - #1/INFO]: <adhesive_tape> 我可以做一个
+[22:50:44] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 啊这
+[22:50:56] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 那我带你去个地方？
+[22:51:03] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 神殿
+[22:51:14] [Async Chat Thread - #1/INFO]: <adhesive_tape> 你找个地理位置好一点的
+[22:51:27] [Server thread/INFO]: YiFanFengShun lost connection: Disconnected
+[22:51:27] [Server thread/INFO]: YiFanFengShun left the game
+[22:51:29] [Async Chat Thread - #1/INFO]: <adhesive_tape> 然后挖一大箱子灵魂沙
+[22:51:39] [Async Chat Thread - #1/INFO]: <adhesive_tape> 我做一个简单点的
+[22:51:44] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 我说的那个有点远
+[22:51:52] [Async Chat Thread - #1/INFO]: <adhesive_tape> 找个近点的
+[22:52:03] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 近的我以前地图上标的有点
+[22:52:13] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 现在没见了
+[22:52:40] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 远的那个我把里面掏空了
+[22:52:45] [Async Chat Thread - #1/INFO]: <adhesive_tape> e
+[22:52:47] [Async Chat Thread - #1/INFO]: <adhesive_tape> 行
+[22:52:53] [Async Chat Thread - #1/INFO]: <adhesive_tape> 掏空就行
+[22:53:00] [Async Chat Thread - #1/INFO]: <adhesive_tape> 水呢，里面的水
+[22:53:03] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 里面没水
+[22:53:06] [Async Chat Thread - #1/INFO]: <adhesive_tape> ok
+[22:53:07] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 外面有
+[22:53:12] [Async Chat Thread - #1/INFO]: <adhesive_tape> 最大麻烦解决了
+[22:53:15] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> ...
+[22:53:26] [Async Chat Thread - #1/INFO]: <adhesive_tape> 里面没水工程量少好多
+[22:53:43] [Async Chat Thread - #1/INFO]: <adhesive_tape> 你啥时候下
+[22:53:59] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 早
+[22:54:08] [Async Chat Thread - #1/INFO]: <adhesive_tape> 去挖灵魂沙
+[22:54:11] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[22:54:11] [Server thread/INFO]: Crushxl left the game
+[22:54:17] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 。。。
+[22:54:18] [Async Chat Thread - #1/INFO]: <adhesive_tape> 一大箱子
+[22:55:36] [Server thread/INFO]: Laohuaji issued server command: /co i
+[22:56:10] [Async Chat Thread - #2/INFO]: <sen_lv_ling_> ???
+[22:56:37] [Async Chat Thread - #2/INFO]: <sen_lv_ling_> 我在我家地狱门口捡了把满配三叉戟可还行
+[22:57:07] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[22:57:47] [Async Chat Thread - #3/INFO]: <adhesive_tape> 法就
+[22:57:52] [Async Chat Thread - #3/INFO]: <adhesive_tape> 两盒子
+[22:57:57] [Async Chat Thread - #3/INFO]: <adhesive_tape> 两盒子灵魂沙
+[22:58:34] [Server thread/INFO]: Laohuaji issued server command: /CO I
+[22:58:37] [Async Chat Thread - #3/INFO]: <sen_lv_ling_> 我还顺便给4022挖岩浆块233
+[23:02:46] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[23:02:46] [Server thread/INFO]: Laohuaji left the game
+[23:03:06] [Async Chat Thread - #4/INFO]: <adhesive_tape> en
+[23:03:14] [Async Chat Thread - #4/INFO]: <adhesive_tape> 玩会cf
+[23:04:59] [Async Chat Thread - #5/INFO]: <adhesive_tape> 明天中午到下午我学车
+[23:16:21] [Server thread/INFO]: There are 2 of a max 40 players online: sen_lv_ling_, adhesive_tape
+[23:27:07] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[23:27:22] [Thread-18/INFO]: --------------------
+[23:27:22] [Thread-18/INFO]: [CoreProtect] Version 19.0 is now available.
+[23:27:22] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[23:27:22] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[23:27:22] [Thread-18/INFO]: --------------------
+[23:27:56] [Async Chat Thread - #6/INFO]: <adhesive_tape> 嘤
+[23:28:06] [Async Chat Thread - #6/INFO]: <sen_lv_ling_> 嘤
+[23:28:09] [Async Chat Thread - #6/INFO]: <adhesive_tape> 哦
+[23:29:52] [Async Chat Thread - #7/INFO]: <sen_lv_ling_> 半盒子
+[23:30:40] [Async Chat Thread - #7/INFO]: <adhesive_tape> 小心一点
+[23:34:01] [Async Chat Thread - #8/INFO]: <adhesive_tape> 现在呢
+[23:34:22] [Async Chat Thread - #8/INFO]: <sen_lv_ling_> 一盒子
+[23:36:58] [Async Chat Thread - #9/INFO]: <adhesive_tape> 辛苦你了
+[23:48:21] [Async Chat Thread - #10/INFO]: <sen_lv_ling_> 够了
+[23:51:13] [Async Chat Thread - #11/INFO]: <adhesive_tape> 好的
+[23:51:42] [Async Chat Thread - #11/INFO]: <sen_lv_ling_> 这儿吸引猪人的仙人掌咋没了
+[23:52:10] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[23:52:10] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[23:52:11] [Async Chat Thread - #11/INFO]: <adhesive_tape> 不知
+[23:57:07] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 

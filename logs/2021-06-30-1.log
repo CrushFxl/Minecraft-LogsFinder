@@ -1,0 +1,574 @@
+[00:34:12] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[01:34:12] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[02:34:12] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[03:34:12] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[04:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[05:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[06:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[07:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[08:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[09:27:10] [User Authenticator #127/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[09:27:11] [Server thread/INFO]: jason_ji[/127.0.0.1:52304] logged in with entity id 4511665 at ([world]5186.888969198444, 64.0, 195.61047187734826)
+[09:27:27] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[09:27:27] [Server thread/INFO]: jason_ji left the game
+[09:32:33] [User Authenticator #128/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[09:32:33] [Server thread/INFO]: jason_ji[/127.0.0.1:52331] logged in with entity id 4512285 at ([world]5184.431872827755, 64.0, 197.6084258301831)
+[09:33:37] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[09:33:37] [Server thread/INFO]: jason_ji left the game
+[09:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[10:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[11:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[12:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[13:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[14:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[15:10:25] [User Authenticator #129/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[15:10:25] [Server thread/INFO]: jason_ji[/127.0.0.1:53488] logged in with entity id 4513153 at ([world]5119.695220315688, 64.0, 227.69999998807907)
+[15:15:25] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[15:15:25] [Server thread/INFO]: jason_ji left the game
+[15:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[16:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[17:04:15] [User Authenticator #130/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[17:04:15] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:53872] logged in with entity id 4514945 at ([world]1377.7936072174718, 65.5625, -8.055433758064037)
+[17:05:41] [User Authenticator #131/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[17:05:41] [Server thread/INFO]: TMN_233[/127.0.0.1:53879] logged in with entity id 4515322 at ([world]-217.51566631715403, 118.0, -448.35148685845513)
+[17:05:46] [Server thread/INFO]: Li_zi_wei issued server command: /p lead
+[17:05:49] [Server thread/INFO]: Li_zi_wei issued server command: /qd
+[17:05:49] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mLi_zi_wei [0;33;22mÄ¿Ç°ÓÐ [0;32;1m38 [0;33;22m¹±Ï×µãÊý[m
+[17:05:54] [Server thread/INFO]: TMN_233 issued server command: /qd
+[17:05:54] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mTMN_233 [0;33;22mÄ¿Ç°ÓÐ [0;32;1m2 [0;33;22m¹±Ï×µãÊý[m
+[17:08:57] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[17:08:57] [Server thread/INFO]: Li_zi_wei left the game
+[17:09:00] [User Authenticator #132/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[17:09:00] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:53894] logged in with entity id 4519753 at ([world]1378.1192037382987, 65.5625, -8.829655326344506)
+[17:09:03] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[17:09:03] [Server thread/INFO]: Li_zi_wei left the game
+[17:09:08] [User Authenticator #133/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[17:09:08] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:53897] logged in with entity id 4519757 at ([world]1378.1192037382987, 65.5625, -8.829655326344506)
+[17:25:38] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[17:25:38] [Server thread/INFO]: Li_zi_wei left the game
+[17:25:41] [User Authenticator #134/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[17:25:41] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:53953] logged in with entity id 4563237 at ([world]1387.8809364877925, 63.0, 10.57524597410292)
+[17:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[17:57:40] [Server thread/INFO]: TMN_233 issued server command: /p pay Li_zi_wei 2
+[18:19:53] [User Authenticator #135/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/slime_block' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/iron_ingot_from_blasting' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/iron_ingot' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/lapis_from_smelting' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/lapis_from_blasting' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/coal_from_blasting' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/coal_from_smelting' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/gold_ingot_from_blasting' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/gold_ingot' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/diamond_from_blasting' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/diamond_from_smelting' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/redstone/redstone_from_smelting' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/redstone/redstone_from_blasting' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/honey_block' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/mossy_cobblestone' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:53] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/mossy_stone_bricks' in progress file .\world\advancements\ad82c331-f637-4e55-8488-2a38fc6adee9.json - it doesn't exist anymore?
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_blasting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:mossy_stone_bricks removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lapis_from_smelting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_blasting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:mossy_cobblestone removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lapis_from_blasting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_smelting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot_from_blasting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot_from_blasting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_smelting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_smelting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_blasting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lapis_from_blasting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_blasting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lapis_from_smelting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_smelting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot_from_blasting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_smelting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_smelting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_blasting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_blasting removed now.
+[18:19:54] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot_from_blasting removed now.
+[18:19:54] [Server thread/INFO]: Mr_director[/127.0.0.1:54139] logged in with entity id 4734993 at ([world]-217.59500706830903, 118.0, -448.56471805909297)
+[18:20:13] [Server thread/INFO]: Li_zi_wei issued server command: /p lead
+[18:20:34] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[18:20:34] [Server thread/INFO]: Mr_director left the game
+[18:21:02] [Server thread/INFO]: TMN_233 withered away
+[18:27:19] [pool-10-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[18:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[18:41:50] [User Authenticator #136/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/coal_from_smelting' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/coal_from_blasting' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/iron_ingot_from_blasting' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/iron_ingot' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/slime_block' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/gold_ingot_from_blasting' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/gold_ingot' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/mossy_stone_bricks' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/honey_block' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/redstone/redstone_from_smelting' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/redstone/redstone_from_blasting' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/diamond_from_blasting' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/diamond_from_smelting' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/mossy_cobblestone' in progress file .\world\advancements\0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750.json - it doesn't exist anymore?
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_blasting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_blasting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lapis_from_blasting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_smelting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:mossy_stone_bricks removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lapis_from_smelting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:mossy_cobblestone removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_smelting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot_from_blasting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot_from_blasting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_smelting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_blasting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_blasting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lapis_from_smelting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_smelting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_blasting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lapis_from_blasting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_smelting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot_from_blasting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_smelting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_blasting removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot removed now.
+[18:41:50] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot_from_blasting removed now.
+[18:41:51] [Server thread/INFO]: Magical7[/127.0.0.1:54221] logged in with entity id 4795720 at ([world]1647.4831065261162, 64.0, 889.8703025941234)
+[18:42:30] [Server thread/INFO]: Magical7 issued server command: /p me
+[18:43:18] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[18:43:18] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[18:43:18] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[18:43:18] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[18:43:18] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[18:43:18] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[18:43:18] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[18:43:18] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[18:43:18] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[18:43:18] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[18:43:18] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[18:43:18] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[18:43:18] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[18:43:18] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[18:43:18] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[18:43:18] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[18:43:18] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[18:43:18] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[18:43:18] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[18:43:18] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[18:43:18] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[18:43:18] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[18:43:18] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[18:43:18] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[18:43:18] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[18:43:18] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[18:43:34] [User Authenticator #137/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[18:43:35] [Server thread/INFO]: anew_tape[/127.0.0.1:54231] logged in with entity id 4802458 at ([world]1507.5651260843592, 159.5, -1518.6228114132598)
+[18:43:44] [Server thread/INFO]: anew_tape issued server command: /qd
+[18:43:44] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1manew_tape [0;33;22mÄ¿Ç°ÓÐ [0;32;1m27 [0;33;22m¹±Ï×µãÊý[m
+[18:45:49] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[18:45:49] [Server thread/INFO]: anew_tape left the game
+[18:46:24] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[18:46:24] [Server thread/INFO]: Magical7 left the game
+[18:47:19] [pool-10-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[20:10:13] [User Authenticator #138/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[20:10:13] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:54535] logged in with entity id 5073562 at ([world]1393.6497087330795, 76.0, -43.612057677901426)
+[20:12:23] [Server thread/WARN]: Minecraft_xyzj moved wrongly!
+[20:23:17] [Server thread/INFO]: Minecraft_xyzj issued server command: /qd
+[20:23:17] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mMinecraft_xyzj [0;33;22mÄ¿Ç°ÓÐ [0;32;1m6 [0;33;22m¹±Ï×µãÊý[m
+[20:23:58] [Server thread/INFO]: Minecraft_xyzj issued server command: /px mode
+[20:24:21] [Server thread/INFO]: Minecraft_xyzj issued server command: /px mode
+[20:24:23] [Server thread/INFO]: Minecraft_xyzj issued server command: /px off
+[20:24:45] [Server thread/WARN]: Minecraft_xyzj was kicked for floating too long!
+[20:24:45] [Server thread/INFO]: Minecraft_xyzj lost connection: Flying is not enabled on this server
+[20:24:45] [Server thread/INFO]: Minecraft_xyzj left the game
+[20:24:45] [Server thread/WARN]: handleDisconnection() called twice
+[20:24:48] [User Authenticator #139/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[20:24:49] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:54592] logged in with entity id 5118397 at ([world]1284.6541045839626, 64.52637655158085, 92.41683106136084)
+[20:30:50] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[20:30:50] [Server thread/INFO]: Minecraft_xyzj left the game
+[20:33:02] [User Authenticator #140/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[20:33:02] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:54630] logged in with entity id 5144187 at ([world]1401.9596346862265, 66.875, -8.38903381275578)
+[20:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[20:35:38] [Server thread/INFO]: Minecraft_xyzj issued server command: /p me
+[20:35:39] [Server thread/INFO]: Minecraft_xyzj issued server command: /
+[20:38:26] [Server thread/INFO]: TMN_233 issued server command: /p me
+[20:43:32] [User Authenticator #141/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:43:32] [Server thread/INFO]: Bay_Max_[/127.0.0.1:54678] logged in with entity id 5176837 at ([world_the_end]209.95817281265877, 62.5, 78.26098472421333)
+[20:54:47] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[20:54:47] [Server thread/INFO]: Li_zi_wei left the game
+[20:57:15] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[20:57:15] [Server thread/INFO]: TMN_233 left the game
+[21:12:26] [Server thread/INFO]: Villager EntityVillager['Farmer'/4225940, l='ServerLevel[world_the_end]', x=206.50, y=49.00, z=-49.30] died, message: 'Farmer was shot by Bay_Max_'
+[21:15:03] [Server thread/INFO]: Minecraft_xyzj issued server command: /
+[21:16:30] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[21:16:30] [Server thread/INFO]: Bay_Max_ left the game
+[21:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[21:40:58] [User Authenticator #142/INFO]: UUID of player LSY_forever is 8eeb7432-8a93-44e8-9385-1ba389858ca0
+[21:40:59] [Server thread/INFO]: LSY_forever[/127.0.0.1:54890] logged in with entity id 5359340 at ([world]1077.8440176105457, 63.0, -1773.2078269149893)
+[21:41:10] [Server thread/INFO]: LSY_forever lost connection: Disconnected
+[21:41:10] [Server thread/INFO]: LSY_forever left the game
+[21:43:30] [User Authenticator #143/INFO]: UUID of player LSY_forever is 8eeb7432-8a93-44e8-9385-1ba389858ca0
+[21:43:30] [Server thread/INFO]: LSY_forever[/127.0.0.1:54903] logged in with entity id 5367997 at ([world]1077.8440176105457, 63.0, -1773.2078269149893)
+[21:48:01] [User Authenticator #144/INFO]: UUID of player LSY_forever is 8eeb7432-8a93-44e8-9385-1ba389858ca0
+[21:48:01] [Server thread/INFO]: LSY_forever lost connection: You logged in from another location
+[21:48:01] [Server thread/INFO]: LSY_forever left the game
+[21:48:01] [Server thread/INFO]: LSY_forever[/127.0.0.1:54922] logged in with entity id 5383235 at ([world]1085.6014431976907, 65.5625, -1782.0790817095099)
+[22:09:42] [Server thread/INFO]: LSY_forever has completed the challenge [Bullseye]
+[22:11:33] [Server thread/INFO]: LSY_forever has made the advancement [The Cutest Predator]
+[22:12:09] [Server thread/INFO]: Minecraft_xyzj issued server command: /
+[22:12:16] [Server thread/INFO]: LSY_forever lost connection: Disconnected
+[22:12:16] [Server thread/INFO]: LSY_forever left the game
+[22:19:21] [User Authenticator #145/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[22:19:21] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:55034] logged in with entity id 5483188 at ([world]1278.8578558558288, 83.0, -26.775675448927785)
+[22:20:58] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[22:20:58] [Server thread/INFO]: Li_zi_wei left the game
+[22:31:47] [Server thread/INFO]: Minecraft_xyzj issued server command: /
+[22:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[22:51:21] [User Authenticator #146/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[22:51:21] [Server thread/INFO]: Security_Winter[/127.0.0.1:55141] logged in with entity id 5583230 at ([world]1618.2180129964663, 201.0, -127.16987666848627)
+[22:51:23] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[22:51:23] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[22:51:23] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[22:51:23] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[22:51:23] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: StructureBoundingBox{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[22:51:23] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at net.minecraft.world.level.levelgen.feature.structures.WorldGenFeatureDefinedStructurePoolEmpty.a(SourceFile:39) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.structure.WorldGenFeaturePillagerOutpostPoolPiece.<init>(SourceFile:57) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.levelgen.feature.StructureGenerator.a(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:505) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.world.level.chunk.storage.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:216) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.PlayerChunkMap.lambda$20(PlayerChunkMap.java:561) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeTask(SourceFile:151) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:603) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeNext(SourceFile:125) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:614) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.level.ChunkProviderServer.runTasks(ChunkProviderServer.java:322) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1133) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.executeNext(MinecraftServer.java:1117) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.util.thread.IAsyncTaskHandler.executeAll(SourceFile:110) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.sleepForTick(MinecraftServer.java:1100) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1030) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:307) ~[spigot-1.17.jar:3108-Spigot-191e497-74575d4]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[22:52:50] [Server thread/INFO]: Security_Winter issued server command: /qd
+[22:52:50] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mSecurity_Winter [0;33;22mÄ¿Ç°ÓÐ [0;32;1m44 [0;33;22m¹±Ï×µãÊý[m
+[22:52:55] [Server thread/INFO]: Security_Winter >> linyi[m
+[22:52:59] [Server thread/INFO]: Security_Winter >> awa[m
+[22:53:09] [Server thread/INFO]: Security_Winter >> ÓÐ°ì·¨¸ãË¢É³»úÂð[m
+[23:03:36] [Server thread/INFO]: Minecraft_xyzj issued server command: /
+[23:21:27] [Server thread/INFO]: Minecraft_xyzj issued server command: /
+[23:21:29] [Server thread/INFO]: Minecraft_xyzj issued server command: /
+[23:34:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[23:57:21] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[23:57:21] [Server thread/INFO]: Minecraft_xyzj left the game

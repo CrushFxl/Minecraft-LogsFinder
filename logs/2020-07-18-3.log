@@ -1,0 +1,732 @@
+[00:08:34] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[00:08:34] [Server thread/INFO]: Loading properties
+[00:08:34] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[00:08:34] [Server thread/INFO]: Debug logging is disabled
+[00:08:34] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[00:08:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:08:34] [Server thread/INFO]: Default game type: SURVIVAL
+[00:08:34] [Server thread/INFO]: Generating keypair
+[00:08:34] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[00:08:34] [Server thread/INFO]: Using default channel type
+[00:08:35] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[00:08:37] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[00:08:37] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[00:08:37] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[00:08:37] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[00:08:37] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[00:08:37] [Server thread/WARN]: Legacy plugin XConomy v2.51 does not specify an api-version.
+[00:08:37] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[00:08:37] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[00:08:37] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[00:08:37] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[00:08:37] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[00:08:37] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[00:08:37] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[00:08:37] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[00:08:37] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[00:08:37] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[00:08:37] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[00:08:37] [Server thread/INFO]: [XConomy] Loading XConomy v2.51
+[00:08:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:08:37] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[00:08:37] [Server thread/WARN]: [Vault] Loaded class org.anjocaido.groupmanager.GroupManager from GroupManager v3.3 which is not a depend, softdepend or loadbefore of this plugin.
+[00:08:37] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[00:08:37] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:08:37] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[00:08:37] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[00:08:37] [Server thread/INFO]: [XConomy] Enabling XConomy v2.51*
+[00:08:37] [Server thread/INFO]: [XConomy] 数据保存方式 - YML
+[00:08:37] [Server thread/INFO]: [XConomy] 找到数据文件
+[00:08:37] [Server thread/INFO]: [XConomy] ===== YiC =====
+[00:08:37] [Server thread/INFO]: Preparing level "world"
+[00:08:37] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[00:08:44] [Server thread/INFO]: Loaded 6 recipes
+[00:08:44] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:08:44] [Server thread/INFO]: View Distance: 12
+[00:08:44] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[00:08:44] [Server thread/INFO]: Item Merge Radius: 8.0
+[00:08:44] [Server thread/INFO]: Item Despawn Rate: 3000
+[00:08:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:08:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:08:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:08:44] [Server thread/INFO]: Mob Spawn Range: 4
+[00:08:44] [Server thread/INFO]: Experience Merge Radius: 8.0
+[00:08:44] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[00:08:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:08:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[00:08:44] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[00:08:44] [Server thread/INFO]: Max TNT Explosions: 100
+[00:08:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[00:08:44] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:08:44] [Server thread/INFO]: View Distance: 12
+[00:08:44] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[00:08:44] [Server thread/INFO]: Item Merge Radius: 8.0
+[00:08:44] [Server thread/INFO]: Item Despawn Rate: 3000
+[00:08:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:08:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:08:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:08:44] [Server thread/INFO]: Mob Spawn Range: 4
+[00:08:44] [Server thread/INFO]: Experience Merge Radius: 8.0
+[00:08:44] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[00:08:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:08:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[00:08:44] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[00:08:44] [Server thread/INFO]: Max TNT Explosions: 100
+[00:08:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[00:08:44] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:08:44] [Server thread/INFO]: View Distance: 12
+[00:08:44] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[00:08:44] [Server thread/INFO]: Item Merge Radius: 8.0
+[00:08:44] [Server thread/INFO]: Item Despawn Rate: 3000
+[00:08:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:08:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:08:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:08:44] [Server thread/INFO]: Mob Spawn Range: 4
+[00:08:44] [Server thread/INFO]: Experience Merge Radius: 8.0
+[00:08:44] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[00:08:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:08:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:08:44] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[00:08:44] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[00:08:44] [Server thread/INFO]: Max TNT Explosions: 100
+[00:08:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[00:08:44] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[00:08:44] [Server thread/INFO]: Preparing spawn area: 0%
+[00:08:45] [Server thread/INFO]: Preparing spawn area: 14%
+[00:08:45] [Server thread/INFO]: Preparing spawn area: 100%
+[00:08:46] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[00:08:46] [Server thread/INFO]: Time elapsed: 1421 ms
+[00:08:46] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[00:08:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:08:46] [Server thread/INFO]: Preparing spawn area: 100%
+[00:08:46] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[00:08:46] [Server thread/INFO]: Time elapsed: 661 ms
+[00:08:46] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[00:08:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:08:47] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[00:08:47] [Server thread/INFO]: Time elapsed: 408 ms
+[00:08:47] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[00:08:47] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[00:08:47] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[00:08:47] [Server thread/INFO]: --------------------
+[00:08:47] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[00:08:47] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[00:08:47] [Server thread/INFO]: --------------------
+[00:08:47] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[00:08:47] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[00:08:47] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[00:08:47] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[00:08:47] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[00:08:47] [Server thread/INFO]:  
+[00:08:47] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[00:08:47] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[00:08:47] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[00:08:47] [Server thread/INFO]:  
+[00:08:47] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[00:08:47] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[00:08:47] [Server thread/INFO]: [SAML] Loading config.yml...
+[00:08:47] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[00:08:47] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[00:08:47] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[00:08:47] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[00:08:47] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[00:08:47] [Server thread/INFO]: [SAML] Loading messages.yml...
+[00:08:47] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[00:08:47] [Server thread/INFO]: [SAML] There is an old chunk cache file. Perhaps the server didn't shut down correctly?
+[00:08:47] [Server thread/INFO]: [SAML] Successfully enabled.
+[00:08:47] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5*
+[00:08:47] [Server thread/INFO]: [ChatC] 聊天管理插件已启用！
+[00:08:47] [Server thread/INFO]: [ChatC] 聊天管理插件当前版本：V0.5 （2017年8月24日）
+[00:08:47] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[00:08:47] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0*
+[00:08:47] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[00:08:47] [Server thread/INFO]: [GM+] Checking Your version...
+[00:08:47] [Server thread/INFO]: ===============================
+[00:08:47] [Server thread/INFO]: 
+[00:08:47] [Server thread/INFO]:  GroupManager+ is now enable!
+[00:08:47] [Server thread/INFO]:  
+[00:08:47] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[00:08:47] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[00:08:47] [Server thread/INFO]:  Current version: v3.3
+[00:08:47] [Server thread/INFO]:  
+[00:08:47] [Server thread/INFO]: ===============================
+[00:08:47] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[00:08:47] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[00:08:47] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[00:08:47] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[00:08:47] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[00:08:47] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[00:08:47] [Server thread/INFO]: [Vault] [Vault][Chat] GroupManager - Chat hooked.
+[00:08:47] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[00:08:47] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[00:08:47] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] checkpointClose start
+[00:08:47] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] checkpointClose synched
+[00:08:47] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] checkpointClose script done
+[00:08:47] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] checkpointClose end
+[00:08:47] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[00:08:47] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[00:08:56] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[00:08:56] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[00:08:56] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[00:08:56] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[00:08:56] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[00:08:56] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[00:08:56] [Server thread/INFO]: [TAB] Enabled in 633ms
+[00:08:56] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[00:08:56] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[00:08:56] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[00:08:56] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[00:08:56] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[00:08:56] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[00:08:56] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[00:08:56] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[00:08:56] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[00:08:56] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[00:08:56] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[00:08:56] [Server thread/INFO]: Done (19.207s)! For help, type "help"
+[00:08:56] [Server thread/INFO]: Timings Reset
+[00:08:56] [Craft Scheduler Thread - 3/INFO]: [Vault] Checking for Updates ... 
+[00:08:56] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[00:08:56] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[00:08:58] [Craft Scheduler Thread - 2/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[00:08:58] [Craft Scheduler Thread - 2/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[00:08:59] [Thread-18/INFO]: --------------------
+[00:08:59] [Thread-18/INFO]: [CoreProtect] Version 19.0 is now available.
+[00:08:59] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[00:08:59] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[00:08:59] [Thread-18/INFO]: --------------------
+[00:09:00] [Craft Scheduler Thread - 0/INFO]: [XConomy] 已是最新版本
+[00:09:06] [Craft Scheduler Thread - 3/INFO]: [Vault] There was an issue attempting to check for the latest version.
+[00:09:06] [Craft Scheduler Thread - 3/INFO]: [Vault] No new version available
+[00:09:23] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[00:09:23] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[00:09:23] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:23] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:09:23] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:23] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:09:23] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[00:09:23] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.HttpAuthenticationService.performPostRequest(HttpAuthenticationService.java:77)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:66)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:55)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.a(UserCache.java:88)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.getProfile(UserCache.java:157)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.getOfflinePlayer(CraftServer.java:1419)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.getOfflinePlayer(Bukkit.java:819)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		me.Yi.XConomy.cmd.onCommand(cmd.java:102)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[00:09:23] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[00:09:23] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:23] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:09:23] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:28] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[00:09:28] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[00:09:28] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:28] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:09:28] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:28] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:09:28] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[00:09:28] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.HttpAuthenticationService.performPostRequest(HttpAuthenticationService.java:77)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:66)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:55)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.a(UserCache.java:88)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.getProfile(UserCache.java:157)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.getOfflinePlayer(CraftServer.java:1419)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.getOfflinePlayer(Bukkit.java:819)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		me.Yi.XConomy.cmd.onCommand(cmd.java:102)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[00:09:28] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[00:09:28] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:28] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:09:28] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:33] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[00:09:33] [Paper Watchdog Thread/ERROR]: The server has not responded for 20 seconds! Creating thread dump
+[00:09:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:33] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:09:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:33] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:09:33] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[00:09:33] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.HttpAuthenticationService.performPostRequest(HttpAuthenticationService.java:77)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:66)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:55)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.a(UserCache.java:88)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.getProfile(UserCache.java:157)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.getOfflinePlayer(CraftServer.java:1419)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.getOfflinePlayer(Bukkit.java:819)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		me.Yi.XConomy.cmd.onCommand(cmd.java:102)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[00:09:33] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[00:09:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:33] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:09:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:38] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[00:09:38] [Paper Watchdog Thread/ERROR]: The server has not responded for 25 seconds! Creating thread dump
+[00:09:38] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:38] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:09:38] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:38] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:09:38] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[00:09:38] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.HttpAuthenticationService.performPostRequest(HttpAuthenticationService.java:77)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:66)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:55)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.a(UserCache.java:88)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.getProfile(UserCache.java:157)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.getOfflinePlayer(CraftServer.java:1419)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.getOfflinePlayer(Bukkit.java:819)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		me.Yi.XConomy.cmd.onCommand(cmd.java:102)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[00:09:38] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[00:09:38] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:38] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:09:38] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:43] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[00:09:43] [Paper Watchdog Thread/ERROR]: The server has not responded for 30 seconds! Creating thread dump
+[00:09:43] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:43] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:09:43] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:43] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:09:43] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[00:09:43] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.HttpAuthenticationService.performPostRequest(HttpAuthenticationService.java:77)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:66)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:55)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.a(UserCache.java:88)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.getProfile(UserCache.java:157)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.getOfflinePlayer(CraftServer.java:1419)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.getOfflinePlayer(Bukkit.java:819)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		me.Yi.XConomy.cmd.onCommand(cmd.java:102)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[00:09:43] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[00:09:43] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:43] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:09:43] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:48] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[00:09:48] [Paper Watchdog Thread/ERROR]: The server has not responded for 35 seconds! Creating thread dump
+[00:09:48] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:48] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:09:48] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:48] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:09:48] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[00:09:48] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.HttpAuthenticationService.performPostRequest(HttpAuthenticationService.java:77)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:66)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:55)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.a(UserCache.java:88)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.getProfile(UserCache.java:157)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.getOfflinePlayer(CraftServer.java:1419)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.getOfflinePlayer(Bukkit.java:819)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		me.Yi.XConomy.cmd.onCommand(cmd.java:102)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[00:09:48] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[00:09:48] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:48] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:09:48] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:53] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[00:09:53] [Paper Watchdog Thread/ERROR]: The server has not responded for 40 seconds! Creating thread dump
+[00:09:53] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:53] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:09:53] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:53] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:09:53] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[00:09:53] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.HttpAuthenticationService.performPostRequest(HttpAuthenticationService.java:77)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:66)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:55)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.a(UserCache.java:88)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.getProfile(UserCache.java:157)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.getOfflinePlayer(CraftServer.java:1419)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.getOfflinePlayer(Bukkit.java:819)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		me.Yi.XConomy.cmd.onCommand(cmd.java:102)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[00:09:53] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[00:09:53] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:53] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:09:53] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:58] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[00:09:58] [Paper Watchdog Thread/ERROR]: The server has not responded for 45 seconds! Creating thread dump
+[00:09:58] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:58] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:09:58] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:58] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:09:58] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[00:09:58] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.HttpAuthenticationService.performPostRequest(HttpAuthenticationService.java:77)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:66)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:55)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.a(UserCache.java:88)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.getProfile(UserCache.java:157)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.getOfflinePlayer(CraftServer.java:1419)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.getOfflinePlayer(Bukkit.java:819)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		me.Yi.XConomy.cmd.onCommand(cmd.java:102)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[00:09:58] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[00:09:58] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:09:58] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:09:58] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:10:03] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[00:10:03] [Paper Watchdog Thread/ERROR]: The server has not responded for 50 seconds! Creating thread dump
+[00:10:03] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:10:03] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:10:03] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:10:03] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:10:03] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: false | State: TIMED_WAITING
+[00:10:03] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:92)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.a(UserCache.java:88)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.getProfile(UserCache.java:157)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.getOfflinePlayer(CraftServer.java:1419)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.getOfflinePlayer(Bukkit.java:819)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		me.Yi.XConomy.cmd.onCommand(cmd.java:102)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[00:10:03] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[00:10:03] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:10:03] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:10:03] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:10:08] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[00:10:08] [Paper Watchdog Thread/ERROR]: The server has not responded for 55 seconds! Creating thread dump
+[00:10:08] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:10:08] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:10:08] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:10:08] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:10:08] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[00:10:08] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.HttpAuthenticationService.performPostRequest(HttpAuthenticationService.java:77)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:66)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:55)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.a(UserCache.java:88)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.getProfile(UserCache.java:157)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.getOfflinePlayer(CraftServer.java:1419)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.getOfflinePlayer(Bukkit.java:819)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		me.Yi.XConomy.cmd.onCommand(cmd.java:102)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[00:10:08] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[00:10:08] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:10:08] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:10:08] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:10:09] [Server thread/INFO]: [空域] 你给予了 Crushxl 10.00 贡献点数
+[00:10:09] [Server thread/INFO]: [空域] 你给予了 Crushxl 10.00 贡献点数
+[00:10:09] [Server thread/INFO]: [空域] 你给予了 Crushxl 10.00 贡献点数
+[00:10:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 55991ms or 1119 ticks behind
+[00:10:09] [Craft Scheduler Thread - 4/WARN]: [XConomy] Plugin XConomy v2.51 generated an exception while executing task 20
+java.util.NoSuchElementException: null
+	at java.util.concurrent.CopyOnWriteArrayList$COWIterator.next(Unknown Source) ~[?:1.8.0_181]
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:47) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.util.Collections$UnmodifiableCollection$1.next(Unknown Source) ~[?:1.8.0_181]
+	at me.Yi.XConomy.Task.SendMessTask.run(SendMessTask.java:19) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_181]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[00:10:09] [Craft Scheduler Thread - 5/WARN]: [XConomy] Plugin XConomy v2.51 generated an exception while executing task 21
+java.util.NoSuchElementException: null
+	at java.util.concurrent.CopyOnWriteArrayList$COWIterator.next(Unknown Source) ~[?:1.8.0_181]
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:47) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.util.Collections$UnmodifiableCollection$1.next(Unknown Source) ~[?:1.8.0_181]
+	at me.Yi.XConomy.Task.SendMessTask.run(SendMessTask.java:19) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_181]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[00:10:09] [Craft Scheduler Thread - 6/WARN]: [XConomy] Plugin XConomy v2.51 generated an exception while executing task 22
+java.util.NoSuchElementException: null
+	at java.util.concurrent.CopyOnWriteArrayList$COWIterator.next(Unknown Source) ~[?:1.8.0_181]
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:47) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.util.Collections$UnmodifiableCollection$1.next(Unknown Source) ~[?:1.8.0_181]
+	at me.Yi.XConomy.Task.SendMessTask.run(SendMessTask.java:19) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_181]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[00:10:52] [Server thread/INFO]: [SAML] TPS low (17.03). Will attempt to freeze some mobs...
+[00:10:52] [Server thread/INFO]: [SAML] 321 mobs affected (321 frozen, 0 nerfed) in 94ms. Total of 321/544 affected (321 frozen, 87 nerfed).

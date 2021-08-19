@@ -1,0 +1,1480 @@
+[16:56:59] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:56:59] [main/ERROR]: Exception reading .\world\level.dat
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.lambda$11(Convertable.java:172) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:118) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.d(Convertable.java:274) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.isConvertable(Convertable.java:261) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.convertWorld(MinecraftServer.java:249) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Main.main(Main.java:99) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.Main.main(Main.java:202) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 19 more
+[16:57:00] [main/ERROR]: Exception reading .\world\level.dat_old
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.lambda$11(Convertable.java:172) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:126) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.d(Convertable.java:274) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.isConvertable(Convertable.java:261) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.convertWorld(MinecraftServer.java:249) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Main.main(Main.java:99) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.Main.main(Main.java:202) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 19 more
+[16:57:01] [main/ERROR]: Exception reading .\world\level.dat
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.b(Convertable.java:133) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$0(Convertable.java:131) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.lambda$1(Convertable.java:287) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:118) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.e(Convertable.java:286) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Main.main(Main.java:100) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.Main.main(Main.java:202) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 19 more
+[16:57:01] [main/ERROR]: Exception reading .\world\level.dat_old
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.b(Convertable.java:133) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$0(Convertable.java:131) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.lambda$1(Convertable.java:287) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:126) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.e(Convertable.java:286) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Main.main(Main.java:100) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.Main.main(Main.java:202) [Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 19 more
+[16:57:01] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[16:57:01] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:57:02] [Worker-Main-5/INFO]: Loaded 7 recipes
+[16:57:04] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[16:57:04] [Server thread/INFO]: Loading properties
+[16:57:05] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-37d799b-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[16:57:05] [Server thread/INFO]: Debug logging is disabled
+[16:57:05] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[16:57:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:57:05] [Server thread/INFO]: Default game type: SURVIVAL
+[16:57:05] [Server thread/INFO]: Generating keypair
+[16:57:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:57:06] [Server thread/INFO]: Using default channel type
+[16:57:07] [Server thread/ERROR]: Ambiguous plugin name `GroupManager' for files `plugins\[1.16]GroupManager+ [v3.3].jar' and `plugins\GroupManager+ [v3.2].jar' in `plugins'
+[16:57:08] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:57:10] [Server thread/WARN]: Legacy plugin OnlineRewards v1.0.0 does not specify an api-version.
+[16:57:10] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[16:57:10] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[16:57:10] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[16:57:10] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[16:57:10] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[16:57:10] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[16:57:10] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[16:57:10] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[16:57:10] [Server thread/INFO]: [OnlineRewards] Loading OnlineRewards v1.0.0
+[16:57:10] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[16:57:10] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[16:57:10] [Server thread/INFO]: [TAB] Loading TAB v2.8.10
+[16:57:10] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[16:57:10] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[16:57:10] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[16:57:10] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[16:57:10] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[16:57:10] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[16:57:10] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[16:57:10] [Server thread/INFO]: Preparing level "world"
+[16:57:10] [Server thread/ERROR]: Exception reading .\world\level.dat
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.lambda$10(Convertable.java:150) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:118) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:280) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 20 more
+[16:57:10] [Server thread/ERROR]: Exception reading .\world\level.dat_old
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.lambda$10(Convertable.java:150) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:280) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 20 more
+[16:57:10] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:57:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:57:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:57:10] [Server thread/INFO]: Item Despawn Rate: 3000
+[16:57:10] [Server thread/INFO]: Item Merge Radius: 8.0
+[16:57:10] [Server thread/INFO]: View Distance: 12
+[16:57:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:57:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:57:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:57:10] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[16:57:10] [Server thread/INFO]: Experience Merge Radius: 8.0
+[16:57:10] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[16:57:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:57:10] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[16:57:10] [Server thread/INFO]: Mob Spawn Range: 4
+[16:57:10] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[16:57:10] [Server thread/INFO]: Max TNT Explosions: 100
+[16:57:11] [Server thread/ERROR]: Error loading saved data: raids
+java.io.IOException: Root tag must be a named compound tag
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:146) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:131) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldPersistentData.a(SourceFile:96) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldPersistentData.c(SourceFile:71) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldPersistentData.b(SourceFile:58) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldPersistentData.a(SourceFile:42) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.<init>(WorldServer.java:126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:408) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[16:57:11] [Server thread/WARN]: Unable to find spawn biome
+[16:57:11] [Server thread/ERROR]: Exception reading .\world_nether\level.dat
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.lambda$11(Convertable.java:172) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:118) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.d(Convertable.java:274) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.isConvertable(Convertable.java:261) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.convertWorld(MinecraftServer.java:249) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:347) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 22 more
+[16:57:11] [Server thread/ERROR]: Exception reading .\world_nether\level.dat_old
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.lambda$11(Convertable.java:172) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.d(Convertable.java:274) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.isConvertable(Convertable.java:261) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.convertWorld(MinecraftServer.java:249) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:347) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 22 more
+[16:57:11] [Server thread/ERROR]: Exception reading .\world_nether\level.dat
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.lambda$10(Convertable.java:150) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:118) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:280) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 20 more
+[16:57:11] [Server thread/ERROR]: Exception reading .\world_nether\level.dat_old
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.lambda$10(Convertable.java:150) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:280) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 20 more
+[16:57:11] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:57:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:57:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:57:11] [Server thread/INFO]: Item Despawn Rate: 3000
+[16:57:11] [Server thread/INFO]: Item Merge Radius: 8.0
+[16:57:11] [Server thread/INFO]: View Distance: 12
+[16:57:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:57:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:57:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:57:11] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[16:57:11] [Server thread/INFO]: Experience Merge Radius: 8.0
+[16:57:11] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[16:57:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[16:57:11] [Server thread/INFO]: Mob Spawn Range: 4
+[16:57:11] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[16:57:11] [Server thread/INFO]: Max TNT Explosions: 100
+[16:57:11] [Server thread/ERROR]: Error loading saved data: raids
+java.io.IOException: Root tag must be a named compound tag
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:146) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:131) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldPersistentData.a(SourceFile:96) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldPersistentData.c(SourceFile:71) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldPersistentData.b(SourceFile:58) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldPersistentData.a(SourceFile:42) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.<init>(WorldServer.java:126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:415) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[16:57:11] [Server thread/WARN]: Unable to find spawn biome
+[16:57:11] [Server thread/ERROR]: Exception reading .\world_the_end\level.dat
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.lambda$11(Convertable.java:172) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:118) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.d(Convertable.java:274) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.isConvertable(Convertable.java:261) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.convertWorld(MinecraftServer.java:249) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:347) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 26 more
+[16:57:11] [Server thread/ERROR]: Exception reading .\world_the_end\level.dat_old
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.lambda$11(Convertable.java:172) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.d(Convertable.java:274) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.isConvertable(Convertable.java:261) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.convertWorld(MinecraftServer.java:249) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:347) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 26 more
+[16:57:11] [Server thread/ERROR]: Exception reading .\world_the_end\level.dat
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.lambda$10(Convertable.java:150) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:118) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:280) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 24 more
+[16:57:11] [Server thread/ERROR]: Exception reading .\world_the_end\level.dat_old
+net.minecraft.server.v1_16_R3.ReportedException: Loading NBT data
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:477) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.a(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:83) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:141) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:56) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.lambda$10(Convertable.java:150) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.a(Convertable.java:126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.access$4(Convertable.java:111) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:280) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.d(SourceFile:466) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:32) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:80) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound$1.b(SourceFile:69) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTTagCompound.b(SourceFile:471) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 24 more
+[16:57:11] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:57:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:57:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:57:11] [Server thread/INFO]: Item Despawn Rate: 3000
+[16:57:11] [Server thread/INFO]: Item Merge Radius: 8.0
+[16:57:11] [Server thread/INFO]: View Distance: 12
+[16:57:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:57:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:57:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:57:11] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[16:57:11] [Server thread/INFO]: Experience Merge Radius: 8.0
+[16:57:11] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[16:57:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:57:11] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[16:57:11] [Server thread/INFO]: Mob Spawn Range: 4
+[16:57:11] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[16:57:11] [Server thread/INFO]: Max TNT Explosions: 100
+[16:57:11] [Server thread/ERROR]: Error loading saved data: raids_end
+java.io.IOException: Root tag must be a named compound tag
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:146) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:131) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldPersistentData.a(SourceFile:96) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldPersistentData.c(SourceFile:71) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldPersistentData.b(SourceFile:58) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldPersistentData.a(SourceFile:42) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.<init>(WorldServer.java:126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:415) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[16:57:11] [Server thread/WARN]: Unable to find spawn biome
+[16:57:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:57:12] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:12] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:12] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:13] [Server thread/INFO]: Preparing spawn area: 47%
+[16:57:13] [Server thread/INFO]: Time elapsed: 1820 ms
+[16:57:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:57:13] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:14] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:14] [Server thread/INFO]: Preparing spawn area: 100%
+[16:57:14] [Server thread/INFO]: Time elapsed: 1043 ms
+[16:57:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:57:15] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:15] [Server thread/INFO]: Time elapsed: 525 ms
+[16:57:15] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[16:57:15] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[16:57:15] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[16:57:15] [Server thread/INFO]: --------------------
+[16:57:15] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[16:57:15] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[16:57:15] [Server thread/INFO]: --------------------
+[16:57:15] [Server thread/INFO]: [OnlineRewards] Enabling OnlineRewards v1.0.0
+[16:57:15] [Server thread/INFO]: [OnlineRewards] [OnlineRewards] Loading config...
+[16:57:15] [Server thread/INFO]: [OnlineRewards] org.bukkit.configuration.InvalidConfigurationException: unacceptable code point ' ' (0x0) special characters are not allowed
+in "'string'", position 0
+[16:57:15] [Server thread/INFO]: [OnlineRewards] [OnlineRewards]Ç©µ½ÎÄ¼þ¶ÁÐ´³ö´í£¬½«ÎÞ·¨Õý³£Ê¹ÓÃÇ©µ½¹¦ÄÜ
+[16:57:15] [Server thread/INFO]: [OnlineRewards]  
+[16:57:15] [Server thread/INFO]: [OnlineRewards] >>>>>>>>>>>>>>>>>>>>>>>> OnlineRewards Loaded <<<<<<<<<<<<<<<<<<<<<<<<
+[16:57:15] [Server thread/INFO]: [OnlineRewards] >>>>> If you encounter any bugs, please contact author's QQ: 768318841 <<<<<
+[16:57:15] [Server thread/INFO]: [OnlineRewards]  
+[16:57:15] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3
+[16:57:15] [Server thread/INFO]: [PxAutoMessage] ÕýÔÚÆô¶¯Æ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[16:57:15] [Server thread/INFO]: [PxAutoMessage] ³õÊ¼»¯ÐÅÏ¢Ä£¿é...
+[16:57:15] [Server thread/INFO]: [PxAutoMessage] ×¢²áÃüÁî¼àÌýÏµÍ³...
+[16:57:15] [Server thread/INFO]: [PxAutoMessage] ¼ÓÔØÍê±Ï£¡
+[16:57:15] [Server thread/INFO]:  
+[16:57:15] [Server thread/INFO]: > ×÷Õß£ºAn_ye (QQ:1444691679)
+[16:57:15] [Server thread/INFO]: > ±¾²å¼þ×Ô´øºº»¯£¬ÇëÎðÏàÐÅËùÎ½µÄºº»¯°æ£¡
+[16:57:15] [Server thread/INFO]: > £¨×÷ÕßµÄ»°£ºI'm Chinese.£©
+[16:57:15] [Server thread/INFO]:  
+[16:57:15] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0
+[16:57:15] [Server thread/INFO]: HikariPool-1 - Starting...
+[16:57:16] [Server thread/INFO]: checkpointClose start
+[16:57:16] [Server thread/INFO]: checkpointClose synched
+[16:57:16] [Server thread/INFO]: checkpointClose script done
+[16:57:16] [Server thread/INFO]: checkpointClose end
+[16:57:16] [Server thread/INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[16:57:16] [Server thread/INFO]: HikariPool-1 - Start completed.
+[16:57:17] [Server thread/INFO]: 
+[16:57:17] [Server thread/INFO]:  
+[16:57:17] [Server thread/INFO]: [0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
+[16:57:17] [Server thread/INFO]: [0;30;1m| [0;31;1mInformation:
+[16:57:17] [Server thread/INFO]: [0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[16:57:17] [Server thread/INFO]: [0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[16:57:17] [Server thread/INFO]: [0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[16:57:17] [Server thread/INFO]: [0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[16:57:17] [Server thread/INFO]: [0;30;1m| [0;31;1mSupport:
+[16:57:17] [Server thread/INFO]: [0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[16:57:17] [Server thread/INFO]: [0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[16:57:17] [Server thread/INFO]: [0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[16:57:17] [Server thread/INFO]: [0;30;1m| [0;31;1mUpdate:
+[16:57:17] [Server thread/INFO]: [0;30;1m|   [0;37;22mThere is a new version available! [2.3.0]
+[16:57:17] [Server thread/INFO]: [0;30;1m[]================================[][m
+[16:57:17] [Server thread/INFO]:  [m
+[16:57:17] [Server thread/INFO]: [TAB] Enabling TAB v2.8.10
+[16:57:17] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.16.4 (v1_16_R3)[m
+[16:57:18] [Server thread/INFO]: [0;31;1m[TAB] Animation "[0;33;1mWelcome[0;31;1m" does not have any texts! [0;36;1mIgnoring.[m
+[16:57:18] [Server thread/INFO]: [0;33;1m[TAB] There was 1 startup warning.[m
+[16:57:18] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 75ms[m
+[16:57:18] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[16:57:18] [Server thread/INFO]: [OpenInv] Your version of CraftBukkit (v1_16_R3) is not supported.
+[16:57:18] [Server thread/INFO]: [OpenInv] If this version is a recent release, check for an update.
+[16:57:18] [Server thread/INFO]: [OpenInv] If this is an older version, ensure that you've downloaded the legacy support version.
+[16:57:18] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5
+[16:57:18] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼þÒÑÆôÓÃ£¡
+[16:57:18] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼þµ±Ç°°æ±¾£ºV0.5 £¨2017Äê8ÔÂ24ÈÕ£©
+[16:57:18] [Server thread/INFO]: [ChatC] ¸ÐÐ»ÄúµÄÊ¹ÓÃ£¡
+[16:57:18] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT
+[16:57:18] [Server thread/ERROR]: Cannot load D:\¡¾Airspace·þÎñ¶Ë¡¿PaperOn1.16.2\plugins\PlayerPoints\storage.yml
+org.bukkit.configuration.InvalidConfigurationException: unacceptable code point ' ' (0x0) special characters are not allowed
+in "'string'", position 0
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:59) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:186) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.black_ixx.playerpoints.storage.models.YAMLStorage.<init>(YAMLStorage.java:52) ~[?:?]
+	at org.black_ixx.playerpoints.storage.StorageGenerator.createStorageHandlerForType(StorageGenerator.java:41) ~[?:?]
+	at org.black_ixx.playerpoints.storage.StorageHandler.starting(StorageHandler.java:65) ~[?:?]
+	at org.black_ixx.playerpoints.PlayerPoints.registerModule(PlayerPoints.java:139) ~[?:?]
+	at org.black_ixx.playerpoints.PlayerPoints.onEnable(PlayerPoints.java:64) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:494) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:408) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:435) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: org.yaml.snakeyaml.reader.ReaderException: special characters are not allowed
+	at org.yaml.snakeyaml.reader.StreamReader.update(StreamReader.java:211) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.reader.StreamReader.ensureEnoughData(StreamReader.java:176) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.reader.StreamReader.ensureEnoughData(StreamReader.java:171) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.reader.StreamReader.peek(StreamReader.java:126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.scanToNextToken(ScannerImpl.java:1177) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:287) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:227) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseImplicitDocumentStart.produce(ParserImpl.java:195) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:118) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:150) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:472) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:398) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 18 more
+[16:57:18] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0
+[16:57:18] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3
+[16:57:18] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;33;1mChecking Your version...[m
+[16:57:18] [Server thread/INFO]: [0;34;1m===============================[m
+[16:57:18] [Server thread/INFO]: [0;32;1m[m
+[16:57:18] [Server thread/INFO]: [0;32;1m GroupManager+ is now enable![m
+[16:57:18] [Server thread/INFO]: [0;32;1m [m
+[16:57:18] [Server thread/INFO]: [0;33;1m Thank you for using GroupManager+ :)[m
+[16:57:18] [Server thread/INFO]: [0;33;1m GroupManager+ is create by HappyAreaBean![m
+[16:57:18] [Server thread/INFO]: [0;36;1m Current version: [0;32;1mv3.3[m
+[16:57:18] [Server thread/INFO]: [0;32;1m [m
+[16:57:18] [Server thread/INFO]: [0;34;1m===============================[m
+[16:57:18] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mWorld Found: world[m
+[16:57:18] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mSuperperms support enabled.[m
+[16:57:18] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is set for every 10 minutes![m
+[16:57:18] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBackups will be retained for 24 hours![m
+[16:57:18] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mGroupManager+ v3.3 is now enabled![m
+[16:57:18] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1
+[16:57:18] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[16:57:18] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[16:57:18] [Server thread/INFO]: [AnGmode] ¡ìaÄãºÃ£¡ÎÒÊÇÐ¡°²£¬¸ÐÐ»ÄãÄÜÊ¹ÓÃÕâ¸ö²å¼þ£¡
+[16:57:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:57:18] [Server thread/INFO]: Done (7.849s)! For help, type "help"
+[16:57:18] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[16:57:18] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBukkit Permissions Updated![m
+[16:57:19] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;32;1mYou are using the lastest version of GM+! (v3.3)[m
+[16:57:20] [Thread-19/INFO]: --------------------
+[16:57:20] [Thread-19/INFO]: [CoreProtect] Version 19.5 is now available.
+[16:57:20] [Thread-19/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[16:57:20] [Thread-19/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[16:57:20] [Thread-19/INFO]: --------------------
+[16:57:27] [User Authenticator #1/INFO]: UUID of player CrushFxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[16:57:28] [Server thread/INFO]: CrushFxl[/127.0.0.1:49754] logged in with entity id 367 at ([world]1263.8158268353595, 10.953186879442272, -1380.030975944512)
+[16:58:04] [Server thread/INFO]: CrushFxl issued server command: /tp @a 200 200 20
+[16:58:04] [Server thread/WARN]: Entity EntityPlayer['CrushFxl'/367, l='ServerLevel[world]', x=200.50, y=200.00, z=20.50](CrushFxl at 200.5,200.0,20.5) left loaded chunk area
+[16:58:04] [Server thread/INFO]: [CrushFxl: Teleported CrushFxl to 200.5, 200.0, 20.5]
+[16:58:43] [Server thread/INFO]: CrushFxl lost connection: Disconnected
+[16:58:43] [Server thread/INFO]: CrushFxl left the game
+[16:58:48] [User Authenticator #2/INFO]: UUID of player CrushFxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[16:58:48] [Server thread/INFO]: CrushFxl[/127.0.0.1:49771] logged in with entity id 963 at ([world]-88.98288581323455, 101.39638963410812, 229.14410284619228)
+[16:59:11] [Server thread/INFO]: CrushFxl issued server command: /gamemode creative
+[16:59:11] [Server thread/INFO]: [CrushFxl: Set own game mode to Creative Mode]
+[17:07:18] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[17:07:19] [Server thread/INFO]: CrushFxl lost connection: Disconnected
+[17:07:19] [Server thread/INFO]: CrushFxl left the game
+[17:57:18] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[18:28:01] [User Authenticator #3/INFO]: UUID of player Saligiald_Memory is 2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931
+[18:28:01] [Server thread/ERROR]: Unable to parse Stat data from .\world\stats\2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerStatisticManager.a(ServerStatisticManager.java:87) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerStatisticManager.<init>(ServerStatisticManager.java:46) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.getStatisticManager(PlayerList.java:1117) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.getStatisticManager(PlayerList.java:1097) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.EntityPlayer.<init>(EntityPlayer.java:104) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.attemptLogin(PlayerList.java:513) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.c(LoginListener.java:134) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.tick(LoginListener.java:53) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NetworkManager.a(NetworkManager.java:219) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerConnection.c(ServerConnection.java:130) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1007) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:593) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 16 more
+[18:28:01] [Server thread/ERROR]: Couldn't parse player advancements in .\world\advancements\2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.AdvancementDataPlayer.d(AdvancementDataPlayer.java:144) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.AdvancementDataPlayer.<init>(AdvancementDataPlayer.java:59) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.f(PlayerList.java:1132) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.EntityPlayer.<init>(EntityPlayer.java:105) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.attemptLogin(PlayerList.java:513) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.c(LoginListener.java:134) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.tick(LoginListener.java:53) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NetworkManager.a(NetworkManager.java:219) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerConnection.c(ServerConnection.java:130) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1007) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:593) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 15 more
+[18:28:01] [Server thread/WARN]: Failed to load player data for Saligiald_Memory
+[18:28:01] [Server thread/INFO]: Saligiald_Memory[/127.0.0.1:50098] logged in with entity id 5781 at ([world]0.5, 69.0, -9.5)
+[18:28:36] [Server thread/INFO]: Saligiald_Memory lost connection: Disconnected
+[18:28:36] [Server thread/INFO]: Saligiald_Memory left the game
+[18:29:19] [User Authenticator #4/INFO]: UUID of player Saligiald_Memory is 2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931
+[18:29:19] [Server thread/INFO]: Saligiald_Memory[/127.0.0.1:50105] logged in with entity id 5839 at ([world]3.2408527922244312, 73.0, -14.919761740202228)
+[18:31:13] [Server thread/INFO]: Saligiald_Memory lost connection: Disconnected
+[18:31:13] [Server thread/INFO]: Saligiald_Memory left the game
+[18:37:18] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[18:57:18] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[19:08:25] [User Authenticator #5/INFO]: UUID of player Saligiald_Memory is 2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931
+[19:08:25] [Server thread/INFO]: Saligiald_Memory[/127.0.0.1:50251] logged in with entity id 6037 at ([world]-151.64077422777206, 64.0, 171.5750747596731)
+[19:08:43] [Server thread/INFO]: Saligiald_Memory was slain by Zombie
+[19:12:09] [Server thread/INFO]: Saligiald_Memory has made the advancement [Sweet Dreams]
+[19:12:26] [Server thread/INFO]: Saligiald_Memory has made the advancement [We Need to Go Deeper]
+[19:13:06] [Server thread/WARN]: Boat (vehicle of Saligiald_Memory) moved wrongly! 0.4380051096712809
+[19:13:06] [Server thread/WARN]: Boat (vehicle of Saligiald_Memory) moved wrongly! 0.6507278425019041
+[19:14:41] [Server thread/INFO]: Saligiald_Memory has completed the challenge [Subspace Bubble]
+[19:16:20] [Server thread/INFO]: Saligiald_Memory lost connection: Disconnected
+[19:16:20] [Server thread/INFO]: Saligiald_Memory left the game
+[19:19:41] [User Authenticator #6/INFO]: UUID of player Saligiald_Memory is 2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931
+[19:19:41] [Server thread/INFO]: Saligiald_Memory[/127.0.0.1:50307] logged in with entity id 7085 at ([world]7699.5, 65.0, -1354.5)
+[19:20:33] [Server thread/INFO]: Saligiald_Memory lost connection: Disconnected
+[19:20:33] [Server thread/INFO]: Saligiald_Memory left the game
+[19:21:50] [User Authenticator #7/INFO]: UUID of player Saligiald_Memory is 2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931
+[19:21:50] [Server thread/INFO]: Saligiald_Memory[/127.0.0.1:50318] logged in with entity id 7211 at ([world]7701.605634786262, 63.0, -1364.7074183590742)
+[19:22:53] [Server thread/INFO]: Saligiald_Memory has made the advancement [Suit Up]
+[19:23:17] [Server thread/INFO]: Saligiald_Memory has made the advancement [A Seedy Place]
+[19:24:05] [Server thread/INFO]: Saligiald_Memory has made the advancement [Acquire Hardware]
+[19:25:12] [Server thread/INFO]: Saligiald_Memory lost connection: Disconnected
+[19:25:12] [Server thread/INFO]: Saligiald_Memory left the game
+[19:31:42] [User Authenticator #8/INFO]: UUID of player Saligiald_Memory is 2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931
+[19:31:42] [Server thread/INFO]: Saligiald_Memory[/127.0.0.1:50351] logged in with entity id 7460 at ([world]7701.846703575164, 68.0, -1352.0604763104777)
+[19:32:11] [Server thread/INFO]: Saligiald_Memory issued server command: /co i
+[19:32:59] [User Authenticator #9/INFO]: UUID of player miHoYo_FuHua is 5993cb85-5924-4e1d-b969-8e62a7b337d0
+[19:32:59] [Server thread/INFO]: miHoYo_FuHua[/127.0.0.1:50364] logged in with entity id 7589 at ([world_nether]368.76206653640946, 115.0, 22.86951729318494)
+[19:32:59] [Server thread/INFO]: Saligiald_Memory lost connection: Disconnected
+[19:32:59] [Server thread/INFO]: Saligiald_Memory left the game
+[19:33:14] [User Authenticator #10/INFO]: UUID of player Saligiald_Memory is 2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931
+[19:33:14] [Server thread/INFO]: Saligiald_Memory[/127.0.0.1:50368] logged in with entity id 7632 at ([world]7701.774953656205, 63.0, -1364.848513215442)
+[19:33:31] [Server thread/INFO]: Saligiald_Memory issued server command: /co l
+[19:33:54] [Server thread/INFO]: Saligiald_Memory issued server command: /co inspect
+[19:36:14] [Server thread/INFO]: There are 2 of a max of 50 players online: miHoYo_FuHua, Saligiald_Memory
+[19:36:41] [Server thread/INFO]: Saligiald_Memory has made the advancement [Monster Hunter]
+[19:36:59] [Server thread/INFO]: miHoYo_FuHua lost connection: Disconnected
+[19:36:59] [Server thread/INFO]: miHoYo_FuHua left the game
+[19:37:07] [Server thread/INFO]: Saligiald_Memory lost connection: Disconnected
+[19:37:07] [Server thread/INFO]: Saligiald_Memory left the game
+[19:37:18] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:57:18] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[20:22:38] [User Authenticator #11/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[20:22:38] [Server thread/ERROR]: Unable to parse Stat data from .\world\stats\bcfaf083-b49a-4a47-b8a9-5f7c62b6e381.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerStatisticManager.a(ServerStatisticManager.java:87) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerStatisticManager.<init>(ServerStatisticManager.java:46) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.getStatisticManager(PlayerList.java:1117) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.getStatisticManager(PlayerList.java:1097) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.EntityPlayer.<init>(EntityPlayer.java:104) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.attemptLogin(PlayerList.java:513) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.c(LoginListener.java:134) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.tick(LoginListener.java:53) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NetworkManager.a(NetworkManager.java:219) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerConnection.c(ServerConnection.java:130) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1007) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:593) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 16 more
+[20:22:38] [Server thread/ERROR]: Couldn't parse player advancements in .\world\advancements\bcfaf083-b49a-4a47-b8a9-5f7c62b6e381.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.AdvancementDataPlayer.d(AdvancementDataPlayer.java:144) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.AdvancementDataPlayer.<init>(AdvancementDataPlayer.java:59) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.f(PlayerList.java:1132) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.EntityPlayer.<init>(EntityPlayer.java:105) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.attemptLogin(PlayerList.java:513) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.c(LoginListener.java:134) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.tick(LoginListener.java:53) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NetworkManager.a(NetworkManager.java:219) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerConnection.c(ServerConnection.java:130) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1007) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:593) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 15 more
+[20:22:38] [Server thread/WARN]: Failed to load player data for Security_Winter
+[20:22:39] [Server thread/INFO]: Security_Winter[/127.0.0.1:58880] logged in with entity id 8385 at ([world]9.5, 70.0, -6.5)
+[20:22:54] [Server thread/INFO]: Security_Winter >> ?[m
+[20:23:01] [Server thread/INFO]: Security_Winter issued server command: /p me
+[20:23:06] [Server thread/INFO]: Security_Winter issued server command: /qd
+[20:23:06] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;31;1m½»Ò×Ê§°Ü[m
+[20:23:17] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[20:23:17] [Server thread/INFO]: Security_Winter left the game
+[20:24:58] [User Authenticator #12/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[20:24:58] [Server thread/INFO]: Security_Winter[/127.0.0.1:58929] logged in with entity id 8429 at ([world]4.544158821580627, 65.5, 15.214087167319942)
+[20:25:09] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[20:25:09] [Server thread/INFO]: Security_Winter left the game
+[20:26:13] [User Authenticator #13/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[20:26:13] [Server thread/INFO]: Security_Winter[/127.0.0.1:58935] logged in with entity id 8442 at ([world]4.605150456380653, 65.5, 16.02951630249659)
+[20:26:49] [User Authenticator #14/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[20:26:49] [Server thread/INFO]: Security_Winter lost connection: You logged in from another location
+[20:26:49] [Server thread/INFO]: Security_Winter left the game
+[20:26:49] [Server thread/INFO]: Security_Winter[/127.0.0.1:58940] logged in with entity id 8473 at ([world]4.605150456380653, 65.5, 16.02951630249659)
+[20:27:18] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:27:33] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[20:27:33] [Server thread/INFO]: Security_Winter left the game
+[20:28:36] [User Authenticator #15/INFO]: UUID of player Ling_Fo is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[20:28:36] [Server thread/INFO]: Ling_Fo[/127.0.0.1:58952] logged in with entity id 8509 at ([world]1748.2907089343707, 33.042799331750814, 237.03526504835838)
+[20:28:38] [User Authenticator #16/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[20:28:38] [Server thread/ERROR]: Unable to parse Stat data from .\world\stats\d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerStatisticManager.a(ServerStatisticManager.java:87) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerStatisticManager.<init>(ServerStatisticManager.java:46) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.getStatisticManager(PlayerList.java:1117) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.getStatisticManager(PlayerList.java:1097) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.EntityPlayer.<init>(EntityPlayer.java:104) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.attemptLogin(PlayerList.java:513) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.c(LoginListener.java:134) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.tick(LoginListener.java:53) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NetworkManager.a(NetworkManager.java:219) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerConnection.c(ServerConnection.java:130) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1007) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:593) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 16 more
+[20:28:38] [Server thread/ERROR]: Couldn't parse player advancements in .\world\advancements\d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.AdvancementDataPlayer.d(AdvancementDataPlayer.java:144) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.AdvancementDataPlayer.<init>(AdvancementDataPlayer.java:59) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.f(PlayerList.java:1132) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.EntityPlayer.<init>(EntityPlayer.java:105) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.attemptLogin(PlayerList.java:513) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.c(LoginListener.java:134) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.tick(LoginListener.java:53) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NetworkManager.a(NetworkManager.java:219) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerConnection.c(ServerConnection.java:130) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1007) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:593) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 15 more
+[20:28:38] [Server thread/WARN]: Failed to load player data for sen_lv_ling_
+[20:28:38] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:58956] logged in with entity id 8700 at ([world]0.5, 69.0, -8.5)
+[20:28:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[20:28:52] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÕ¦ÔÚÕâ¶ù£¿[m
+[20:28:56] [Server thread/INFO]: sen_lv_ling_ issued server command: /p me
+[20:29:07] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ¹±Ï×µãÄØ£¿[m
+[20:29:28] [Server thread/INFO]: Ling_Fo issued server command: /gamemode creative
+[20:29:28] [Server thread/INFO]: [Ling_Fo: Set own game mode to Creative Mode]
+[20:29:33] [Server thread/INFO]: Ling_Fo >> ?[m
+[20:29:34] [Server thread/INFO]: sen_lv_ling_ issued server command: /px off
+[20:29:34] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'px' in plugin AnGmode v1.0-SNAPSHOT
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:758) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:1788) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1631) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1584) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:941) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:934) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:918) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:850) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.lang.NullPointerException
+	at enron.angmode.command.AnGmodeCommand.onCommand(AnGmodeCommand.java:46) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 19 more
+[20:29:37] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> µÈµÈ[m
+[20:29:41] [Server thread/INFO]: Ling_Fo >> ÎÒ¶«Î÷»¹ÔÚ°¢*[m
+[20:29:47] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÕ¦É¶¶«Î÷¶¼Ã»ÓÐ[m
+[20:29:55] [Server thread/INFO]: Ling_Fo >> *[m
+[20:30:16] [User Authenticator #17/INFO]: UUID of player Misours is 3ba17b9b-ef06-48d3-8444-9e527ffb37f2
+[20:30:16] [Server thread/INFO]: Misours[/127.0.0.1:58962] logged in with entity id 8869 at ([world]2895.3166010506434, 64.0, -115.89665235476268)
+[20:30:30] [Server thread/INFO]: sen_lv_ling_ issued server command: /p me
+[20:30:57] [Server thread/INFO]: Misours lost connection: Disconnected
+[20:30:57] [Server thread/INFO]: Misours left the game
+[20:33:12] [User Authenticator #18/INFO]: UUID of player Misours is 3ba17b9b-ef06-48d3-8444-9e527ffb37f2
+[20:33:12] [Server thread/INFO]: Misours[/127.0.0.1:58976] logged in with entity id 10218 at ([world]2679.946976230473, 66.0, -353.6712460621159)
+[20:33:16] [Server thread/INFO]: Misours issued server command: /qd
+[20:33:16] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mMisours [0;33;22mÄ¿Ç°ÓÐ [0;32;1m2 [0;33;22m¹±Ï×µãÊý[m
+[20:33:26] [Server thread/INFO]: Misours lost connection: Disconnected
+[20:33:26] [Server thread/INFO]: Misours left the game
+[20:33:36] [User Authenticator #19/INFO]: UUID of player miHoYo_FuHua is 5993cb85-5924-4e1d-b969-8e62a7b337d0
+[20:33:36] [Server thread/INFO]: miHoYo_FuHua[/127.0.0.1:58988] logged in with entity id 10987 at ([world]1095.1885165906351, 63.0, -1773.1759396479592)
+[20:33:40] [Server thread/INFO]: There are 3 of a max of 50 players online: Ling_Fo, sen_lv_ling_, miHoYo_FuHua
+[20:33:41] [Server thread/INFO]: sen_lv_ling_ has made the advancement [We Need to Go Deeper]
+[20:33:45] [Server thread/INFO]: Ling_Fo >> *[m
+[20:33:55] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ÐÇ>[0;37;1m miHoYo_FuHua >> ÏÅµÃÎÒÓÖÉÏÏß¿´ÁËÑÛ[m
+[20:33:57] [Server thread/INFO]: Ling_Fo issued server command: /tp sen_lv_ling_
+[20:33:57] [Server thread/INFO]: [Ling_Fo: Teleported Ling_Fo to sen_lv_ling_]
+[20:34:04] [User Authenticator #20/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[20:34:04] [Server thread/INFO]: 4022sun[/127.0.0.1:58993] logged in with entity id 11312 at ([world_the_end]256.1753912384405, 79.0, -15.640479783367383)
+[20:34:10] [Server thread/INFO]: 4022sun >> ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh[m
+[20:34:15] [User Authenticator #21/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[20:34:15] [Server thread/INFO]: Xin_Sai[/127.0.0.1:58998] logged in with entity id 11381 at ([world_nether]159.04926112730345, 115.0, -159.90134688838975)
+[20:34:17] [Server thread/INFO]: 4022sun >> ÎÒ¶«Î÷»¹ÔÚ[m
+[20:34:20] [Server thread/INFO]: 4022sun >> ohhhhhhhhhhhhhhhhhhhhhhhhhh[m
+[20:34:25] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÐÄÈû£¡[m
+[20:34:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒµÄÈ«³É¾ÍÒ²Ã»ÁË£¨£¨£¨[m
+[20:34:34] [Server thread/INFO]: Xin_Sai >> ÐÖµÜÃÇºÃ[m
+[20:34:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> awa[m
+[20:34:48] [Server thread/INFO]: Xin_Sai >> ÏëÄãÃÇÁË[m
+[20:34:54] [Server thread/INFO]: Ling_Fo >> ohhhhhhhh[m
+[20:34:55] [Server thread/INFO]: Xin_Sai >> »ØÀ´¿´¿´[m
+[20:35:05] [Server thread/INFO]: Ling_Fo >> ÎÒµÄ»¹ÔÚ[m
+[20:35:13] [Server thread/INFO]: Ling_Fo >> µ«ÎÒ²»ÊÇÈ«³É¾Í£¨£¨£¨£¨£¨[m
+[20:35:23] [Server thread/INFO]: 4022sun >> ÎÒÔÚÄ©µØ[m
+[20:35:24] [Server thread/INFO]: 4022sun >> awa[m
+[20:35:30] [Server thread/WARN]: Xin_Sai moved too quickly! -15.896537336211217,0.0,-0.20379710281192942
+[20:35:35] [Server thread/INFO]: 4022sun >> Ó¦¸ÃÖ»ÊÇÇåÀíÁËÖ÷ÊÀ½çµÄ[m
+[20:35:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ±¾À´Ò²ÔÚÄ©µØ°¡[m
+[20:35:49] [Server thread/INFO]: Ling_Fo >> ÎÒÔÚÖ÷ÊÀ½ç°¢[m
+[20:35:52] [Server thread/INFO]: Xin_Sai >> ÎÒÔÚµØÓü[m
+[20:35:53] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ÐÇ>[0;37;1m miHoYo_FuHua >> ÎÒÔÚµØÓü[m
+[20:35:55] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> È»ºóÉÏÏß¾ÍÔÚ³öÉúµã[m
+[20:36:01] [Server thread/INFO]: 4022sun >> = =[m
+[20:36:17] [Server thread/WARN]: miHoYo_FuHua moved wrongly!
+[20:36:23] [Server thread/INFO]: 4022sun >> ÈËµÄÎÊÌâawa[m
+[20:36:26] [Server thread/INFO]: Xin_Sai >> ÎÒÔõÃ´´ò²»ÁËÄã[m
+[20:36:32] [Server thread/INFO]: Ling_Fo issued server command: /gamemode spectator
+[20:36:32] [Server thread/INFO]: [Ling_Fo: Set own game mode to Spectator Mode]
+[20:36:33] [Server thread/INFO]: Ling_Fo issued server command: /gamemode creative
+[20:36:33] [Server thread/INFO]: [Ling_Fo: Set own game mode to Creative Mode]
+[20:36:43] [Server thread/INFO]: Ling_Fo issued server command: /gamemode survival
+[20:36:43] [Server thread/INFO]: [Ling_Fo: Set own game mode to Survival Mode]
+[20:36:49] [Server thread/INFO]: Ling_Fo issued server command: /gamemode spectator
+[20:36:49] [Server thread/INFO]: [Ling_Fo: Set own game mode to Spectator Mode]
+[20:36:53] [Server thread/INFO]: Ling_Fo issued server command: /gamemode survival
+[20:36:53] [Server thread/INFO]: [Ling_Fo: Set own game mode to Survival Mode]
+[20:36:59] [Server thread/INFO]: sen_lv_ling_ was slain by Ling_Fo
+[20:37:03] [Server thread/INFO]: 4022sun >> awa[m
+[20:37:04] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ü³[m
+[20:37:07] [Server thread/INFO]: 4022sun >> cai[m
+[20:37:16] [Server thread/INFO]: Ling_Fo was killed trying to hurt Xin_Sai
+[20:37:18] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:37:19] [Server thread/INFO]: 4022sun >> awa[m
+[20:37:22] [Server thread/INFO]: Xin_Sai >> ?[m
+[20:37:28] [Server thread/INFO]: miHoYo_FuHua lost connection: Disconnected
+[20:37:28] [Server thread/INFO]: miHoYo_FuHua left the game
+[20:37:31] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¾£¼¬100000[m
+[20:37:35] [Server thread/INFO]: 4022sun >> Ã»ÊÂÎÒ»ØÈ¥¸ã¸ßËÙÂ¯ÁË[m
+[20:37:39] [Server thread/INFO]: 4022sun >> ([m
+[20:37:51] [Server thread/INFO]: Ling_Fo >> ¸øÎÒ·¢Ò»¸öttoo[m
+[20:37:53] [Server thread/INFO]: Ling_Fo was slain by sen_lv_ling_
+[20:37:56] [Server thread/INFO]: 4022sun >> xswl[m
+[20:37:57] [Server thread/INFO]: Xin_Sai >> Ling_Fo Äãµô¶«Î÷ÁË[m
+[20:38:07] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ±¬×°±¸ÁË£¡[m
+[20:38:12] [Server thread/INFO]: Ling_Fo >> °ïÎÒÊÕ×Å*[m
+[20:38:14] [Server thread/INFO]: 4022sun >> ohhhhhh[m
+[20:38:24] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ò»µ¶999999[m
+[20:38:31] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:38:31] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:39:21] [Server thread/INFO]: Ling_Fo >> ²»¶Ô°¢[m
+[20:39:28] [Server thread/INFO]: Ling_Fo >> ÎÒ¸´»îÒ²²»ÊÇ³öÉúµã°¢[m
+[20:39:31] [Server thread/INFO]: 4022sun >> ÄãÃÇÔÚÄÄ[m
+[20:39:39] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Öø³ÆµØÓüÃÅ[m
+[20:40:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÀëÆ×[m
+[20:40:33] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> hhhhh[m
+[20:40:42] [Server thread/INFO]: sen_lv_ling_ was slain by 4022sun using [ÇÖÊ´Ö®¼ü]
+[20:40:42] [Server thread/INFO]: Xin_Sai >> ÀëÆ×[m
+[20:40:46] [Server thread/INFO]: Ling_Fo >> ([m
+[20:40:46] [Server thread/INFO]: 4022sun >> ÁÔÉ±Ê±¿Ìawa[m
+[20:40:48] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> àÓàÓàÓ[m
+[20:40:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãÃÇ¶¼ÆÛ¸ºÎÒ[m
+[20:40:57] [Server thread/INFO]: Xin_Sai >> ÎÒµÄÑÌ»¨ÓÐ¶¾[m
+[20:41:02] [Server thread/INFO]: There are 4 of a max of 50 players online: Xin_Sai, Ling_Fo, 4022sun, sen_lv_ling_
+[20:41:10] [Server thread/INFO]: Ling_Fo >> ²Ý*[m
+[20:41:11] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÅÂ²»ÊÇ¼ÓÁËÑæ»ðÖ®ÐÇ[m
+[20:41:21] [Server thread/INFO]: 4022sun >> ×Ô´øÌØÑµ[m
+[20:41:23] [Server thread/INFO]: 4022sun >> ÌØÐ§[m
+[20:41:35] [Server thread/INFO]: Ling_Fo >> jcµÄ¼ÍÄîÕÂ»¹ÔÚÎÒÕâ[m
+[20:42:14] [Server thread/INFO]: Ling_Fo was burnt to a crisp whilst fighting 4022sun
+[20:42:19] [Server thread/INFO]: 4022sun >> OHHHHHH[m
+[20:42:20] [Server thread/INFO]: Xin_Sai >> az[m
+[20:42:24] [Server thread/INFO]: Ling_Fo >> ÂîÂîßÖßÖ[m
+[20:42:30] [Server thread/INFO]: 4022sun >> ÎÒ»÷É±¹ÜÀíÁË£¡£¡£¡£¡£¡[m
+[20:42:38] [Server thread/INFO]: 4022sun >> ohhhhhhhhhhhhh[m
+[20:42:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÉ±¹ýº©Ã÷[m
+[20:42:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> É±¹ýãö·ð[m
+[20:42:58] [Server thread/INFO]: Ling_Fo >> ÎÒÒ²É±¹ýÃ¨Ã¨[m
+[20:43:03] [Server thread/INFO]: 4022sun >> ËùÒÔÄãµÄ¶«Î÷[m
+[20:43:06] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²î¸öÁúÀÐ£¨[m
+[20:43:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÕÙ»½ÉñÊÞ£¡[m
+[20:43:20] [Server thread/INFO]: Xin_Sai >> ÁúÀÏÎÒÉ±¹ýqwq[m
+[20:43:31] [Server thread/INFO]: sen_lv_ling_ issued server command: /groupmanager:listgroups
+[20:43:34] [Server thread/INFO]: 4022sun >> ÓÐÈËÉ±¹ýÐ¡ÀäÂð[m
+[20:43:50] [Server thread/INFO]: sen_lv_ling_ issued server command: /advancedban:kick 4022sun
+[20:44:00] [Server thread/INFO]: Ling_Fo >> ²Ý[m
+[20:44:01] [Server thread/INFO]: sen_lv_ling_ issued server command: /advancedban:kick 4022sun
+[20:44:05] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> cao[m
+[20:44:08] [Server thread/INFO]: 4022sun >> ?[m
+[20:44:11] [Server thread/INFO]: Ling_Fo >> µØÓüÃÅÄÄÈ¥ÁË*[m
+[20:44:17] [Server thread/INFO]: Ling_Fo issued server command: /tp 4022sun
+[20:44:17] [Server thread/INFO]: [Ling_Fo: Teleported Ling_Fo to 4022sun]
+[20:44:19] [Server thread/INFO]: sen_lv_ling_ issued server command: /?
+[20:44:44] [Server thread/INFO]: Ling_Fo issued server command: /gamemode spectator
+[20:44:44] [Server thread/INFO]: [Ling_Fo: Set own game mode to Spectator Mode]
+[20:44:49] [Server thread/INFO]: Ling_Fo issued server command: /gamemode survival
+[20:44:49] [Server thread/INFO]: [Ling_Fo: Set own game mode to Survival Mode]
+[20:44:58] [Server thread/INFO]: sen_lv_ling_ issued server command: /kick 4022sun
+[20:45:10] [Server thread/INFO]: Ling_Fo >> ¿ì°ÑÎÒ¶«Î÷¸øÎÒ*[m
+[20:45:19] [Server thread/INFO]: 4022sun >> Ã»ÁË= =[m
+[20:45:22] [Server thread/INFO]: Ling_Fo >> *[m
+[20:45:37] [Server thread/INFO]: 4022sun >> Ã»¼ñÆðÀ´= =[m
+[20:45:39] [Server thread/INFO]: 4022sun >> ÏûÊ§ÁË[m
+[20:45:43] [Server thread/INFO]: Ling_Fo was killed by [ÇÖÊ´Ö®¼ü] trying to hurt 4022sun
+[20:45:49] [Server thread/INFO]: Ling_Fo lost connection: Disconnected
+[20:45:49] [Server thread/INFO]: Ling_Fo left the game
+[20:45:49] [Server thread/INFO]: 4022sun >> ?????[m
+[20:45:53] [Server thread/INFO]: Xin_Sai >> az[m
+[20:46:42] [User Authenticator #22/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[20:46:42] [Server thread/INFO]: Security_Winter[/127.0.0.1:59164] logged in with entity id 13844 at ([world]4.605150456380653, 65.5, 16.02951630249659)
+[20:46:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °²¶¬£¡[m
+[20:47:01] [Server thread/INFO]: Security_Winter >> c[m
+[20:47:08] [Server thread/INFO]: 4022sun >> Äá°Â£¡[m
+[20:47:19] [User Authenticator #23/INFO]: UUID of player upsama is 9618bb26-059b-4501-8ff2-c2c738588057
+[20:47:19] [Server thread/INFO]: upsama[/127.0.0.1:59178] logged in with entity id 13917 at ([world]3271.2589072046003, 70.0, 416.22516645923025)
+[20:47:24] [Server thread/INFO]: Security_Winter >> up[m
+[20:47:25] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[20:47:25] [Server thread/INFO]: 4022sun left the game
+[20:47:29] [Server thread/INFO]: Xin_Sai >> ![m
+[20:47:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> up![m
+[20:47:35] [Server thread/INFO]: [0;33;22m<Laffey>[0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ²»*[m
+[20:47:41] [Server thread/INFO]: [0;33;22m<Laffey>[0;32;1m<Å®×°×Óup>[0;37;1m upsama >> up»¹Ã»·ÅÑ§[m
+[20:47:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[20:48:04] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[20:48:04] [Server thread/INFO]: Xin_Sai left the game
+[20:48:06] [Server thread/INFO]: [0;33;22m<Laffey>[0;32;1m<Å®×°×Óup>[0;37;1m upsama >> up¶«Î÷¾Í¶¼ÔÚ[m
+[20:48:09] [Server thread/INFO]: upsama lost connection: Disconnected
+[20:48:09] [Server thread/INFO]: upsama left the game
+[20:48:16] [Server thread/INFO]: sen_lv_ling_ has made the advancement [Sweet Dreams]
+[20:48:25] [Server thread/INFO]: sen_lv_ling_ has made the advancement [Eye Spy]
+[20:48:27] [Server thread/INFO]: sen_lv_ling_ fell from a high place
+[20:48:42] [Server thread/INFO]: sen_lv_ling_ has made the advancement [The End?]
+[20:49:31] [User Authenticator #24/INFO]: UUID of player B_lastmess is 908a5f03-1809-4582-bb33-4d411a859fcb
+[20:49:31] [Server thread/INFO]: B_lastmess[/127.0.0.1:59198] logged in with entity id 15022 at ([world]-228.4375452804338, 64.5, 187.72036070859468)
+[20:49:39] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »¬»ü[m
+[20:49:43] [Server thread/INFO]: Security_Winter has made the advancement [We Need to Go Deeper]
+[20:49:47] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m B_lastmess >> »¹ÕæÊÇ[m
+[20:49:52] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m B_lastmess >> sµÄ¶¼¶ªÁË[m
+[20:49:53] [Server thread/INFO]: Security_Winter >> az[m
+[20:50:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÀëÆ×[m
+[20:50:04] [Server thread/INFO]: Security_Winter >> ÔõÃ´ÐÞ°¡[m
+[20:50:18] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m B_lastmess >> ÎÒ²»ÖªµÀ.jpg[m
+[20:50:26] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m B_lastmess >> Ò²Ðí»á»Øµµ°É[m
+[20:50:34] [Server thread/INFO]: B_lastmess lost connection: Disconnected
+[20:50:34] [Server thread/INFO]: B_lastmess left the game
+[20:51:15] [Server thread/INFO]: sen_lv_ling_ has made the advancement [What a Deal!]
+[20:53:14] [Server thread/INFO]: sen_lv_ling_ has made the advancement [Suit Up]
+[20:53:42] [Server thread/INFO]: sen_lv_ling_ has made the advancement [Local Brewery]
+[20:54:02] [Server thread/INFO]: sen_lv_ling_ has made the advancement [Cover Me With Diamonds]
+[20:54:35] [User Authenticator #25/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[20:54:35] [Server thread/ERROR]: Unable to parse Stat data from .\world\stats\f7c2a598-482c-4505-b4b6-6ece1a025ef2.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerStatisticManager.a(ServerStatisticManager.java:87) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerStatisticManager.<init>(ServerStatisticManager.java:46) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.getStatisticManager(PlayerList.java:1117) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.getStatisticManager(PlayerList.java:1097) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.EntityPlayer.<init>(EntityPlayer.java:104) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.attemptLogin(PlayerList.java:513) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.c(LoginListener.java:134) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.tick(LoginListener.java:53) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NetworkManager.a(NetworkManager.java:219) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerConnection.c(ServerConnection.java:130) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1007) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:593) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 16 more
+[20:54:35] [Server thread/ERROR]: Couldn't parse player advancements in .\world\advancements\f7c2a598-482c-4505-b4b6-6ece1a025ef2.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.AdvancementDataPlayer.d(AdvancementDataPlayer.java:144) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.AdvancementDataPlayer.<init>(AdvancementDataPlayer.java:59) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.f(PlayerList.java:1132) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.EntityPlayer.<init>(EntityPlayer.java:105) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerList.attemptLogin(PlayerList.java:513) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.c(LoginListener.java:134) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.LoginListener.tick(LoginListener.java:53) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.NetworkManager.a(NetworkManager.java:219) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ServerConnection.c(ServerConnection.java:130) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1126) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1007) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:593) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 15 more
+[20:54:35] [Server thread/WARN]: Failed to load player data for YuHuaQingZhu
+[20:54:35] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:59224] logged in with entity id 15586 at ([world]0.5, 64.0, 9.5)
+[20:54:51] [Server thread/INFO]: Security_Winter >> Äã¶«Î÷ÔÚµÄ°É[m
+[20:54:55] [Server thread/INFO]: YuHuaQingZhu >> ²»ÔÚ[m
+[20:54:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[20:55:02] [Server thread/INFO]: YuHuaQingZhu >> ¶øÇÒÎÒÈË»Øµ½³öÉúµãÁË[m
+[20:55:05] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÀëÆ×[m
+[20:55:11] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ½øÀ´Ò²ÔÚ³öÉúµã[m
+[20:55:42] [User Authenticator #26/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[20:55:42] [Server thread/INFO]: 4022sun[/127.0.0.1:59230] logged in with entity id 15865 at ([world_nether]15.672657277646124, 116.1875, 26.07248927683046)
+[20:55:57] [Server thread/INFO]: sen_lv_ling_ issued server command: /p me
+[20:56:24] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[20:56:29] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[20:57:11] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[20:57:11] [Server thread/INFO]: 4022sun left the game
+[20:57:18] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:57:19] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[20:57:47] [User Authenticator #27/INFO]: UUID of player Misours is 3ba17b9b-ef06-48d3-8444-9e527ffb37f2
+[20:57:47] [Server thread/INFO]: Misours[/127.0.0.1:59244] logged in with entity id 17860 at ([world]2685.9639373363825, 65.0, -358.30000001192093)
+[20:57:47] [Server thread/INFO]: sen_lv_ling_ issued server command: /co iqd
+[20:57:49] [Server thread/INFO]: sen_lv_ling_ issued server command: /qd
+[20:57:49] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;31;1m½»Ò×Ê§°Ü[m
+[20:57:51] [Server thread/INFO]: Security_Winter >> ÔÚÂð[m
+[20:57:58] [Server thread/INFO]: Misours >> en[m
+[20:58:04] [Server thread/INFO]: Security_Winter >> ...[m
+[20:58:05] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[20:58:23] [Server thread/INFO]: YuHuaQingZhu has made the advancement [We Need to Go Deeper]
+[20:58:49] [Server thread/INFO]: Security_Winter has made the advancement [Acquire Hardware]
+[20:58:56] [User Authenticator #28/INFO]: UUID of player Ling_Fo is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[20:58:56] [Server thread/INFO]: Ling_Fo[/127.0.0.1:59254] logged in with entity id 19590 at ([world]1.8194582106772121, 64.0, 3.4903029028352277)
+[20:59:04] [Server thread/INFO]: Ling_Fo >> *[m
+[20:59:12] [Server thread/INFO]: Misours >> az[m
+[20:59:17] [Server thread/INFO]: Security_Winter >> ËùÒÔÄØ[m
+[20:59:23] [Server thread/INFO]: Ling_Fo >> ËùÒÔÉ¶*[m
+[20:59:26] [Server thread/INFO]: Security_Winter >> ÔõÃ´¸ã[m
+[20:59:40] [Server thread/INFO]: Security_Winter has made the advancement [Monster Hunter]
+[20:59:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËðÊ§ÖØÒªÎï×Ê£ºÒ»ºÐÁúÏ¢£¬¼¸Ê®¸öºÏ½ð¿é£¬10¸öÇÊ³á£¬157¹±Ï×µã23333[m
+[20:59:53] [Server thread/INFO]: Ling_Fo >> *[m
+[21:00:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÊÌâ²»´ó[m
+[21:00:36] [Server thread/INFO]: Security_Winter >> .[m
+[21:01:09] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[21:01:23] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[21:01:23] [Server thread/INFO]: sen_lv_ling_ left the game
+[21:01:23] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[21:01:23] [Server thread/INFO]: Security_Winter left the game
+[21:01:23] [Server thread/INFO]: Misours lost connection: Disconnected
+[21:01:23] [Server thread/INFO]: Misours left the game
+[21:01:24] [Server thread/INFO]: Ling_Fo lost connection: Disconnected
+[21:01:24] [Server thread/INFO]: Ling_Fo left the game
+[21:01:24] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[21:01:24] [Server thread/INFO]: YuHuaQingZhu left the game
+[21:17:19] [User Authenticator #29/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[21:17:19] [Server thread/INFO]: Security_Winter[/127.0.0.1:59330] logged in with entity id 21675 at ([world]4371.534319038459, 18.0, 3923.6610965400364)
+[21:17:46] [User Authenticator #30/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[21:17:46] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:59335] logged in with entity id 21846 at ([world]5159.796581587284, 94.0, -1073.98422339138)
+[21:17:52] [Server thread/INFO]: Security_Winter issued server command: /qd
+[21:17:56] [Server thread/INFO]: Security_Winter issued server command: /p me
+[21:18:10] [Server thread/INFO]: YuHuaQingZhu issued server command: /CO I
+[21:18:20] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[21:18:20] [Server thread/INFO]: YuHuaQingZhu left the game
+[21:22:11] [Server thread/INFO]: Security_Winter lost connection: Timed out
+[21:22:11] [Server thread/INFO]: Security_Winter left the game
+[21:22:25] [User Authenticator #31/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[21:22:25] [Server thread/INFO]: Security_Winter[/127.0.0.1:59351] logged in with entity id 23067 at ([world]4367.868971542309, 13.875, 3918.845887501119)
+[21:29:18] [User Authenticator #32/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[21:29:18] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:59379] logged in with entity id 24552 at ([world_the_end]192.5972809077338, 42.0, -319.8971321323021)
+[21:29:24] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[21:29:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÔÙ¼û[m
+[21:29:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»ÓÐ[m
+[21:29:31] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[21:29:31] [Server thread/INFO]: sen_lv_ling_ left the game
+[21:53:17] [User Authenticator #33/INFO]: UUID of player Ling_Fo is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[21:53:17] [Server thread/INFO]: Ling_Fo[/127.0.0.1:59464] logged in with entity id 29249 at ([world]4.440202336171959, 65.5, 22.50914363644172)
+[21:53:23] [Server thread/INFO]: Ling_Fo >> ([m
+[21:53:34] [Server thread/INFO]: Ling_Fo >> ÄãÕ¦»¹ÔÚÕâ[m
+[21:53:46] [Server thread/INFO]: Ling_Fo lost connection: Disconnected
+[21:53:46] [Server thread/INFO]: Ling_Fo left the game
+[21:57:18] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[22:11:20] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[22:11:20] [Server thread/INFO]: Security_Winter left the game
+[22:22:31] [User Authenticator #34/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[22:22:31] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:59577] logged in with entity id 32737 at ([world_the_end]192.5972809077338, 42.0, -319.8971321323021)
+[22:22:44] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[22:22:44] [Server thread/INFO]: sen_lv_ling_ left the game
+[22:57:18] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[23:57:18] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m

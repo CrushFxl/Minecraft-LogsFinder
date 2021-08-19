@@ -1,0 +1,1827 @@
+[22:14:50] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[22:14:50] [Server thread/INFO]: Loading properties
+[22:14:50] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[22:14:50] [Server thread/INFO]: Debug logging is disabled
+[22:14:50] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[22:14:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:14:50] [Server thread/INFO]: Default game type: SURVIVAL
+[22:14:50] [Server thread/INFO]: Generating keypair
+[22:14:50] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[22:14:50] [Server thread/INFO]: Using default channel type
+[22:14:51] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:14:53] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[22:14:53] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[22:14:53] [Server thread/WARN]: Legacy plugin Warden v0.7.5 does not specify an api-version.
+[22:14:53] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[22:14:53] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[22:14:53] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[22:14:53] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[22:14:53] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[22:14:53] [Server thread/INFO]: [Warden] Loading Warden v0.7.5
+[22:14:53] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[22:14:53] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[22:14:53] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[22:14:53] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[22:14:53] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[22:14:53] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[22:14:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:14:53] [Server thread/INFO]: Preparing level "world"
+[22:14:53] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:15:00] [Server thread/INFO]: Loaded 6 recipes
+[22:15:00] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:15:00] [Server thread/INFO]: View Distance: 8
+[22:15:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:15:00] [Server thread/INFO]: Item Merge Radius: 8.0
+[22:15:00] [Server thread/INFO]: Item Despawn Rate: 3000
+[22:15:00] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[22:15:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:15:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:15:00] [Server thread/INFO]: Experience Merge Radius: 8.0
+[22:15:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:15:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[22:15:00] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[22:15:00] [Server thread/INFO]: Mob Spawn Range: 4
+[22:15:00] [Server thread/INFO]: Max TNT Explosions: 100
+[22:15:00] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[22:15:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:15:00] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:15:00] [Server thread/INFO]: View Distance: 8
+[22:15:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:15:00] [Server thread/INFO]: Item Merge Radius: 8.0
+[22:15:00] [Server thread/INFO]: Item Despawn Rate: 3000
+[22:15:00] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[22:15:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:15:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:15:00] [Server thread/INFO]: Experience Merge Radius: 8.0
+[22:15:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:15:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[22:15:00] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[22:15:00] [Server thread/INFO]: Mob Spawn Range: 4
+[22:15:00] [Server thread/INFO]: Max TNT Explosions: 100
+[22:15:00] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[22:15:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:15:00] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:15:00] [Server thread/INFO]: View Distance: 8
+[22:15:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:15:00] [Server thread/INFO]: Item Merge Radius: 8.0
+[22:15:00] [Server thread/INFO]: Item Despawn Rate: 3000
+[22:15:00] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[22:15:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:15:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:15:00] [Server thread/INFO]: Experience Merge Radius: 8.0
+[22:15:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:15:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:15:00] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[22:15:00] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[22:15:00] [Server thread/INFO]: Mob Spawn Range: 4
+[22:15:00] [Server thread/INFO]: Max TNT Explosions: 100
+[22:15:00] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[22:15:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:15:00] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[22:15:01] [Server thread/INFO]: Preparing spawn area: 0%
+[22:15:01] [Server thread/INFO]: Preparing spawn area: 6%
+[22:15:01] [Server thread/INFO]: Preparing spawn area: 100%
+[22:15:02] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[22:15:02] [Server thread/INFO]: Time elapsed: 1407 ms
+[22:15:02] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[22:15:02] [Server thread/INFO]: Preparing spawn area: 0%
+[22:15:02] [Server thread/INFO]: Preparing spawn area: 100%
+[22:15:02] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[22:15:02] [Server thread/INFO]: Time elapsed: 540 ms
+[22:15:02] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[22:15:02] [Server thread/INFO]: Preparing spawn area: 0%
+[22:15:03] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[22:15:03] [Server thread/INFO]: Time elapsed: 404 ms
+[22:15:03] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[22:15:03] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[22:15:03] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[22:15:03] [Server thread/INFO]: --------------------
+[22:15:03] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[22:15:03] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[22:15:03] [Server thread/INFO]: --------------------
+[22:15:03] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[22:15:03] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[22:15:03] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[22:15:03] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[22:15:03] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[22:15:03] [Server thread/INFO]:  
+[22:15:03] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[22:15:03] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[22:15:03] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[22:15:03] [Server thread/INFO]:  
+[22:15:03] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[22:15:03] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[22:15:03] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] checkpointClose start
+[22:15:03] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] checkpointClose synched
+[22:15:03] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] checkpointClose script done
+[22:15:03] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] checkpointClose end
+[22:15:03] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[22:15:03] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[22:15:08] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[22:15:08] [Server thread/INFO]: [Warden] Enabling Warden v0.7.5*
+[22:15:08] [Server thread/INFO]: [Warden] Checking for updates...
+[22:15:08] [Server thread/INFO]: [Warden] Server Version 1.15
+[22:15:08] [Server thread/INFO]: [Warden] Running Warden B0.7.5
+[22:15:08] [Server thread/INFO]: [Warden] Enabling Checks...
+[22:15:08] [Server thread/INFO]: [Warden] Finished Loading.
+[22:15:08] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[22:15:08] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[22:15:08] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[22:15:08] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[22:15:08] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[22:15:08] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[22:15:08] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[22:15:08] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[22:15:08] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[22:15:08] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[22:15:08] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[22:15:08] [Server thread/INFO]: [EntityTrackerFixer] Vault not found! using default permission system...
+[22:15:08] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[22:15:08] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[22:15:08] [Server thread/INFO]: [SAML] Loading config.yml...
+[22:15:08] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[22:15:08] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[22:15:08] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[22:15:08] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[22:15:08] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[22:15:08] [Server thread/INFO]: [SAML] Loading messages.yml...
+[22:15:08] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[22:15:08] [Server thread/INFO]: [SAML] Successfully enabled.
+[22:15:08] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0*
+[22:15:08] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[22:15:08] [Server thread/INFO]: [GM+] Checking Your version...
+[22:15:08] [Server thread/INFO]: ===============================
+[22:15:08] [Server thread/INFO]: 
+[22:15:08] [Server thread/INFO]:  GroupManager+ is now enable!
+[22:15:08] [Server thread/INFO]:  
+[22:15:08] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[22:15:08] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[22:15:08] [Server thread/INFO]:  Current version: v3.3
+[22:15:08] [Server thread/INFO]:  
+[22:15:08] [Server thread/INFO]: ===============================
+[22:15:08] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[22:15:08] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[22:15:08] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[22:15:08] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[22:15:08] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[22:15:08] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[22:15:08] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[22:15:08] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[22:15:08] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[22:15:24] [Server thread/INFO]: [TAB] Version 2.8.2 is out! Your version: 2.7.2
+[22:15:24] [Server thread/INFO]: [TAB] Get the update at https://www.spigotmc.org/resources/57806/
+[22:15:24] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[22:15:24] [Server thread/INFO]: [TAB] Enabled in 15523ms
+[22:15:24] [Server thread/INFO]: Done (30.895s)! For help, type "help"
+[22:15:24] [Server thread/INFO]: Timings Reset
+[22:15:24] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[22:15:24] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[22:15:25] [Craft Scheduler Thread - 4/INFO]: [Warden] Warden is up to date!
+[22:15:25] [Craft Scheduler Thread - 4/INFO]: [Warden]
+[22:15:25] [Craft Scheduler Thread - 4/INFO]: [Warden] Do not forget to join our Discord server: https://discord.gg/r4mz3ZX
+[22:15:28] [Thread-18/INFO]: --------------------
+[22:15:28] [Thread-18/INFO]: [CoreProtect] Version 19.0 is now available.
+[22:15:28] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[22:15:28] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[22:15:28] [Thread-18/INFO]: --------------------
+[22:15:34] [Craft Scheduler Thread - 7/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[22:15:34] [Craft Scheduler Thread - 7/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[22:15:49] [User Authenticator #1/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[22:15:49] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[22:15:49] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:62716] logged in with entity id 963 at ([world]2763.244922986173, 69.1472001123431, -404.28762064391975)
+[22:15:52] [User Authenticator #3/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[22:15:52] [Server thread/INFO]: Laohuaji[/127.0.0.1:62723] logged in with entity id 1561 at ([world]1260.699999988079, 31.38058717578665, -1371.300000011921)
+[22:15:59] [User Authenticator #2/INFO]: UUID of player xxuurruuii is e4032104-ba08-4db3-82a0-d4f7323bcaf4
+[22:15:59] [Server thread/INFO]: xxuurruuii[/127.0.0.1:62721] logged in with entity id 1657 at ([world]5187.555055996453, 64.0, 218.472224424037)
+[22:16:09] [User Authenticator #2/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:16:09] [Server thread/INFO]: adhesive_tape[/127.0.0.1:62729] logged in with entity id 2363 at ([world]2757.607718052283, 63.0, -397.8788750303936)
+[22:16:48] [Server thread/ERROR]: Could not pass event BlockMultiPlaceEvent to Warden v0.7.5
+java.lang.NullPointerException: null
+	at net.warden.spigot.goto. .S.blockPlaceEvent(SourceFile:38) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor61.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:559) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.event.CraftEventFactory.callBlockMultiPlaceEvent(CraftEventFactory.java:306) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.ItemStack.placeItem(ItemStack.java:234) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerInteractManager.a(PlayerInteractManager.java:511) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1374) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:5) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1038) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1031) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:1015) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:938) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[22:17:35] [Async Chat Thread - #0/INFO]: <xxuurruuii> zzz
+[22:17:47] [Async Chat Thread - #0/INFO]: <adhesive_tape> zz
+[22:17:50] [Async Chat Thread - #0/INFO]: <adhesive_tape> 我睡了
+[22:18:07] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> zzzz
+[22:18:34] [Server thread/INFO]: There are 4 of a max 40 players online: sen_lv_ling_, Laohuaji, xxuurruuii, adhesive_tape
+[22:18:48] [Server thread/INFO]: You may only use this command as a player
+[22:19:33] [Async Chat Thread - #1/INFO]: <xxuurruuii> ?
+[22:19:34] [Async Chat Thread - #1/INFO]: <xxuurruuii> 1
+[22:19:35] [Async Chat Thread - #1/INFO]: <Laohuaji> ?
+[22:19:48] [Server thread/INFO]: TPS from last 1m, 5m, 15m: *20.0, *20.0, *20.0
+[22:19:50] [Async Chat Thread - #1/INFO]: <Laohuaji> 我这延迟突然离谱
+[22:20:00] [Async Chat Thread - #1/INFO]: <xxuurruuii> +1
+[22:20:12] [Async Chat Thread - #1/INFO]: <xxuurruuii> 无限回弹
+[22:20:26] [Server thread/INFO]: xxuurruuii lost connection: Disconnected
+[22:20:26] [Server thread/INFO]: xxuurruuii left the game
+[22:20:27] [User Authenticator #4/INFO]: UUID of player YiFanFengShun is 6b491d23-aa75-4830-8683-36a79ae50c53
+[22:20:27] [Server thread/INFO]: YiFanFengShun[/127.0.0.1:62760] logged in with entity id 5204 at ([world]5163.882547672178, 64.0, 197.386147420492)
+[22:20:40] [Async Chat Thread - #1/INFO]: <adhesive_tape> 啊
+[22:20:45] [Async Chat Thread - #1/INFO]: <adhesive_tape> 我ping
+[22:20:52] [User Authenticator #4/INFO]: UUID of player xxuurruuii is e4032104-ba08-4db3-82a0-d4f7323bcaf4
+[22:20:52] [Server thread/INFO]: xxuurruuii[/127.0.0.1:62768] logged in with entity id 6204 at ([world]5211.970352520506, 65.9599122261719, 272.854675210768)
+[22:21:17] [Server thread/WARN]: adhesive_tape was kicked for floating too long!
+[22:21:17] [Server thread/INFO]: adhesive_tape lost connection: Flying is not enabled on this server
+[22:21:17] [Server thread/INFO]: adhesive_tape left the game
+[22:21:17] [Server thread/WARN]: adhesive_tape was kicked for floating too long!
+[22:21:17] [Netty Server IO #3/WARN]: java.lang.reflect.InvocationTargetException
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager$1.run(SourceFile:44)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager.callEvent(SourceFile:55)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.NettyPacketHandler.read(SourceFile:62)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.b$1.channelRead(SourceFile:18)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[22:21:17] [Netty Server IO #3/WARN]: 	at me.neznamy.tab.platforms.bukkit.Injector$1.channelRead(Injector.java:51)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:297)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:413)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: Caused by: java.lang.NullPointerException
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.goto. .B.onCheck(SourceFile:29)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.check.api.PublicCheck.onPreCheck(SourceFile:20)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.Main.a(SourceFile:212)
+[22:21:17] [Netty Server IO #3/WARN]: 	... 51 more
+[22:21:17] [Netty Server IO #3/WARN]: java.lang.reflect.InvocationTargetException
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager$1.run(SourceFile:44)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager.callEvent(SourceFile:55)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.NettyPacketHandler.read(SourceFile:62)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.b$1.channelRead(SourceFile:18)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[22:21:17] [Netty Server IO #3/WARN]: 	at me.neznamy.tab.platforms.bukkit.Injector$1.channelRead(Injector.java:51)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:297)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:413)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: Caused by: java.lang.NullPointerException
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.goto. .B.onCheck(SourceFile:29)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.check.api.PublicCheck.onPreCheck(SourceFile:20)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.Main.a(SourceFile:212)
+[22:21:17] [Netty Server IO #3/WARN]: 	... 51 more
+[22:21:17] [Netty Server IO #3/WARN]: java.lang.reflect.InvocationTargetException
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager$1.run(SourceFile:44)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager.callEvent(SourceFile:55)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.NettyPacketHandler.read(SourceFile:62)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.b$1.channelRead(SourceFile:18)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[22:21:17] [Netty Server IO #3/WARN]: 	at me.neznamy.tab.platforms.bukkit.Injector$1.channelRead(Injector.java:51)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:297)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:413)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: Caused by: java.lang.NullPointerException
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.goto. .B.onCheck(SourceFile:29)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.check.api.PublicCheck.onPreCheck(SourceFile:20)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.Main.a(SourceFile:212)
+[22:21:17] [Netty Server IO #3/WARN]: 	... 51 more
+[22:21:17] [Netty Server IO #3/WARN]: java.lang.reflect.InvocationTargetException
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager$1.run(SourceFile:44)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager.callEvent(SourceFile:55)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.NettyPacketHandler.read(SourceFile:62)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.b$1.channelRead(SourceFile:18)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[22:21:17] [Netty Server IO #3/WARN]: 	at me.neznamy.tab.platforms.bukkit.Injector$1.channelRead(Injector.java:51)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:297)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:413)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: Caused by: java.lang.NullPointerException
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.goto. .B.onCheck(SourceFile:29)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.check.api.PublicCheck.onPreCheck(SourceFile:20)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.Main.a(SourceFile:212)
+[22:21:17] [Netty Server IO #3/WARN]: 	... 51 more
+[22:21:17] [Netty Server IO #3/WARN]: java.lang.reflect.InvocationTargetException
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager$1.run(SourceFile:44)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager.callEvent(SourceFile:55)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.NettyPacketHandler.read(SourceFile:62)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.b$1.channelRead(SourceFile:18)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[22:21:17] [Netty Server IO #3/WARN]: 	at me.neznamy.tab.platforms.bukkit.Injector$1.channelRead(Injector.java:51)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:297)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:413)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: Caused by: java.lang.NullPointerException
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.goto. .B.onCheck(SourceFile:29)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.check.api.PublicCheck.onPreCheck(SourceFile:20)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.Main.a(SourceFile:212)
+[22:21:17] [Netty Server IO #3/WARN]: 	... 51 more
+[22:21:17] [Netty Server IO #3/WARN]: java.lang.reflect.InvocationTargetException
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager$1.run(SourceFile:44)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager.callEvent(SourceFile:55)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.NettyPacketHandler.read(SourceFile:62)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.b$1.channelRead(SourceFile:18)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[22:21:17] [Netty Server IO #3/WARN]: 	at me.neznamy.tab.platforms.bukkit.Injector$1.channelRead(Injector.java:51)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:297)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:413)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: Caused by: java.lang.NullPointerException
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.goto. .B.onCheck(SourceFile:29)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.check.api.PublicCheck.onPreCheck(SourceFile:20)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.Main.a(SourceFile:212)
+[22:21:17] [Netty Server IO #3/WARN]: 	... 51 more
+[22:21:17] [Netty Server IO #3/WARN]: java.lang.reflect.InvocationTargetException
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager$1.run(SourceFile:44)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager.callEvent(SourceFile:55)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.NettyPacketHandler.read(SourceFile:62)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.b$1.channelRead(SourceFile:18)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[22:21:17] [Netty Server IO #3/WARN]: 	at me.neznamy.tab.platforms.bukkit.Injector$1.channelRead(Injector.java:51)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:297)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:413)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: Caused by: java.lang.NullPointerException
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.goto. .B.onCheck(SourceFile:29)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.check.api.PublicCheck.onPreCheck(SourceFile:20)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.Main.a(SourceFile:212)
+[22:21:17] [Netty Server IO #3/WARN]: 	... 51 more
+[22:21:17] [Netty Server IO #3/WARN]: java.lang.reflect.InvocationTargetException
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager$1.run(SourceFile:44)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager.callEvent(SourceFile:55)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.NettyPacketHandler.read(SourceFile:62)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.b$1.channelRead(SourceFile:18)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[22:21:17] [Netty Server IO #3/WARN]: 	at me.neznamy.tab.platforms.bukkit.Injector$1.channelRead(Injector.java:51)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:297)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:413)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: Caused by: java.lang.NullPointerException
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.goto. .B.onCheck(SourceFile:29)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.check.api.PublicCheck.onPreCheck(SourceFile:20)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.Main.a(SourceFile:212)
+[22:21:17] [Netty Server IO #3/WARN]: 	... 51 more
+[22:21:17] [Netty Server IO #3/WARN]: java.lang.reflect.InvocationTargetException
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager$1.run(SourceFile:44)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager.callEvent(SourceFile:55)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.NettyPacketHandler.read(SourceFile:62)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.b$1.channelRead(SourceFile:18)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[22:21:17] [Netty Server IO #3/WARN]: 	at me.neznamy.tab.platforms.bukkit.Injector$1.channelRead(Injector.java:51)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:297)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:413)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: Caused by: java.lang.NullPointerException
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.goto. .B.onCheck(SourceFile:29)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.check.api.PublicCheck.onPreCheck(SourceFile:20)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.Main.a(SourceFile:212)
+[22:21:17] [Netty Server IO #3/WARN]: 	... 51 more
+[22:21:17] [Netty Server IO #3/WARN]: java.lang.reflect.InvocationTargetException
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager$1.run(SourceFile:44)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager.callEvent(SourceFile:55)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.NettyPacketHandler.read(SourceFile:62)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.b$1.channelRead(SourceFile:18)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[22:21:17] [Netty Server IO #3/WARN]: 	at me.neznamy.tab.platforms.bukkit.Injector$1.channelRead(Injector.java:51)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:297)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:413)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: Caused by: java.lang.NullPointerException
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.goto. .B.onCheck(SourceFile:29)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.check.api.PublicCheck.onPreCheck(SourceFile:20)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.Main.a(SourceFile:212)
+[22:21:17] [Netty Server IO #3/WARN]: 	... 51 more
+[22:21:17] [Netty Server IO #3/WARN]: java.lang.reflect.InvocationTargetException
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager$1.run(SourceFile:44)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.event.manager.EventManager.callEvent(SourceFile:55)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.NettyPacketHandler.read(SourceFile:62)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.github.retrooper.packetevents.handler.b$1.channelRead(SourceFile:18)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[22:21:17] [Netty Server IO #3/WARN]: 	at me.neznamy.tab.platforms.bukkit.Injector$1.channelRead(Injector.java:51)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:297)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:413)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461)
+[22:21:17] [Netty Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:21:17] [Netty Server IO #3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:21:17] [Netty Server IO #3/WARN]: Caused by: java.lang.NullPointerException
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.goto. .B.onCheck(SourceFile:29)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.check.api.PublicCheck.onPreCheck(SourceFile:20)
+[22:21:17] [Netty Server IO #3/WARN]: 	at net.warden.spigot.Main.a(SourceFile:212)
+[22:21:17] [Netty Server IO #3/WARN]: 	... 51 more
+[22:21:17] [Server thread/WARN]: adhesive_tape was kicked for floating too long!
+[22:21:32] [User Authenticator #4/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:21:32] [Server thread/INFO]: adhesive_tape[/127.0.0.1:62780] logged in with entity id 6616 at ([world]2772.5, 82.0, -402.5)
+[22:21:34] [Async Chat Thread - #1/INFO]: <xxuurruuii> 我下线前好像被苦力怕炸了
+[22:22:22] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 快三组书了
+[22:22:45] [Async Chat Thread - #1/INFO]: <adhesive_tape> 为啥大家都卡
+[22:22:46] [Async Chat Thread - #1/INFO]: <adhesive_tape> a
+[22:22:49] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 这延迟就离谱
+[22:23:02] [User Authenticator #5/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[22:23:02] [Server thread/INFO]: Crushxl[/127.0.0.1:62798] logged in with entity id 7501 at ([world]-81.67774521829284, 77.58451167638202, 9.046688676942829)
+[22:23:09] [Async Chat Thread - #1/INFO]: <adhesive_tape> 什么鬼
+[22:23:32] [Async Chat Thread - #1/INFO]: <adhesive_tape> 小冷又在搞插件啦
+[22:23:53] [Server thread/INFO]: YiFanFengShun was blown up by 让一帆风顺崩溃四次的小怕怕
+[22:24:01] [Async Chat Thread - #1/INFO]: <xxuurruuii> ?
+[22:24:06] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 额
+[22:24:18] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 下次就是五次了
+[22:24:29] [Server thread/INFO]: Crushxl issued server command: /gamemode survival
+[22:24:29] [Server thread/INFO]: [Crushxl: Set own game mode to Survival Mode]
+[22:24:39] [Async Chat Thread - #1/INFO]: <YiFanFengShun> 艹这延迟，小泠我爱死你了靠
+[22:25:00] [Async Chat Thread - #1/INFO]: <Crushxl> 重载一下
+[22:25:05] [Async Chat Thread - #1/INFO]: <xxuurruuii> 啊这
+[22:25:07] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[22:25:08] [pool-10-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[22:25:14] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[22:25:14] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[22:25:14] [Server thread/INFO]: Debug logging is disabled
+[22:25:14] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[22:25:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:25:14] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:25:14] [Server thread/INFO]: View Distance: 8
+[22:25:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:25:14] [Server thread/INFO]: Item Merge Radius: 8.0
+[22:25:14] [Server thread/INFO]: Item Despawn Rate: 3000
+[22:25:14] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[22:25:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:25:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:25:14] [Server thread/INFO]: Experience Merge Radius: 8.0
+[22:25:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:25:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[22:25:14] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[22:25:14] [Server thread/INFO]: Mob Spawn Range: 4
+[22:25:14] [Server thread/INFO]: Max TNT Explosions: 100
+[22:25:14] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[22:25:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:25:14] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:25:14] [Server thread/INFO]: View Distance: 8
+[22:25:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:25:14] [Server thread/INFO]: Item Merge Radius: 8.0
+[22:25:14] [Server thread/INFO]: Item Despawn Rate: 3000
+[22:25:14] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[22:25:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:25:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:25:14] [Server thread/INFO]: Experience Merge Radius: 8.0
+[22:25:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:25:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[22:25:14] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[22:25:14] [Server thread/INFO]: Mob Spawn Range: 4
+[22:25:14] [Server thread/INFO]: Max TNT Explosions: 100
+[22:25:14] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[22:25:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:25:14] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:25:14] [Server thread/INFO]: View Distance: 8
+[22:25:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:25:14] [Server thread/INFO]: Item Merge Radius: 8.0
+[22:25:14] [Server thread/INFO]: Item Despawn Rate: 3000
+[22:25:14] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[22:25:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:25:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:25:14] [Server thread/INFO]: Experience Merge Radius: 8.0
+[22:25:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:25:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:25:14] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[22:25:14] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[22:25:14] [Server thread/INFO]: Mob Spawn Range: 4
+[22:25:14] [Server thread/INFO]: Max TNT Explosions: 100
+[22:25:14] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[22:25:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:25:14] [Server thread/INFO]: [TAB] Disabling TAB v2.7.2
+[22:25:14] [Server thread/INFO]: [TAB] Disabled in 1ms
+[22:25:14] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[22:25:14] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is disabled!
+[22:25:14] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[22:25:14] [Server thread/INFO]: [CrowdLocator] Disabling CrowdLocator v1.0
+[22:25:14] [Server thread/INFO]: [SAML] Disabling SAML v2.0.0
+[22:25:14] [Server thread/INFO]: [SAML] The frozen chunk cache file has been deleted. All chunks should have been accounted for.
+[22:25:14] [Server thread/INFO]: [SAML] Successfully disabled.
+[22:25:14] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[22:25:14] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.3.1
+[22:25:14] [Server thread/INFO]: [Warden] Disabling Warden v0.7.5
+[22:25:14] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[22:25:14] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] Database closed
+[22:25:14] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[22:25:14] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[22:25:14] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[22:25:14] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[22:25:14] [Server thread/INFO]: [PxAutoMessage] 正在关闭皮克斯自动公告系统...
+[22:25:14] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[22:25:14] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[22:25:15] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[22:25:15] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:25:15] [Server thread/INFO]: Loaded 6 recipes
+[22:25:16] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:25:16] [Server thread/INFO]: Loaded 6 recipes
+[22:25:16] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[22:25:16] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[22:25:16] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[22:25:16] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[22:25:16] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[22:25:16] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[22:25:16] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[22:25:16] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[22:25:16] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[22:25:16] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[22:25:16] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[22:25:16] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[22:25:16] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[22:25:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:25:16] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[22:25:16] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[22:25:16] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[22:25:16] [Server thread/INFO]: --------------------
+[22:25:16] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[22:25:16] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[22:25:16] [Server thread/INFO]: --------------------
+[22:25:16] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[22:25:16] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[22:25:16] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[22:25:16] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[22:25:16] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[22:25:16] [Server thread/INFO]:  
+[22:25:16] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[22:25:16] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[22:25:16] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[22:25:16] [Server thread/INFO]:  
+[22:25:16] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[22:25:16] [Server thread/INFO]: [AdvancedBan] Failed enabling database-manager...
+[22:25:16] [Server thread/INFO]: [AdvancedBan] An unexpected error has occurred connecting to the database
+Check if your MySQL data is correct and if your MySQL-Server is online
+Please check the plugins/AdvancedBan/logs/latest.log file and report this error in: https://github.com/DevLeoko/AdvancedBan/issues
+[22:26:12] [User Authenticator #6/INFO]: Disconnecting com.mojang.authlib.GameProfile@2841ac89[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:62834): Authentication servers are down. Please try again later, sorry!
+[22:26:12] [User Authenticator #6/ERROR]: Couldn't verify username because servers are unavailable
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Paper bug.
+[22:26:14] [Paper Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
+[22:26:14] [Paper Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
+[22:26:14] [Paper Watchdog Thread/ERROR]: If you are unsure or still think this is a Paper bug, please report this to https://github.com/PaperMC/Paper/issues
+[22:26:14] [Paper Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[22:26:14] [Paper Watchdog Thread/ERROR]: Paper version: git-Paper-118 (MC: 1.15.2)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.URL.openStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		me.leoko.advancedban.Universal.getFromURL(Universal.java:185)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		me.leoko.advancedban.Universal.setup(Universal.java:97)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		me.leoko.advancedban.bukkit.BukkitMain.onEnable(BukkitMain.java:23)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:435)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:470)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:384)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.reload(CraftServer.java:862)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.reload(Bukkit.java:610)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Entire Thread Dump:
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: User Authenticator #7
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 228 | Suspended: false | Native: true | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.HttpAuthenticationService.performGetRequest(HttpAuthenticationService.java:130)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:66)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.hasJoinedServer(YggdrasilMinecraftSessionService.java:100)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.LoginListener$2.run(LoginListener.java:244)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: User Authenticator #6
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 226 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.SynchronousQueue.poll(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Timer-2
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 225 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Thread-30
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 224 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.coreprotect.consumer.Consumer.run(Consumer.java:121)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Thread-29
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 223 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.coreprotect.thread.CacheCleanUp.run(CacheCleanUp.java:17)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Thread-23
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 153 | Suspended: false | Native: true | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.sendData(MetricsLite.java:329)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite.access$200(MetricsLite.java:32)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.coreprotect.bukkit.MetricsLite$2.run(MetricsLite.java:285)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: ExpiringMap-Expirer
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 94 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Server IO #3
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 68 | Suspended: false | Native: true | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.select(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Server IO #2
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 67 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.CompletableFuture$Signaller.block(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.CompletableFuture.waitingGet(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.CompletableFuture.join(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:355)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:321)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IWorldReader.getChunkAt(IWorldReader.java:87)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:266)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getType(World.java:645)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.block.CraftBlock.getType(CraftBlock.java:208)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.block.CraftBlock.toString(CraftBlock.java:268)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.warden.spigot.goto. .ai.a(SourceFile:8)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.warden.spigot.goto. .ag.a(SourceFile:363)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.warden.spigot.goto. .ag$$Lambda$3331/780799935.accept(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.ArrayList.forEach(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.warden.spigot.goto. .ag.a(SourceFile:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.warden.spigot.goto. .aq.a(SourceFile:35)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.reflect.Method.invoke(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.github.retrooper.packetevents.event.manager.EventManager$1.run(SourceFile:44)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.github.retrooper.packetevents.event.manager.EventManager.callEvent(SourceFile:55)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.github.retrooper.packetevents.handler.NettyPacketHandler.read(SourceFile:62)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.github.retrooper.packetevents.handler.b$1.channelRead(SourceFile:18)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		me.neznamy.tab.platforms.bukkit.Injector$1.channelRead(Injector.java:51)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Server IO #1
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 65 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.CompletableFuture$Signaller.block(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.CompletableFuture.waitingGet(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.CompletableFuture.join(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:355)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:321)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IWorldReader.getChunkAt(IWorldReader.java:87)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:266)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getType(World.java:645)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.block.CraftBlock.getType(CraftBlock.java:208)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.block.CraftBlock.toString(CraftBlock.java:268)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.warden.spigot.goto. .ai.a(SourceFile:8)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.warden.spigot.goto. .ag.a(SourceFile:363)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.warden.spigot.goto. .ag$$Lambda$3331/780799935.accept(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.ArrayList.forEach(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.warden.spigot.goto. .ag.a(SourceFile:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.warden.spigot.goto. .aq.a(SourceFile:35)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.reflect.Method.invoke(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.github.retrooper.packetevents.event.manager.EventManager$1.run(SourceFile:44)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.github.retrooper.packetevents.event.manager.EventManager.callEvent(SourceFile:55)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.github.retrooper.packetevents.handler.NettyPacketHandler.read(SourceFile:62)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.github.retrooper.packetevents.handler.b$1.channelRead(SourceFile:18)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		me.neznamy.tab.platforms.bukkit.Injector$1.channelRead(Injector.java:51)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Craft Async Scheduler Management Thread
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 64 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Timer-1
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 50 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: mysql-cj-abandoned-connection-cleanup
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 47 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:80)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Paper RegionFile IO Thread
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 46 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:84)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Paper Async Task Handler Thread - 0
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 45 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Server IO #0
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 44 | Suspended: false | Native: true | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.select(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: ObjectCleanerThread
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Timer-0
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 42 | Suspended: false | Native: true | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.AppInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:java.io.BufferedInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.AppInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.fill(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read1(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.Metrics.sendData(Metrics.java:196)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.Metrics.submitData(Metrics.java:156)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.Metrics.access$000(Metrics.java:28)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.Metrics$1.run(Metrics.java:89)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Paper Async Chunk Task Thread #2
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:84)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Paper Async Chunk Task Thread #1
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 40 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:84)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Paper Async Chunk Task Thread #0
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 39 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:84)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Paper Watchdog Thread
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.management.ThreadImpl.dumpThreads0(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:124)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Server console handler
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.utils.NonBlockingPumpReader.wait(NonBlockingPumpReader.java:55)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.utils.NonBlockingPumpReader.read(NonBlockingPumpReader.java:101)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.keymap.BindingReader.readCharacter(BindingReader.java:133)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.keymap.BindingReader.readBinding(BindingReader.java:61)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:848)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:868)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:575)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer$2.run(DedicatedServer.java:90)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: D3D Screen Updater
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 32 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.java2d.d3d.D3DScreenUpdateManager.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 30 | Suspended: false | Native: false | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:435)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.net.URL.openStream(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		me.leoko.advancedban.Universal.getFromURL(Universal.java:185)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		me.leoko.advancedban.Universal.setup(Universal.java:97)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		me.leoko.advancedban.bukkit.BukkitMain.onEnable(BukkitMain.java:23)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:435)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:470)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:384)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.reload(CraftServer.java:862)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.reload(Bukkit.java:610)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Thread-4
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ServerGUI.lambda$e$1(ServerGUI.java:137)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ServerGUI$$Lambda$1946/119539458.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: TimerQueue
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 28 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.DelayQueue.take(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		javax.swing.TimerQueue.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: AWT-EventQueue-0
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.awt.EventQueue.getNextEvent(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.awt.EventDispatchThread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: AWT-Windows
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 24 | Suspended: false | Native: false | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.awt.windows.WToolkit.eventLoop(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.awt.windows.WToolkit.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: AWT-Shutdown
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.awt.AWTAutoShutdown.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Java2D Disposer
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		sun.java2d.Disposer.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Server Infinisleeper
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 21 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer$1.run(DedicatedServer.java:72)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Snooper Timer
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 18 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: WindowsStreamPump
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 14 | Suspended: false | Native: false | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.Kernel32.WaitForSingleObject(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.WindowsSupport.readConsoleInput(WindowsSupport.java:97)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.terminal.impl.jansi.win.JansiWinSysTerminal.processConsoleInput(JansiWinSysTerminal.java:112)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.terminal.impl.AbstractWindowsTerminal.pump(AbstractWindowsTerminal.java:458)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.terminal.impl.AbstractWindowsTerminal$$Lambda$12/874217650.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Log4j2-TF-1-AsyncLogger[AsyncContext@55f96302]-1
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 11 | Suspended: false | Native: false | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:org.jline.terminal.impl.AbstractWindowsConsoleWriter.write(AbstractWindowsConsoleWriter.java:27)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:java.io.Writer.write(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:java.io.PrintWriter.write(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		Locked on:net.minecrell.terminalconsole.TerminalConsoleAppender.print(TerminalConsoleAppender.java:260)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.Kernel32.WriteConsoleW(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.terminal.impl.jansi.win.JansiWinConsoleWriter.writeConsole(JansiWinConsoleWriter.java:27)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.terminal.impl.AbstractWindowsConsoleWriter.write(AbstractWindowsConsoleWriter.java:27)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.io.Writer.write(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.io.PrintWriter.write(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.io.PrintWriter.write(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.io.PrintWriter.print(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.utils.AttributedCharSequence.print(AttributedCharSequence.java:42)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.utils.Display.rawPrint(Display.java:487)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.utils.Display.update(Display.java:263)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.redisplay(LineReaderImpl.java:3776)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.printAbove(LineReaderImpl.java:703)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecrell.terminalconsole.TerminalConsoleAppender.print(TerminalConsoleAppender.java:260)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		net.minecrell.terminalconsole.TerminalConsoleAppender.append(TerminalConsoleAppender.java:253)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:156)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:129)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:120)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:84)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:448)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:433)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:417)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:79)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.async.AsyncLogger.actualAsyncLog(AsyncLogger.java:337)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.async.RingBufferLogEvent.execute(RingBufferLogEvent.java:161)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.async.RingBufferLogEventHandler.onEvent(RingBufferLogEventHandler.java:45)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.async.RingBufferLogEventHandler.onEvent(RingBufferLogEventHandler.java:29)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.lmax.disruptor.BatchEventProcessor.processEvents(BatchEventProcessor.java:168)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		com.lmax.disruptor.BatchEventProcessor.run(BatchEventProcessor.java:125)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Attach Listener
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 5 | Suspended: false | Native: false | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 4 | Suspended: false | Native: false | State: RUNNABLE
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Finalizer
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 3 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/ERROR]: Current Thread: Reference Handler
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	PID: 2 | Suspended: false | Native: false | State: WAITING
+[22:26:14] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.wait(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.ref.Reference.tryHandlePending(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: 		java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+[22:26:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:26:14] [Paper Watchdog Thread/INFO]: Startup script './start.sh' does not exist! Stopping server.
+[22:26:16] [User Authenticator #7/INFO]: Disconnecting com.mojang.authlib.GameProfile@5c7060ac[id=<null>,name=xxuurruuii,properties={},legacy=false] (/127.0.0.1:62841): Authentication servers are down. Please try again later, sorry!
+[22:26:16] [User Authenticator #7/ERROR]: Couldn't verify username because servers are unavailable
+[22:26:25] [Thread-2/INFO]: Stopping server

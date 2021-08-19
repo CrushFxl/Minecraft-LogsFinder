@@ -1,0 +1,56 @@
+[00:01:01] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[00:01:01] [Server thread/INFO]: 4022sun left the game
+[00:01:01] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[00:01:01] [Server thread/INFO]: Ghost_king_ left the game
+[00:01:14] [Server thread/INFO]: Stopping the server
+[00:01:14] [Server thread/INFO]: Stopping server
+[00:01:14] [Server thread/INFO]: [TAB] Disabling TAB v2.7.2
+[00:01:14] [Server thread/INFO]: [TAB] Disabled in 1ms
+[00:01:14] [Server thread/INFO]: [Lores] Disabling Lores v1.4.1
+[00:01:14] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[00:01:14] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is disabled!
+[00:01:14] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[00:01:14] [Server thread/INFO]: [CrowdLocator] Disabling CrowdLocator v1.0
+[00:01:14] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v1.7.1
+[00:01:14] [Server thread/INFO]: [ChatC] Disabling ChatC v0.5
+[00:01:14] [Server thread/INFO]: [ChatC] 聊天管理插件已关闭！
+[00:01:14] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[00:01:14] [Server thread/INFO]: [SAML] Disabling SAML v2.0.0
+[00:01:14] [Server thread/INFO]: [SAML] The frozen chunk cache file has been deleted. All chunks should have been accounted for.
+[00:01:14] [Server thread/INFO]: [SAML] Successfully disabled.
+[00:01:14] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[00:01:14] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.3.1
+[00:01:14] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[00:01:14] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] Database closed
+[00:01:14] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[00:01:14] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[00:01:14] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[00:01:14] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[00:01:14] [Server thread/INFO]: [PxAutoMessage] 正在关闭皮克斯自动公告系统...
+[00:01:14] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[00:01:14] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[00:01:15] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[00:01:15] [Server thread/INFO]: Saving players
+[00:01:15] [Server thread/INFO]: Saving worlds
+[00:01:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:01:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:01:15] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[00:01:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:01:15] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[00:01:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:01:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:01:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:01:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

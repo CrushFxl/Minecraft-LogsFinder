@@ -1,0 +1,717 @@
+[17:15:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[17:15:47] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[17:15:47] [Worker-Main-5/INFO]: Loaded 7 recipes
+[17:15:49] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[17:15:49] [Server thread/INFO]: Loading properties
+[17:15:50] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-379750e-43c7ff9 (MC: 1.16.2) (Implementing API version 1.16.2-R0.1-SNAPSHOT)
+[17:15:50] [Server thread/INFO]: Debug logging is disabled
+[17:15:50] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[17:15:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:15:50] [Server thread/INFO]: Default game type: SURVIVAL
+[17:15:50] [Server thread/INFO]: Generating keypair
+[17:15:50] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[17:15:50] [Server thread/INFO]: Using default channel type
+[17:15:51] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[17:15:53] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[17:15:53] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[17:15:53] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[17:15:53] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[17:15:53] [Server thread/WARN]: Legacy plugin PiglinFix vAlpha 1.1 does not specify an api-version.
+[17:15:54] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[17:15:54] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[17:15:54] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[17:15:54] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[17:15:54] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[17:15:54] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[17:15:54] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[17:15:54] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[17:15:54] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[17:15:54] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[17:15:54] [Server thread/INFO]: [PiglinFix] Loading PiglinFix vAlpha 1.1
+[17:15:54] [Server thread/INFO]: [TAB] Loading TAB v2.8.4
+[17:15:54] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[17:15:54] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[17:15:54] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[17:15:54] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[17:15:54] [Server thread/INFO]: Preparing level "world"
+[17:15:54] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:15:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:15:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:15:54] [Server thread/INFO]: Item Merge Radius: 8.0
+[17:15:54] [Server thread/INFO]: Item Despawn Rate: 3000
+[17:15:54] [Server thread/INFO]: View Distance: 12
+[17:15:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:15:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:15:54] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[17:15:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17:15:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Mob Spawn Range: 4
+[17:15:54] [Server thread/INFO]: Experience Merge Radius: 8.0
+[17:15:54] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[17:15:54] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[17:15:54] [Server thread/INFO]: Max TNT Explosions: 100
+[17:15:54] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[17:15:54] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:15:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:15:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:15:54] [Server thread/INFO]: Item Merge Radius: 8.0
+[17:15:54] [Server thread/INFO]: Item Despawn Rate: 3000
+[17:15:54] [Server thread/INFO]: View Distance: 12
+[17:15:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:15:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:15:54] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[17:15:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17:15:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Mob Spawn Range: 4
+[17:15:54] [Server thread/INFO]: Experience Merge Radius: 8.0
+[17:15:54] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[17:15:54] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[17:15:54] [Server thread/INFO]: Max TNT Explosions: 100
+[17:15:54] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[17:15:54] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:15:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:15:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:15:54] [Server thread/INFO]: Item Merge Radius: 8.0
+[17:15:54] [Server thread/INFO]: Item Despawn Rate: 3000
+[17:15:54] [Server thread/INFO]: View Distance: 12
+[17:15:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:15:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:15:54] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[17:15:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17:15:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:15:54] [Server thread/INFO]: Mob Spawn Range: 4
+[17:15:54] [Server thread/INFO]: Experience Merge Radius: 8.0
+[17:15:54] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[17:15:54] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[17:15:54] [Server thread/INFO]: Max TNT Explosions: 100
+[17:15:54] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[17:15:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:15:55] [Server thread/INFO]: Preparing spawn area: 0%
+[17:15:55] [Server thread/INFO]: Preparing spawn area: 0%
+[17:15:55] [Server thread/INFO]: Preparing spawn area: 0%
+[17:15:55] [Server thread/INFO]: Preparing spawn area: 0%
+[17:15:56] [Server thread/INFO]: Preparing spawn area: 0%
+[17:15:56] [Server thread/INFO]: Time elapsed: 2511 ms
+[17:15:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:15:57] [Server thread/INFO]: Preparing spawn area: 0%
+[17:15:57] [Server thread/INFO]: Preparing spawn area: 0%
+[17:15:57] [Server thread/INFO]: Time elapsed: 804 ms
+[17:15:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:15:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:15:58] [Server thread/INFO]: Time elapsed: 632 ms
+[17:15:58] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[17:15:58] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[17:15:58] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[17:15:58] [Server thread/INFO]: --------------------
+[17:15:58] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[17:15:58] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[17:15:58] [Server thread/INFO]: --------------------
+[17:15:58] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[17:15:58] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[17:15:58] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[17:15:58] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[17:15:58] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[17:15:58] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[17:15:58] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[17:15:58] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[17:15:58] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[17:15:58] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[17:15:58] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[17:15:58] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minemora.entitytrackerfixer.v1_16_R2.NMSHandler
+[17:15:58] [Server thread/WARN]: 	at java.net.URLClassLoader.findClass(Unknown Source)
+[17:15:58] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:167)
+[17:15:58] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:96)
+[17:15:58] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[17:15:58] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[17:15:58] [Server thread/WARN]: 	at java.lang.Class.forName0(Native Method)
+[17:15:58] [Server thread/WARN]: 	at java.lang.Class.forName(Unknown Source)
+[17:15:58] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.nms.NMSCheck.getNMS(NMSCheck.java:14)
+[17:15:58] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:25)
+[17:15:58] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[17:15:58] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351)
+[17:15:58] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480)
+[17:15:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492)
+[17:15:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406)
+[17:15:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435)
+[17:15:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219)
+[17:15:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808)
+[17:15:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164)
+[17:15:58] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[17:15:58] [Server thread/ERROR]: [EntityTrackerFixer] Could not find support for this Spigot version.
+[17:15:58] [Server thread/ERROR]: Error occurred while enabling EntityTrackerFixer v1.3.1 (Is it up to date?)
+java.lang.NullPointerException: null
+	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:26) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[17:15:58] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[17:15:58] [Server thread/INFO]: [OpenInv] Your version of CraftBukkit (v1_16_R2) is not supported.
+[17:15:58] [Server thread/INFO]: [OpenInv] If this version is a recent release, check for an update.
+[17:15:58] [Server thread/INFO]: [OpenInv] If this is an older version, ensure that you've downloaded the legacy support version.
+[17:15:58] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5
+[17:15:58] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şÒÑÆôÓÃ£¡
+[17:15:58] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şµ±Ç°°æ±¾£ºV0.5 £¨2017Äê8ÔÂ24ÈÕ£©
+[17:15:58] [Server thread/INFO]: [ChatC] ¸ĞĞ»ÄúµÄÊ¹ÓÃ£¡
+[17:15:58] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3
+[17:15:58] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;33;1mChecking Your version...[m
+[17:15:58] [Server thread/INFO]: [0;34;1m===============================[m
+[17:15:58] [Server thread/INFO]: [0;32;1m[m
+[17:15:58] [Server thread/INFO]: [0;32;1m GroupManager+ is now enable![m
+[17:15:58] [Server thread/INFO]: [0;32;1m [m
+[17:15:58] [Server thread/INFO]: [0;33;1m Thank you for using GroupManager+ :)[m
+[17:15:58] [Server thread/INFO]: [0;33;1m GroupManager+ is create by HappyAreaBean![m
+[17:15:58] [Server thread/INFO]: [0;36;1m Current version: [0;32;1mv3.3[m
+[17:15:58] [Server thread/INFO]: [0;32;1m [m
+[17:15:58] [Server thread/INFO]: [0;34;1m===============================[m
+[17:15:58] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mWorld Found: world[m
+[17:15:58] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mSuperperms support enabled.[m
+[17:15:58] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is set for every 10 minutes![m
+[17:15:58] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBackups will be retained for 24 hours![m
+[17:15:58] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mGroupManager+ v3.3 is now enabled![m
+[17:15:58] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3
+[17:15:58] [Server thread/INFO]: [PxAutoMessage] ÕıÔÚÆô¶¯Æ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[17:15:58] [Server thread/INFO]: [PxAutoMessage] ³õÊ¼»¯ĞÅÏ¢Ä£¿é...
+[17:15:58] [Server thread/INFO]: [PxAutoMessage] ×¢²áÃüÁî¼àÌıÏµÍ³...
+[17:15:58] [Server thread/INFO]: [PxAutoMessage] ¼ÓÔØÍê±Ï£¡
+[17:15:58] [Server thread/INFO]:  
+[17:15:58] [Server thread/INFO]: > ×÷Õß£ºAn_ye (QQ:1444691679)
+[17:15:58] [Server thread/INFO]: > ±¾²å¼ş×Ô´øºº»¯£¬ÇëÎğÏàĞÅËùÎ½µÄºº»¯°æ£¡
+[17:15:58] [Server thread/INFO]: > £¨×÷ÕßµÄ»°£ºI'm Chinese.£©
+[17:15:58] [Server thread/INFO]:  
+[17:15:58] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0
+[17:15:58] [Server thread/INFO]: HikariPool-1 - Starting...
+[17:15:59] [Server thread/INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[17:15:59] [Server thread/INFO]: HikariPool-1 - Start completed.
+[17:16:20] [Server thread/INFO]: 
+ 
+[0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
+[0;30;1m| [0;31;1mInformation:
+[0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[0;30;1m| [0;31;1mSupport:
+[0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[0;30;1m| [0;31;1mUpdate:
+[0;30;1m|   [0;37;22mFailed to check for updates :(
+[0;30;1m[]================================[][m
+ [m
+[17:16:20] [Server thread/INFO]: [PiglinFix] Enabling PiglinFix vAlpha 1.1
+[17:16:20] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mFixing Piglin drops [0;35;1m-By RanWhite[m
+[17:16:21] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mLastest version is new[m
+[17:16:21] [Server thread/INFO]: [TAB] Enabling TAB v2.8.4
+[17:16:21] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.16.2 (v1_16_R2)[m
+[17:16:21] [Server thread/INFO]: [0;31;1m[TAB] File [0;33;1mplugins\TAB\errors.txt[0;31;1m exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.[m
+[17:16:21] [Server thread/INFO]: [0;31;1m[TAB] Animation "[0;33;1mWelcome[0;31;1m" does not have any texts! [0;36;1mIgnoring.[m
+[17:16:21] [Server thread/INFO]: [0;33;1m[TAB] There were 2 startup warnings.[m
+[17:16:21] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 39ms[m
+[17:16:21] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT
+[17:16:21] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0
+[17:16:21] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1
+[17:16:21] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[17:16:21] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[17:16:21] [Server thread/INFO]: [AnGmode] ¡ìaÄãºÃ£¡ÎÒÊÇĞ¡°²£¬¸ĞĞ»ÄãÄÜÊ¹ÓÃÕâ¸ö²å¼ş£¡
+[17:16:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:16:21] [Server thread/INFO]: Done (27.328s)! For help, type "help"
+[17:16:21] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBukkit Permissions Updated![m
+[17:16:21] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[17:16:22] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;31;1mYour version (v3.3) is outdated download the lastest version:[m
+[17:16:22] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;32;1mhttps://www.spigotmc.org/resources/40615/[m
+[17:16:23] [Thread-19/INFO]: --------------------
+[17:16:23] [Thread-19/INFO]: [CoreProtect] Version 19.3 is now available.
+[17:16:23] [Thread-19/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[17:16:23] [Thread-19/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[17:16:23] [Thread-19/INFO]: --------------------
+[18:16:21] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[19:16:21] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[19:36:35] [User Authenticator #1/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[19:36:35] [Server thread/INFO]: Mr_director[/127.0.0.1:63766] logged in with entity id 492 at ([world_nether]-10.435876548553658, 115.0, 434.2989652832558)
+[19:45:58] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:46:51] [Server thread/INFO]: Mr_director issued server command: /give Mr_director minecraft:nether_quartz_ore
+[19:47:01] [User Authenticator #2/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[19:47:01] [Server thread/INFO]: adhesive_tape[/127.0.0.1:63804] logged in with entity id 1113 at ([world]-518.1164454102541, 69.0, -451.925000011921)
+[19:48:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m
+[19:49:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÀëÆ×[m
+[19:49:16] [Server thread/INFO]: Mr_director >> gkÒªÇóµÄ[m
+[19:49:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒ»¹ÒÔÎªÊÇÄÄÀïÄØ[m
+[19:49:40] [Server thread/INFO]: Mr_director >> ÕıºÃÎÒ²»ÖªµÀ×öÊ²Ã´[m
+[19:49:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> µÈµÈ[m
+[19:49:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔõÃ´»µÁË[m
+[19:50:09] [Server thread/INFO]: Mr_director >> £¿[m
+[19:50:20] [Server thread/INFO]: Mr_director >> emmm[m
+[19:50:26] [Server thread/INFO]: Mr_director >> ÎÒµÄ[m
+[19:50:32] [Server thread/INFO]: Mr_director >> ÎÒµ±Ê±Êó±ê¿¨ÁË[m
+[19:50:37] [Server thread/INFO]: Mr_director >> È»ºóÍ·²ğÁËÒ»¸ö[m
+[19:50:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÕâ¸öÍ··ÅµÄ²»¶ÔÑ½[m
+[19:50:54] [Server thread/INFO]: Mr_director >> ÎÒÖªµÀ[m
+[19:51:00] [Server thread/INFO]: Mr_director >> Ö÷ÒªÊÇµ±Ê±Ã»Ê±¼ä[m
+[19:52:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´µçÌú¹ì[m
+[19:52:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ìú¹ì[m
+[19:55:15] [Server thread/INFO]: Mr_director >> ÄãÕâ²»¸ü·ÑÊÂÃ´[m
+[19:55:58] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:57:06] [Server thread/INFO]: Mr_director >> ËµÆğÀ´ÄãÒª¸Ç·¿×ÓÊÇÃ´[m
+[19:57:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en[m
+[19:57:21] [Server thread/INFO]: Mr_director >> Í¶Ó°ÈºÀï£¿[m
+[19:57:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²î²»¶à°É[m
+[19:57:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÆäÊµ¾ÍÊÇ[m
+[19:57:54] [Server thread/INFO]: Mr_director >> »°ËµbayÄÇ¸öÂÌ±¦Ê¯ËşÄÜÓÃÃ´[m
+[19:57:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÕÕ×Å·ãÒ¶Ô­À´µÄ¾ÍĞĞ[m
+[19:58:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ËûÄÇ¸öºÃÏñ²»ÊÇºÜĞĞ[m
+[19:58:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> »½Ä§Õß¶¼²»¼ûÁË[m
+[19:58:24] [Server thread/INFO]: Mr_director >> ÄÇ¾ÍµÃÈ¥ÄÇ¸öÂÌ±¦Ê¯ËşË¢ÂÌ±¦Ê¯ÁË[m
+[19:58:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¶î[m
+[19:58:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> »¹ÊÇÓÃÑòÃ«ºÃÁË[m
+[19:58:50] [Server thread/INFO]: Mr_director >> Ê¯Ó¢·¿×ÓÄÑ²»³ÉÓÃÊ¯Ó¢ºÏ³É¿é£¿[m
+[19:58:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> »ìÄıÍÁ²»ºÃ¿´[m
+[19:58:58] [Server thread/INFO]: Mr_director >> ÑòÃ«Ò²²»ĞĞ°¡= =[m
+[19:59:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> e[m
+[19:59:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÏëÏë[m
+[19:59:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> emmm[m
+[19:59:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Òª²»ÎÒÊÔÊÔÄÜ²»ÄÜ×ö[m
+[19:59:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÍêËûÄÇ¸öËş[m
+[20:00:04] [Server thread/INFO]: Mr_director >> emmm[m
+[20:00:12] [Server thread/INFO]: Mr_director >> ËæÄã[m
+[20:00:22] [Server thread/INFO]: Mr_director >> ÎÒºìÊ¯five£¬¾ÍÊÇÒ»¸ö´ò¹¤ÈË[m
+[20:00:44] [Server thread/INFO]: Mr_director >> ¶ÔÁË£¬ÎÒÓĞÒ»¸öÎÊÌâÒ»Ö±ÏëÎÊÄã[m
+[20:00:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ëµ[m
+[20:00:52] [Server thread/INFO]: Mr_director >> Äãµ½µ×ÍÚÁË¶àÉÙºÏ½ğ£¿[m
+[20:00:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¹ş¹ş¹ş[m
+[20:01:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÕâÖÖÎÊÌâ[m
+[20:01:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÒ²²»ÖªµÀÁË[m
+[20:01:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ·´ÕıÏÖÔÚÇîÁË[m
+[20:01:20] [Server thread/INFO]: Mr_director >> ´ó¸Å£¿[m
+[20:01:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼¸×é°É[m
+[20:01:29] [Server thread/INFO]: Mr_director >> = =[m
+[20:01:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»·Ï»°ÁË[m
+[20:02:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×¼±¸×öËş[m
+[20:02:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×ß'[m
+[20:02:14] [Server thread/INFO]: Mr_director >> ĞèÒª°ïÖúµÄ»°Ö±½ÓËµ[m
+[20:02:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´ËÒ´¬[m
+[20:02:33] [Server thread/INFO]: Mr_director >> emmm[m
+[20:02:44] [Server thread/INFO]: Mr_director >> ÎÒÕÒÕÒ[m
+[20:03:40] [Server thread/INFO]: Mr_director >> ÕÒµ½ÁË[m
+[20:04:02] [Server thread/INFO]: Mr_director >> ÕâÀï»®´¬....[m
+[20:04:07] [Server thread/INFO]: Mr_director >> ±£ÏÕ´ëÊ©ÎÒÃ»×ö[m
+[20:04:14] [Server thread/INFO]: Mr_director >> Äã´¬¼¼ÊõÔõÃ´Ñù[m
+[20:04:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÉÏ´«[m
+[20:04:54] [Server thread/INFO]: Mr_director >> Äã×ß°É[m
+[20:05:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[20:05:12] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mDrops fixed[m
+[20:05:16] [Server thread/INFO]: Mr_director >> ÎÒ×ö¸ö±£ÏÕ[m
+[20:05:20] [Server thread/INFO]: Mr_director >> ·ÀÖ¹»®´¬µôÏÂÈ¥[m
+[20:05:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> bayµÄËş[m
+[20:05:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> °­ÄÑ[m
+[20:05:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔÚÄÄ[m
+[20:05:48] [Server thread/INFO]: Mr_director >> Ô­À´ÄÇ¸öÂÌ±¦Ê¯Ëş[m
+[20:05:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> o[m
+[20:06:50] [Server thread/INFO]: Mr_director >> ÎÒÈ¥Ï´¸öÔè[m
+[20:06:52] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[20:06:52] [Server thread/INFO]: Mr_director left the game
+[20:16:21] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[20:25:26] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[20:25:26] [Server thread/INFO]: adhesive_tape left the game
+[20:25:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@1dc39621[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:63943) lost connection: Disconnected
+[20:25:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@1d94b78c[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:63944) lost connection: Disconnected
+[20:25:40] [User Authenticator #3/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[20:25:41] [Server thread/INFO]: adhesive_tape[/127.0.0.1:63947] logged in with entity id 4539 at ([world]1364.5, 115.0, -1359.5)
+[20:25:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@51a2b978[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:63949) lost connection: Disconnected
+[21:16:21] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[21:31:24] [User Authenticator #4/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[21:31:24] [Server thread/INFO]: Mr_director[/127.0.0.1:64839] logged in with entity id 8319 at ([world_nether]-9.280870002616917, 115.0, 245.0498122289164)
+[21:31:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´[m
+[21:31:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> °ïÃ¦[m
+[21:31:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸ã¸ö²»ÏéÖ®Õ×[m
+[21:31:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×¼±¸×¥ÄÇÉ¶ÁË[m
+[21:32:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> µöÓã¸ÍÀ´¼¸¸ù[m
+[21:32:27] [Server thread/WARN]: Mr_director moved too quickly! -0.5816686608019452,1.0244240882136921,-10.001977582367545
+[21:32:28] [Server thread/INFO]: Mr_director >> k[m
+[21:32:28] [Server thread/INFO]: Mr_director >> k[m
+[21:32:45] [Server thread/INFO]: Mr_director >> ºÃ¼Ò»ï3339[m
+[21:33:13] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[21:33:13] [Server thread/INFO]: Mr_director left the game
+[21:33:18] [User Authenticator #5/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[21:33:18] [Server thread/INFO]: Mr_director[/127.0.0.1:64849] logged in with entity id 8451 at ([world_nether]-15.882557252145842, 116.0, 23.78987118127001)
+[21:37:25] [Server thread/INFO]: Mr_director >> Èı¸ö¹»Ã´[m
+[21:37:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> àÅ[m
+[21:40:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ³ö·¢Ò»ÏÂ[m
+[21:40:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ´¥·¢[m
+[21:40:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ï®»÷[m
+[21:40:20] [Server thread/INFO]: Mr_director >> ´ø¸öbuff£¿[m
+[21:43:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok?[m
+[21:43:52] [Server thread/INFO]: Mr_director >> À´ÁË[m
+[21:44:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔÚµ×ÏÂ±ğ¶¯¾ÍĞĞ[m
+[21:44:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ..[m
+[21:45:46] [Server thread/INFO]: Mr_director >> ¸Õ²ÅÃ»¿´ÇåÒÔÎªÄãÖ±½ÓÌøÏÂÈ¥¸ÉÁË[m
+[21:46:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ò»¸ö¶¼Ã»ÓĞ[m
+[21:46:27] [Server thread/INFO]: Mr_director >> Ã»µ½ÄØ[m
+[21:46:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´°Ñ¹­[m
+[21:47:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ,,,,[m
+[21:47:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ı[m
+[21:47:49] [Server thread/INFO]: Mr_director >> .....[m
+[21:49:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> e[m
+[21:50:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¾¹È»²»»áÏûÊ§[m
+[21:50:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔÙ·ÉÔ¶Ò»µã[m
+[21:50:27] [Server thread/INFO]: Mr_director >> ¼ıÀ´ÁË[m
+[21:50:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> okÎÒ·É»ØÀ´[m
+[21:50:47] [Server thread/INFO]: Mr_director >> ²»¹ıÎÒÃ»ÑÌ»¨ÁË[m
+[21:50:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> e[m
+[21:50:55] [Server thread/INFO]: Mr_director >> ÄãÓĞÖ½Ã´[m
+[21:51:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ö»ÄÜÂıÂıÉ±ÁË[m
+[21:51:26] [Server thread/INFO]: Mr_director >> ÎÒÈ¥²¹ÏÂÑÌ»¨[m
+[21:52:26] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:52:26] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[21:54:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÀëÆ×[m
+[21:54:35] [Server thread/INFO]: Mr_director >> ÊÇ²»ÊÇ½ÙÂÓµÄµÈ¼¶ÎÊÌâ[m
+[21:54:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»ÊÇ[m
+[21:54:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¾ÍÊÇÕâ¸ö²»½áÊøµÄÎÊÌâ[m
+[21:54:59] [Server thread/INFO]: Mr_director >> ÒòÎªÄãÓĞbuff°¡= =[m
+[21:56:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×øÉÏÈ¥ÁË[m
+[21:56:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÏÈÔË×ß[m
+[21:58:48] [Server thread/INFO]: Mr_director >> ÔõÃ´Ëµ[m
+[21:58:54] [Server thread/INFO]: Mr_director >> ÎÒĞèÒª×öÊ²Ã´[m
+[21:59:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> µÈµÈ[m
+[22:01:57] [Server thread/INFO]: Mr_director >> 233[m
+[22:04:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ÌĞø[m
+[22:04:43] [Server thread/INFO]: Mr_director >> ÎÒ¸øÄãµÄ¹­ÄÃÈ¥ĞŞĞŞ[m
+[22:04:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> »îÈû[m
+[22:04:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓÖ²»[m
+[22:04:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓĞÃ»ÓĞ[m
+[22:04:50] [Server thread/INFO]: Mr_director >> Ã»[m
+[22:05:17] [Server thread/INFO]: Mr_director >> ÎÒÈ¥ÄÃ[m
+[22:05:38] [Server thread/INFO]: Mr_director >> Òª¶àÉÙ[m
+[22:05:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¶àÒ»µã[m
+[22:05:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> 1×é[m
+[22:06:10] [Server thread/INFO]: Mr_director >> Õ³ÒºµÄÒªÃ´[m
+[22:06:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en[m
+[22:06:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´µçºúÂÜ²·[m
+[22:06:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÕâÍæÒâÕæ²»Ìı»°[m
+[22:07:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²îµãÈËÃ»ÁË[m
+[22:07:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´µç³ÔµÄ][m
+[22:07:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´µã³ÔµÄ[m
+[22:07:54] [Server thread/INFO]: Mr_director >> À´ÁË[m
+[22:08:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×¥ÁËÁ½Ö»ÁË[m
+[22:08:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> t¼ÓÓÍ[m
+[22:09:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ÌĞø'[m
+[22:09:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> tzzz[m
+[22:09:29] [Server thread/INFO]: Mr_director >> ºúÂÜ²·ÔÚ³ÈÉ«ºĞ×ÓÀï[m
+[22:09:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ë¯¾õ[m
+[22:09:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¶î[m
+[22:09:45] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[22:09:45] [Server thread/INFO]: Mr_director left the game
+[22:10:39] [User Authenticator #6/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[22:10:40] [Server thread/INFO]: Mr_director[/127.0.0.1:64980] logged in with entity id 18104 at ([world]1295.1630359759158, 120.0, -1356.9927229609705)
+[22:10:47] [Server thread/INFO]: Mr_director >> ¼òµ¥´Ö±©[m
+[22:11:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÀëÆ×[m
+[22:11:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Õ¦ÕâÃ´¶à[m
+[22:12:24] [Server thread/INFO]: Mr_director >> Ã¿´Î½ÙÂÓ¶¼Ö»Ë¢Ò»¸öÄÇÖÖ»½Ä§ÕßÃ´[m
+[22:12:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ì«¶àÁË[m
+[22:12:40] [Server thread/INFO]: Mr_director >> ÎÒËµµÄÊÇÖ¸Ò»´ÎbuffÒıÀ´µÄËùÓĞ[m
+[22:12:43] [Server thread/WARN]: adhesive_tape moved wrongly!
+[22:13:27] [Server thread/INFO]: Mr_director issued server command: /give Mr_director minecraft:blue_ice
+[22:13:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²îµãÓÖËÀÁË[m
+[22:13:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÀëÆ×[m
+[22:14:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒ±©Â¶ÁË[m
+[22:15:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÏÈÅÜ»áµØÓü[m
+[22:15:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸Õ²Å´òÁËÒ»¸öÆæ¹ÖµÄ¶«Î÷[m
+[22:15:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> È«±»¼¤Å­ÁË[m
+[22:15:26] [Server thread/INFO]: Mr_director >> hhhhhc[m
+[22:15:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²îµã¸øÄÕ¹í¸ßË¹[m
+[22:15:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãĞ¡ĞÄµã[m
+[22:16:21] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[22:16:48] [Server thread/INFO]: Mr_director >> ¾ÃËşÄÇÃ´¶àÍ¼ÌÚ[m
+[22:16:57] [Server thread/INFO]: Mr_director >> ºÃ´õÄÇÒ»¸öÒ²²»ÖÁÓÚÕâÑù°¡[m
+[22:17:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¹À¼Æ»½Ä§Õßµ½Î»ÁËÕâËş¾ÍÄÜÓÃÁË[m
+[22:18:39] [Server thread/INFO]: Mr_director >> ¸øÄãĞŞ¸ö¹­»¨ÁË33¼¶= =[m
+[22:19:09] [Server thread/INFO]: Mr_director >> ËäÈ»ÎÒ¹ÒÖíÈËËş¹ÒÁË500¼¶[m
+[22:19:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m
+[22:19:40] [Server thread/INFO]: Mr_director >> ....[m
+[22:22:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ,,,[m
+[22:22:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> e[m
+[22:22:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ½áÊøÁË[m
+[22:22:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ö»×¥ÁËÁ½Ö»[m
+[22:22:50] [Server thread/INFO]: Mr_director >> buff¶ÏÁË£¿[m
+[22:22:57] [Server thread/INFO]: Mr_director >> giao[m
+[22:22:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ó¢ĞÛÁË[m
+[22:23:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÔÙÈ¥¸ãÒ»¸ö[m
+[22:23:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Õâ»ØÓ¦¸Ã´Õ¹»4ÖµÁË[m
+[22:23:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Õâ»ØÓ¦¸Ã´Õ¹»4zhiÁË[m
+[22:23:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸Ï½ô¸ãÍê°É[m
+[22:23:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÆÆËş[m
+[22:23:34] [Server thread/INFO]: Mr_director >> Å¶¶Ô½ÙÂÓÖĞ²»»áÓĞbuff[m
+[22:23:36] [Server thread/INFO]: Mr_director >> ÍüÁË[m
+[22:23:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×îºóÕâÁ½²¨Ì«Î£ÏÕÁË[m
+[22:23:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×¥²»ÁÄ[m
+[22:24:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÕÒÇ°ÃæµÄ×¥[m
+[22:24:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> buffºÃÁË½ĞÎÒ[m
+[22:25:45] [Server thread/INFO]: Mr_director >> woc[m
+[22:25:47] [Server thread/INFO]: Mr_director >> É½»ğ[m
+[22:26:25] [Server thread/INFO]: Mr_director >> buff À´ÁË[m
+[22:27:25] [Server thread/INFO]: Mr_director >> ?[m
+[22:27:37] [Server thread/INFO]: Mr_director >> ²İ[m
+[22:27:44] [Server thread/INFO]: Mr_director >> ´å×¯Ô­À´ÔÚÏÂÃæ[m
+[22:28:22] [Server thread/INFO]: Mr_director >> ĞÑĞÑ£¬À´ÁËÒÑ¾­[m
+[22:28:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en'[m
+[22:28:42] [Server thread/INFO]: Mr_director >> Òª´øÆì×ÓµÄ»½Ä§Õß¶Ô°É[m
+[22:28:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎŞËùÎ½[m
+[22:28:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã°ÑÒÂ·şÍÑÁË[m
+[22:29:25] [Server thread/INFO]: Mr_director >> Ã»ÓÃµÄ[m
+[22:29:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓĞ°¡[m
+[22:29:34] [Server thread/INFO]: Mr_director >> ¹ÖÒÀ¾ÉÄÜ¿´¼ûÎÒ[m
+[22:29:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿´²»¼û[m
+[22:29:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ç±ĞĞ[m
+[22:31:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸ø¸ÉËÀÁË[m
+[22:31:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m
+[22:31:36] [Server thread/INFO]: Mr_director >> ÎÒ»¹ÊÇÃ»¿´¶®[m
+[22:31:42] [Server thread/INFO]: Mr_director >> ÄãÒª×¥ÄÄÖÖ[m
+[22:31:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> »½Ä§Õß[m
+[22:31:51] [Server thread/INFO]: Mr_director >> ÆïÔÚÂÓ¶áÊŞÉÏµÄ£¿[m
+[22:31:57] [Server thread/INFO]: Mr_director >> ¸Õ²ÅÃ»»½Ä§Õß°¡[m
+[22:32:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸Õ²ÅÓĞÒ»¸ö[m
+[22:32:06] [Server thread/INFO]: Mr_director >> ÄÇ¸ö²»ÊÇ[m
+[22:32:09] [Server thread/INFO]: Mr_director >> ÄÇ¸öÊÇÍâ½»¹Ù[m
+[22:32:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÏÂÒ»²¨ÉäÂıÒ»µã[m
+[22:32:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÉäÌ«¿ìÁË»á±»·¢ÏÖµÄ[m
+[22:32:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓĞÒ»¸ö[m
+[22:32:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÒªÁË[m
+[22:32:56] [Server thread/INFO]: Mr_director >> ÄãµÄ¶ËÓĞ·Å´óÃ´[m
+[22:32:58] [Server thread/INFO]: Mr_director >> ÎÒ¿´¼ûÁË[m
+[22:33:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã±ğÉç[m
+[22:33:06] [Server thread/INFO]: Mr_director >> ÖªµÀ[m
+[22:33:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²İ[m
+[22:33:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÂÒÅÜ[m
+[22:34:48] [Server thread/INFO]: Mr_director >> ºÃ¼ıÊõ[m
+[22:35:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ,...[m
+[22:35:32] [Server thread/INFO]: Mr_director >> ...[m
+[22:35:36] [Server thread/INFO]: Mr_director >> ÄÍĞÄµã°É[m
+[22:35:45] [Server thread/INFO]: Mr_director >> Õâ¶«Î÷¾ÍÊÇ¿´ÔËÆø[m
+[22:36:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´µç¿ó³µ[m
+[22:37:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ËÀ»î²»ÉÏ³µ[m
+[22:38:16] [Server thread/INFO]: Mr_director >> ÄÇ¸ö[m
+[22:38:23] [Server thread/INFO]: Mr_director >> Äã×¥µÃÇ°Á½Ö»ÄØ[m
+[22:38:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en>[m
+[22:38:49] [Server thread/INFO]: Mr_director >> = =[m
+[22:39:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã²»»á[m
+[22:39:10] [Server thread/INFO]: Mr_director >> ÔõÃ´¿ÉÄÜ[m
+[22:39:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸ÉÁËÒ»Ö»°É[m
+[22:39:16] [Server thread/INFO]: Mr_director >> ÎÒÒ²ºÃÆæÔõÃ´Ã»ÁË[m
+[22:39:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»¹ÜÁË[m
+[22:39:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÔÙÈ¥¸ãµãÃüÃûÅÆ[m
+[22:40:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÉÏÈ¥ÁË[m
+[22:40:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m
+[22:41:03] [Server thread/INFO]: Mr_director >> ?[m
+[22:41:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÈ¥º£¾§ÄÃµãÒşÉíÒ©Ë®[m
+[22:41:12] [Server thread/INFO]: Mr_director >> k[m
+[22:43:04] [Server thread/INFO]: adhesive_tape was slain by Vex
+[22:43:10] [Server thread/INFO]: Mr_director >> Ò©Ë®ÄãÃÇÊÇÓĞ¶Ú»õ»¹ÊÇÏÖÅäÏÖÓÃ[m
+[22:43:12] [Server thread/INFO]: Mr_director >> ....[m
+[22:43:17] [Server thread/INFO]: Mr_director >> ÒªÎÒ¼ñÊ¬ÌåÃ´[m
+[22:43:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»ÓÃÁË[m
+[22:43:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> »¹ÊÇÀ´°É[m
+[22:43:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> [name:Latest Death, x:1370, y:172, z:-1262, dim:minecraft:overworld, icon:skull][m
+[22:43:52] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[22:43:52] [Server thread/INFO]: adhesive_tape left the game
+[22:48:29] [User Authenticator #7/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:48:29] [Server thread/INFO]: adhesive_tape[/127.0.0.1:65109] logged in with entity id 26764 at ([world]1361.889821170112, 58.98869029634359, -1260.5426822050176)
+[22:48:40] [Server thread/INFO]: Mr_director >> Ò»¸öºÃÏûÏ¢Ò»¸ö»µÏûÏ¢[m
+[22:48:51] [Server thread/INFO]: Mr_director >> ¶şÑ¡Ò»[m
+[22:48:58] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[22:48:58] [Server thread/INFO]: adhesive_tape left the game
+[22:50:03] [User Authenticator #8/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:50:03] [Server thread/INFO]: adhesive_tape[/127.0.0.1:65119] logged in with entity id 26920 at ([world]1366.3640812661156, 62.219289967945286, -1287.1136726050588)
+[22:50:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÔÚĞÅ±êÕâ[m
+[22:50:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´½ÓÎÒ[m
+[22:50:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÆøËÀÎÒÁËÕâĞ©º©º©¶«Î÷[m
+[22:51:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ğ¬×ÓÃ»ÁË?[m
+[22:51:49] [Server thread/INFO]: Mr_director >> ÎÒÃ»ÕÒµ½[m
+[22:51:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´¸ú½£[m
+[22:51:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ı[m
+[22:52:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ã»ÊÂ[m
+[22:52:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ÌĞø[m
+[22:52:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> °ÑÕâĞ©º©ÅúÍæÒâ×°ÉÏ[m
+[22:52:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒ»¹²»ĞÅĞ°ÁË[m
+[22:52:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÑÌ»¨[m
+[22:52:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ìú¹ì[m
+[22:52:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¶¯Á¦Ìú¹ìÉ¶µÄ[m
+[22:53:14] [Server thread/INFO]: Mr_director >> ÄãÊÇÔÚÉÏÃæËÀÁËÊÇÃ´[m
+[22:53:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en[m
+[22:53:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¶î[m
+[22:53:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓÖÉÙÁËÒ»Ö»[m
+[22:53:29] [Server thread/INFO]: Mr_director >> äÆ£¬ÎÒ¹â¼ñÁËË®ÀïµÄ[m
+[22:53:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ã»ÎÊÌâ[m
+[22:53:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ìú¹ì[m
+[22:53:49] [Server thread/INFO]: Mr_director >> ÎÒÈ¥ÄÃ[m
+[22:53:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¶¯Á¦Ìú¹ìÒ²À´µã[m
+[22:54:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À­¸ËÉ¶µÄ[m
+[22:54:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ææ¹ÖÁË[m
+[22:54:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÕâÍæÒâÔõÃ´»á×Ô¶¯ÏûÊ§[m
+[22:54:39] [Server thread/INFO]: Mr_director >> bzd[m
+[22:54:44] [Server thread/INFO]: Mr_director >> Âé½«¸Ä»úÖÆÁË£¿[m
+[22:57:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ïë¸ö°ì·¨°ÑËûÃÇ¶ªÏÂÈ¥[m
+[22:57:51] [Server thread/INFO]: Mr_director >> ÏÂÃæ[m
+[22:57:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»ĞĞ[m
+[22:57:59] [Server thread/INFO]: Mr_director >> ÎÒËµÌú¹ì[m
+[22:58:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Å¶[m
+[22:58:36] [Server thread/INFO]: Mr_director >> Õâ¸ö»½Ä§ÕßµÄÒâÒåÊÇÉ¶ÎÒ¶¼²»Ã÷°×[m
+[22:58:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÈ¶¨×°ÖÃ[m
+[22:59:24] [Server thread/INFO]: Mr_director >> ÎÈ¶¨£¿[m
+[22:59:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿ÉÒÔÕâÃ´Àí½â[m
+[22:59:42] [Server thread/INFO]: Mr_director >> µÈÏÂÈ¥¿´¿´Õâ¸öÊ²Ã´ÆæÆæ¹Ö¹ÖµÄ»úÖÆ[m
+[22:59:47] [Server thread/INFO]: Mr_director >> ÎÒÏÖÔÚÓ¦¸Ã×öÊ²Ã´[m
+[22:59:54] [Server thread/INFO]: Mr_director >> ÃüÃûÅÆÎÒ²»ÖªµÀÄÄÀïÓĞ[m
+[23:00:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> 500[m
+[23:00:06] [Server thread/INFO]: Mr_director >> ¶ÔÁËÄãµÄspaceÃüÃûÅÆ»¹ÔÚ[m
+[23:00:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> spade[m
+[23:00:21] [Server thread/INFO]: Mr_director >> emmmm[m
+[23:00:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ºÚÌÒ[m
+[23:00:30] [Server thread/INFO]: Mr_director >> ËãÁËÎŞËùÎ½ÁË[m
+[23:00:44] [Server thread/INFO]: Mr_director >> ÄÇ¸ö»½Ä§Õß»¹Ã»ÃüÃû°É[m
+[23:00:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÃüÃûÁË[m
+[23:01:20] [Server thread/INFO]: Mr_director >> ÃüÃûÅÆÔÚ³ÈÉ«ºĞ×ÓÀï[m
+[23:01:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[23:01:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÃüÃû[m
+[23:01:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Laohuaji[m
+[23:01:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> APOCALYPSE[m
+[23:01:52] [Server thread/INFO]: Mr_director >> »¹ÓĞ¸ÉÕâÖÖ¸ßÎ£×÷Òµ±ğÄÃÄÇÃ´¶à¶«Î÷ÁË[m
+[23:01:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m
+[23:04:00] [Server thread/INFO]: Mr_director >> äÆËµ500ÎÒÅÄºÚÔÆÀ´ÁË[m
+[23:04:03] [Server thread/INFO]: Mr_director >> ÍêÁËÎÒÉµÁË[m
+[23:04:08] [Server thread/INFO]: adhesive_tape fell from a high place
+[23:04:12] [Server thread/INFO]: Mr_director >> ...[m
+[23:04:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> 2333[m
+[23:04:20] [Server thread/INFO]: Mr_director >> ÔõÃ´Ëµ[m
+[23:04:27] [Server thread/INFO]: Mr_director >> ¼ñ£¿[m
+[23:04:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ºÃÁË[m
+[23:04:53] [Server thread/INFO]: Mr_director >> ÓÃÎÒÈ¥Ã´[m
+[23:05:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ñºÃÁË[m
+[23:05:04] [Server thread/INFO]: Mr_director >> o[m
+[23:05:14] [Server thread/INFO]: Mr_director >> ºÏ×ÅÄãÌøË®ÌøÍáÁË£¿[m
+[23:05:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ç°ÁĞÏÙÉ²³µ[m
+[23:05:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> È»ºóÃ»´©Ğ¬×Ó[m
+[23:06:04] [Server thread/INFO]: Mr_director >> ºÃ¼Ò»ïÕâºĞ×ÓÕætm¶à[m
+[23:06:11] [Server thread/INFO]: Mr_director >> ½¨Òé¸Ä³É£º500ºĞ×ÓÕò[m
+[23:08:29] [Server thread/INFO]: Mr_director >> ÕÒµ½Ò»¸ö[m
+[23:08:58] [Server thread/INFO]: Mr_director issued server command: /co i
+[23:09:12] [Server thread/INFO]: Mr_director issued server command: /co i
+[23:09:30] [Server thread/INFO]: Mr_director issued server command: /co i
+[23:09:34] [Server thread/INFO]: Mr_director issued server command: /co i
+[23:11:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ºÃ²»ÈİÒ××¥ÁË2Ö»ÁË[m
+[23:12:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¶ÏÁËbuff[m
+[23:12:27] [Server thread/INFO]: Mr_director >> ºÃ¼Ò»ïÒª²»ÊÇ·şÎñÆ÷Ã»ÈËÁËÈ«ÎïÆ·¿Ì²»Èİ»º[m
+[23:12:41] [Server thread/INFO]: Mr_director >> ·­ÁË°ëÌì¾ÍÒ»¸ö[m
+[23:12:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´µãbuff[m
+[23:12:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ò»¸ö¹»ÁË[m
+[23:12:48] [Server thread/INFO]: Mr_director >> k[m
+[23:12:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´Á©Á©[m
+[23:12:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´buff[m
+[23:13:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Õâ±ß»¹ÓĞÒ»¸öÃüÃûÅÆ[m
+[23:13:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ÓÆğÀ´¸ÕºÃ2¸ö[m
+[23:13:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¹»ÁË[m
+[23:15:50] [Server thread/INFO]: Mr_director >> ÎÒÏÈÈ¥ÏÂÃæ²Ø×Å°É[m
+[23:16:05] [Server thread/INFO]: Mr_director >> Ò²·½±ã°ïÄãÊÕÊ¬[m
+[23:16:21] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[23:23:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×îºóÒ»³ß[m
+[23:23:57] [Server thread/WARN]: Mr_director moved wrongly!
+[23:24:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ë¯¾õ[m
+[23:24:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿´²»¼û[m
+[23:25:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> mr[m
+[23:25:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ë¯¾õ¾õ[m
+[23:25:19] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:25:19] [Server thread/INFO]: Mr_director left the game
+[23:27:48] [User Authenticator #9/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[23:27:48] [Server thread/INFO]: Mr_director[/127.0.0.1:65255] logged in with entity id 32895 at ([world]1364.1841122959725, 115.0, -1353.300000011921)
+[23:28:48] [Server thread/INFO]: Mr_director >> 1[m
+[23:29:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÀëÆ×[m
+[23:29:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔÙÀ´Ò»´Î[m
+[23:30:38] [Server thread/INFO]: Mr_director >> ºÃ¼Ò»ï´ò×Ô¼ºÈË[m
+[23:31:27] [Server thread/INFO]: adhesive_tape fell from a high place
+[23:32:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> »¹ÓĞÒ»Ö»[m
+[23:32:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÊÔÊÔÔËÆø[m
+[23:33:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> µÈµÈÅ®Î×¸øËû»ØÑª[m
+[23:35:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ,,,[m
+[23:35:58] [Server thread/INFO]: Mr_director >> Àä¾²[m
+[23:35:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ë¾ÂíÍæÒâ[m
+[23:36:05] [Server thread/INFO]: Mr_director >> ÎÒÓĞ¸öÖ÷Òâ[m
+[23:36:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ê±ºò[m
+[23:36:12] [Server thread/INFO]: Mr_director >> ÎÒÈ¥¿´¿´ÄÜ²»ÄÜÕûµãÒ©[m
+[23:36:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ëµ°É[m
+[23:36:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔÙÀ´¸öbuff[m
+[23:36:24] [Server thread/INFO]: Mr_director >> ËäÈ»ÆäËûÈËÒ²»á³Ôµ½[m
+[23:36:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m
+[23:36:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×îºóÒ»´ÎÁË°Ñ[m
+[23:36:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸ãÍêÊÕ¹¤[m
+[23:39:51] [Server thread/INFO]: Mr_director >> À´ÁË[m
+[23:44:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÈ×¡[m
+[23:44:48] [Server thread/INFO]: Mr_director >> ¹­À­Ğ¡µã[m
+[23:45:04] [Server thread/INFO]: Mr_director >> ±ğÄş¿ÉÂıÒ²ÇóÎÈ[m
+[23:45:18] [Server thread/INFO]: Mr_director >> .....[m
+[23:45:24] [Server thread/INFO]: Mr_director >> ²»ÊÇ£¬Ã»ÄÇ¸ö±ğ[m
+[23:51:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´¸öÃüÃûÅÆ[m
+[23:52:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> mr>[m
+[23:52:33] [Server thread/INFO]: Mr_director >> ....[m
+[23:52:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÔÚÕâ±ğ¶¯[m
+[23:52:40] [Server thread/INFO]: Mr_director >> ÎÒÈ¥µöÓã[m
+[23:52:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÈ¥ÄÃ[m
+[23:52:44] [Server thread/INFO]: Mr_director >> Ò²ĞĞ[m
+[23:52:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¶à×¥Ò»Ö»[m
+[23:53:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÒÔ·ÀÍòÒ»[m
+[23:57:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ½ĞÊ²Ã´ºÃÄØ[m
+[23:57:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> me[m
+[23:57:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> mr[m
+[23:58:05] [Server thread/INFO]: Mr_director >> emmmm[m
+[23:58:07] [Server thread/INFO]: Mr_director >> ìâ[m
+[23:58:09] [Server thread/INFO]: Mr_director >> tao[m
+[23:58:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m

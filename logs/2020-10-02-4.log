@@ -1,0 +1,559 @@
+[15:46:04] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[15:46:04] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[15:46:05] [Worker-Main-5/INFO]: Loaded 7 recipes
+[15:46:06] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[15:46:06] [Server thread/INFO]: Loading properties
+[15:46:07] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-379750e-43c7ff9 (MC: 1.16.2) (Implementing API version 1.16.2-R0.1-SNAPSHOT)
+[15:46:07] [Server thread/INFO]: Debug logging is disabled
+[15:46:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:46:07] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[15:46:07] [Server thread/INFO]: Default game type: SURVIVAL
+[15:46:07] [Server thread/INFO]: Generating keypair
+[15:46:07] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[15:46:07] [Server thread/INFO]: Using default channel type
+[15:46:09] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[15:46:11] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[15:46:11] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[15:46:11] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[15:46:11] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[15:46:11] [Server thread/WARN]: Legacy plugin PiglinFix vAlpha 1.1 does not specify an api-version.
+[15:46:11] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[15:46:11] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[15:46:11] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[15:46:11] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[15:46:11] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[15:46:11] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[15:46:11] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[15:46:11] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[15:46:11] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[15:46:11] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[15:46:11] [Server thread/INFO]: [PiglinFix] Loading PiglinFix vAlpha 1.1
+[15:46:11] [Server thread/INFO]: [TAB] Loading TAB v2.8.4
+[15:46:11] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[15:46:11] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[15:46:11] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[15:46:11] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[15:46:11] [Server thread/INFO]: Preparing level "world"
+[15:46:11] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:46:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:46:11] [Server thread/INFO]: Item Merge Radius: 8.0
+[15:46:11] [Server thread/INFO]: Item Despawn Rate: 3000
+[15:46:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:46:11] [Server thread/INFO]: View Distance: 12
+[15:46:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:46:11] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[15:46:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:46:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:46:11] [Server thread/INFO]: Experience Merge Radius: 8.0
+[15:46:11] [Server thread/INFO]: Mob Spawn Range: 4
+[15:46:11] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[15:46:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[15:46:11] [Server thread/INFO]: Max TNT Explosions: 100
+[15:46:11] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[15:46:11] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:46:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:46:11] [Server thread/INFO]: Item Merge Radius: 8.0
+[15:46:11] [Server thread/INFO]: Item Despawn Rate: 3000
+[15:46:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:46:11] [Server thread/INFO]: View Distance: 12
+[15:46:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:46:11] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[15:46:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:46:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:46:11] [Server thread/INFO]: Experience Merge Radius: 8.0
+[15:46:11] [Server thread/INFO]: Mob Spawn Range: 4
+[15:46:11] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[15:46:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[15:46:11] [Server thread/INFO]: Max TNT Explosions: 100
+[15:46:11] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[15:46:11] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:46:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:46:11] [Server thread/INFO]: Item Merge Radius: 8.0
+[15:46:11] [Server thread/INFO]: Item Despawn Rate: 3000
+[15:46:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:46:11] [Server thread/INFO]: View Distance: 12
+[15:46:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:46:11] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[15:46:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:46:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:46:11] [Server thread/INFO]: Experience Merge Radius: 8.0
+[15:46:11] [Server thread/INFO]: Mob Spawn Range: 4
+[15:46:11] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[15:46:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:46:11] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[15:46:11] [Server thread/INFO]: Max TNT Explosions: 100
+[15:46:11] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[15:46:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:46:13] [Server thread/INFO]: Preparing spawn area: 0%
+[15:46:13] [Server thread/INFO]: Preparing spawn area: 0%
+[15:46:13] [Server thread/INFO]: Preparing spawn area: 0%
+[15:46:13] [Server thread/INFO]: Preparing spawn area: 0%
+[15:46:13] [Server thread/INFO]: Preparing spawn area: 0%
+[15:46:14] [Server thread/INFO]: Time elapsed: 2570 ms
+[15:46:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:46:14] [Server thread/INFO]: Preparing spawn area: 0%
+[15:46:14] [Server thread/INFO]: Preparing spawn area: 0%
+[15:46:15] [Server thread/INFO]: Time elapsed: 890 ms
+[15:46:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:46:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:46:15] [Server thread/INFO]: Time elapsed: 369 ms
+[15:46:15] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[15:46:15] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[15:46:15] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[15:46:15] [Server thread/INFO]: --------------------
+[15:46:15] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[15:46:15] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[15:46:15] [Server thread/INFO]: --------------------
+[15:46:15] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[15:46:15] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[15:46:15] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[15:46:15] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[15:46:15] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[15:46:15] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[15:46:15] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[15:46:15] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[15:46:15] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[15:46:15] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[15:46:15] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[15:46:15] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minemora.entitytrackerfixer.v1_16_R2.NMSHandler
+[15:46:15] [Server thread/WARN]: 	at java.net.URLClassLoader.findClass(Unknown Source)
+[15:46:15] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:167)
+[15:46:15] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:96)
+[15:46:15] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[15:46:15] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[15:46:15] [Server thread/WARN]: 	at java.lang.Class.forName0(Native Method)
+[15:46:15] [Server thread/WARN]: 	at java.lang.Class.forName(Unknown Source)
+[15:46:15] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.nms.NMSCheck.getNMS(NMSCheck.java:14)
+[15:46:15] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:25)
+[15:46:15] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[15:46:15] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351)
+[15:46:15] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480)
+[15:46:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492)
+[15:46:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406)
+[15:46:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435)
+[15:46:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219)
+[15:46:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808)
+[15:46:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164)
+[15:46:15] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:46:15] [Server thread/ERROR]: [EntityTrackerFixer] Could not find support for this Spigot version.
+[15:46:15] [Server thread/ERROR]: Error occurred while enabling EntityTrackerFixer v1.3.1 (Is it up to date?)
+java.lang.NullPointerException: null
+	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:26) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[15:46:15] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[15:46:15] [Server thread/INFO]: [OpenInv] Your version of CraftBukkit (v1_16_R2) is not supported.
+[15:46:15] [Server thread/INFO]: [OpenInv] If this version is a recent release, check for an update.
+[15:46:15] [Server thread/INFO]: [OpenInv] If this is an older version, ensure that you've downloaded the legacy support version.
+[15:46:15] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5
+[15:46:15] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼þÒÑÆôÓÃ£¡
+[15:46:15] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼þµ±Ç°°æ±¾£ºV0.5 £¨2017Äê8ÔÂ24ÈÕ£©
+[15:46:15] [Server thread/INFO]: [ChatC] ¸ÐÐ»ÄúµÄÊ¹ÓÃ£¡
+[15:46:15] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3
+[15:46:15] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;33;1mChecking Your version...[m
+[15:46:15] [Server thread/INFO]: [0;34;1m===============================[m
+[15:46:15] [Server thread/INFO]: [0;32;1m[m
+[15:46:15] [Server thread/INFO]: [0;32;1m GroupManager+ is now enable![m
+[15:46:15] [Server thread/INFO]: [0;32;1m [m
+[15:46:15] [Server thread/INFO]: [0;33;1m Thank you for using GroupManager+ :)[m
+[15:46:15] [Server thread/INFO]: [0;33;1m GroupManager+ is create by HappyAreaBean![m
+[15:46:15] [Server thread/INFO]: [0;36;1m Current version: [0;32;1mv3.3[m
+[15:46:15] [Server thread/INFO]: [0;32;1m [m
+[15:46:15] [Server thread/INFO]: [0;34;1m===============================[m
+[15:46:15] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mWorld Found: world[m
+[15:46:15] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mSuperperms support enabled.[m
+[15:46:15] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is set for every 10 minutes![m
+[15:46:15] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBackups will be retained for 24 hours![m
+[15:46:15] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mGroupManager+ v3.3 is now enabled![m
+[15:46:15] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3
+[15:46:15] [Server thread/INFO]: [PxAutoMessage] ÕýÔÚÆô¶¯Æ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[15:46:15] [Server thread/INFO]: [PxAutoMessage] ³õÊ¼»¯ÐÅÏ¢Ä£¿é...
+[15:46:15] [Server thread/INFO]: [PxAutoMessage] ×¢²áÃüÁî¼àÌýÏµÍ³...
+[15:46:15] [Server thread/INFO]: [PxAutoMessage] ¼ÓÔØÍê±Ï£¡
+[15:46:15] [Server thread/INFO]:  
+[15:46:15] [Server thread/INFO]: > ×÷Õß£ºAn_ye (QQ:1444691679)
+[15:46:15] [Server thread/INFO]: > ±¾²å¼þ×Ô´øºº»¯£¬ÇëÎðÏàÐÅËùÎ½µÄºº»¯°æ£¡
+[15:46:15] [Server thread/INFO]: > £¨×÷ÕßµÄ»°£ºI'm Chinese.£©
+[15:46:15] [Server thread/INFO]:  
+[15:46:15] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0
+[15:46:15] [Server thread/INFO]: HikariPool-1 - Starting...
+[15:46:16] [Server thread/INFO]: checkpointClose start
+[15:46:16] [Server thread/INFO]: checkpointClose synched
+[15:46:16] [Server thread/INFO]: checkpointClose script done
+[15:46:16] [Server thread/INFO]: checkpointClose end
+[15:46:16] [Server thread/INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[15:46:16] [Server thread/INFO]: HikariPool-1 - Start completed.
+[15:46:23] [Server thread/INFO]: 
+ 
+[0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
+[0;30;1m| [0;31;1mInformation:
+[0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[0;30;1m| [0;31;1mSupport:
+[0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[0;30;1m| [0;31;1mUpdate:
+[0;30;1m|   [0;37;22mThere is a new version available! [2.2.1]
+[0;30;1m[]================================[][m
+ [m
+[15:46:23] [Server thread/INFO]: [PiglinFix] Enabling PiglinFix vAlpha 1.1
+[15:46:23] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mFixing Piglin drops [0;35;1m-By RanWhite[m
+[15:46:24] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mLastest version is new[m
+[15:46:24] [Server thread/INFO]: [TAB] Enabling TAB v2.8.4
+[15:46:24] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.16.2 (v1_16_R2)[m
+[15:46:24] [Server thread/INFO]: [0;31;1m[TAB] File [0;33;1mplugins\TAB\errors.txt[0;31;1m exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.[m
+[15:46:24] [Server thread/INFO]: [0;31;1m[TAB] Animation "[0;33;1mWelcome[0;31;1m" does not have any texts! [0;36;1mIgnoring.[m
+[15:46:24] [Server thread/INFO]: [0;33;1m[TAB] There were 2 startup warnings.[m
+[15:46:24] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 55ms[m
+[15:46:24] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT
+[15:46:24] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0
+[15:46:24] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1
+[15:46:24] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[15:46:24] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[15:46:24] [Server thread/INFO]: [AnGmode] ¡ìaÄãºÃ£¡ÎÒÊÇÐ¡°²£¬¸ÐÐ»ÄãÄÜÊ¹ÓÃÕâ¸ö²å¼þ£¡
+[15:46:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:46:24] [Server thread/INFO]: Done (13.148s)! For help, type "help"
+[15:46:24] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBukkit Permissions Updated![m
+[15:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[15:46:24] [Thread-17/INFO]: [0;32;1m[TAB] Version 2.8.7 is out! Your version: 2.8.4[m
+[15:46:24] [Thread-17/INFO]: [0;32;1m[TAB] Get the update at https://www.spigotmc.org/resources/57806/[m
+[15:46:25] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;31;1mYour version (v3.3) is outdated download the lastest version:[m
+[15:46:25] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;32;1mhttps://www.spigotmc.org/resources/40615/[m
+[15:49:48] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@49da0b1c[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49157): Authentication servers are down. Please try again later, sorry!
+[15:49:48] [User Authenticator #1/ERROR]: Couldn't verify username because servers are unavailable
+[15:49:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@49da0b1c[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49157) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:50:25] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@606ff63[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49161): Authentication servers are down. Please try again later, sorry!
+[15:50:25] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
+[15:50:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@606ff63[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49161) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:50:47] [User Authenticator #3/INFO]: Disconnecting com.mojang.authlib.GameProfile@5d71006c[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49169): Authentication servers are down. Please try again later, sorry!
+[15:50:47] [User Authenticator #3/ERROR]: Couldn't verify username because servers are unavailable
+[15:50:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@5d71006c[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49169) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:51:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@56532056[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49177) lost connection: Disconnected
+[15:52:01] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@56532056[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49177): Authentication servers are down. Please try again later, sorry!
+[15:52:01] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[15:52:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@3925c83a[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:49181) lost connection: Disconnected
+[15:52:23] [User Authenticator #5/INFO]: Disconnecting com.mojang.authlib.GameProfile@3925c83a[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:49181): Authentication servers are down. Please try again later, sorry!
+[15:52:23] [User Authenticator #5/ERROR]: Couldn't verify username because servers are unavailable
+[15:52:43] [User Authenticator #6/INFO]: Disconnecting com.mojang.authlib.GameProfile@70731955[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:49187): Authentication servers are down. Please try again later, sorry!
+[15:52:43] [User Authenticator #6/ERROR]: Couldn't verify username because servers are unavailable
+[15:52:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@70731955[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:49187) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:52:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c949615[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:49193) lost connection: Disconnected
+[15:53:02] [User Authenticator #7/INFO]: Disconnecting com.mojang.authlib.GameProfile@6c949615[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:49193): Authentication servers are down. Please try again later, sorry!
+[15:53:02] [User Authenticator #7/ERROR]: Couldn't verify username because servers are unavailable
+[15:53:22] [User Authenticator #8/INFO]: Disconnecting com.mojang.authlib.GameProfile@722a1492[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49203): Authentication servers are down. Please try again later, sorry!
+[15:53:22] [User Authenticator #8/ERROR]: Couldn't verify username because servers are unavailable
+[15:53:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@722a1492[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49203) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:53:54] [User Authenticator #9/INFO]: Disconnecting com.mojang.authlib.GameProfile@5dbc3f1c[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49212): Authentication servers are down. Please try again later, sorry!
+[15:53:54] [User Authenticator #9/ERROR]: Couldn't verify username because servers are unavailable
+[15:53:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@5dbc3f1c[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49212) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:54:18] [User Authenticator #10/INFO]: Disconnecting com.mojang.authlib.GameProfile@256bed52[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49219): Authentication servers are down. Please try again later, sorry!
+[15:54:18] [User Authenticator #10/ERROR]: Couldn't verify username because servers are unavailable
+[15:54:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@256bed52[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49219) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:54:44] [User Authenticator #11/INFO]: Disconnecting com.mojang.authlib.GameProfile@4e246ce4[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49222): Authentication servers are down. Please try again later, sorry!
+[15:54:44] [User Authenticator #11/ERROR]: Couldn't verify username because servers are unavailable
+[15:54:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@4e246ce4[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49222) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:54:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a3648cb[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49231) lost connection: Disconnected
+[15:55:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@3528964b[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49232) lost connection: Disconnected
+[15:55:14] [User Authenticator #12/INFO]: Disconnecting com.mojang.authlib.GameProfile@3528964b[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49232): Authentication servers are down. Please try again later, sorry!
+[15:55:14] [User Authenticator #12/ERROR]: Couldn't verify username because servers are unavailable
+[15:56:20] [User Authenticator #13/INFO]: Disconnecting com.mojang.authlib.GameProfile@71dd82e8[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49247): Authentication servers are down. Please try again later, sorry!
+[15:56:20] [User Authenticator #13/ERROR]: Couldn't verify username because servers are unavailable
+[15:56:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@71dd82e8[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49247) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:05:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@7bd341b3[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49318) lost connection: Disconnected
+[16:05:28] [User Authenticator #14/INFO]: Disconnecting com.mojang.authlib.GameProfile@2ece03ef[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49323): Authentication servers are down. Please try again later, sorry!
+[16:05:28] [User Authenticator #14/ERROR]: Couldn't verify username because servers are unavailable
+[16:05:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ece03ef[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49323) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:05:58] [User Authenticator #15/INFO]: Disconnecting com.mojang.authlib.GameProfile@74e67dc3[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49328): Authentication servers are down. Please try again later, sorry!
+[16:05:58] [User Authenticator #15/ERROR]: Couldn't verify username because servers are unavailable
+[16:05:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@74e67dc3[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49328) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:24:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@40d92f50[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49430) lost connection: Disconnected
+[16:25:13] [User Authenticator #16/INFO]: Disconnecting com.mojang.authlib.GameProfile@6534a41f[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49434): Authentication servers are down. Please try again later, sorry!
+[16:25:13] [User Authenticator #16/ERROR]: Couldn't verify username because servers are unavailable
+[16:25:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@6534a41f[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49434) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:34:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@2348c702[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:49504) lost connection: Disconnected
+[16:34:59] [User Authenticator #17/INFO]: Disconnecting com.mojang.authlib.GameProfile@2348c702[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:49504): Authentication servers are down. Please try again later, sorry!
+[16:34:59] [User Authenticator #17/ERROR]: Couldn't verify username because servers are unavailable
+[16:35:21] [User Authenticator #18/INFO]: Disconnecting com.mojang.authlib.GameProfile@4f193ad8[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:49508): Authentication servers are down. Please try again later, sorry!
+[16:35:21] [User Authenticator #18/ERROR]: Couldn't verify username because servers are unavailable
+[16:35:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f193ad8[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:49508) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:35:31] [User Authenticator #19/INFO]: UUID of player Ink_Snow is 2a111da9-f9cb-42dc-8ffc-4f295ba4896b
+[16:35:32] [Server thread/INFO]: Ink_Snow[/127.0.0.1:49513] logged in with entity id 427 at ([world_nether]188.48750001192093, 42.0, 907.4713433643905)
+[16:35:54] [User Authenticator #20/INFO]: Disconnecting com.mojang.authlib.GameProfile@e0b4876[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49518): Authentication servers are down. Please try again later, sorry!
+[16:35:54] [User Authenticator #20/ERROR]: Couldn't verify username because servers are unavailable
+[16:35:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@e0b4876[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49518) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:36:15] [User Authenticator #21/INFO]: Disconnecting com.mojang.authlib.GameProfile@20854540[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49524): Authentication servers are down. Please try again later, sorry!
+[16:36:15] [User Authenticator #21/ERROR]: Couldn't verify username because servers are unavailable
+[16:36:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@20854540[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49524) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:36:15] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[16:36:33] [User Authenticator #22/INFO]: Disconnecting com.mojang.authlib.GameProfile@302e9ba5[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49528): Authentication servers are down. Please try again later, sorry!
+[16:36:33] [User Authenticator #22/ERROR]: Couldn't verify username because servers are unavailable
+[16:36:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@302e9ba5[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49528) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:36:58] [User Authenticator #23/INFO]: Disconnecting com.mojang.authlib.GameProfile@12e8c379[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49531): Authentication servers are down. Please try again later, sorry!
+[16:36:58] [User Authenticator #23/ERROR]: Couldn't verify username because servers are unavailable
+[16:36:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@12e8c379[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49531) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:37:23] [Server thread/INFO]: Ink_Snow lost connection: Disconnected
+[16:37:23] [Server thread/INFO]: Ink_Snow left the game
+[16:37:44] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@74364329[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49536): Took too long to log in
+[16:37:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@74364329[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49536) lost connection: Took too long to log in
+[16:37:45] [User Authenticator #24/INFO]: Disconnecting com.mojang.authlib.GameProfile@74364329[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49536): Authentication servers are down. Please try again later, sorry!
+[16:37:45] [User Authenticator #24/ERROR]: Couldn't verify username because servers are unavailable
+[16:38:15] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@159d5e07[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49541): Took too long to log in
+[16:38:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@159d5e07[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49541) lost connection: Took too long to log in
+[16:38:22] [User Authenticator #25/INFO]: Disconnecting com.mojang.authlib.GameProfile@159d5e07[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49541): Authentication servers are down. Please try again later, sorry!
+[16:38:22] [User Authenticator #25/ERROR]: Couldn't verify username because servers are unavailable
+[16:38:35] [User Authenticator #26/INFO]: Disconnecting com.mojang.authlib.GameProfile@38cea13a[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49548): Authentication servers are down. Please try again later, sorry!
+[16:38:35] [User Authenticator #26/ERROR]: Couldn't verify username because servers are unavailable
+[16:38:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@38cea13a[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49548) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:39:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d227933[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49554) lost connection: Disconnected
+[16:39:18] [User Authenticator #27/INFO]: Disconnecting com.mojang.authlib.GameProfile@2d227933[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49554): Authentication servers are down. Please try again later, sorry!
+[16:39:18] [User Authenticator #27/ERROR]: Couldn't verify username because servers are unavailable
+[16:39:25] [User Authenticator #28/INFO]: Disconnecting com.mojang.authlib.GameProfile@2204fa55[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49557): Authentication servers are down. Please try again later, sorry!
+[16:39:25] [User Authenticator #28/ERROR]: Couldn't verify username because servers are unavailable
+[16:39:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@2204fa55[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49557) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:39:53] [User Authenticator #29/INFO]: Disconnecting com.mojang.authlib.GameProfile@78b2a55f[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49562): Authentication servers are down. Please try again later, sorry!
+[16:39:53] [User Authenticator #29/ERROR]: Couldn't verify username because servers are unavailable
+[16:39:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@78b2a55f[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49562) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:40:46] [User Authenticator #31/INFO]: Disconnecting com.mojang.authlib.GameProfile@a6af62d[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49573): Authentication servers are down. Please try again later, sorry!
+[16:40:46] [User Authenticator #31/ERROR]: Couldn't verify username because servers are unavailable
+[16:40:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@a6af62d[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49573) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:40:47] [User Authenticator #30/INFO]: Disconnecting com.mojang.authlib.GameProfile@727d045a[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49570): Authentication servers are down. Please try again later, sorry!
+[16:40:47] [User Authenticator #30/ERROR]: Couldn't verify username because servers are unavailable
+[16:40:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@727d045a[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49570) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:41:29] [User Authenticator #32/INFO]: Disconnecting com.mojang.authlib.GameProfile@49e08a9c[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49577): Authentication servers are down. Please try again later, sorry!
+[16:41:29] [User Authenticator #32/ERROR]: Couldn't verify username because servers are unavailable
+[16:41:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@49e08a9c[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49577) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:42:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@d20b453[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49583): Took too long to log in
+[16:42:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@d20b453[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49583) lost connection: Took too long to log in
+[16:42:54] [User Authenticator #33/INFO]: Disconnecting com.mojang.authlib.GameProfile@d20b453[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49583): Authentication servers are down. Please try again later, sorry!
+[16:42:54] [User Authenticator #33/ERROR]: Couldn't verify username because servers are unavailable
+[16:44:22] [User Authenticator #35/INFO]: Disconnecting com.mojang.authlib.GameProfile@acbca3c[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49591): Authentication servers are down. Please try again later, sorry!
+[16:44:22] [User Authenticator #35/ERROR]: Couldn't verify username because servers are unavailable
+[16:44:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@acbca3c[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49591) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:44:26] [User Authenticator #34/INFO]: Disconnecting com.mojang.authlib.GameProfile@661674e[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49590): Authentication servers are down. Please try again later, sorry!
+[16:44:26] [User Authenticator #34/ERROR]: Couldn't verify username because servers are unavailable
+[16:44:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@661674e[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49590) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:45:03] [User Authenticator #36/INFO]: Disconnecting com.mojang.authlib.GameProfile@178ac0b4[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49602): Authentication servers are down. Please try again later, sorry!
+[16:45:03] [User Authenticator #36/ERROR]: Couldn't verify username because servers are unavailable
+[16:45:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@178ac0b4[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49602) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:45:15] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7232ae96[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49604): Took too long to log in
+[16:45:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@7232ae96[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49604) lost connection: Took too long to log in
+[16:45:17] [User Authenticator #37/INFO]: Disconnecting com.mojang.authlib.GameProfile@7232ae96[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49604): Authentication servers are down. Please try again later, sorry!
+[16:45:17] [User Authenticator #37/ERROR]: Couldn't verify username because servers are unavailable
+[16:46:11] [User Authenticator #38/INFO]: Disconnecting com.mojang.authlib.GameProfile@3a772784[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49612): Authentication servers are down. Please try again later, sorry!
+[16:46:11] [User Authenticator #38/ERROR]: Couldn't verify username because servers are unavailable
+[16:46:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a772784[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49612) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[16:47:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@4be1fbdf[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49625) lost connection: Disconnected
+[16:47:27] [User Authenticator #39/INFO]: Disconnecting com.mojang.authlib.GameProfile@4be1fbdf[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49625): Authentication servers are down. Please try again later, sorry!
+[16:47:27] [User Authenticator #39/ERROR]: Couldn't verify username because servers are unavailable
+[16:47:37] [User Authenticator #40/INFO]: Disconnecting com.mojang.authlib.GameProfile@258c182a[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49629): Authentication servers are down. Please try again later, sorry!
+[16:47:37] [User Authenticator #40/ERROR]: Couldn't verify username because servers are unavailable
+[16:47:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@258c182a[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49629) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:47:37] [User Authenticator #41/INFO]: Disconnecting com.mojang.authlib.GameProfile@4e5ca54c[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49631): Authentication servers are down. Please try again later, sorry!
+[16:47:37] [User Authenticator #41/ERROR]: Couldn't verify username because servers are unavailable
+[16:47:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@4e5ca54c[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49631) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:48:01] [User Authenticator #42/INFO]: Disconnecting com.mojang.authlib.GameProfile@394272ce[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49634): Authentication servers are down. Please try again later, sorry!
+[16:48:01] [User Authenticator #42/ERROR]: Couldn't verify username because servers are unavailable
+[16:48:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@394272ce[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49634) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:48:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@43eb4cdc[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49640) lost connection: Disconnected
+[16:48:28] [User Authenticator #44/INFO]: Disconnecting com.mojang.authlib.GameProfile@5fe82612[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49643): Authentication servers are down. Please try again later, sorry!
+[16:48:28] [User Authenticator #44/ERROR]: Couldn't verify username because servers are unavailable
+[16:48:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@5fe82612[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49643) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:48:29] [User Authenticator #43/INFO]: Disconnecting com.mojang.authlib.GameProfile@43eb4cdc[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49640): Authentication servers are down. Please try again later, sorry!
+[16:48:29] [User Authenticator #43/ERROR]: Couldn't verify username because servers are unavailable
+[16:48:36] [User Authenticator #45/INFO]: Disconnecting com.mojang.authlib.GameProfile@568d6a4c[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49646): Authentication servers are down. Please try again later, sorry!
+[16:48:36] [User Authenticator #45/ERROR]: Couldn't verify username because servers are unavailable
+[16:48:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@568d6a4c[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49646) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:48:49] [User Authenticator #46/INFO]: Disconnecting com.mojang.authlib.GameProfile@62bebd95[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49649): Authentication servers are down. Please try again later, sorry!
+[16:48:49] [User Authenticator #46/ERROR]: Couldn't verify username because servers are unavailable
+[16:48:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@62bebd95[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49649) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:49:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@24ca1c29[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49652) lost connection: Disconnected
+[16:49:08] [User Authenticator #47/INFO]: Disconnecting com.mojang.authlib.GameProfile@24ca1c29[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49652): Authentication servers are down. Please try again later, sorry!
+[16:49:08] [User Authenticator #47/ERROR]: Couldn't verify username because servers are unavailable
+[16:49:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@550c0518[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49655) lost connection: Disconnected
+[16:49:23] [User Authenticator #49/INFO]: Disconnecting com.mojang.authlib.GameProfile@4d31e83e[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49658): Authentication servers are down. Please try again later, sorry!
+[16:49:23] [User Authenticator #49/ERROR]: Couldn't verify username because servers are unavailable
+[16:49:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d31e83e[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49658) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:49:32] [User Authenticator #48/INFO]: Disconnecting com.mojang.authlib.GameProfile@550c0518[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49655): Authentication servers are down. Please try again later, sorry!
+[16:49:32] [User Authenticator #48/ERROR]: Couldn't verify username because servers are unavailable
+[16:49:53] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@11f73365[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49661): Took too long to log in
+[16:49:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@11f73365[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49661) lost connection: Took too long to log in
+[16:49:54] [User Authenticator #51/INFO]: Disconnecting com.mojang.authlib.GameProfile@3495a602[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49671): Authentication servers are down. Please try again later, sorry!
+[16:49:54] [User Authenticator #51/ERROR]: Couldn't verify username because servers are unavailable
+[16:49:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@3495a602[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49671) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:49:54] [User Authenticator #50/INFO]: Disconnecting com.mojang.authlib.GameProfile@11f73365[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49661): Authentication servers are down. Please try again later, sorry!
+[16:49:54] [User Authenticator #50/ERROR]: Couldn't verify username because servers are unavailable
+[16:50:37] [User Authenticator #52/INFO]: Disconnecting com.mojang.authlib.GameProfile@1114de59[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49677): Authentication servers are down. Please try again later, sorry!
+[16:50:37] [User Authenticator #52/ERROR]: Couldn't verify username because servers are unavailable
+[16:50:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@1114de59[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49677) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:50:54] [User Authenticator #53/INFO]: Disconnecting com.mojang.authlib.GameProfile@7c551a3a[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49686): Authentication servers are down. Please try again later, sorry!
+[16:50:54] [User Authenticator #53/ERROR]: Couldn't verify username because servers are unavailable
+[16:50:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@7c551a3a[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49686) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:51:14] [User Authenticator #54/INFO]: Disconnecting com.mojang.authlib.GameProfile@16b6ebc3[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49692): Authentication servers are down. Please try again later, sorry!
+[16:51:14] [User Authenticator #54/ERROR]: Couldn't verify username because servers are unavailable
+[16:51:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@16b6ebc3[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49692) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:52:05] [User Authenticator #55/INFO]: Disconnecting com.mojang.authlib.GameProfile@1ca1d198[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49702): Authentication servers are down. Please try again later, sorry!
+[16:52:05] [User Authenticator #55/ERROR]: Couldn't verify username because servers are unavailable
+[16:52:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ca1d198[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:49702) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:56:12] [User Authenticator #56/INFO]: Disconnecting com.mojang.authlib.GameProfile@23f8a977[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49722): Authentication servers are down. Please try again later, sorry!
+[16:56:12] [User Authenticator #56/ERROR]: Couldn't verify username because servers are unavailable
+[16:56:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@23f8a977[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49722) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:56:48] [User Authenticator #57/INFO]: Disconnecting com.mojang.authlib.GameProfile@65eb70a1[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49728): Authentication servers are down. Please try again later, sorry!
+[16:56:48] [User Authenticator #57/ERROR]: Couldn't verify username because servers are unavailable
+[16:56:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@65eb70a1[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49728) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:01:33] [User Authenticator #58/INFO]: Disconnecting com.mojang.authlib.GameProfile@6cb567e7[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49757): Authentication servers are down. Please try again later, sorry!
+[17:01:33] [User Authenticator #58/ERROR]: Couldn't verify username because servers are unavailable
+[17:01:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@6cb567e7[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49757) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:22:25] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@65f7b29e[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:49860): Took too long to log in
+[17:22:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@65f7b29e[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:49860) lost connection: Took too long to log in
+[17:22:27] [User Authenticator #59/INFO]: Disconnecting com.mojang.authlib.GameProfile@65f7b29e[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:49860): Authentication servers are down. Please try again later, sorry!
+[17:22:27] [User Authenticator #59/ERROR]: Couldn't verify username because servers are unavailable
+[17:22:58] [User Authenticator #60/INFO]: Disconnecting com.mojang.authlib.GameProfile@657899[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:49865): Authentication servers are down. Please try again later, sorry!
+[17:22:58] [User Authenticator #60/ERROR]: Couldn't verify username because servers are unavailable
+[17:22:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@657899[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:49865) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:26:55] [User Authenticator #61/INFO]: Disconnecting com.mojang.authlib.GameProfile@4ad55cfe[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49896): Authentication servers are down. Please try again later, sorry!
+[17:26:55] [User Authenticator #61/ERROR]: Couldn't verify username because servers are unavailable
+[17:26:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ad55cfe[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:49896) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[17:46:47] [Thread-18/INFO]: --------------------
+[17:46:47] [Thread-18/INFO]: [CoreProtect] Version 19.2 is now available.
+[17:46:47] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[17:46:47] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[17:46:47] [Thread-18/INFO]: --------------------
+[17:51:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@1285807c[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:50023) lost connection: Disconnected
+[17:51:45] [User Authenticator #62/INFO]: Disconnecting com.mojang.authlib.GameProfile@1285807c[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:50023): Authentication servers are down. Please try again later, sorry!
+[17:51:45] [User Authenticator #62/ERROR]: Couldn't verify username because servers are unavailable
+[17:57:29] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@38a51c46[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50068): Took too long to log in
+[17:57:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@38a51c46[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50068) lost connection: Took too long to log in
+[17:57:33] [User Authenticator #63/INFO]: Disconnecting com.mojang.authlib.GameProfile@38a51c46[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50068): Authentication servers are down. Please try again later, sorry!
+[17:57:33] [User Authenticator #63/ERROR]: Couldn't verify username because servers are unavailable
+[17:57:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@24284518[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50077) lost connection: Disconnected
+[17:57:52] [User Authenticator #64/INFO]: Disconnecting com.mojang.authlib.GameProfile@24284518[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50077): Authentication servers are down. Please try again later, sorry!
+[17:57:52] [User Authenticator #64/ERROR]: Couldn't verify username because servers are unavailable
+[17:57:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a10a781[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50080) lost connection: Disconnected
+[18:02:16] [User Authenticator #65/INFO]: Disconnecting com.mojang.authlib.GameProfile@521c794a[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:50098): Authentication servers are down. Please try again later, sorry!
+[18:02:16] [User Authenticator #65/ERROR]: Couldn't verify username because servers are unavailable
+[18:02:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@521c794a[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:50098) lost connection: Authentication servers are down. Please try again later, sorry!
+[18:03:17] [User Authenticator #66/INFO]: Disconnecting com.mojang.authlib.GameProfile@29840e85[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:50109): Authentication servers are down. Please try again later, sorry!
+[18:03:17] [User Authenticator #66/ERROR]: Couldn't verify username because servers are unavailable
+[18:03:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@29840e85[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:50109) lost connection: Authentication servers are down. Please try again later, sorry!
+[18:06:34] [User Authenticator #67/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[18:06:34] [Server thread/INFO]: Crushxl[/127.0.0.1:50134] logged in with entity id 1093 at ([world]2675.260027435743, 100.05451074623315, -471.028320990292)
+[18:07:19] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[18:07:19] [Server thread/INFO]: Crushxl left the game
+[18:07:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@357d6b0f[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:50157) lost connection: Disconnected
+[18:07:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@7968287[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:50159) lost connection: Disconnected
+[18:07:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@39848db8[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:50160) lost connection: Disconnected
+[18:07:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c5a3ae8[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:50161) lost connection: Disconnected
+[18:08:24] [User Authenticator #68/INFO]: Disconnecting com.mojang.authlib.GameProfile@296a9f23[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50166): Authentication servers are down. Please try again later, sorry!
+[18:08:24] [User Authenticator #68/ERROR]: Couldn't verify username because servers are unavailable
+[18:08:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@296a9f23[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50166) lost connection: Authentication servers are down. Please try again later, sorry!
+[18:08:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@3221017f[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50173) lost connection: Disconnected
+[18:09:07] [User Authenticator #70/INFO]: Disconnecting com.mojang.authlib.GameProfile@695d2d72[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50175): Authentication servers are down. Please try again later, sorry!
+[18:09:07] [User Authenticator #70/ERROR]: Couldn't verify username because servers are unavailable
+[18:09:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@695d2d72[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50175) lost connection: Authentication servers are down. Please try again later, sorry!
+[18:09:43] [User Authenticator #71/INFO]: Disconnecting com.mojang.authlib.GameProfile@3485a711[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50181): Authentication servers are down. Please try again later, sorry!
+[18:09:43] [User Authenticator #71/ERROR]: Couldn't verify username because servers are unavailable
+[18:09:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@3485a711[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50181) lost connection: Authentication servers are down. Please try again later, sorry!
+[18:10:04] [User Authenticator #72/INFO]: Disconnecting com.mojang.authlib.GameProfile@1424f3a9[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50184): Authentication servers are down. Please try again later, sorry!
+[18:10:04] [User Authenticator #72/ERROR]: Couldn't verify username because servers are unavailable
+[18:10:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@1424f3a9[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:50184) lost connection: Authentication servers are down. Please try again later, sorry!
+[18:16:15] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[18:44:00] [User Authenticator #73/INFO]: Disconnecting com.mojang.authlib.GameProfile@2246c457[id=<null>,name=jason_ji,properties={},legacy=false] (/127.0.0.1:50368): Authentication servers are down. Please try again later, sorry!
+[18:44:00] [User Authenticator #73/ERROR]: Couldn't verify username because servers are unavailable
+[18:44:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@2246c457[id=<null>,name=jason_ji,properties={},legacy=false] (/127.0.0.1:50368) lost connection: Authentication servers are down. Please try again later, sorry!
+[18:44:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@660a7f42[id=<null>,name=jason_ji,properties={},legacy=false] (/127.0.0.1:50373) lost connection: Disconnected
+[18:44:38] [User Authenticator #74/INFO]: Disconnecting com.mojang.authlib.GameProfile@660a7f42[id=<null>,name=jason_ji,properties={},legacy=false] (/127.0.0.1:50373): Authentication servers are down. Please try again later, sorry!
+[18:44:38] [User Authenticator #74/ERROR]: Couldn't verify username because servers are unavailable
+[18:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[19:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[20:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[21:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[22:16:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c9bdd72[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:51668) lost connection: Disconnected
+[22:16:40] [User Authenticator #75/INFO]: Disconnecting com.mojang.authlib.GameProfile@6b46115d[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:51670): Authentication servers are down. Please try again later, sorry!
+[22:16:40] [User Authenticator #75/ERROR]: Couldn't verify username because servers are unavailable
+[22:16:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@6b46115d[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:51670) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:25:54] [User Authenticator #76/INFO]: Disconnecting com.mojang.authlib.GameProfile@4a3d592a[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:51721): Authentication servers are down. Please try again later, sorry!
+[22:25:54] [User Authenticator #76/ERROR]: Couldn't verify username because servers are unavailable
+[22:25:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@4a3d592a[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:51721) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[23:03:12] [User Authenticator #77/INFO]: Disconnecting com.mojang.authlib.GameProfile@6ceadc03[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:51915): Authentication servers are down. Please try again later, sorry!
+[23:03:12] [User Authenticator #77/ERROR]: Couldn't verify username because servers are unavailable
+[23:03:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ceadc03[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:51915) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:03:32] [User Authenticator #78/INFO]: Disconnecting com.mojang.authlib.GameProfile@dbe8aa1[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:51919): Authentication servers are down. Please try again later, sorry!
+[23:03:32] [User Authenticator #78/ERROR]: Couldn't verify username because servers are unavailable
+[23:03:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@dbe8aa1[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:51919) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:04:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@1eb47d70[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:51928) lost connection: Disconnected
+[23:04:09] [User Authenticator #79/INFO]: Disconnecting com.mojang.authlib.GameProfile@1eb47d70[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:51928): Authentication servers are down. Please try again later, sorry!
+[23:04:09] [User Authenticator #79/ERROR]: Couldn't verify username because servers are unavailable
+[23:15:46] [User Authenticator #80/INFO]: Disconnecting com.mojang.authlib.GameProfile@5443b701[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:51992): Authentication servers are down. Please try again later, sorry!
+[23:15:46] [User Authenticator #80/ERROR]: Couldn't verify username because servers are unavailable
+[23:15:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@5443b701[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:51992) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:16:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ed4b54c[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:51998) lost connection: Disconnected
+[23:16:22] [User Authenticator #81/INFO]: Disconnecting com.mojang.authlib.GameProfile@5ed4b54c[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:51998): Authentication servers are down. Please try again later, sorry!
+[23:16:22] [User Authenticator #81/ERROR]: Couldn't verify username because servers are unavailable
+[23:21:54] [User Authenticator #82/INFO]: Disconnecting com.mojang.authlib.GameProfile@6a5d455d[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:52029): Authentication servers are down. Please try again later, sorry!
+[23:21:54] [User Authenticator #82/ERROR]: Couldn't verify username because servers are unavailable
+[23:21:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a5d455d[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:52029) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:22:13] [User Authenticator #83/INFO]: Disconnecting com.mojang.authlib.GameProfile@6f185f93[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:52032): Authentication servers are down. Please try again later, sorry!
+[23:22:13] [User Authenticator #83/ERROR]: Couldn't verify username because servers are unavailable
+[23:22:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@6f185f93[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:52032) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m

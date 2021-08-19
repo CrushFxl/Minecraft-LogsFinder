@@ -1,0 +1,2514 @@
+[18:36:41] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[18:36:41] [Server thread/INFO]: Loading properties
+[18:36:41] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[18:36:41] [Server thread/INFO]: Debug logging is disabled
+[18:36:41] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[18:36:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:36:41] [Server thread/INFO]: Default game type: SURVIVAL
+[18:36:41] [Server thread/INFO]: Generating keypair
+[18:36:41] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[18:36:41] [Server thread/INFO]: Using default channel type
+[18:36:42] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[18:36:44] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[18:36:44] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[18:36:44] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[18:36:44] [Server thread/WARN]: Legacy plugin PlayerPoints v1.7.1 does not specify an api-version.
+[18:36:44] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[18:36:44] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[18:36:44] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[18:36:44] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[18:36:44] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[18:36:44] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[18:36:44] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[18:36:44] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[18:36:44] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[18:36:44] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[18:36:44] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v1.7.1
+[18:36:44] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[18:36:44] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[18:36:44] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[18:36:44] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[18:36:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:36:44] [Server thread/INFO]: Preparing level "world"
+[18:36:44] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[18:36:49] [Server thread/INFO]: Loaded 6 recipes
+[18:36:50] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:36:50] [Server thread/INFO]: View Distance: 12
+[18:36:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Experience Merge Radius: 8.0
+[18:36:50] [Server thread/INFO]: Mob Spawn Range: 4
+[18:36:50] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[18:36:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:36:50] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[18:36:50] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[18:36:50] [Server thread/INFO]: Max TNT Explosions: 100
+[18:36:50] [Server thread/INFO]: Item Merge Radius: 8.0
+[18:36:50] [Server thread/INFO]: Item Despawn Rate: 3000
+[18:36:50] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[18:36:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:36:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[18:36:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:36:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:36:50] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:36:50] [Server thread/INFO]: View Distance: 12
+[18:36:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Experience Merge Radius: 8.0
+[18:36:50] [Server thread/INFO]: Mob Spawn Range: 4
+[18:36:50] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[18:36:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:36:50] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[18:36:50] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[18:36:50] [Server thread/INFO]: Max TNT Explosions: 100
+[18:36:50] [Server thread/INFO]: Item Merge Radius: 8.0
+[18:36:50] [Server thread/INFO]: Item Despawn Rate: 3000
+[18:36:50] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[18:36:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:36:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[18:36:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:36:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:36:50] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:36:50] [Server thread/INFO]: View Distance: 12
+[18:36:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:36:50] [Server thread/INFO]: Experience Merge Radius: 8.0
+[18:36:50] [Server thread/INFO]: Mob Spawn Range: 4
+[18:36:50] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[18:36:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:36:50] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[18:36:50] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[18:36:50] [Server thread/INFO]: Max TNT Explosions: 100
+[18:36:50] [Server thread/INFO]: Item Merge Radius: 8.0
+[18:36:50] [Server thread/INFO]: Item Despawn Rate: 3000
+[18:36:50] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[18:36:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:36:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[18:36:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:36:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:36:50] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[18:36:50] [Server thread/INFO]: Preparing spawn area: 0%
+[18:36:50] [Server thread/INFO]: Preparing spawn area: 45%
+[18:36:51] [Server thread/INFO]: Preparing spawn area: 100%
+[18:36:51] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[18:36:51] [Server thread/INFO]: Time elapsed: 1182 ms
+[18:36:51] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[18:36:51] [Server thread/INFO]: Preparing spawn area: 0%
+[18:36:51] [Server thread/INFO]: Preparing spawn area: 100%
+[18:36:52] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[18:36:52] [Server thread/INFO]: Time elapsed: 718 ms
+[18:36:52] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[18:36:52] [Server thread/INFO]: Preparing spawn area: 0%
+[18:36:52] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[18:36:52] [Server thread/INFO]: Time elapsed: 462 ms
+[18:36:52] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[18:36:52] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[18:36:52] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[18:36:52] [Server thread/INFO]: --------------------
+[18:36:52] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[18:36:52] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[18:36:52] [Server thread/INFO]: --------------------
+[18:36:52] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[18:36:52] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[18:36:52] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[18:36:52] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[18:36:52] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[18:36:52] [Server thread/INFO]:  
+[18:36:52] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[18:36:52] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[18:36:52] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[18:36:52] [Server thread/INFO]:  
+[18:36:52] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[18:36:52] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[18:36:53] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose start
+[18:36:53] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose synched
+[18:36:53] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose script done
+[18:36:53] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose end
+[18:36:53] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[18:36:53] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[18:36:54] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[18:36:54] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[18:36:54] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[18:36:54] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[18:36:54] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[18:36:54] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[18:36:54] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[18:36:54] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[18:36:54] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[18:36:54] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[18:36:54] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[18:36:54] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[18:36:54] [Server thread/INFO]: [EntityTrackerFixer] Vault not found! using default permission system...
+[18:36:54] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[18:36:54] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[18:36:54] [Server thread/INFO]: [SAML] Loading config.yml...
+[18:36:54] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[18:36:54] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[18:36:54] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[18:36:54] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[18:36:54] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[18:36:54] [Server thread/INFO]: [SAML] Loading messages.yml...
+[18:36:54] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[18:36:54] [Server thread/INFO]: [SAML] Successfully enabled.
+[18:36:54] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5*
+[18:36:54] [Server thread/INFO]: [ChatC] 聊天管理插件已启用！
+[18:36:54] [Server thread/INFO]: [ChatC] 聊天管理插件当前版本：V0.5 （2017年8月24日）
+[18:36:54] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[18:36:54] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v1.7.1*
+[18:36:54] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0*
+[18:36:54] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[18:36:54] [Server thread/INFO]: [GM+] Checking Your version...
+[18:36:54] [Server thread/INFO]: ===============================
+[18:36:54] [Server thread/INFO]: 
+[18:36:54] [Server thread/INFO]:  GroupManager+ is now enable!
+[18:36:54] [Server thread/INFO]:  
+[18:36:54] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[18:36:54] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[18:36:54] [Server thread/INFO]:  Current version: v3.3
+[18:36:54] [Server thread/INFO]:  
+[18:36:54] [Server thread/INFO]: ===============================
+[18:36:54] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[18:36:54] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[18:36:54] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[18:36:54] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[18:36:54] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[18:36:54] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1*
+[18:36:54] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[18:36:54] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[18:36:54] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[18:36:54] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[18:36:54] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[18:37:15] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[18:37:15] [Server thread/INFO]: [TAB] Enabled in 21032ms
+[18:37:15] [Server thread/INFO]: Done (31.521s)! For help, type "help"
+[18:37:15] [Server thread/INFO]: Timings Reset
+[18:37:15] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[18:37:15] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[18:37:17] [Craft Scheduler Thread - 5/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[18:37:17] [Craft Scheduler Thread - 5/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[18:37:18] [Thread-18/INFO]: --------------------
+[18:37:18] [Thread-18/INFO]: [CoreProtect] Version 19.0 is now available.
+[18:37:18] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[18:37:18] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[18:37:18] [Thread-18/INFO]: --------------------
+[18:53:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@5d68230e[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51688) lost connection: Disconnected
+[18:53:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f5cf954[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51691) lost connection: Disconnected
+[18:53:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@2987a998[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51693) lost connection: Disconnected
+[18:54:39] [User Authenticator #1/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[18:54:39] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[18:54:39] [Server thread/INFO]: Xin_Sai[/127.0.0.1:51706] logged in with entity id 864 at ([world]2819.4158525465778, 63.007968959854324, -304.1858746715635)
+[18:56:54] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[18:59:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f97296c[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51751) lost connection: Disconnected
+[18:59:20] [User Authenticator #2/INFO]: Disconnecting /127.0.0.1:51753: Failed to verify username!
+[18:59:20] [User Authenticator #2/ERROR]: Username '_YuanXiao_' tried to join with an invalid session
+[18:59:20] [Server thread/INFO]: /127.0.0.1:51753 lost connection: Failed to verify username!
+[18:59:28] [User Authenticator #2/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[18:59:28] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:51759] logged in with entity id 2907 at ([world_the_end]19712.30000001192, 58.0, -7117.300000011921)
+[18:59:35] [Server thread/INFO]: Xin_Sai >> 元宵！
+[19:00:16] [Server thread/INFO]: Xin_Sai >> 元宵你知道谁把海晶神兽打死的
+[19:00:28] [Server thread/INFO]: _YuanXiao_ >> 我一直在末地
+[19:00:43] [Server thread/INFO]: _YuanXiao_ >> 谢谢你心塞
+[19:00:52] [Server thread/INFO]: Xin_Sai >> ?
+[19:01:02] [Server thread/INFO]: _YuanXiao_ >> 刚刚和你说话
+[19:01:11] [Server thread/INFO]: Xin_Sai >> ？？
+[19:01:20] [Server thread/INFO]: _YuanXiao_ >> 刚好看见一艘末地船
+[19:01:28] [Server thread/INFO]: Xin_Sai >> .
+[19:01:37] [Server thread/INFO]: _YuanXiao_ >> 如果你不和我说话，我可能就拐弯了
+[19:01:45] [Server thread/INFO]: Xin_Sai >> 哈哈
+[19:01:53] [Server thread/INFO]: Xin_Sai >> !!1
+[19:02:02] [Server thread/INFO]: Xin_Sai >> 我找到附魔金苹果了
+[19:02:31] [Server thread/WARN]: _YuanXiao_ moved too quickly! -2.4653633776470087,-4.795703681694249,-17.919765507197553
+[19:02:37] [Server thread/INFO]: Xin_Sai >> 一个附魔金可以和一个鞘翅等价
+[19:03:20] [Server thread/INFO]: Xin_Sai >> 对了元宵你有青金石么、
+[19:03:40] [Server thread/INFO]: Xin_Sai >> qwq
+[19:05:12] [Server thread/INFO]: _YuanXiao_ >> 谢谢你心塞
+[19:05:59] [Server thread/INFO]: _YuanXiao_ >> 如果你刚刚不和我说话我就找不到刚刚的鞘翅
+[19:05:59] [Server thread/INFO]: Xin_Sai >> 如果你谢我你就给我一组火药吧qwq
+[19:06:16] [Server thread/INFO]: _YuanXiao_ >> 而且我在刚刚又找到了一个鞘翅awa
+[19:06:29] [Server thread/INFO]: Xin_Sai >> 我觉得你应该向右转
+[19:06:43] [Server thread/INFO]: _YuanXiao_ >> 好嘞
+[19:06:54] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[19:07:06] [Server thread/INFO]: Xin_Sai >> 对了元宵你有青金石么、
+[19:07:14] [Server thread/INFO]: _YuanXiao_ >> 没有
+[19:11:56] [Server thread/INFO]: _YuanXiao_ >> Xin_Sai我谢谢你
+[19:12:10] [Server thread/INFO]: _YuanXiao_ >> 刚刚想修一下鞘翅。
+[19:12:21] [Server thread/INFO]: _YuanXiao_ >> 刚落地，末地船
+[19:16:57] [Server thread/INFO]: TPS from last 1m, 5m, 15m: *20.0, *20.0, *20.0
+[19:23:56] [User Authenticator #3/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[19:23:56] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:52037] logged in with entity id 26952 at ([world]2690.212359131023, 134.0, -390.2169606794243)
+[19:24:07] [Server thread/INFO]: _YuanXiao_ >> 森语！！！
+[19:24:12] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[19:24:18] [Server thread/INFO]: _YuanXiao_ >> 我找到3个鞘翅了
+[19:24:25] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 哦
+[19:24:27] [Server thread/INFO]: _YuanXiao_ >> 5分钟之内
+[19:24:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 建议再来一次
+[19:25:57] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[19:25:57] [Server thread/INFO]: Xin_Sai left the game
+[19:26:04] [User Authenticator #4/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[19:26:04] [Server thread/INFO]: Xin_Sai[/127.0.0.1:52058] logged in with entity id 29112 at ([world]2757.2863115178952, 63.5, -419.5640688817148)
+[19:26:22] [Server thread/INFO]: Xin_Sai >> 这 。。怎么关小地图
+[19:26:29] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[19:26:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> m
+[19:26:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 选项
+[19:26:54] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[19:27:02] [Server thread/INFO]: _YuanXiao_ >> Xin_Sai快点提示我该怎么走
+[19:27:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你们这是在用种子找？
+[19:27:28] [Server thread/INFO]: _YuanXiao_ >> bushi
+[19:27:36] [User Authenticator #5/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[19:27:36] [Server thread/INFO]: Auston_mc[/127.0.0.1:52074] logged in with entity id 32275 at ([world]2777.3746999410373, 63.0, -400.2148606292279)
+[19:27:58] [Server thread/INFO]: Xin_Sai >> sen这里有个村民迟迟不补货 建议打打
+[19:28:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> = =
+[19:28:08] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啥职业
+[19:28:19] [Server thread/INFO]: Xin_Sai >> 术士
+[19:28:25] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你要= =
+[19:28:28] [Server thread/INFO]: Xin_Sai >> en
+[19:28:32] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 白天才补货
+[19:28:46] [Server thread/INFO]: Xin_Sai >> 不是。。 他一直不补货
+[19:29:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 之前有几个也是
+[19:29:03] [Server thread/INFO]: _YuanXiao_ >> 又找到了！！！
+[19:29:05] [Server thread/INFO]: Auston_mc >> 哪里有钻剑卖
+[19:29:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> Auston_mc
+[19:29:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你是海晶的么
+[19:29:36] [Server thread/INFO]: _YuanXiao_ >> 他是
+[19:29:41] [Server thread/INFO]: Auston_mc >> 梦曦城
+[19:29:43] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 所以箱子里拿啊
+[19:29:45] [Server thread/INFO]: _YuanXiao_ >> ...
+[19:29:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[19:29:56] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 一个头
+[19:30:08] [Server thread/INFO]: Xin_Sai >> sen 可以用附魔金苹果做门禁卡么
+[19:30:08] [Server thread/INFO]: Auston_mc >> 哪个箱子？
+[19:30:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不行
+[19:30:41] [Server thread/INFO]: Xin_Sai >> 这样门禁卡就不会乱丢了
+[19:30:43] [Server thread/INFO]: Xin_Sai >> a.a
+[19:30:48] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ohhh
+[19:30:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 又一个头
+[19:31:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 再来个继续打凋零
+[19:31:39] [Server thread/WARN]: _YuanXiao_ moved too quickly! 33.69201836398679,-2.0060537151584867,-9.492498211773636
+[19:31:41] [Server thread/INFO]: Xin_Sai >> 只能一个绿换1个青 不能骨折
+[19:32:04] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 对啊
+[19:32:36] [Server thread/INFO]: Xin_Sai >> 总感觉亏，但是好像能用绿解决的就不是问题
+[19:32:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 嗯
+[19:32:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你放心换
+[19:33:02] [Server thread/INFO]: Xin_Sai >> 话说sen你还要你的信标么
+[19:33:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[19:33:11] [Server thread/INFO]: Xin_Sai >> 我一直给你收着呢
+[19:33:25] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 那个信标我是拆的哪里的来着
+[19:33:26] [Server thread/WARN]: Auston_mc was kicked for floating too long!
+[19:33:26] [Server thread/INFO]: Auston_mc lost connection: Flying is not enabled on this server
+[19:33:26] [Server thread/INFO]: Auston_mc left the game
+[19:33:26] [Server thread/WARN]: handleDisconnection() called twice
+[19:33:35] [User Authenticator #6/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[19:33:35] [Server thread/INFO]: Auston_mc[/127.0.0.1:52131] logged in with entity id 40065 at ([world]2763.570654341497, 63.18727401520887, -382.59260259257735)
+[19:33:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 等会儿找你要
+[19:34:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 然后我把几个信标放在一起
+[19:34:24] [Server thread/INFO]: Xin_Sai >> 其他术士补货效率感人 就他 连腐肉换绿都不换
+[19:35:48] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[19:35:48] [Server thread/INFO]: Auston_mc left the game
+[19:36:38] [User Authenticator #7/INFO]: Disconnecting com.mojang.authlib.GameProfile@6429cb19[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:52163): Authentication servers are down. Please try again later, sorry!
+[19:36:38] [User Authenticator #7/ERROR]: Couldn't verify username because servers are unavailable
+[19:36:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@6429cb19[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:52163) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:36:49] [User Authenticator #8/INFO]: Disconnecting com.mojang.authlib.GameProfile@2831ce7a[id=<null>,name=B_lastmess,properties={},legacy=false] (/127.0.0.1:52168): Authentication servers are down. Please try again later, sorry!
+[19:36:49] [User Authenticator #8/ERROR]: Couldn't verify username because servers are unavailable
+[19:36:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@2831ce7a[id=<null>,name=B_lastmess,properties={},legacy=false] (/127.0.0.1:52168) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:36:51] [User Authenticator #7/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[19:36:51] [Server thread/INFO]: Auston_mc[/127.0.0.1:52177] logged in with entity id 44926 at ([world]2756.8278677208477, 63.0, -400.6466149998271)
+[19:36:54] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[19:37:14] [Server thread/WARN]: Auston_mc moved too quickly! -9.768047144671073,0.5448140555330596,2.850799200907659
+[19:37:15] [Server thread/INFO]: [公告] [活动·这是我的战争] 现已开放报名，详见群内公告 
+[19:37:22] [User Authenticator #7/INFO]: UUID of player B_lastmess is 908a5f03-1809-4582-bb33-4d411a859fcb
+[19:37:23] [Server thread/INFO]: B_lastmess[/127.0.0.1:52182] logged in with entity id 45148 at ([world]2729.54555867144, 75.0, -174.98475517519)
+[19:37:28] [Server thread/INFO]: Xin_Sai >> sen 你打周末活动么
+[19:37:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 憨明来了
+[19:37:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 没报名
+[19:37:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不会
+[19:37:41] [Server thread/INFO]: <管理> B_lastmess >> 阿巴阿巴
+[19:37:46] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 起床
+[19:37:47] [Server thread/INFO]: Xin_Sai >> 我不打233
+[19:37:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 只会
+[19:37:57] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 赖床
+[19:38:11] [Server thread/INFO]: <管理> B_lastmess >> hhh
+[19:38:19] [Server thread/INFO]: <管理> B_lastmess >> 海晶神兽无了
+[19:38:23] [Server thread/INFO]: <管理> B_lastmess >> 呜呜呜
+[19:38:23] [Server thread/INFO]: Xin_Sai >> 233
+[19:38:25] [Server thread/WARN]: Auston_mc moved too quickly! -0.2592649103403346,2.352649571483248,-10.45480100042954
+[19:38:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 憨明有凋零骷髅头不
+[19:38:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 举报啊
+[19:38:31] [Server thread/INFO]: <管理> B_lastmess >> 没得
+[19:38:35] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 谁砍的
+[19:38:36] [Server thread/INFO]: <管理> B_lastmess >> 有僵尸头（
+[19:38:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> - -
+[19:38:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 刚刚连掉两个
+[19:38:50] [Server thread/INFO]: B_lastmess issued server command: /co l a:kill a:3
+[19:38:59] [Server thread/INFO]: B_lastmess issued server command: /co l a:kill a:3
+[19:38:59] [Server thread/INFO]: _YuanXiao_ >> 我找到6个鞘翅了！！！
+[19:39:14] [Server thread/INFO]: B_lastmess issued server command: /co l a:kill r:3
+[19:39:23] [Server thread/INFO]: <管理> B_lastmess >> az
+[19:39:25] [Server thread/INFO]: Xin_Sai >> 我觉得你应该往左了
+[19:39:33] [Server thread/INFO]: _YuanXiao_ >> 好嘞
+[19:39:37] [Server thread/INFO]: <管理> B_lastmess >> 铁傀儡杀的就离谱（（
+[19:39:47] [Server thread/INFO]: Auston_mc >> 可以帮我找点潜影盒吗？元宵
+[19:39:53] [Server thread/INFO]: _YuanXiao_ >> 可以
+[19:39:56] [Server thread/WARN]: _YuanXiao_ moved too quickly! -13.618269540958863,-2.85697001956558,-27.266141224061357
+[19:39:58] [Server thread/INFO]: Auston_mc >> XD
+[19:40:11] [Server thread/INFO]: Xin_Sai >> 憨明你家在哪？
+[19:40:23] [Server thread/INFO]: Auston_mc >> 末地的bug太可怕了
+[19:40:25] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我家后面
+[19:40:31] [Server thread/INFO]: _YuanXiao_ >> cao
+[19:40:36] [Server thread/INFO]: Added yi_p to the whitelist
+[19:40:36] [Server thread/INFO]: Auston_mc >> ?
+[19:40:39] [Server thread/INFO]: _YuanXiao_ >> 我的ping啊
+[19:40:55] [Server thread/INFO]: Auston_mc >> 习惯就好
+[19:41:03] [Server thread/WARN]: Auston_mc moved too quickly! -1650.872691023744,15.837858578973012,-233.51715469233156
+[19:41:03] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[19:41:03] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[19:41:09] [Server thread/INFO]: _YuanXiao_ >> 但还是一如既往的流畅
+[19:41:19] [Server thread/INFO]: Auston_mc >> mc不吃延迟
+[19:41:26] [Server thread/INFO]: <管理> B_lastmess >> 赖床（
+[19:41:28] [Server thread/INFO]: Xin_Sai >> !
+[19:41:35] [Server thread/INFO]: Xin_Sai >> !!1
+[19:41:51] [Server thread/INFO]: Xin_Sai >> 太鬼畜了
+[19:42:17] [Server thread/INFO]: Xin_Sai >> 不愧是山顶洞人
+[19:42:48] [Server thread/INFO]: Xin_Sai >> 啊这
+[19:42:55] [Server thread/WARN]: Auston_mc moved too quickly! 0.02155135890822102,-0.012500047683698945,28.47130336485104
+[19:42:56] [Server thread/INFO]: <管理> B_lastmess >> 大胆想法（
+[19:42:57] [Server thread/WARN]: Auston_mc moved too quickly! 0.08432392547567957,0.0,10.128368464181676
+[19:43:07] [Server thread/INFO]: Xin_Sai >> 我能上你的床么
+[19:43:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[19:43:12] [Server thread/INFO]: <管理> B_lastmess >> 可以（
+[19:43:14] [Server thread/INFO]: Xin_Sai >> !
+[19:43:18] [Server thread/WARN]: Auston_mc moved too quickly! 0.004407502966328636,0.0,13.302917714564728
+[19:43:18] [Server thread/INFO]: _YuanXiao_ >> Xin_Sai找是找到了，可是没有船
+[19:43:27] [Server thread/INFO]: <管理> B_lastmess >> 衣服脱了（
+[19:43:32] [Server thread/INFO]: Xin_Sai >> !
+[19:43:38] [Server thread/INFO]: Xin_Sai >> e
+[19:43:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 脱完
+[19:43:45] [Server thread/INFO]: Xin_Sai >> 我躺地上了
+[19:43:58] [User Authenticator #9/INFO]: UUID of player Envy_Cloud is c5f83320-e8be-418f-81c1-e1f3ea1f99d5
+[19:43:58] [Server thread/INFO]: Envy_Cloud[/127.0.0.1:52244] logged in with entity id 50713 at ([world_nether]381.50132971541694, 115.0625, 60.60820208558273)
+[19:44:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ohhhhh
+[19:44:07] [Server thread/INFO]: <管理> B_lastmess >> (((
+[19:44:11] [Server thread/INFO]: Xin_Sai >> !
+[19:44:26] [Server thread/INFO]: Xin_Sai >> 给你看我的大宝贝
+[19:44:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 溜了溜了
+[19:44:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 骷髅打猪人
+[19:44:41] [Server thread/INFO]: _YuanXiao_ >> 大宝剑
+[19:44:45] [Server thread/INFO]: <管理> B_lastmess >> az
+[19:44:47] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 猪人找我来了
+[19:45:06] [Server thread/INFO]: <管理> B_lastmess >> 再给我用一下（
+[19:45:11] [Server thread/INFO]: Xin_Sai >> ?
+[19:45:23] [Server thread/INFO]: <管理> B_lastmess >> hhh
+[19:45:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 凋零
+[19:45:29] [Server thread/INFO]: Xin_Sai >> 你要吃我的大宝贝！
+[19:45:32] [Server thread/INFO]: <管理> B_lastmess >> (((
+[19:45:33] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 掉了
+[19:45:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 第三个
+[19:45:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 头
+[19:45:47] [Server thread/INFO]: <管理> B_lastmess >> 要打凋零？
+[19:45:58] [Server thread/INFO]: _YuanXiao_ >> 等我
+[19:46:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 今下午我都打了一个了
+[19:46:02] [Server thread/INFO]: <管理> B_lastmess >> 我也
+[19:46:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我一个人就行 - -
+[19:46:54] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[19:47:13] [Server thread/INFO]: [PlayerPoints] 玩家 HGhigh 目前有 40 贡献点数
+[19:47:50] [Server thread/WARN]: Xin_Sai moved wrongly!
+[19:48:44] [Server thread/INFO]: _YuanXiao_ >> Xin_Sai你的话不太灵了
+[19:49:38] [Server thread/INFO]: Xin_Sai >> 再换一组就够了
+[19:49:58] [User Authenticator #10/INFO]: UUID of player Shammaroth is 336373ac-91a9-41ed-bc50-3dcbb1e05a81
+[19:49:58] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2acfb427[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@42e2a2bd]},legacy=false] (/127.0.0.1:52296): 你还不在白名单噢 加入审核群1145301933 进行审核
+[19:49:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@2acfb427[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@42e2a2bd]},legacy=false] (/127.0.0.1:52296) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[19:50:00] [User Authenticator #10/INFO]: UUID of player HGhigh is 601024e8-d318-4d25-881d-fd0ad713fde3
+[19:50:00] [Server thread/INFO]: HGhigh[/127.0.0.1:52300] logged in with entity id 63034 at ([world_nether]336.40431417181185, 115.0, 5.737664815357304)
+[19:50:07] [Server thread/INFO]: HGhigh >> awa
+[19:50:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 3
+[19:50:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 2
+[19:50:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[19:50:18] [Server thread/INFO]: HGhigh >> ?
+[19:50:20] [Server thread/INFO]: Auston_mc >> 终于醒了？
+[19:50:22] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 召唤
+[19:50:26] [Server thread/INFO]: HGhigh >> ??
+[19:50:30] [Server thread/INFO]: Xin_Sai >> 猎杀时刻
+[19:50:39] [Server thread/INFO]: _YuanXiao_ >> Xin_Sai！！！
+[19:50:45] [Server thread/INFO]: _YuanXiao_ >> 我找到了
+[19:50:46] [Server thread/INFO]: Xin_Sai >> .
+[19:50:55] [Server thread/INFO]: _YuanXiao_ >> 别人找过的
+[19:51:00] [Server thread/INFO]: Xin_Sai >> ...
+[19:51:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 汵
+[19:51:08] [Server thread/INFO]: Auston_mc >> 那就把它拆了
+[19:51:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这凋零跑出来了
+[19:51:21] [Server thread/INFO]: HGhigh >> !
+[19:51:29] [Server thread/INFO]: HGhigh >> 我家被人改过了？
+[19:51:38] [Server thread/INFO]: HGhigh >> 门呢？？
+[19:51:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 直接站撸撸死
+[19:51:41] [Server thread/INFO]: HGhigh issued server command: /co i
+[19:51:42] [Server thread/INFO]: _YuanXiao_ >> hhh
+[19:51:47] [Server thread/INFO]: HGhigh issued server command: /co i
+[19:51:56] [Server thread/INFO]: HGhigh >> creeper L
+[19:52:14] [Server thread/INFO]: Xin_Sai >> 233
+[19:52:26] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[19:52:26] [Server thread/INFO]: Auston_mc left the game
+[19:53:02] [Server thread/INFO]: HGhigh >> 这硬是国际hyp的延迟
+[19:53:06] [Server thread/INFO]: <管理> B_lastmess >> 有人来山顶洞打工吗（
+[19:53:08] [Server thread/INFO]: HGhigh >> 服了
+[19:53:22] [Server thread/INFO]: _YuanXiao_ >> 我说话了吗
+[19:53:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 慕云
+[19:53:29] [Server thread/INFO]: HGhigh >> ...
+[19:53:35] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 玻璃给你送过去么
+[19:53:50] [User Authenticator #11/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[19:53:50] [Server thread/INFO]: adhesive_tape[/127.0.0.1:52332] logged in with entity id 71540 at ([world]4383.699999988079, 17.0, 3922.252653145027)
+[19:53:53] [Server thread/INFO]: HGhigh >> 好像打uhc
+[19:53:57] [Server thread/INFO]: HGhigh >> 好想打uhc
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:29] [Server thread/WARN]: 0312bf6d-a556-43da-80db-a1071ab56221 (vehicle of HGhigh) moved wrongly!
+[19:54:56] [Server thread/INFO]: HGhigh >> wtf我延迟
+[19:55:10] [Server thread/INFO]: HGhigh >> 我估计我玩起床要瞬移
+[19:55:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 自走虚空
+[19:55:19] [Server thread/INFO]: HGhigh >> 高ping展示
+[19:55:23] [Server thread/INFO]: HGhigh >> 高ping战士
+[19:55:27] [Server thread/INFO]: HGhigh >> auto void
+[19:56:25] [Server thread/INFO]: HGhigh issued server command: /p me
+[19:56:40] [User Authenticator #12/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[19:56:40] [Server thread/INFO]: Auston_mc[/127.0.0.1:52361] logged in with entity id 75252 at ([world_the_end]-8.699999988079071, 0.5, 309.54404486977404)
+[19:56:52] [Server thread/INFO]: <管理> B_lastmess >> 有人无聊吗（（（
+[19:56:54] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[19:57:01] [Server thread/INFO]: Auston_mc >> 我
+[19:57:10] [Server thread/INFO]: <管理> B_lastmess >> 来山顶洞开山（
+[19:57:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我去挖信标
+[19:57:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 心塞
+[19:57:25] [Server thread/INFO]: HGhigh >> 来平顶山开发
+[19:57:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 信标
+[19:57:37] [Server thread/INFO]: <管理> B_lastmess >> 平顶山在哪（
+[19:57:43] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 恶地
+[19:57:47] [Server thread/INFO]: Auston_mc >> 我来
+[19:57:50] [Server thread/INFO]: HGhigh >> 3143 -1463
+[19:58:04] [Server thread/INFO]: HGhigh >> 随便你们怎么建
+[19:58:10] [Server thread/INFO]: HGhigh >> 别动信标就行了
+[19:58:23] [Server thread/INFO]: <管理> B_lastmess >> 恶地啊（
+[19:58:25] [Server thread/INFO]: HGhigh >> en
+[19:58:26] [Server thread/INFO]: <管理> B_lastmess >> 那没事（
+[19:58:32] [Server thread/INFO]: HGhigh >> ??
+[19:58:43] [Server thread/INFO]: <管理> B_lastmess >> 平顶山（×）
+[19:58:48] [Server thread/INFO]: <管理> B_lastmess >> 金山（√）
+[19:58:48] [Server thread/INFO]: HGhigh >> L
+[19:58:52] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[19:58:52] [Server thread/INFO]: Auston_mc left the game
+[19:58:57] [Server thread/INFO]: HGhigh >> awa
+[19:59:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 心塞无了
+[19:59:06] [User Authenticator #13/INFO]: UUID of player Shammaroth is 336373ac-91a9-41ed-bc50-3dcbb1e05a81
+[19:59:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@21530e22[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@78b1ac8f]},legacy=false] (/127.0.0.1:52383): 你还不在白名单噢 加入审核群1145301933 进行审核
+[19:59:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@21530e22[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@78b1ac8f]},legacy=false] (/127.0.0.1:52383) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[19:59:15] [Server thread/INFO]: <管理> B_lastmess >> 心——塞——
+[19:59:20] [Server thread/INFO]: <管理> B_lastmess >> (((
+[20:00:56] [User Authenticator #14/INFO]: UUID of player Shammaroth is 336373ac-91a9-41ed-bc50-3dcbb1e05a81
+[20:00:56] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6fe44e73[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@54074f3b]},legacy=false] (/127.0.0.1:52402): 你还不在白名单噢 加入审核群1145301933 进行审核
+[20:00:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@6fe44e73[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@54074f3b]},legacy=false] (/127.0.0.1:52402) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[20:01:16] [User Authenticator #14/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[20:01:16] [Server thread/INFO]: Auston_mc[/127.0.0.1:52407] logged in with entity id 81800 at ([world]2768.5, 63.0000002, -392.5)
+[20:03:04] [Server thread/INFO]: Auston_mc >> 森语
+[20:03:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[20:03:37] [Server thread/INFO]: Auston_mc >> 北梦叫你带我去羊毛机那
+[20:03:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[20:03:50] [Server thread/INFO]: HGhigh lost connection: Disconnected
+[20:03:50] [Server thread/INFO]: HGhigh left the game
+[20:03:59] [Server thread/INFO]: Auston_mc >> ?
+[20:04:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 走啊
+[20:04:37] [Server thread/INFO]: Auston_mc >> 等一下
+[20:04:47] [Server thread/INFO]: Auston_mc >> 我把经验用了先
+[20:06:17] [Server thread/INFO]: <管理> B_lastmess >> 有人跟我练练pvp吗（
+[20:06:26] [Server thread/INFO]: <管理> B_lastmess >> 打死不用负责（
+[20:06:41] [Server thread/INFO]: Envy_Cloud lost connection: Timed out
+[20:06:41] [Server thread/INFO]: Envy_Cloud left the game
+[20:06:46] [Server thread/INFO]: <管理> B_lastmess >> 没有吗（
+[20:06:49] [Server thread/INFO]: Auston_mc >> 人呢？
+[20:07:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@4fa8e85b[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:52455) lost connection: Disconnected
+[20:07:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@22cd6506[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:52459) lost connection: Disconnected
+[20:07:29] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不会顶头跑？
+[20:08:06] [User Authenticator #15/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:08:06] [Server thread/INFO]: Bay_Max_[/127.0.0.1:52470] logged in with entity id 90421 at ([world]2739.341149324062, 63.0, -380.0905889057797)
+[20:08:16] [Server thread/INFO]: <管理> B_lastmess >> ohh
+[20:08:30] [Server thread/INFO]: Auston_mc >> 这个？
+[20:09:15] [Server thread/INFO]: <管理> B_lastmess >> 白佬pvp吗（
+[20:09:29] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 来鸭
+[20:09:41] [Server thread/INFO]: <管理> B_lastmess >> 来山顶洞（
+[20:09:52] [Server thread/INFO]: <管理> B_lastmess >> cao
+[20:10:05] [Server thread/INFO]: <管理> B_lastmess >> 这苦力怕
+[20:11:24] [Server thread/INFO]: <管理> B_lastmess >> 来楼上（
+[20:11:37] [Server thread/INFO]: <管理> B_lastmess >> 可以跑（
+[20:11:40] [Server thread/INFO]: <管理> B_lastmess >> 随便打（
+[20:11:49] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 为啥你的裤子这么别致（
+[20:11:49] [Server thread/INFO]: <管理> B_lastmess >> 3
+[20:11:51] [Server thread/INFO]: <管理> B_lastmess >> 2
+[20:11:53] [Server thread/INFO]: <管理> B_lastmess >> 1
+[20:11:54] [Server thread/INFO]: <管理> B_lastmess >> ks
+[20:12:17] [Server thread/INFO]: <管理> B_lastmess >> 呜呜呜（
+[20:12:22] [Server thread/INFO]: <管理> B_lastmess >> 太凶了
+[20:12:33] [Server thread/INFO]: <管理> B_lastmess >> 试试远程吧（（
+[20:12:33] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 阿巴...
+[20:12:48] [Server thread/INFO]: <管理> B_lastmess >> 我拿三叉戟（（
+[20:12:51] [Server thread/INFO]: <管理> B_lastmess >> 3
+[20:12:51] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 我都莫得远程（
+[20:12:53] [Server thread/INFO]: <管理> B_lastmess >> az
+[20:13:04] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 需要借三叉戟么
+[20:13:08] [Server thread/INFO]: <管理> B_lastmess >> 我去嫖点箭
+[20:13:23] [Server thread/INFO]: <管理> B_lastmess >> 我这有吧满配弩（
+[20:13:33] [Server thread/INFO]: <管理> B_lastmess >> 白佬用得惯么（
+[20:13:39] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 针男人就要打近战（
+[20:13:43] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> XD
+[20:13:46] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 需要借弩么
+[20:13:50] [Server thread/INFO]: <管理> B_lastmess >> 那就
+[20:14:04] [Server thread/INFO]: <管理> B_lastmess >> 拿木剑不穿甲（
+[20:14:09] [Server thread/INFO]: <管理> B_lastmess >> 行么
+[20:14:15] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 可以（
+[20:15:15] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 延迟醉了（
+[20:15:24] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 重进下阿巴（
+[20:15:25] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[20:15:25] [Server thread/INFO]: Bay_Max_ left the game
+[20:15:45] [User Authenticator #16/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:15:45] [Server thread/INFO]: Bay_Max_[/127.0.0.1:52549] logged in with entity id 97747 at ([world]2735.875350399052, 80.0, -193.06696600529526)
+[20:16:13] [Server thread/INFO]: <管理> B_lastmess >> 准备好了就开始（
+[20:16:31] [Server thread/INFO]: <管理> B_lastmess >> 就拿木剑吃的
+[20:16:34] [Server thread/INFO]: <管理> B_lastmess >> 和图腾（
+[20:16:40] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 来把
+[20:16:54] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[20:17:19] [Server thread/WARN]: Bay_Max_ was kicked for floating too long!
+[20:17:19] [Server thread/INFO]: Bay_Max_ lost connection: Flying is not enabled on this server
+[20:17:19] [Server thread/INFO]: Bay_Max_ left the game
+[20:17:19] [Server thread/WARN]: handleDisconnection() called twice
+[20:17:34] [User Authenticator #17/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:17:34] [Server thread/INFO]: Bay_Max_[/127.0.0.1:52565] logged in with entity id 100190 at ([world]2732.299999974668, 80.01357295587755, -192.70000002533197)
+[20:17:35] [Server thread/INFO]: <管理> B_lastmess >> az
+[20:18:00] [Server thread/INFO]: <管理> B_lastmess >> 好了么（
+[20:18:22] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 来
+[20:18:32] [Server thread/INFO]: <管理> B_lastmess >> ?
+[20:19:17] [Server thread/INFO]: <管理> B_lastmess >> ..
+[20:19:23] [Server thread/INFO]: [PlayerPoints] 玩家 North_dream 目前有 49 贡献点数
+[20:19:54] [Server thread/INFO]: <管理> B_lastmess >> wc
+[20:19:55] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[20:20:03] [Server thread/INFO]: <管理> B_lastmess >> 不行得白天
+[20:20:03] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> creeper yyds
+[20:20:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[20:20:12] [Server thread/INFO]: <管理> B_lastmess >> 得白天打（
+[20:20:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你们黑云不是有个竞技场么
+[20:20:53] [Server thread/INFO]: <管理> B_lastmess >> 那个也行
+[20:20:59] [Server thread/INFO]: <管理> B_lastmess >> 但其实很难玩
+[20:21:14] [Server thread/INFO]: <管理> B_lastmess >> 要去那么
+[20:21:22] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 走叭
+[20:21:24] [Server thread/INFO]: <管理> B_lastmess >> 照
+[20:21:26] [Server thread/INFO]: <管理> B_lastmess >> c
+[20:21:28] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[20:21:35] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> yyds....
+[20:21:42] [Server thread/INFO]: <管理> B_lastmess >> yyds
+[20:23:09] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[20:23:09] [Server thread/INFO]: Bay_Max_ left the game
+[20:23:14] [User Authenticator #18/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:23:15] [Server thread/INFO]: Bay_Max_[/127.0.0.1:52624] logged in with entity id 106831 at ([world_nether]336.66295553112553, 115.0, 17.630552264320713)
+[20:25:02] [Server thread/INFO]: <管理> B_lastmess >> 3
+[20:25:06] [Server thread/INFO]: <管理> B_lastmess >> 2
+[20:25:07] [Server thread/INFO]: <管理> B_lastmess >> 1
+[20:25:08] [Server thread/INFO]: <管理> B_lastmess >> ks
+[20:25:33] [Server thread/INFO]: <管理> B_lastmess >> c
+[20:25:38] [Server thread/INFO]: <管理> B_lastmess >> 这么疼（
+[20:25:39] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[20:25:48] [Server thread/INFO]: <管理> B_lastmess >> az我是不是没脱裤子
+[20:25:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 快脱
+[20:26:08] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> ?...
+[20:26:23] [Server thread/INFO]: <管理> B_lastmess >> 打完发现裤子没脱
+[20:26:29] [Server thread/INFO]: Auston_mc >> ?
+[20:26:43] [Server thread/INFO]: <管理> B_lastmess >> 3
+[20:26:46] [Server thread/INFO]: <管理> B_lastmess >> 2
+[20:26:48] [Server thread/INFO]: <管理> B_lastmess >> 1
+[20:26:50] [Server thread/INFO]: <管理> B_lastmess >> ks
+[20:26:52] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[20:26:52] [Server thread/INFO]: Auston_mc left the game
+[20:27:05] [Server thread/INFO]: <管理> B_lastmess >> .
+[20:27:10] [User Authenticator #19/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[20:27:10] [Server thread/INFO]: Auston_mc[/127.0.0.1:52673] logged in with entity id 112243 at ([world_nether]288.96671823191093, 115.0, 21.56524676881704)
+[20:27:11] [Server thread/INFO]: <管理> B_lastmess >> .
+[20:27:39] [Server thread/INFO]: <管理> B_lastmess >> ohhh
+[20:27:54] [Server thread/INFO]: <管理> B_lastmess >> 有生之年（
+[20:28:06] [Server thread/INFO]: <管理> B_lastmess >> 高ping战士（√）
+[20:28:09] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 顶着1000ms延迟玩pvp（
+[20:28:19] [Server thread/INFO]: <管理> B_lastmess >> 我看出来了（
+[20:28:24] [Server thread/INFO]: <管理> B_lastmess >> 因为我也好卡（（
+[20:28:35] [Server thread/INFO]: <管理> B_lastmess >> 孩子们准备好了吗！（
+[20:28:54] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> I can't hear you
+[20:28:54] [Server thread/INFO]: <管理> B_lastmess >> 3
+[20:28:55] [Server thread/INFO]: <管理> B_lastmess >> 2
+[20:28:57] [Server thread/INFO]: <管理> B_lastmess >> ..
+[20:28:58] [Server thread/INFO]: <管理> B_lastmess >> 1
+[20:28:59] [Server thread/INFO]: <管理> B_lastmess >> ks
+[20:29:19] [Server thread/INFO]: <管理> B_lastmess >> ohhhh
+[20:29:25] [Server thread/INFO]: <管理> B_lastmess >> 双杀（
+[20:29:42] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[20:29:43] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[20:29:43] [Server thread/INFO]: Bay_Max_ left the game
+[20:29:44] [Server thread/INFO]: <管理> B_lastmess >> r u ready?
+[20:29:47] [User Authenticator #20/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:29:47] [Server thread/INFO]: Bay_Max_[/127.0.0.1:52699] logged in with entity id 115793 at ([world]2384.884967149399, 12.0, 2477.3648942396276)
+[20:29:49] [Server thread/INFO]: <管理> B_lastmess >> ..
+[20:29:51] [Server thread/INFO]: <管理> B_lastmess >> az
+[20:29:58] [Server thread/INFO]: <管理> B_lastmess >> r u ready?
+[20:30:25] [Server thread/INFO]: <管理> B_lastmess >> 3
+[20:30:27] [Server thread/INFO]: <管理> B_lastmess >> 2
+[20:30:28] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 靠3874
+[20:30:33] [Server thread/INFO]: <管理> B_lastmess >> (((
+[20:30:39] [Server thread/INFO]: <管理> B_lastmess >> 那等一会（（
+[20:30:47] [Server thread/INFO]: <管理> B_lastmess >> 我顺便再做吧剑（（
+[20:30:58] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[20:30:58] [Server thread/INFO]: Xin_Sai left the game
+[20:30:59] [Server thread/INFO]: <管理> B_lastmess >> 其实这又地下的（
+[20:31:02] [Server thread/INFO]: <管理> B_lastmess >> 有
+[20:31:08] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[20:31:08] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 啊这..
+[20:31:16] [Server thread/INFO]: <管理> B_lastmess >> 但我不建议去（
+[20:31:24] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[20:31:36] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 下来不就死路一条（
+[20:31:39] [Server thread/INFO]: Auston_mc >> bay_max你的ping有点猛啊
+[20:31:41] [Server thread/INFO]: _YuanXiao_ >> Auston_mc你会建筑吗
+[20:31:43] [Server thread/INFO]: <管理> B_lastmess >> 对啊（
+[20:31:48] [Server thread/INFO]: Auston_mc >> 不会
+[20:31:54] [Server thread/INFO]: _YuanXiao_ >> 去学
+[20:31:57] [Server thread/INFO]: Auston_mc >> 就我这审美
+[20:31:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[20:32:13] [Server thread/INFO]: _YuanXiao_ >> 学不会用投影
+[20:32:23] [Server thread/INFO]: Auston_mc >> 等北梦
+[20:32:27] [Server thread/INFO]: <管理> B_lastmess >> r u ready(
+[20:32:30] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> yes
+[20:32:33] [Server thread/INFO]: <管理> B_lastmess >> 3
+[20:32:33] [Server thread/INFO]: <管理> B_lastmess >> 2
+[20:32:34] [Server thread/INFO]: <管理> B_lastmess >> 1
+[20:32:35] [Server thread/INFO]: <管理> B_lastmess >> ks
+[20:32:47] [Server thread/INFO]: Auston_mc >> 北梦说等他电脑好了，和我一起投影
+[20:32:55] [Server thread/INFO]: _YuanXiao_ >> 帮我在海晶建个房子送满配鞘翅，谁都行
+[20:32:58] [Server thread/INFO]: <管理> B_lastmess >> az
+[20:33:04] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[20:33:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> - -
+[20:33:06] [Server thread/INFO]: <管理> B_lastmess >> 老猛了（
+[20:33:14] [Server thread/INFO]: _YuanXiao_ >> sen_lv_ling_就算了
+[20:33:18] [Server thread/INFO]: <管理> B_lastmess >> r u ready(
+[20:33:21] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> yes
+[20:33:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 满配（指绑定和消失诅咒
+[20:33:25] [Server thread/INFO]: <管理> B_lastmess >> 3
+[20:33:26] [Server thread/INFO]: Auston_mc >> 你应该找北梦
+[20:33:26] [Server thread/INFO]: <管理> B_lastmess >> 2
+[20:33:27] [Server thread/INFO]: <管理> B_lastmess >> 1
+[20:33:27] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 为啥
+[20:33:28] [Server thread/INFO]: <管理> B_lastmess >> ks
+[20:33:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 嘤嘤嘤
+[20:33:34] [Server thread/INFO]: _YuanXiao_ >> 没有消失和绑定
+[20:33:47] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 有好事不给我
+[20:33:55] [Server thread/INFO]: <管理> B_lastmess >> az
+[20:33:56] [Server thread/INFO]: _YuanXiao_ >> sen_lv_ling_因为是白嫖你补的附魔书啊awa
+[20:34:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[20:34:01] [Server thread/INFO]: <管理> B_lastmess >> 呜呜呜（
+[20:34:07] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 阿巴
+[20:34:14] [Server thread/INFO]: <管理> B_lastmess >> 我太菜了（
+[20:34:21] [Server thread/INFO]: _YuanXiao_ >> 阿巴阿巴
+[20:34:22] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 所以你直接送我个吧
+[20:34:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 2333
+[20:34:25] [Server thread/INFO]: <管理> B_lastmess >> 3
+[20:34:28] [Server thread/INFO]: <管理> B_lastmess >> 2
+[20:34:28] [Server thread/INFO]: _YuanXiao_ >> ???
+[20:34:30] [Server thread/INFO]: <管理> B_lastmess >> 1
+[20:34:31] [Server thread/INFO]: <管理> B_lastmess >> ks
+[20:34:49] [Server thread/INFO]: Auston_mc >> 不说了，我去搓羊毛及
+[20:34:53] [Server thread/INFO]: Auston_mc >> 机
+[20:34:59] [Server thread/INFO]: _YuanXiao_ >> 我都会
+[20:35:00] [Server thread/INFO]: <管理> B_lastmess >> （（（
+[20:35:06] [Server thread/INFO]: <管理> B_lastmess >> 没意思（
+[20:35:10] [Server thread/INFO]: <管理> B_lastmess >> 人生
+[20:35:18] [Server thread/INFO]: Auston_mc >> 北梦叫我的
+[20:35:20] [Server thread/INFO]: <管理> B_lastmess >> 就是大起大落落落落落
+[20:35:30] [Server thread/INFO]: _YuanXiao_ >> 黑化把，毕竟不是什么小事
+[20:35:34] [Server thread/INFO]: <管理> B_lastmess >> (((
+[20:35:36] [Server thread/INFO]: <管理> B_lastmess >> 3
+[20:35:39] [Server thread/INFO]: <管理> B_lastmess >> 2
+[20:35:44] [Server thread/INFO]: <管理> B_lastmess >> 1
+[20:35:52] [Server thread/INFO]: _YuanXiao_ >> 黑化肥挥发会发灰
+[20:35:56] [Server thread/INFO]: <管理> B_lastmess >> 完了白佬傻掉了（
+[20:36:01] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> a
+[20:36:08] [Server thread/INFO]: <管理> B_lastmess >> ks
+[20:36:17] [Server thread/INFO]: B_lastmess was slain by Bay_Max_
+[20:36:21] [Server thread/INFO]: <管理> B_lastmess >> 草
+[20:36:21] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> .......
+[20:36:24] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[20:36:25] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[20:36:26] [Server thread/INFO]: <管理> B_lastmess >> 忘记拿图腾了（
+[20:36:30] [Server thread/INFO]: _YuanXiao_ >> ...
+[20:36:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 666
+[20:36:36] [Server thread/INFO]: <管理> B_lastmess >> (((
+[20:36:46] [Server thread/INFO]: _YuanXiao_ >> 你们在哪呢
+[20:36:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 黑云
+[20:36:56] [Server thread/INFO]: <管理> B_lastmess >> 等我两分钟（
+[20:37:02] [Server thread/INFO]: <管理> B_lastmess >> 比远程吗（
+[20:37:11] [Server thread/INFO]: _YuanXiao_ >> 等我在找一个鞘翅就来
+[20:37:15] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[20:37:19] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 射不准（
+[20:37:23] [Server thread/INFO]: _YuanXiao_ >> ???
+[20:37:26] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[20:37:31] [Server thread/INFO]: <管理> B_lastmess >> 正好练练（
+[20:38:20] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[20:38:20] [Server thread/INFO]: _YuanXiao_ left the game
+[20:38:21] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[20:38:36] [Server thread/INFO]: <管理> B_lastmess >> 先帮我捡一下我去拿点箭（（
+[20:38:48] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 阿巴阿巴
+[20:39:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 汵
+[20:39:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 没萝卜了
+[20:39:27] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 啊这
+[20:39:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我想把黑云的凋零砍了
+[20:40:31] [Server thread/INFO]: <管理> B_lastmess >> 这波近战加远程好吧（
+[20:40:38] [Server thread/INFO]: <管理> B_lastmess >> 照样木剑（
+[20:40:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我来主持
+[20:40:46] [Server thread/INFO]: <管理> B_lastmess >> 我整一套铁套（
+[20:41:45] [Server thread/INFO]: <管理> B_lastmess >> 要铁剑吗（
+[20:41:54] [Server thread/INFO]: <管理> B_lastmess >> 还是继续木剑（
+[20:42:03] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 铁剑吧（
+[20:42:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 钻剑
+[20:42:44] [Server thread/INFO]: <管理> B_lastmess >> 别（
+[20:42:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 满配的那种
+[20:42:47] [Server thread/INFO]: <管理> B_lastmess >> 打不过（
+[20:42:59] [Server thread/INFO]: Bay_Max_ has made the advancement [Suit Up]
+[20:43:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 双方入场
+[20:44:11] [Server thread/INFO]: <管理> B_lastmess >> 你裁判你宣布啊（
+[20:44:12] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 准备好了么
+[20:44:16] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> yes
+[20:44:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 3
+[20:44:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 2
+[20:44:21] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[20:44:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 开始
+[20:44:42] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[20:44:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ohhhh
+[20:44:52] [Server thread/INFO]: <管理> B_lastmess >> (((
+[20:45:04] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[20:45:08] [Server thread/INFO]: <管理> B_lastmess >> 没意思你这样（（
+[20:45:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 菜 憨明 菜
+[20:45:13] [Server thread/INFO]: <管理> B_lastmess >> 对射不爽吗（
+[20:45:16] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 那那弓（
+[20:45:18] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 拿
+[20:45:22] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 阿巴
+[20:45:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 第二场？
+[20:45:42] [Server thread/INFO]: <管理> B_lastmess >> 走着啊
+[20:45:43] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> yes(
+[20:45:46] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 准备好了么
+[20:45:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 3
+[20:45:53] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 2
+[20:45:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[20:45:57] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 开始
+[20:45:59] [Server thread/INFO]: Bay_Max_ has made the advancement [Take Aim]
+[20:46:08] [Server thread/INFO]: <管理> B_lastmess >> 等一下
+[20:46:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 中门对狙
+[20:46:18] [Server thread/INFO]: <管理> B_lastmess >> 我删除一下死亡记录点（
+[20:46:22] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 憨明请求暂停
+[20:46:23] [Server thread/INFO]: <管理> B_lastmess >> 挡视线（
+[20:46:23] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 啊这
+[20:46:37] [Server thread/INFO]: <管理> B_lastmess >> 可以了（
+[20:46:42] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 比赛继续
+[20:46:43] [Server thread/INFO]: <管理> B_lastmess >> 重新开始吧1
+[20:46:46] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[20:46:57] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 准备
+[20:46:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 3
+[20:47:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 2
+[20:47:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[20:47:03] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 卡死
+[20:47:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 开始233
+[20:47:52] [User Authenticator #21/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[20:47:53] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:52859] logged in with entity id 132167 at ([world_the_end]10289.652023260713, 65.71361392573722, -11484.339477979998)
+[20:47:53] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我看不到你们的血了
+[20:48:04] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[20:48:04] [Server thread/INFO]: Auston_mc left the game
+[20:48:34] [User Authenticator #21/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[20:48:34] [Server thread/INFO]: Auston_mc[/127.0.0.1:52869] logged in with entity id 134513 at ([world]1134.5336509274832, 69.0, 369.3392568212008)
+[20:50:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 一样的血
+[20:50:16] [Server thread/INFO]: B_lastmess was shot by Bay_Max_
+[20:50:19] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[20:50:19] [Server thread/INFO]: <管理> B_lastmess >> ?
+[20:50:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ohhhh
+[20:50:22] [Server thread/INFO]: <管理> B_lastmess >> 有没拿？、
+[20:50:22] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> ...
+[20:50:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 憨明没了
+[20:50:30] [Server thread/INFO]: <管理> B_lastmess >> ???
+[20:50:35] [Server thread/INFO]: <管理> B_lastmess >> 图腾没了？？
+[20:50:40] [Server thread/INFO]: <管理> B_lastmess >> 绝了（
+[20:50:50] [Server thread/INFO]: <管理> B_lastmess >> 好细啊（
+[20:51:04] [Server thread/INFO]: <管理> B_lastmess >> 这几波拉扯
+[20:51:07] [Server thread/INFO]: <管理> B_lastmess >> ((
+[20:51:14] [Server thread/INFO]: <管理> B_lastmess >> 不是我蔡（
+[20:51:42] [Server thread/INFO]: <管理> B_lastmess >> 白佬打不过（（
+[20:51:50] [Server thread/INFO]: <管理> B_lastmess >> 森宇来吗（
+[20:52:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[20:52:10] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[20:53:10] [Server thread/INFO]: adhesive_tape >> 打算启动盾构机
+[20:53:11] [Server thread/INFO]: <管理> B_lastmess >> 太难了（
+[20:53:33] [Server thread/INFO]: <管理> B_lastmess >> 还打吗（
+[20:53:41] [Server thread/INFO]: adhesive_tape >> 有没有小伙伴过来帮忙的
+[20:53:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我去拿吃的
+[20:53:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> tape?
+[20:54:00] [Server thread/INFO]: adhesive_tape >> 啊？
+[20:54:03] [Server thread/INFO]: <管理> B_lastmess >> 还打吗（
+[20:54:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 咋了
+[20:54:12] [Server thread/INFO]: Auston_mc >> 我怕我变黑山大能
+[20:54:14] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 随意awa
+[20:54:19] [Server thread/INFO]: <管理> B_lastmess >> 这波
+[20:54:28] [Server thread/INFO]: <管理> B_lastmess >> 弓剑都能用
+[20:54:31] [Server thread/INFO]: <管理> B_lastmess >> 好吧（
+[20:54:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 汵
+[20:54:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我把烟花扔给憨明了
+[20:54:40] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 来叭（
+[20:54:41] [Server thread/INFO]: <管理> B_lastmess >> 3
+[20:54:43] [Server thread/INFO]: <管理> B_lastmess >> 2
+[20:54:44] [Server thread/INFO]: <管理> B_lastmess >> 233
+[20:54:46] [Server thread/INFO]: <管理> B_lastmess >> 1
+[20:54:48] [Server thread/INFO]: <管理> B_lastmess >> ks
+[20:55:17] [Server thread/INFO]: <管理> B_lastmess >> c
+[20:55:20] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 近战弓兵（
+[20:55:20] [Server thread/INFO]: <管理> B_lastmess >> 打不过（（
+[20:55:34] [Server thread/INFO]: <管理> B_lastmess >> 还是拿弓吧（（
+[20:55:40] [Server thread/INFO]: <管理> B_lastmess >> 好歹有来有回（
+[20:55:46] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[20:55:51] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> xd
+[20:55:52] [Server thread/INFO]: <管理> B_lastmess >> 这一拿剑直接白给（（
+[20:56:00] [Server thread/INFO]: <管理> B_lastmess >> 要不就不拿弓了
+[20:56:13] [Server thread/INFO]: <管理> B_lastmess >> 这么说
+[20:56:16] [Server thread/INFO]: <管理> B_lastmess >> 怎么说
+[20:56:23] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> awa
+[20:56:35] [Server thread/INFO]: <管理> B_lastmess >> 偷东西（
+[20:57:07] [Server thread/INFO]: adhesive_tape >> 我换个版本
+[20:57:07] [Server thread/INFO]: <管理> B_lastmess >> 怎么说（
+[20:57:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[20:57:18] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 弓（
+[20:57:24] [Server thread/INFO]: <管理> B_lastmess >> 3
+[20:57:27] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[20:57:27] [Server thread/INFO]: adhesive_tape left the game
+[20:57:30] [Server thread/INFO]: <管理> B_lastmess >> 2
+[20:57:33] [Server thread/INFO]: <管理> B_lastmess >> 1
+[20:57:37] [Server thread/INFO]: <管理> B_lastmess >> ks
+[20:59:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 憨明又要无了！！！
+[20:59:17] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[20:59:17] [Server thread/INFO]: Auston_mc left the game
+[21:00:03] [User Authenticator #22/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[21:00:03] [Server thread/INFO]: adhesive_tape[/127.0.0.1:52968] logged in with entity id 159611 at ([world_nether]115.11986626257556, 110.0, 932.687404488999)
+[21:00:04] [User Authenticator #23/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[21:00:04] [Server thread/INFO]: adhesive_tape lost connection: You logged in from another location
+[21:00:04] [Server thread/INFO]: adhesive_tape left the game
+[21:00:04] [Server thread/INFO]: adhesive_tape[/127.0.0.1:52972] logged in with entity id 159734 at ([world_nether]115.11986626257556, 110.0, 932.687404488999)
+[21:00:33] [Server thread/INFO]: adhesive_tape lost connection: Timed out
+[21:00:33] [Server thread/INFO]: adhesive_tape left the game
+[21:00:58] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> gg
+[21:00:58] [Server thread/INFO]: <管理> B_lastmess >> ?
+[21:01:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:01:04] [Server thread/INFO]: <管理> B_lastmess >> 死了之后还射一箭（
+[21:01:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 都死了
+[21:01:09] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 2333
+[21:01:12] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 憨明赢了（
+[21:01:14] [Server thread/INFO]: <管理> B_lastmess >> (((
+[21:01:45] [Server thread/INFO]: <管理> B_lastmess >> 裁判里场辣（
+[21:01:48] [Server thread/INFO]: <管理> B_lastmess >> az
+[21:01:51] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> abab
+[21:01:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:02:02] [Server thread/INFO]: <管理> B_lastmess >> 我可以了（
+[21:02:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 就位ie
+[21:02:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 3
+[21:02:15] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 2
+[21:02:16] [User Authenticator #24/INFO]: UUID of player Shammaroth is 336373ac-91a9-41ed-bc50-3dcbb1e05a81
+[21:02:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@55800225[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@6eae3950]},legacy=false] (/127.0.0.1:52994): 你还不在白名单噢 加入审核群1145301933 进行审核
+[21:02:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@55800225[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@6eae3950]},legacy=false] (/127.0.0.1:52994) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[21:02:18] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[21:02:20] [User Authenticator #24/INFO]: UUID of player Shammaroth is 336373ac-91a9-41ed-bc50-3dcbb1e05a81
+[21:02:20] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@77d2eec9[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@ad02005]},legacy=false] (/127.0.0.1:52998): 你还不在白名单噢 加入审核群1145301933 进行审核
+[21:02:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@77d2eec9[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@ad02005]},legacy=false] (/127.0.0.1:52998) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[21:02:20] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ks
+[21:02:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 敢打裁判
+[21:02:48] [User Authenticator #24/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[21:02:48] [Server thread/INFO]: adhesive_tape[/127.0.0.1:53004] logged in with entity id 167160 at ([world_nether]115.11986626257556, 110.0, 932.687404488999)
+[21:02:56] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 当心我拿三叉戟插你们awa
+[21:03:18] [Server thread/INFO]: <管理> B_lastmess >> 555
+[21:03:20] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 厉害
+[21:04:07] [Server thread/INFO]: <管理> B_lastmess >> ?
+[21:04:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 准啊
+[21:04:18] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[21:04:23] [Server thread/INFO]: <管理> B_lastmess >> 不打了（
+[21:04:29] [Server thread/INFO]: <管理> B_lastmess >> 射裁判（
+[21:04:29] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 阿巴
+[21:05:42] [Server thread/INFO]: <管理> B_lastmess >> ?
+[21:05:56] [Server thread/INFO]: <管理> B_lastmess >> 末影螨可还行（
+[21:06:18] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 溜了溜了（
+[21:06:24] [User Authenticator #25/INFO]: UUID of player Shammaroth is 336373ac-91a9-41ed-bc50-3dcbb1e05a81
+[21:06:24] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6fb87383[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@3a2f3139]},legacy=false] (/127.0.0.1:53038): 你还不在白名单噢 加入审核群1145301933 进行审核
+[21:06:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@6fb87383[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@3a2f3139]},legacy=false] (/127.0.0.1:53038) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[21:06:27] [Server thread/INFO]: <管理> B_lastmess >> 我也零六了（
+[21:06:31] [Server thread/INFO]: <管理> B_lastmess >> 溜了（
+[21:06:34] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[21:06:34] [Server thread/INFO]: Bay_Max_ left the game
+[21:06:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 21:06
+[21:06:45] [Server thread/INFO]: <管理> B_lastmess >> pvp吗森宇（
+[21:06:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:06:58] [Server thread/INFO]: <管理> B_lastmess >> 就用三叉戟（
+[21:07:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> - -
+[21:07:05] [Server thread/INFO]: <管理> B_lastmess >> 场地不限（
+[21:07:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 装？
+[21:07:18] [Server thread/INFO]: <管理> B_lastmess >> 随意（
+[21:07:20] [Server thread/INFO]: <管理> B_lastmess >> 我无敌
+[21:07:26] [Server thread/INFO]: <管理> B_lastmess >> awa
+[21:07:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我还没玩过pvp
+[21:07:29] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> qwq
+[21:07:41] [Server thread/INFO]: <管理> B_lastmess >> 3
+[21:07:43] [Server thread/INFO]: <管理> B_lastmess >> 2
+[21:07:43] [Server thread/INFO]: <管理> B_lastmess >> 1
+[21:07:44] [Server thread/INFO]: <管理> B_lastmess >> ks
+[21:07:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 等等
+[21:07:47] [Server thread/INFO]: <管理> B_lastmess >> az
+[21:07:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 给我个图腾
+[21:07:59] [Server thread/INFO]: <管理> B_lastmess >> 3
+[21:08:01] [Server thread/INFO]: <管理> B_lastmess >> 2
+[21:08:05] [Server thread/INFO]: <管理> B_lastmess >> 1
+[21:08:06] [Server thread/INFO]: <管理> B_lastmess >> ks
+[21:08:22] [Server thread/INFO]: _YuanXiao_ fell from a high place
+[21:08:36] [User Authenticator #26/INFO]: UUID of player Shammaroth is 336373ac-91a9-41ed-bc50-3dcbb1e05a81
+[21:08:36] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@558a94e5[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@631f072]},legacy=false] (/127.0.0.1:53076): 你还不在白名单噢 加入审核群1145301933 进行审核
+[21:08:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@558a94e5[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@631f072]},legacy=false] (/127.0.0.1:53076) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[21:09:17] [Server thread/INFO]: <管理> B_lastmess >> yaobuzhey1
+[21:09:20] [Server thread/INFO]: <管理> B_lastmess >> 要不这样
+[21:09:25] [Server thread/ERROR]: Could not pass event PlayerChatEvent to ChatC v0.5
+java.lang.IllegalArgumentException: character to be escaped is missing
+	at java.util.regex.Matcher.appendReplacement(Unknown Source) ~[?:1.8.0_181]
+	at java.util.regex.Matcher.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.String.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at cf.cc7w.ChatC.ChatC.onchat(ChatC.java:247) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor33.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:559) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection$5.evaluate(PlayerConnection.java:1743) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.util.Waitable.run(Waitable.java:25) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1198) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[21:09:25] [Server thread/INFO]: <B_lastmess> 不吃东西（\
+[21:09:29] [Server thread/INFO]: <管理> B_lastmess >> ..
+[21:09:35] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 话说我全套保护不掉血
+[21:09:38] [Server thread/INFO]: <管理> B_lastmess >> 怎么称号给没了（（
+[21:09:39] [Server thread/WARN]: _YuanXiao_ was kicked due to keepalive timeout!
+[21:09:39] [Server thread/INFO]: _YuanXiao_ lost connection: Timed out
+[21:09:39] [Server thread/INFO]: _YuanXiao_ left the game
+[21:09:39] [Server thread/WARN]: handleDisconnection() called twice
+[21:09:42] [Server thread/INFO]: <管理> B_lastmess >> ..
+[21:09:48] [Server thread/INFO]: <管理> B_lastmess >> 那不穿？
+[21:09:54] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你打我一下
+[21:10:01] [Server thread/INFO]: <管理> B_lastmess >> ..
+[21:10:03] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 是不是
+[21:10:10] [Server thread/INFO]: <管理> B_lastmess >> 那不穿（
+[21:10:16] [Server thread/INFO]: <管理> B_lastmess >> 除了鞘翅（
+[21:10:39] [User Authenticator #27/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[21:10:39] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:53101] logged in with entity id 181027 at ([world]2772.0191251027936, 67.0, -395.26127773867)
+[21:10:41] [Server thread/INFO]: <管理> B_lastmess >> c
+[21:12:27] [Server thread/INFO]: <管理> B_lastmess >> ohhhhh
+[21:12:27] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:12:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 再来
+[21:12:34] [Server thread/INFO]: <管理> B_lastmess >> 给点萝北（
+[21:13:01] [Server thread/INFO]: <管理> B_lastmess >> 3
+[21:13:05] [Server thread/INFO]: <管理> B_lastmess >> 2
+[21:13:07] [Server thread/INFO]: adhesive_tape blew up
+[21:13:07] [Server thread/INFO]: <管理> B_lastmess >> 1
+[21:13:09] [Server thread/INFO]: <管理> B_lastmess >> ks
+[21:13:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[21:13:10] [User Authenticator #28/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[21:13:10] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53126] logged in with entity id 183651 at ([world]1129.4505246625636, 116.875, 2275.367700866778)
+[21:13:14] [Server thread/INFO]: <管理> B_lastmess >> az?
+[21:13:23] [Server thread/INFO]: adhesive_tape >> ?????
+[21:13:30] [Server thread/INFO]: adhesive_tape >> 不是好好的
+[21:13:33] [Server thread/INFO]: adhesive_tape >> 怎么炸了
+[21:13:38] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 偶？
+[21:13:48] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 怎么我一来就炸了某些东西
+[21:13:55] [Server thread/INFO]: _YuanXiao_ >> 领烟花啦
+[21:14:13] [Server thread/INFO]: adhesive_tape >> 元宵给个鞘翅呗？
+[21:14:15] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[21:14:26] [Server thread/INFO]: _YuanXiao_ >> 很简单
+[21:14:34] [Server thread/INFO]: <管理> B_lastmess >> ohhhhhhh
+[21:14:42] [Server thread/INFO]: _YuanXiao_ >> 帮我在海晶建个房子
+[21:14:45] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我昨天挂机的火药没了？？？？？
+[21:14:48] [Server thread/INFO]: <管理> B_lastmess >> 你快乐吗（
+[21:14:51] [Server thread/INFO]: <管理> B_lastmess >> az
+[21:14:53] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ghost 来pvp
+[21:14:56] [Server thread/INFO]: _YuanXiao_ >> 我拿了一些
+[21:14:57] [Server thread/INFO]: <管理> B_lastmess >> (((
+[21:14:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？？？？
+[21:14:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 快来
+[21:15:04] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 射鸟一样
+[21:15:04] [User Authenticator #29/INFO]: UUID of player Shammaroth is 336373ac-91a9-41ed-bc50-3dcbb1e05a81
+[21:15:04] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3ccc77de[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@9638e8a]},legacy=false] (/127.0.0.1:53147): 你还不在白名单噢 加入审核群1145301933 进行审核
+[21:15:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@3ccc77de[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@9638e8a]},legacy=false] (/127.0.0.1:53147) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[21:15:07] [Server thread/INFO]: _YuanXiao_ >> 一排
+[21:15:08] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 快乐
+[21:15:12] [Server thread/INFO]: <管理> B_lastmess >> az
+[21:15:14] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 赤手搏击
+[21:15:18] [Server thread/INFO]: <管理> B_lastmess >> 你不用鞘翅吗（（
+[21:15:32] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 那我装上来
+[21:15:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@56c2f777[id=<null>,name=Shammaroth,properties={},legacy=false] (/127.0.0.1:53153) lost connection: Disconnected
+[21:15:48] [User Authenticator #30/INFO]: UUID of player Shammaroth is 336373ac-91a9-41ed-bc50-3dcbb1e05a81
+[21:15:48] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@34975d7d[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@56904232]},legacy=false] (/127.0.0.1:53158): 你还不在白名单噢 加入审核群1145301933 进行审核
+[21:15:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@34975d7d[id=336373ac-91a9-41ed-bc50-3dcbb1e05a81,name=Shammaroth,properties={textures=[com.mojang.authlib.properties.Property@56904232]},legacy=false] (/127.0.0.1:53158) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[21:15:53] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[21:15:55] [User Authenticator #29/INFO]: Disconnecting com.mojang.authlib.GameProfile@56c2f777[id=<null>,name=Shammaroth,properties={},legacy=false] (/127.0.0.1:53153): Authentication servers are down. Please try again later, sorry!
+[21:15:55] [User Authenticator #29/ERROR]: Couldn't verify username because servers are unavailable
+[21:16:01] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 谢天谢地
+[21:16:02] [Server thread/INFO]: <管理> B_lastmess >> 来吧（
+[21:16:06] [Server thread/INFO]: <管理> B_lastmess >> 3
+[21:16:10] [Server thread/INFO]: <管理> B_lastmess >> 2
+[21:16:13] [Server thread/INFO]: <管理> B_lastmess >> 1
+[21:16:15] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我不在的一天你们竟然搞了空置域
+[21:16:17] [Server thread/INFO]: <管理> B_lastmess >> ks
+[21:16:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 等等
+[21:16:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我三叉戟没了
+[21:16:54] [Server thread/INFO]: <管理> B_lastmess >> az
+[21:16:54] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[21:16:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 应该进地狱了
+[21:17:00] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 森森~
+[21:17:02] [Server thread/INFO]: <管理> B_lastmess >> 飞地狱去了？
+[21:17:02] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你在哪
+[21:17:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 黑云
+[21:17:06] [Server thread/INFO]: <管理> B_lastmess >> 黑云
+[21:17:11] [Server thread/INFO]: Removed HitoShouri from the whitelist
+[21:17:11] [Server thread/INFO]: <管理> B_lastmess >> 咱再pvp(
+[21:17:15] [Server thread/INFO]: <管理> B_lastmess >> az
+[21:17:21] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 真进了
+[21:17:24] [Server thread/INFO]: Added Shammaroth to the whitelist
+[21:17:29] [Server thread/INFO]: <管理> B_lastmess >> 地狱门挡一下吧（
+[21:17:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我也来
+[21:17:31] [Server thread/INFO]: _YuanXiao_ >> sen_lv_ling_补一下潜影盒
+[21:17:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[21:17:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 补潜影盒？
+[21:17:55] [User Authenticator #31/INFO]: UUID of player Shammaroth is 336373ac-91a9-41ed-bc50-3dcbb1e05a81
+[21:17:55] [Server thread/INFO]: Shammaroth[/127.0.0.1:53182] logged in with entity id 188292 at ([world]-113.5, 64.0, 175.5)
+[21:17:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[21:17:58] [Server thread/INFO]: <管理> B_lastmess >> 这下应该可以了
+[21:18:06] [Server thread/INFO]: <管理> B_lastmess >> 来来来
+[21:18:09] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 来来来
+[21:18:11] [Server thread/INFO]: <管理> B_lastmess >> 3
+[21:18:12] [Server thread/INFO]: _YuanXiao_ >> 就那黑白相间的平台上的粉色的
+[21:18:13] [Server thread/INFO]: <管理> B_lastmess >> 2
+[21:18:14] [Server thread/INFO]: <管理> B_lastmess >> 1
+[21:18:16] [Server thread/INFO]: <管理> B_lastmess >> ks
+[21:18:34] [Server thread/INFO]: <管理> B_lastmess >> ohh
+[21:18:42] [Server thread/INFO]: <管理> B_lastmess >> 直接近战（
+[21:18:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我三叉戟半天没回来
+[21:18:48] [Server thread/INFO]: <管理> B_lastmess >> 丝毫不慌（
+[21:18:48] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 苦苦
+[21:18:50] [Server thread/INFO]: <管理> B_lastmess >> hhh
+[21:18:54] [Server thread/INFO]: Shammaroth was slain by Zombie
+[21:18:59] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 黑白相间的平台的专业名称：马赛克平台
+[21:19:07] [Server thread/INFO]: <管理> B_lastmess >> (((
+[21:19:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我看着我三叉戟围着我转了几个圈
+[21:19:20] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我来了
+[21:19:20] [Server thread/INFO]: <管理> B_lastmess >> 棋钟书（√）
+[21:19:22] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 怎么大？
+[21:19:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 再来一把
+[21:19:27] [Server thread/INFO]: Shammaroth has made the advancement [We Need to Go Deeper]
+[21:19:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ghost就来
+[21:19:32] [Server thread/INFO]: <管理> B_lastmess >> 乱斗吧
+[21:19:35] [Server thread/INFO]: <管理> B_lastmess >> 1v1v1
+[21:19:37] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 赤手搏击？
+[21:19:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:19:41] [Server thread/INFO]: <管理> B_lastmess >> 三叉戟（
+[21:19:46] [Server thread/INFO]: <管理> B_lastmess >> 你们要打也行
+[21:19:47] [Server thread/INFO]: Player is already whitelisted
+[21:19:48] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 别把
+[21:19:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 在穿个鞋
+[21:19:53] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 赤手搏击多好
+[21:20:01] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 不受攻击速度限制
+[21:20:15] [Server thread/INFO]: <管理> B_lastmess >> 那我裁判
+[21:20:19] [Server thread/INFO]: <管理> B_lastmess >> 3
+[21:20:22] [Server thread/INFO]: <管理> B_lastmess >> 2
+[21:20:23] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 鞘翅拖了
+[21:20:27] [Server thread/INFO]: <管理> B_lastmess >> az
+[21:20:28] [Server thread/INFO]: No player was found
+[21:20:30] [Server thread/INFO]: <管理> B_lastmess >> 1
+[21:20:33] [Server thread/INFO]: <管理> B_lastmess >> ks
+[21:20:50] [Server thread/INFO]: <管理> B_lastmess >> 你们不要再打了啦~
+[21:20:54] [Server thread/INFO]: <管理> B_lastmess >> 快住手~
+[21:21:00] [Server thread/INFO]: <管理> B_lastmess >> 这样是打不死人的~
+[21:21:01] [Server thread/INFO]: <管理> B_lastmess >> (((
+[21:21:06] [Server thread/INFO]: No player was found
+[21:21:14] [Server thread/INFO]: <管理> B_lastmess >> 真打不死了
+[21:21:17] [Server thread/INFO]: <管理> B_lastmess >> 要不别吃东西
+[21:21:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不吃的话他死了 - -
+[21:21:30] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这……
+[21:21:31] [Server thread/INFO]: <管理> B_lastmess >> 对啊（（
+[21:21:37] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 为啥不能吃东西啊
+[21:21:42] [Server thread/INFO]: <管理> B_lastmess >> 打不死人了（
+[21:21:44] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 刚刚我手残安了个啥……
+[21:21:48] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[21:21:56] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 吧大地图按出来了
+[21:21:57] [Server thread/INFO]: <管理> B_lastmess >> 要不就吃东西算输（
+[21:22:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:22:18] [Server thread/INFO]: Incorrect argument for command
+[21:22:18] [Server thread/INFO]: gamemode ?<--[HERE]
+[21:22:18] [Server thread/INFO]: <管理> B_lastmess >> az
+[21:22:20] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[21:22:26] [Server thread/INFO]: --------- Help: Index ---------------------------
+[21:22:26] [Server thread/INFO]: Use /help [n] to get page n of help.
+[21:22:26] [Server thread/INFO]: AdvancedBan: All commands for AdvancedBan
+[21:22:26] [Server thread/INFO]: Aliases: Lists command aliases
+[21:22:26] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[21:22:26] [Server thread/INFO]: ChatC: All commands for ChatC
+[21:22:26] [Server thread/INFO]: CoreProtect: All commands for CoreProtect
+[21:22:26] [Server thread/INFO]: CrowdLocator: All commands for CrowdLocator
+[21:22:26] [Server thread/INFO]: EntityTrackerFixer: All commands for EntityTrackerFixer
+[21:22:26] [Server thread/INFO]: GroupManager: All commands for GroupManager
+[21:22:26] [Server thread/INFO]: Lores: All commands for Lores
+[21:22:26] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[21:22:26] [Server thread/INFO]: OpenInv: All commands for OpenInv
+[21:22:26] [Server thread/INFO]: PlayerPoints: All commands for PlayerPoints
+[21:22:26] [Server thread/INFO]: PxAutoMessage: All commands for PxAutoMessage
+[21:22:26] [Server thread/INFO]: SAML: All commands for SAML
+[21:22:26] [Server thread/INFO]: TAB: All commands for TAB
+[21:22:26] [Server thread/INFO]: /advancedban: Information about the Plugin
+[21:22:26] [Server thread/INFO]: /advancement: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /anycontainer: Toggle AnyContainer function, which allows opening of blocked containers.
+[21:22:26] [Server thread/INFO]: /ban: Ban a user permanently
+[21:22:26] [Server thread/INFO]: /banlist: See all punishments
+[21:22:26] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /change-reason: Change the reason of an existing punishment
+[21:22:26] [Server thread/INFO]: /chatc: 
+[21:22:26] [Server thread/INFO]: /check: Get all information about a user
+[21:22:26] [Server thread/INFO]: /clear: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /clone: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /co: Utilize the plugin
+[21:22:26] [Server thread/INFO]: /core: Utilize the plugin
+[21:22:26] [Server thread/INFO]: /coreprotect: Utilize the plugin
+[21:22:26] [Server thread/INFO]: /data: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /datapack: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /debug: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /deop: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /effect: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /enchant: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /entitytrackerfixer: Main Command of EntityTrackerFixer
+[21:22:26] [Server thread/INFO]: /execute: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /experience: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /fill: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /forceload: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /function: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /give: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /help: Shows the help menu
+[21:22:26] [Server thread/INFO]: /history: See a user''s history
+[21:22:26] [Server thread/INFO]: /ipban: Ban a user by IP
+[21:22:26] [Server thread/INFO]: /kick: Kick a user
+[21:22:26] [Server thread/INFO]: /kill: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /list: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /listgroups: Lists the groups available.
+[21:22:26] [Server thread/INFO]: /locate: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /locatecrowd: Main Command
+[21:22:26] [Server thread/INFO]: /loot: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /lore: Main command for the plugin
+[21:22:26] [Server thread/INFO]: /mancheckw: Obtains the path to each file a world is storing its data in (users/groups).
+[21:22:26] [Server thread/INFO]: /manclear: Clears world selection. Commands will work on your current world.
+[21:22:26] [Server thread/INFO]: /mandemote: Demotes a user in the same heritage line to a lower rank.
+[21:22:26] [Server thread/INFO]: /mangadd: Adds a group to the system.
+[21:22:26] [Server thread/INFO]: /mangaddi: Adds a group to another group inheritance list.
+[21:22:26] [Server thread/INFO]: /mangaddp: Adds permissions to a group.
+[21:22:26] [Server thread/INFO]: /mangaddv: Adds or replaces a variable of a group (like prefix or suffix).
+[21:22:26] [Server thread/INFO]: /mangcheckp: Checks if group has a permission and where it comes from.
+[21:22:26] [Server thread/INFO]: /mangcheckv: Verifies a value of a variable of a group, and where it comes from.
+[21:22:26] [Server thread/INFO]: /mangclearp: Removes all permissions from a group.
+[21:22:26] [Server thread/INFO]: /mangdel: Removes a group from the system (all its users become default).
+[21:22:26] [Server thread/INFO]: /mangdeli: Removes a group from another group inheritance list.
+[21:22:26] [Server thread/INFO]: /mangdelp: Removes permissions from a group.
+[21:22:26] [Server thread/INFO]: /mangdelv: Removes a variable from a group.
+[21:22:26] [Server thread/INFO]: /manglistp: Lists all permissions of a group.
+[21:22:26] [Server thread/INFO]: /manglistv: Lists variables of a group (like prefix or suffix).
+[21:22:26] [Server thread/INFO]: /manhelp: GroupManager+ command help.
+[21:22:26] [Server thread/INFO]: /manload: Reloads current world and config.yml, or loads given world from file to server.
+[21:22:26] [Server thread/INFO]: /manpromote: Promotes a user in the same heritage line to a higher rank.
+[21:22:26] [Server thread/INFO]: /mansave: Saves all permissions from server to file.
+[21:22:26] [Server thread/INFO]: /manselect: Selects a world to work with commands.
+[21:22:26] [Server thread/INFO]: /mantogglesave: Toggles on/off the autosave.
+[21:22:26] [Server thread/INFO]: /mantogglevalidate: Toggles on/off the validating if user is online.
+[21:22:26] [Server thread/INFO]: /manuadd: Moves a player to desired group (Adds to the file if does not exist).
+[21:22:26] [Server thread/INFO]: /manuaddp: Adds permissions directly to the user.
+[21:22:26] [Server thread/INFO]: /manuaddsub: Adds a group to a user's subgroup list.
+[21:22:26] [Server thread/INFO]: /manuaddv: Adds or replaces a variable of a user (like prefix or suffix).
+[21:22:26] [Server thread/INFO]: /manucheckp: Verifies if user has a permission, and where it comes from.
+[21:22:26] [Server thread/INFO]: /manucheckv: Verifies a value of a variable of a user, and where it comes from.
+[21:22:26] [Server thread/INFO]: /manuclearp: Removes all permissions from a user.
+[21:22:26] [Server thread/INFO]: /manudel: Removes any user specific configuration and make them default group.
+[21:22:26] [Server thread/INFO]: /manudelp: Removes permissions directly from the user.
+[21:22:26] [Server thread/INFO]: /manudelsub: Removes a group from a user's subgroup list.
+[21:22:26] [Server thread/INFO]: /manudelv: Removes a variable from a user.
+[21:22:26] [Server thread/INFO]: /manulistp: Lists all permissions of a user.
+[21:22:26] [Server thread/INFO]: /manulistv: Lists variables of a user (like prefix or suffix).
+[21:22:26] [Server thread/INFO]: /manwhois: Lists groups and other data of a user.
+[21:22:26] [Server thread/INFO]: /manworld: Prints the selected world name.
+[21:22:26] [Server thread/INFO]: /me: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /minecraft:ban: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /minecraft:ban-ip: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /minecraft:banlist: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /minecraft:kick: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /msg: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /mute: Mute a user permanently
+[21:22:26] [Server thread/INFO]: /op: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /openender: Opens the enderchest of a player
+[21:22:26] [Server thread/INFO]: /openinv: Open a player's inventory
+[21:22:26] [Server thread/INFO]: /p: the same as /points
+[21:22:26] [Server thread/INFO]: /pam: PxAutoMessage Help Command.
+[21:22:26] [Server thread/INFO]: /paper: Paper related commands
+[21:22:26] [Server thread/INFO]: /pardon: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /particle: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /playsound: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[21:22:26] [Server thread/INFO]: /points: Root command for PlayerPoints
+[21:22:26] [Server thread/INFO]: /publish: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /recipe: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[21:22:26] [Server thread/INFO]: /replaceitem: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /restart: Restarts the server
+[21:22:26] [Server thread/INFO]: /saml: Base command for SAML.
+[21:22:26] [Server thread/INFO]: /save-all: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /save-off: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /save-on: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /say: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /schedule: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /searchenchant: Search and list players with a specific enchantment.
+[21:22:26] [Server thread/INFO]: /searchender: Searches and lists players having a specific item in their ender chest
+[21:22:26] [Server thread/INFO]: /searchinv: Search and list players having a specific item
+[21:22:26] [Server thread/INFO]: /seed: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /setblock: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /silentcontainer: Toggle SilentContainer function, which stops sounds and animations when using containers.
+[21:22:26] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /spectate: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /spigot: Spigot related commands
+[21:22:26] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /stop: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /summon: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /systemprefs: Displays System-Preferences for setting up the plugin
+[21:22:26] [Server thread/INFO]: /tab: 
+[21:22:26] [Server thread/INFO]: /tag: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /team: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /teleport: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /tell: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /tempadd: Creates a temporary permissions copy for a user.
+[21:22:26] [Server thread/INFO]: /tempban: Ban a user temporarily
+[21:22:26] [Server thread/INFO]: /tempdel: Removes the temporary permissions copy for a user.
+[21:22:26] [Server thread/INFO]: /tempdelall: Removes all overrides made by command /tempadd.
+[21:22:26] [Server thread/INFO]: /tempipban: Ban a user temporarily by IP
+[21:22:26] [Server thread/INFO]: /templist: Lists users in overload-permissions mode made by command /tempadd.
+[21:22:26] [Server thread/INFO]: /tempmute: Mute a user temporarily
+[21:22:26] [Server thread/INFO]: /tempwarn: Warn a user temporarily
+[21:22:26] [Server thread/INFO]: /time: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[21:22:26] [Server thread/INFO]: /title: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /tm: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /tp: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[21:22:26] [Server thread/INFO]: /trigger: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /unban: Unban a user
+[21:22:26] [Server thread/INFO]: /unmute: Unmute a user
+[21:22:26] [Server thread/INFO]: /unpunish: Deletes a punishment by ID
+[21:22:26] [Server thread/INFO]: /unwarn: Deletes a warn
+[21:22:26] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[21:22:26] [Server thread/INFO]: /w: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /warn: Warn a user permanently
+[21:22:26] [Server thread/INFO]: /warns: See your or a user''s warns
+[21:22:26] [Server thread/INFO]: /weather: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[21:22:26] [Server thread/INFO]: /xp: A Mojang provided command.
+[21:22:29] [Server thread/INFO]: <管理> B_lastmess >> 打裁判（
+[21:22:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 独角兽233
+[21:22:38] [Server thread/INFO]: <管理> B_lastmess >> 直接弃权（
+[21:22:43] [Server thread/INFO]: <管理> B_lastmess >> hhh
+[21:22:46] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 偏了
+[21:22:49] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你自己跑过来接箭的……
+[21:23:06] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 好了
+[21:23:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 裁判？
+[21:23:23] [Server thread/INFO]: <管理> B_lastmess >> 3
+[21:23:25] [Server thread/INFO]: <管理> B_lastmess >> 2
+[21:23:26] [Server thread/INFO]: <管理> B_lastmess >> 1
+[21:23:28] [Server thread/INFO]: <管理> B_lastmess >> ks
+[21:23:41] [Server thread/INFO]: <管理> B_lastmess >> 吃东西算输哈（
+[21:23:42] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你瞬移
+[21:23:45] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> dengxia %^
+[21:23:46] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> dengxia
+[21:23:52] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> haole
+[21:24:03] [Server thread/INFO]: <管理> B_lastmess >> 此时我们看到
+[21:24:10] [Server thread/INFO]: <管理> B_lastmess >> 双方打得十分激烈
+[21:24:13] [Server thread/INFO]: <管理> B_lastmess >> 难舍难分
+[21:24:37] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我是不是改改一下疾跑的键位……
+[21:24:47] [Server thread/INFO]: <管理> B_lastmess >> 草
+[21:24:48] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我觉得这是个好方法
+[21:24:48] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你啥疾跑
+[21:24:55] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ctrl 默认键
+[21:24:55] [Server thread/INFO]: <管理> B_lastmess >> 我ctrl((
+[21:25:06] [Server thread/INFO]: <管理> B_lastmess >> 我也来（（
+[21:25:15] [Server thread/INFO]: <管理> B_lastmess >> 打一架（
+[21:25:22] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我貌似用的F
+[21:25:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我把系统默认的疾跑和潜行换了的
+[21:25:32] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 但是F……是交换物品
+[21:25:38] [Server thread/INFO]: <管理> B_lastmess >> 对啊（
+[21:25:43] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你们有啥好的推荐吗
+[21:25:52] [Server thread/INFO]: <管理> B_lastmess >> 我就ctrl(
+[21:26:00] [Server thread/INFO]: <管理> B_lastmess >> 感觉挺方便的（
+[21:26:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我shift
+[21:26:09] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我ctrl和空格一起按会出输入法……
+[21:26:13] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> （极度难受
+[21:26:15] [Server thread/INFO]: _YuanXiao_ >> 我也是
+[21:26:17] [Server thread/INFO]: <管理> B_lastmess >> 是不是因为很多游戏的蹲下是ctrl(
+[21:26:21] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我不会
+[21:26:23] [Server thread/INFO]: <管理> B_lastmess >> 所以你换了一下（
+[21:26:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 差不多
+[21:26:32] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 刚开始玩就换了的
+[21:26:41] [Server thread/INFO]: <管理> B_lastmess >> 来吗（
+[21:26:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> shift疾跑用惯了
+[21:26:46] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 好了
+[21:26:49] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 估计可以了
+[21:26:54] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 给个图腾
+[21:26:54] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[21:26:56] [Server thread/INFO]: <管理> B_lastmess >> 脱啊（
+[21:27:19] [Server thread/INFO]: <管理> B_lastmess >> 来来来（
+[21:27:22] [Server thread/INFO]: <管理> B_lastmess >> 3
+[21:27:23] [Server thread/INFO]: <管理> B_lastmess >> 2
+[21:27:23] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 乱斗？
+[21:27:25] [Server thread/INFO]: <管理> B_lastmess >> 对
+[21:27:26] [Server thread/INFO]: <管理> B_lastmess >> 1
+[21:27:28] [Server thread/INFO]: <管理> B_lastmess >> ks
+[21:28:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 等一下这个僵尸
+[21:28:46] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 僵尸咬了我一口
+[21:28:46] [Server thread/INFO]: <管理> B_lastmess >> 要不重新来吧（
+[21:28:48] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 要不重来？
+[21:29:01] [Server thread/INFO]: <管理> B_lastmess >> 好了么
+[21:29:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ok
+[21:29:25] [Server thread/INFO]: <管理> B_lastmess >> 3
+[21:29:26] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 2
+[21:29:27] [Server thread/INFO]: <管理> B_lastmess >> 2
+[21:29:28] [Server thread/INFO]: <管理> B_lastmess >> 1
+[21:29:28] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 1
+[21:29:29] [Server thread/INFO]: <管理> B_lastmess >> ks
+[21:29:41] [Server thread/WARN]: Shammaroth was kicked due to keepalive timeout!
+[21:29:41] [Server thread/INFO]: Shammaroth lost connection: Timed out
+[21:29:41] [Server thread/INFO]: Shammaroth left the game
+[21:29:41] [Server thread/WARN]: handleDisconnection() called twice
+[21:30:33] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我没看懂
+[21:30:35] [Server thread/INFO]: <管理> B_lastmess >> ohhhhh
+[21:30:35] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[21:30:35] [Server thread/INFO]: adhesive_tape left the game
+[21:30:37] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这？
+[21:30:40] [Server thread/INFO]: <管理> B_lastmess >> 赢辣（（
+[21:30:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 乱斗你不到血最多的？
+[21:30:51] [Server thread/INFO]: <管理> B_lastmess >> ohhhhhhh
+[21:30:53] [Server thread/INFO]: <管理> B_lastmess >> (((
+[21:30:56] [Server thread/INFO]: <管理> B_lastmess >> hhh
+[21:30:58] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我们是不是应该群殴瀚明来着
+[21:30:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你追我干嘛
+[21:31:01] [Server thread/INFO]: <管理> B_lastmess >> 还打吗
+[21:31:02] [Server thread/INFO]: <管理> B_lastmess >> (((
+[21:31:05] [User Authenticator #32/INFO]: Disconnecting com.mojang.authlib.GameProfile@89ff81[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:53324): Authentication servers are down. Please try again later, sorry!
+[21:31:05] [User Authenticator #32/ERROR]: Couldn't verify username because servers are unavailable
+[21:31:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@89ff81[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:53324) lost connection: Authentication servers are down. Please try again later, sorry!
+[21:31:07] [Server thread/INFO]: <管理> B_lastmess >> hhh
+[21:31:07] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我不知道 我乱打的
+[21:31:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 憨明贼精
+[21:31:12] [User Authenticator #32/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[21:31:12] [Server thread/INFO]: adhesive_tape[/127.0.0.1:53329] logged in with entity id 206153 at ([world_nether]152.4595434847292, 118.0, 1000.062397201275)
+[21:31:14] [Server thread/INFO]: <管理> B_lastmess >> ((((
+[21:31:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 把人往中间打
+[21:31:25] [Server thread/INFO]: <管理> B_lastmess >> 来来来（
+[21:31:27] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 渔翁得利awa
+[21:31:30] [Server thread/INFO]: <管理> B_lastmess >> 3
+[21:31:32] [Server thread/INFO]: <管理> B_lastmess >> 2
+[21:31:37] [Server thread/INFO]: <管理> B_lastmess >> 1
+[21:31:39] [Server thread/INFO]: <管理> B_lastmess >> ks
+[21:31:48] [Server thread/WARN]: _YuanXiao_ moved too quickly! 0.026930134713833098,11.86652624939834,-67.90975791614154
+[21:31:54] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_15_R1.ChunkMapDistance.b(ChunkMapDistance.java:230) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.movePlayer(PlayerChunkMap.java:1363) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.movePlayer(ChunkProviderServer.java:811) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1145) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying.a(SourceFile:122) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying$PacketPlayInPositionLook.a(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1038) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1031) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1102) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[21:32:48] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 瀚明又开始啊awa
+[21:32:52] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？
+[21:32:54] [Server thread/INFO]: <管理> B_lastmess >> 怎么算（
+[21:32:55] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 同时出？
+[21:32:58] [Server thread/INFO]: <管理> B_lastmess >> 差不多
+[21:33:04] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊z
+[21:33:05] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> awa
+[21:33:12] [Server thread/INFO]: <管理> B_lastmess >> 双赢XD
+[21:33:16] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 手都疼了
+[21:33:22] [Server thread/INFO]: _YuanXiao_ >> 我等下就来
+[21:33:23] [Server thread/INFO]: <管理> B_lastmess >> 再来一把我下了（
+[21:33:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 中指一直按着w和r键
+[21:33:34] [Server thread/INFO]: <管理> B_lastmess >> hhh
+[21:33:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 每次ghost最后就打我来了
+[21:33:40] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 2333
+[21:33:47] [Server thread/INFO]: <管理> B_lastmess >> 这波先打gk(
+[21:33:49] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 毕竟你血多
+[21:33:51] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ！？
+[21:33:54] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 干嘛？
+[21:33:55] [Server thread/INFO]: <管理> B_lastmess >> 3
+[21:33:59] [Server thread/INFO]: <管理> B_lastmess >> 2
+[21:34:01] [Server thread/INFO]: <管理> B_lastmess >> 1
+[21:34:02] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 等下
+[21:34:02] [Server thread/INFO]: <管理> B_lastmess >> ks
+[21:34:04] [Server thread/INFO]: <管理> B_lastmess >> az
+[21:34:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:34:09] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？
+[21:34:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[21:34:14] [Server thread/INFO]: <管理> B_lastmess >> ?
+[21:34:20] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 哦好了
+[21:34:23] [Server thread/INFO]: <管理> B_lastmess >> 3
+[21:34:25] [Server thread/INFO]: <管理> B_lastmess >> 2
+[21:34:25] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 刚刚卡键盘了awa
+[21:34:26] [Server thread/INFO]: <管理> B_lastmess >> 1
+[21:34:28] [Server thread/INFO]: <管理> B_lastmess >> ks
+[21:35:08] [Server thread/INFO]: _YuanXiao_ >> 你们在哪
+[21:35:12] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 黑云
+[21:35:37] [Server thread/WARN]: _YuanXiao_ moved wrongly!
+[21:35:47] [Server thread/INFO]: <管理> B_lastmess >> c
+[21:35:51] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我还想打个字来着……
+[21:35:52] [Server thread/INFO]: <管理> B_lastmess >> 专打血少的？
+[21:36:01] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> t不能用R键
+[21:36:06] [Server thread/WARN]: _YuanXiao_ moved too quickly! -0.8571215544718598,-1.8283867612262839,17.253524020867076
+[21:36:11] [Server thread/WARN]: _YuanXiao_ moved too quickly! -1940.6321514069627,0.0,-4959.74653398175
+[21:36:19] [Server thread/INFO]: <管理> B_lastmess >> 济贫劫富
+[21:36:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:36:24] [Server thread/INFO]: <管理> B_lastmess >> 带善人
+[21:36:24] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ^
+[21:36:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 草 一种朱武
+[21:36:33] [Server thread/INFO]: <管理> B_lastmess >> 我下了（
+[21:36:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 一种植物
+[21:36:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[21:36:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 他挖了潜影盒没捡
+[21:37:02] [Server thread/INFO]: <管理> B_lastmess >> 还是三叉戟好玩（
+[21:37:06] [Server thread/INFO]: <管理> B_lastmess >> ?!
+[21:37:08] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 元宵报名起床了吗
+[21:37:13] [Server thread/INFO]: _YuanXiao_ >> 没有
+[21:37:15] [Server thread/INFO]: [公告] [活动·这是我的战争] 现已开放报名，详见群内公告 
+[21:37:20] [Server thread/INFO]: <管理> B_lastmess >> az
+[21:37:27] [Server thread/INFO]: <管理> B_lastmess >> 走了（
+[21:37:32] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 瀚明在哪个队啊
+[21:37:40] [Server thread/INFO]: <管理> B_lastmess >> 我还没报名
+[21:37:48] [Server thread/INFO]: <管理> B_lastmess >> 有意加绿
+[21:37:52] [Server thread/INFO]: _YuanXiao_ >> 咋报名
+[21:37:55] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> az
+[21:37:58] [Server thread/INFO]: <管理> B_lastmess >> 刚和白佬打了一架（
+[21:38:04] [Server thread/INFO]: <管理> B_lastmess >> 没打赢（
+[21:38:06] [Server thread/INFO]: <管理> B_lastmess >> 群里
+[21:38:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 修装备去了
+[21:38:09] [Server thread/INFO]: <管理> B_lastmess >> 公告
+[21:38:09] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 白佬挺强的……
+[21:38:15] [Server thread/INFO]: <管理> B_lastmess >> (((
+[21:38:16] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 元宵我们来
+[21:38:27] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 赤手搏击
+[21:38:30] [Server thread/INFO]: _YuanXiao_ >> 裸体？
+[21:38:43] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 嗯……
+[21:38:52] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你有图腾吗
+[21:38:53] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 借我个
+[21:38:54] [Server thread/INFO]: B_lastmess lost connection: Disconnected
+[21:38:54] [Server thread/INFO]: B_lastmess left the game
+[21:38:56] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[21:38:59] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 2333
+[21:39:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我把憨明打断线了
+[21:39:20] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 不能吃东西
+[21:39:21] [Server thread/INFO]: _YuanXiao_ >> 3
+[21:39:25] [Server thread/INFO]: _YuanXiao_ >> 2
+[21:39:27] [Server thread/INFO]: _YuanXiao_ >> 1
+[21:40:09] [Server thread/INFO]: _YuanXiao_ >> dx
+[21:40:16] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ?
+[21:40:17] [Server thread/INFO]: 未知指令.键入"/help"查看帮助
+[21:40:40] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 为什么要睡觉啊
+[21:40:41] [Server thread/INFO]: _YuanXiao_ >> 我卡了
+[21:40:51] [Server thread/INFO]: _YuanXiao_ >> 免得死回去
+[21:40:52] [User Authenticator #33/INFO]: UUID of player Shammaroth is 336373ac-91a9-41ed-bc50-3dcbb1e05a81
+[21:40:52] [Server thread/INFO]: Shammaroth[/127.0.0.1:53414] logged in with entity id 210736 at ([world_nether]333.48183475550326, 252.5, -6.861431284445537)
+[21:41:25] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 来吧
+[21:41:33] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 3
+[21:41:36] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 2
+[21:41:36] [Server thread/INFO]: _YuanXiao_ >> 啥都不拿
+[21:41:48] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 图腾防止死啊
+[21:41:49] [Server thread/INFO]: _YuanXiao_ >> 反正在这里四
+[21:41:54] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我身上东西多……
+[21:41:56] [Server thread/INFO]: _YuanXiao_ >> 我没了
+[21:42:02] [Server thread/INFO]: _YuanXiao_ >> 你放一下
+[21:42:11] [Server thread/INFO]: _YuanXiao_ >> 我是空的
+[21:42:26] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 允许我拿个粘液球吗
+[21:42:58] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> okay
+[21:43:03] [Server thread/INFO]: _YuanXiao_ >> ...
+[21:43:04] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 3
+[21:43:06] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 2
+[21:43:07] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 1
+[21:43:08] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ks
+[21:43:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我当裁判
+[21:43:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 连点 = =
+[21:43:55] [Server thread/WARN]: adhesive_tape moved wrongly!
+[21:44:06] [Server thread/INFO]: Ghost_king_ was slain by _YuanXiao_
+[21:44:09] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 二人转
+[21:44:13] [Server thread/WARN]: _YuanXiao_ dropped their items too quickly!
+[21:44:13] [Server thread/INFO]: _YuanXiao_ lost connection: You dropped your items too quickly (Hacking?)
+[21:44:13] [Server thread/INFO]: _YuanXiao_ left the game
+[21:44:13] [Server thread/WARN]: handleDisconnection() called twice
+[21:44:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 血都一样
+[21:44:26] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？
+[21:44:28] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 这
+[21:44:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@50800316[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:53451) lost connection: Disconnected
+[21:44:33] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 物理工具
+[21:44:34] [User Authenticator #34/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[21:44:34] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:53453] logged in with entity id 215663 at ([world]2455.062708419364, 6.0, 2483.5086947911177)
+[21:44:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我最后一圈下去
+[21:44:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 物理攻击
+[21:44:38] [Server thread/INFO]: _YuanXiao_ >> ???
+[21:44:38] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 他没死？？？？？
+[21:45:04] [Server thread/INFO]: _YuanXiao_ >> 最后半滴血
+[21:45:05] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 理应有半颗星的伤害啊
+[21:45:11] [Server thread/INFO]: _YuanXiao_ >> ?
+[21:45:14] [Server thread/INFO]: Shammaroth lost connection: Timed out
+[21:45:14] [Server thread/INFO]: Shammaroth left the game
+[21:45:19] [Server thread/INFO]: _YuanXiao_ >> 打我一下
+[21:45:21] [Server thread/INFO]: _YuanXiao_ was slain by sen_lv_ling_
+[21:45:22] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我最后都看你半颗星了 打出去我还听了
+[21:45:26] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 停了
+[21:45:30] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 然后发现你没死？？？？？
+[21:45:39] [Server thread/INFO]: _YuanXiao_ >> 我tm54级
+[21:45:46] [Server thread/INFO]: _YuanXiao_ >> ...
+[21:45:47] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我知道了
+[21:45:48] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我114级 = =
+[21:45:53] [Server thread/INFO]: _YuanXiao_ >> ..
+[21:45:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 本来120多
+[21:46:02] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 经验给予了你名刀
+[21:46:03] [User Authenticator #35/INFO]: UUID of player Shammaroth is 336373ac-91a9-41ed-bc50-3dcbb1e05a81
+[21:46:03] [Server thread/INFO]: Shammaroth[/127.0.0.1:53469] logged in with entity id 216027 at ([world_nether]340.19999484021525, 209.5, -9.54922607887449)
+[21:46:33] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 对了 你刚刚说谁连点？
+[21:46:38] [Server thread/INFO]: _YuanXiao_ >> 对
+[21:46:48] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 刚刚听声音有点
+[21:46:55] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 听的声音……
+[21:47:00] [Server thread/INFO]: _YuanXiao_ >> ...
+[21:47:01] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 是不是这样
+[21:47:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 频率极快的声音
+[21:47:11] [Server thread/INFO]: _YuanXiao_ >> 这样
+[21:47:18] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 嗯
+[21:47:26] [Server thread/INFO]: _YuanXiao_ >> 蝴蝶指
+[21:47:32] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> nb
+[21:47:36] [Server thread/INFO]: _YuanXiao_ >> 跟q3学的
+[21:47:43] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> dc学不来
+[21:48:12] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 荆棘反伤痛啊QAQ
+[21:48:16] [Server thread/INFO]: _YuanXiao_ >> hhh
+[21:48:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> = =
+[21:48:34] [Server thread/INFO]: _YuanXiao_ >> 来啊
+[21:48:42] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 不穿甲
+[21:48:46] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 穿甲玩死人……
+[21:48:48] [Server thread/INFO]: _YuanXiao_ >> ???
+[21:49:00] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你可能不留意 打着打着耐久就没了
+[21:49:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 对
+[21:49:07] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 装甲超级脆
+[21:49:14] [Server thread/INFO]: _YuanXiao_ >> 用一个东西填满背包
+[21:49:17] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 特别是我发现三叉戟打装甲
+[21:49:24] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 耐久掉的超快
+[21:49:30] [Server thread/INFO]: _YuanXiao_ >> 这样？
+[21:49:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 真.穿刺
+[21:49:36] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> awa
+[21:50:01] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 元宵你手速有多快
+[21:50:09] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> dps多少
+[21:50:15] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我记得有个叫什么ps的
+[21:50:15] [Server thread/INFO]: _YuanXiao_ >> cps
+[21:50:19] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 哦cps
+[21:50:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:50:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我迷糊了
+[21:50:32] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不对
+[21:50:36] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 这玩意怎么测啊
+[21:50:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> dps是啥来着
+[21:50:40] [Server thread/INFO]: _YuanXiao_ >> 20多把
+[21:50:46] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> dps全称是啥
+[21:50:46] [Server thread/INFO]: _YuanXiao_ >> 以前测过
+[21:51:12] [Server thread/INFO]: _YuanXiao_ >> 好肉
+[21:51:15] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:51:16] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ?
+[21:51:27] [Server thread/INFO]: _YuanXiao_ >> 12点攻击
+[21:51:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 什么好肉
+[21:51:36] [Server thread/INFO]: _YuanXiao_ >> sen_lv_ling_
+[21:51:47] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 一斧头砍了我头盔5点耐久……
+[21:51:54] [Server thread/INFO]: _YuanXiao_ >> hhh
+[21:51:56] [User Authenticator #36/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[21:51:57] [Server thread/INFO]: Mr_director[/127.0.0.1:53515] logged in with entity id 217259 at ([world_nether]99.30000001192093, 54.0, 444.5865628036215)
+[21:52:11] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 别射了
+[21:52:16] [Server thread/INFO]: _YuanXiao_ >> ???
+[21:52:27] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 还好我刚刚修了下装备
+[21:52:42] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？
+[21:52:44] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 瞬移？
+[21:52:51] [Server thread/INFO]: _YuanXiao_ >> 我也说
+[21:53:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我看没有
+[21:53:08] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 珍珠+砍击
+[21:53:10] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> awa
+[21:53:18] [Server thread/INFO]: Mr_director >> pvp呢？
+[21:53:18] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 上古绝学awa
+[21:53:21] [Server thread/INFO]: Mr_director >> 马上来
+[21:53:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 黑云
+[21:53:30] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 要不搞个擂台awa
+[21:53:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@7be4ac18[id=<null>,name=jason_ji,properties={},legacy=false] (/127.0.0.1:53534) lost connection: Disconnected
+[21:53:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 自备图腾
+[21:53:36] [User Authenticator #37/INFO]: Disconnecting /127.0.0.1:53534: Failed to verify username!
+[21:53:36] [User Authenticator #37/ERROR]: Username 'jason_ji' tried to join with an invalid session
+[21:53:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这不是有么
+[21:53:39] [User Authenticator #38/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[21:53:39] [Server thread/INFO]: jason_ji[/127.0.0.1:53536] logged in with entity id 217690 at ([world]5301.770261672084, 74.0, 338.4106216910836)
+[21:53:49] [Server thread/INFO]: Mr_director >> 等下我没胸甲的
+[21:53:51] [Server thread/INFO]: Mr_director >> 淦
+[21:53:52] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[21:53:52] [Server thread/INFO]: Ghost_king_ left the game
+[21:53:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你说的是擂主那种？
+[21:53:56] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:54:18] [Server thread/INFO]: Mr_director >> 算了没就没
+[21:54:33] [User Authenticator #38/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[21:54:34] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53547] logged in with entity id 219038 at ([world]2484.9597142115863, 6.0, 2500.477442009936)
+[21:54:57] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:55:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 凋零
+[21:55:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 真.手撕凋零
+[21:55:23] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 最后一下用tnt搞掉awa
+[21:55:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ？？？
+[21:55:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你们干嘛
+[21:56:00] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 入肉凋零awa
+[21:56:03] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[21:56:03] [Server thread/INFO]: Ghost_king_ left the game
+[21:56:04] [Server thread/INFO]: _YuanXiao_ >> Ghost_king_干的
+[21:56:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:56:54] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[21:57:07] [Server thread/INFO]: Mr_director >> 没有就现做一个（
+[21:58:18] [Server thread/INFO]: adhesive_tape >> mr来空置域帮我
+[21:58:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[21:58:34] [Server thread/INFO]: Mr_director >> 帮杀
+[21:58:36] [Server thread/INFO]: Mr_director >> 啥
+[21:58:41] [Server thread/INFO]: adhesive_tape >> 盾构机、
+[21:58:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 元宵
+[21:58:47] [Server thread/INFO]: Mr_director >> 我没图示
+[21:58:49] [User Authenticator #39/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[21:58:49] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53589] logged in with entity id 222150 at ([world]2518.0518786570547, 6.0, 2502.069393177758)
+[21:58:58] [Server thread/INFO]: adhesive_tape >> 你就过来砍砍eoeo
+[21:59:01] [Server thread/INFO]: adhesive_tape >> 就行
+[21:59:06] [Server thread/INFO]: Mr_director >> k
+[21:59:06] [Server thread/INFO]: adhesive_tape >> 盾构机已经做好了
+[21:59:12] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 说敏感词被强制崩端awa
+[21:59:25] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 元宵，刚刚一个苦力怕在你旁边准备炸你，结果被凋零打死了2333
+[21:59:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?????????????
+[21:59:38] [Server thread/INFO]: _YuanXiao_ >> cao
+[21:59:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?????????????
+[21:59:51] [Server thread/INFO]: _YuanXiao_ >> Ghost_king_你死了
+[21:59:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ghost危
+[22:00:05] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 没看血量%
+[22:00:09] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 打着打着咋就没了%
+[22:00:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你完了
+[22:00:17] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 哦 tnt炸的（
+[22:00:20] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 快去刷头
+[22:00:21] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.261832766973384,0.0,1.2123133496802438
+[22:00:21] [Server thread/INFO]: _YuanXiao_ >> 你不给弄回去一个
+[22:00:24] [Server thread/INFO]: Mr_director >> 来了
+[22:00:55] [Server thread/WARN]: _YuanXiao_ moved wrongly!
+[22:01:18] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我看看……%
+[22:01:22] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> Ghost_king_
+[22:01:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我去空置域那边刷头
+[22:01:40] [Server thread/INFO]: Mr_director >> 安稳落地
+[22:01:47] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你给入港的人看的那本书被炸没了
+[22:01:55] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 早被炸了……
+[22:02:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 对啊
+[22:02:03] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 懒得写；额
+[22:02:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 所以我不知道哪些是海晶的哪些不是
+[22:02:27] [Server thread/INFO]: Ghost_king_ has made the advancement [A Terrible Fortress]
+[22:02:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 总有一堆不认识的人在海晶逛
+[22:02:44] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 没带抗火……
+[22:02:47] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我人傻了
+[22:02:50] [Server thread/INFO]: _YuanXiao_ >> 我算不算
+[22:02:54] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 哟抗火干嘛 = =
+[22:03:48] [Server thread/INFO]: Ghost_king_ has made the advancement [Spooky Scary Skeleton]
+[22:03:50] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 卧槽
+[22:03:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[22:03:55] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 欧气爆炸
+[22:04:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你不对劲
+[22:04:12] [Server thread/INFO]: Mr_director >> 第几个骷髅
+[22:04:15] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 第一个
+[22:04:31] [Server thread/INFO]: Mr_director >> 都差不多
+[22:04:32] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 诶？
+[22:04:36] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我的萝北呢?
+[22:04:42] [Server thread/INFO]: Mr_director >> 我那个三个一起来的
+[22:04:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[22:04:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我也就3个萝卜2333
+[22:04:57] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不对
+[22:04:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 2ge
+[22:05:06] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 算了 吃金屁股吧
+[22:05:10] [Server thread/WARN]: _YuanXiao_ moved too quickly! 0.5250538452504543,-1.011284336034592,51.143017110055325
+[22:05:13] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[22:05:13] [Server thread/INFO]: jason_ji left the game
+[22:05:53] [Server thread/INFO]: _YuanXiao_ >> Ghost_king也带我去刷会呗awa
+[22:06:02] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 空置域 自己下来找
+[22:06:16] [Server thread/INFO]: Shammaroth has made the advancement [Acquire Hardware]
+[22:06:18] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我今天在主城下面刷了6个头
+[22:08:46] [Server thread/INFO]: _YuanXiao_ >> 我去弄点灵魂沙
+[22:08:49] [Server thread/INFO]: Shammaroth has made the advancement [Suit Up]
+[22:08:54] [Server thread/INFO]: adhesive_tape >> eoe
+[22:09:17] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 两个
+[22:09:22] [Server thread/INFO]: _YuanXiao_ >> ???
+[22:09:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你不对劲
+[22:09:31] [Server thread/INFO]: Shammaroth has made the advancement [Isn't It Iron Pick]
+[22:09:45] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[22:09:45] [Server thread/INFO]: Ghost_king_ left the game
+[22:10:00] [Server thread/INFO]: _YuanXiao_ tried to swim in lava
+[22:10:05] [Server thread/INFO]: _YuanXiao_ >> cao
+[22:10:09] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[22:10:10] [User Authenticator #40/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[22:10:10] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53685] logged in with entity id 228474 at ([world_nether]152.74360626716583, 69.0, 898.9634685544687)
+[22:10:20] [Server thread/INFO]: Mr_director >> 希望盾构机没事
+[22:10:20] [Server thread/INFO]: adhesive_tape >> 2333
+[22:10:22] [Server thread/INFO]: Mr_director >> 希望我没事
+[22:10:29] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 问题来了
+[22:10:34] [Server thread/INFO]: Mr_director >> 希望GK赶紧出事
+[22:10:40] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？
+[22:10:42] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 怎么会被岩浆烧死
+[22:10:45] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> what？
+[22:10:59] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 什么人啊 竟然诅咒我
+[22:11:10] [Server thread/INFO]: Mr_director >> 233
+[22:11:19] [Server thread/INFO]: Shammaroth has made the advancement [Diamonds!]
+[22:11:21] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 希望gk有事
+[22:11:52] [Server thread/INFO]: Shammaroth has made the advancement [Cover Me With Diamonds]
+[22:11:57] [Server thread/INFO]: adhesive_tape >> 好了
+[22:12:03] [Server thread/INFO]: Mr_director >> 当时你在史莱姆空置域挂机
+[22:12:10] [Server thread/INFO]: Mr_director >> 为了救你我差点死了
+[22:12:16] [Server thread/INFO]: adhesive_tape >> 下来
+[22:12:19] [Server thread/INFO]: adhesive_tape >> 开机
+[22:12:28] [Server thread/INFO]: adhesive_tape >> 有点怕
+[22:12:43] [Server thread/INFO]: Mr_director >> 我躲远点
+[22:13:42] [Server thread/INFO]: adhesive_tape >> 好了
+[22:13:45] [Server thread/INFO]: adhesive_tape >> 没坏
+[22:13:53] [Server thread/INFO]: adhesive_tape >> 可以开机了
+[22:14:25] [Server thread/INFO]: Mr_director >> 话说这样如果没控制好会不会炸了那边的盒子
+[22:14:26] [Server thread/INFO]: adhesive_tape >> 好的
+[22:14:34] [Server thread/INFO]: adhesive_tape >> 啥
+[22:14:52] [Server thread/INFO]: Mr_director >> 你们在入口不是有堆盒子么
+[22:15:19] [Server thread/INFO]: adhesive_tape >> 莫得问题
+[22:15:40] [Server thread/INFO]: Shammaroth lost connection: Disconnected
+[22:15:40] [Server thread/INFO]: Shammaroth left the game
+[22:15:42] [Server thread/INFO]: adhesive_tape >> 自动驾驶
+[22:15:48] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 别自动驾驶
+[22:15:56] [Server thread/INFO]: adhesive_tape >> 好吧
+[22:15:57] [Server thread/INFO]: Mr_director >> 还上车么
+[22:15:58] [Server thread/INFO]: adhesive_tape >> 3
+[22:15:59] [Server thread/INFO]: adhesive_tape >> 2
+[22:16:01] [Server thread/INFO]: adhesive_tape >> 1
+[22:16:01] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 某人的盾构机就是自动驾驶直接无了
+[22:16:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ohhhhhhhhhhhh
+[22:16:16] [Server thread/INFO]: Mr_director >> 就是前面那个？
+[22:16:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 自动走起
+[22:16:56] [Server thread/INFO]: adhesive_tape >> 停会
+[22:17:32] [Server thread/INFO]: Mr_director >> 这里就安全点了
+[22:17:58] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ou？
+[22:18:00] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你们也在？
+[22:18:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 哈皮
+[22:18:10] [Server thread/INFO]: Mr_director >> 哈皮
+[22:18:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 比你来的早
+[22:18:15] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 是吗
+[22:18:22] [Server thread/INFO]: adhesive_tape >> ...
+[22:18:26] [Server thread/INFO]: Mr_director >> 你来之前我都吃了20个胡萝卜了
+[22:18:26] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我刚刚下去转了一圈
+[22:18:48] [Server thread/INFO]: adhesive_tape >> 莫得问题
+[22:18:49] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 发现这个城堡害蛮大的
+[22:18:54] [Server thread/INFO]: adhesive_tape >> 10连发准备
+[22:18:59] [Server thread/INFO]: adhesive_tape >> 3
+[22:19:01] [Server thread/INFO]: adhesive_tape >> 2
+[22:19:02] [Server thread/INFO]: adhesive_tape >> 1
+[22:19:32] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 10连发？？？？
+[22:19:37] [Server thread/INFO]: adhesive_tape >> lava
+[22:19:42] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 走你
+[22:19:45] [Server thread/INFO]: Mr_director >> k
+[22:20:08] [Server thread/INFO]: adhesive_tape >> 记得跟我说有岩浆
+[22:20:14] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我这个高度不会被炸到吧
+[22:20:16] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[22:20:16] [Server thread/INFO]: _YuanXiao_ left the game
+[22:20:22] [Server thread/INFO]: adhesive_tape >> 我看不完这一排所有地方
+[22:21:03] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[22:21:09] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 打不准
+[22:21:09] [Server thread/INFO]: Mr_director >> 刚才光顾着拿弓射jk
+[22:21:22] [Server thread/INFO]: Mr_director >> gk
+[22:21:26] [Server thread/INFO]: adhesive_tape >> 好了发1，没好发2
+[22:21:26] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？？？
+[22:21:33] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[22:21:33] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 神他妈射我干嘛
+[22:21:34] [Server thread/INFO]: adhesive_tape >> 所有人准备完毕发车
+[22:21:38] [Server thread/INFO]: Mr_director >> 1
+[22:21:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 老司机开始
+[22:21:52] [Server thread/INFO]: adhesive_tape >> 全自动驾驶
+[22:21:55] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 别！
+[22:22:00] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 等会你炸到我了
+[22:22:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 没问题
+[22:22:05] [Server thread/INFO]: Mr_director >> 岩浆
+[22:22:12] [Server thread/INFO]: adhesive_tape >> ...
+[22:22:14] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 别全自动球去了
+[22:22:25] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ok
+[22:22:30] [Server thread/INFO]: Mr_director >> k
+[22:22:32] [Server thread/INFO]: Mr_director >> 1
+[22:22:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 开炮
+[22:22:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> lava
+[22:22:59] [Server thread/INFO]: Mr_director >> 岩浆
+[22:23:08] [Server thread/INFO]: adhesive_tape >> ..
+[22:23:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[22:23:15] [Server thread/INFO]: Mr_director >> 石英
+[22:23:19] [Server thread/INFO]: adhesive_tape >> 挖
+[22:23:22] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 草
+[22:23:25] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 还没掉……
+[22:23:32] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 卡在2个头
+[22:23:34] [Server thread/INFO]: Mr_director >> 1
+[22:23:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> gogogo
+[22:23:56] [Server thread/INFO]: Mr_director >> 1
+[22:24:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[22:24:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[22:24:19] [Server thread/INFO]: Mr_director >> 走吧直接
+[22:24:25] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 司机跑了
+[22:24:32] [Server thread/INFO]: adhesive_tape >> 挖一下石头
+[22:24:32] [Server thread/INFO]: Mr_director >> 右边空的有也没辙
+[22:24:44] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 吧侦测器看成凋零头%
+[22:24:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[22:24:56] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 等等
+[22:25:04] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 地上怎么会有侦测器？
+[22:25:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 炸的
+[22:25:20] [Server thread/INFO]: Mr_director >> 长江后浪推前浪
+[22:25:24] [Server thread/INFO]: Mr_director >> 那是前浪
+[22:25:44] [Server thread/INFO]: adhesive_tape >> 好了
+[22:25:45] [Server thread/INFO]: adhesive_tape >> 继续
+[22:25:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> gogogo
+[22:26:25] [Server thread/INFO]: Mr_director >> 直接地上走好了
+[22:26:29] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 司机上不来车了
+[22:26:40] [Server thread/INFO]: Mr_director >> 草我以为森宇下来了
+[22:26:43] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[22:26:50] [Server thread/INFO]: adhesive_tape >> 3
+[22:26:50] [Server thread/INFO]: adhesive_tape >> 2
+[22:26:51] [Server thread/INFO]: adhesive_tape >> 1
+[22:26:52] [Server thread/INFO]: Mr_director >> 皮肤一样
+[22:26:54] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[22:26:59] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 问一下
+[22:27:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 明天换个皮肤2333
+[22:27:15] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> α β γ 下一个是啥
+[22:27:29] [Server thread/INFO]: Mr_director >> jk把下面的石英挖一下
+[22:27:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> η233
+[22:27:31] [Server thread/INFO]: Mr_director >> gk
+[22:27:45] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我在测距%
+[22:28:03] [Server thread/INFO]: Mr_director >> 无岩浆，司机开车
+[22:28:10] [Server thread/INFO]: adhesive_tape >> ok
+[22:28:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 无司机，岩浆开车
+[22:28:27] [Server thread/INFO]: Mr_director >> 1
+[22:28:31] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 那个叫什么森语
+[22:28:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[22:28:38] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> γ后面的
+[22:28:41] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 叫什么
+[22:28:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我不知道
+[22:28:46] [Server thread/INFO]: Mr_director >> 1
+[22:28:47] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ^???
+[22:28:58] [Server thread/INFO]: adhesive_tape >> 太慢了
+[22:29:00] [Server thread/INFO]: adhesive_tape >> 自动驾驶
+[22:29:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> gogogo
+[22:29:06] [Server thread/INFO]: Mr_director >> k
+[22:29:15] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 相信我 自动驾驶你会没的
+[22:29:19] [Server thread/INFO]: Mr_director >> 右边我看着
+[22:30:09] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 没吃的了……
+[22:30:19] [Server thread/INFO]: Mr_director >> 我有生鱼
+[22:30:21] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 打猪人，吃腐肉
+[22:30:47] [Server thread/INFO]: adhesive_tape >> 可以
+[22:30:49] [Server thread/INFO]: adhesive_tape >> 没问题
+[22:30:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 舒服
+[22:30:56] [Server thread/INFO]: Mr_director >> 你也可以试试岩浆膏
+[22:30:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[22:31:02] [Server thread/INFO]: Mr_director >> 我听说跟糯米团子一样
+[22:31:14] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我发现到现在竟然没有刷eoe？？？
+[22:31:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 和粘液球配合食用
+[22:31:23] [Server thread/INFO]: Mr_director >> 正常
+[22:31:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> lava
+[22:31:30] [Server thread/INFO]: Mr_director >> 周围全是猪人
+[22:31:51] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> γ后面的叫啥啊喂
+[22:32:01] [Server thread/INFO]: adhesive_tape >> delta?
+[22:32:28] [Server thread/INFO]: adhesive_tape >> 没了把？
+[22:32:33] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> η
+[22:32:41] [Server thread/INFO]: adhesive_tape >> ita
+[22:32:41] [Server thread/INFO]: Mr_director >> 刷烈焰人可还行
+[22:32:42] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[22:32:42] [Server thread/INFO]: Ghost_king_ left the game
+[22:32:47] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[22:33:03] [Server thread/INFO]: Mr_director >> 没干扰了
+[22:33:08] [Server thread/INFO]: Mr_director >> 赶紧上车
+[22:33:16] [Server thread/WARN]: sen_lv_ling_ moved wrongly!
+[22:33:28] [Server thread/INFO]: Mr_director >> 岩浆
+[22:33:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 下一发还有岩浆
+[22:34:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[22:34:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 司机火了
+[22:34:20] [Server thread/INFO]: adhesive_tape >> 我火了
+[22:34:25] [Server thread/INFO]: adhesive_tape >> XD
+[22:34:27] [Server thread/INFO]: Mr_director >> 我也火了
+[22:34:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[22:35:09] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 拿身体挡火球
+[22:35:13] [Server thread/INFO]: Mr_director >> 机子没事吧
+[22:35:22] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 没
+[22:35:35] [Server thread/INFO]: adhesive_tape >> 没事
+[22:35:36] [Server thread/INFO]: adhesive_tape >> 继续
+[22:35:50] [Server thread/INFO]: Mr_director >> 1
+[22:35:56] [Server thread/INFO]: Mr_director >> 等下
+[22:36:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[22:36:06] [Server thread/INFO]: Mr_director >> 我没看见那里的岩浆
+[22:36:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 烈焰人飞上来了233
+[22:37:15] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[22:37:29] [Server thread/INFO]: Mr_director >> f
+[22:37:30] [User Authenticator #41/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[22:37:30] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53928] logged in with entity id 239509 at ([world_nether]321.65977889407907, 118.0, 819.9415879470153)
+[22:37:32] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[22:37:36] [Server thread/INFO]: adhesive_tape >> hh
+[22:37:39] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 偶
+[22:37:44] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 德尔塔
+[22:37:44] [Server thread/INFO]: Mr_director >> k
+[22:37:47] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> xs
+[22:37:50] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> δ
+[22:38:09] [Server thread/INFO]: Mr_director >> 森宇你为什么只是站着
+[22:38:18] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我负责划水啊
+[22:38:54] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> where
+[22:39:26] [Server thread/INFO]: Mr_director >> 我一戟插死你个憨批
+[22:39:29] [Server thread/INFO]: adhesive_tape >> 继续
+[22:39:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[22:39:35] [Server thread/INFO]: Mr_director >> gogogo
+[22:39:47] [Server thread/INFO]: Mr_director >> 岩浆
+[22:40:19] [Server thread/INFO]: Mr_director >> 1
+[22:40:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 接下来自动
+[22:40:49] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我们刚刚刷头的地方好像就是确切的位置
+[22:41:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 岩浆
+[22:41:23] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[22:41:23] [Server thread/INFO]: Ghost_king_ left the game
+[22:41:29] [Server thread/INFO]: adhesive_tape >> 啊当然
+[22:41:39] [Server thread/INFO]: adhesive_tape >> 4022选的位置还挺好
+[22:41:47] [Server thread/INFO]: adhesive_tape >> ghigh前期工作做的也不错
+[22:41:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 接下来自动
+[22:41:56] [User Authenticator #42/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[22:41:56] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53967] logged in with entity id 241704 at ([world_nether]155.16255737023656, 121.0, 843.0903472227527)
+[22:41:59] [Server thread/INFO]: Mr_director >> 等下
+[22:42:00] [Server thread/INFO]: Mr_director >> 石英
+[22:42:20] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你jio下
+[22:42:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 还有
+[22:42:47] [Server thread/INFO]: Mr_director >> 就这样
+[22:42:49] [Server thread/INFO]: adhesive_tape >> 自动？
+[22:42:54] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 嗯
+[22:43:03] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你们怎么如此执迷于自动……
+[22:43:18] [Server thread/INFO]: Mr_director >> 这个自动完全没问题啊
+[22:43:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 岩浆
+[22:43:28] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 根据服务器的尿性
+[22:43:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 自动九成会炸
+[22:44:22] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 自动
+[22:44:27] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> az&
+[22:44:34] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 别怪我没有提醒你们啊喂
+[22:44:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 哈皮
+[22:44:45] [Server thread/INFO]: Mr_director >> 哈皮
+[22:44:51] [Server thread/INFO]: Mr_director >> 有一长段全是自动
+[22:44:53] [Server thread/INFO]: adhesive_tape >> 都开了这么久了
+[22:45:11] [Server thread/INFO]: Mr_director >> 脚手架无了
+[22:45:27] [Server thread/INFO]: Mr_director >> 卸磨杀驴
+[22:45:33] [Server thread/INFO]: adhesive_tape >> 脚手架可以要
+[22:45:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[22:45:52] [Server thread/INFO]: Mr_director >> 还真可以
+[22:45:59] [Server thread/INFO]: adhesive_tape >> hhh
+[22:46:03] [Server thread/INFO]: Mr_director >> s
+[22:46:06] [Server thread/INFO]: Mr_director >> sile
+[22:46:23] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 脚手架回收了？？？？？？？
+[22:46:26] [Server thread/INFO]: adhesive_tape >> en
+[22:46:43] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 手动
+[22:46:48] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[22:46:48] [Server thread/INFO]: Ghost_king_ lost connection: Flying is not enabled on this server
+[22:46:48] [Server thread/INFO]: Ghost_king_ left the game
+[22:46:48] [Server thread/WARN]: handleDisconnection() called twice
+[22:47:11] [User Authenticator #43/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[22:47:11] [Server thread/INFO]: Ghost_king_[/127.0.0.1:54011] logged in with entity id 244047 at ([world_nether]306.4258321451196, 115.05411736736092, 883.5418284485165)
+[22:47:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 手动
+[22:47:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 手动
+[22:48:19] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 等下 脚手架先拆完
+[22:48:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[22:49:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 烈焰人，飞天！
+[22:49:13] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> mr
+[22:49:19] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 接好脚手架
+[22:49:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 自动自动
+[22:49:45] [Server thread/INFO]: adhesive_tape >> 3分钟把脚手架柴湾
+[22:49:49] [Server thread/INFO]: adhesive_tape >> 3分钟把脚手架拆完
+[22:49:54] [Server thread/INFO]: adhesive_tape >> 52分开寄
+[22:49:57] [Server thread/INFO]: adhesive_tape >> 52分开机
+[22:50:51] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 强迫症表示极其的双
+[22:51:10] [Server thread/INFO]: adhesive_tape >> 地狱岩拆了
+[22:51:14] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我得下了 睡觉了
+[22:51:28] [Server thread/INFO]: adhesive_tape >> a晚安
+[22:51:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 明天准备规划下世吞？
+[22:51:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 晚安
+[22:51:34] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 安安~
+[22:51:39] [Server thread/INFO]: adhesive_tape >> 归毛线
+[22:51:42] [Server thread/INFO]: Mr_director >> 还有一边呢
+[22:51:46] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？？？
+[22:51:52] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 就一点点吧
+[22:52:03] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 用简易轰炸机炸完呗
+[22:52:16] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[22:52:16] [Server thread/INFO]: Ghost_king_ left the game
+[22:52:25] [Server thread/INFO]: adhesive_tape >> 好了
+[22:52:33] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 自动自动
+[22:53:14] [Server thread/INFO]: Mr_director >> 末影箱，yyds
+[22:53:25] [Server thread/INFO]: Mr_director >> 前面末影箱
+[22:53:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 手动
+[22:54:15] [Server thread/INFO]: Mr_director >> 这里森宇下去去左边吧
+[22:54:17] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[22:54:17] [Server thread/INFO]: sen_lv_ling_ left the game
+[22:54:20] [Server thread/INFO]: Mr_director >> cao
+[22:55:03] [Server thread/INFO]: Mr_director >> 等下森宇？
+[22:55:13] [Server thread/INFO]: adhesive_tape >> 差不多
+[22:55:17] [Server thread/INFO]: adhesive_tape >> 来不来都行
+[22:55:23] [Server thread/INFO]: adhesive_tape >> 等吧
+[22:55:23] [Server thread/INFO]: Mr_director >> e
+[22:55:25] [Server thread/INFO]: Mr_director >> eoe
+[22:56:08] [Server thread/INFO]: adhesive_tape >> 你在哪
+[22:56:11] [Server thread/INFO]: Mr_director >> 右边
+[22:56:14] [Server thread/INFO]: Mr_director >> 左边东西少
+[22:56:19] [Server thread/INFO]: Mr_director >> 等下
+[22:56:22] [Server thread/INFO]: Mr_director >> 左边
+[22:56:30] [Server thread/INFO]: Mr_director >> 说错了
+[22:57:01] [Server thread/INFO]: Mr_director >> kk
+[22:57:14] [Server thread/INFO]: Mr_director >> 走吧
+[22:57:27] [Server thread/INFO]: Mr_director >> 石英
+[22:57:46] [Server thread/INFO]: adhesive_tape >> 前面岩浆多不多
+[22:58:11] [Server thread/INFO]: Mr_director >> 有点多
+[22:58:30] [Server thread/INFO]: adhesive_tape >> 能不能直接填上
+[22:58:33] [Server thread/INFO]: Mr_director >> k
+[22:58:35] [Server thread/INFO]: Mr_director >> neng
+[22:58:42] [Server thread/INFO]: Mr_director >> 走
+[22:58:43] [Server thread/INFO]: adhesive_tape >> 然后开全自动一路炸到头
+[22:58:46] [User Authenticator #44/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[22:58:46] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:54122] logged in with entity id 249477 at ([world_nether]140.30000001192093, 120.0, 875.6999999880791)
+[22:58:53] [Server thread/INFO]: Mr_director >> 那样不行
+[22:59:02] [Server thread/INFO]: adhesive_tape >> 灵魂出窍英文是啥
+[22:59:07] [Server thread/INFO]: adhesive_tape >> 我这里找不到
+[22:59:27] [Server thread/INFO]: Mr_director >> freecame
+[22:59:33] [Server thread/INFO]: Mr_director >> 等下
+[22:59:48] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> free camera
+[22:59:48] [Server thread/INFO]: Mr_director >> freecamera
+[22:59:55] [Server thread/INFO]: Mr_director >> 石英
+[23:02:22] [Server thread/INFO]: Mr_director >> 我ok
+[23:02:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 自动、
+[23:02:50] [Server thread/INFO]: adhesive_tape >> ok
+[23:03:17] [Server thread/INFO]: Mr_director >> 森宇多看着右边点
+[23:03:21] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 嗯
+[23:03:32] [Server thread/INFO]: Mr_director >> 石英
+[23:03:36] [Server thread/INFO]: adhesive_tape >> 不熬了
+[23:03:39] [Server thread/INFO]: Mr_director >> k
+[23:03:40] [Server thread/INFO]: adhesive_tape >> 不要了
+[23:03:42] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[23:03:47] [Server thread/INFO]: Mr_director >> ...
+[23:03:51] [Server thread/INFO]: Mr_director >> 不得不要
+[23:03:53] [Server thread/INFO]: Mr_director >> 停车
+[23:04:21] [Server thread/INFO]: Mr_director >> 你看上面那个倔强的石英
+[23:06:24] [Server thread/INFO]: Mr_director >> 我好了
+[23:06:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 司机无了
+[23:07:10] [Server thread/INFO]: Mr_director >> lava
+[23:07:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> lava
+[23:07:53] [Server thread/INFO]: Mr_director >> 刚才机器怎么自己往前走了
+[23:08:16] [Server thread/INFO]: Mr_director >> 应该是我的渲染问题
+[23:08:30] [Server thread/INFO]: Mr_director >> 1
+[23:08:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 自动
+[23:09:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这倔强的石英
+[23:10:50] [Server thread/INFO]: Mr_director >> 石英突然好多
+[23:11:04] [Server thread/INFO]: Mr_director >> k
+[23:11:32] [Server thread/INFO]: Mr_director >> lava
+[23:12:05] [Server thread/INFO]: adhesive_tape >> 开一次机消耗一个侦测器。。
+[23:12:09] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[23:12:11] [Server thread/INFO]: Mr_director >> ...
+[23:12:33] [Server thread/INFO]: Mr_director >> 没事这些石英够回本的了
+[23:12:43] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 建议司机别下来
+[23:12:52] [Server thread/INFO]: Mr_director >> 对
+[23:12:55] [Server thread/INFO]: adhesive_tape >> ok
+[23:12:56] [Server thread/INFO]: Mr_director >> 俩人够了
+[23:13:04] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 自动
+[23:13:31] [Server thread/INFO]: adhesive_tape >> 右边。。
+[23:13:54] [Server thread/INFO]: Mr_director >> 我找回来三个探测器
+[23:14:15] [Server thread/INFO]: adhesive_tape >> z这恶魂年轻
+[23:14:20] [Server thread/INFO]: adhesive_tape >> 还想干我
+[23:14:32] [Server thread/INFO]: Mr_director >> 老了干不动了
+[23:14:38] [Server thread/INFO]: adhesive_tape >> 直接就给他射回去
+[23:14:42] [Server thread/INFO]: adhesive_tape >> ok?
+[23:14:45] [Server thread/INFO]: Mr_director >> k
+[23:15:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 石英！
+[23:15:25] [Server thread/INFO]: adhesive_tape >> 这么多。。
+[23:15:40] [Server thread/INFO]: Mr_director >> 手动吧
+[23:15:43] [Server thread/INFO]: Mr_director >> 石英太多了
+[23:17:16] [Server thread/INFO]: Mr_director >> 边的先放过
+[23:17:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 归位
+[23:17:38] [Server thread/INFO]: adhesive_tape >> 3
+[23:17:39] [Server thread/INFO]: adhesive_tape >> 2
+[23:17:39] [Server thread/INFO]: adhesive_tape >> 1
+[23:17:52] [Server thread/INFO]: Mr_director >> java
+[23:18:11] [Server thread/INFO]: Mr_director >> 司机别下来了
+[23:18:21] [Server thread/INFO]: adhesive_tape >> ...
+[23:18:28] [Server thread/INFO]: adhesive_tape >> 我要喝热水哦
+[23:18:46] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 和岩浆
+[23:18:46] [Server thread/INFO]: Mr_director >> 下来上去费事
+[23:19:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 开车啊
+[23:19:29] [Server thread/INFO]: adhesive_tape >> ok
+[23:19:41] [Server thread/INFO]: Mr_director >> 一小段距离左半边基本空的
+[23:19:46] [Server thread/INFO]: Mr_director >> 右半边..
+[23:19:51] [Server thread/INFO]: Mr_director >> 岩浆
+[23:20:20] [Server thread/INFO]: Mr_director >> 1
+[23:20:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:20:46] [Server thread/INFO]: Mr_director >> 拿瓶快乐水
+[23:20:48] [Server thread/INFO]: Mr_director >> 1
+[23:21:01] [Server thread/INFO]: adhesive_tape >> sen?
+[23:21:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你只管开车，办法由Mr来想
+[23:21:12] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:21:33] [Server thread/INFO]: Mr_director >> lava
+[23:21:33] [Server thread/INFO]: adhesive_tape >> 有内味了
+[23:21:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> lava
+[23:21:43] [Server thread/INFO]: adhesive_tape >> 加油啊
+[23:21:50] [Server thread/INFO]: adhesive_tape >> 争取12点前炸完
+[23:22:01] [Server thread/INFO]: adhesive_tape >> 还有一小段了
+[23:22:06] [Server thread/INFO]: Mr_director >> flag
+[23:22:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:22:18] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[23:22:26] [Server thread/INFO]: Mr_director >> 我没堵住
+[23:22:27] [Server thread/INFO]: Mr_director >> 淦
+[23:22:34] [Server thread/INFO]: Mr_director >> 图腾-1
+[23:22:35] [Server thread/INFO]: adhesive_tape >> 没啥问题我听会歌
+[23:22:35] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 图腾都出来了
+[23:22:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 都发1你就炸
+[23:23:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:23:09] [Server thread/INFO]: Mr_director >> 我被岩浆烧了不少血
+[23:23:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:23:16] [Server thread/INFO]: Mr_director >> 1
+[23:23:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:23:34] [Server thread/INFO]: Mr_director >> 森宇说罢
+[23:23:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你这岩浆...
+[23:23:45] [Server thread/INFO]: Mr_director >> 等下
+[23:23:48] [Server thread/INFO]: Mr_director >> 这个没堵上
+[23:24:02] [Server thread/INFO]: adhesive_tape >> 堵好，别漏了
+[23:24:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:24:23] [Server thread/INFO]: Mr_director >> 我当时发现想堵上结果吃了个tnt
+[23:24:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:24:47] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 石英挖不
+[23:24:49] [Server thread/INFO]: Mr_director >> 挖
+[23:24:57] [Server thread/INFO]: Mr_director >> 司机又下来了
+[23:25:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[23:25:07] [Server thread/INFO]: adhesive_tape >> 你看错了
+[23:25:10] [Server thread/INFO]: adhesive_tape >> 嘤
+[23:25:30] [Server thread/INFO]: Mr_director >> 救你带珍珠
+[23:25:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[23:25:47] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这东西咋上来了
+[23:25:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:26:08] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:26:08] [Server thread/INFO]: Mr_director >> 回头得刷刷图腾了
+[23:26:16] [Server thread/INFO]: Mr_director >> 走
+[23:27:25] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:27:27] [Server thread/INFO]: Mr_director >> 1
+[23:27:30] [Server thread/INFO]: adhesive_tape >> 给我点珍珠
+[23:28:24] [Server thread/INFO]: adhesive_tape >> hhh
+[23:28:29] [Server thread/INFO]: Mr_director >> 跑这么快投胎啊
+[23:28:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:28:31] [Server thread/INFO]: adhesive_tape >> 火了火了
+[23:28:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 没事
+[23:28:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 岩浆海我都泡过几回
+[23:29:09] [Server thread/INFO]: Mr_director >> 1
+[23:29:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:29:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:29:42] [Server thread/INFO]: adhesive_tape >> 这岩浆有点多。。
+[23:29:55] [Server thread/INFO]: Mr_director >> 正常
+[23:30:53] [Server thread/INFO]: adhesive_tape >> 2333
+[23:30:54] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[23:30:55] [Server thread/INFO]: Mr_director >> ao
+[23:30:56] [Server thread/INFO]: adhesive_tape >> 哈哈哈
+[23:30:57] [Server thread/INFO]: Mr_director >> 我习惯了
+[23:31:00] [Server thread/INFO]: Mr_director >> 抱歉
+[23:31:14] [Server thread/INFO]: adhesive_tape >> 岩浆，好喝
+[23:31:18] [Server thread/INFO]: Mr_director >> 我tm起床经常这么干
+[23:31:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你搁这儿打起床呢
+[23:31:27] [Server thread/INFO]: Mr_director >> 然后我就A了出去
+[23:31:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:31:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:32:03] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[23:32:06] [Server thread/INFO]: Mr_director >> go
+[23:32:15] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 疲劳驾驶？
+[23:32:16] [Server thread/INFO]: Mr_director >> 森宇一个人口就行了
+[23:32:25] [Server thread/INFO]: Mr_director >> 扣
+[23:32:32] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[23:32:35] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:32:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[23:33:09] [Server thread/INFO]: Mr_director >> 有个问题大的
+[23:33:35] [Server thread/INFO]: adhesive_tape >> ha?
+[23:33:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:33:41] [Server thread/INFO]: Mr_director >> k
+[23:33:53] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:34:39] [Server thread/INFO]: Mr_director >> ? 在哪
+[23:34:47] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[23:34:57] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你人呢
+[23:35:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:35:09] [Server thread/INFO]: Mr_director >> 我刚才好像灵魂出窍飞出去了
+[23:35:13] [Server thread/INFO]: Mr_director >> 还好人没事
+[23:35:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[23:35:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:35:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:36:25] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:36:44] [Server thread/INFO]: Mr_director >> 司机？
+[23:36:50] [Server thread/INFO]: adhesive_tape >> 啊？
+[23:36:53] [Server thread/INFO]: adhesive_tape >> 我干嘛了？
+[23:36:57] [Server thread/INFO]: Mr_director >> 我看见了
+[23:37:04] [Server thread/INFO]: adhesive_tape >> 嘤嘤嘤
+[23:37:15] [Server thread/INFO]: [公告] [活动·这是我的战争] 现已开放报名，详见群内公告 
+[23:37:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:37:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:37:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:38:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:38:20] [Server thread/INFO]: Mr_director >> 突然意识到高版本起床虽然有攻击速度但是一手方块一手工具
+[23:38:32] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:38:44] [Server thread/INFO]: Mr_director >> 石英
+[23:39:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:40:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 司机！
+[23:40:19] [Server thread/INFO]: Mr_director >> 我都不想说了
+[23:40:26] [Server thread/INFO]: adhesive_tape >> 喜喜
+[23:40:44] [Server thread/INFO]: Mr_director >> 珍珠省着点
+[23:40:48] [Server thread/INFO]: adhesive_tape >> enen
+[23:40:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我给了他32个emmmm
+[23:41:03] [Server thread/INFO]: adhesive_tape >> ok?
+[23:41:11] [Server thread/INFO]: Mr_director >> 我一个都没拿，用完还得跑
+[23:41:12] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我觉的不该给他
+[23:41:14] [Server thread/INFO]: Mr_director >> k
+[23:41:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我觉的不该给他
+[23:41:25] [Server thread/INFO]: Mr_director >> 1
+[23:41:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:41:31] [Server thread/INFO]: adhesive_tape >> 哈皮？
+[23:41:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:42:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 刚好五组
+[23:42:35] [Server thread/INFO]: Mr_director >> 1
+[23:42:57] [Server thread/INFO]: Mr_director >> go
+[23:44:04] [Server thread/INFO]: Mr_director >> 1
+[23:44:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:44:56] [Server thread/INFO]: Mr_director >> 1
+[23:44:57] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:45:17] [Server thread/INFO]: Mr_director >> 快到了
+[23:45:21] [Server thread/INFO]: adhesive_tape >> 加油
+[23:45:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:46:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:46:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:47:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:47:32] [Server thread/INFO]: Mr_director >> 我应该整两件爆炸保护+两件火焰保护
+[23:47:47] [Server thread/INFO]: Mr_director >> 石英
+[23:48:26] [Server thread/INFO]: adhesive_tape >> 1?
+[23:48:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:48:56] [Server thread/INFO]: Mr_director >> 石英
+[23:49:15] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:49:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:50:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:50:41] [Server thread/INFO]: Mr_director >> lava
+[23:50:58] [Server thread/INFO]: adhesive_tape >> 还差一点点了！
+[23:51:02] [Server thread/INFO]: adhesive_tape >> 加油加油
+[23:51:24] [Server thread/INFO]: Mr_director >> 1
+[23:51:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 2
+[23:51:47] [Server thread/INFO]: adhesive_tape >> 你俩统一一下
+[23:51:56] [Server thread/INFO]: adhesive_tape >> 都说1我再开
+[23:52:39] [Server thread/INFO]: Mr_director >> 1
+[23:52:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:52:54] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:52:56] [Server thread/INFO]: Mr_director >> 1
+[23:53:43] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:53:45] [Server thread/INFO]: Mr_director >> 1
+[23:54:02] [Server thread/INFO]: Mr_director >> 司机睡着了？
+[23:54:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:54:14] [Server thread/INFO]: Mr_director >> 1
+[23:54:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:54:25] [Server thread/INFO]: Mr_director >> 1
+[23:54:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:54:47] [Server thread/INFO]: Mr_director >> 1
+[23:55:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:55:01] [Server thread/INFO]: Mr_director >> 1
+[23:55:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:55:13] [Server thread/INFO]: Mr_director >> 1
+[23:55:22] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:55:23] [Server thread/INFO]: Mr_director >> 1
+[23:55:35] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1
+[23:55:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[23:56:01] [Server thread/INFO]: Mr_director >> 1
+[23:56:11] [Server thread/INFO]: adhesive_tape >> 把盒子收一下
+[23:57:01] [Server thread/INFO]: adhesive_tape >> 没有末影箱吗
+[23:57:53] [Server thread/INFO]: Mr_director >> 一盒石英了我
+[23:59:17] [Server thread/INFO]: Mr_director >> 完事了？
+[23:59:22] [Server thread/INFO]: Mr_director >> 不在炸一下么
+[23:59:46] [Server thread/INFO]: adhesive_tape >> 收拾完了就炸
+[23:59:53] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 马上断线

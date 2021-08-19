@@ -1,0 +1,1141 @@
+[20:27:59] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:28:00] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[20:28:00] [Worker-Main-4/INFO]: Loaded 7 recipes
+[20:28:02] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[20:28:02] [Server thread/INFO]: Loading properties
+[20:28:03] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-37d799b-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[20:28:03] [Server thread/INFO]: Debug logging is disabled
+[20:28:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:28:03] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[20:28:03] [Server thread/INFO]: Default game type: SURVIVAL
+[20:28:03] [Server thread/INFO]: Generating keypair
+[20:28:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:28:03] [Server thread/INFO]: Using default channel type
+[20:28:04] [Server thread/ERROR]: Ambiguous plugin name `GroupManager' for files `plugins\[1.16]GroupManager+ [v3.3].jar' and `plugins\GroupManager+ [v3.2].jar' in `plugins'
+[20:28:05] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:28:07] [Server thread/WARN]: Legacy plugin OnlineRewards v1.0.0 does not specify an api-version.
+[20:28:07] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[20:28:07] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[20:28:07] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[20:28:07] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[20:28:07] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[20:28:07] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[20:28:07] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[20:28:07] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[20:28:07] [Server thread/INFO]: [OnlineRewards] Loading OnlineRewards v1.0.0
+[20:28:07] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[20:28:07] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[20:28:07] [Server thread/INFO]: [TAB] Loading TAB v2.8.10
+[20:28:07] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[20:28:07] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[20:28:07] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[20:28:07] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[20:28:07] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[20:28:07] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[20:28:07] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[20:28:07] [Server thread/INFO]: Preparing level "world"
+[20:28:07] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:28:07] [Server thread/INFO]: Item Despawn Rate: 3000
+[20:28:07] [Server thread/INFO]: Item Merge Radius: 8.0
+[20:28:07] [Server thread/INFO]: View Distance: 12
+[20:28:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:28:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:28:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:28:07] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[20:28:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:28:07] [Server thread/INFO]: Mob Spawn Range: 4
+[20:28:07] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[20:28:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[20:28:07] [Server thread/INFO]: Experience Merge Radius: 8.0
+[20:28:07] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[20:28:07] [Server thread/INFO]: Max TNT Explosions: 100
+[20:28:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:28:07] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:28:07] [Server thread/INFO]: Item Despawn Rate: 3000
+[20:28:07] [Server thread/INFO]: Item Merge Radius: 8.0
+[20:28:07] [Server thread/INFO]: View Distance: 12
+[20:28:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:28:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:28:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:28:07] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[20:28:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:28:07] [Server thread/INFO]: Mob Spawn Range: 4
+[20:28:07] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[20:28:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[20:28:07] [Server thread/INFO]: Experience Merge Radius: 8.0
+[20:28:07] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[20:28:07] [Server thread/INFO]: Max TNT Explosions: 100
+[20:28:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:28:07] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:28:07] [Server thread/INFO]: Item Despawn Rate: 3000
+[20:28:07] [Server thread/INFO]: Item Merge Radius: 8.0
+[20:28:07] [Server thread/INFO]: View Distance: 12
+[20:28:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:28:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:28:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:28:07] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[20:28:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:28:07] [Server thread/INFO]: Mob Spawn Range: 4
+[20:28:07] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[20:28:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:28:07] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[20:28:07] [Server thread/INFO]: Experience Merge Radius: 8.0
+[20:28:07] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[20:28:07] [Server thread/INFO]: Max TNT Explosions: 100
+[20:28:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:28:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:28:09] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:09] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:09] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:09] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:09] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:10] [Server thread/INFO]: Time elapsed: 2610 ms
+[20:28:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:28:11] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:11] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:11] [Server thread/INFO]: Preparing spawn area: 100%
+[20:28:11] [Server thread/INFO]: Time elapsed: 1037 ms
+[20:28:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:28:11] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:11] [Server thread/INFO]: Time elapsed: 448 ms
+[20:28:11] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[20:28:12] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[20:28:12] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[20:28:12] [Server thread/INFO]: --------------------
+[20:28:12] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[20:28:12] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[20:28:12] [Server thread/INFO]: --------------------
+[20:28:12] [Server thread/INFO]: [OnlineRewards] Enabling OnlineRewards v1.0.0
+[20:28:12] [Server thread/INFO]: [OnlineRewards] [OnlineRewards] Loading config...
+[20:28:12] [Server thread/INFO]: [OnlineRewards]  
+[20:28:12] [Server thread/INFO]: [OnlineRewards] >>>>>>>>>>>>>>>>>>>>>>>> OnlineRewards Loaded <<<<<<<<<<<<<<<<<<<<<<<<
+[20:28:12] [Server thread/INFO]: [OnlineRewards] >>>>> If you encounter any bugs, please contact author's QQ: 768318841 <<<<<
+[20:28:12] [Server thread/INFO]: [OnlineRewards]  
+[20:28:12] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3
+[20:28:12] [Server thread/INFO]: [PxAutoMessage] ÕıÔÚÆô¶¯Æ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[20:28:12] [Server thread/INFO]: [PxAutoMessage] ³õÊ¼»¯ĞÅÏ¢Ä£¿é...
+[20:28:12] [Server thread/INFO]: [PxAutoMessage] ×¢²áÃüÁî¼àÌıÏµÍ³...
+[20:28:12] [Server thread/INFO]: [PxAutoMessage] ¼ÓÔØÍê±Ï£¡
+[20:28:12] [Server thread/INFO]:  
+[20:28:12] [Server thread/INFO]: > ×÷Õß£ºAn_ye (QQ:1444691679)
+[20:28:12] [Server thread/INFO]: > ±¾²å¼ş×Ô´øºº»¯£¬ÇëÎğÏàĞÅËùÎ½µÄºº»¯°æ£¡
+[20:28:12] [Server thread/INFO]: > £¨×÷ÕßµÄ»°£ºI'm Chinese.£©
+[20:28:12] [Server thread/INFO]:  
+[20:28:12] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0
+[20:28:12] [Server thread/INFO]: HikariPool-1 - Starting...
+[20:28:12] [Server thread/INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[20:28:12] [Server thread/INFO]: HikariPool-1 - Start completed.
+[20:28:29] [Server thread/INFO]: 
+[20:28:29] [Server thread/INFO]:  
+[20:28:29] [Server thread/INFO]: [0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
+[20:28:29] [Server thread/INFO]: [0;30;1m| [0;31;1mInformation:
+[20:28:29] [Server thread/INFO]: [0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[20:28:29] [Server thread/INFO]: [0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[20:28:29] [Server thread/INFO]: [0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[20:28:29] [Server thread/INFO]: [0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[20:28:29] [Server thread/INFO]: [0;30;1m| [0;31;1mSupport:
+[20:28:29] [Server thread/INFO]: [0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[20:28:29] [Server thread/INFO]: [0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[20:28:29] [Server thread/INFO]: [0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[20:28:29] [Server thread/INFO]: [0;30;1m| [0;31;1mUpdate:
+[20:28:29] [Server thread/INFO]: [0;30;1m|   [0;37;22mThere is a new version available! [2.3.0]
+[20:28:29] [Server thread/INFO]: [0;30;1m[]================================[][m
+[20:28:29] [Server thread/INFO]:  [m
+[20:28:29] [Server thread/INFO]: [TAB] Enabling TAB v2.8.10
+[20:28:29] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.16.4 (v1_16_R3)[m
+[20:28:29] [Server thread/INFO]: [0;31;1m[TAB] Animation "[0;33;1mWelcome[0;31;1m" does not have any texts! [0;36;1mIgnoring.[m
+[20:28:29] [Server thread/INFO]: [0;33;1m[TAB] There was 1 startup warning.[m
+[20:28:29] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 38ms[m
+[20:28:29] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[20:28:29] [Server thread/INFO]: [OpenInv] Your version of CraftBukkit (v1_16_R3) is not supported.
+[20:28:29] [Server thread/INFO]: [OpenInv] If this version is a recent release, check for an update.
+[20:28:29] [Server thread/INFO]: [OpenInv] If this is an older version, ensure that you've downloaded the legacy support version.
+[20:28:29] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5
+[20:28:29] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şÒÑÆôÓÃ£¡
+[20:28:29] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şµ±Ç°°æ±¾£ºV0.5 £¨2017Äê8ÔÂ24ÈÕ£©
+[20:28:29] [Server thread/INFO]: [ChatC] ¸ĞĞ»ÄúµÄÊ¹ÓÃ£¡
+[20:28:29] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT
+[20:28:29] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0
+[20:28:29] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3
+[20:28:29] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;33;1mChecking Your version...[m
+[20:28:29] [Server thread/INFO]: [0;34;1m===============================[m
+[20:28:29] [Server thread/INFO]: [0;32;1m[m
+[20:28:29] [Server thread/INFO]: [0;32;1m GroupManager+ is now enable![m
+[20:28:29] [Server thread/INFO]: [0;32;1m [m
+[20:28:29] [Server thread/INFO]: [0;33;1m Thank you for using GroupManager+ :)[m
+[20:28:29] [Server thread/INFO]: [0;33;1m GroupManager+ is create by HappyAreaBean![m
+[20:28:29] [Server thread/INFO]: [0;36;1m Current version: [0;32;1mv3.3[m
+[20:28:29] [Server thread/INFO]: [0;32;1m [m
+[20:28:29] [Server thread/INFO]: [0;34;1m===============================[m
+[20:28:29] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mWorld Found: world[m
+[20:28:29] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mSuperperms support enabled.[m
+[20:28:29] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is set for every 10 minutes![m
+[20:28:29] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBackups will be retained for 24 hours![m
+[20:28:29] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mGroupManager+ v3.3 is now enabled![m
+[20:28:29] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1
+[20:28:29] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[20:28:29] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[20:28:29] [Server thread/INFO]: [AnGmode] ¡ìaÄãºÃ£¡ÎÒÊÇĞ¡°²£¬¸ĞĞ»ÄãÄÜÊ¹ÓÃÕâ¸ö²å¼ş£¡
+[20:28:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:28:29] [Server thread/INFO]: Done (22.316s)! For help, type "help"
+[20:28:29] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[20:28:29] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBukkit Permissions Updated![m
+[20:28:38] [User Authenticator #1/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[20:28:39] [Server thread/INFO]: Laohuaji[/127.0.0.1:54766] logged in with entity id 405 at ([world_the_end]223.73964144868646, 51.6420707454832, -23.193986770515288)
+[20:28:46] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;31;1mYour version (v3.3) is outdated download the lastest version:[m
+[20:28:46] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;32;1mhttps://www.spigotmc.org/resources/40615/[m
+[20:28:48] [Thread-19/INFO]: --------------------
+[20:28:48] [Thread-19/INFO]: [CoreProtect] Version 19.4 is now available.
+[20:28:48] [Thread-19/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[20:28:48] [Thread-19/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[20:28:48] [Thread-19/INFO]: --------------------
+[20:28:55] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ¼òµ¥£¨[m
+[20:28:58] [User Authenticator #2/INFO]: UUID of player CrushFxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[20:28:58] [Server thread/INFO]: CrushFxl[/127.0.0.1:54771] logged in with entity id 450 at ([world]-234.7840194447978, 66.0, 179.58158662428102)
+[20:29:30] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ¼òµ¥£¨[m
+[20:29:48] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7d55bf93[id=<null>,name=YuanXiaoNa,properties={},legacy=false] (/127.0.0.1:54776): Took too long to log in
+[20:29:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@7d55bf93[id=<null>,name=YuanXiaoNa,properties={},legacy=false] (/127.0.0.1:54776) lost connection: Took too long to log in
+[20:29:50] [User Authenticator #3/INFO]: Disconnecting com.mojang.authlib.GameProfile@7d55bf93[id=<null>,name=YuanXiaoNa,properties={},legacy=false] (/127.0.0.1:54776): Authentication servers are down. Please try again later, sorry!
+[20:29:50] [User Authenticator #3/ERROR]: Couldn't verify username because servers are unavailable
+[20:30:06] [Server thread/INFO]: [0;33;22m<·şÖ÷>[0;37;1m CrushFxl >> À§ÄÑ([m
+[20:30:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@599e8eff[id=<null>,name=YuanXiaoNa,properties={},legacy=false] (/127.0.0.1:54784) lost connection: Disconnected
+[20:30:16] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ¼òµ¥*[m
+[20:30:22] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@177fb1ac[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:54781): Authentication servers are down. Please try again later, sorry!
+[20:30:22] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[20:30:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@177fb1ac[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:54781) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:30:39] [User Authenticator #5/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[20:30:39] [Server thread/INFO]: adhesive_tape[/127.0.0.1:54790] logged in with entity id 902 at ([world_the_end]140.30000001192093, 41.0, -313.5661464647512)
+[20:30:44] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> Ä©µØÊÇ¼òµ¥£¨[m
+[20:30:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@40c9c3b3[id=<null>,name=YuanXiaoNa,properties={},legacy=false] (/127.0.0.1:54786) lost connection: Timed out
+[20:31:03] [User Authenticator #7/INFO]: UUID of player Bili_CMZ is d306ea0e-dc75-46d4-a023-1381982930d6
+[20:31:03] [Server thread/INFO]: Bili_CMZ[/127.0.0.1:54796] logged in with entity id 1145 at ([world_the_end]234.42113104716773, 52.0, -29.024052759510752)
+[20:31:07] [User Authenticator #6/INFO]: UUID of player YuanXiaoNa is a3ec61de-4554-4839-b3cd-33f66821f2dd
+[20:31:07] [Server thread/INFO]: YuanXiaoNa[/127.0.0.1:54793] logged in with entity id 1165 at ([world_nether]539.3312138209656, 33.0, 156.68083778445887)
+[20:31:09] [Server thread/INFO]: Bili_CMZ lost connection: Disconnected
+[20:31:09] [Server thread/INFO]: Bili_CMZ left the game
+[20:32:41] [Server thread/INFO]: Laohuaji issued server command: /gamemode creative
+[20:32:41] [Server thread/INFO]: [Laohuaji: Set own game mode to Creative Mode]
+[20:33:20] [Server thread/INFO]: CrushFxl was shot by Laohuaji
+[20:33:26] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> az[m
+[20:33:32] [Server thread/INFO]: [0;33;22m<·şÖ÷>[0;37;1m CrushFxl >> ./ban Laohuaji[m
+[20:33:39] [Server thread/INFO]: YuanXiaoNa >> lhj°ÑXLÉäËÀÁË£¡£¡£¡[m
+[20:34:19] [Server thread/INFO]: Laohuaji issued server command: /gamemode survival
+[20:34:19] [Server thread/INFO]: [Laohuaji: Set own game mode to Survival Mode]
+[20:35:15] [Server thread/INFO]: CrushFxl burned to death
+[20:35:20] [Server thread/INFO]: Villager EntityVillager['Villager'/1783, l='ServerLevel[world]', x=5263.89, y=73.25, z=299.30] died, message: 'Villager was squished too much'
+[20:35:21] [Server thread/INFO]: CrushFxl issued server command: /kill Laohuaji
+[20:35:21] [Server thread/INFO]: Laohuaji fell out of the world
+[20:35:21] [Server thread/INFO]: [CrushFxl: Killed Laohuaji]
+[20:35:30] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ´ó±¯~[m
+[20:35:51] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÕâºüÀêµõ×Å¸öÉ¶[m
+[20:35:56] [Server thread/INFO]: Laohuaji issued server command: /tp CrushFxl
+[20:35:56] [Server thread/INFO]: [Laohuaji: Teleported Laohuaji to CrushFxl]
+[20:36:30] [Server thread/INFO]: CrushFxl was slain by Laohuaji
+[20:37:16] [Server thread/INFO]: CrushFxl issued server command: /co rollback r:10 d:3000h
+[20:37:30] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> Äã²»Òª¹ıÀ´°¡£¡[m
+[20:37:36] [Server thread/INFO]: Laohuaji fell from a high place
+[20:37:42] [Server thread/INFO]: [0;33;22m<·şÖ÷>[0;37;1m CrushFxl >> ²İ[m
+[20:38:17] [Server thread/INFO]: Laohuaji issued server command: /tp CrushFxl
+[20:38:17] [Server thread/INFO]: [Laohuaji: Teleported Laohuaji to CrushFxl]
+[20:38:23] [Server thread/INFO]: CrushFxl was slain by Laohuaji
+[20:38:29] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:38:34] [Server thread/INFO]: [0;33;22m<·şÖ÷>[0;37;1m CrushFxl >> Laohuaji²»¶Ô¾¢[m
+[20:38:40] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> Õ¦ÁË£¨[m
+[20:38:40] [User Authenticator #8/INFO]: UUID of player Bili_CMZ is d306ea0e-dc75-46d4-a023-1381982930d6
+[20:38:41] [Server thread/INFO]: Bili_CMZ[/127.0.0.1:54826] logged in with entity id 3524 at ([world_the_end]234.4280264120693, 52.0, -29.053261993670326)
+[20:38:48] [User Authenticator #9/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[20:38:48] [Server thread/INFO]: Mr_director[/127.0.0.1:54831] logged in with entity id 3550 at ([world_the_end]195.66168961730307, 41.0, -327.8472974959349)
+[20:38:51] [Server thread/INFO]: [0;33;22m<·şÖ÷>[0;37;1m CrushFxl >> ÆÛ¸ºĞÂÈË([m
+[20:38:58] [Server thread/INFO]: Laohuaji issued server command: /tp CrushFxl
+[20:38:58] [Server thread/INFO]: [Laohuaji: Teleported Laohuaji to CrushFxl]
+[20:38:58] [Server thread/INFO]: Bili_CMZ >> ?[m
+[20:39:08] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÔÛÁ©Ò»ÑùĞÂºÃ°É£¨[m
+[20:39:35] [Server thread/INFO]: Laohuaji was slain by CrushFxl
+[20:39:41] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[20:39:42] [Server thread/INFO]: YuanXiaoNa >> ?goto 5237 200[m
+[20:39:49] [Server thread/INFO]: YuanXiaoNa >> ¡£¡£¡£[m
+[20:39:58] [Server thread/INFO]: Bili_CMZ >> ÔõÃ´È·¶¨×Ô¼ºÓÃµÄÊÇOPTFINE[m
+[20:40:04] [Server thread/INFO]: Laohuaji issued server command: /tp CrushFxl
+[20:40:04] [Server thread/INFO]: [Laohuaji: Teleported Laohuaji to CrushFxl]
+[20:40:11] [Server thread/INFO]: [0;33;22m<·şÖ÷>[0;37;1m CrushFxl >> Ñ¡Ïî>ÊÓÆµÉèÖÃ>¹âÓ°[m
+[20:40:40] [Server thread/INFO]: YuanXiaoNa lost connection: Disconnected
+[20:40:40] [Server thread/INFO]: YuanXiaoNa left the game
+[20:40:58] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[20:40:58] [Server thread/INFO]: Mr_director left the game
+[20:41:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f6a834f[id=<null>,name=YuanXiaoNa,properties={},legacy=false] (/127.0.0.1:54841) lost connection: Disconnected
+[20:41:09] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[20:41:11] [User Authenticator #10/INFO]: UUID of player YuanXiaoNa is a3ec61de-4554-4839-b3cd-33f66821f2dd
+[20:41:11] [Server thread/INFO]: YuanXiaoNa[/127.0.0.1:54847] logged in with entity id 4139 at ([world]5237.300000011921, 69.0, 194.17126471642067)
+[20:41:51] [Server thread/INFO]: Laohuaji issued server command: /gamemode spectator
+[20:41:51] [Server thread/INFO]: [Laohuaji: Set own game mode to Spectator Mode]
+[20:42:02] [Server thread/INFO]: Bili_CMZ >> ×öÁËÒ»ÍíÉÏ[m
+[20:42:04] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÕâÊÇ¸öÉ¶£¨´óÎí[m
+[20:42:14] [Server thread/INFO]: Bili_CMZ >> Ò»¸öĞ¡ĞÍÅ©³¡¶¼Ã»¸ãºÃ£¨[m
+[20:42:18] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> apisÊÇË­°¢[m
+[20:43:29] [Server thread/INFO]: Laohuaji issued server command: /gamemode survival
+[20:43:29] [Server thread/INFO]: [Laohuaji: Set own game mode to Survival Mode]
+[20:44:09] [Server thread/INFO]: Bili_CMZ >> ½éÉÜÒ»ÏÂ£ºÎÒÊÇ·ÏÎï[m
+[20:44:12] [Server thread/INFO]: Bili_CMZ >> ([m
+[20:44:18] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ½éÉÜÒ»ÏÂÎÒÒ²ÊÇ[m
+[20:45:35] [Server thread/INFO]: Bili_CMZ >> ÄãÃÇËµ´åÃñÎªºÎ»á²»ÔĞ²»Óı£¨[m
+[20:45:43] [Server thread/INFO]: Bili_CMZ >> ¶«Î÷Ò²³ÔÁË[m
+[20:45:47] [Server thread/INFO]: Bili_CMZ >> ËÀ»î²»Éú[m
+[20:45:48] [Server thread/INFO]: Bili_CMZ >> ([m
+[20:48:29] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:48:41] [Server thread/INFO]: Bili_CMZ >> Á¶Ò©¹øÀïµÄË®¿ÉÒÔ×ÌÈó¸ûµØÂğ£¨[m
+[20:50:24] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÄãµÃ°ÑËüµ¹³öÀ´£¨[m
+[20:50:34] [Server thread/INFO]: Bili_CMZ >> ?[m
+[20:50:38] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[20:51:02] [Server thread/INFO]: Laohuaji suffocated in a wall
+[20:51:11] [Server thread/INFO]: Laohuaji issued server command: /tp CrushFxl
+[20:51:11] [Server thread/INFO]: [Laohuaji: Teleported Laohuaji to CrushFxl]
+[20:53:48] [Server thread/INFO]: CrushFxl lost connection: Disconnected
+[20:53:48] [Server thread/INFO]: CrushFxl left the game
+[20:53:57] [Server thread/INFO]: YuanXiaoNa lost connection: Disconnected
+[20:53:57] [Server thread/INFO]: YuanXiaoNa left the game
+[20:54:11] [User Authenticator #11/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[20:54:11] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:54905] logged in with entity id 7827 at ([world_the_end]194.897691543995, 41.875, -330.58721358940437)
+[20:54:22] [Server thread/WARN]: sen_lv_ling_ moved too quickly! 0.0,-12.00159582139278,0.0
+[20:54:29] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »¹ÊÇ¼òµ¥£¨£¨£¨[m
+[20:57:12] [Server thread/INFO]: Bili_CMZ >> °¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡[m
+[20:57:13] [User Authenticator #12/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[20:57:13] [Server thread/INFO]: Twilight2033[/127.0.0.1:54922] logged in with entity id 8268 at ([world]7033.163592852428, 84.0, -540.0003198685798)
+[20:57:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@359284e8[id=<null>,name=YuanXiaoNa,properties={},legacy=false] (/127.0.0.1:54918) lost connection: Disconnected
+[20:57:19] [Server thread/INFO]: Bili_CMZ >> ´åÎªÊ²Ã´²»Éú[m
+[20:57:27] [Server thread/INFO]: Bili_CMZ >> ¡á¸ãÆğÀ´°¡¡á[m
+[20:57:29] [Server thread/INFO]: Bili_CMZ >> ([m
+[20:57:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@349177ce[id=<null>,name=YuanXiaoNa,properties={},legacy=false] (/127.0.0.1:54940) lost connection: Disconnected
+[20:57:41] [User Authenticator #13/INFO]: UUID of player YuanXiaoNa is a3ec61de-4554-4839-b3cd-33f66821f2dd
+[20:57:41] [Server thread/INFO]: YuanXiaoNa[/127.0.0.1:54943] logged in with entity id 8442 at ([world]5234.281730418124, 70.0, 194.11717174515684)
+[20:57:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Äã¿´×Å£¬Ëûº¦Ğß[m
+[20:57:55] [Server thread/INFO]: Bili_CMZ >> Ã»¿´×Å[m
+[20:58:09] [Server thread/INFO]: Bili_CMZ >> Ö±Ã°°®ĞÄ[m
+[20:58:13] [Server thread/INFO]: Bili_CMZ >> ²»ÉúÍŞ[m
+[20:58:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ´²¹»£¿[m
+[20:58:29] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:58:30] [Server thread/INFO]: Bili_CMZ >> Ä©µØ·±Ö³»ú[m
+[20:58:35] [Server thread/INFO]: Bili_CMZ >> ¾ø¶Ô¹»[m
+[20:58:45] [Server thread/INFO]: Bili_CMZ >> °É[m
+[20:58:57] [Server thread/INFO]: Bili_CMZ >> ([m
+[20:59:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÄ¶ù£¿[m
+[20:59:07] [Server thread/INFO]: Bili_CMZ >> Ä©µØ·±Ö³»ú[m
+[20:59:13] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÄ¶ùµÄÄ©µØ·±Ö³»ú[m
+[20:59:15] [Server thread/INFO]: Bili_CMZ >> ¸ÊÕáÌïÅÔ±ß[m
+[20:59:31] [Server thread/INFO]: Bili_CMZ >> Õâ²»ÊÇ·±Ö³»úÂğ£¨[m
+[20:59:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»È¥¹ı£¨[m
+[20:59:48] [Server thread/INFO]: Bili_CMZ issued server command: /co i
+[20:59:57] [Server thread/INFO]: Bili_CMZ issued server command: /co i
+[21:00:03] [Server thread/INFO]: Bili_CMZ >> ´ó°×(¡ñ¡ª¡ñ)×öµÄ[m
+[21:00:50] [Server thread/INFO]: Bili_CMZ >> ÔõÃ´Ë½ÁÄÀ´×Å£¨[m
+[21:01:03] [Server thread/INFO]: Twilight2033 >> ./msg[m
+[21:01:50] [Server thread/INFO]: Bili_CMZ >> ´ó°ëÒ¹À²»¹ÄÇÃ´¶àÈË£¨[m
+[21:04:43] [Server thread/INFO]: Bili_CMZ >> ÏğÄ¾»î°åÃÅºÍ[m
+[21:04:53] [Server thread/INFO]: Bili_CMZ >> °×èëÄ¾»î°åÃÅÓĞÇø±ğÂğ[m
+[21:04:57] [Server thread/INFO]: Bili_CMZ >> ÌØĞÔ[m
+[21:05:00] [Server thread/INFO]: Bili_CMZ >> Ö®ÀàµÄ[m
+[21:06:44] [Server thread/INFO]: Bili_CMZ >> ÔõÃ´ÈÃ´åÃñ±ä¿ì¡á£¨[m
+[21:07:10] [Server thread/INFO]: Bili_CMZ >> »¹ÓĞÈËÂğ[m
+[21:08:42] [User Authenticator #14/INFO]: UUID of player Shallow_dream_ is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[21:08:42] [Server thread/INFO]: Shallow_dream_[/127.0.0.1:55016] logged in with entity id 12062 at ([world]-405.0910342178952, 69.0, -225.28213525310164)
+[21:10:15] [Server thread/INFO]: Bili_CMZ >> ÆøËÀÎÒÁË[m
+[21:10:25] [Server thread/INFO]: Bili_CMZ >> ³ÔÁË¶«Î÷²»Éú[m
+[21:11:44] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:11:44] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[21:11:50] [Server thread/INFO]: Bili_CMZ >> Ê³Îï¸øÀ´¸øÈ¥[m
+[21:11:56] [Server thread/INFO]: Bili_CMZ >> ´åÃñ×ªÀ´×ªÈ¥[m
+[21:11:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ×ø±ê[m
+[21:11:59] [Server thread/INFO]: Bili_CMZ >> ¾ÍÊÇ²»Éú[m
+[21:12:05] [Server thread/INFO]: Bili_CMZ >> Ä©µØ[m
+[21:12:12] [Server thread/INFO]: Bili_CMZ >> ¸ÊÕáÌïÅÔ±ß[m
+[21:12:40] [Server thread/INFO]: YuanXiaoNa >> command[m
+[21:12:45] [Server thread/INFO]: Bili_CMZ >> ºÍÄ©µØ³öÉúµãÁ´½Ó[m
+[21:12:49] [Server thread/INFO]: Bili_CMZ >> Á¬½Ó[m
+[21:13:18] [Server thread/INFO]: Bili_CMZ >> ¾ÍµÚÒ»×é´åÃñ±È½Ï»îÔ¾[m
+[21:13:50] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã«°®ĞÄÃ»[m
+[21:13:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã°[m
+[21:14:02] [Server thread/INFO]: Bili_CMZ >> ¸Õ¸Õ»¹ÓĞ[m
+[21:14:07] [Server thread/INFO]: Bili_CMZ >> ÏÖÔÚÃ»ÁË£¨[m
+[21:14:17] [User Authenticator #15/INFO]: Disconnecting com.mojang.authlib.GameProfile@3454141c[id=<null>,name=YuHuaQingZhu,properties={},legacy=false] (/127.0.0.1:55068): Authentication servers are down. Please try again later, sorry!
+[21:14:17] [User Authenticator #15/ERROR]: Couldn't verify username because servers are unavailable
+[21:14:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@3454141c[id=<null>,name=YuHuaQingZhu,properties={},legacy=false] (/127.0.0.1:55068) lost connection: Authentication servers are down. Please try again later, sorry!
+[21:14:28] [User Authenticator #16/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[21:14:29] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:55072] logged in with entity id 16598 at ([world_the_end]3237.300000011921, 70.0, -6675.087471898522)
+[21:14:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ¸öÊÇÒ»¸ö´åÃñÈÓ¸øÁíÒ»¸ö´åÃñÊ³ÎïµÄÊ±ºò£¬Ê§Îó»¹ÊÇ±»×Ô¼º¼ñÁË°É[m
+[21:14:53] [Server thread/INFO]: Bili_CMZ >> ²İ[m
+[21:14:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º£¾§·±Ö³»úÀïÃæµÄ´åÃñ¾­³£ÕâÑù[m
+[21:14:57] [Server thread/INFO]: Bili_CMZ >> .-.[m
+[21:15:05] [Server thread/INFO]: Bili_CMZ >> ÔüÄĞĞĞÎª£¨[m
+[21:15:27] [Server thread/INFO]: YuanXiaoNa >> Bili_CMZÎŞÒâµ±ÖĞÕÒµ½ÁËÄãµÄÃØÃÜ»ùµØ[m
+[21:15:34] [Server thread/INFO]: Bili_CMZ >> emmmmmm[m
+[21:15:40] [Server thread/INFO]: Bili_CMZ >> ²»ËãÃØÃÜ»ùµØ£¨[m
+[21:15:47] [Server thread/INFO]: Bili_CMZ >> ÅÔ±ßÓĞ¸ö³Ø×Ó[m
+[21:15:54] [Server thread/INFO]: Bili_CMZ >> ÏÂÈ¥ÓÎÓ¾£¨[m
+[21:15:58] [Server thread/INFO]: Bili_CMZ >> ÔôË¬[m
+[21:16:02] [Server thread/WARN]: Shallow_dream_ moved too quickly! -1651.800000011921,17.069339867122338,-232.80000001192093
+[21:16:18] [Server thread/INFO]: Bili_CMZ >> sen_lv_ling_[m
+[21:16:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡£¿[m
+[21:16:28] [Server thread/INFO]: Bili_CMZ >> ÁíÒ»±ßµÄ·±Ö³ËùÕı³£Âğ£¨[m
+[21:16:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> É¶ÁíÒ»±ß[m
+[21:16:42] [Server thread/INFO]: Bili_CMZ >> ¹ÇÕÛ»úÄÇ±ß[m
+[21:16:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒµÄÄÇ¸ö£¿[m
+[21:17:00] [Server thread/INFO]: Bili_CMZ >> en[m
+[21:17:04] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»ÎÊÌâ°¡[m
+[21:17:11] [Server thread/INFO]: Bili_CMZ >> woc[m
+[21:17:13] [Server thread/INFO]: Bili_CMZ >> ÍêÁË[m
+[21:17:17] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãÈ¥¿´¿´£¿[m
+[21:17:20] [Server thread/INFO]: Bili_CMZ >> °ïÎÒ¿´¿´[m
+[21:17:22] [Server thread/INFO]: Bili_CMZ >> ÎÒ[m
+[21:17:30] [Server thread/INFO]: Bili_CMZ >> ÎÒ¿¨ÄÄÀïÁË[m
+[21:17:36] [Server thread/INFO]: Bili_CMZ >> Ã»ÊÂÁË£¨[m
+[21:17:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¾ÍÁ½¸öÅ©Ãñ£¬×Ô¼ºÖÖ²Ë×Ô¼º³Ô[m
+[21:17:40] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:17:41] [Server thread/INFO]: Bili_CMZ >> ÏÅËÀÁË£¨[m
+[21:17:48] [Server thread/INFO]: Bili_CMZ >> ÎÒÈ¥¿´¿´£¨[m
+[21:17:53] [Server thread/INFO]: YuanXiaoNa >> @mine ancient_debris[m
+[21:18:04] [Server thread/INFO]: YuanXiaoNa >> ²İÂÊÁË£¨doge[m
+[21:18:09] [Server thread/INFO]: Bili_CMZ >> ?[m
+[21:18:27] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[21:18:29] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[21:18:48] [Server thread/INFO]: YuanXiaoNa lost connection: Disconnected
+[21:18:48] [Server thread/INFO]: YuanXiaoNa left the game
+[21:19:22] [Server thread/INFO]: Bili_CMZ >> »¹ÊÇÄãµÄºÃ[m
+[21:19:28] [Server thread/INFO]: Bili_CMZ >> ¾ÍÊÇ²»·½±ãÔË£¨[m
+[21:19:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒµÄ£¿[m
+[21:19:39] [Server thread/INFO]: Bili_CMZ >> ·±Ö³»ú[m
+[21:19:43] [User Authenticator #17/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[21:19:43] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:55096] logged in with entity id 19265 at ([world]-436.63528003537, 39.0, -286.51219005637284)
+[21:19:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õ¦²»·½±ãÁË[m
+[21:19:49] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:49] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:50] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:50] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:50] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:50] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:50] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:50] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ôô·½±ã[m
+[21:19:50] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:50] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:52] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:52] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:52] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:52] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:52] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:19:53] [Server thread/INFO]: Bili_CMZ >> ×Ô¸ø×Ô×ãĞÍµÄºÃ£¨[m
+[21:20:39] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:20:39] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:20:39] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:20:40] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:20:40] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:20:40] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:21:27] [Server thread/INFO]: Shallow_dream_ issued server command: /co i
+[21:21:31] [Server thread/INFO]: Shallow_dream_ issued server command: /co i
+[21:21:43] [Server thread/INFO]: Twilight2033 issued server command: /CO I
+[21:21:47] [Server thread/INFO]: Twilight2033 issued server command: /CO I
+[21:21:47] [Server thread/WARN]: sen_lv_ling_ moved too quickly! -0.037527292336619666,-249.47437501433308,0.0
+[21:21:56] [Server thread/INFO]: Twilight2033 issued server command: /CO I
+[21:22:00] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Õæ¾ÍÃ»ÈË°ïÃ¦ÍÚÕâ¸öĞ¡¿ÕÖÃÓòÂğ£¨[m
+[21:22:04] [Server thread/INFO]: Twilight2033 issued server command: /CO I
+[21:22:05] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:22:05] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:22:05] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:22:05] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:22:05] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:22:05] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:22:05] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:22:08] [Server thread/INFO]: Bili_CMZ >> ÄÄ¸ö£¿[m
+[21:22:17] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Îå°ÙÕâ¸ö[m
+[21:22:23] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[21:22:32] [Server thread/INFO]: Bili_CMZ >> ÎÒÕâ¸öÅ©³¡×öÁË¸ö¼ÅÄ¯[m
+[21:22:53] [Server thread/WARN]: sen_lv_ling_ moved too quickly! 0.0,-511.8213521388371,0.38253291393272093
+[21:22:54] [Server thread/INFO]: Bili_CMZ >> ÎÒÈ¥¿´¿´£¨[m
+[21:23:15] [Server thread/WARN]: Shallow_dream_ was kicked for floating too long!
+[21:23:15] [Server thread/INFO]: Shallow_dream_ lost connection: Flying is not enabled on this server
+[21:23:15] [Server thread/INFO]: Shallow_dream_ left the game
+[21:23:18] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Õâ²»µÃÍÚ¸öÒ»ĞĞ£¨[m
+[21:23:19] [User Authenticator #18/INFO]: UUID of player Shallow_dream_ is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[21:23:19] [Server thread/INFO]: Shallow_dream_[/127.0.0.1:55109] logged in with entity id 21791 at ([world_the_end]-494.3182763388071, 167.27730312153852, -8385.546771974554)
+[21:23:30] [Server thread/WARN]: Shallow_dream_ moved too quickly! -1.466407087002267,9.790982039665039,-3.9365315542054304
+[21:23:32] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> tapeÊÇ²»ÊÇÓÖ¹Ò»úÁË[m
+[21:23:39] [Server thread/INFO]: Bili_CMZ >> ²»ÏşµÃ[m
+[21:23:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ñ§ÎÒ£¬¿´¶¼±ğ¿´£¨[m
+[21:23:54] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Ã¿´ÎÀ´¶¼ÊÇ¹Ò»ú×´Ì¬µÄ[m
+[21:25:02] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> »¬»ü»î×ÅÂğ[m
+[21:25:38] [Server thread/INFO]: the_yellowleaf issued server command: /me ÅÄÁËÅÄÀÏ»¬»ü
+[21:25:38] [Server thread/INFO]: * the_yellowleaf ÅÄÁËÅÄÀÏ»¬»ü
+[21:25:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en[m
+[21:25:42] [Server thread/WARN]: YuHuaQingZhu was kicked for floating too long!
+[21:25:42] [Server thread/INFO]: YuHuaQingZhu lost connection: Flying is not enabled on this server
+[21:25:42] [Server thread/INFO]: YuHuaQingZhu left the game
+[21:26:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@33998cfa[id=<null>,name=YuHuaQingZhu,properties={},legacy=false] (/127.0.0.1:55121) lost connection: Disconnected
+[21:26:09] [User Authenticator #20/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[21:26:09] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:55125] logged in with entity id 24089 at ([world_the_end]3200.389805759338, 132.0541173673609, -6674.49928307113)
+[21:26:10] [User Authenticator #19/INFO]: Disconnecting com.mojang.authlib.GameProfile@33998cfa[id=<null>,name=YuHuaQingZhu,properties={},legacy=false] (/127.0.0.1:55121): Authentication servers are down. Please try again later, sorry!
+[21:26:10] [User Authenticator #19/ERROR]: Couldn't verify username because servers are unavailable
+[21:26:49] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> tapeÔÚ¸ã»ìÄıÍÁ»úÂğ[m
+[21:26:57] [Server thread/INFO]: Bili_CMZ >> Ó¦¸ÃÊÇÏ®»÷Ëş£¨[m
+[21:27:11] [Server thread/INFO]: Bili_CMZ >> ÎªÁË¸ã¸öÏ®»÷Ëş[m
+[21:27:21] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÆøÕ¨·ãÒ¶£¨[m
+[21:27:23] [Server thread/INFO]: Bili_CMZ >> ÎÒÃÇ·şÎñÆ÷ÒÑ¾­ÓĞ²»ÖªµÀ¶àÉÙÈË²»ÀíÖÇÁË£¨[m
+[21:27:56] [Server thread/INFO]: Bili_CMZ >> ÂíÉÏÈ¥500[m
+[21:28:03] [Server thread/INFO]: Bili_CMZ >> ÎÒÔÙ¿´ÏÂÏ®»÷Ëş£¨[m
+[21:28:07] [Server thread/INFO]: Twilight2033 >> µ±³õÍ¶Æ±¸ø»·ÒÕµÄ¶à°ëÉÙ¸öÂè[m
+[21:28:08] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Ò»¸öÈËÍÚÒ»Ìõ128³¤µÄÂ·ËûÈİÒ×Âğ[m
+[21:28:29] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[21:28:31] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[21:28:31] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> °ëÂ·»¹É±³öÀ´¸ö»î²»¸ÉµÀµÂ°ó¼ÜÀ´°×æÎµÄ[m
+[21:28:31] [Server thread/INFO]: Bili_CMZ >> »ÃÒí[m
+[21:28:38] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÕâºÓÀïÂğ[m
+[21:29:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÕâÕêµÂºËÀïÂí[m
+[21:29:34] [Server thread/INFO]: Bili_CMZ >> ËµÈË»°£¨[m
+[21:30:11] [Server thread/INFO]: Bili_CMZ >> the_yellowleaf[m
+[21:30:15] [Server thread/INFO]: Bili_CMZ >> ÎÒÀ´ÁË~~~[m
+[21:30:42] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Äİ¿ÉÕêµÂÊ§¸ñÈË£¨[m
+[21:31:12] [Server thread/INFO]: Bili_CMZ >> the_yellowleaf[m
+[21:31:16] [Server thread/INFO]: Bili_CMZ >> ÄãÔÚÄÄ[m
+[21:32:03] [Server thread/INFO]: Bili_CMZ >> woc[m
+[21:32:06] [Server thread/INFO]: Bili_CMZ >> 500NB[m
+[21:32:28] [Server thread/INFO]: Bili_CMZ >> the_yellowleaf[m
+[21:32:33] [Server thread/INFO]: Bili_CMZ >> ¿ÕÖÃÓòÔÚÄÄ[m
+[21:32:35] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒÍ»È»ÏëÒª¼Ó¸ö¶¯Ì¬Ä£ºı£¨[m
+[21:32:41] [Server thread/INFO]: Bili_CMZ >> ÎÒÔÙ500µØÓüÃÅÕâ[m
+[21:32:44] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÄãÃÇÓĞ×ÊÔ´Âğ£¨[m
+[21:32:54] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> -427 32 -287[m
+[21:32:56] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[21:33:49] [Server thread/WARN]: Shallow_dream_ moved too quickly! -5.3010383289956735,-5.238083756801132,-8.55155434182052
+[21:33:54] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[21:33:54] [Server thread/INFO]: YuHuaQingZhu left the game
+[21:33:56] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ?????[m
+[21:34:03] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÔõÃ´ÕâÃ´¶àÈË[m
+[21:34:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¡°¶à¡±[m
+[21:34:22] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÀÏ¡ª¡ª»¬¡ª¡ª»ü¡ª¡ª[m
+[21:34:26] [Server thread/INFO]: Shallow_dream_ >> ²»ÊÇºÜ¶à[m
+[21:34:28] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> °Ë¸ö°¥[m
+[21:34:35] [Server thread/INFO]: Laohuaji issued server command: /gamemode creative
+[21:34:35] [Server thread/INFO]: [Laohuaji: Set own game mode to Creative Mode]
+[21:34:37] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[21:34:41] [Server thread/INFO]: Laohuaji issued server command: /tp the_yellowleaf
+[21:34:41] [Server thread/INFO]: [Laohuaji: Teleported Laohuaji to the_yellowleaf]
+[21:34:44] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãÊıÊı£¿[m
+[21:35:00] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Õâ²»´õÀ´°ïÃ¦£¨£¨[m
+[21:35:03] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ²»ÊÇ¸Õ×ßÁËÒ»¸öÂğ£¨[m
+[21:35:14] [Server thread/INFO]: Shallow_dream_ >> ÇÊ³áÄ©µØĞ±·ÉÄÜÓöµ½ºÃ¶àÄ©µØ³Ç[m
+[21:36:04] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ¼±ÆÈ¶ş=ÃëÍÚ ´´Ôì=ÃëÍÚ ËùÒÔ¼±ÆÈ2=´´Ôì£¨[m
+[21:36:16] [Server thread/INFO]: Bili_CMZ >> ÕâÃ´¸öÍÚ·¨£¨[m
+[21:36:20] [Server thread/INFO]: Shallow_dream_ >> ´´ÔìÃ»ÓĞÉú´æ¿é[m
+[21:36:25] [Server thread/INFO]: Shallow_dream_ >> ´´ÔìÃ»ÓĞÉú´æ¿ì[m
+[21:36:26] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> az[m
+[21:36:30] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ±ß¿òÍÚµ½»ùÑÒ£¨[m
+[21:36:35] [Server thread/INFO]: Bili_CMZ >> ![m
+[21:36:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÍÂÁË[m
+[21:36:45] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÓÃÀ´×öË®Ä»[m
+[21:36:53] [Server thread/INFO]: Shallow_dream_ >> ÓĞÈËÒªÇÊ³áÂï[m
+[21:36:57] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒ£¨[m
+[21:37:00] [Server thread/INFO]: Bili_CMZ >> ÎÒ£¨[m
+[21:37:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ï®»÷Ëş×öµ½ÍÂ[m
+[21:37:12] [Server thread/INFO]: Bili_CMZ >> adhesive_tape[m
+[21:37:12] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÍÂÁË¾Í±ßÍÚ±ßÏë£¨£¨£¨[m
+[21:37:15] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÍÚºÃÁËÂï[m
+[21:37:16] [Server thread/INFO]: Bili_CMZ >> ÔõÃ´ÑùÁË£¨[m
+[21:37:36] [Server thread/INFO]: Bili_CMZ >> Ï®»÷ËşÔõÃ´ÑùÁËtape[m
+[21:37:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÕæjbÄÑ×ö[m
+[21:37:57] [Server thread/INFO]: Bili_CMZ >> ĞèÒª°ïÃ¦Âğ£¨[m
+[21:38:08] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> CMZÎ££¨[m
+[21:38:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã»áÉè¼ÆÂğ[m
+[21:38:13] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ËùÒÔÕâ¿éµØÒª¸ÉÊ²Ã´£¨[m
+[21:38:19] [Server thread/INFO]: Bili_CMZ >> ²»»á£¨[m
+[21:38:21] [Server thread/INFO]: Shallow_dream_ >> Ä©µØ-20000¸ñÎªÊ²Ã´»áÓĞÕÛÔ¾ÃÅ[m
+[21:38:23] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Äã ºÅ Ã» ÁË£¨£¨£¨£¨£¨£¨£¨£¨[m
+[21:38:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ·ãÒ¶ÄØ[m
+[21:38:41] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ¸É»î[m
+[21:38:47] [Server thread/INFO]: Shallow_dream_ >> Ä©µØ-20000¸ñÎªÊ²Ã´»áÓĞÕÛÔ¾ÃÅ??[m
+[21:38:59] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> Õı³£[m
+[21:39:18] [Server thread/INFO]: Shallow_dream_ >> ÅÜÍ¼ÉÏÏŞÊÇ¶àÉÙÀ´×Å[m
+[21:39:28] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Îå[m
+[21:39:32] [Server thread/INFO]: Bili_CMZ >> the_yellowleafËùÒÔËµÎªºÎ²»·ÅĞÅ±ê[m
+[21:39:34] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎŞ[m
+[21:39:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔÚÄÄ[m
+[21:39:40] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ·ÅÁËÒ»¸ö[m
+[21:39:45] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[21:39:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> fuck[m
+[21:40:05] [Server thread/INFO]: Bili_CMZ >> ÔÚÄÄ±ß[m
+[21:40:07] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> É¶[m
+[21:40:16] [Server thread/INFO]: Bili_CMZ >> ĞÅ±ê£¨[m
+[21:40:22] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒÕâ±ß[m
+[21:40:27] [Server thread/INFO]: Bili_CMZ >> ÎÒÈ¥Ë¬Ë¬£¨[m
+[21:40:55] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ¸øÄã¸öĞ¡ÈÎÎñ£¿[m
+[21:41:03] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[21:41:50] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒĞÅ±ê·ÅÔÚ»ùÑÒ²ã£¬Äã¸øËûÒÔÖĞĞÄÎ»ÖÃÏòÄÏ±±Á½±ß¸÷ÍØÕ¹64¸ñ[m
+[21:41:53] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Ğ¡ËíµÀ[m
+[21:42:07] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ¸øÏÂÒ»¸öĞÅ±ê¶¨µã[m
+[21:42:15] [Server thread/INFO]: Bili_CMZ >> .....[m
+[21:42:22] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Õâ¸ö¿ÕÖÃÓòÒ»¹²ĞèÒª4¸öĞÅ±ê[m
+[21:42:30] [Server thread/INFO]: Bili_CMZ >> ÎÒÊıÑ§²»ºÃ£¨[m
+[21:42:32] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:42:37] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ......?![m
+[21:42:43] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÄãÃÇ´òËãÍ½ÊÖÍÚ£¿[m
+[21:42:46] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÄÇÎÒ»»¸öËµ·¨[m
+[21:43:31] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ĞÅ±ê·¶Î§ÒÔĞÅ±êÎªÖĞĞÄ±ß³¤64µÄÕı·½ĞÎ[m
+[21:43:47] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ¿ÕÖÃÓòÊÇ128x128µÄÕı·½ĞÎ[m
+[21:43:50] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ËÍ[m
+[21:43:52] [Server thread/INFO]: Bili_CMZ >> ¶÷[m
+[21:43:53] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> so[m
+[21:44:03] [Server thread/INFO]: Laohuaji issued server command: /gamemode survival
+[21:44:03] [Server thread/INFO]: [Laohuaji: Set own game mode to Survival Mode]
+[21:44:19] [Server thread/INFO]: Laohuaji issued server command: /gamemode creative
+[21:44:19] [Server thread/INFO]: [Laohuaji: Set own game mode to Creative Mode]
+[21:44:27] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ¿´µ½ĞÅ±êÖùµÄÎ»ÖÃÁËÂğ[m
+[21:44:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÕâ¿ÕÖÃÓò¶«Î÷·½ÏòÔõÃ´²»¶ÔÆëÇø¿é±ßÔµ[m
+[21:44:50] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ²»ÖªµÀ[m
+[21:44:56] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Ã÷Ìì»¹ÒªÉÏ¿Î£¨£¨£¨[m
+[21:44:59] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÁïÁË[m
+[21:45:01] [Server thread/INFO]: Bili_CMZ >> aaaa[m
+[21:45:01] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[21:45:01] [Server thread/INFO]: the_yellowleaf left the game
+[21:45:08] [Server thread/INFO]: Bili_CMZ >> adhesive_tape[m
+[21:45:14] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:45:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ƒ÷[m
+[21:45:15] [Server thread/INFO]: Bili_CMZ >> ÄãµÄÂÌËşÔÚÄÄ[m
+[21:45:19] [Server thread/INFO]: Bili_CMZ >> ¿ÉÒÔ¿´¿´Âï£¨[m
+[21:45:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ã»×öºÃ[m
+[21:45:26] [Server thread/INFO]: Laohuaji issued server command: /tp adhesive_tape
+[21:45:26] [Server thread/INFO]: [Laohuaji: Teleported Laohuaji to adhesive_tape]
+[21:45:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ËãÁË¼ÌĞøÉè¼ÆºÃÁË[m
+[21:45:39] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[21:45:39] [Server thread/INFO]: adhesive_tape left the game
+[21:46:29] [Server thread/INFO]: Shallow_dream_ >> ÄãÃÇÔÚÍÚÊ²Ã´[m
+[21:46:56] [Server thread/INFO]: Bili_CMZ >> ·ãÒ¶ÔÚ¸ø500ÍÚ¿ÕÖÃÓò[m
+[21:47:04] [Server thread/INFO]: Shallow_dream_ >> ÎÒÂíÉÏÒ²ÒªÀ´[m
+[21:47:07] [Server thread/INFO]: Bili_CMZ >> tapeÔÚÉè¼ÆÏ®»÷Ëş[m
+[21:47:22] [Server thread/INFO]: Shallow_dream_ >> ÕÒµ½ÁË3¸öÇÊ³á[m
+[21:47:22] [Server thread/INFO]: Laohuaji issued server command: /gamemode spectator
+[21:47:22] [Server thread/INFO]: [Laohuaji: Set own game mode to Spectator Mode]
+[21:47:31] [Server thread/INFO]: Bili_CMZ >> [name:500¤Î¿ÕÖÃÓò, x:-398, y:68, z:-226, dim:minecraft:overworld][m
+[21:47:41] [Server thread/INFO]: Bili_CMZ >> ×ø±ê[m
+[21:48:36] [User Authenticator #21/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[21:48:36] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:55219] logged in with entity id 39134 at ([world_the_end]3220.7206091274375, 153.0, -6675.305816923804)
+[21:49:29] [Server thread/INFO]: Bili_CMZ >> ÀÏ»¨¾µÔÚ¸ÉÉ¶£¨[m
+[21:49:39] [Server thread/INFO]: Laohuaji issued server command: /tp ~ ~ ~
+[21:49:39] [Server thread/INFO]: [Laohuaji: Teleported Laohuaji to 7082.372391966558, 75.0, -549.9166922592466]
+[21:50:27] [Server thread/INFO]: Laohuaji issued server command: /gamemode creative
+[21:50:27] [Server thread/INFO]: [Laohuaji: Set own game mode to Creative Mode]
+[21:50:35] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[21:51:20] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[21:51:32] [Server thread/INFO]: Shallow_dream_ issued server command: /newWaypoint name:500¤Î¿ÕÖÃÓò, x:-398, y:68, z:-226, dim:minecraft:overworld
+[21:51:34] [Server thread/INFO]: Shallow_dream_ issued server command: /newWaypoint name:500¤Î¿ÕÖÃÓò, x:-398, y:68, z:-226, dim:minecraft:overworld
+[21:51:34] [Server thread/INFO]: Shallow_dream_ issued server command: /
+[21:51:36] [Server thread/INFO]: Shallow_dream_ issued server command: /
+[21:54:06] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[21:54:06] [Server thread/INFO]: Laohuaji left the game
+[21:57:13] [Server thread/INFO]: Shallow_dream_ >> Ã»¿´¼ûÄã[m
+[21:57:27] [Server thread/INFO]: Twilight2033 >> YuHuaQingZhuÄã»¹ÔÚÄ©µØÂğ[m
+[21:57:37] [Server thread/INFO]: YuHuaQingZhu >> zai[m
+[21:58:05] [Server thread/INFO]: Twilight2033 >> ÎÒÄÃÒ»µãºìÊ¯[m
+[21:58:09] [Server thread/INFO]: Twilight2033 >> ÎÒÈ±[m
+[21:58:17] [Server thread/INFO]: YuHuaQingZhu >> en[m
+[21:58:23] [Server thread/INFO]: Twilight2033 >> ºÃ¼Ò»ï²Ğº¡Íâ·Å[m
+[21:58:34] [Server thread/INFO]: Bili_CMZ >> ...[m
+[21:58:38] [Server thread/INFO]: Shallow_dream_ lost connection: Disconnected
+[21:58:38] [Server thread/INFO]: Shallow_dream_ left the game
+[21:58:39] [Server thread/INFO]: Bili_CMZ >> ²»ÊÇÎÒ£¨[m
+[22:00:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@26761299[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:55272) lost connection: Disconnected
+[22:00:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b5397df[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:55273) lost connection: Disconnected
+[22:02:28] [Server thread/INFO]: Bili_CMZ >> ÓĞÉ¶ÓĞ¡áÈ¤¡áµÄÊÂÇéÂğ[m
+[22:03:24] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ²Á£¿[m
+[22:03:27] [Server thread/INFO]: Bili_CMZ >> £¿[m
+[22:03:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÉíÉÏÕ¦¶àÁËÒ»¶ÑÄªÃûÆäÃîµÄ¶«Î÷[m
+[22:03:54] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[22:04:05] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[22:04:05] [Server thread/INFO]: sen_lv_ling_ left the game
+[22:04:08] [Server thread/INFO]: Bili_CMZ >> ÓĞÈËºÍÎÒÒ»ÑùÏĞÂğ£¨[m
+[22:04:48] [Server thread/INFO]: Bili_CMZ >> ÓĞÈËÒ»ÆğÍÚµØÓü½»Í¨Âğ[m
+[22:07:49] [User Authenticator #22/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:07:49] [Server thread/INFO]: adhesive_tape[/127.0.0.1:55320] logged in with entity id 48884 at ([world]-384.21187208591374, 66.0, -224.09500324971845)
+[22:07:55] [Server thread/INFO]: Bili_CMZ >> ÔõÃ´Ñù£¿[m
+[22:08:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> cmz[m
+[22:08:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã¹ıÀ´Ò»ÌË[m
+[22:08:10] [Server thread/INFO]: Bili_CMZ >> ×ø±ê[m
+[22:08:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ï®»÷Ëş[m
+[22:09:14] [Server thread/INFO]: Bili_CMZ >> ÈË£¿[m
+[22:09:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¶®ÁË[m
+[22:10:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> °ÑËüÒÆ×ß[m
+[22:10:29] [Server thread/INFO]: Bili_CMZ >> U1S1[m
+[22:10:38] [Server thread/INFO]: Bili_CMZ >> Õâ¸öÏ®»÷ÊÇÎÒ¸ÕÒıµÄ£¨[m
+[22:10:48] [Server thread/INFO]: Bili_CMZ >> ÎÒÒıµ½ÁúÑÒµÄËû[m
+[22:10:51] [Server thread/INFO]: Bili_CMZ >> Ëş[m
+[22:10:55] [Server thread/INFO]: Bili_CMZ >> Ò»¸öÃ»Ë¢[m
+[22:11:03] [Server thread/INFO]: Bili_CMZ >> ¾ÍÒòÎªÓĞ»½Ä§[m
+[22:11:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÆÌÌú¹ì[m
+[22:12:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> okw[m
+[22:13:36] [Server thread/INFO]: Bili_CMZ >> ÄÚ¸ö[m
+[22:13:43] [Server thread/INFO]: Bili_CMZ >> ·½Ïò´íÁË£¨[m
+[22:13:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¾ÉËşÏÈ²»¹ÜÁË[m
+[22:14:12] [Server thread/INFO]: Bili_CMZ >> ĞÂËşÓĞÊ²Ã´À­¸Ë£¿[m
+[22:14:15] [Server thread/INFO]: Bili_CMZ >> Áé¸Ğ[m
+[22:14:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ó¦¸ÃÊÇ´ò¿ª·½Ê½´íÁË[m
+[22:14:35] [Server thread/INFO]: Bili_CMZ >> ÄÇÓ¦¸ÃÔõÃ´¸ã£¿[m
+[22:14:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Òª´Ó×îµ×ÏÂÉÏÀ´[m
+[22:14:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÈ¥ÒıÏ®»÷[m
+[22:14:50] [Server thread/INFO]: Bili_CMZ >> az?![m
+[22:14:54] [Server thread/INFO]: Bili_CMZ >> ¼ÓÓÍ[m
+[22:18:05] [Server thread/INFO]: Twilight2033 >> ÀÛÕ¨ÁË[m
+[22:18:14] [Server thread/INFO]: Bili_CMZ >> ¼ÓÓÍ[m
+[22:18:26] [Server thread/INFO]: Twilight2033 >> ÎÒ¶¼²»ÖªµÀ×Ô¼ºÔõÃ´×ö³öÕâÊ÷³¡µÄ[m
+[22:18:37] [Server thread/INFO]: Twilight2033 >> Éú´æ×öÆğÀ´ÔôÂé·³[m
+[22:18:49] [Server thread/INFO]: Bili_CMZ >> nb[m
+[22:19:28] [Server thread/INFO]: Bili_CMZ >> ?[m
+[22:19:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÏÈ°ÑÕâ¸öÏ®»÷¶ÏÁË[m
+[22:19:31] [Server thread/INFO]: Bili_CMZ >> adhesive_tape[m
+[22:19:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»ÓÃ´ò[m
+[22:20:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> µÈÒ»»á×ß¿ªÈÃÕâĞ©¹ÖÏûÊ§¾ÍĞĞ[m
+[22:20:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓĞÌõµÄ»°¾ÍËãÎÒÓĞ²»ÏéÖ®Õ×Ò²Òı²»ÁËÏ®»÷[m
+[22:21:37] [Server thread/INFO]: Bili_CMZ >> ÏÖÔÚÄØ[m
+[22:21:39] [Server thread/INFO]: Bili_CMZ >> OK[m
+[22:21:42] [Server thread/INFO]: Bili_CMZ >> le[m
+[22:22:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸øµãÑÌ»¨[m
+[22:23:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[22:23:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÓĞÁË[m
+[22:23:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×ß[m
+[22:26:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[22:26:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÉÏÈ¥[m
+[22:26:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿´¿´ÄÜ²»ÄÜÁ¬ĞøÁË[m
+[22:26:27] [Server thread/INFO]: YuHuaQingZhu >> ÎªÊ²Ã´´åÃñ²»²¹»õ[m
+[22:27:00] [Server thread/INFO]: Bili_CMZ >> ohhhhhhhhhhhhhhhhhhhhh[m
+[22:27:07] [Server thread/INFO]: Bili_CMZ >> ³É¹¦ÁË£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡[m
+[22:27:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÊÇÂğ[m
+[22:27:30] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[22:27:48] [Server thread/INFO]: Bili_CMZ >> ÔõÃ´¾ÍÒ»»ØºÏ£¨[m
+[22:28:16] [Server thread/INFO]: Bili_CMZ >> Éú³É³É¹¦ÁË[m
+[22:28:23] [Server thread/INFO]: Bili_CMZ >> ¿ÉÊÇÎÒµ½µÄÊ±ºò[m
+[22:28:31] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[22:29:09] [Server thread/INFO]: Bili_CMZ >> ÏÂÃæ»¹ÓĞ2Ãû[m
+[22:29:14] [Server thread/INFO]: Bili_CMZ >> ÉÏÃæÃ»ÁË[m
+[22:29:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄÄÓĞÁ½Ãû[m
+[22:29:24] [Server thread/INFO]: Bili_CMZ >> ÏÂÀ´[m
+[22:29:28] [Server thread/INFO]: Bili_CMZ >> ÏÔÊ¾[m
+[22:30:27] [Server thread/INFO]: Bili_CMZ >> ÄÄÀ´µÄÁ½¸ö¡£-¡£[m
+[22:31:05] [Server thread/INFO]: Bili_CMZ >> e[m
+[22:31:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÈ¥°ÑÄÇ¸ö¶Ñ·ÊÍ°ÍÚÁË[m
+[22:31:10] [Server thread/INFO]: Bili_CMZ >> ÔõÃ´°ì£¿[m
+[22:31:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×îµ×ÏÂÄÇ¸ö[m
+[22:31:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> µÈµÈ[m
+[22:31:47] [Server thread/INFO]: Bili_CMZ >> ?![m
+[22:31:57] [Server thread/INFO]: Bili_CMZ >> ½ø¶ÈÌõÒ»³¤Ò»¶Ì£¿[m
+[22:32:02] [Server thread/INFO]: Bili_CMZ >> ÔÚ»Î£¿[m
+[22:32:50] [Server thread/INFO]: Bili_CMZ has completed the challenge [Hero of the Village]
+[22:32:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²İ[m
+[22:33:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÏÈ±ğ´ò[m
+[22:33:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ±ğ´ò[m
+[22:33:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ºÃÏñÊÇÇ£Òı×°ÖÃÎÊÌâ[m
+[22:34:14] [Server thread/INFO]: Bili_CMZ >> ³É¹¦ÁË£¡[m
+[22:34:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÏÈÁô×ÅÕâÒ»²¨±ğÉ±[m
+[22:34:34] [Server thread/INFO]: Bili_CMZ >> ¶÷[m
+[22:34:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒ¼ì²éÒ»ÏÂÇ£Òı×°ÖÃ[m
+[22:35:24] [Server thread/INFO]: Bili_CMZ >> Áı×Ó»¹ÊÇÂ©ÄÕ¹í[m
+[22:35:37] [Server thread/INFO]: Bili_CMZ >> µ«²»ÊÇºÜÑÏÖØ[m
+[22:35:46] [Server thread/INFO]: Bili_CMZ >> ÎÒµÈ»áÒªÏÂÁË[m
+[22:35:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÄÃµãÖÎÁÆÒ©Ë®¶ªÌú¿şÀÜ[m
+[22:35:50] [Server thread/INFO]: Bili_CMZ >> Äã×¥½ô£¨[m
+[22:36:37] [Server thread/INFO]: Bili_CMZ >> e[m
+[22:36:37] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[22:36:45] [Server thread/INFO]: Bili_CMZ >> ĞŞ¸´Ìú¿şÀÜÊÇÌú¡£-¡£[m
+[22:37:04] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[22:37:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ç£Òı×°ÖÃ³öÎÊÌâÁË[m
+[22:37:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒĞŞÒ»ĞŞ[m
+[22:38:10] [Server thread/INFO]: Bili_CMZ >> ÓĞÒ»¸öÌú¿şÀÜÎşÉüÁË[m
+[22:38:43] [Server thread/INFO]: Bili_CMZ >> Á½¸öÌú¿şÀÜÎşÉü[m
+[22:39:50] [Server thread/INFO]: Bili_CMZ >> Ç¨Òı×°ÖÃÔõÃ´ÑùÁË£¨[m
+[22:41:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ó¦¸ÃÃ»ÎÊÌâÁË°É[m
+[22:41:05] [Server thread/INFO]: Bili_CMZ >> ½ñÌì¿ÉÒÔĞŞºÃÂğ£¨[m
+[22:41:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÀ´ÊÔÊÔ[m
+[22:41:16] [Server thread/INFO]: Bili_CMZ >> ¿ÉÒÔ´ò¿ó³µÁËÂğ£¿[m
+[22:41:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en[m
+[22:41:34] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[22:41:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> µÈµÈ[m
+[22:41:58] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[22:41:58] [Server thread/INFO]: Bili_CMZ >> Ã»ÁË[m
+[22:42:05] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[22:42:15] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[22:42:15] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[22:42:25] [Server thread/INFO]: Bili_CMZ >> Õ¦°ì£¿[m
+[22:42:28] [Server thread/INFO]: Bili_CMZ >> ÔÙÀ´Ò»´Î£¿[m
+[22:42:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en[m
+[22:42:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÏñÎÒ¸Õ²ÅÄÇÑù[m
+[22:42:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ´Óº£µ×Òı[m
+[22:42:51] [Server thread/INFO]: Bili_CMZ >> »¹ÊÇÄãÈ¥°É£¨[m
+[22:42:55] [Server thread/INFO]: Bili_CMZ >> wÎÒÅÂ[m
+[22:42:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m
+[22:42:57] [Server thread/INFO]: Bili_CMZ >> ([m
+[22:43:06] [Server thread/INFO]: Bili_CMZ >> ÎÒÅÂ¸ã´í[m
+[22:43:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄÇÄã°ÑÌú¿şÀÜ²¹Ò»ÏÂ[m
+[22:44:20] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[22:44:20] [Server thread/INFO]: Twilight2033 left the game
+[22:47:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> md[m
+[22:47:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔõÃ´Ã»ÓĞ¶Ó³¤[m
+[22:47:47] [Server thread/INFO]: Bili_CMZ >> ?[m
+[22:48:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓĞÁË[m
+[22:49:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÀ´ÁË[m
+[22:49:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ´¥·¢ÁË[m
+[22:50:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿³¿ó³µ[m
+[22:50:51] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[22:51:57] [Server thread/INFO]: Bili_CMZ >> Ã»ÁË[m
+[22:51:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ÌĞø²¹Ìú¿şÀÜ[m
+[22:52:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã¿ó³µ¿³¿ìÁË[m
+[22:52:14] [Server thread/INFO]: Bili_CMZ >> emmmmmm[m
+[22:52:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> °ÑÄÇĞ©¿³ÍêÖ®ºó¾Í²»ÓÃ¿³ÁË[m
+[22:52:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÔÙÈ¥Ò»´Î[m
+[22:53:12] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[22:53:39] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i'
+[22:53:44] [Server thread/INFO]: YuHuaQingZhu issued server command: /co iu
+[22:53:48] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[22:55:49] [Server thread/INFO]: Bili_CMZ >> ËùÒÔËµ¿ó³µ¸ÃÔõÃ´¿³£¿[m
+[22:55:52] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[22:55:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¾ÍÂıÒ»µã¿³[m
+[22:56:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ã»¹ÖÁË¾Í²»¿³[m
+[22:56:21] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[22:56:36] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[22:56:54] [Server thread/INFO]: Bili_CMZ >> ÎÒÂíÉÏÒªÏÂÁË£¨[m
+[22:57:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¶î[m
+[22:58:17] [Server thread/INFO]: Bili_CMZ >> Ìú¿şÀÜ²»ºÃÁË[m
+[22:58:18] [Server thread/INFO]: Bili_CMZ >> ²¹[m
+[22:58:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en[m
+[22:58:35] [Server thread/INFO]: Bili_CMZ >> Òıµ½ÁËÂğ£¨[m
+[22:58:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÌìÁÁÁËÉÕ[m
+[22:58:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÉÙ[m
+[23:01:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[23:01:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´ÁË[m
+[23:02:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> what[m
+[23:02:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿³¿ó³µÒ»ÏÂ[m
+[23:02:29] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[23:02:45] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[23:04:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÈÈÄØ[m
+[23:04:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÈËÄØ[m
+[23:04:25] [Server thread/INFO]: Bili_CMZ >> emmmmm[m
+[23:04:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿³[m
+[23:04:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ÌĞø[m
+[23:05:18] [Server thread/INFO]: Bili_CMZ >> Ã»ÁË¡£¡£¡£¡£¡£¡£[m
+[23:05:30] [Server thread/INFO]: Bili_CMZ >> ÓĞÁË[m
+[23:06:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿³ÉÔÎ¢ÂıÒ»µã[m
+[23:06:29] [Server thread/INFO]: Bili_CMZ >> ÎÒÉÔÎ¢ÕÆÎÕ¾÷ÇÏÁË[m
+[23:07:05] [Server thread/INFO]: Bili_CMZ >> ¿ÉÒÔµÄ[m
+[23:07:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ó¦¸Ã¿ÉÒÔÁË[m
+[23:07:29] [Server thread/INFO]: Bili_CMZ >> ·ÖÀà»úÃ»¶«Î÷¡£-¡£[m
+[23:07:31] [Server thread/INFO]: Bili_CMZ >> ÀëÆ×[m
+[23:08:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[23:08:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÈ¥¿³[m
+[23:09:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×ÜËã¿ÉÒÔÓÃÁË[m
+[23:09:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÈË¶¼ÉµÁË[m
+[23:09:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»ºÃ¹Ò»ú[m
+[23:09:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓĞ¼âÑÀ[m
+[23:11:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÈçºÎ[m
+[23:11:12] [Server thread/INFO]: Bili_CMZ >> ÎÒÊÔ¹ı[m
+[23:11:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ï®»÷Á¬ĞøÃ»[m
+[23:11:13] [Server thread/INFO]: Bili_CMZ >> ¿ÉÒÔ[m
+[23:11:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄÇ¾ÍĞĞ[m
+[23:11:24] [Server thread/INFO]: Bili_CMZ >> Ó¦¸Ã¿ÉÒÔ¹Ò»ú[m
+[23:11:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¹Ò»ú¹À¼Æ»áËÀ[m
+[23:11:41] [Server thread/INFO]: Bili_CMZ >> ¼â´ÌÉËº¦²»¸ß[m
+[23:11:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã»¹ÊÇÊ±²»Ê±¿´¿´[m
+[23:11:51] [Server thread/INFO]: Bili_CMZ >> ÔõÃ´ËµÄØ[m
+[23:11:56] [Server thread/INFO]: Bili_CMZ >> ²»ÍÆ¼ö¹Ò»ú[m
+[23:11:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒ¹Ò»úÏ´Ôè[m
+[23:12:06] [Server thread/INFO]: Bili_CMZ >> ¹Ò»ú½Å±¾µÃĞ´ºÃ[m
+[23:12:14] [Server thread/INFO]: Bili_CMZ >> ÎÒÂíÉÏÒªÏÂÁË£¨[m
+[23:14:13] [User Authenticator #23/INFO]: UUID of player gendieyiyang is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[23:14:13] [Server thread/INFO]: gendieyiyang[/127.0.0.1:55676] logged in with entity id 85166 at ([world]-165.3029359643333, 64.5, 170.7559589135911)
+[23:14:22] [Server thread/INFO]: gendieyiyang >> ¾ÓÈ»ÓĞÈË[m
+[23:14:24] [Server thread/INFO]: Bili_CMZ >> ÇëÎÊÄãÊÇ[m
+[23:14:32] [Server thread/INFO]: Bili_CMZ >> ĞÂÀ´µÄÂğ[m
+[23:14:49] [Server thread/INFO]: gendieyiyang >> ÊÇµÄ µ«ÊÇÎÒµÄ×°±¸ÒÑ¾­²»ÊÇĞÂÀ´µÄÁË[m
+[23:15:03] [Server thread/INFO]: gendieyiyang >> ÄãÔÚÄÄ ÎÒÈ¥ÈÏÊ¶ÈÏÊ¶[m
+[23:15:13] [Server thread/INFO]: gendieyiyang >> ÎÒÒÑ¾­ºÜÊìÏ¤Â·ÁË[m
+[23:15:38] [Server thread/INFO]: Bili_CMZ >> ÎÒÏÖÔÚÓĞÊÂ£¨[m
+[23:15:56] [Server thread/INFO]: gendieyiyang >> º¦[m
+[23:16:29] [Server thread/INFO]: Bili_CMZ >> ÄãÊÇĞ¡ÕòµÄ³ÉÔ±Âğ£¿[m
+[23:16:42] [Server thread/INFO]: gendieyiyang >> ²»ÊÇ ÎÒ¸úmrÒ»ÑùÊÇÖ÷³ÇµÄ¡£¡£¡£[m
+[23:18:29] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[23:18:49] [Server thread/INFO]: Bili_CMZ >> ÄãÓ¦¸ÃÖªµÀÏ®»÷Ëş°É[m
+[23:18:49] [Server thread/INFO]: gendieyiyang >> ËùÒÔÄã²»ÊÇÓĞÊÂÂğ¡­¡­[m
+[23:19:11] [Server thread/INFO]: gendieyiyang >> Ï®»÷Ëş²»ÊÇ»¹Ã»±»xlĞŞºÃÂğ[m
+[23:19:21] [Server thread/INFO]: gendieyiyang >> ·ãÒ¶²Å¿´¹ı[m
+[23:19:30] [Server thread/INFO]: Bili_CMZ >> ÎÒÃÇ²ÅĞŞºÃ¡£-¡£[m
+[23:19:37] [Server thread/INFO]: gendieyiyang >> ÄãÖ±½ÓËµÄãÄÄ¸öÕòµÄ ÎÒÈ¥°İ·Ã[m
+[23:19:47] [Server thread/INFO]: Bili_CMZ >> ÎÒÓĞÊÂ£¨[m
+[23:19:52] [Server thread/INFO]: gendieyiyang >> ÆäÊµÎÒ²»ÖªµÀÏ®»÷ËşÔÚÄÄ[m
+[23:20:15] [Server thread/INFO]: gendieyiyang >> Á¬ÄÄ¸öĞ¡Õò¶¼²»Ô¸ÒâÍ¸Â¶°¡¡­¡­[m
+[23:20:18] [Server thread/INFO]: Bili_CMZ >> ÆäÊµÄãÄ¿Ç°Ò²²»±ØÖªµÀ£¨[m
+[23:20:27] [Server thread/INFO]: Bili_CMZ >> ÎÒ¹Ò»á»úÁË£¨[m
+[23:20:32] [Server thread/INFO]: Bili_CMZ issued server command: /qd
+[23:20:33] [Server thread/INFO]: gendieyiyang >> ÎÒÒ»ÉíºÏ½ğÌ×Ğ»Ğ»[m
+[23:20:37] [Server thread/INFO]: gendieyiyang >> È«¸½Ä§µÄ[m
+[23:20:44] [Server thread/INFO]: Bili_CMZ >> Ë­²»ÊÇÄØ£¨[m
+[23:21:04] [Server thread/INFO]: gendieyiyang >> ²»ÊÇ ÎÒµÄÒâË¼ÊÇ ÓÀÔ¶²»ÒªĞ¡¿´ĞÂÈËµÄ°×æÎÄÜÁ¦[m
+[23:21:11] [Server thread/INFO]: gendieyiyang >> hhh[m
+[23:21:29] [Server thread/INFO]: gendieyiyang >> ÎÒ²ÂÄãÊÇ500ÕòµÄ£¿[m
+[23:22:42] [Server thread/INFO]: Bili_CMZ >> hhh[m
+[23:22:43] [Server thread/INFO]: Bili_CMZ >> ²»ÊÇ[m
+[23:23:04] [Server thread/INFO]: Bili_CMZ >> º£¾§[m
+[23:23:10] [Server thread/INFO]: gendieyiyang >> az[m
+[23:23:10] [Server thread/INFO]: Bili_CMZ >> ¿ÉÊÇÎÒÏÖÔÚÔÚÔª×æ[m
+[23:23:16] [Server thread/INFO]: Bili_CMZ >> Ô¶×ã[m
+[23:23:19] [Server thread/INFO]: gendieyiyang >> Ôª×éÊÇÄÄ£¿[m
+[23:23:23] [Server thread/INFO]: gendieyiyang >> º¦[m
+[23:23:30] [Server thread/INFO]: gendieyiyang >> ¾ÍËµÂï[m
+[23:23:50] [Server thread/INFO]: gendieyiyang >> Ê²Ã´Ê±ºòÓĞ¸öÔª×æÕò¡£¡£¡£[m
+[23:26:24] [Server thread/INFO]: gendieyiyang >> ÎÒÕÒµ½ÄãµÄ»ùµØÁËCMZ[m
+[23:26:32] [User Authenticator #24/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[23:26:32] [Server thread/INFO]: Mr_director[/127.0.0.1:55755] logged in with entity id 92976 at ([world_the_end]196.68327284693459, 42.875, -312.9934522734835)
+[23:26:42] [Server thread/INFO]: Bili_CMZ >> Mr_director[m
+[23:26:49] [Server thread/INFO]: Bili_CMZ >> ¸æËßÄã¸öºÃÏûÏ¢[m
+[23:26:56] [Server thread/INFO]: Mr_director >> ¿´µ½ÁË[m
+[23:26:58] [Server thread/INFO]: gendieyiyang >> Ô­À´º£ëàÍåÊÇÄã½¨µÄ°¡CMZ[m
+[23:27:06] [Server thread/INFO]: Bili_CMZ >> ([m
+[23:27:18] [Server thread/INFO]: Bili_CMZ >> ¿ÉÊÇÏÖÔÚÓÖ³öÎÊÌâÁË[m
+[23:27:24] [Server thread/INFO]: Bili_CMZ >> Ï®»÷ÖĞ¶Ï£¨[m
+[23:27:28] [Server thread/INFO]: Mr_director >> = =[m
+[23:27:33] [Server thread/INFO]: Bili_CMZ >> ÄÑÊÜ[m
+[23:27:44] [Server thread/INFO]: gendieyiyang >> ÇëÎÊÏ®»÷ËşÔÚÄÄÀïÄØ[m
+[23:27:52] [Server thread/INFO]: Bili_CMZ >> Äã×îºÃ±ğÀ´[m
+[23:27:56] [Server thread/INFO]: gendieyiyang >> ?[m
+[23:28:04] [Server thread/INFO]: Bili_CMZ >> ¸ã´íÈÎºÎÒ»¸ö¶«Î÷Ğ¡ĞÄ±»ÈºÅ¹£¨[m
+[23:28:21] [Server thread/INFO]: Bili_CMZ >> Õâ¸öÏ®»÷ËşÎÒÃÇ¸ãÁË½«½ü°ëÄê£¨[m
+[23:28:29] [Server thread/INFO]: gendieyiyang >> ÎÒÍæÁË10ÄêÁË´ó¸ç Ö»ÊÇÔÚÕâ¸ö·şÎñÆ÷ËãĞÂÈË¶øÒÑ ²¢²»ÊÇÃÈĞÂ[m
+[23:28:30] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[23:28:30] [Server thread/INFO]: Bili_CMZ >> ÎŞÊıÈËÒò´ËÊ§È¥ÀíÖÇ£¨[m
+[23:28:41] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[23:28:46] [Server thread/INFO]: Bili_CMZ >> µØÓü½»Í¨you[m
+[23:28:48] [Server thread/INFO]: Bili_CMZ >> ÓĞ[m
+[23:28:53] [Server thread/INFO]: Bili_CMZ >> Ò»¸ö¸öÕÒ°É£¨[m
+[23:28:58] [Server thread/INFO]: gendieyiyang >> ÎÒÓĞÄÇÃ´ÏñÃÈĞÂÂï[m
+[23:29:18] [Server thread/INFO]: gendieyiyang >> µØÓü½»Í¨µÄÄÄÌõÂ·ÉÏ[m
+[23:29:19] [Server thread/INFO]: Bili_CMZ >> ÎÒÃ»¼û¹ı£¨[m
+[23:29:39] [Server thread/INFO]: Bili_CMZ >> ËäÈ»ËµÎÒÊÇÈ«·ş×î·ÏÎïµÄÈËÖ®Ò»£¨[m
+[23:29:49] [Server thread/INFO]: Bili_CMZ >> ±Ï¾¹»¹ÓĞ¸ö´ø»ü£¨[m
+[23:29:59] [Server thread/INFO]: Bili_CMZ >> doge)[m
+[23:31:02] [Server thread/INFO]: gendieyiyang >> ÎÒ¸Õ¸Õ¸ú×Åmr µ«ÊÇÏÖÔÚ¸ú¶ªÁË[m
+[23:31:09] [Server thread/INFO]: Bili_CMZ >> ¸ÃËÀ£¨[m
+[23:31:10] [Server thread/INFO]: Mr_director >> = =[m
+[23:31:16] [Server thread/INFO]: Mr_director >> ±ğÉÏÈ¥[m
+[23:31:24] [Server thread/INFO]: Bili_CMZ >> ÌÖÑáµÄÏ®»÷Ëş[m
+[23:31:43] [Server thread/INFO]: gendieyiyang >> ctm Äã²»ÔçËµ[m
+[23:31:58] [Server thread/INFO]: gendieyiyang >> ÓÖÃ»Ò»¸öÍ¼ÌÚ[m
+[23:31:58] [Server thread/INFO]: Mr_director >> ÎÒ¾ÍÀ´¹Ò¸öÓãËş[m
+[23:32:02] [Server thread/INFO]: Bili_CMZ >> »°ËµÄãÓĞÇÊ³áÂğ£¨[m
+[23:32:06] [Server thread/INFO]: Bili_CMZ >> gendieyiyang[m
+[23:32:19] [Server thread/INFO]: gendieyiyang >> ÓĞµÄĞ»Ğ»[m
+[23:33:11] [Server thread/INFO]: gendieyiyang >> ÄãÏë¸ÉÂï[m
+[23:33:20] [Server thread/INFO]: Bili_CMZ >> Ã»É¶[m
+[23:33:24] [Server thread/INFO]: Bili_CMZ >> ¾ÍÎÊÎÊ[m
+[23:33:43] [Server thread/INFO]: Bili_CMZ >> cao[m
+[23:33:46] [Server thread/INFO]: Bili_CMZ >> mr[m
+[23:33:50] [Server thread/INFO]: Bili_CMZ >> Mr_director[m
+[23:33:51] [Server thread/INFO]: Mr_director >> ?[m
+[23:33:52] [Server thread/INFO]: gendieyiyang >> ?[m
+[23:33:58] [Server thread/INFO]: Bili_CMZ >> ÄãÊÇÔÚ¹ÒÊ²Ã´¶«Î÷Âğ£¨[m
+[23:34:04] [Server thread/INFO]: Mr_director >> ÓãËş[m
+[23:34:06] [Server thread/INFO]: Mr_director >> Õ¦ÁË[m
+[23:34:08] [Server thread/INFO]: Bili_CMZ >> emmmmmmm[m
+[23:34:25] [Server thread/INFO]: Bili_CMZ >> Ç°ÉÚÕ¾²»Ë¢[m
+[23:34:27] [Server thread/INFO]: Bili_CMZ >> ÈËÁË£¨[m
+[23:34:35] [Server thread/INFO]: Mr_director >> ÁË½â[m
+[23:34:37] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:34:37] [Server thread/INFO]: Mr_director left the game
+[23:34:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¶ÏÏ®»÷ÁË?[m
+[23:34:43] [Server thread/INFO]: Bili_CMZ >> en[m
+[23:34:43] [Server thread/INFO]: gendieyiyang >> ¸æËßÎÒµØ·½ ÎÒÈ¥¿´¿´ßÂ[m
+[23:34:58] [Server thread/INFO]: Bili_CMZ >> Ï®»÷¶ÏÁË[m
+[23:35:04] [Server thread/INFO]: Bili_CMZ >> ÓÖÒıÁËÒ»´Î[m
+[23:35:07] [Server thread/INFO]: Bili_CMZ >> Ã»Ë¢³öÀ´[m
+[23:35:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> É¶?[m
+[23:35:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÈ¥¿´¿´[m
+[23:35:33] [Server thread/INFO]: Bili_CMZ >> ÄãÏÈÒıÒ»¸ö[m
+[23:35:36] [Server thread/INFO]: Bili_CMZ >> ÔÙËµ°É£¨[m
+[23:35:39] [Server thread/INFO]: gendieyiyang >> ËùÒÔÏ®»÷ËşÔÚÄÄÀï°¡[m
+[23:35:54] [Server thread/INFO]: Bili_CMZ >> Äã²Â£¨[m
+[23:36:00] [Server thread/INFO]: gendieyiyang >> c[m
+[23:36:07] [Server thread/INFO]: Bili_CMZ >> adhesive_tape[m
+[23:36:12] [Server thread/INFO]: Bili_CMZ >> ÎÒµÃÏÂÁË[m
+[23:36:15] [Server thread/INFO]: Bili_CMZ >> ±£ÖØ[m
+[23:36:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m
+[23:36:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ã÷Ìì»¹ÄÜ¼ûÄØ[m
+[23:36:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ±£ÖØÉ¶Ñ½[m
+[23:36:37] [Server thread/INFO]: Bili_CMZ >> Ã÷ÌìÑ§Ğ£ÉÏÍø¿Î£¨[m
+[23:36:49] [Server thread/INFO]: Bili_CMZ >> 886[m
+[23:36:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> 88[m
+[23:37:05] [Server thread/INFO]: Bili_CMZ >> ÓĞ½øÕ¹Îñ±Ø·¢QQÈº£¨[m
+[23:37:13] [Server thread/INFO]: Bili_CMZ lost connection: Disconnected
+[23:37:13] [Server thread/INFO]: Bili_CMZ left the game
+[23:37:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> e[m
+[23:37:18] [Server thread/INFO]: gendieyiyang >> Ï®»÷ËşÔÚÄÄÀï°¡£¡[m
+[23:37:48] [Server thread/ERROR]: Could not pass event PlayerChatEvent to ChatC v0.5
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnection$4.evaluate(PlayerConnection.java:1719) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.util.Waitable.run(Waitable.java:25) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1072) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1007) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.lang.IllegalArgumentException: Illegal group reference
+	at java.util.regex.Matcher.appendReplacement(Unknown Source) ~[?:1.8.0_181]
+	at java.util.regex.Matcher.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.String.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at cf.cc7w.ChatC.ChatC.onchat(ChatC.java:247) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_181]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 11 more
+[23:37:48] [Server thread/INFO]: <adhesive_tape> xaero-waypoint:Ï®»÷Ëş:Ï®:157:115:-168:10:false:0:Internal-the-nether-mw$default[m
+[23:38:17] [Server thread/INFO]: gendieyiyang >> Ğ»ÁË[m
+[23:39:27] [Server thread/INFO]: gendieyiyang >> £¿[m
+[23:39:32] [Server thread/INFO]: gendieyiyang >> ÎÒµ½ÁË ËşÄØ[m
+[23:39:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒ¸øµÄÊÇµØÓüÃÅ×ø±ê[m
+[23:39:54] [Server thread/INFO]: gendieyiyang >> ¡£¡£¡£[m
+[23:39:58] [Server thread/INFO]: gendieyiyang >> ²»ÔçËµ[m
+[23:41:50] [Server thread/INFO]: gendieyiyang >> Ï®»÷³öÀ´ÁË°¡[m
+[23:42:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÒıµÄ[m
+[23:42:26] [Server thread/INFO]: gendieyiyang >> o[m
+[23:42:32] [Server thread/INFO]: gendieyiyang >> ÔÚÄÄÀïË¢°¡[m
+[23:42:45] [User Authenticator #25/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[23:42:45] [Server thread/INFO]: Mr_director[/127.0.0.1:55822] logged in with entity id 104332 at ([world]4379.699999988079, 19.875, 3919.585723841092)
+[23:42:46] [Server thread/INFO]: gendieyiyang >> °¥ ÓÖ¶ÏÁË[m
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-21.0978364729811
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-21.91157012912595
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-22.71400579699508
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-23.50039276681207
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-24.27105201223185
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-25.0262980874424
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-25.766439255553905
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-26.491777614420243
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-27.20260921994401
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-27.899224206915335
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-28.581906907434075
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-29.250935966963596
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-29.906584458063264
+[23:43:31] [Server thread/WARN]: Boat (vehicle of Mr_director) moved too quickly! 1.9723252443191086,0.0,-30.549119991846396
+[23:43:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÀ´[m
+[23:43:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> È¥¿³¿ó³µ[m
+[23:43:59] [Server thread/INFO]: gendieyiyang >> Õ¦Åª[m
+[23:44:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ±ğ¿³Ì«¿ì[m
+[23:44:22] [Server thread/INFO]: gendieyiyang >> ÕâÊÇÉ¶Ô­Àí[m
+[23:44:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ºáÉ¨Ö®ÈĞ[m
+[23:44:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> É¨ÖĞ[m
+[23:44:45] [Server thread/INFO]: gendieyiyang >> o[m
+[23:45:07] [Server thread/INFO]: gendieyiyang >> Ãº¿ó³·ÁË[m
+[23:45:22] [Server thread/WARN]: Mr_director moved wrongly!
+[23:45:36] [Server thread/INFO]: gendieyiyang >> tape Ã»¿ó³µÁË[m
+[23:45:52] [Server thread/INFO]: gendieyiyang >> ÎÊÌâÊÇÕâÀïÃ²ËÆÃ»¹ÖÁË[m
+[23:46:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en[m
+[23:46:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Í¦Ææ¹ÖµÄ[m
+[23:46:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> mrÉÏÈ¥[m
+[23:46:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿ÉÄÜÔÚµ×ÏÂ»áµ¼ÖÂË¢²»³öÀ´[m
+[23:46:34] [Server thread/INFO]: gendieyiyang >> mrÔÚÓãËş[m
+[23:46:43] [Server thread/INFO]: gendieyiyang >> ÕâÃ´¿ìÀ´ÁË£¿[m
+[23:46:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ºÃÆæ¹ÖµÄÏ®»÷Ìõ[m
+[23:47:15] [Server thread/INFO]: gendieyiyang has made the advancement [Sweet Dreams]
+[23:47:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»Ó¦¸Ã°¡[m
+[23:48:11] [Server thread/INFO]: gendieyiyang >> ÎªÊ²Ã´Ï®»÷ËşÕâÃ´ÖØÒª[m
+[23:48:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÈËÉµÁË[m
+[23:48:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÕâÇé¿öÕ¦»ØÊÂ[m
+[23:48:47] [Server thread/INFO]: Mr_director >> ²»ÖªµÀ[m
+[23:49:01] [Server thread/INFO]: Mr_director >> Ê×ÏÈÄÜÕı³£Ë¢³öÀ´¹ÖÊÇÃ´[m
+[23:49:06] [Server thread/INFO]: gendieyiyang >> Ë¢²»³öÀ´ÁË[m
+[23:49:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ë¢ÁË¼¸²¨[m
+[23:49:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> È»ºó¾ÍÕâÑùÁË[m
+[23:49:24] [Server thread/INFO]: Mr_director >> ßõ[m
+[23:49:32] [Server thread/INFO]: Mr_director >> µÈÌø¹ıÈ¥ÔÙÊÔÊÔ°É[m
+[23:50:03] [Server thread/INFO]: gendieyiyang >> ÎªÊ²Ã´Õâ¸öÏ®»÷ËşÕâÃ´ÖØÒª[m
+[23:50:09] [Server thread/INFO]: Mr_director >> = =[m
+[23:50:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎªÊ²Ã´Ç®ÕâÃ´ÖØÒª[m
+[23:50:28] [Server thread/INFO]: Mr_director >> Äã¾õµÃÇ®ÖØÒªÃ´[m
+[23:50:44] [Server thread/INFO]: gendieyiyang >> Èç¹ûÕâ¸ö»µÁË tapeÄãÔõÃ´²»ÔÙ¶¯Ô±½¨Ò»¸öÄØ¡£¡£¡£[m
+[23:50:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ë­ÓĞÕâ¾«Á¦...[m
+[23:51:08] [Server thread/INFO]: Mr_director >> ÄãÖªµÀ[m
+[23:51:15] [Server thread/INFO]: Mr_director >> Ê²Ã´½ĞÕ¾×ÅËµ»°²»ÑüÌÛÃ´[m
+[23:51:20] [Server thread/INFO]: gendieyiyang >> º¦[m
+[23:51:40] [Server thread/INFO]: gendieyiyang >> Èç¹ûĞèÒª ÎÒ¿ÉÒÔ¸ú×ÅÄãÃÇ¸ÎµÄ[m
+[23:51:50] [Server thread/INFO]: gendieyiyang >> ÎÒÒ»ÏòºÜÄÜ¸Î[m
+[23:52:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÒ²²»ÖªµÀÕâÊÇÔõÃ´»ØÊÂ[m
+[23:52:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Òª²»ÏÈÀë¿ªÒ»»áÔÙ»ØÀ´°É[m
+[23:52:38] [Server thread/INFO]: Mr_director >> µÈÏÂ[m
+[23:52:43] [Server thread/INFO]: Mr_director >> tapeÄãÏÈÔÚÕâ[m
+[23:53:12] [Server thread/INFO]: Mr_director >> Ò²²»ÊÇÕâ¸öÔ­Òò[m
+[23:53:15] [Server thread/INFO]: Mr_director >> ËãÁËÎÒÉµÁË[m
+[23:53:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒ»¹ÓĞ×îºóÒ»¸ö°ì·¨[m
+[23:54:59] [Server thread/WARN]: gendieyiyang moved wrongly!
+[23:55:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÏÈ±ğ¿³¿ó³µÁË[m
+[23:55:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÒªÍÚ·àÍ°ÁË[m
+[23:55:26] [Server thread/INFO]: Mr_director >> ok[m
+[23:55:42] [Server thread/INFO]: gendieyiyang >> ?[m
+[23:55:42] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:55:42] [Server thread/INFO]: Mr_director left the game
+[23:56:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓÖ¿¨Ï®»÷ÁË[m
+[23:56:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÏÈ±ğ¿³[m
+[23:56:08] [Server thread/INFO]: gendieyiyang >> Õâ´ÎÖ±½ÓÃ»ÁË[m
+[23:56:14] [Server thread/INFO]: gendieyiyang has completed the challenge [Hero of the Village]
+[23:56:30] [Server thread/INFO]: gendieyiyang >> ËÄ¼¶´å×¯Ó¢ĞÛ[m
+[23:56:34] [Server thread/INFO]: gendieyiyang >> ¿ÉÒÔµÄ[m
+[23:57:20] [Server thread/INFO]: gendieyiyang >> ÄãÀ´ÊÔÊÔ[m
+[23:57:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿³[m
+[23:57:27] [Server thread/INFO]: gendieyiyang >> ËÄ¼¶´å×¯Ó¢ĞÛ[m
+[23:57:39] [Server thread/INFO]: gendieyiyang has made the advancement [Voluntary Exile]
+[23:58:38] [Server thread/INFO]: gendieyiyang >> Õâ¸öËşÅ£±Æ°¡[m
+[23:58:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã¶àÔìµã¿ó³µ[m
+[23:59:01] [Server thread/INFO]: gendieyiyang >> Ë¢µÄ¶«Î÷ÉÏÄÄÈ¥ÁË[m
+[23:59:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Å®Î×[m
+[23:59:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã½øÈ¥Ò»µã[m
+[23:59:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ºáÉ¨Ö®ÈĞ·¶Î§Ã»ÕâÃ´´ó[m
+[23:59:31] [Server thread/INFO]: gendieyiyang >> ËÀÁË[m
+[23:59:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m

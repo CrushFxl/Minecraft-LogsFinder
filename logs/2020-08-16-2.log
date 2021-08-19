@@ -1,0 +1,666 @@
+[21:52:53] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:52:53] [Server thread/INFO]: Loading properties
+[21:52:53] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[21:52:53] [Server thread/INFO]: Debug logging is disabled
+[21:52:53] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[21:52:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:52:54] [Server thread/INFO]: Default game type: SURVIVAL
+[21:52:54] [Server thread/INFO]: Generating keypair
+[21:52:54] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[21:52:54] [Server thread/INFO]: Using default channel type
+[21:52:54] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[21:52:56] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[21:52:56] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[21:52:56] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[21:52:56] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[21:52:56] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[21:52:56] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[21:52:56] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[21:52:56] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[21:52:56] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[21:52:56] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[21:52:56] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[21:52:56] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[21:52:56] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[21:52:56] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[21:52:56] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[21:52:56] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[21:52:56] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[21:52:56] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[21:52:56] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[21:52:56] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[21:52:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:52:56] [Server thread/INFO]: Preparing level "world"
+[21:52:56] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:53:03] [Server thread/INFO]: Loaded 6 recipes
+[21:53:03] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:53:03] [Server thread/INFO]: View Distance: 12
+[21:53:03] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:53:03] [Server thread/INFO]: Item Despawn Rate: 3000
+[21:53:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:53:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:53:03] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:53:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:53:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:53:03] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:53:03] [Server thread/INFO]: Mob Spawn Range: 4
+[21:53:03] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:53:03] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:53:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:53:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Max TNT Explosions: 100
+[21:53:03] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[21:53:03] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:53:03] [Server thread/INFO]: View Distance: 12
+[21:53:03] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:53:03] [Server thread/INFO]: Item Despawn Rate: 3000
+[21:53:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:53:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:53:03] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:53:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:53:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:53:03] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:53:03] [Server thread/INFO]: Mob Spawn Range: 4
+[21:53:03] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:53:03] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:53:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:53:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Max TNT Explosions: 100
+[21:53:03] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[21:53:03] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:53:03] [Server thread/INFO]: View Distance: 12
+[21:53:03] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:53:03] [Server thread/INFO]: Item Despawn Rate: 3000
+[21:53:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:53:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:53:03] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:53:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:53:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:53:03] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:53:03] [Server thread/INFO]: Mob Spawn Range: 4
+[21:53:03] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:53:03] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:53:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:53:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:53:03] [Server thread/INFO]: Max TNT Explosions: 100
+[21:53:03] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[21:53:03] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[21:53:03] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:04] [Server thread/INFO]: Preparing spawn area: 12%
+[21:53:04] [Server thread/INFO]: Preparing spawn area: 83%
+[21:53:04] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[21:53:04] [Server thread/INFO]: Time elapsed: 1366 ms
+[21:53:04] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[21:53:04] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:05] [Server thread/INFO]: Preparing spawn area: 100%
+[21:53:05] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[21:53:05] [Server thread/INFO]: Time elapsed: 589 ms
+[21:53:05] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[21:53:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:05] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[21:53:05] [Server thread/INFO]: Time elapsed: 437 ms
+[21:53:05] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[21:53:06] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[21:53:06] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[21:53:06] [Server thread/INFO]: --------------------
+[21:53:06] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[21:53:06] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[21:53:06] [Server thread/INFO]: --------------------
+[21:53:06] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[21:53:06] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[21:53:06] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[21:53:06] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[21:53:06] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[21:53:06] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[21:53:06] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[21:53:06] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[21:53:06] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[21:53:06] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[21:53:06] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[21:53:06] [Server thread/INFO]: [EntityTrackerFixer] Vault not found! using default permission system...
+[21:53:06] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[21:53:06] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[21:53:06] [Server thread/INFO]: [SAML] Loading config.yml...
+[21:53:06] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[21:53:06] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[21:53:06] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[21:53:06] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[21:53:06] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[21:53:06] [Server thread/INFO]: [SAML] Loading messages.yml...
+[21:53:06] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[21:53:06] [Server thread/INFO]: [SAML] There is an old chunk cache file. Perhaps the server didn't shut down correctly?
+[21:53:06] [Server thread/INFO]: [SAML] Successfully enabled.
+[21:53:06] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5*
+[21:53:06] [Server thread/INFO]: [ChatC] 聊天管理插件已启用！
+[21:53:06] [Server thread/INFO]: [ChatC] 聊天管理插件当前版本：V0.5 （2017年8月24日）
+[21:53:06] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[21:53:06] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[21:53:06] [Server thread/INFO]: [GM+] Checking Your version...
+[21:53:06] [Server thread/INFO]: ===============================
+[21:53:06] [Server thread/INFO]: 
+[21:53:06] [Server thread/INFO]:  GroupManager+ is now enable!
+[21:53:06] [Server thread/INFO]:  
+[21:53:06] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[21:53:06] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[21:53:06] [Server thread/INFO]:  Current version: v3.3
+[21:53:06] [Server thread/INFO]:  
+[21:53:06] [Server thread/INFO]: ===============================
+[21:53:06] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[21:53:06] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[21:53:06] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[21:53:06] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[21:53:06] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[21:53:06] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[21:53:06] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[21:53:06] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[21:53:06] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[21:53:06] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[21:53:06] [Server thread/INFO]:  
+[21:53:06] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[21:53:06] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[21:53:06] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[21:53:06] [Server thread/INFO]:  
+[21:53:06] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[21:53:06] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[21:53:06] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[21:53:06] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[21:53:12] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   There is a new version available! [2.2.1]
+[]================================[]
+ 
+[21:53:12] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[21:53:12] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[21:53:12] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[21:53:12] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[21:53:13] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[21:53:13] [Server thread/INFO]: [TAB] Enabled in 518ms
+[21:53:13] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT*
+[21:53:13] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0*
+[21:53:13] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1*
+[21:53:13] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[21:53:13] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[21:53:13] [Server thread/INFO]: [AnGmode] 你好！我是小安，感谢你能使用这个插件！
+[21:53:13] [Server thread/INFO]: Done (16.489s)! For help, type "help"
+[21:53:13] [Server thread/INFO]: Timings Reset
+[21:53:13] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[21:53:13] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[21:53:16] [Craft Scheduler Thread - 1/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[21:53:16] [Craft Scheduler Thread - 1/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[21:53:16] [Thread-18/INFO]: --------------------
+[21:53:16] [Thread-18/INFO]: [CoreProtect] Version 19.1 is now available.
+[21:53:16] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[21:53:16] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[21:53:16] [Thread-18/INFO]: --------------------
+[21:57:45] [User Authenticator #2/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[21:57:45] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[21:57:46] [Server thread/INFO]: Auston_mc[/127.0.0.1:63558] logged in with entity id 953 at ([world]2772.3609696074227, 63.0, -383.8428739201178)
+[21:57:50] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@5aa6f036[id=<null>,name=pinkmilk,properties={},legacy=false] (/127.0.0.1:63554): Authentication servers are down. Please try again later, sorry!
+[21:57:50] [User Authenticator #1/ERROR]: Couldn't verify username because servers are unavailable
+[21:57:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@5aa6f036[id=<null>,name=pinkmilk,properties={},legacy=false] (/127.0.0.1:63554) lost connection: Authentication servers are down. Please try again later, sorry!
+[21:57:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f8363b5[id=<null>,name=pinkmilk,properties={},legacy=false] (/127.0.0.1:63563) lost connection: Disconnected
+[21:58:04] [User Authenticator #1/INFO]: UUID of player pinkmilk is 591b69f1-5eb9-490b-900c-04516907dc49
+[21:58:04] [Server thread/INFO]: pinkmilk[/127.0.0.1:63564] logged in with entity id 1641 at ([world_nether]184.2631210161341, 114.55000001192093, 20.6875)
+[21:59:31] [Server thread/WARN]: pinkmilk moved too quickly! -1918.6080127133055,49.0,-552.9620190520772
+[22:02:33] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[22:02:33] [Server thread/INFO]: Auston_mc left the game
+[22:03:06] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[22:07:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@4262eb0f[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:63632) lost connection: Disconnected
+[22:07:39] [User Authenticator #4/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:07:39] [Server thread/INFO]: adhesive_tape[/127.0.0.1:63639] logged in with entity id 8777 at ([world_the_end]-8.699999988079071, 0.5, 308.06752841192804)
+[22:07:39] [User Authenticator #3/INFO]: Disconnecting com.mojang.authlib.GameProfile@4262eb0f[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:63632): Authentication servers are down. Please try again later, sorry!
+[22:07:39] [User Authenticator #3/ERROR]: Couldn't verify username because servers are unavailable
+[22:08:20] [User Authenticator #3/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[22:08:20] [Server thread/INFO]: Laohuaji[/127.0.0.1:63649] logged in with entity id 9786 at ([world_nether]199.0263300608518, 116.20000004768372, 752.7002974616476)
+[22:09:33] [Server thread/INFO]: === [PlayerPoints] Leader Board === 1:6
+[22:09:33] [Server thread/INFO]: 1. null - 196
+[22:09:33] [Server thread/INFO]: 2. Bay_Max_ - 196
+[22:09:33] [Server thread/INFO]: 3. adhesive_tape - 181
+[22:09:33] [Server thread/INFO]: 4. upsama - 181
+[22:09:33] [Server thread/INFO]: 5. DragonRock37 - 176
+[22:09:33] [Server thread/INFO]: 6. xxuurruuii - 170
+[22:09:33] [Server thread/INFO]: 7. YiFanFengShun - 150
+[22:09:33] [Server thread/INFO]: 8. sen_lv_ling_ - 126
+[22:09:33] [Server thread/INFO]: 9. Crushxl - 112
+[22:09:33] [Server thread/INFO]: 10. North_dream - 109
+[22:09:41] [Server thread/INFO]: === [PlayerPoints] Leader Board === 2:6
+[22:09:41] [Server thread/INFO]: 11. Ghost_king_ - 81
+[22:09:41] [Server thread/INFO]: 12. Surprise_DD - 70
+[22:09:41] [Server thread/INFO]: 13. HGhigh - 70
+[22:09:41] [Server thread/INFO]: 14. turgan - 70
+[22:09:41] [Server thread/INFO]: 15. God_suamr - 65
+[22:09:41] [Server thread/INFO]: 16. Block_linyi - 64
+[22:09:41] [Server thread/INFO]: 17. jason_ji - 64
+[22:09:41] [Server thread/INFO]: 18. null - 60
+[22:09:41] [Server thread/INFO]: 19. Envy_Cloud - 57
+[22:09:41] [Server thread/INFO]: 20. null - 45
+[22:09:46] [Server thread/INFO]: === [PlayerPoints] Leader Board === 3:6
+[22:09:46] [Server thread/INFO]: 21. Twilight2033 - 45
+[22:09:46] [Server thread/INFO]: 22. HitoShouri - 40
+[22:09:46] [Server thread/INFO]: 23. T1anqiong_ - 40
+[22:09:46] [Server thread/INFO]: 24. Magical7 - 36
+[22:09:46] [Server thread/INFO]: 25. Xiao_Hong_Mao - 36
+[22:09:46] [Server thread/INFO]: 26. mo_shuang - 36
+[22:09:46] [Server thread/INFO]: 27. 4022sun - 30
+[22:09:46] [Server thread/INFO]: 28. Jichen233 - 27
+[22:09:46] [Server thread/INFO]: 29. Mr_director - 25
+[22:09:46] [Server thread/INFO]: 30. the_yellowleaf - 25
+[22:09:50] [Server thread/INFO]: === [PlayerPoints] Leader Board === 4:6
+[22:09:50] [Server thread/INFO]: 31. Cherisss - 20
+[22:09:50] [Server thread/INFO]: 32. China_XV2KI - 20
+[22:09:50] [Server thread/INFO]: 33. Watg_Aze_Nad - 20
+[22:09:50] [Server thread/INFO]: 34. _YuanXiao_ - 20
+[22:09:50] [Server thread/INFO]: 35. DF_yechu - 20
+[22:09:50] [Server thread/INFO]: 36. qingfeng159 - 20
+[22:09:50] [Server thread/INFO]: 37. Small_CaiQAQ - 20
+[22:09:50] [Server thread/INFO]: 38. Xcccc - 20
+[22:09:50] [Server thread/INFO]: 39. TheZezor69 - 20
+[22:09:50] [Server thread/INFO]: 40. Aiden_Dreamer - 20
+[22:09:53] [Server thread/INFO]: === [PlayerPoints] Leader Board === 5:6
+[22:09:53] [Server thread/INFO]: 41. Xin_Sai - 20
+[22:09:53] [Server thread/INFO]: 42. null - 20
+[22:09:53] [Server thread/INFO]: 43. xiaoxiaodou - 20
+[22:09:53] [Server thread/INFO]: 44. nan_nono_boom - 20
+[22:09:53] [Server thread/INFO]: 45. Twilight203 - 20
+[22:09:53] [Server thread/INFO]: 46. hu_dong_yi_D - 20
+[22:09:53] [Server thread/INFO]: 47. null - 20
+[22:09:53] [Server thread/INFO]: 48. Li_zi_wei - 18
+[22:09:53] [Server thread/INFO]: 49. hence_tape - 14
+[22:09:53] [Server thread/INFO]: 50. Laohuaji - 12
+[22:12:49] [Server thread/WARN]: 5a1b56af-7eee-4d3d-b769-cfb7faaff62f (vehicle of pinkmilk) moved wrongly!
+[22:13:06] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[22:14:42] [Server thread/INFO]: pinkmilk issued server command: /co i
+[22:15:01] [Server thread/INFO]: pinkmilk issued server command: /co l 2
+[22:15:13] [Server thread/INFO]: pinkmilk issued server command: /co l 3
+[22:15:19] [Server thread/INFO]: pinkmilk issued server command: /co l 4
+[22:15:26] [Server thread/INFO]: pinkmilk issued server command: /co l 5
+[22:15:33] [Server thread/INFO]: pinkmilk issued server command: /co l 6
+[22:15:40] [Server thread/INFO]: pinkmilk issued server command: /co l 7
+[22:15:50] [Server thread/INFO]: pinkmilk issued server command: /co l 8
+[22:15:54] [Server thread/INFO]: pinkmilk issued server command: /co l 9
+[22:16:01] [Server thread/INFO]: pinkmilk issued server command: /co l 10
+[22:16:36] [Server thread/INFO]: pinkmilk issued server command: /co i
+[22:20:33] [Server thread/INFO]: pinkmilk issued server command: /co i
+[22:21:31] [Server thread/INFO]: pinkmilk issued server command: /co i
+[22:22:41] [Server thread/WARN]: 667dbff4-7872-4afd-80d4-0b171d26571e (vehicle of pinkmilk) moved wrongly!
+[22:28:50] [Server thread/WARN]: pinkmilk moved too quickly! -1650.5032819086264,16.220757814691666,-234.44175933954727
+[22:28:51] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[22:28:51] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[22:30:39] [Server thread/INFO]: <管理> Laohuaji >> w
+[22:30:47] [Server thread/INFO]: adhesive_tape >> 贡献点
+[22:31:03] [Server thread/INFO]: <管理> Laohuaji >> w
+[22:31:18] [Server thread/INFO]: adhesive_tape >> 快
+[22:31:25] [Server thread/INFO]: adhesive_tape >> 不能说话不算数哦
+[22:31:48] [Server thread/INFO]: adhesive_tape issued server command: /p me
+[22:31:51] [Server thread/INFO]: <管理> Laohuaji >> 是xl要给awa
+[22:31:57] [Server thread/INFO]: <管理> Laohuaji >> 又不是我要给awa
+[22:32:11] [Server thread/INFO]: adhesive_tape >> 怎么说话不算话呢
+[22:32:47] [Server thread/INFO]: <管理> Laohuaji >> 多少分
+[22:32:56] [Server thread/INFO]: adhesive_tape >> 神恶魔多少分
+[22:33:00] [Server thread/INFO]: adhesive_tape >> 什么多少分
+[22:33:08] [Server thread/INFO]: <管理> Laohuaji >> 给你阿
+[22:33:11] [Server thread/INFO]: adhesive_tape >> 10
+[22:33:11] [Server thread/INFO]: <管理> Laohuaji >> 多少分
+[22:33:21] [Server thread/INFO]: Laohuaji issued server command: /p give adhesive_tape 10
+[22:33:27] [Server thread/INFO]: <管理> Laohuaji >> ！
+[22:33:31] [Server thread/INFO]: <管理> Laohuaji >> 你咋这么多分
+[22:33:39] [Server thread/INFO]: pinkmilk >> 你们觉没觉的末影人死亡生音想awa?
+[22:33:47] [Server thread/INFO]: adhesive_tape issued server command: /p me
+[22:35:11] [Server thread/WARN]: Laohuaji moved too quickly! 5.077835760388098,-10.396385404035271,-0.7588412423787076
+[22:35:44] [Server thread/INFO]: <管理> Laohuaji >> ping？？？？？？？？？？？？
+[22:36:33] [Server thread/INFO]: There are 3 of a max 40 players online: adhesive_tape, Laohuaji, pinkmilk
+[22:37:44] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[22:37:49] [Server thread/INFO]: pinkmilk >> 那项材料你们最紧缺，我可以挂一夜
+[22:37:58] [Server thread/INFO]: <管理> Laohuaji >> 可能是
+[22:38:02] [Server thread/INFO]: <管理> Laohuaji >> 空气吧
+[22:38:09] [Server thread/INFO]: pinkmilk >> 。。。。。。
+[22:38:10] [Server thread/INFO]: <管理> Laohuaji >> 指置空（
+[22:39:11] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[22:39:31] [Server thread/INFO]: adhesive_tape >> Laohuaji
+[22:39:34] [Server thread/INFO]: <管理> Laohuaji >> ?
+[22:39:38] [Server thread/INFO]: adhesive_tape >> 我盒子给服务器吃了
+[22:39:43] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[22:39:44] [Server thread/INFO]: <管理> Laohuaji >> 那我不管
+[22:39:59] [Server thread/INFO]: <管理> Laohuaji >> 这应该属于服务器的问题
+[22:40:06] [Server thread/INFO]: <管理> Laohuaji >> 不可抗力（
+[22:40:17] [Server thread/INFO]: adhesive_tape >> 神恶魔东西啊
+[22:40:19] [Server thread/INFO]: <管理> Laohuaji >> 下了有事群里讲
+[22:40:20] [Server thread/INFO]: adhesive_tape >> 什么东西啊
+[22:40:25] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[22:40:26] [Server thread/INFO]: <管理> Laohuaji >> 安安
+[22:40:29] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[22:40:29] [Server thread/INFO]: Laohuaji left the game
+[22:40:35] [Server thread/INFO]: pinkmilk >> 我想挂一夜女巫
+[22:41:30] [Server thread/INFO]: pinkmilk >> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[22:42:17] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[22:43:22] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[22:43:22] [Server thread/INFO]: adhesive_tape left the game
+[22:43:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a140f7d[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:63892) lost connection: Disconnected
+[22:43:50] [User Authenticator #5/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:43:50] [Server thread/INFO]: adhesive_tape[/127.0.0.1:63896] logged in with entity id 51066 at ([world_the_end]-7.529423717246447, 0.5, 308.212694166361)
+[22:44:00] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[22:45:00] [Server thread/WARN]: adhesive_tape moved too quickly! -1650.345636940278,16.220757814691666,-234.6955548591242
+[22:47:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@3ab35442[id=<null>,name=Aiden_Dreamer,properties={},legacy=false] (/127.0.0.1:64017) lost connection: Disconnected
+[22:47:10] [User Authenticator #6/INFO]: Disconnecting com.mojang.authlib.GameProfile@3ab35442[id=<null>,name=Aiden_Dreamer,properties={},legacy=false] (/127.0.0.1:64017): Authentication servers are down. Please try again later, sorry!
+[22:47:10] [User Authenticator #6/ERROR]: Couldn't verify username because servers are unavailable
+[22:47:13] [User Authenticator #6/INFO]: UUID of player Aiden_Dreamer is 8150089f-f67b-48ee-8df9-311e9f4f8ed1
+[22:47:13] [Server thread/INFO]: Aiden_Dreamer[/127.0.0.1:64049] logged in with entity id 55670 at ([world]74.52137437848374, 64.0, 2070.8826362834498)
+[22:51:43] [Server thread/INFO]: adhesive_tape >> 欸
+[22:51:49] [Server thread/INFO]: adhesive_tape >> 你不上学吗
+[22:52:09] [Server thread/INFO]: Aiden_Dreamer >> 我吗？
+[22:52:14] [Server thread/INFO]: adhesive_tape >> en
+[22:52:18] [Server thread/INFO]: Aiden_Dreamer >> 不是啊
+[22:52:43] [Server thread/INFO]: Aiden_Dreamer >> 只是MC玩伤了，跑去学习了许久
+[22:52:58] [Server thread/INFO]: adhesive_tape >> ......
+[22:53:06] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[22:53:09] [Server thread/INFO]: Aiden_Dreamer >> 学PR中
+[22:53:13] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[22:53:42] [Server thread/INFO]: Aiden_Dreamer >> 目前只会冒个泡了
+[22:53:53] [Server thread/INFO]: Aiden_Dreamer >> 但不会退的
+[22:53:55] [Server thread/INFO]: pinkmilk lost connection: Timed out
+[22:53:55] [Server thread/INFO]: pinkmilk left the game
+[22:53:59] [Server thread/INFO]: adhesive_tape >> en
+[22:54:36] [Server thread/INFO]: Aiden_Dreamer >> 最近忙着搞APERTURE
+[22:54:50] [Server thread/INFO]: Aiden_Dreamer >> 这摄影MOD真好用
+[22:57:12] [Server thread/INFO]: Aiden_Dreamer >> 打算凌晨修建筑，先睡了，晚安
+[22:57:15] [Server thread/INFO]: Aiden_Dreamer lost connection: Disconnected
+[22:57:15] [Server thread/INFO]: Aiden_Dreamer left the game
+[23:04:11] [Server thread/INFO]: [PlayerPoints] 未知命令：'gice'
+[23:04:33] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[23:04:33] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[23:04:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:04:33] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[23:04:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:04:33] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[23:04:33] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[23:04:33] [Paper Watchdog Thread/ERROR]: 	Stack:
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		com.evilmidget38.UUIDFetcher.writeBody(UUIDFetcher.java:60)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		com.evilmidget38.UUIDFetcher.call(UUIDFetcher.java:43)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.PlayerPoints.translateNameToUUID(PlayerPoints.java:247)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.commands.GiveCommand.execute(GiveCommand.java:56)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.services.CommandHandler.onCommand(CommandHandler.java:130)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[23:04:33] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[23:04:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:04:33] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[23:04:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:04:38] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[23:04:38] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[23:04:38] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:04:38] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[23:04:38] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:04:38] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[23:04:38] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[23:04:38] [Paper Watchdog Thread/ERROR]: 	Stack:
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.AppInputStream.read(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.fill(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read1(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		com.evilmidget38.UUIDFetcher.call(UUIDFetcher.java:44)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.PlayerPoints.translateNameToUUID(PlayerPoints.java:247)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.commands.GiveCommand.execute(GiveCommand.java:56)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.services.CommandHandler.onCommand(CommandHandler.java:130)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[23:04:38] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[23:04:38] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:04:38] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[23:04:38] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:04:43] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[23:04:43] [Paper Watchdog Thread/ERROR]: The server has not responded for 20 seconds! Creating thread dump
+[23:04:43] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:04:43] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[23:04:43] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:04:43] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[23:04:43] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[23:04:43] [Paper Watchdog Thread/ERROR]: 	Stack:
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.AppInputStream.read(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.fill(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read1(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		com.evilmidget38.UUIDFetcher.call(UUIDFetcher.java:44)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.PlayerPoints.translateNameToUUID(PlayerPoints.java:247)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.commands.GiveCommand.execute(GiveCommand.java:56)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		org.black_ixx.playerpoints.services.CommandHandler.onCommand(CommandHandler.java:130)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[23:04:43] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[23:04:43] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:04:43] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[23:04:43] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:04:44] [Server thread/INFO]: [PlayerPoints] 玩家 North_dream 目前有 119 贡献点数
+[23:04:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21113ms or 422 ticks behind
+[23:17:09] [User Authenticator #7/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[23:17:09] [Server thread/INFO]: Twilight2033[/127.0.0.1:64873] logged in with entity id 68462 at ([world]6902.403636274104, 79.0, -477.8439252971015)
+[23:17:26] [User Authenticator #7/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[23:17:26] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:64878] logged in with entity id 68633 at ([world]2088.289533839967, 64.0, 5805.889546533878)
+[23:17:38] [User Authenticator #7/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[23:17:38] [Server thread/INFO]: Twilight2033 lost connection: You logged in from another location
+[23:17:38] [Server thread/INFO]: Twilight2033 left the game
+[23:17:38] [Server thread/INFO]: Twilight2033[/127.0.0.1:64880] logged in with entity id 68809 at ([world]6909.049695262376, 77.0, -503.69999998807907)
+[23:17:38] [Server thread/WARN]: handleDisconnection() called twice
+[23:20:04] [Server thread/INFO]: adhesive_tape >> tw
+[23:20:07] [Server thread/INFO]: Twilight2033 >> ?
+[23:20:10] [Server thread/INFO]: adhesive_tape >> 有活干
+[23:20:13] [Server thread/INFO]: adhesive_tape >> 干不干
+[23:20:20] [Server thread/INFO]: Twilight2033 >> 啥
+[23:20:26] [Server thread/INFO]: adhesive_tape >> 挖沟
+[23:21:23] [Server thread/INFO]: Twilight2033 >> 行
+[23:21:27] [Server thread/INFO]: adhesive_tape >> nice
+[23:21:34] [Server thread/INFO]: adhesive_tape >> 做抗火药水
+[23:21:37] [Server thread/INFO]: adhesive_tape >> 一盒子
+[23:21:43] [Server thread/INFO]: adhesive_tape >> 想要什么奖励
+[23:21:51] [Server thread/INFO]: Twilight2033 >> 无所谓
+[23:22:41] [Server thread/INFO]: Twilight2033 >> 我在造自己隐居的家
+[23:22:48] [Server thread/INFO]: Twilight2033 >> 突然没灵感
+[23:23:06] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[23:23:11] [Server thread/INFO]: adhesive_tape >> 7个钻石块行不
+[23:23:23] [Server thread/INFO]: Twilight2033 >> 可以
+[23:23:30] [Server thread/INFO]: adhesive_tape >> 那你先做药水
+[23:23:43] [Server thread/INFO]: adhesive_tape >> 我去做镐子
+[23:23:44] [Server thread/INFO]: Twilight2033 >> 啊我抗火咋做来着
+[23:23:51] [Server thread/INFO]: Twilight2033 >> 你那边有材料吧
+[23:24:09] [Server thread/INFO]: adhesive_tape >> 烈焰棒你有没有
+[23:24:18] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[23:24:19] [Server thread/INFO]: Ttu_nnm left the game
+[23:24:20] [Server thread/INFO]: Twilight2033 >> 记得有
+[23:24:42] [Server thread/INFO]: Twilight2033 >> 我找找
+[23:25:04] [Server thread/INFO]: Twilight2033 >> 刚好一组
+[23:25:41] [Server thread/INFO]: adhesive_tape >> 这边没有玻璃瓶
+[23:25:59] [Server thread/INFO]: Twilight2033 >> 我去做
+[23:26:01] [Server thread/INFO]: adhesive_tape >> 也没有地狱疣
+[23:26:06] [Server thread/INFO]: adhesive_tape >> 也没有水
+[23:26:08] [Server thread/WARN]: Twilight2033 moved wrongly!
+[23:26:26] [Server thread/INFO]: adhesive_tape >> 岩浆膏可以用粘液球加烈焰粉
+[23:26:33] [Server thread/INFO]: Twilight2033 >> 那我整一盒子水瓶吧
+[23:26:33] [Server thread/INFO]: adhesive_tape >> 粘液球去空置域要
+[23:26:36] [Server thread/INFO]: adhesive_tape >> en
+[23:27:21] [Server thread/INFO]: adhesive_tape >> x=+173
+[23:28:22] [Server thread/INFO]: Villager EntityVillager['Villager'/74380, uuid='93091d17-fe3c-4096-a9b6-6c5940ea3918', l='world', x=5263.88, y=73.49, z=299.90, cx=328, cz=18, tl=101521, v=true, d=false] died, message: 'Villager was squished too much'
+[23:28:41] [Server thread/INFO]: adhesive_tape >> 我去做镐子
+[23:30:42] [Server thread/INFO]: Twilight2033 >> 啊箱子里有个鞘翅
+[23:30:48] [Server thread/INFO]: adhesive_tape >> 没事
+[23:30:54] [Server thread/INFO]: adhesive_tape >> 想要的话给你一个
+[23:31:04] [Server thread/INFO]: Twilight2033 >> 可以吗
+[23:31:14] [Server thread/INFO]: adhesive_tape >> 待会我给你一个
+[23:31:19] [Server thread/INFO]: Twilight2033 >> 嗯？？？？
+[23:31:26] [Server thread/INFO]: Twilight2033 >> 拿了一个还有一个？
+[23:32:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@256c84dc[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:64987) lost connection: Disconnected
+[23:32:27] [User Authenticator #8/INFO]: Disconnecting com.mojang.authlib.GameProfile@256c84dc[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:64987): Authentication servers are down. Please try again later, sorry!
+[23:32:27] [User Authenticator #8/ERROR]: Couldn't verify username because servers are unavailable
+[23:32:31] [User Authenticator #9/INFO]: Disconnecting com.mojang.authlib.GameProfile@1d249393[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:64990): Authentication servers are down. Please try again later, sorry!
+[23:32:31] [User Authenticator #9/ERROR]: Couldn't verify username because servers are unavailable
+[23:32:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@1d249393[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:64990) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:32:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@412518fb[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:64997) lost connection: Disconnected
+[23:33:13] [User Authenticator #9/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[23:33:13] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:64998] logged in with entity id 80737 at ([world]2209.5713762721343, 13.0, 5674.853697326331)
+[23:33:50] [Server thread/INFO]: Twilight2033 >> 等会这箱子有点烦
+[23:33:58] [Server thread/INFO]: Twilight2033 >> 老吸掉水瓶
+[23:34:56] [Server thread/INFO]: Twilight2033 >> 啊好像没有熔岩膏
+[23:35:13] [Server thread/INFO]: adhesive_tape >> 岩浆膏可以用粘液球加烈焰粉
+[23:36:17] [Server thread/INFO]: Twilight2033 has made the advancement [Local Brewery]
+[23:36:24] [Server thread/INFO]: Ttu_nnm was blown up by Creeper
+[23:36:53] [Server thread/INFO]: Twilight2033 >> 算了你不用给我奖励了
+[23:37:01] [Server thread/INFO]: Twilight2033 >> 我怕是肝不了多久
+[23:38:30] [Server thread/INFO]: adhesive_tape >> 药水做出来了么
+[23:38:36] [Server thread/INFO]: Twilight2033 >> 在做
+[23:38:40] [Server thread/INFO]: Twilight2033 >> 但都是三分钟的
+[23:38:48] [Server thread/INFO]: adhesive_tape >> 加红石
+[23:38:53] [Server thread/INFO]: adhesive_tape >> 加红石fen
+[23:39:29] [Server thread/INFO]: Twilight2033 >> 那有个盒子的红石粉我拿了窝
+[23:39:33] [Server thread/INFO]: adhesive_tape >> en
+[23:39:42] [Server thread/INFO]: Twilight2033 >> 还有个红石矿
+[23:39:48] [Server thread/INFO]: Twilight2033 >> 我要不要拿时运破开
+[23:39:51] [Server thread/INFO]: adhesive_tape >> en
+[23:40:28] [Server thread/INFO]: Twilight2033 >> 这箱子有俩鞘翅
+[23:40:34] [Server thread/INFO]: adhesive_tape >> 不管他
+[23:40:38] [Server thread/INFO]: adhesive_tape >> 不知道是谁的
+[23:40:43] [Server thread/INFO]: adhesive_tape >> 工具在这里
+[23:41:02] [Server thread/INFO]: Twilight2033 >> 行
+[23:41:11] [Server thread/INFO]: adhesive_tape >> x=+173
+[23:41:14] [Server thread/INFO]: adhesive_tape >> 挖穿
+[23:41:22] [Server thread/INFO]: adhesive_tape >> 岩浆有的，堵上
+[23:42:49] [Server thread/INFO]: adhesive_tape >> 药水放着
+[23:43:07] [Server thread/INFO]: adhesive_tape >> 我去处理岩浆海的部分
+[23:44:47] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[23:44:47] [Server thread/INFO]: adhesive_tape left the game
+[23:45:13] [Server thread/INFO]: Twilight2033 >> 啊等会
+[23:45:35] [Server thread/INFO]: Ttu_nnm tried to swim in lava
+[23:46:26] [User Authenticator #10/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[23:46:26] [Server thread/INFO]: adhesive_tape[/127.0.0.1:65099] logged in with entity id 86783 at ([world_nether]173.51591292410183, 31.0, 954.3000000119209)
+[23:47:34] [Server thread/INFO]: Twilight2033 >> 话说173这里到那个你们圈出来的地方了喔
+[23:47:44] [Server thread/INFO]: adhesive_tape >> 没事
+[23:51:07] [Server thread/INFO]: Twilight2033 was slain by Zombie Pigman
+[23:51:23] [Server thread/INFO]: adhesive_tape >> 坐标
+[23:51:41] [Server thread/INFO]: Twilight2033 >> 就在173里
+[23:53:07] [Server thread/INFO]: Twilight2033 >> 你沿路找
+[23:53:20] [Server thread/INFO]: Twilight2033 experienced kinetic energy
+[23:53:34] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[23:54:39] [Server thread/INFO]: adhesive_tape >> 又死哪了
+[23:54:48] [Server thread/INFO]: Twilight2033 >> 这个我来
+[23:55:18] [Server thread/INFO]: adhesive_tape >> 只捡回来一套盔甲
+[23:55:27] [Server thread/INFO]: adhesive_tape >> 还有剑
+[23:55:35] [Server thread/INFO]: Twilight2033 >> qitane
+[23:55:42] [Server thread/INFO]: adhesive_tape >> 刷掉了
+[23:56:13] [Server thread/INFO]: adhesive_tape >> 过来拿
+[23:56:29] [Server thread/INFO]: Twilight2033 >> 司马猪人
+[23:57:07] [Server thread/INFO]: Twilight2033 >> 鞘翅一换一我偶去
+[23:57:19] [Server thread/INFO]: adhesive_tape >> 小心点
+[23:57:25] [Server thread/INFO]: adhesive_tape >> 我挂机一会
+[23:57:27] [Server thread/INFO]: adhesive_tape >> 洗澡

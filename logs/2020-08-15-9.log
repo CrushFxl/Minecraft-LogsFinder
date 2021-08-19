@@ -1,0 +1,1015 @@
+[21:31:14] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:31:14] [Server thread/INFO]: Loading properties
+[21:31:14] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[21:31:15] [Server thread/INFO]: Debug logging is disabled
+[21:31:15] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[21:31:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:31:15] [Server thread/INFO]: Default game type: SURVIVAL
+[21:31:15] [Server thread/INFO]: Generating keypair
+[21:31:15] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[21:31:15] [Server thread/INFO]: Using default channel type
+[21:31:15] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[21:31:18] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[21:31:18] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[21:31:18] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[21:31:18] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[21:31:18] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[21:31:18] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[21:31:18] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[21:31:18] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[21:31:18] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[21:31:18] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[21:31:18] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[21:31:18] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[21:31:18] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[21:31:18] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[21:31:18] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[21:31:18] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[21:31:18] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[21:31:18] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[21:31:18] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[21:31:18] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[21:31:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:31:18] [Server thread/INFO]: Preparing level "world"
+[21:31:18] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:31:26] [Server thread/INFO]: Loaded 6 recipes
+[21:31:26] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:31:26] [Server thread/INFO]: View Distance: 12
+[21:31:26] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:31:26] [Server thread/INFO]: Item Despawn Rate: 3000
+[21:31:26] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:31:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:31:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:31:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:31:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:31:26] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:31:26] [Server thread/INFO]: Max TNT Explosions: 100
+[21:31:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:31:26] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[21:31:26] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:31:26] [Server thread/INFO]: Mob Spawn Range: 4
+[21:31:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:31:26] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:31:26] [Server thread/INFO]: View Distance: 12
+[21:31:26] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:31:26] [Server thread/INFO]: Item Despawn Rate: 3000
+[21:31:26] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:31:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:31:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:31:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:31:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:31:26] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:31:26] [Server thread/INFO]: Max TNT Explosions: 100
+[21:31:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:31:26] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[21:31:26] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:31:26] [Server thread/INFO]: Mob Spawn Range: 4
+[21:31:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:31:26] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:31:26] [Server thread/INFO]: View Distance: 12
+[21:31:26] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:31:26] [Server thread/INFO]: Item Despawn Rate: 3000
+[21:31:26] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:31:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:31:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:31:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:31:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:31:26] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:31:26] [Server thread/INFO]: Max TNT Explosions: 100
+[21:31:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:31:26] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[21:31:26] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:31:26] [Server thread/INFO]: Mob Spawn Range: 4
+[21:31:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:31:26] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:31:26] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[21:31:26] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:27] [Server thread/INFO]: Preparing spawn area: 5%
+[21:31:27] [Server thread/INFO]: Preparing spawn area: 100%
+[21:31:28] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[21:31:28] [Server thread/INFO]: Time elapsed: 1390 ms
+[21:31:28] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[21:31:28] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:28] [Server thread/INFO]: Preparing spawn area: 100%
+[21:31:28] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[21:31:28] [Server thread/INFO]: Time elapsed: 745 ms
+[21:31:28] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[21:31:28] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:29] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[21:31:29] [Server thread/INFO]: Time elapsed: 446 ms
+[21:31:29] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[21:31:29] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[21:31:29] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[21:31:29] [Server thread/INFO]: --------------------
+[21:31:29] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[21:31:29] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[21:31:29] [Server thread/INFO]: --------------------
+[21:31:29] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[21:31:29] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[21:31:29] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[21:31:29] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[21:31:29] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[21:31:29] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[21:31:29] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[21:31:29] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[21:31:29] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[21:31:29] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[21:31:29] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[21:31:29] [Server thread/INFO]: [EntityTrackerFixer] Vault not found! using default permission system...
+[21:31:29] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[21:31:29] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[21:31:29] [Server thread/INFO]: [SAML] Loading config.yml...
+[21:31:29] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[21:31:29] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[21:31:29] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[21:31:29] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[21:31:29] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[21:31:29] [Server thread/INFO]: [SAML] Loading messages.yml...
+[21:31:29] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[21:31:29] [Server thread/INFO]: [SAML] Successfully enabled.
+[21:31:29] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5*
+[21:31:29] [Server thread/INFO]: [ChatC] 聊天管理插件已启用！
+[21:31:29] [Server thread/INFO]: [ChatC] 聊天管理插件当前版本：V0.5 （2017年8月24日）
+[21:31:29] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[21:31:29] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[21:31:29] [Server thread/INFO]: [GM+] Checking Your version...
+[21:31:29] [Server thread/INFO]: ===============================
+[21:31:29] [Server thread/INFO]: 
+[21:31:29] [Server thread/INFO]:  GroupManager+ is now enable!
+[21:31:29] [Server thread/INFO]:  
+[21:31:29] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[21:31:29] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[21:31:29] [Server thread/INFO]:  Current version: v3.3
+[21:31:29] [Server thread/INFO]:  
+[21:31:29] [Server thread/INFO]: ===============================
+[21:31:29] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[21:31:29] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[21:31:29] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[21:31:29] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[21:31:29] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[21:31:29] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[21:31:29] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[21:31:29] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[21:31:29] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[21:31:29] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[21:31:29] [Server thread/INFO]:  
+[21:31:29] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[21:31:29] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[21:31:29] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[21:31:29] [Server thread/INFO]:  
+[21:31:29] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[21:31:29] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[21:31:30] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[21:31:30] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[21:31:37] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   There is a new version available! [2.2.1]
+[]================================[]
+ 
+[21:31:37] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[21:31:37] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[21:31:37] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[21:31:37] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[21:31:38] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[21:31:38] [Server thread/INFO]: [TAB] Enabled in 1082ms
+[21:31:38] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT*
+[21:31:38] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0*
+[21:31:38] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1*
+[21:31:38] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[21:31:38] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[21:31:38] [Server thread/INFO]: [AnGmode] 你好！我是小安，感谢你能使用这个插件！
+[21:31:38] [Server thread/INFO]: Done (20.311s)! For help, type "help"
+[21:31:38] [Server thread/INFO]: Timings Reset
+[21:31:38] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[21:31:38] [Server thread/INFO]: [公告] [活动] 灵魂画手已上线活动已经开放报名，详情请见群内公告。 
+[21:31:39] [Craft Scheduler Thread - 1/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[21:31:39] [Craft Scheduler Thread - 1/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[21:31:40] [Thread-18/INFO]: --------------------
+[21:31:40] [Thread-18/INFO]: [CoreProtect] Version 19.1 is now available.
+[21:31:40] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[21:31:40] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[21:31:40] [Thread-18/INFO]: --------------------
+[21:32:06] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@7437ba47[id=<null>,name=Laohuaji,properties={},legacy=false] (/127.0.0.1:52045): Authentication servers are down. Please try again later, sorry!
+[21:32:06] [User Authenticator #1/ERROR]: Couldn't verify username because servers are unavailable
+[21:32:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@7437ba47[id=<null>,name=Laohuaji,properties={},legacy=false] (/127.0.0.1:52045) lost connection: Authentication servers are down. Please try again later, sorry!
+[21:32:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@66c8651b[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:52048): Took too long to log in
+[21:32:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@66c8651b[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:52048) lost connection: Took too long to log in
+[21:32:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@390be50d[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:52051) lost connection: Disconnected
+[21:32:25] [User Authenticator #1/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[21:32:25] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[21:32:25] [Server thread/INFO]: Magical7[/127.0.0.1:52056] logged in with entity id 518 at ([world]1565.728550091587, 64.0, 888.2093154426939)
+[21:32:29] [User Authenticator #1/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[21:32:29] [Server thread/INFO]: adhesive_tape[/127.0.0.1:52069] logged in with entity id 1224 at ([world_nether]70.04034696517392, 94.0, 895.5959431160716)
+[21:32:32] [User Authenticator #3/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[21:32:32] [Server thread/INFO]: Laohuaji[/127.0.0.1:52070] logged in with entity id 1362 at ([world]2792.1414450245434, 79.27383691518591, -403.2499523661723)
+[21:32:33] [User Authenticator #1/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[21:32:33] [Server thread/INFO]: Block_linyi[/127.0.0.1:52068] logged in with entity id 1626 at ([world]2771.2643965274615, 63.0, -402.1293951760324)
+[21:32:38] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@66c8651b[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:52048): Authentication servers are down. Please try again later, sorry!
+[21:32:38] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
+[21:32:43] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@409409e9[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:52063): Authentication servers are down. Please try again later, sorry!
+[21:32:43] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[21:32:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@409409e9[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:52063) lost connection: Authentication servers are down. Please try again later, sorry!
+[21:32:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@73a88305[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:52075) lost connection: Disconnected
+[21:32:54] [User Authenticator #1/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[21:32:54] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:52082] logged in with entity id 2193 at ([world]-521.8075918854088, 83.0625, -450.34778029227533)
+[21:32:55] [User Authenticator #2/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[21:32:57] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:52079] logged in with entity id 2387 at ([world]-5205.699999988079, 78.0, -7662.117574282763)
+[21:33:02] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@73a88305[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:52075): Authentication servers are down. Please try again later, sorry!
+[21:33:02] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[21:33:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@6b0147b5[id=<null>,name=upsama,properties={},legacy=false] (/127.0.0.1:52086) lost connection: Disconnected
+[21:33:14] [Server thread/INFO]: Laohuaji issued server command: /p give the_yellowleaf 10
+[21:33:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@ff620fe[id=<null>,name=upsama,properties={},legacy=false] (/127.0.0.1:52092) lost connection: Disconnected
+[21:33:24] [Server thread/INFO]: Laohuaji issued server command: /gamemode creative
+[21:33:24] [Server thread/INFO]: [Laohuaji: Set own game mode to Creative Mode]
+[21:33:26] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@6b0147b5[id=<null>,name=upsama,properties={},legacy=false] (/127.0.0.1:52086): Authentication servers are down. Please try again later, sorry!
+[21:33:26] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
+[21:33:30] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@ff620fe[id=<null>,name=upsama,properties={},legacy=false] (/127.0.0.1:52092): Authentication servers are down. Please try again later, sorry!
+[21:33:30] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[21:33:39] [User Authenticator #2/INFO]: UUID of player upsama is 9618bb26-059b-4501-8ff2-c2c738588057
+[21:33:39] [Server thread/INFO]: upsama[/127.0.0.1:52100] logged in with entity id 3303 at ([world]3142.7396193604145, 63.0, 609.6999999880791)
+[21:33:52] [Server thread/INFO]: upsama issued server command: /
+[21:34:53] [Server thread/WARN]: adhesive_tape moved too quickly! -1650.4922632796045,15.837858578973012,-234.46633104140474
+[21:34:53] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:34:53] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[21:35:05] [Server thread/INFO]: adhesive_tape >> sen，潜影贝你还没运回去
+[21:35:49] [Server thread/INFO]: Laohuaji issued server command: /openvin Envy_Cloud
+[21:36:09] [Server thread/INFO]: Block_linyi >> 居然回档了一会会
+[21:36:26] [Server thread/INFO]: <管理> Laohuaji >> az
+[21:36:47] [User Authenticator #5/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[21:36:47] [Server thread/INFO]: Jichen233[/127.0.0.1:52124] logged in with entity id 10909 at ([world]1123.5012086735728, 87.0, -1830.635343879508)
+[21:37:07] [Server thread/INFO]: Laohuaji issued server command: /openinv Envy_Cloud
+[21:37:30] [Server thread/INFO]: Block_linyi lost connection: Disconnected
+[21:37:30] [Server thread/INFO]: Block_linyi left the game
+[21:38:31] [Server thread/INFO]: upsama issued server command: /msg magical7 你的问题解决了么
+[21:38:34] [Server thread/INFO]: <带鸽子> the_yellowleaf >> ?
+[21:38:46] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 老滑稽在忙吗awa
+[21:38:59] [Server thread/INFO]: <管理> Laohuaji >> 《纯手工合成》
+[21:39:11] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 泪目
+[21:39:24] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 敬业的滑稽叔叔
+[21:41:08] [Server thread/INFO]: Laohuaji issued server command: /openinv the_yellowleaf
+[21:41:29] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[21:41:31] [Server thread/INFO]: <管理> Laohuaji >> 搞定
+[21:41:52] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 泪目
+[21:41:54] [Server thread/INFO]: <管理> Laohuaji >> az
+[21:42:09] [Server thread/INFO]: <带鸽子> the_yellowleaf >> XV
+[21:42:14] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5c6194a7[id=<null>,name=Ghost_king_,properties={},legacy=false] (/127.0.0.1:52181): Took too long to log in
+[21:42:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c6194a7[id=<null>,name=Ghost_king_,properties={},legacy=false] (/127.0.0.1:52181) lost connection: Took too long to log in
+[21:42:14] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 你的剑解放了
+[21:42:18] [User Authenticator #6/INFO]: Disconnecting com.mojang.authlib.GameProfile@5c6194a7[id=<null>,name=Ghost_king_,properties={},legacy=false] (/127.0.0.1:52181): Authentication servers are down. Please try again later, sorry!
+[21:42:18] [User Authenticator #6/ERROR]: Couldn't verify username because servers are unavailable
+[21:42:21] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 辛苦你的剑了
+[21:42:22] [Server thread/INFO]: upsama issued server command: /msg magical7 你的问题解决了么
+[21:42:23] [Server thread/INFO]: upsama issued server command: /msg magical7 你的问题解决了么
+[21:42:25] [Server thread/INFO]: <管理> Laohuaji >> az?
+[21:42:26] [User Authenticator #6/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[21:42:26] [Server thread/INFO]: Ghost_king_[/127.0.0.1:52190] logged in with entity id 26714 at ([world_nether]70.56542191026506, 94.0, 1020.5223198498837)
+[21:42:35] [Server thread/INFO]: <管理> Laohuaji >> 我的剑比那个好多了
+[21:42:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我肥来了（
+[21:42:41] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 泪目
+[21:42:46] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 开机不
+[21:42:50] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[21:42:50] [Server thread/INFO]: the_yellowleaf left the game
+[21:42:56] [Server thread/INFO]: adhesive_tape >> 等一会
+[21:46:09] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 好了么
+[21:46:17] [Server thread/INFO]: adhesive_tape >> 来了
+[21:46:48] [Server thread/INFO]: adhesive_tape >> 你开旁观者
+[21:46:51] [Server thread/INFO]: adhesive_tape >> 我挖石英
+[21:46:56] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 好
+[21:47:01] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 膀胱者怎么开
+[21:47:06] [Server thread/INFO]: Ghost_king_ issued server command: /xp
+[21:47:09] [Server thread/INFO]: adhesive_tape >> 这次确定没问题了
+[21:47:10] [Server thread/INFO]: Ghost_king_ issued server command: /ep
+[21:47:11] [Server thread/INFO]: adhesive_tape >> 吗
+[21:47:12] [Server thread/INFO]: <管理> Laohuaji >> ./px mode
+[21:47:20] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你在看一眼？ 我看的是没问题了
+[21:47:30] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 怎么切回来
+[21:47:40] [Server thread/INFO]: <管理> Laohuaji >> ./px off
+[21:47:42] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 。/gamemode 0
+[21:47:44] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 23333
+[21:47:46] [Server thread/INFO]: adhesive_tape >> sen不小心弄掉的方块你补上没
+[21:47:48] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 好的awa
+[21:48:19] [Server thread/INFO]: adhesive_tape >> sen不小心弄掉的方块你补上没
+[21:48:59] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你看一眼？
+[21:49:09] [Server thread/INFO]: adhesive_tape >> 我不知道是发车还是返回部分
+[21:49:45] [Server thread/INFO]: adhesive_tape issued server command: /tell sen_lv_leng_是哪个部分
+[21:50:32] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 发现一个漏了的活塞（*
+[21:50:48] [Server thread/INFO]: adhesive_tape >> 矿车还没放呢
+[21:50:53] [Server thread/INFO]: adhesive_tape >> 你这怎么检查的
+[21:51:05] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> （
+[21:51:18] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> （忘记说了
+[21:51:29] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[21:52:25] [User Authenticator #7/INFO]: UUID of player pinkmilk is 591b69f1-5eb9-490b-900c-04516907dc49
+[21:52:25] [Server thread/INFO]: pinkmilk[/127.0.0.1:52258] logged in with entity id 45411 at ([world_nether]275.6875, 114.55000001192093, 171.04911307181098)
+[21:53:12] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你来放矿车？
+[21:53:15] [Server thread/INFO]: adhesive_tape >> en
+[21:53:20] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你当时应该拆地狱岩的（
+[21:53:26] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊呸
+[21:53:28] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> TNT
+[21:53:36] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 然后再拆地狱岩（
+[21:53:56] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 等你开机 我挂一会机
+[21:54:39] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[21:54:39] [Server thread/INFO]: Jichen233 left the game
+[21:56:12] [Server thread/INFO]: pinkmilk lost connection: Disconnected
+[21:56:12] [Server thread/INFO]: pinkmilk left the game
+[21:56:26] [Server thread/INFO]: <女装子up> upsama >> 1.15.2和1.14.2有什么区别
+[21:56:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 对了
+[21:56:43] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我觉得吧地吞上报能不能得到贡献点qwq
+[21:56:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ba14408[id=<null>,name=Twilight2033,properties={},legacy=false] (/127.0.0.1:52293) lost connection: Disconnected
+[21:56:59] [User Authenticator #8/INFO]: Disconnecting com.mojang.authlib.GameProfile@5ba14408[id=<null>,name=Twilight2033,properties={},legacy=false] (/127.0.0.1:52293): Authentication servers are down. Please try again later, sorry!
+[21:56:59] [User Authenticator #8/ERROR]: Couldn't verify username because servers are unavailable
+[21:57:03] [Server thread/INFO]: <女装子up> upsama >> 我觉得不大行
+[21:57:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b760c60[id=<null>,name=Twilight2033,properties={},legacy=false] (/127.0.0.1:52299) lost connection: Disconnected
+[21:57:23] [User Authenticator #9/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[21:57:23] [Server thread/INFO]: Twilight2033[/127.0.0.1:52304] logged in with entity id 50500 at ([world]6904.918495995776, 106.0, -505.72383873039576)
+[21:57:28] [Server thread/INFO]: adhesive_tape >> 应给会有一点
+[21:57:33] [Server thread/INFO]: adhesive_tape >> 但是不会太多
+[21:57:41] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 不如我们上报了吧
+[21:57:45] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 现场评分awa
+[21:58:14] [Server thread/INFO]: Magical7 issued server command: /msg upsama 没，问完后我就卡退了 刚刚在洗澡没看到
+[21:58:28] [Server thread/INFO]: sen_lv_ling_ issued server command: /chatc info
+[21:58:30] [Server thread/INFO]: upsama issued server command: /msg magical7 你按m
+[21:58:35] [Server thread/INFO]: adhesive_tape >> 你搞坏的是哪里
+[21:58:39] [Server thread/INFO]: upsama issued server command: /msg magical7 然后右上角
+[21:58:40] [Server thread/INFO]: adhesive_tape >> 指出来
+[21:58:46] [Server thread/INFO]: upsama issued server command: /msg magical7 最右上角那个点进去
+[21:58:54] [Server thread/INFO]: Magical7 >> 等我切一下端
+[21:58:56] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[21:58:56] [Server thread/INFO]: Magical7 left the game
+[21:59:00] [Server thread/INFO]: upsama issued server command: /msg magical7 点进去以后左边加油
+[21:59:15] [Server thread/INFO]: adhesive_tape >> 这边？
+[21:59:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@564afaa3[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:52319) lost connection: Disconnected
+[21:59:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我刚刚吧发车部分的一个活塞补上了
+[21:59:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@14ffab4d[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:52322) lost connection: Disconnected
+[21:59:59] [Server thread/INFO]: adhesive_tape >> 点头摇头
+[22:00:02] [User Authenticator #11/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[22:00:02] [Server thread/INFO]: Jichen233[/127.0.0.1:52326] logged in with entity id 53134 at ([world]1104.5869357166478, 68.0, -1741.391521714488)
+[22:00:04] [Server thread/INFO]: adhesive_tape >> 是不是发车部分
+[22:00:04] [Server thread/INFO]: sen_lv_ling_ >> 已经补好了
+[22:00:09] [Server thread/INFO]: adhesive_tape >> o
+[22:00:17] [Server thread/INFO]: sen_lv_ling_ >> 就ghost补的那个活塞
+[22:00:25] [Server thread/INFO]: sen_lv_ling_ >> 我称号呢？
+[22:00:26] [Server thread/INFO]: adhesive_tape >> 拿就开机把
+[22:00:26] [User Authenticator #10/INFO]: Disconnecting com.mojang.authlib.GameProfile@14ffab4d[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:52322): Authentication servers are down. Please try again later, sorry!
+[22:00:26] [User Authenticator #10/ERROR]: Couldn't verify username because servers are unavailable
+[22:00:39] [Server thread/INFO]: sen_lv_ling_ >> 呼叫老滑稽
+[22:00:55] [Server thread/INFO]: adhesive_tape >> 等一下
+[22:01:21] [Server thread/INFO]: sen_lv_ling_ >> 还差个粘液块
+[22:01:23] [Server thread/INFO]: sen_lv_ling_ >> 这儿
+[22:01:29] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[22:01:30] [Server thread/INFO]: sen_lv_ling_ >> 这个才是炸的
+[22:01:39] [Server thread/INFO]: adhesive_tape >> ...
+[22:01:44] [Server thread/INFO]: adhesive_tape >> ghost你怎么检查的
+[22:01:54] [Server thread/INFO]: upsama lost connection: Disconnected
+[22:01:54] [Server thread/INFO]: upsama left the game
+[22:01:54] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？？
+[22:02:05] [Server thread/INFO]: sen_lv_ling_ >> 这儿
+[22:03:12] [Server thread/INFO]: adhesive_tape >> ghost你怎么检查的
+[22:03:15] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> qwq
+[22:03:22] [Server thread/INFO]: sen_lv_ling_ >> 我称号！
+[22:03:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 烟花（
+[22:03:42] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 眼花（
+[22:04:00] [Server thread/INFO]: Twilight2033 fell from a high place
+[22:04:45] [Server thread/INFO]: adhesive_tape >> 应该是没啥问题了
+[22:06:00] [Server thread/WARN]: Jichen233 moved wrongly!
+[22:06:01] [Server thread/WARN]: Jichen233 moved wrongly!
+[22:06:01] [Server thread/WARN]: Jichen233 moved wrongly!
+[22:06:15] [Server thread/INFO]: adhesive_tape >> 视频背景音乐能不能后面加上去
+[22:06:20] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 可以的啊
+[22:06:29] [Server thread/INFO]: adhesive_tape >> ok
+[22:06:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 发给我 我来剪（
+[22:06:45] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 建议你把游戏音乐关小一点
+[22:06:56] [Server thread/INFO]: adhesive_tape >> 开始撸了
+[22:07:00] [Server thread/INFO]: adhesive_tape >> 开始录了
+[22:07:14] [Server thread/INFO]: adhesive_tape >> 准备开机
+[22:07:17] [Server thread/INFO]: adhesive_tape >> 倒数
+[22:07:19] [Server thread/INFO]: adhesive_tape >> 3
+[22:07:21] [Server thread/INFO]: adhesive_tape >> 2
+[22:07:22] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 不叫xl？
+[22:07:24] [Server thread/INFO]: adhesive_tape >> 1
+[22:07:25] [Server thread/INFO]: adhesive_tape >> e
+[22:07:33] [Server thread/INFO]: adhesive_tape >> 叫他干啥
+[22:07:34] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 算了 你录屏发给xl看吧
+[22:07:41] [Server thread/INFO]: adhesive_tape >> 倒数
+[22:07:42] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 上报 贡献点qwq
+[22:07:45] [Server thread/INFO]: adhesive_tape >> 3
+[22:07:47] [Server thread/INFO]: adhesive_tape >> 2
+[22:07:50] [Server thread/INFO]: adhesive_tape >> 1
+[22:07:57] [Server thread/INFO]: adhesive_tape >> start
+[22:08:05] [Server thread/INFO]: sen_lv_ling_ >> ...
+[22:08:10] [Server thread/INFO]: sen_lv_ling_ >> 你倒是开啊
+[22:08:16] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 等下啊 卡键盘了（
+[22:08:18] [Server thread/INFO]: sen_lv_ling_ >> ...
+[22:08:32] [Server thread/INFO]: sen_lv_ling_ >> 关键时候掉链子
+[22:08:33] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 森语开膀胱者
+[22:08:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 好了
+[22:08:39] [Server thread/INFO]: sen_lv_ling_ >> ?
+[22:08:39] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 3
+[22:08:50] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 2
+[22:08:52] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 1
+[22:08:55] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> start
+[22:09:06] [Server thread/INFO]: Ghost_king_ issued server command: /px mode
+[22:09:07] [Server thread/INFO]: sen_lv_ling_ >> ohhhhhhhh
+[22:09:09] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？？？？？？？？？？
+[22:09:14] [Server thread/INFO]: sen_lv_ling_ >> ?
+[22:09:17] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 开不了那个
+[22:09:29] [Server thread/INFO]: sen_lv_ling_ >> 旁观者？
+[22:09:32] [Server thread/INFO]: adhesive_tape >> 没事
+[22:09:33] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 开不了膀胱者
+[22:09:51] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 老滑稽！！！
+[22:09:56] [Server thread/INFO]: Ghost_king_ issued server command: /px mode
+[22:09:56] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4c05350b[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:52401): Took too long to log in
+[22:09:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@4c05350b[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:52401) lost connection: Took too long to log in
+[22:09:57] [Server thread/INFO]: sen_lv_ling_ >> 危ghost危
+[22:10:28] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@48948bce[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:52407): Took too long to log in
+[22:10:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@48948bce[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:52407) lost connection: Took too long to log in
+[22:10:32] [User Authenticator #13/INFO]: Disconnecting com.mojang.authlib.GameProfile@48948bce[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:52407): Authentication servers are down. Please try again later, sorry!
+[22:10:32] [User Authenticator #13/ERROR]: Couldn't verify username because servers are unavailable
+[22:10:44] [Server thread/INFO]: adhesive_tape >> 站近一点
+[22:10:52] [Server thread/INFO]: sen_lv_ling_ >> emmm
+[22:11:09] [Server thread/INFO]: sen_lv_ling_ >> 准
+[22:11:11] [Server thread/INFO]: adhesive_tape >> 嗯
+[22:11:15] [Server thread/INFO]: adhesive_tape >> 还行
+[22:11:21] [User Authenticator #13/INFO]: Disconnecting com.mojang.authlib.GameProfile@5b76a849[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:52418): Authentication servers are down. Please try again later, sorry!
+[22:11:21] [User Authenticator #13/ERROR]: Couldn't verify username because servers are unavailable
+[22:11:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b76a849[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:52418) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:11:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@347c247c[id=<null>,name=xxuurruuii,properties={},legacy=false] (/127.0.0.1:52423) lost connection: Disconnected
+[22:11:55] [Server thread/INFO]: adhesive_tape >> 太舒服了
+[22:12:12] [Server thread/INFO]: sen_lv_ling_ >> 噗
+[22:12:18] [User Authenticator #13/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[22:12:18] [Server thread/INFO]: Magical7[/127.0.0.1:52432] logged in with entity id 73643 at ([world]1584.93244813633, 69.5, 873.1969691725275)
+[22:12:42] [Server thread/INFO]: sen_lv_ling_ >> 烈焰人拼命反抗
+[22:12:55] [Server thread/INFO]: adhesive_tape >> yeah
+[22:13:05] [Server thread/INFO]: adhesive_tape >> 不枉我挖了好多沟
+[22:13:40] [User Authenticator #14/INFO]: UUID of player xxuurruuii is e4032104-ba08-4db3-82a0-d4f7323bcaf4
+[22:13:40] [Server thread/INFO]: xxuurruuii[/127.0.0.1:52445] logged in with entity id 77711 at ([world]1129.1527239946574, 116.0, 2273.123999274418)
+[22:13:49] [Server thread/INFO]: Twilight2033 >> 不真实
+[22:13:55] [Server thread/INFO]: Twilight2033 >> 你怎么那么晚才上线
+[22:13:57] [Server thread/INFO]: adhesive_tape >> 这回直接给他干到基岩
+[22:14:03] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> awa
+[22:14:07] [Server thread/INFO]: sen_lv_ling_ >> 我感觉每次我在都没炸膛
+[22:14:33] [Server thread/INFO]: adhesive_tape >> 你们家在
+[22:14:41] [Server thread/INFO]: adhesive_tape >> 你们加载
+[22:14:45] [Server thread/INFO]: adhesive_tape >> 我去挖石英
+[22:14:49] [Server thread/INFO]: sen_lv_ling_ >> 危
+[22:14:56] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 告诉你个秘密
+[22:15:01] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我马上要下线了（
+[22:15:06] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 不能加载地吞
+[22:15:07] [Server thread/INFO]: Jichen233 >> ((
+[22:15:31] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 地吞吧eoe炸死了awa
+[22:15:38] [Server thread/INFO]: adhesive_tape >> 233
+[22:15:53] [Server thread/INFO]: sen_lv_ling_ >> 成功反杀
+[22:15:57] [Server thread/INFO]: adhesive_tape >> 一堆渲染错误
+[22:16:04] [Server thread/INFO]: adhesive_tape >> 我还以为坏了
+[22:16:41] [User Authenticator #15/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[22:16:41] [Server thread/INFO]: Crushxl[/127.0.0.1:52472] logged in with entity id 89697 at ([world]2792.300000011921, 63.875, -409.69999998807907)
+[22:16:49] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ohhhhhhhhh
+[22:16:50] [Server thread/INFO]: Crushxl issued server command: /px mode
+[22:16:53] [Server thread/INFO]: sen_lv_ling_ >> 他来了他来了
+[22:16:56] [Server thread/INFO]: <服主> Crushxl >> 看群
+[22:17:12] [Server thread/INFO]: Ghost_king_ issued server command: /px mode
+[22:18:50] [Server thread/INFO]: Magical7 lost connection: Timed out
+[22:18:50] [Server thread/INFO]: Magical7 left the game
+[22:18:52] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 不是.px mode 吗
+[22:19:00] [Server thread/INFO]: sen_lv_ling_ >> ...
+[22:19:08] [Server thread/INFO]: sen_lv_ling_ >> xl，我称号无了
+[22:19:25] [Server thread/INFO]: Crushxl issued server command: /mangaddp default angmode.use
+[22:19:29] [Server thread/INFO]: <服主> Crushxl >> 现在试试
+[22:19:34] [Server thread/INFO]: sen_lv_ling_ >> .
+[22:19:35] [Server thread/INFO]: Ghost_king_ issued server command: /px mode
+[22:19:38] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ok
+[22:20:11] [Server thread/INFO]: Crushxl issued server command: /chatc user sen_lv_ling_ prefix &a<森语参上>&f__
+[22:20:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 要开旁观者么
+[22:20:23] [Server thread/INFO]: adhesive_tape issued server command: /px mode
+[22:20:28] [Server thread/INFO]: sen_lv_ling_ issued server command: /px mode
+[22:20:31] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 开吧 防止 eoe在扎你的时候炸到地吞
+[22:20:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 开了
+[22:20:38] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 3点 也不贵
+[22:20:46] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我得下线了
+[22:20:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 。。。
+[22:20:54] [Server thread/INFO]: <服主> Crushxl >> 以后称号找laohuaji 权限找dr37 laohuaji负责后勤 dr37负责技术
+[22:20:56] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 小泠 下线会切换回去吗
+[22:21:01] [Server thread/INFO]: <服主> Crushxl >> 不会
+[22:21:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 老滑稽没理我
+[22:21:18] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[22:21:18] [Server thread/INFO]: Crushxl left the game
+[22:21:20] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 也就是说我再次上线任然是膀胱是吗
+[22:21:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 嗯
+[22:21:24] [Server thread/INFO]: Jichen233 >> ...
+[22:21:29] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[22:21:38] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 那我觉得可以一直开着*（
+[22:21:44] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> hence！
+[22:21:47] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 用hence！
+[22:21:55] [Server thread/INFO]: Twilight2033 >> c
+[22:22:11] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 以后可以用hence开膀胱机啊在地吞
+[22:22:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 比灵魂出窍舒服多了
+[22:22:20] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我下了 你们加载好哈
+[22:22:22] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 晚安
+[22:22:24] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[22:22:24] [Server thread/INFO]: Ghost_king_ left the game
+[22:24:03] [Server thread/INFO]: Twilight2033 issued server command: /px mode
+[22:25:27] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这渲染
+[22:25:31] [Server thread/INFO]: Twilight2033 issued server command: /p me
+[22:25:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 经常误以为排水机停了
+[22:26:51] [Server thread/INFO]: Twilight2033 issued server command: /px off
+[22:26:58] [Server thread/INFO]: Twilight2033 issued server command: /p me
+[22:27:44] [Server thread/INFO]: adhesive_tape >> en
+[22:27:51] [User Authenticator #16/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[22:27:51] [Server thread/INFO]: Magical7[/127.0.0.1:52554] logged in with entity id 129462 at ([world]1590.299999974668, 67.0000002, 866.299999974668)
+[22:28:13] [Server thread/INFO]: adhesive_tape >> 很爽
+[22:28:29] [Server thread/INFO]: adhesive_tape >> 比tis还好
+[22:28:33] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 23333
+[22:28:35] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[22:28:35] [Server thread/INFO]: Magical7 left the game
+[22:28:43] [Server thread/INFO]: adhesive_tape >> 地吞+旁观者=无敌
+[22:28:49] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[22:29:02] [User Authenticator #17/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[22:29:03] [Server thread/INFO]: Magical7[/127.0.0.1:52565] logged in with entity id 135707 at ([world]1570.282439787702, 64.0, 885.8701481269261)
+[22:29:28] [Server thread/INFO]: adhesive_tape >> 今天酒吧这边搞完
+[22:29:29] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[22:29:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 论一格岩浆能覆盖多大面积
+[22:29:34] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:29:36] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:29:44] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:29:46] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:30:10] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:31:38] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[22:31:55] [Server thread/INFO]: Twilight2033 >> xxuurruuii
+[22:32:20] [Server thread/INFO]: Twilight2033 >> 树场旁边那个你放的木板我拆了
+[22:32:21] [Server thread/INFO]: <管理> Laohuaji >> az?
+[22:32:31] [Server thread/INFO]: Twilight2033 >> 太煞风景了
+[22:32:34] [Server thread/INFO]: <管理> Laohuaji >> 你称号不是在嘛
+[22:32:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> xl给的
+[22:32:57] [Server thread/INFO]: <管理> Laohuaji >> az
+[22:33:00] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[22:33:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 说下次你再不干活就撤了你
+[22:33:03] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[22:33:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> (((
+[22:33:21] [Server thread/INFO]: [Server] ？
+[22:33:22] [Server thread/INFO]: <管理> Laohuaji >> 在群里叫本来就可以不干活
+[22:33:27] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[22:33:53] [Server thread/INFO]: adhesive_tape >> 还有这么多
+[22:33:56] [Server thread/INFO]: adhesive_tape >> 卧槽
+[22:34:01] [Server thread/INFO]: adhesive_tape >> 这得开到什么时候
+[22:34:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 下次是不是该私聊qwq
+[22:34:47] [Server thread/INFO]: <管理> Laohuaji >> [Server] ?
+[22:34:56] [Server thread/INFO]: <管理> Laohuaji >> awa
+[22:34:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 都还没到岩浆海
+[22:35:00] [Server thread/INFO]: <管理> Laohuaji >> 下了
+[22:35:05] [Server thread/INFO]: <管理> Laohuaji >> 拜拜
+[22:35:08] [Server thread/INFO]: adhesive_tape >> bye
+[22:35:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 拜~
+[22:35:12] [Server thread/INFO]: Jichen233 >> bye!
+[22:35:15] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[22:35:15] [Server thread/INFO]: Laohuaji left the game
+[22:35:27] [Server thread/INFO]: adhesive_tape >> 有人想来看地吞开机的过来了哈
+[22:35:31] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:35:36] [Server thread/INFO]: adhesive_tape >> 开旁观者观看
+[22:35:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 建议旁观过来
+[22:35:42] [Server thread/INFO]: There are 6 of a max 40 players online: adhesive_tape, sen_lv_ling_, Jichen233, Twilight2033, xxuurruuii, Magical7
+[22:35:44] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:36:45] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:37:23] [Server thread/INFO]: Jichen233 >> zz
+[22:37:26] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[22:37:26] [Server thread/INFO]: Jichen233 left the game
+[22:38:30] [User Authenticator #18/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[22:38:30] [Server thread/INFO]: Jichen233[/127.0.0.1:52643] logged in with entity id 162860 at ([world]1103.299999974668, 66.0000002, -1765.700000025332)
+[22:38:58] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:39:04] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:39:11] [Server thread/INFO]: <全服最菜> xxuurruuii >> 女巫塔挂足一组红石了
+[22:39:15] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[22:39:15] [Server thread/INFO]: Jichen233 left the game
+[22:39:16] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:39:18] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:39:19] [Server thread/INFO]: <全服最菜> xxuurruuii >> 今天没有网课没法挖矿
+[22:39:25] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[22:39:32] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:39:37] [Server thread/INFO]: Twilight2033 >> xxuurruuii
+[22:39:49] [Server thread/INFO]: Twilight2033 >> 树场旁边你放那个木板桥
+[22:39:56] [Server thread/INFO]: Twilight2033 >> 没点火把刷怪
+[22:40:04] [Server thread/INFO]: Twilight2033 >> 差点把树场炸了
+[22:40:07] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:40:09] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:40:11] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:40:13] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:40:14] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:40:15] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:40:29] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 北梦的傻瓜树场常驻一只苦力怕
+[22:40:30] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:40:47] [Server thread/INFO]: Twilight2033 >> 说起那树场就来气
+[22:40:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 2333
+[22:40:55] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:40:58] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:41:02] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:41:03] [Server thread/INFO]: adhesive_tape >> 23333
+[22:41:06] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:41:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 该找红石组换个好的树场了
+[22:41:53] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 傻瓜树场只支持橡木和白桦
+[22:41:56] [Server thread/INFO]: adhesive_tape issued server command: /px off
+[22:42:02] [Server thread/INFO]: Twilight2033 >> .........................
+[22:42:07] [Server thread/INFO]: Twilight2033 >> 我他妈
+[22:42:12] [Server thread/INFO]: Twilight2033 >> 怎么传送了
+[22:42:13] [Server thread/INFO]: adhesive_tape issued server command: /px off
+[22:42:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 慕云建筑要的其他木头我都要手动去砍
+[22:42:17] [Server thread/INFO]: Magical7 >> 来我这 我的支持四种
+[22:42:24] [Server thread/INFO]: adhesive_tape issued server command: /gamemode 1
+[22:42:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 那四种
+[22:42:36] [Server thread/INFO]: Twilight2033 >> 我刚刚刷着刷着木头
+[22:42:45] [Server thread/INFO]: adhesive_tape issued server command: /px ogg
+[22:42:45] [Server thread/INFO]: Twilight2033 >> 突然传送到几千格外的雪山了
+[22:42:47] [Server thread/INFO]: Magical7 >> 丛林加云杉
+[22:42:48] [Server thread/INFO]: adhesive_tape issued server command: /px off
+[22:42:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ？
+[22:43:02] [Server thread/INFO]: Magical7 >> 还有那两种
+[22:43:09] [Server thread/INFO]: adhesive_tape >> 坏了！
+[22:43:14] [Server thread/INFO]: adhesive_tape >> 地屯坏了
+[22:43:14] [Server thread/INFO]: Twilight2033 >> 我的是还要合金欢
+[22:43:21] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 今天地狱门串门串的门没见了
+[22:43:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[22:43:31] [Server thread/INFO]: adhesive_tape >> px off
+[22:43:35] [Server thread/INFO]: adhesive_tape issued server command: /px off
+[22:43:37] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[22:43:37] [Server thread/INFO]: adhesive_tape left the game
+[22:43:40] [Server thread/INFO]: Twilight2033 >> 不是
+[22:43:43] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[22:43:51] [Server thread/INFO]: Twilight2033 >> 我他妈我现在来回传送回雪山怎么回事
+[22:44:07] [User Authenticator #19/INFO]: Disconnecting com.mojang.authlib.GameProfile@391604ab[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:52687): Authentication servers are down. Please try again later, sorry!
+[22:44:07] [User Authenticator #19/ERROR]: Couldn't verify username because servers are unavailable
+[22:44:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@391604ab[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:52687) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:44:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@29028723[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:52691) lost connection: Disconnected
+[22:44:39] [User Authenticator #19/INFO]: Disconnecting com.mojang.authlib.GameProfile@29028723[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:52691): Authentication servers are down. Please try again later, sorry!
+[22:44:39] [User Authenticator #19/ERROR]: Couldn't verify username because servers are unavailable
+[22:44:49] [User Authenticator #19/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:44:49] [Server thread/INFO]: adhesive_tape[/127.0.0.1:52699] logged in with entity id 189322 at ([world_nether]101.77719522732578, 53.627300174928465, 835.3794135491758)
+[22:45:19] [Server thread/INFO]: adhesive_tape >> 旁观模式怎么换不回来
+[22:45:24] [Server thread/INFO]: adhesive_tape issued server command: /px off
+[22:45:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 找xl吧
+[22:45:46] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 赶紧！
+[22:45:52] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[22:45:52] [Server thread/INFO]: Twilight2033 left the game
+[22:45:54] [Server thread/INFO]: adhesive_tape issued server command: /px off adhesive_tape
+[22:46:06] [Server thread/INFO]: adhesive_tape issued server command: /px off adhesive_tape
+[22:46:11] [Server thread/INFO]: adhesive_tape issued server command: /px off adhesive_tape
+[22:46:35] [Server thread/INFO]: adhesive_tape issued server command: /px off adhesive_tape
+[22:46:36] [User Authenticator #20/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[22:46:36] [Server thread/INFO]: Twilight2033[/127.0.0.1:52723] logged in with entity id 195693 at ([world]6872.372508857085, 103.0, -488.39819502545316)
+[22:46:36] [Server thread/INFO]: adhesive_tape issued server command: /px off
+[22:46:42] [Server thread/INFO]: Twilight2033 >> 在试试？
+[22:46:45] [Server thread/INFO]: adhesive_tape issued server command: /px off
+[22:46:45] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5dced155[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52719): Took too long to log in
+[22:46:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@5dced155[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52719) lost connection: Took too long to log in
+[22:46:46] [Server thread/INFO]: adhesive_tape issued server command: /px off adhesive_tape
+[22:46:51] [User Authenticator #21/INFO]: Disconnecting com.mojang.authlib.GameProfile@5dced155[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52719): Authentication servers are down. Please try again later, sorry!
+[22:46:51] [User Authenticator #21/ERROR]: Couldn't verify username because servers are unavailable
+[22:46:52] [Server thread/INFO]: adhesive_tape >> 都不行
+[22:46:56] [Server thread/INFO]: Twilight2033 >> 我没事了
+[22:47:01] [Server thread/INFO]: sen_lv_ling_ issued server command: /px off
+[22:47:12] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我也不行
+[22:47:21] [Server thread/INFO]: adhesive_tape >> 地吞真坏了
+[22:47:22] [Server thread/INFO]: Twilight2033 >> 没权限吧
+[22:47:26] [Server thread/INFO]: adhesive_tape >> 赶紧停机
+[22:47:28] [Server thread/INFO]: Twilight2033 >> 没权限吗
+[22:47:44] [Server thread/INFO]: adhesive_tape >> 再不停机待会就和小地吞一样了
+[22:47:55] [Server thread/INFO]: Twilight2033 >> 要我帮忙吗
+[22:48:00] [Server thread/INFO]: adhesive_tape >> 来空置域
+[22:48:03] [Server thread/INFO]: adhesive_tape >> 赶紧停机
+[22:48:07] [User Authenticator #21/INFO]: Disconnecting com.mojang.authlib.GameProfile@130d636e[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52733): Authentication servers are down. Please try again later, sorry!
+[22:48:07] [User Authenticator #21/ERROR]: Couldn't verify username because servers are unavailable
+[22:48:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@130d636e[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52733) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:48:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 又是这边岩浆源头的问题？
+[22:48:14] [Server thread/INFO]: adhesive_tape >> en
+[22:48:16] [Server thread/INFO]: adhesive_tape >> 不是
+[22:48:24] [Server thread/INFO]: adhesive_tape >> 反正比较恶心就对了
+[22:48:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[22:48:32] [Server thread/INFO]: sen_lv_ling_ issued server command: /px off
+[22:48:34] [Server thread/INFO]: sen_lv_ling_ issued server command: /px off
+[22:48:35] [Server thread/INFO]: adhesive_tape >> Twilight2033
+[22:48:39] [Server thread/INFO]: Twilight2033 >> 路上
+[22:48:40] [Server thread/INFO]: adhesive_tape >> 赶紧来空置域
+[22:48:42] [User Authenticator #21/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[22:48:42] [Server thread/INFO]: Crushxl[/127.0.0.1:52741] logged in with entity id 204776 at ([world]2774.051326482383, 82.77748732703743, -369.1250442658733)
+[22:48:45] [Server thread/INFO]: adhesive_tape >> 快艇及
+[22:48:51] [Server thread/INFO]: Crushxl issued server command: /px off
+[22:48:53] [Server thread/INFO]: adhesive_tape >> xl，把地吞停下来
+[22:49:07] [Server thread/INFO]: adhesive_tape issued server command: /px off
+[22:49:24] [Server thread/INFO]: adhesive_tape >> 这遍回去出问题了
+[22:49:26] [Server thread/INFO]: Crushxl issued server command: /gamemode survival
+[22:49:26] [Server thread/INFO]: [Crushxl: Set own game mode to Survival Mode]
+[22:49:33] [Server thread/INFO]: Crushxl issued server command: /px mode
+[22:49:34] [Server thread/INFO]: adhesive_tape >> 块
+[22:49:40] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[22:49:40] [Server thread/INFO]: Crushxl left the game
+[22:49:46] [Server thread/INFO]: adhesive_tape >> ok
+[22:49:50] [Server thread/INFO]: adhesive_tape >> 好样的
+[22:49:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@361ad099[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52753) lost connection: Disconnected
+[22:50:04] [Server thread/INFO]: Twilight2033 >> 抱歉啊我临急之下
+[22:50:07] [Server thread/INFO]: Twilight2033 >> 乱拆了
+[22:50:11] [Server thread/INFO]: adhesive_tape >> 你做的很棒
+[22:50:12] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> xl咋又无了
+[22:50:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我都没看到他干了啥23333
+[22:50:33] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@237c8c62[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52757): Took too long to log in
+[22:50:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@237c8c62[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52757) lost connection: Took too long to log in
+[22:50:41] [User Authenticator #23/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[22:50:41] [Server thread/INFO]: Crushxl[/127.0.0.1:52766] logged in with entity id 212834 at ([world]2570.2652250052975, 86.67881894786986, -248.66874809515178)
+[22:50:45] [Server thread/INFO]: Crushxl issued server command: /px off
+[22:50:50] [User Authenticator #22/INFO]: Disconnecting com.mojang.authlib.GameProfile@237c8c62[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52757): Authentication servers are down. Please try again later, sorry!
+[22:50:50] [User Authenticator #22/ERROR]: Couldn't verify username because servers are unavailable
+[22:50:50] [Server thread/INFO]: adhesive_tape >> 这一波紧急停机给80分
+[22:50:57] [Server thread/INFO]: adhesive_tape >> 千钧一发
+[22:51:04] [Server thread/INFO]: Twilight2033 >> 艹
+[22:51:12] [Server thread/INFO]: Twilight2033 >> 差点全身凉了
+[22:51:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 凉了我们给你提供装备
+[22:51:33] [Server thread/INFO]: Twilight2033 >> 幸好带了防火甲和防爆甲
+[22:51:36] [Server thread/INFO]: adhesive_tape >> xl，换不了生存模式
+[22:51:38] [Server thread/INFO]: adhesive_tape >> 啊
+[22:51:43] [Server thread/INFO]: sen_lv_ling_ issued server command: /px off
+[22:52:03] [Server thread/INFO]: Twilight2033 >> 没那个清扫机我不知道我拆了哪了你回头修修吧
+[22:52:07] [Server thread/INFO]: adhesive_tape >> en
+[22:52:18] [Server thread/INFO]: Twilight2033 >> 一急就乱拆了
+[22:52:37] [Server thread/INFO]: Twilight2033 >> 还有啥要帮的吗
+[22:52:42] [Server thread/INFO]: adhesive_tape >> 不用了，谢谢
+[22:52:43] [Server thread/INFO]: Twilight2033 >> 没啥我去修树场了
+[22:52:51] [Server thread/INFO]: <服主> Crushxl >> 明天我再解决一下插件问题
+[22:52:53] [Server thread/INFO]: Twilight2033 >> 刚刚被苦力怕炸了
+[22:52:53] [Server thread/INFO]: adhesive_tape >> 回头送你点东西
+[22:52:54] [User Authenticator #24/INFO]: Disconnecting com.mojang.authlib.GameProfile@471107fd[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:52779): Authentication servers are down. Please try again later, sorry!
+[22:52:54] [User Authenticator #24/ERROR]: Couldn't verify username because servers are unavailable
+[22:52:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@471107fd[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:52779) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:52:56] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> emmmm
+[22:53:06] [Server thread/INFO]: <服主> Crushxl >> 先找个安全的地方 我先切换生存
+[22:53:10] [Server thread/INFO]: adhesive_tape >> 嗯
+[22:53:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 嗯
+[22:53:18] [Server thread/INFO]: adhesive_tape >> ok
+[22:53:18] [User Authenticator #24/INFO]: Disconnecting com.mojang.authlib.GameProfile@2c0d1254[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:52787): Authentication servers are down. Please try again later, sorry!
+[22:53:18] [User Authenticator #24/ERROR]: Couldn't verify username because servers are unavailable
+[22:53:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c0d1254[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:52787) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:53:21] [Server thread/INFO]: Crushxl issued server command: /gamemode survival @a
+[22:53:21] [Server thread/INFO]: [Crushxl: Set adhesive_tape's game mode to Survival Mode]
+[22:53:21] [Server thread/INFO]: [Crushxl: Set own game mode to Survival Mode]
+[22:53:21] [Server thread/INFO]: [Crushxl: Set sen_lv_ling_'s game mode to Survival Mode]
+[22:53:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 回到海晶qwq
+[22:53:43] [Server thread/INFO]: Crushxl issued server command: /gamemode creative
+[22:53:43] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[22:53:43] [User Authenticator #24/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[22:53:43] [Server thread/INFO]: Mr_director[/127.0.0.1:52794] logged in with entity id 221439 at ([world_nether]200.632125265186, 115.0, 765.5013708698995)
+[22:53:48] [Server thread/INFO]: Twilight2033 >> 有点赤鸡
+[22:54:09] [Server thread/INFO]: Crushxl issued server command: /tp sen_lv_ling_ Crushxl
+[22:54:09] [Server thread/INFO]: [Crushxl: Teleported sen_lv_ling_ to Crushxl]
+[22:54:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[22:54:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这是传送别人吧
+[22:54:54] [Server thread/INFO]: Crushxl issued server command: /px off
+[22:55:06] [Server thread/INFO]: Crushxl issued server command: /px mode
+[22:55:46] [Server thread/INFO]: sen_lv_ling_ issued server command: /p lead
+[22:56:16] [Server thread/INFO]: Mr_director >> 实地考察.jpg
+[22:56:32] [Server thread/INFO]: Mr_director >> 菜
+[22:56:44] [Server thread/INFO]: adhesive_tape >> 靠
+[22:56:49] [Server thread/INFO]: adhesive_tape >> 要不是救你
+[22:57:00] [Server thread/INFO]: Mr_director >> 233
+[22:57:02] [Server thread/INFO]: Mr_director >> 不用
+[22:57:06] [Server thread/INFO]: Mr_director >> 我白给都无所谓
+[22:57:18] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> Mr已经习惯了白给qwq
+[22:57:25] [Server thread/INFO]: Villager EntityVillager['Villager'/135899, uuid='4cc45960-9fe2-4f03-8378-9d35845bcf80', l='world', x=1543.90, y=74.40, z=917.82, cx=96, cz=57, tl=732653, v=true, d=false] died, message: 'Villager was squished too much'
+[22:57:30] [Server thread/INFO]: adhesive_tape >> emmm
+[22:57:34] [Server thread/INFO]: adhesive_tape >> 排水机有点问题
+[22:57:46] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[22:57:46] [Server thread/INFO]: Magical7 left the game
+[22:57:48] [Server thread/INFO]: Twilight2033 >> xurui最近咋那么沉默awa
+[22:57:55] [Server thread/INFO]: Crushxl issued server command: /mangaddp default gamemode.SURVIVAL
+[22:57:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 他在挂女巫塔
+[22:58:01] [Server thread/INFO]: Crushxl issued server command: /px off
+[22:58:06] [Server thread/INFO]: Mr_director >> 除非我想死，不然我死不了,jpg
+[22:58:07] [Server thread/INFO]: Crushxl issued server command: /px mode
+[22:58:12] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[22:58:12] [Server thread/INFO]: Crushxl left the game
+[22:58:21] [User Authenticator #25/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[22:58:21] [Server thread/INFO]: Crushxl[/127.0.0.1:52830] logged in with entity id 230022 at ([world]2626.2812567759706, 87.17881888703303, -446.8286962196687)
+[22:58:22] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 如果我死了，那一定是
+[22:58:25] [Server thread/INFO]: Crushxl issued server command: /px off
+[22:58:29] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我自愿的
+[22:58:31] [Server thread/INFO]: adhesive_tape >> mr排岩浆
+[22:58:45] [Server thread/INFO]: Crushxl issued server command: /gamemode spectator
+[22:58:46] [Server thread/INFO]: adhesive_tape >> 顺便挖石英
+[22:58:50] [Server thread/INFO]: Mr_director >> 无方块无桶
+[22:58:52] [Server thread/INFO]: Mr_director >> 无稿子
+[22:58:53] [Server thread/INFO]: adhesive_tape >> 今晚要
+[22:59:04] [Server thread/INFO]: Crushxl issued server command: /px off
+[22:59:05] [Server thread/INFO]: Mr_director >> 话说我隐身小黑能看见我么
+[22:59:10] [Server thread/INFO]: Crushxl issued server command: /gamemode survival
+[22:59:10] [Server thread/INFO]: [Crushxl: Set own game mode to Survival Mode]
+[22:59:12] [Server thread/INFO]: adhesive_tape >> 别闹
+[22:59:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不能
+[22:59:17] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[22:59:17] [Server thread/INFO]: Mr_director left the game
+[22:59:19] [Server thread/INFO]: Crushxl issued server command: /px mode
+[22:59:22] [Server thread/INFO]: Crushxl issued server command: /px off
+[22:59:22] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[22:59:25] [User Authenticator #26/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[22:59:25] [Server thread/INFO]: Mr_director[/127.0.0.1:52843] logged in with entity id 231282 at ([world_nether]82.73421480293845, 45.0, 872.3777369955164)
+[22:59:25] [Server thread/INFO]: Crushxl issued server command: /px mode
+[22:59:30] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[22:59:30] [Server thread/INFO]: Crushxl left the game
+[22:59:30] [Server thread/INFO]: Mr_director >> 看见了
+[22:59:32] [Server thread/INFO]: Twilight2033 >> 按理说
+[22:59:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不是
+[22:59:41] [Server thread/INFO]: Mr_director >> 我半条命没了
+[22:59:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> Mr
+[22:59:44] [Server thread/INFO]: Twilight2033 >> 飞猪俩人应该都不会玩这个服了awa
+[22:59:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b5e64e5[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52847) lost connection: Disconnected
+[22:59:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你隐身我都能看见
+[23:00:18] [Server thread/INFO]: Mr_director >> 但是恶魂看不见啊
+[23:00:41] [Server thread/INFO]: Mr_director >> 等下是粒子效果还是就没隐身
+[23:00:45] [Server thread/INFO]: Mr_director >> 半透明？
+[23:00:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 半透明
+[23:00:56] [Server thread/INFO]: Mr_director >> ?
+[23:00:59] [Server thread/INFO]: Mr_director >> 我单人看看
+[23:01:00] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:01:00] [Server thread/INFO]: Mr_director left the game
+[23:01:29] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[23:01:35] [User Authenticator #27/INFO]: Disconnecting com.mojang.authlib.GameProfile@322be1f1[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52868): Authentication servers are down. Please try again later, sorry!
+[23:01:35] [User Authenticator #27/ERROR]: Couldn't verify username because servers are unavailable
+[23:01:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@322be1f1[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52868) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:02:12] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@46b4d48d[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:52873): Took too long to log in
+[23:02:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@46b4d48d[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:52873) lost connection: Took too long to log in
+[23:02:17] [User Authenticator #27/INFO]: Disconnecting com.mojang.authlib.GameProfile@46b4d48d[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:52873): Authentication servers are down. Please try again later, sorry!
+[23:02:17] [User Authenticator #27/ERROR]: Couldn't verify username because servers are unavailable
+[23:02:26] [User Authenticator #27/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[23:02:26] [Server thread/INFO]: Mr_director[/127.0.0.1:52882] logged in with entity id 234698 at ([world_nether]78.96963872605352, 45.0, 892.0476276347965)
+[23:02:34] [Server thread/INFO]: Mr_director >> 懂了，服务器特色
+[23:02:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ba98b8f[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52878) lost connection: Disconnected
+[23:02:56] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 是不是橙色名字引起的
+[23:03:04] [Server thread/INFO]: Mr_director >> 不应该吧
+[23:03:06] [Server thread/INFO]: adhesive_tape >> 应该是tw的问题
+[23:03:18] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 之前造鱼塔的时候我都看不见tape
+[23:03:29] [Server thread/INFO]: Mr_director >> ?草
+[23:04:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@30ffc646[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52893) lost connection: Disconnected
+[23:04:10] [Server thread/INFO]: adhesive_tape >> 对，就是tweakroo
+[23:04:13] [User Authenticator #29/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[23:04:13] [Server thread/INFO]: Crushxl[/127.0.0.1:52898] logged in with entity id 236057 at ([world]2638.4965632742446, 70.19227741540095, -478.4383649888618)
+[23:04:21] [Server thread/INFO]: Crushxl issued server command: /px off
+[23:04:31] [Server thread/INFO]: Crushxl issued server command: /gamemode survival
+[23:04:31] [Server thread/INFO]: [Crushxl: Set own game mode to Survival Mode]
+[23:04:33] [Server thread/INFO]: Mr_director >> 淦
+[23:04:37] [Server thread/INFO]: Mr_director >> 恶魂也看得见我
+[23:04:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[23:04:49] [Server thread/INFO]: Crushxl issued server command: /px mode
+[23:04:51] [Server thread/INFO]: Mr_director >> 假的隐身
+[23:04:56] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[23:04:56] [Server thread/INFO]: Crushxl left the game
+[23:05:18] [Server thread/INFO]: Mr_director >> 我灵魂出窍也看得见我自己
+[23:05:24] [User Authenticator #28/INFO]: Disconnecting com.mojang.authlib.GameProfile@7f7707ed[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52908): Authentication servers are down. Please try again later, sorry!
+[23:05:24] [User Authenticator #28/ERROR]: Couldn't verify username because servers are unavailable
+[23:05:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@7f7707ed[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52908) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:05:34] [User Authenticator #28/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[23:05:34] [Server thread/INFO]: Crushxl[/127.0.0.1:52915] logged in with entity id 238342 at ([world]2618.099359206933, 73.18448687255646, -443.9555503922583)
+[23:05:49] [Server thread/INFO]: Crushxl issued server command: /gamemode survival
+[23:05:49] [Server thread/INFO]: [Crushxl: Set own game mode to Survival Mode]
+[23:05:51] [Server thread/WARN]: adhesive_tape moved wrongly!
+[23:05:56] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我隐身潜影贝看不见我，僵尸能看见我
+[23:06:02] [Server thread/INFO]: Crushxl issued server command: /px mode
+[23:06:09] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[23:06:09] [Server thread/INFO]: Crushxl left the game
+[23:06:13] [Server thread/INFO]: adhesive_tape >> 离得太近
+[23:06:15] [Server thread/INFO]: adhesive_tape >> 看得见
+[23:06:22] [User Authenticator #28/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[23:06:22] [Server thread/INFO]: Crushxl[/127.0.0.1:52922] logged in with entity id 239612 at ([world]2673.438211429038, 67.4914148045236, -430.1833230543501)
+[23:06:29] [Server thread/INFO]: Crushxl issued server command: /px off
+[23:06:32] [Server thread/INFO]: Mr_director >> 僵尸闻到你的味了
+[23:06:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 以前守卫者挨着都没事
+[23:06:51] [Server thread/INFO]: adhesive_tape >> 你和它的实体碰撞箱碰到了，它就能看见你
+[23:08:45] [Server thread/WARN]: adhesive_tape moved wrongly!
+[23:09:12] [Server thread/INFO]: adhesive_tape >> 修好地吞继续开机
+[23:09:18] [Server thread/INFO]: adhesive_tape >> 估计还要20分钟
+[23:10:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 既然有切石机，为啥没有锯木机
+[23:10:51] [Server thread/INFO]: Mr_director >> 233
+[23:10:53] [Server thread/INFO]: Mr_director >> 我也好奇
+[23:12:52] [Server thread/INFO]: Mr_director >> 修完了么？
+[23:13:02] [Server thread/INFO]: adhesive_tape >> 哪有这么快
+[23:13:10] [User Authenticator #30/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[23:13:10] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:52973] logged in with entity id 249004 at ([world]2013.2085777131877, 66.0, 5844.329446542821)
+[23:13:12] [Server thread/INFO]: Twilight2033 >> awa
+[23:13:35] [Server thread/INFO]: Twilight2033 >> 我当着点掉最右边的粘液块好像
+[23:13:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 明天有空的话换它一大箱石英
+[23:13:37] [Server thread/INFO]: Twilight2033 >> awa
+[23:13:44] [Server thread/INFO]: Ttu_nnm issued server command: /points me
+[23:13:53] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> Twilight2033 干的漂亮
+[23:14:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 奖励你一朵小红花
+[23:14:09] [Server thread/INFO]: Twilight2033 >> 你看看最右边吧
+[23:14:17] [Server thread/INFO]: Twilight2033 >> 我当时直接拆最右边的
+[23:14:45] [Server thread/WARN]: fa8a87b3-aa5b-486c-a742-aff93461c06d (vehicle of Ttu_nnm) moved wrongly!
+[23:15:17] [Server thread/INFO]: Mr_director >> 这凋零骷髅看不见我
+[23:15:19] [Server thread/INFO]: Mr_director >> 绝了
+[23:15:44] [Server thread/INFO]: Mr_director >> 掉了个头
+[23:15:53] [Server thread/INFO]: adhesive_tape >> 欧
+[23:15:59] [Server thread/INFO]: Mr_director >> 我用稿子打死的
+[23:16:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我今天在空置域打第一个骷髅就掉了
+[23:16:12] [Server thread/INFO]: adhesive_tape >> 刚好欸
+[23:16:18] [Server thread/INFO]: Twilight2033 >> 镐击
+[23:16:24] [Server thread/INFO]: adhesive_tape >> 我一个，sen一个，mr一个
+[23:16:32] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我两个qwq
+[23:17:02] [Server thread/WARN]: Ttu_nnm moved wrongly!
+[23:17:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 想打凋零来海晶
+[23:17:12] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 信标加成
+[23:18:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 下了下了
+[23:18:51] [Server thread/INFO]: Twilight2033 >> bye
+[23:18:55] [Server thread/INFO]: adhesive_tape >> e
+[23:18:56] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 拜拜~
+[23:18:58] [Server thread/INFO]: adhesive_tape >> bye
+[23:19:01] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[23:19:01] [Server thread/INFO]: sen_lv_ling_ left the game
+[23:20:26] [Server thread/WARN]: Mr_director moved too quickly! -13.89981601142783,-27.000317286218944,1.1067882617520581
+[23:20:40] [Server thread/INFO]: Mr_director fell from a high place
+[23:20:44] [Server thread/INFO]: Mr_director >> 草
+[23:20:49] [Server thread/INFO]: Mr_director >> 石英
+[23:20:50] [Server thread/INFO]: Mr_director >> 稿子
+[23:20:51] [Server thread/INFO]: Twilight2033 >> 算了我也留了
+[23:20:52] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[23:20:52] [Server thread/INFO]: Twilight2033 left the game
+[23:20:56] [Server thread/INFO]: Mr_director >> 头我收起来了（
+[23:21:06] [Server thread/INFO]: Mr_director >> 溜了
+[23:21:08] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:21:08] [Server thread/INFO]: Mr_director left the game
+[23:21:10] [Server thread/INFO]: adhesive_tape >> 咦
+[23:21:17] [Server thread/INFO]: adhesive_tape >> 没人看地吞了
+[23:21:29] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[23:23:04] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[23:23:04] [Server thread/INFO]: Crushxl left the game
+[23:23:13] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[23:23:13] [Server thread/INFO]: adhesive_tape left the game
+[23:24:46] [User Authenticator #31/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[23:24:46] [Server thread/INFO]: adhesive_tape[/127.0.0.1:53057] logged in with entity id 272506 at ([world_nether]72.94122386928628, 72.0, 786.047353058587)
+[23:31:38] [Server thread/INFO]: [公告] [活动] 灵魂画手已上线活动已经开放报名，详情请见群内公告。 
+[23:33:03] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[23:33:03] [Server thread/INFO]: Ttu_nnm left the game
+[23:40:11] [User Authenticator #32/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[23:40:11] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:53164] logged in with entity id 306366 at ([world]53.609299642183345, 69.0, 115.35919369162274)
+[23:40:33] [Server thread/INFO]: xxuurruuii lost connection: Timed out
+[23:40:33] [Server thread/INFO]: xxuurruuii left the game
+[23:43:50] [Server thread/INFO]: Ttu_nnm issued server command: /co
+[23:43:56] [Server thread/INFO]: Ttu_nnm issued server command: /co i
+[23:44:09] [Server thread/INFO]: Ttu_nnm issued server command: /co i
+[23:46:20] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[23:46:20] [Server thread/INFO]: Ttu_nnm left the game
+[23:47:01] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[23:47:25] [User Authenticator #33/INFO]: Disconnecting com.mojang.authlib.GameProfile@1b19eff6[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:53213): Authentication servers are down. Please try again later, sorry!
+[23:47:25] [User Authenticator #33/ERROR]: Couldn't verify username because servers are unavailable
+[23:47:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b19eff6[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:53213) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:47:28] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[23:47:36] [User Authenticator #33/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[23:47:36] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:53218] logged in with entity id 315271 at ([world]41.68488398640788, 77.0, 54.448031481136496)

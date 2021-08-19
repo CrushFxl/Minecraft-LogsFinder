@@ -1,0 +1,545 @@
+[20:01:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:01:36] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[20:01:37] [Worker-Main-5/INFO]: Loaded 7 recipes
+[20:01:38] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[20:01:38] [Server thread/INFO]: Loading properties
+[20:01:39] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-37d799b-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[20:01:39] [Server thread/INFO]: Debug logging is disabled
+[20:01:39] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[20:01:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:01:39] [Server thread/INFO]: Default game type: SURVIVAL
+[20:01:39] [Server thread/INFO]: Generating keypair
+[20:01:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:01:39] [Server thread/INFO]: Using default channel type
+[20:01:40] [Server thread/ERROR]: Ambiguous plugin name `GroupManager' for files `plugins\[1.16]GroupManager+ [v3.3].jar' and `plugins\GroupManager+ [v3.2].jar' in `plugins'
+[20:01:41] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:01:42] [Server thread/WARN]: Legacy plugin OnlineRewards v1.0.0 does not specify an api-version.
+[20:01:42] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[20:01:42] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[20:01:42] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[20:01:42] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[20:01:42] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[20:01:42] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[20:01:42] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[20:01:42] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[20:01:42] [Server thread/INFO]: [OnlineRewards] Loading OnlineRewards v1.0.0
+[20:01:42] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[20:01:42] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[20:01:42] [Server thread/INFO]: [TAB] Loading TAB v2.8.10
+[20:01:42] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[20:01:42] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[20:01:42] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[20:01:42] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[20:01:42] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[20:01:42] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[20:01:42] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[20:01:42] [Server thread/INFO]: Preparing level "world"
+[20:01:43] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:01:43] [Server thread/INFO]: Max TNT Explosions: 100
+[20:01:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:01:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:01:43] [Server thread/INFO]: Item Despawn Rate: 3000
+[20:01:43] [Server thread/INFO]: Item Merge Radius: 8.0
+[20:01:43] [Server thread/INFO]: View Distance: 12
+[20:01:43] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[20:01:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:01:43] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[20:01:43] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[20:01:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:01:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Experience Merge Radius: 8.0
+[20:01:43] [Server thread/INFO]: Mob Spawn Range: 4
+[20:01:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:01:43] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[20:01:43] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:01:43] [Server thread/INFO]: Max TNT Explosions: 100
+[20:01:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:01:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:01:43] [Server thread/INFO]: Item Despawn Rate: 3000
+[20:01:43] [Server thread/INFO]: Item Merge Radius: 8.0
+[20:01:43] [Server thread/INFO]: View Distance: 12
+[20:01:43] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[20:01:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:01:43] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[20:01:43] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[20:01:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:01:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Experience Merge Radius: 8.0
+[20:01:43] [Server thread/INFO]: Mob Spawn Range: 4
+[20:01:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:01:43] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[20:01:43] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:01:43] [Server thread/INFO]: Max TNT Explosions: 100
+[20:01:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:01:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:01:43] [Server thread/INFO]: Item Despawn Rate: 3000
+[20:01:43] [Server thread/INFO]: Item Merge Radius: 8.0
+[20:01:43] [Server thread/INFO]: View Distance: 12
+[20:01:43] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[20:01:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:01:43] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[20:01:43] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[20:01:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:01:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:01:43] [Server thread/INFO]: Experience Merge Radius: 8.0
+[20:01:43] [Server thread/INFO]: Mob Spawn Range: 4
+[20:01:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:01:43] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[20:01:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:01:44] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:44] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:44] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:44] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:45] [Server thread/INFO]: Preparing spawn area: 16%
+[20:01:45] [Server thread/INFO]: Time elapsed: 2297 ms
+[20:01:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:01:46] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:46] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:46] [Server thread/INFO]: Preparing spawn area: 100%
+[20:01:46] [Server thread/INFO]: Time elapsed: 1112 ms
+[20:01:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:01:46] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:46] [Server thread/INFO]: Time elapsed: 388 ms
+[20:01:46] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[20:01:47] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[20:01:47] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[20:01:47] [Server thread/INFO]: --------------------
+[20:01:47] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[20:01:47] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[20:01:47] [Server thread/INFO]: --------------------
+[20:01:47] [Server thread/INFO]: [OnlineRewards] Enabling OnlineRewards v1.0.0
+[20:01:47] [Server thread/INFO]: [OnlineRewards] [OnlineRewards] Loading config...
+[20:01:47] [Server thread/INFO]: [OnlineRewards]  
+[20:01:47] [Server thread/INFO]: [OnlineRewards] >>>>>>>>>>>>>>>>>>>>>>>> OnlineRewards Loaded <<<<<<<<<<<<<<<<<<<<<<<<
+[20:01:47] [Server thread/INFO]: [OnlineRewards] >>>>> If you encounter any bugs, please contact author's QQ: 768318841 <<<<<
+[20:01:47] [Server thread/INFO]: [OnlineRewards]  
+[20:01:47] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3
+[20:01:47] [Server thread/INFO]: [PxAutoMessage] ÕıÔÚÆô¶¯Æ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[20:01:47] [Server thread/INFO]: [PxAutoMessage] ³õÊ¼»¯ĞÅÏ¢Ä£¿é...
+[20:01:47] [Server thread/INFO]: [PxAutoMessage] ×¢²áÃüÁî¼àÌıÏµÍ³...
+[20:01:47] [Server thread/INFO]: [PxAutoMessage] ¼ÓÔØÍê±Ï£¡
+[20:01:47] [Server thread/INFO]:  
+[20:01:47] [Server thread/INFO]: > ×÷Õß£ºAn_ye (QQ:1444691679)
+[20:01:47] [Server thread/INFO]: > ±¾²å¼ş×Ô´øºº»¯£¬ÇëÎğÏàĞÅËùÎ½µÄºº»¯°æ£¡
+[20:01:47] [Server thread/INFO]: > £¨×÷ÕßµÄ»°£ºI'm Chinese.£©
+[20:01:47] [Server thread/INFO]:  
+[20:01:47] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0
+[20:01:47] [Server thread/INFO]: HikariPool-1 - Starting...
+[20:01:47] [Server thread/INFO]: checkpointClose start
+[20:01:47] [Server thread/INFO]: checkpointClose synched
+[20:01:47] [Server thread/INFO]: checkpointClose script done
+[20:01:47] [Server thread/INFO]: checkpointClose end
+[20:01:47] [Server thread/INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[20:01:47] [Server thread/INFO]: HikariPool-1 - Start completed.
+[20:01:50] [Server thread/INFO]: 
+[20:01:50] [Server thread/INFO]:  
+[20:01:50] [Server thread/INFO]: [0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
+[20:01:50] [Server thread/INFO]: [0;30;1m| [0;31;1mInformation:
+[20:01:50] [Server thread/INFO]: [0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[20:01:50] [Server thread/INFO]: [0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[20:01:50] [Server thread/INFO]: [0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[20:01:50] [Server thread/INFO]: [0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[20:01:50] [Server thread/INFO]: [0;30;1m| [0;31;1mSupport:
+[20:01:50] [Server thread/INFO]: [0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[20:01:50] [Server thread/INFO]: [0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[20:01:50] [Server thread/INFO]: [0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[20:01:50] [Server thread/INFO]: [0;30;1m| [0;31;1mUpdate:
+[20:01:50] [Server thread/INFO]: [0;30;1m|   [0;37;22mThere is a new version available! [2.3.0]
+[20:01:50] [Server thread/INFO]: [0;30;1m[]================================[][m
+[20:01:50] [Server thread/INFO]:  [m
+[20:01:50] [Server thread/INFO]: [TAB] Enabling TAB v2.8.10
+[20:01:50] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.16.4 (v1_16_R3)[m
+[20:01:50] [Server thread/INFO]: [0;31;1m[TAB] Animation "[0;33;1mWelcome[0;31;1m" does not have any texts! [0;36;1mIgnoring.[m
+[20:01:50] [Server thread/INFO]: [0;33;1m[TAB] There was 1 startup warning.[m
+[20:01:50] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 69ms[m
+[20:01:50] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[20:01:50] [Server thread/INFO]: [OpenInv] Your version of CraftBukkit (v1_16_R3) is not supported.
+[20:01:50] [Server thread/INFO]: [OpenInv] If this version is a recent release, check for an update.
+[20:01:50] [Server thread/INFO]: [OpenInv] If this is an older version, ensure that you've downloaded the legacy support version.
+[20:01:50] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5
+[20:01:50] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şÒÑÆôÓÃ£¡
+[20:01:50] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şµ±Ç°°æ±¾£ºV0.5 £¨2017Äê8ÔÂ24ÈÕ£©
+[20:01:50] [Server thread/INFO]: [ChatC] ¸ĞĞ»ÄúµÄÊ¹ÓÃ£¡
+[20:01:50] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT
+[20:01:50] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0
+[20:01:50] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3
+[20:01:50] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;33;1mChecking Your version...[m
+[20:01:50] [Server thread/INFO]: [0;34;1m===============================[m
+[20:01:50] [Server thread/INFO]: [0;32;1m[m
+[20:01:50] [Server thread/INFO]: [0;32;1m GroupManager+ is now enable![m
+[20:01:50] [Server thread/INFO]: [0;32;1m [m
+[20:01:50] [Server thread/INFO]: [0;33;1m Thank you for using GroupManager+ :)[m
+[20:01:50] [Server thread/INFO]: [0;33;1m GroupManager+ is create by HappyAreaBean![m
+[20:01:50] [Server thread/INFO]: [0;36;1m Current version: [0;32;1mv3.3[m
+[20:01:50] [Server thread/INFO]: [0;32;1m [m
+[20:01:50] [Server thread/INFO]: [0;34;1m===============================[m
+[20:01:50] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mWorld Found: world[m
+[20:01:50] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mSuperperms support enabled.[m
+[20:01:50] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is set for every 10 minutes![m
+[20:01:50] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBackups will be retained for 24 hours![m
+[20:01:50] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mGroupManager+ v3.3 is now enabled![m
+[20:01:50] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1
+[20:01:50] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[20:01:50] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[20:01:50] [Server thread/INFO]: [AnGmode] ¡ìaÄãºÃ£¡ÎÒÊÇĞ¡°²£¬¸ĞĞ»ÄãÄÜÊ¹ÓÃÕâ¸ö²å¼ş£¡
+[20:01:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:01:50] [Server thread/INFO]: Done (8.036s)! For help, type "help"
+[20:01:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[20:01:50] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBukkit Permissions Updated![m
+[20:01:51] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;31;1mYour version (v3.3) is outdated download the lastest version:[m
+[20:01:51] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;32;1mhttps://www.spigotmc.org/resources/40615/[m
+[20:01:52] [Thread-20/INFO]: --------------------
+[20:01:52] [Thread-20/INFO]: [CoreProtect] Version 19.4 is now available.
+[20:01:52] [Thread-20/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[20:01:52] [Thread-20/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[20:01:52] [Thread-20/INFO]: --------------------
+[20:02:03] [User Authenticator #1/INFO]: UUID of player upsama is 9618bb26-059b-4501-8ff2-c2c738588057
+[20:02:04] [Server thread/INFO]: upsama[/127.0.0.1:55328] logged in with entity id 419 at ([world_nether]380.25149962644457, 129.0, 83.69056355976187)
+[20:03:18] [Server thread/INFO]: upsama lost connection: Disconnected
+[20:03:18] [Server thread/INFO]: upsama left the game
+[20:09:26] [User Authenticator #2/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[20:09:27] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:55359] logged in with entity id 512 at ([world]5213.300000011921, 107.0, -509.29579891782254)
+[20:11:50] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:15:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@7c53bb7d[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:55384) lost connection: Disconnected
+[20:16:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@53d15fa9[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:55389) lost connection: Disconnected
+[20:16:39] [User Authenticator #3/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[20:16:39] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:55397] logged in with entity id 3133 at ([world]2691.842833381409, 134.0, -390.83901697697115)
+[20:21:50] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:30:17] [Server thread/INFO]: Villager EntityVillager['Villager'/3375, l='ServerLevel[world]', x=2774.65, y=63.94, z=-422.60] died, message: 'Villager suffocated in a wall'
+[20:31:48] [Server thread/INFO]: Villager EntityVillager['Villager'/3374, l='ServerLevel[world]', x=2775.30, y=64.22, z=-423.11] died, message: 'Villager was squished too much'
+[20:35:33] [Server thread/INFO]: Villager EntityVillager['Villager'/3373, l='ServerLevel[world]', x=2774.64, y=63.83, z=-422.66] died, message: 'Villager suffocated in a wall'
+[20:40:53] [User Authenticator #4/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[20:40:53] [Server thread/INFO]: Ghost_king_[/127.0.0.1:55547] logged in with entity id 12020 at ([world]2661.5, 74.5625, -378.01249998807907)
+[20:41:30] [User Authenticator #5/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[20:41:30] [Server thread/INFO]: Twilight2033[/127.0.0.1:55553] logged in with entity id 12248 at ([world_nether]983.0766345476627, 89.0, -245.97454775492517)
+[20:41:33] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[20:41:33] [Server thread/INFO]: Ghost_king_ left the game
+[20:41:50] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:42:12] [User Authenticator #6/INFO]: UUID of player upsama is 9618bb26-059b-4501-8ff2-c2c738588057
+[20:42:12] [Server thread/INFO]: upsama[/127.0.0.1:55564] logged in with entity id 12559 at ([world_nether]380.5419217442797, 129.0, 83.40177751205863)
+[20:42:24] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> u~p~~[m
+[20:42:51] [Server thread/INFO]: Twilight2033 >> upµÄÆ¤·ô²»»áÊÇÂÌÉ«ĞÌÌì°É[m
+[20:44:17] [Server thread/INFO]: Twilight2033 issued server command: /coi
+[20:44:19] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[20:44:27] [Server thread/INFO]: upsama lost connection: Disconnected
+[20:44:27] [Server thread/INFO]: upsama left the game
+[20:44:33] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[20:45:39] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[20:45:51] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[20:45:56] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[20:46:00] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[20:46:39] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[20:46:39] [Server thread/INFO]: Twilight2033 left the game
+[20:48:33] [Server thread/INFO]: Villager EntityVillager['Villager'/7752, l='ServerLevel[world]', x=2774.42, y=63.82, z=-422.63] died, message: 'Villager suffocated in a wall'
+[20:48:52] [User Authenticator #7/INFO]: UUID of player sthworng is f780312e-135a-4325-8c97-775dc0177d46
+[20:48:52] [Server thread/INFO]: sthworng[/127.0.0.1:55621] logged in with entity id 15273 at ([world_nether]-65.81000868638591, 115.0, -54.45231654274998)
+[20:51:50] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:54:57] [User Authenticator #8/INFO]: UUID of player upsama is 9618bb26-059b-4501-8ff2-c2c738588057
+[20:54:57] [Server thread/INFO]: upsama[/127.0.0.1:55646] logged in with entity id 18239 at ([world_nether]381.44370560717505, 129.0, 83.69023880476772)
+[20:55:15] [Server thread/INFO]: [0;33;22m<Laffey>[0;32;1m<Å®×°×Óup>[0;37;1m upsama >> coi Ã»Êı¾İÊÇÊ²Ã´Çé¿ö[m
+[20:57:57] [Server thread/INFO]: Villager EntityVillager['Villager'/11010, l='ServerLevel[world]', x=2774.67, y=63.83, z=-422.53] died, message: 'Villager suffocated in a wall'
+[20:58:08] [User Authenticator #9/INFO]: UUID of player LingEleven_AlphA is 2910127b-b828-4d73-a077-b96b2780c92c
+[20:58:08] [Server thread/INFO]: LingEleven_AlphA[/127.0.0.1:55660] logged in with entity id 20014 at ([world]-78.5, 69.0, 260.5)
+[20:58:30] [Server thread/INFO]: LingEleven_AlphA >> Îßºş¡£¡£¡£[m
+[20:58:54] [Server thread/INFO]: LingEleven_AlphA lost connection: Disconnected
+[20:58:54] [Server thread/INFO]: LingEleven_AlphA left the game
+[20:59:32] [Server thread/WARN]: upsama moved wrongly!
+[21:01:36] [User Authenticator #10/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[21:01:36] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:55677] logged in with entity id 21507 at ([world_nether]14.17596247116414, 116.0, 25.051489516633513)
+[21:01:50] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[21:01:51] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[21:04:49] [Server thread/INFO]: upsama lost connection: Disconnected
+[21:04:49] [Server thread/INFO]: upsama left the game
+[21:07:52] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[21:07:52] [Server thread/INFO]: Minecraft_xyzj left the game
+[21:10:22] [User Authenticator #11/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[21:10:23] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:55727] logged in with entity id 26037 at ([world]3110.314849935839, 79.0, 655.8442119739212)
+[21:11:24] [User Authenticator #12/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[21:11:24] [Server thread/INFO]: anew_tape[/127.0.0.1:55737] logged in with entity id 26878 at ([world]-518.2708306717674, 69.0, -451.92500001192093)
+[21:11:50] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[21:12:13] [Server thread/INFO]: Minecraft_xyzj >> ÏÖÔÚÓĞÊ²Ã´¹¤³ÌÂï[m
+[21:12:31] [Server thread/INFO]: sthworng >> ²»ÖªµÀ[m
+[21:13:46] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[21:13:46] [Server thread/INFO]: Minecraft_xyzj left the game
+[21:17:04] [Server thread/INFO]: Villager EntityVillager['Villager'/19589, l='ServerLevel[world]', x=2774.63, y=63.92, z=-422.63] died, message: 'Villager suffocated in a wall'
+[21:19:13] [Server thread/INFO]: sthworng >> ÄãÃÇÔÚÄÄ°¡[m
+[21:23:44] [Server thread/INFO]: sthworng has made the advancement [Eye Spy]
+[21:24:12] [Server thread/INFO]: sthworng has made the advancement [The End?]
+[21:24:12] [Server thread/WARN]: sthworng moved too quickly! 759.7643526508895,24.20326439933131,1882.8218097115669
+[21:24:12] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:24:12] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[21:24:44] [User Authenticator #13/INFO]: UUID of player ARocket07 is 30a40d55-5d0f-4243-9ea6-2bc251694632
+[21:24:44] [Server thread/INFO]: ARocket07[/127.0.0.1:55802] logged in with entity id 35013 at ([world]2731.499116425847, 63.0, -345.82313326339994)
+[21:25:39] [User Authenticator #14/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[21:25:39] [Server thread/INFO]: Twilight2033[/127.0.0.1:55809] logged in with entity id 35350 at ([world_nether]938.0744281132276, 60.0, -197.4600210352491)
+[21:26:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 6ÈË = =[m
+[21:26:19] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[21:26:19] [Server thread/INFO]: Twilight2033 left the game
+[21:26:23] [User Authenticator #15/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[21:26:23] [Server thread/INFO]: Twilight2033[/127.0.0.1:55822] logged in with entity id 35790 at ([world_nether]741.7125188159918, 60.0, -197.21723462040686)
+[21:27:23] [Server thread/WARN]: Entity EntityPigZombie['Zombified Piglin'/36398, l='ServerLevel[world_nether]', x=276.39, y=51.70, z=0.05] left loaded chunk area
+[21:28:35] [User Authenticator #16/INFO]: Disconnecting com.mojang.authlib.GameProfile@58fd8c6a[id=<null>,name=Minecraft_xyzj,properties={},legacy=false] (/127.0.0.1:55834): Authentication servers are down. Please try again later, sorry!
+[21:28:35] [User Authenticator #16/ERROR]: Couldn't verify username because servers are unavailable
+[21:28:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@58fd8c6a[id=<null>,name=Minecraft_xyzj,properties={},legacy=false] (/127.0.0.1:55834) lost connection: Authentication servers are down. Please try again later, sorry!
+[21:29:20] [User Authenticator #17/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[21:29:21] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:55840] logged in with entity id 38325 at ([world]3129.383407984422, 112.69570715877066, 606.122218454233)
+[21:30:13] [Server thread/INFO]: ARocket07 >> ¹ş¹ş¹şĞÂµçÄÔÅäÖÃ¹ûÈ»ºÃ[m
+[21:30:23] [Server thread/INFO]: ARocket07 lost connection: Disconnected
+[21:30:23] [Server thread/INFO]: ARocket07 left the game
+[21:30:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[21:30:29] [Server thread/INFO]: Minecraft_xyzj >> = =[m
+[21:31:43] [Server thread/INFO]: Minecraft_xyzj >> ÏÖÔÚÓĞÉ¶¹¤³ÌÂï[m
+[21:31:50] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[21:32:15] [Server thread/INFO]: sthworng >> ¸ãµØÓü[m
+[21:32:30] [Server thread/WARN]: Boat (vehicle of sthworng) moved too quickly! -0.030788902973839072,0.0,34.78321968966887
+[21:34:04] [Server thread/INFO]: sthworng has made the advancement [Cover Me With Diamonds]
+[21:37:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ?[m
+[21:37:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õ¦ÁË[m
+[21:37:44] [Server thread/INFO]: Minecraft_xyzj >> Ï´Í·»ú[m
+[21:37:54] [User Authenticator #18/INFO]: UUID of player ARocket07 is 30a40d55-5d0f-4243-9ea6-2bc251694632
+[21:37:54] [Server thread/INFO]: ARocket07[/127.0.0.1:55922] logged in with entity id 46597 at ([world]2658.578415458201, 65.0, -448.6808251915863)
+[21:38:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> az[m
+[21:39:40] [User Authenticator #19/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[21:39:40] [Server thread/INFO]: Ghost_king_[/127.0.0.1:55931] logged in with entity id 48172 at ([world]2662.457480464898, 74.0, -375.51596600355657)
+[21:39:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÔÚcucÍæË£ÖĞ[m
+[21:40:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ÕÓò¹Ò»ú[m
+[21:40:05] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¡[m
+[21:40:08] [Server thread/INFO]: Minecraft_xyzj >> ?[m
+[21:40:16] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> tapeÌø²Û Î£[m
+[21:40:31] [Server thread/INFO]: sthworng lost connection: Disconnected
+[21:40:31] [Server thread/INFO]: sthworng left the game
+[21:41:07] [Server thread/WARN]: anew_tape moved wrongly!
+[21:43:33] [Server thread/INFO]: Minecraft_xyzj >> ÎÒ¿´¿´cucÊÇ¸öÉ¶·şÎñÆ÷[m
+[21:43:39] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ²İ[m
+[21:43:55] [Server thread/INFO]: Villager EntityVillager['Villager'/46925, l='ServerLevel[world]', x=2774.73, y=63.92, z=-422.58] died, message: 'Villager suffocated in a wall'
+[21:44:11] [Server thread/INFO]: Minecraft_xyzj >> ¼ÓÈºÖĞ[m
+[21:44:57] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒºÃÆætape½øÁËCuCÁËÂğ[m
+[21:45:16] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ö®Ç°·ãÒ¶²»ÊÇËµ CuCµÄÈË½ĞËûÆÌ18Íò¸ö»îÈûÉ¶µÄ[m
+[21:45:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ½øÁËÑ½[m
+[21:45:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÖÔÚÔÚÄÚ·şÍæË£[m
+[21:45:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¸ú±ğÈËÃş½¨Öş...[m
+[21:45:54] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> emmmm[m
+[21:46:11] [Server thread/INFO]: Minecraft_xyzj >> cucÏĞÁÄÈº´ğ°¸ÊÇÉ¶°¡[m
+[21:46:14] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¿ÕÓòÓÖÉÙÒ»¸ö´óÀĞ¸ÎµÛ¿©[m
+[21:46:26] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¨Ê²Ã´Ê±ºò´øÎÒÒ²È¥ÍæÍæ[m
+[21:46:30] [Server thread/INFO]: Minecraft_xyzj >> 233[m
+[21:46:35] [Server thread/INFO]: ARocket07 >> ¿È£¬Îå°ÙÕòÖíÈËËşÄØ[m
+[21:46:49] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÔÚµÄÑ½[m
+[21:46:51] [Server thread/INFO]: ARocket07 >> ÎÒÔÚÎå°Ù[m
+[21:47:00] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¶«±ß[m
+[21:47:50] [Server thread/INFO]: ARocket07 >> »µÁË»µÁË[m
+[21:47:53] [Server thread/INFO]: ARocket07 >> ÅÜ´íÁË[m
+[21:47:57] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> CuCÔõÃ´½øqwq[m
+[21:48:09] [Server thread/INFO]: ARocket07 >> ÎÒ°ÑµØÓüÔ­µã¼Ç³ÉÎå°ÙÁË[m
+[21:48:16] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¡­¡­[m
+[21:48:25] [Server thread/INFO]: Minecraft_xyzj >> 697687532qqÈº[m
+[21:48:45] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÈÏ´Ì¿ÍĞÅÌõÄÇ¸öÆìÖÄ¾ÍĞĞ[m
+[21:49:06] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¼ÓËûÃÇ ·ş ÓĞÊ²Ã´ ÒªÇóÂğ[m
+[21:49:21] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¨ÌıËµÒªÓĞÍ¦Ç¿µÄºìÊ¯ÄÜÁ¦[m
+[21:50:38] [Server thread/INFO]: Minecraft_xyzj issued server command: /
+[21:50:53] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[21:50:53] [Server thread/INFO]: Minecraft_xyzj left the game
+[21:50:59] [Server thread/INFO]: ARocket07 >> ÕâÕâÕâ[m
+[21:51:08] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¿¨Âğ[m
+[21:51:10] [Server thread/INFO]: ARocket07 >> »¹ÊÇ60Ö¡[m
+[21:51:14] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¡­¡­[m
+[21:51:16] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÉÏÀ´[m
+[21:51:52] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÈçºÎ[m
+[21:52:01] [Server thread/INFO]: ARocket07 >> ËÄÎåÊ®[m
+[21:52:08] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> emmmmm¡­[m
+[21:52:26] [Server thread/INFO]: ARocket07 >> ËùÒÔ´óÀĞÕâÊÇÉ¶Çé¿ö[m
+[21:52:37] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¿ªÒ»Ğ©ÓÅ»¯mod Ó¦¸ÃÄÜÎÈ60+°É[m
+[21:52:40] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÏÂÈ¥°É[m
+[21:52:44] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¿ÉÄÜ[m
+[21:52:47] [Server thread/INFO]: ARocket07 >> °´ÀíËµµ½ÁËÖíÈËËş²Å40Ö¡[m
+[21:52:50] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÌôÁËÄ³¸öÅäÖÃ[m
+[21:52:54] [Server thread/INFO]: ARocket07 >> ÎªÉ¶×î¸ß²Å60[m
+[21:52:57] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Äãµ÷ÁËÄ³¸öÅäÖÃ[m
+[21:53:06] [Server thread/INFO]: ARocket07 >> ºÃ°É[m
+[21:53:17] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> È»ºóÈÃÄãÏÔ¿¨µÄ¼ÆËã¸ü¼Ó ÖÇÄÜ[m
+[21:53:18] [User Authenticator #20/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[21:53:18] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:55981] logged in with entity id 64353 at ([world]-452.446881369804, 87.0, -482.45865259548134)
+[21:53:25] [Server thread/INFO]: Minecraft_xyzj >> ºÃÏñ½ø²»ÁËÁË[m
+[21:53:34] [Server thread/INFO]: ARocket07 >> Ó¦¸ÃÊÇ¸ü¼ÓÖÇÕÏ°É£¨¹·Í·[m
+[21:53:39] [Server thread/INFO]: Minecraft_xyzj >> ÑûÇëÖÆ¹ıÁË[m
+[21:54:12] [Server thread/INFO]: Minecraft_xyzj >> ºÃÏñcucÔİÊ±²»ÊÕÈËÁË[m
+[21:54:24] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÇ tape ÔõÃ´½øµÄ[m
+[21:54:31] [Server thread/INFO]: Minecraft_xyzj >> bzd[m
+[21:54:41] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÑĞÖÆÁËÒ»¸ö»ìÄıÍÁ»ú£¨£¿[m
+[21:54:43] [Server thread/INFO]: Twilight2033 >> ±¬¸Î½øµÄ[m
+[21:54:59] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ±¬¸ÎÁË18W¸ö»îÈû½øµÄ£¿[m
+[21:55:08] [Server thread/INFO]: Twilight2033 >> Ã²ËÆÊÇµÄ[m
+[21:55:16] [Server thread/INFO]: ARocket07 lost connection: Disconnected
+[21:55:16] [Server thread/INFO]: ARocket07 left the game
+[21:55:19] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¾ø[m
+[21:55:21] [Server thread/INFO]: Twilight2033 >> È»ºótapeµÄºìÊ¯»¹²»´íËùÒÔ¾Í½øÁË[m
+[21:55:24] [Server thread/INFO]: Minecraft_xyzj issued server command: /
+[21:58:13] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¡°ºÃ²»´í¡±[m
+[21:58:22] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¡°»¹²»´í¡±[m
+[21:59:14] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> tapeµÄºìÊ¯Ë®Æ½´ú±íÎÒÃÇÈ«·ş×î¸ßµÄºìÊ¯Ë®Æ½ ÆäÊµÒ²²¢Ã»ÓĞÄÇÃ´¸ßµÄ¶î£¨[m
+[21:59:28] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ºÜ¶à¶«Î÷Ëµ°×ÁË¶¼ÊÇ°áµÄ°¡£¨[m
+[21:59:45] [Server thread/INFO]: Minecraft_xyzj issued server command: /
+[21:59:56] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÜ×Ô¼ºÉè¼Æ³öÒ»¸öÊµÓÃ¼òµ¥µÄ»úÆ÷ÕæµÄºÜ¾Ã*[m
+[22:00:10] [Server thread/INFO]: Minecraft_xyzj issued server command: /
+[22:00:14] [Server thread/INFO]: Twilight2033 >> ÎÒ×öÉîÉ«Ê÷Ä¾Ê÷³¡¶¼×ö×Ô±ÕÁË[m
+[22:01:15] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> tapeÖ®Ç°ÔÚÎÒÑĞ¾¿·şÕû¹Ì»¯»úµÄÊ±ºò[m
+[22:01:31] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Èç¹û³ıÈ¥Ë®ÁúÍ·¶ËµÄ¸÷ÖÖbug£¨[m
+[22:01:51] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[22:02:13] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ëû×ö³öÀ´µÄ»úÆ÷ÎŞÂÛÊÇÌå»ı»¹ÊÇÊ²Ã´¶¼²¢²»³öÉ«£¨ËäÈ»ÕâºóÆÚÓÅ»¯Ò²²»ÄÑ£©[m
+[22:02:21] [Server thread/INFO]: Twilight2033 >> ÎÒÆäÊµÒ»Ö±ÏëÕÒÒ»Ğ©²»Ó°ÏìÎÒÍæºìÊ¯µÄ·şÎñÆ÷[m
+[22:02:33] [Server thread/INFO]: Twilight2033 >> ÏÖÔÚ¿ÕÓòÆäÊµºÃ¶àÁË£¨°É[m
+[22:02:33] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ö»ÒªÊÇ¹Ù·ş[m
+[22:02:36] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¾ø¶Ô²»Ó°Ïì[m
+[22:03:02] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ö»ÊÇ¹Ù·şÃ»²å¼ş£¨ ÏñxlÕâÖÖ¶ÔÍâ¿ª·ÅµÄ·şÎñÆ÷¸ù±¾²»¸Ò¿ª[m
+[22:03:28] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¹Ù·şÕû¸ö×Ô¼ºË½·ş»ùÓÑ·şÉ¶µÄ¾ÍÍ¦ºÃ ÍêÈ«Ã»ÌØĞÔ£¨[m
+[22:03:44] [Server thread/INFO]: Twilight2033 >> ±Ï¾¹xlµÄ·şÎñÆ÷¶¨Î»²»Í¬[m
+[22:03:46] [Server thread/INFO]: Minecraft_xyzj >> ÎÒ¿´ÏÖÔÚÓĞÒ»Ğ©ÃÈĞÂÒª½øcuc£¬µ«ÊÇ¹ÜÀíËµµÈÒ»¶ÎÊ±¼ä[m
+[22:04:13] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µÈ Ò»¶Î Ê±¼ä£¿àÅ£¿[m
+[22:04:15] [Server thread/INFO]: Minecraft_xyzj >> ÓĞÈË´Ó2ÔÂ2ÈÕµÈµ½ÁË½ñÌì¶¼Ã»½øÈ¥[m
+[22:04:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹ş¹ş¹ş[m
+[22:04:57] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> tapeÒ»ÊÖ¸ÎÖ±½Ó½øÁË£¨[m
+[22:05:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇÊÇ[m
+[22:05:09] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÆäÊµtape¹íµã×ÓÍ¦¶àµÄ£¨[m
+[22:05:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»ÒªÁ³¾ÍÄÜ½ø(bushi[m
+[22:05:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¶ÔÁË,Ï®»÷ËşÄãÒª²»Òª¿´¿´[m
+[22:05:31] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¾ÍÂÛËûÉÏ´ÎÄÇ¸ö ¹Ì»¯µÄÍÆÍÆÍÆ[m
+[22:05:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ·¢Í¶Ó°¸øÄã?[m
+[22:05:42] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ·¢´æµµ°Éawa[m
+[22:05:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[22:05:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÈ¥×¼±¸Ò»ÏÂ[m
+[22:05:58] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[22:05:58] [Server thread/INFO]: anew_tape left the game
+[22:06:11] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> (ÎÒÏÖÔÚµÄÏëÏóÁ¦ºÍ¹íµã×ÓÒÑ¾­±»Ó¦ÊÔ½ÌÓı¸ø¶óÉ±ÁË[m
+[22:06:36] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ×î¶à¾Í ÓÅ»¯ ÄãÃÇµÄ »úÆ÷ àÅ[m
+[22:06:40] [Server thread/INFO]: Minecraft_xyzj issued server command: /
+[22:07:16] [Server thread/INFO]: Minecraft_xyzj >> tape 1ÔÂ24¾Í½øÈ¥À²[m
+[22:07:30] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Å£ÍÜ[m
+[22:07:37] [Server thread/INFO]: Twilight2033 >> Å£µÄ[m
+[22:07:55] [Server thread/INFO]: Twilight2033 >> ¿ÉÏ§Ã»Ê±¼äÍæ[m
+[22:08:04] [Server thread/INFO]: Twilight2033 >> ÓĞÊ±¼äÒ²½ø²»È¥23[m
+[22:08:49] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[22:08:49] [Server thread/INFO]: Twilight2033 left the game
+[22:11:53] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[22:11:53] [Server thread/INFO]: Minecraft_xyzj left the game
+[22:14:48] [User Authenticator #21/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[22:14:48] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:56081] logged in with entity id 83013 at ([world]-526.9702624610571, 68.5, -524.0014051122457)
+[22:14:50] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[22:14:50] [Server thread/INFO]: Ghost_king_ left the game
+[22:15:59] [User Authenticator #22/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:15:59] [Server thread/INFO]: anew_tape[/127.0.0.1:56091] logged in with entity id 83770 at ([world]-519.0749999880791, 69.0, -452.9350000119209)
+[22:16:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ï®»÷Ëş»¹ÓĞºÃ¶àbug[m
+[22:16:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÈ²»·¢ÁË[m
+[22:16:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ¹À¼Æ»¹µÃ¸Ä[m
+[22:16:48] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[22:16:48] [Server thread/INFO]: Minecraft_xyzj left the game
+[22:16:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@16eec9bc[id=<null>,name=Ghost_king_,properties={},legacy=false] (/127.0.0.1:56096) lost connection: Disconnected
+[22:16:58] [User Authenticator #24/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[22:16:58] [Server thread/INFO]: Ghost_king_[/127.0.0.1:56105] logged in with entity id 84083 at ([world]5276.869654782491, 114.0, -619.4727732427979)
+[22:16:59] [User Authenticator #23/INFO]: Disconnecting /127.0.0.1:56096: Failed to verify username!
+[22:16:59] [User Authenticator #23/ERROR]: Username 'Ghost_king_' tried to join with an invalid session
+[22:17:02] [Server thread/INFO]: Ghost_king_ issued server command: /qd
+[22:17:02] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mGhost_king_ [0;33;22mÄ¿Ç°ÓĞ [0;32;1m386 [0;33;22m¹±Ï×µãÊı[m
+[22:17:03] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[22:17:03] [Server thread/INFO]: Ghost_king_ left the game
+[22:17:58] [User Authenticator #25/INFO]: Disconnecting com.mojang.authlib.GameProfile@3e42915b[id=<null>,name=Minecraft_xyzj,properties={},legacy=false] (/127.0.0.1:56113): Authentication servers are down. Please try again later, sorry!
+[22:17:58] [User Authenticator #25/ERROR]: Couldn't verify username because servers are unavailable
+[22:17:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@3e42915b[id=<null>,name=Minecraft_xyzj,properties={},legacy=false] (/127.0.0.1:56113) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:18:30] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@ef84106[id=<null>,name=Minecraft_xyzj,properties={},legacy=false] (/127.0.0.1:56116): Took too long to log in
+[22:18:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@ef84106[id=<null>,name=Minecraft_xyzj,properties={},legacy=false] (/127.0.0.1:56116) lost connection: Took too long to log in
+[22:18:31] [User Authenticator #26/INFO]: Disconnecting com.mojang.authlib.GameProfile@ef84106[id=<null>,name=Minecraft_xyzj,properties={},legacy=false] (/127.0.0.1:56116): Authentication servers are down. Please try again later, sorry!
+[22:18:31] [User Authenticator #26/ERROR]: Couldn't verify username because servers are unavailable
+[22:19:05] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@27a08263[id=<null>,name=Minecraft_xyzj,properties={},legacy=false] (/127.0.0.1:56124): Took too long to log in
+[22:19:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@27a08263[id=<null>,name=Minecraft_xyzj,properties={},legacy=false] (/127.0.0.1:56124) lost connection: Took too long to log in
+[22:19:12] [User Authenticator #27/INFO]: Disconnecting com.mojang.authlib.GameProfile@27a08263[id=<null>,name=Minecraft_xyzj,properties={},legacy=false] (/127.0.0.1:56124): Authentication servers are down. Please try again later, sorry!
+[22:19:12] [User Authenticator #27/ERROR]: Couldn't verify username because servers are unavailable
+[22:19:26] [User Authenticator #28/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[22:19:26] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:56128] logged in with entity id 85080 at ([world]-681.350219339881, 67.0, -466.90426855034985)
+[22:20:16] [Server thread/INFO]: Minecraft_xyzj >> ²Å·¢ÏÖtisÍâ·ş¹ØÁË...[m
+[22:20:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> az[m
+[22:21:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> tisÍâ·ş¸ÉÉ¶µÄ[m
+[22:22:08] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[22:22:08] [Server thread/INFO]: Minecraft_xyzj left the game
+[22:33:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> sen?[m
+[22:33:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÔÚ¸ÉÉ¶[m
+[22:34:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[22:34:42] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÔÚ¡£¡£¡£¡£[m
+[22:34:47] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÔÚ¸ÉÂï£¿[m
+[22:37:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÔÚ¸ÉÉ¶[m
+[22:38:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»¸ÉÉ¶[m
+[22:38:22] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÍæÊÖ»ú[m
+[22:38:24] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> (([m
+[22:39:02] [Server thread/WARN]: sen_lv_ling_ moved too quickly! -0.013704508774964097,-126.05207208453307,0.0
+[22:46:51] [User Authenticator #29/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[22:46:51] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:56297] logged in with entity id 95555 at ([world]-288.2325337514303, 68.54290439969097, -448.6269529678104)
+[22:49:48] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[22:49:48] [Server thread/INFO]: Minecraft_xyzj left the game
+[22:50:25] [Server thread/WARN]: sen_lv_ling_ moved too quickly! 0.0,-89.40444747103649,0.0
+[22:59:24] [User Authenticator #30/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[22:59:24] [Server thread/INFO]: Ghost_king_[/127.0.0.1:56349] logged in with entity id 105951 at ([world]5276.869654782491, 114.0, -619.4727732427979)
+[22:59:39] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Äã´æµµ·¢ÄÄÁË[m
+[22:59:58] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[22:59:58] [Server thread/INFO]: Ghost_king_ left the game
+[23:01:51] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[23:15:16] [User Authenticator #31/INFO]: UUID of player gendieyiyang is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[23:15:16] [Server thread/INFO]: gendieyiyang[/127.0.0.1:56412] logged in with entity id 110755 at ([world]-2021.3839342651447, 69.0, 9.909154107694967)
+[23:16:06] [Server thread/INFO]: gendieyiyang >> tapeÓÖÔÚµ·¹ÄÉ¶ÄØ[m
+[23:16:55] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[23:17:13] [Server thread/INFO]: YuHuaQingZhu issued server command: /co l 2
+[23:17:26] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[23:18:50] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[23:18:50] [Server thread/INFO]: sen_lv_ling_ left the game
+[23:21:50] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[23:22:06] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[23:22:06] [Server thread/INFO]: YuHuaQingZhu left the game
+[23:46:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> az[m
+[23:46:15] [Server thread/INFO]: gendieyiyang >> ¡­¡­[m
+[23:46:36] [Server thread/INFO]: gendieyiyang >> ËùÒÔÄãµ½µ×ÔÚµ·¹ÄÊ²Ã´¡¢[m
+[23:47:47] [Server thread/INFO]: gendieyiyang lost connection: Disconnected
+[23:47:47] [Server thread/INFO]: gendieyiyang left the game
+[23:51:33] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[23:51:33] [Server thread/INFO]: anew_tape left the game

@@ -1,0 +1,1026 @@
+[20:29:48] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[20:29:48] [Server thread/INFO]: Loading properties
+[20:29:49] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[20:29:49] [Server thread/INFO]: Debug logging is disabled
+[20:29:49] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[20:29:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:29:49] [Server thread/INFO]: Default game type: SURVIVAL
+[20:29:49] [Server thread/INFO]: Generating keypair
+[20:29:49] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[20:29:49] [Server thread/INFO]: Using default channel type
+[20:29:49] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:29:51] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[20:29:51] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[20:29:51] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[20:29:51] [Server thread/WARN]: Legacy plugin PlayerPoints v1.7.1 does not specify an api-version.
+[20:29:51] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[20:29:51] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[20:29:51] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[20:29:52] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[20:29:52] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[20:29:52] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[20:29:52] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[20:29:52] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[20:29:52] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[20:29:52] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[20:29:52] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v1.7.1
+[20:29:52] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[20:29:52] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[20:29:52] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[20:29:52] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[20:29:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:29:52] [Server thread/INFO]: Preparing level "world"
+[20:29:52] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:29:58] [Server thread/INFO]: Loaded 6 recipes
+[20:29:59] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:29:59] [Server thread/INFO]: View Distance: 12
+[20:29:59] [Server thread/INFO]: Mob Spawn Range: 4
+[20:29:59] [Server thread/INFO]: Experience Merge Radius: 8.0
+[20:29:59] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[20:29:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:29:59] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[20:29:59] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[20:29:59] [Server thread/INFO]: Max TNT Explosions: 100
+[20:29:59] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[20:29:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:29:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:29:59] [Server thread/INFO]: Item Despawn Rate: 3000
+[20:29:59] [Server thread/INFO]: Item Merge Radius: 8.0
+[20:29:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:29:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:29:59] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:29:59] [Server thread/INFO]: View Distance: 12
+[20:29:59] [Server thread/INFO]: Mob Spawn Range: 4
+[20:29:59] [Server thread/INFO]: Experience Merge Radius: 8.0
+[20:29:59] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[20:29:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:29:59] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[20:29:59] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[20:29:59] [Server thread/INFO]: Max TNT Explosions: 100
+[20:29:59] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[20:29:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:29:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:29:59] [Server thread/INFO]: Item Despawn Rate: 3000
+[20:29:59] [Server thread/INFO]: Item Merge Radius: 8.0
+[20:29:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:29:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:29:59] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:29:59] [Server thread/INFO]: View Distance: 12
+[20:29:59] [Server thread/INFO]: Mob Spawn Range: 4
+[20:29:59] [Server thread/INFO]: Experience Merge Radius: 8.0
+[20:29:59] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[20:29:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:29:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:29:59] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[20:29:59] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[20:29:59] [Server thread/INFO]: Max TNT Explosions: 100
+[20:29:59] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[20:29:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:29:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:29:59] [Server thread/INFO]: Item Despawn Rate: 3000
+[20:29:59] [Server thread/INFO]: Item Merge Radius: 8.0
+[20:29:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:29:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:29:59] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[20:29:59] [Server thread/INFO]: Preparing spawn area: 0%
+[20:29:59] [Server-Worker-2/INFO]: Preparing spawn area: 11%
+[20:30:00] [Server thread/INFO]: Preparing spawn area: 54%
+[20:30:00] [Server thread/INFO]: Preparing spawn area: 98%
+[20:30:01] [Server thread/INFO]: Preparing spawn area: 100%
+[20:30:01] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[20:30:01] [Server thread/INFO]: Time elapsed: 2022 ms
+[20:30:01] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[20:30:01] [Server thread/INFO]: Preparing spawn area: 0%
+[20:30:01] [Server thread/INFO]: Preparing spawn area: 95%
+[20:30:02] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[20:30:02] [Server thread/INFO]: Time elapsed: 849 ms
+[20:30:02] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[20:30:02] [Server thread/INFO]: Preparing spawn area: 0%
+[20:30:02] [Server thread/INFO]: Preparing spawn area: 100%
+[20:30:02] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[20:30:02] [Server thread/INFO]: Time elapsed: 553 ms
+[20:30:02] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[20:30:02] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[20:30:02] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[20:30:02] [Server thread/INFO]: --------------------
+[20:30:02] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[20:30:02] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[20:30:02] [Server thread/INFO]: --------------------
+[20:30:02] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[20:30:02] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[20:30:02] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[20:30:02] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[20:30:02] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[20:30:02] [Server thread/INFO]:  
+[20:30:02] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[20:30:02] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[20:30:02] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[20:30:02] [Server thread/INFO]:  
+[20:30:02] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[20:30:02] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[20:30:03] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[20:30:03] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[20:30:10] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   There is a new version available! [2.2.1]
+[]================================[]
+ 
+[20:30:10] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[20:30:10] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[20:30:10] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[20:30:10] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[20:30:10] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[20:30:10] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[20:30:10] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[20:30:10] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[20:30:10] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[20:30:10] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[20:30:10] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[20:30:10] [Server thread/INFO]: [EntityTrackerFixer] Vault not found! using default permission system...
+[20:30:10] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[20:30:10] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[20:30:10] [Server thread/INFO]: [SAML] Loading config.yml...
+[20:30:10] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[20:30:10] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[20:30:10] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[20:30:10] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[20:30:10] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[20:30:10] [Server thread/INFO]: [SAML] Loading messages.yml...
+[20:30:10] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[20:30:10] [Server thread/INFO]: [SAML] Successfully enabled.
+[20:30:10] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5*
+[20:30:10] [Server thread/INFO]: [ChatC] 聊天管理插件已启用！
+[20:30:10] [Server thread/INFO]: [ChatC] 聊天管理插件当前版本：V0.5 （2017年8月24日）
+[20:30:10] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[20:30:10] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v1.7.1*
+[20:30:10] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0*
+[20:30:10] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[20:30:10] [Server thread/INFO]: [GM+] Checking Your version...
+[20:30:10] [Server thread/INFO]: ===============================
+[20:30:10] [Server thread/INFO]: 
+[20:30:10] [Server thread/INFO]:  GroupManager+ is now enable!
+[20:30:10] [Server thread/INFO]:  
+[20:30:10] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[20:30:10] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[20:30:10] [Server thread/INFO]:  Current version: v3.3
+[20:30:10] [Server thread/INFO]:  
+[20:30:10] [Server thread/INFO]: ===============================
+[20:30:10] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[20:30:10] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[20:30:10] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[20:30:10] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[20:30:10] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[20:30:10] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1*
+[20:30:10] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[20:30:10] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[20:30:10] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[20:30:10] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[20:30:10] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[20:30:11] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[20:30:11] [Server thread/INFO]: [TAB] Enabled in 572ms
+[20:30:11] [Server thread/INFO]: Done (19.183s)! For help, type "help"
+[20:30:11] [Server thread/INFO]: Timings Reset
+[20:30:11] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[20:30:11] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[20:30:11] [Craft Scheduler Thread - 1/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[20:30:11] [Craft Scheduler Thread - 1/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[20:30:13] [Thread-18/INFO]: --------------------
+[20:30:13] [Thread-18/INFO]: [CoreProtect] Version 19.1 is now available.
+[20:30:13] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[20:30:13] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[20:30:13] [Thread-18/INFO]: --------------------
+[20:33:03] [User Authenticator #1/INFO]: UUID of player QingPo_TNT is 18ec9019-b2e4-470b-ad8e-8c0a448f998a
+[20:33:03] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[20:33:03] [Server thread/INFO]: QingPo_TNT[/127.0.0.1:50012] logged in with entity id 742 at ([world_the_end]44.39075552342052, 0.5, -453.16431417042327)
+[20:35:07] [User Authenticator #2/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[20:35:07] [Server thread/INFO]: Auston_mc[/127.0.0.1:50058] logged in with entity id 979 at ([world_nether]334.4468545506176, 115.0, 4.458441512518856)
+[20:40:05] [User Authenticator #3/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[20:40:05] [Server thread/INFO]: Jichen233[/127.0.0.1:50178] logged in with entity id 2366 at ([world]1093.699999988079, 65.0, -1780.7157294011056)
+[20:40:10] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[20:40:36] [Craft Scheduler Thread - 17/INFO]: AdvancedBan ? B_lastmess was successfully banned!
+[20:44:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@26c2e8e7[id=<null>,name=Ghost_king_,properties={},legacy=false] (/127.0.0.1:50263) lost connection: Disconnected
+[20:45:25] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[20:45:25] [Server thread/INFO]: Auston_mc left the game
+[20:45:39] [User Authenticator #4/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[20:45:39] [Server thread/INFO]: Auston_mc[/127.0.0.1:50293] logged in with entity id 4058 at ([world_nether]220.48420053594552, 115.0, 22.628979323014924)
+[20:46:30] [Server thread/WARN]: Auston_mc moved too quickly! -1650.3525717971738,16.220757814691666,-234.30000001192093
+[20:46:31] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:46:31] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:47:06] [User Authenticator #5/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[20:47:06] [Server thread/INFO]: Ghost_king_[/127.0.0.1:50324] logged in with entity id 4911 at ([world_nether]198.03620143622908, 116.39338254276429, 119.60514957364599)
+[20:49:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@70ed36ab[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:50366) lost connection: Disconnected
+[20:50:00] [User Authenticator #6/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[20:50:00] [Server thread/INFO]: adhesive_tape[/127.0.0.1:50378] logged in with entity id 7340 at ([world_nether]98.19763101801873, 114.0, 1036.3163050322512)
+[20:50:10] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[20:50:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@5286f3e[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:50396) lost connection: Disconnected
+[20:51:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@4fa979e5[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:50402) lost connection: Disconnected
+[20:51:56] [Server thread/INFO]: adhesive_tape >> 汵
+[20:52:00] [User Authenticator #7/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[20:52:00] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:50420] logged in with entity id 8796 at ([world_nether]-69.91259860615195, 66.0, 42.17734714452466)
+[20:52:49] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ?
+[20:52:53] [Server thread/INFO]: adhesive_tape >> 没事
+[20:52:55] [Server thread/INFO]: adhesive_tape >> 你
+[20:53:01] [Server thread/INFO]: adhesive_tape >> 先把地吞拆了
+[20:53:13] [Server thread/INFO]: adhesive_tape >> 我去单人研究小地吞
+[20:53:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@1265ac60[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:50444) lost connection: Disconnected
+[20:53:17] [Server thread/INFO]: adhesive_tape >> 快做好了
+[20:53:30] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 要不先做那一边的地听够
+[20:53:36] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 地吞沟
+[20:53:45] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我还是不想拆诶……
+[20:53:46] [Server thread/INFO]: adhesive_tape >> 我小地吞还没搞好
+[20:54:01] [Server thread/INFO]: adhesive_tape >> 搞好小地吞才能确定沟的位置
+[20:54:07] [Server thread/INFO]: Auston_mc >> 哪里要拆？
+[20:54:09] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？？？？
+[20:54:24] [Server thread/INFO]: adhesive_tape >> 拆
+[20:54:26] [Server thread/INFO]: adhesive_tape >> 赶紧拆
+[20:54:30] [User Authenticator #8/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:54:30] [Server thread/INFO]: Bay_Max_[/127.0.0.1:50469] logged in with entity id 11479 at ([world]-10983.211781671289, 73.0, 4040.854378061729)
+[20:54:31] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> （
+[20:54:41] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 真的不想拆
+[20:54:46] [Server thread/INFO]: adhesive_tape >> 那先留着
+[20:54:47] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 造费时间
+[20:55:22] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我们先做对面的地吞沟？
+[20:55:33] [Server thread/INFO]: adhesive_tape >> 我小地吞还没搞好。。。
+[20:55:54] [Server thread/INFO]: adhesive_tape >> 让我搞好了，确定
+[20:56:12] [Server thread/INFO]: Auston_mc has made the advancement [Ice Bucket Challenge]
+[20:56:13] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你要多宽啊 15格？
+[20:56:28] [User Authenticator #9/INFO]: Disconnecting com.mojang.authlib.GameProfile@65bcf120[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:50501): Authentication servers are down. Please try again later, sorry!
+[20:56:28] [User Authenticator #9/ERROR]: Couldn't verify username because servers are unavailable
+[20:56:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@65bcf120[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:50501) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:56:39] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[20:56:39] [Server thread/INFO]: Bay_Max_ left the game
+[20:56:43] [Server thread/INFO]: adhesive_tape >> 让我搞好了，确定地吞沟宽度之后再开工
+[20:57:03] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 那我先糊一面lava不介意吧
+[20:57:08] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 要两面
+[20:57:14] [Server thread/INFO]: adhesive_tape >> 啥两面
+[20:57:24] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 不是要两面lava墙吗
+[20:57:44] [User Authenticator #10/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[20:57:44] [Server thread/INFO]: North_dream[/127.0.0.1:50532] logged in with entity id 13360 at ([world]3735.299999974668, 64.0000002, 3692.299999974668)
+[20:57:50] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> az 你这边还有盾构没拆……
+[20:57:54] [Server thread/INFO]: adhesive_tape >> 地吞侧面的lava墙还是来去的lava墙
+[20:58:17] [Server thread/INFO]: adhesive_tape >> 拆啥呀
+[20:58:19] [Server thread/INFO]: adhesive_tape >> 开走呀
+[20:58:28] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我面对的这一面
+[20:58:38] [Server thread/INFO]: adhesive_tape >> 来去墙
+[20:58:39] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 岩浆墙
+[20:58:44] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 嗯
+[20:59:06] [Server thread/INFO]: adhesive_tape >> 先别搞把
+[20:59:10] [Server thread/INFO]: adhesive_tape >> 我还没确定好
+[20:59:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 每日凋零（2/1）
+[20:59:16] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 这一面不影响……
+[20:59:26] [Server thread/INFO]: <北梦曦>North_dream >> 最近别找我
+[20:59:29] [Server thread/INFO]: <北梦曦>North_dream >> 我在孤狼awa
+[20:59:33] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[21:00:01] [Server thread/INFO]: adhesive_tape >> 还是等一等我搞好了再做
+[21:00:06] [Server thread/INFO]: adhesive_tape >> 急不得
+[21:00:07] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你现在不就是没搞好小地吞 所以宽度不确定嘛
+[21:00:10] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[21:00:12] [Server thread/INFO]: adhesive_tape >> 对呀
+[21:00:17] [Server thread/INFO]: <北梦曦>North_dream >> 有事烧纸
+[21:00:24] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 先搞一面墙不影响宽度啊
+[21:00:53] [Server thread/INFO]: adhesive_tape >> 问题是，这面墙位置不对还得改
+[21:01:07] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 为什么会位置不对
+[21:01:23] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你可以调整另一面 另一面还没做呢
+[21:01:38] [Server thread/INFO]: adhesive_tape >> 多一格少一格排水机都会影响
+[21:01:52] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 不是……
+[21:02:00] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 一个地吞沟需要两面墙是吧
+[21:02:16] [Server thread/INFO]: adhesive_tape >> en
+[21:02:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我确定一面墙的位置 再确定宽度 不就能确定另一面墙的位置了吗
+[21:02:39] [Server thread/INFO]: QingPo_TNT was slain by Enderman
+[21:02:51] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我先把一个面墙搞了 然后你把小地吞研究出来 宽度也就出来了 再糊另一面墙
+[21:03:01] [Server thread/INFO]: adhesive_tape >> 可以
+[21:03:05] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我是这个意思……
+[21:03:16] [Server thread/INFO]: adhesive_tape >> 那就这吧
+[21:03:48] [Server thread/INFO]: adhesive_tape >> 你把东西南北坐标标一下
+[21:03:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 早就标好了
+[21:04:00] [Server thread/INFO]: adhesive_tape >> [name:south, x:177, y:68, z:1040, dim:-1, world:地狱]
+[21:04:04] [Server thread/INFO]: adhesive_tape >> ok
+[21:04:12] [Server thread/INFO]: adhesive_tape >> 我先单人测试去了
+[21:04:15] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 帮我拆下地狱岩 我把这个开走
+[21:04:18] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 这里
+[21:04:21] [Server thread/INFO]: North_dream lost connection: Disconnected
+[21:04:22] [Server thread/INFO]: North_dream left the game
+[21:04:31] [User Authenticator #11/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[21:04:31] [Server thread/INFO]: North_dream[/127.0.0.1:50663] logged in with entity id 16616 at ([world]3735.300000011921, 64.0, 3694.927954869389)
+[21:05:11] [Server thread/INFO]: adhesive_tape >> 算了
+[21:05:13] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 岩浆清理下？
+[21:05:14] [Server thread/INFO]: adhesive_tape >> 不影响
+[21:05:23] [Server thread/INFO]: <北梦曦>North_dream >> 有没有人来陪我awa
+[21:05:36] [Server thread/INFO]: adhesive_tape >> 得到
+[21:05:38] [Server thread/INFO]: adhesive_tape >> 等等
+[21:06:10] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 奢侈 用海晶灯
+[21:06:23] [Server thread/INFO]: adhesive_tape >> 1
+[21:06:26] [Server thread/INFO]: <北梦曦>North_dream >> 真的没人来陪我吗awa
+[21:06:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你不是孤狼嘛
+[21:06:39] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 别用珍珠 下面岩浆湖
+[21:06:43] [Server thread/INFO]: <北梦曦>North_dream >> awa
+[21:06:44] [Server thread/INFO]: adhesive_tape >> 1
+[21:06:47] [Server thread/INFO]: <北梦曦>North_dream >> 算了
+[21:06:50] [Server thread/INFO]: adhesive_tape >> 2
+[21:06:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> where
+[21:07:00] [Server thread/INFO]: adhesive_tape >> 1
+[21:07:01] [Server thread/INFO]: <北梦曦>North_dream >> 咕就咕
+[21:07:04] [Server thread/INFO]: <北梦曦>North_dream >> awa
+[21:07:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 哪儿！！！
+[21:07:38] [User Authenticator #12/INFO]: UUID of player xxuurruuii is e4032104-ba08-4db3-82a0-d4f7323bcaf4
+[21:07:38] [Server thread/INFO]: xxuurruuii[/127.0.0.1:50724] logged in with entity id 23483 at ([world]4386.696899558512, 40.0, 3930.699999988079)
+[21:07:38] [Server thread/INFO]: adhesive_tape >> 再开几格
+[21:08:00] [Server thread/INFO]: adhesive_tape >> 1'
+[21:08:07] [Server thread/INFO]: <北梦曦>North_dream >> 我不知道我在哪
+[21:08:20] [Server thread/INFO]: adhesive_tape >> 2
+[21:08:25] [Server thread/INFO]: xxuurruuii issued server command: /co i
+[21:08:37] [Server thread/INFO]: xxuurruuii issued server command: /co i
+[21:08:46] [Server thread/INFO]: adhesive_tape >> 1
+[21:09:13] [Server thread/ERROR]: Could not pass event PlayerChatEvent to ChatC v0.5
+java.lang.IllegalArgumentException: character to be escaped is missing
+	at java.util.regex.Matcher.appendReplacement(Unknown Source) ~[?:1.8.0_181]
+	at java.util.regex.Matcher.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.String.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at cf.cc7w.ChatC.ChatC.onchat(ChatC.java:247) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor33.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:559) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection$5.evaluate(PlayerConnection.java:1743) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.util.Waitable.run(Waitable.java:25) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1198) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[21:09:13] [Server thread/INFO]: <adhesive_tape> 1\
+[21:09:42] [Server thread/INFO]: adhesive_tape >> ok
+[21:09:45] [Server thread/INFO]: adhesive_tape >> 进去了
+[21:09:46] [Server thread/WARN]: QingPo_TNT moved too quickly! -4.289148629149963,31.591521970860768,-1.1680137830580293
+[21:09:53] [Server thread/INFO]: North_dream issued server command: /tell sen_lv_ling_ 3714 3804
+[21:10:01] [Server thread/INFO]: adhesive_tape >> 停吧
+[21:10:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:10:10] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[21:10:26] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 进去了awa
+[21:10:33] [Server thread/INFO]: adhesive_tape >> 你还要挖一格宽的沟
+[21:10:39] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 嗯
+[21:10:45] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 这个就必须得手动拉……
+[21:10:55] [Server thread/INFO]: adhesive_tape >> 我单人去了
+[21:10:56] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[21:10:56] [Server thread/INFO]: adhesive_tape left the game
+[21:10:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我先确定中间点
+[21:11:22] [Server thread/INFO]: <北梦曦>North_dream >> 来了吗
+[21:11:27] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 没
+[21:11:35] [Server thread/INFO]: <北梦曦>North_dream >> (
+[21:12:46] [Server thread/WARN]: Jichen233 moved wrongly!
+[21:12:50] [Server thread/INFO]: <全服最菜> xxuurruuii >> 紫晶差不多凉了（
+[21:12:52] [Server thread/INFO]: <北梦曦>North_dream >> 来了吗
+[21:12:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 出发
+[21:13:09] [Server thread/INFO]: <北梦曦>North_dream >> yffs沉迷女色(
+[21:13:14] [Server thread/INFO]: Auston_mc >> ?
+[21:13:18] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？
+[21:13:20] [Server thread/INFO]: <全服最菜> xxuurruuii >> 不是模组服（
+[21:13:24] [Server thread/INFO]: <全服最菜> xxuurruuii >> 不,是模组服（
+[21:13:39] [Server thread/INFO]: xxuurruuii lost connection: Disconnected
+[21:13:39] [Server thread/INFO]: xxuurruuii left the game
+[21:13:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 女人哪有游戏好玩（
+[21:13:47] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> awa
+[21:13:55] [Server thread/INFO]: <北梦曦>North_dream >> az
+[21:14:00] [Server thread/INFO]: Auston_mc >> 你不是女的，森语？
+[21:14:00] [Server thread/INFO]: <北梦曦>North_dream >> 一语双关
+[21:14:04] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> - -
+[21:14:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你才女的
+[21:14:27] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 森语是大老爷们
+[21:14:43] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 打王者开麦的时候声音贼好听（
+[21:14:44] [Server thread/INFO]: QingPo_TNT was slain by Enderman
+[21:14:49] [Server thread/INFO]: Auston_mc >> 北梦：awa
+[21:15:00] [Server thread/INFO]: <北梦曦>North_dream >> az
+[21:15:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[21:15:10] [Server thread/INFO]: <北梦曦>North_dream >> 我也不知道我的性别了
+[21:15:13] [Server thread/INFO]: <北梦曦>North_dream >> (
+[21:15:15] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[21:15:20] [Server thread/INFO]: <北梦曦>North_dream >> 你们说我是女的我就说女的吧
+[21:15:20] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hen tai
+[21:15:36] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 众所周知 北梦是女的（误
+[21:15:46] [Server thread/INFO]: <北梦曦>North_dream >> (
+[21:16:42] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 找熊猫去了
+[21:16:45] [Server thread/INFO]: <北梦曦>North_dream >> e
+[21:16:55] [Server thread/INFO]: <北梦曦>North_dream >> 没有照明方块
+[21:16:59] [Server thread/INFO]: <北梦曦>North_dream >> 只能用火了
+[21:17:09] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你这儿离鱼塔挺近的
+[21:17:15] [Server thread/INFO]: <北梦曦>North_dream >> az
+[21:18:04] [Server thread/WARN]: Jichen233 moved wrongly!
+[21:18:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 害 得下了
+[21:18:31] [Server thread/INFO]: QingPo_TNT >> 铁砧是一格还是一格半啊
+[21:18:33] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[21:18:42] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 明天再搞
+[21:18:44] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[21:18:44] [Server thread/INFO]: Ghost_king_ left the game
+[21:20:21] [Server thread/INFO]: QingPo_TNT >> 铁砧是一格还是一格半啊
+[21:24:11] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[21:24:15] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[21:24:49] [User Authenticator #13/INFO]: UUID of player Xcccc is 63bb2a94-5624-441f-82a4-de6bbd70ad8d
+[21:24:49] [Server thread/INFO]: Xcccc[/127.0.0.1:51047] logged in with entity id 40550 at ([world]-312.30669457372056, 75.0, -295.0517015827248)
+[21:25:31] [Server thread/INFO]: <北梦曦>North_dream >> 好无聊
+[21:25:35] [Server thread/INFO]: <北梦曦>North_dream >> 不咕了
+[21:25:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:25:40] [Server thread/INFO]: <北梦曦>North_dream >> 还是去看炸膛awa
+[21:26:04] [User Authenticator #14/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[21:26:04] [Server thread/INFO]: Twilight2033[/127.0.0.1:51073] logged in with entity id 41563 at ([world]5327.699999988079, 51.0, -680.2431378653384)
+[21:26:08] [Server thread/INFO]: <北梦曦>North_dream >> ???
+[21:26:15] [Server thread/INFO]: <北梦曦>North_dream >> az
+[21:26:39] [Server thread/INFO]: Twilight2033 >> 6
+[21:26:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> [x:4883, y:65, z:7673]
+[21:26:50] [Server thread/INFO]: <北梦曦>North_dream >> az
+[21:26:52] [Server thread/INFO]: Twilight2033 >> 我刚刚发现一个bug
+[21:26:52] [Server thread/INFO]: <北梦曦>North_dream >> 这是
+[21:26:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 竹林
+[21:27:04] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 雨林
+[21:27:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 有学苦力怕的鹦鹉
+[21:27:44] [Server thread/WARN]: Auston_mc moved too quickly! 14.53993743440651,-0.7336320060424768,-7.691188984007056
+[21:27:47] [Server thread/INFO]: Twilight2033 >> 我来抓鹦鹉了
+[21:27:54] [Server thread/INFO]: <北梦曦>North_dream >> 怕门弄斧
+[21:28:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 没熊猫就离谱
+[21:28:03] [Server thread/INFO]: Twilight2033 >> 等会
+[21:28:15] [Server thread/INFO]: Twilight2033 >> sen_lv_ling_你不也是苦力怕吗
+[21:28:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[21:28:21] [Server thread/INFO]: <北梦曦>North_dream >> 那你nishi
+[21:28:26] [Server thread/INFO]: <北梦曦>North_dream >> 那是溺尸
+[21:28:35] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 溺尸苦力怕
+[21:28:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 2333
+[21:28:55] [Server thread/INFO]: Jichen233 >> 苦力怕世界(
+[21:29:03] [Server thread/INFO]: Twilight2033 >> 我刚刚发现一个透视bug
+[21:29:20] [Server thread/INFO]: Twilight2033 fell from a high place
+[21:29:22] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 难受，不刷熊猫
+[21:29:54] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[21:29:54] [Server thread/INFO]: Auston_mc left the game
+[21:30:10] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[21:30:11] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[21:31:23] [User Authenticator #15/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[21:31:23] [Server thread/INFO]: Auston_mc[/127.0.0.1:51175] logged in with entity id 49053 at ([world]2682.2284148289173, 63.0, -305.0070811770533)
+[21:31:38] [Server thread/INFO]: <北梦曦>North_dream >> 我再也不玩孤狼了aw
+[21:31:41] [Server thread/INFO]: <北梦曦>North_dream >> 不好玩aw
+[21:31:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[21:32:03] [Server thread/WARN]: Auston_mc moved too quickly! 2.600797911243717,-0.756759288177264,-9.883236581897847
+[21:33:10] [Server thread/WARN]: Auston_mc moved too quickly! -7.847967417250857,0.0,6.577244207093713
+[21:33:25] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[21:33:25] [Server thread/INFO]: Auston_mc left the game
+[21:34:11] [User Authenticator #16/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[21:34:11] [Server thread/INFO]: Auston_mc[/127.0.0.1:51232] logged in with entity id 52917 at ([world]2659.585842533452, 58.0, -316.00128001984217)
+[21:34:13] [Server thread/INFO]: Twilight2033 >> QingPo_TNT
+[21:34:23] [Server thread/INFO]: Twilight2033 >> 你不会再肝猪人塔吧
+[21:35:53] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[21:35:53] [Server thread/INFO]: Auston_mc left the game
+[21:38:19] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[21:38:48] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[21:40:32] [User Authenticator #17/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[21:40:32] [Server thread/INFO]: Auston_mc[/127.0.0.1:51355] logged in with entity id 58951 at ([world]2611.86508029606, 66.33319999363422, -280.62425576797995)
+[21:40:55] [Server thread/INFO]: QingPo_TNT >> 我再末地拿了一组铁砧
+[21:41:02] [Server thread/INFO]: QingPo_TNT >> 没
+[21:41:14] [Server thread/INFO]: QingPo_TNT >> 猪人塔不是等你们破基岩吗
+[21:41:23] [Server thread/INFO]: Twilight2033 >> 早破开了
+[21:41:33] [Server thread/INFO]: Twilight2033 >> 紫晶地狱门上面就有
+[21:41:33] [Server thread/WARN]: Jichen233 moved wrongly!
+[21:41:35] [Server thread/INFO]: QingPo_TNT >> 找几个一块肝吧
+[21:41:41] [Server thread/INFO]: QingPo_TNT >> 找几个人一块肝吧
+[21:41:50] [Server thread/INFO]: Twilight2033 >> 杰森应该会来
+[21:41:53] [Server thread/INFO]: QingPo_TNT >> 太麻烦了
+[21:41:58] [Server thread/INFO]: Twilight2033 >> qs
+[21:42:28] [Server thread/INFO]: QingPo_TNT was slain by Enderman
+[21:42:32] [Server thread/INFO]: Twilight2033 >> az
+[21:42:33] [Server thread/INFO]: QingPo_TNT >> woc
+[21:43:04] [Server thread/INFO]: QingPo_TNT >> wo tu le
+[21:43:38] [Server thread/INFO]: QingPo_TNT >> 我重新整改了一下小黑塔
+[21:43:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[21:43:46] [Server thread/INFO]: QingPo_TNT >> 失控了= =
+[21:44:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 希望你改的好
+[21:44:23] [Server thread/INFO]: QingPo_TNT >> 改好了，就是不能看眼睛
+[21:44:29] [Server thread/INFO]: QingPo_TNT >> 我给挡一下就好了
+[21:44:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[21:44:31] [Server thread/INFO]: Auston_mc >> ?
+[21:44:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我想问的是有啥问题需要改
+[21:45:10] [Server thread/INFO]: Twilight2033 fell from a high place
+[21:45:16] [Server thread/INFO]: QingPo_TNT >> 没啥问题了。我在想怎么能挂机。。
+[21:45:33] [Server thread/INFO]: Auston_mc >> 不要想挂机了
+[21:45:59] [Server thread/INFO]: Twilight2033 fell from a high place
+[21:46:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 一个生命恢复的信标，一个连点不就行了
+[21:46:02] [Server thread/INFO]: Twilight2033 >> ?
+[21:46:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 改啥？
+[21:46:49] [Server thread/INFO]: Twilight2033 >> 出大问题
+[21:47:37] [Server thread/INFO]: QingPo_TNT >> 有几只小黑会瞬移出来。。
+[21:47:42] [Server thread/INFO]: QingPo_TNT >> 我在想怎么解决。。
+[21:47:52] [Server thread/INFO]: Twilight2033 >> 这个没法解决
+[21:48:02] [Server thread/INFO]: QingPo_TNT >> 头顶铺一层防水
+[21:48:03] [Server thread/INFO]: Twilight2033 >> 最多放铁傀儡
+[21:48:18] [Server thread/INFO]: Twilight2033 >> 我想赶来末地救你财产的
+[21:48:20] [Server thread/INFO]: QingPo_TNT >> 放水应该会好吧
+[21:48:21] [Server thread/INFO]: Twilight2033 >> 来不及了
+[21:48:30] [Server thread/INFO]: QingPo_TNT >> 来得及，我已经到了
+[21:48:40] [Server thread/INFO]: Twilight2033 >> 然后我死了俩次
+[21:48:44] [Server thread/INFO]: QingPo_TNT >> eee
+[21:48:47] [Server thread/INFO]: QingPo_TNT >> 你去哪了
+[21:48:53] [Server thread/INFO]: Twilight2033 >> 惊险
+[21:49:02] [Server thread/INFO]: Twilight2033 >> 紫晶地狱塔底层
+[21:49:25] [Server thread/INFO]: QingPo_TNT >> eeee底层有只马，掉下去的时候可以骑一下
+[21:49:32] [Server thread/INFO]: QingPo_TNT >> 刚好不用弹起来
+[21:49:44] [Server thread/WARN]: Twilight2033 moved too quickly! -4184.775472415744,18.878703159460812,-1318.4914874065837
+[21:50:21] [Server thread/INFO]: Twilight2033 >> moshuang今晚上线了吗
+[21:50:45] [Server thread/INFO]: Twilight2033 >> QingPo_TNT
+[21:50:50] [Server thread/INFO]: QingPo_TNT >> ?
+[21:50:55] [Server thread/INFO]: QingPo_TNT >> 我不知道啊
+[21:51:16] [Server thread/INFO]: Twilight2033 >> az
+[21:51:25] [Server thread/INFO]: Twilight2033 >> yysy都去整地狱交通了
+[21:51:32] [Server thread/INFO]: Twilight2033 >> 末地没人管
+[21:52:47] [Server thread/INFO]: QingPo_TNT >> 总有几只跑出来，好烦
+[21:55:03] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[21:55:03] [Server thread/INFO]: Auston_mc left the game
+[21:58:38] [Server thread/INFO]: QingPo_TNT >> 我感觉就差羊毛毯了
+[21:59:13] [Server thread/INFO]: Twilight2033 >> 说出来你们可能不信
+[21:59:19] [Server thread/INFO]: Twilight2033 >> 我发现一条活塞虫
+[21:59:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 末地经常见
+[22:00:12] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[22:00:12] [Server thread/INFO]: sen_lv_ling_ left the game
+[22:00:17] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[22:00:21] [User Authenticator #18/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[22:00:21] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:51721] logged in with entity id 86780 at ([world]4889.699999988079, 62.0, 7694.699999988079)
+[22:00:33] [Server thread/INFO]: Twilight2033 >> 绝了还差不到
+[22:00:38] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[22:00:49] [Server thread/INFO]: QingPo_TNT >> 鱼塔在哪啊。。。家里没吃点了
+[22:02:16] [Server thread/INFO]: QingPo_TNT >> 鱼塔再紫晶塔下面还是别的地方啊
+[22:02:26] [Server thread/INFO]: Twilight2033 >> 紫晶就有
+[22:02:31] [Server thread/INFO]: QingPo_TNT >> z在哪
+[22:02:34] [Server thread/INFO]: Twilight2033 >> 不是最底层那个
+[22:02:42] [Server thread/INFO]: Twilight2033 >> 楼梯中间有个口
+[22:02:45] [Server thread/INFO]: QingPo_TNT >> o o
+[22:02:48] [Server thread/INFO]: North_dream lost connection: Disconnected
+[22:02:48] [Server thread/INFO]: North_dream left the game
+[22:03:35] [Server thread/INFO]: Twilight2033 >> 可惜一个末影箱了
+[22:03:44] [Server thread/INFO]: Twilight2033 >> 这吧着急了
+[22:04:07] [Server thread/INFO]: Twilight2033 was slain by Enderman
+[22:04:12] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[22:04:12] [Server thread/INFO]: sen_lv_ling_ left the game
+[22:04:23] [Server thread/INFO]: Twilight2033 >> az
+[22:04:26] [User Authenticator #19/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[22:04:26] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:51796] logged in with entity id 91235 at ([world]4889.699999988079, 62.0, 7694.670005927031)
+[22:04:29] [Server thread/INFO]: Twilight2033 >> 丢了一盒东西
+[22:04:33] [Server thread/INFO]: Twilight2033 >> shit
+[22:05:51] [Server thread/INFO]: Twilight2033 >> 艹血压高了
+[22:06:04] [Server thread/INFO]: Twilight2033 >> 丢的貌似是备用鞘翅盒
+[22:06:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 所以带身上干嘛
+[22:06:29] [Server thread/INFO]: QingPo_TNT >> ..........
+[22:06:32] [Server thread/INFO]: Twilight2033 >> 忘记放进末影箱了
+[22:06:41] [Server thread/INFO]: Twilight2033 >> o等会
+[22:06:45] [Server thread/INFO]: Twilight2033 >> 拿出来了
+[22:06:53] [Server thread/INFO]: Twilight2033 >> 鞘翅拿出来用了
+[22:06:55] [Server thread/INFO]: Twilight2033 >> 那没事了
+[22:07:13] [Server thread/INFO]: Twilight2033 >> 靠盒子好贵
+[22:07:21] [Server thread/INFO]: Twilight2033 >> 司马末影人
+[22:10:06] [Server thread/INFO]: QingPo_TNT >> 问题来了，这鱼塔在这挂机就行吗
+[22:10:15] [Server thread/INFO]: Twilight2033 >> 要去主世界
+[22:10:21] [Server thread/INFO]: QingPo_TNT >> 我再主事吉
+[22:10:24] [Server thread/INFO]: QingPo_TNT >> 主世界
+[22:10:25] [Server thread/INFO]: Twilight2033 >> 对
+[22:10:26] [Server thread/INFO]: Twilight2033 >> 等会
+[22:10:31] [Server thread/INFO]: Twilight2033 >> 为和平关了吗
+[22:10:32] [Server thread/INFO]: QingPo_TNT >> 玻璃这挂机就行？
+[22:10:39] [Server thread/INFO]: QingPo_TNT >> 哪里关
+[22:10:40] [Server thread/INFO]: Twilight2033 >> 对
+[22:10:43] [Server thread/INFO]: Twilight2033 >> az
+[22:11:16] [Server thread/INFO]: [SAML] TPS low (17.72). Will attempt to freeze some mobs...
+[22:11:16] [Server thread/INFO]: [SAML] 957 mobs affected (957 frozen, 0 nerfed) in 173ms. Total of 964/1758 affected (957 frozen, 182 nerfed).
+[22:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5047ms or 100 ticks behind
+[22:12:19] [Server thread/INFO]: [SAML] TPS low (16.41). Will attempt to freeze some mobs...
+[22:12:19] [Server thread/INFO]: [SAML] 427 mobs affected (427 frozen, 0 nerfed) in 154ms. Total of 1344/2042 affected (1343 frozen, 168 nerfed).
+[22:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[22:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6612ms or 132 ticks behind
+[22:13:30] [Server thread/INFO]: [SAML] TPS low (16.14). Will attempt to freeze some mobs...
+[22:13:30] [Server thread/INFO]: [SAML] 219 mobs affected (219 frozen, 0 nerfed) in 161ms. Total of 1487/2321 affected (1486 frozen, 204 nerfed).
+[22:13:39] [Server thread/INFO]: Twilight2033 >> 完tps下去了
+[22:13:46] [Server thread/INFO]: Twilight2033 >> 你真没关
+[22:13:59] [Server thread/INFO]: QingPo_TNT >> 哪里关。。
+[22:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10202ms or 204 ticks behind
+[22:14:13] [Server thread/INFO]: Twilight2033 >> 其实我没关过
+[22:14:22] [Server thread/INFO]: QingPo_TNT >> 我离远点吧
+[22:14:32] [Server thread/INFO]: Twilight2033 >> 没用的
+[22:14:37] [Server thread/INFO]: Twilight2033 >> 我去把
+[22:14:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7255ms or 145 ticks behind
+[22:14:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这就是大佬嘛
+[22:14:38] [Server thread/WARN]: QingPo_TNT moved wrongly!
+[22:14:45] [Server thread/INFO]: [SAML] TPS low (17.08). Will attempt to freeze some mobs...
+[22:14:45] [Server thread/INFO]: [SAML] 83 mobs affected (83 frozen, 0 nerfed) in 94ms. Total of 335/1150 affected (334 frozen, 265 nerfed).
+[22:15:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[22:15:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> tps还在降
+[22:15:44] [Server thread/INFO]: Twilight2033 >> 别刷了
+[22:15:46] [Server thread/INFO]: Twilight2033 >> 推出去
+[22:15:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8999ms or 179 ticks behind
+[22:15:56] [Server thread/INFO]: Twilight2033 >> 这玩意影响全服的
+[22:16:40] [Server thread/INFO]: TPS from last 1m, 5m, 15m: *20.0, 17.28, 18.99
+[22:16:51] [Server thread/WARN]: 58e372e7-be3c-4968-a9b0-2d2a966b2f4e (vehicle of QingPo_TNT) moved wrongly!
+[22:16:51] [Server thread/WARN]: 58e372e7-be3c-4968-a9b0-2d2a966b2f4e (vehicle of QingPo_TNT) moved wrongly!
+[22:17:27] [Server thread/INFO]: QingPo_TNT >> ....
+[22:18:57] [Server thread/INFO]: Twilight2033 >> 你下去挂机池
+[22:19:06] [Server thread/INFO]: Twilight2033 >> 我顺道看看如何
+[22:19:24] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[22:19:30] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[22:20:12] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[22:20:12] [Server thread/INFO]: sen_lv_ling_ left the game
+[22:20:21] [User Authenticator #20/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[22:20:21] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:52086] logged in with entity id 108945 at ([world]2773.299999974668, 63.0000002, -388.700000025332)
+[22:21:17] [Server thread/INFO]: Twilight2033 >> 你挂机刷吧
+[22:21:22] [Server thread/INFO]: QingPo_TNT >> en
+[22:21:25] [Server thread/INFO]: Twilight2033 >> 我去刷点凋零
+[22:21:28] [Server thread/INFO]: QingPo_TNT >> 那我去吃个饭
+[22:21:40] [Server thread/INFO]: Twilight2033 >> 吃晚饭？
+[22:21:44] [Server thread/INFO]: QingPo_TNT >> en
+[22:22:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 请问你改啥了
+[22:22:30] [User Authenticator #21/INFO]: UUID of player QingPo_TNT is 18ec9019-b2e4-470b-ad8e-8c0a448f998a
+[22:22:30] [Server thread/INFO]: QingPo_TNT lost connection: You logged in from another location
+[22:22:30] [Server thread/INFO]: QingPo_TNT left the game
+[22:22:30] [Server thread/INFO]: QingPo_TNT[/127.0.0.1:52128] logged in with entity id 111805 at ([world]7795.952071910234, 70.0, -1965.302104471849)
+[22:22:30] [Server thread/WARN]: handleDisconnection() called twice
+[22:23:43] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 小黑塔你改啥了
+[22:24:10] [Server thread/INFO]: Twilight2033 >> a他吃饭了
+[22:24:15] [Server thread/INFO]: Twilight2033 >> az
+[22:24:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 双层地毯部分变成了单层就离谱
+[22:29:18] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[22:29:18] [Server thread/INFO]: Twilight2033 left the game
+[22:29:23] [Server thread/WARN]: Jichen233 moved wrongly!
+[22:29:32] [Server thread/INFO]: Xcccc lost connection: Disconnected
+[22:29:32] [Server thread/INFO]: Xcccc left the game
+[22:30:58] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[22:30:58] [Server thread/INFO]: Jichen233 left the game
+[22:30:59] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[22:34:50] [User Authenticator #22/INFO]: Disconnecting com.mojang.authlib.GameProfile@44fad38a[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:52332): Authentication servers are down. Please try again later, sorry!
+[22:34:50] [User Authenticator #22/ERROR]: Couldn't verify username because servers are unavailable
+[22:34:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@44fad38a[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:52332) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:35:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@70c07b34[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:52342) lost connection: Disconnected
+[22:35:20] [User Authenticator #22/INFO]: Disconnecting com.mojang.authlib.GameProfile@70c07b34[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:52342): Authentication servers are down. Please try again later, sorry!
+[22:35:20] [User Authenticator #22/ERROR]: Couldn't verify username because servers are unavailable
+[22:35:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@1156bf1e[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:52348) lost connection: Disconnected
+[22:35:33] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:35:37] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:35:39] [User Authenticator #22/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[22:35:39] [Server thread/INFO]: Jichen233[/127.0.0.1:52352] logged in with entity id 132214 at ([world]1082.5448285118773, 63.0, -1754.5922763973117)
+[22:42:41] [Server thread/INFO]: QingPo_TNT >> 小黑塔我是自己做了一格、
+[22:42:45] [Server thread/INFO]: QingPo_TNT >> 小黑塔我是自己做了一个
+[22:42:48] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> - -
+[22:43:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 所以谁拆的地毯，
+[22:43:02] [Server thread/INFO]: QingPo_TNT >> 我改我做的
+[22:43:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 就离谱
+[22:43:05] [User Authenticator #23/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[22:43:05] [Server thread/INFO]: Twilight2033[/127.0.0.1:52476] logged in with entity id 141421 at ([world_nether]955.4256748648268, 74.0, -126.7910619368843)
+[22:43:07] [Server thread/INFO]: QingPo_TNT >> 不知道
+[22:43:20] [Server thread/INFO]: QingPo_TNT >> 那个小黑塔，我再半路上掉下去了
+[22:43:23] [Server thread/INFO]: QingPo_TNT >> 就没去了
+[22:43:33] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! -0.27692213533191534,0.0,34.07092153870394
+[22:43:46] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 是不是坐船坐的 - -
+[22:44:05] [Server thread/INFO]: QingPo_TNT >> 是
+[22:44:15] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 看见告示牌没
+[22:44:25] [Server thread/INFO]: QingPo_TNT >> 坐一半护栏是半砖那个
+[22:44:31] [Server thread/INFO]: QingPo_TNT >> 哪个牌
+[22:44:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 写着不要在有顶的地方下船
+[22:44:40] [Server thread/WARN]: QingPo_TNT moved too quickly! -0.01952174925474992,-0.7800000607967377,-14.507829672470194
+[22:44:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 会掉虚空
+[22:45:03] [Server thread/INFO]: QingPo_TNT >> 没见
+[22:48:03] [Server thread/WARN]: QingPo_TNT moved too quickly! 5.875702646436366,0.24299753675219904,-10.915345905672764
+[22:48:08] [Server thread/INFO]: Twilight2033 >> 我吐了刷怪塔产量
+[22:50:15] [Server thread/INFO]: QingPo_TNT lost connection: Timed out
+[22:50:15] [Server thread/INFO]: QingPo_TNT left the game
+[22:50:45] [User Authenticator #24/INFO]: UUID of player QingPo_TNT is 18ec9019-b2e4-470b-ad8e-8c0a448f998a
+[22:50:45] [Server thread/INFO]: QingPo_TNT[/127.0.0.1:52618] logged in with entity id 148647 at ([world]5621.12245293818, 72.0, -57.0541242513176)
+[22:51:47] [Server thread/INFO]: QingPo_TNT >> 我拿一组羊毛
+[22:52:25] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:52:30] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[22:52:35] [Server thread/INFO]: Twilight2033 >> 记得没事补补仓库物资
+[22:52:44] [Server thread/INFO]: QingPo_TNT >> 嗯
+[22:52:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 交给后勤
+[22:52:59] [Server thread/INFO]: QingPo_TNT >> ？
+[22:53:07] [Server thread/INFO]: QingPo_TNT >> 不是直接放箱子里？
+[22:53:14] [Server thread/INFO]: Jichen233 >> ...
+[22:53:18] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[22:54:22] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你们最近有啥工程不
+[22:54:36] [Server thread/INFO]: Twilight2033 >> 有啊
+[22:54:47] [Server thread/INFO]: Twilight2033 >> 只不过yffs先放鸽子了
+[22:54:47] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啥
+[22:54:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[22:55:44] [Server thread/INFO]: Twilight2033 >> 真要说工程
+[22:55:57] [Server thread/INFO]: Twilight2033 >> 也就我那私人工程地下城了吧
+[22:56:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 山挖完了？
+[22:56:26] [Server thread/INFO]: Twilight2033 >> 没
+[22:56:33] [Server thread/INFO]: Twilight2033 >> 一个人速度没那么快的
+[22:56:35] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> wtm
+[22:56:48] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 刷铁机里面的僵尸和村民没见了
+[22:57:07] [Server thread/INFO]: Jichen233 >> ??
+[22:57:12] [Server thread/INFO]: Jichen233 >> 不是吧不是吧
+[22:57:53] [Server thread/INFO]: QingPo_TNT >> 这个我第一次来末地就没了啊
+[22:58:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[22:58:09] [Server thread/INFO]: Twilight2033 >> yysy
+[22:58:11] [Server thread/INFO]: Twilight2033 >> qs
+[22:58:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 自家的刷铁机
+[22:58:20] [Server thread/INFO]: QingPo_TNT >> 不是拿去做末地的村民交易了？
+[22:59:41] [User Authenticator #25/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:59:41] [Server thread/INFO]: adhesive_tape[/127.0.0.1:52769] logged in with entity id 155553 at ([world_nether]114.64574597371782, 113.0, 1037.5629111606677)
+[23:00:06] [Server thread/INFO]: QingPo_TNT >> 我们有树场吗
+[23:00:17] [Server thread/INFO]: Twilight2033 >> 啊你这
+[23:00:22] [Server thread/INFO]: adhesive_tape >> 吃瓜群众下线
+[23:00:24] [Server thread/INFO]: QingPo_TNT >> 我没木头
+[23:00:27] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[23:00:43] [Server thread/INFO]: Jichen233 >> zzz
+[23:00:44] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[23:00:44] [Server thread/INFO]: Jichen233 left the game
+[23:00:50] [Server thread/INFO]: Twilight2033 >> 我可以说目前全服最强的树场就在紫晶。。。。。
+[23:00:55] [Server thread/INFO]: QingPo_TNT >> 家里就32块木板
+[23:00:55] [Server thread/INFO]: Twilight2033 >> 你竟然不知道
+[23:00:59] [Server thread/INFO]: QingPo_TNT >> 额。。。。。
+[23:01:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[23:01:02] [Server thread/INFO]: QingPo_TNT >> .......
+[23:01:09] [Server thread/INFO]: adhesive_tape >> 我单人测试去了
+[23:01:11] [Server thread/INFO]: QingPo_TNT >> 在哪里
+[23:01:19] [Server thread/INFO]: adhesive_tape >> 可能等下会上线
+[23:01:20] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[23:01:20] [Server thread/INFO]: adhesive_tape left the game
+[23:01:43] [Server thread/INFO]: Twilight2033 >> 村民交易所旁边那座东西
+[23:01:52] [Server thread/INFO]: Twilight2033 >> 我估计你不会用
+[23:02:01] [Server thread/INFO]: Twilight2033 >> 基本第一次用的人都用炸了
+[23:02:07] [Server thread/INFO]: QingPo_TNT >> 不知道不会。。。我连交易所在哪都不知道
+[23:02:08] [Server thread/INFO]: Twilight2033 >> 比如北梦awa
+[23:02:32] [Server thread/INFO]: QingPo_TNT >> 我好像看见了。。
+[23:03:08] [Server thread/INFO]: QingPo_TNT >> 没用使用说明吗
+[23:03:21] [Server thread/INFO]: Twilight2033 >> 我写着
+[23:03:30] [Server thread/INFO]: QingPo_TNT >> 看见了。。
+[23:03:41] [Server thread/INFO]: Twilight2033 >> 其实我写也没有
+[23:03:43] [Server thread/INFO]: Twilight2033 >> 用
+[23:03:54] [Server thread/INFO]: Twilight2033 >> 因为依然第一次就用炸
+[23:05:58] [Server thread/INFO]: Twilight2033 >> az没炸吗
+[23:06:02] [Server thread/INFO]: QingPo_TNT >> eeee
+[23:06:07] [Server thread/WARN]: QingPo_TNT moved wrongly!
+[23:06:13] [Server thread/INFO]: Twilight2033 >> 有点感动
+[23:06:38] [Server thread/WARN]: QingPo_TNT moved wrongly!
+[23:09:15] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[23:09:17] [User Authenticator #26/INFO]: Disconnecting com.mojang.authlib.GameProfile@34bfc3fd[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52941): Authentication servers are down. Please try again later, sorry!
+[23:09:17] [User Authenticator #26/ERROR]: Couldn't verify username because servers are unavailable
+[23:09:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@34bfc3fd[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:52941) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:09:20] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[23:10:01] [User Authenticator #26/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[23:10:01] [Server thread/INFO]: Crushxl[/127.0.0.1:52961] logged in with entity id 160659 at ([world]3247.351031176374, 208.72954719028303, 450.46737964382066)
+[23:10:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这里
+[23:10:08] [Server thread/INFO]: Twilight2033 >> 我去
+[23:10:10] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[23:10:14] [Server thread/INFO]: Twilight2033 >> 小泠上服了
+[23:10:16] [Server thread/INFO]: Twilight2033 >> 活久见
+[23:10:18] [Server thread/INFO]: Crushxl issued server command: /tp Crushxl 2633 100 -319
+[23:10:18] [Server thread/INFO]: [Crushxl: Teleported Crushxl to 2633.5, 100.0, -318.5]
+[23:11:05] [Server thread/INFO]: Crushxl issued server command: /co i a:kill r:10 t:1d
+[23:11:17] [Server thread/INFO]: Crushxl issued server command: /co l a:kill r:10 t:1d
+[23:11:18] [Server thread/INFO]: QingPo_TNT >> 太好用了
+[23:11:19] [Server thread/INFO]: Crushxl issued server command: /co i
+[23:11:33] [Server thread/INFO]: Twilight2033 >> 别刷太快
+[23:11:35] [Server thread/INFO]: Twilight2033 >> 会卡膛
+[23:11:39] [Server thread/INFO]: QingPo_TNT >> en
+[23:11:46] [Server thread/INFO]: Twilight2033 >> 你
+[23:11:49] [Server thread/INFO]: Twilight2033 >> 用炸了
+[23:11:53] [Server thread/INFO]: Twilight2033 >> 。。。。。。。。。。。
+[23:11:54] [Server thread/INFO]: QingPo_TNT >> eeee
+[23:11:56] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[23:12:11] [Server thread/INFO]: Twilight2033 >> 害我还是把橡树模式扣了吧
+[23:12:16] [Server thread/WARN]: Crushxl was kicked due to keepalive timeout!
+[23:12:16] [Server thread/INFO]: Crushxl lost connection: Timed out
+[23:12:16] [Server thread/INFO]: Crushxl left the game
+[23:12:16] [Server thread/WARN]: handleDisconnection() called twice
+[23:12:22] [Server thread/INFO]: Twilight2033 >> 别刷了等我回来修
+[23:12:28] [Server thread/INFO]: QingPo_TNT >> 好吧
+[23:12:32] [Server thread/INFO]: Twilight2033 >> 我去整地狱为和平开关
+[23:14:03] [Server thread/INFO]: Twilight2033 >> 你刚刚整了一个最阴间的操作
+[23:14:14] [Server thread/INFO]: Twilight2033 >> 你来回打开橡树模式
+[23:14:25] [Server thread/INFO]: QingPo_TNT >> 额。。
+[23:14:28] [Server thread/INFO]: Twilight2033 >> 然后还在途中刷了颗树
+[23:14:39] [Server thread/INFO]: Twilight2033 >> 必炸无疑
+[23:14:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[23:14:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 6
+[23:14:46] [Server thread/INFO]: CoreProtect - Lookup searching. Please wait...
+[23:14:46] [Thread-218/INFO]: ----- CoreProtect Lookup Results -----
+[23:14:46] [Thread-218/INFO]: 0.22/h ago - #lava placed lava.
+[23:14:46] [Thread-218/INFO]:                  ^ (x5604/y66/z-20/world_nether)
+[23:14:51] [Thread-219/INFO]: ----- CoreProtect Update -----
+[23:14:51] [Thread-219/INFO]: Notice: CoreProtect v19.1 is now available.
+[23:14:51] [Thread-219/INFO]: Download: www.coreprotect.net/download/
+[23:14:52] [Server thread/INFO]: QingPo_TNT >> 没在中途刷啊，我关了再放的树苗
+[23:14:54] [Server thread/INFO]: QingPo_TNT >> 好吧
+[23:15:05] [Server thread/INFO]: Twilight2033 >> 2号开关
+[23:15:10] [Server thread/INFO]: Twilight2033 >> 也就是橡树模式
+[23:15:23] [Server thread/INFO]: Twilight2033 >> 这玩意开关别乱开
+[23:15:24] [Server thread/INFO]: QingPo_TNT >> 我用的1号。。。
+[23:15:46] [Server thread/INFO]: Twilight2033 >> 害降块都下来了
+[23:15:54] [Server thread/INFO]: CoreProtect - Please use "/co l <params>".
+[23:16:00] [Server thread/INFO]: Twilight2033 >> 你碰了2号开关了吧
+[23:16:07] [Server thread/INFO]: QingPo_TNT >> 没有啊
+[23:16:16] [Server thread/INFO]: Twilight2033 >> 那还是用炸了
+[23:16:21] [Server thread/INFO]: QingPo_TNT >> 可能是把我卡进墙了那次
+[23:16:22] [Server thread/INFO]: CoreProtect - Please use "/co l <params>".
+[23:16:27] [Server thread/INFO]: QingPo_TNT >> 进去碰到了蜘蛛丝
+[23:16:29] [Server thread/INFO]: Twilight2033 >> 那个没关系的
+[23:16:37] [User Authenticator #27/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[23:16:37] [Server thread/INFO]: Crushxl[/127.0.0.1:53095] logged in with entity id 164955 at ([world]2655.4331957830686, 98.5063286692376, -316.9529176527742)
+[23:16:42] [Server thread/INFO]: Twilight2033 >> 蜘蛛丝我存粹为了防止刷怪
+[23:16:48] [Server thread/INFO]: QingPo_TNT >> 好吧
+[23:16:49] [Server thread/INFO]: Twilight2033 >> 别刷了你拿现成的
+[23:16:56] [Server thread/INFO]: Twilight2033 >> 等我修好再刷
+[23:17:00] [Server thread/INFO]: QingPo_TNT >> en
+[23:17:15] [Server thread/INFO]: Twilight2033 >> 除了傻瓜树场
+[23:17:22] [Server thread/INFO]: Crushxl issued server command: /co l a:block
+[23:17:30] [Server thread/INFO]: Twilight2033 >> 我就没见哪个镇的多树种树场是好的
+[23:17:36] [Server thread/INFO]: Crushxl issued server command: /co l a:lava t:1h
+[23:17:39] [Server thread/INFO]: Twilight2033 >> 除了我这个天天修的
+[23:17:43] [Server thread/INFO]: Crushxl issued server command: /co l a:block
+[23:19:30] [Server thread/INFO]: Twilight2033 >> 所以你看
+[23:19:37] [Server thread/INFO]: Twilight2033 >> 地下城遥遥无期
+[23:19:51] [Server thread/INFO]: QingPo_TNT >> 我跟你一块挖？
+[23:19:51] [Server thread/INFO]: Crushxl issued server command: /co l r:+block b:#lava t:0.3h
+[23:19:54] [Server thread/INFO]: Twilight2033 >> 我成天会因为别的事东奔西跑
+[23:19:58] [Server thread/INFO]: Crushxl issued server command: /co l r:+block b:lava t:0.3h
+[23:20:02] [Server thread/INFO]: Twilight2033 >> 不用我自己一个人好把控
+[23:20:04] [Server thread/INFO]: Crushxl issued server command: /co l r:+block b:lava t:0.3h r:10
+[23:20:06] [Server thread/INFO]: QingPo_TNT >> hao ba
+[23:20:14] [Server thread/INFO]: Twilight2033 >> 别人帮我不知道我规划
+[23:20:26] [Server thread/INFO]: Crushxl issued server command: /co l a:kill r:10 t:1d
+[23:20:40] [Server thread/INFO]: Crushxl issued server command: /co l 2
+[23:20:59] [Server thread/INFO]: Twilight2033 lost connection: Timed out
+[23:20:59] [Server thread/INFO]: Twilight2033 left the game
+[23:21:04] [Server thread/INFO]: <服主> Crushxl >> phantom是什么
+[23:21:08] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[23:21:32] [Server thread/INFO]: Crushxl issued server command: /co l 1
+[23:21:35] [User Authenticator #28/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[23:21:35] [Server thread/INFO]: Twilight2033[/127.0.0.1:53187] logged in with entity id 169577 at ([world_nether]643.0729869983822, 114.0, 32.124821223485064)
+[23:21:52] [Server thread/INFO]: Twilight2033 >> 不等会
+[23:21:57] [Server thread/INFO]: Twilight2033 >> 我仔细想想
+[23:22:03] [Server thread/INFO]: Twilight2033 >> 就算你帮我
+[23:22:07] [Server thread/INFO]: Twilight2033 >> 你有效率五吗
+[23:22:14] [Server thread/INFO]: QingPo_TNT >> 有啊
+[23:22:26] [Server thread/INFO]: Crushxl issued server command: /tp Crushxl 2660 66 -318
+[23:22:26] [Server thread/INFO]: [Crushxl: Teleported Crushxl to 2660.5, 66.0, -317.5]
+[23:22:40] [Server thread/INFO]: Twilight2033 >> az
+[23:22:42] [Server thread/INFO]: Twilight2033 >> 那么快
+[23:22:45] [Server thread/INFO]: Crushxl issued server command: /co l a:kill r:10 t:1d
+[23:22:49] [Server thread/INFO]: Crushxl issued server command: /co l a:kill r:10 t:2d
+[23:22:58] [Server thread/INFO]: Crushxl issued server command: /co l a:kill r:10 t:3d
+[23:23:00] [Server thread/INFO]: QingPo_TNT >> 我整天刷经验附魔的。。。怎么可能没有
+[23:23:03] [Server thread/INFO]: Crushxl issued server command: /co l 2
+[23:23:15] [Server thread/INFO]: Crushxl issued server command: /co l a:kill r:10 t:3d
+[23:23:20] [Server thread/INFO]: QingPo_TNT >> 我丢了两把效率5了
+[23:23:22] [Server thread/INFO]: Crushxl issued server command: /co l2
+[23:23:24] [Server thread/INFO]: Crushxl issued server command: /co l 2
+[23:23:27] [Server thread/INFO]: Crushxl issued server command: /co l 3
+[23:23:35] [Server thread/INFO]: Crushxl issued server command: /co l 4
+[23:23:37] [Server thread/INFO]: Crushxl issued server command: /co l 5
+[23:23:40] [Server thread/INFO]: Crushxl issued server command: /co l 6
+[23:23:44] [Server thread/INFO]: Crushxl issued server command: /co l 8
+[23:23:47] [Server thread/INFO]: Crushxl issued server command: /co l 10
+[23:23:57] [Server thread/INFO]: Twilight2033 >> 不知道为什么
+[23:23:58] [Server thread/INFO]: Crushxl issued server command: /co l a:kill r:10 t:1d
+[23:24:07] [Server thread/INFO]: Twilight2033 >> 地狱反而关了迷雾效果好看’
+[23:24:25] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[23:24:25] [Server thread/INFO]: sen_lv_ling_ left the game
+[23:24:31] [Server thread/INFO]: Crushxl issued server command: /co l a:kill r:5 t:3d
+[23:24:57] [User Authenticator #29/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[23:24:57] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:53249] logged in with entity id 173558 at ([world]2663.6597307623165, 99.0625, -318.3191669075249)
+[23:25:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 幻翼
+[23:25:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> phantom
+[23:25:14] [Server thread/INFO]: Crushxl issued server command: /co l a:kill r:10 t:1d
+[23:25:25] [Server thread/INFO]: Crushxl issued server command: /co l a:kill r:10 t:2d
+[23:25:30] [Server thread/INFO]: Crushxl issued server command: /co l 2
+[23:25:32] [Server thread/INFO]: Crushxl issued server command: /co l 3
+[23:25:35] [Server thread/INFO]: Crushxl issued server command: /co l 4
+[23:25:37] [Server thread/INFO]: Crushxl issued server command: /co l 5
+[23:25:41] [Server thread/INFO]: Crushxl issued server command: /co l 13
+[23:25:47] [Server thread/INFO]: Crushxl issued server command: /co l 12
+[23:25:49] [Server thread/INFO]: Crushxl issued server command: /co l 11
+[23:26:05] [Server thread/INFO]: Crushxl issued server command: /co l a:kill r:5 t:3d
+[23:26:07] [User Authenticator #30/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[23:26:07] [Server thread/INFO]: Auston_mc[/127.0.0.1:53274] logged in with entity id 174974 at ([world_nether]329.89344766434743, 114.55000001192093, 21.54405853640586)
+[23:26:24] [Server thread/INFO]: Crushxl issued server command: /co l a:+block t:3d r:5
+[23:26:30] [Server thread/INFO]: Crushxl issued server command: /co l 2
+[23:26:32] [Server thread/INFO]: Crushxl issued server command: /co l 3
+[23:26:34] [Server thread/INFO]: Crushxl issued server command: /co l 4
+[23:26:36] [Server thread/INFO]: Crushxl issued server command: /co l 5
+[23:26:38] [Server thread/INFO]: Crushxl issued server command: /co l 6
+[23:26:40] [Server thread/INFO]: Crushxl issued server command: /co l 7
+[23:26:45] [Server thread/INFO]: Crushxl issued server command: /co l 8
+[23:26:47] [Server thread/INFO]: Crushxl issued server command: /co l 9
+[23:26:51] [Server thread/INFO]: Crushxl issued server command: /co l 10
+[23:26:52] [Server thread/WARN]: Auston_mc moved too quickly! 16.335495707904556,0.3015347236627832,-0.1159887637323962
+[23:26:54] [Server thread/INFO]: Crushxl issued server command: /co l 11
+[23:26:56] [Server thread/INFO]: Crushxl issued server command: /co l 12
+[23:26:58] [Server thread/INFO]: Crushxl issued server command: /co l 13
+[23:27:00] [Server thread/INFO]: Crushxl issued server command: /co l 14
+[23:27:02] [Server thread/INFO]: Crushxl issued server command: /co l 15
+[23:27:05] [Server thread/INFO]: Crushxl issued server command: /co l 150
+[23:27:09] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[23:27:09] [Server thread/INFO]: Auston_mc left the game
+[23:27:10] [Server thread/INFO]: Crushxl issued server command: /co l 155
+[23:27:12] [Server thread/INFO]: Crushxl issued server command: /co l 160
+[23:27:15] [Server thread/INFO]: Crushxl issued server command: /co l 165
+[23:27:18] [Server thread/INFO]: Crushxl issued server command: /co l 170
+[23:27:21] [Server thread/INFO]: Crushxl issued server command: /co l 175
+[23:27:23] [Server thread/INFO]: Crushxl issued server command: /co l 180
+[23:27:25] [Server thread/INFO]: Crushxl issued server command: /co l 181
+[23:27:28] [Server thread/INFO]: Crushxl issued server command: /co l 185
+[23:27:31] [Server thread/INFO]: Crushxl issued server command: /co l 190
+[23:28:37] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[23:28:58] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[23:29:34] [Server thread/INFO]: Crushxl issued server command: /co l a:+block t:2d r:5
+[23:29:38] [Server thread/INFO]: Crushxl issued server command: /co l 310
+[23:30:46] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[23:30:46] [Server thread/INFO]: Crushxl left the game
+[23:30:59] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[23:31:43] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[23:31:43] [Server thread/INFO]: sen_lv_ling_ left the game
+[23:42:09] [Server thread/INFO]: Twilight2033 >> 靠
+[23:42:11] [Server thread/INFO]: Twilight2033 >> 下了
+[23:42:15] [Server thread/INFO]: Twilight2033 >> 累炸
+[23:42:17] [Server thread/INFO]: QingPo_TNT >> e
+[23:42:27] [Server thread/INFO]: Twilight2033 >> 果然修不了树场
+[23:42:33] [Server thread/INFO]: QingPo_TNT >> 额额。。。
+[23:42:38] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[23:42:38] [Server thread/INFO]: Twilight2033 left the game
+[23:51:34] [Server thread/INFO]: QingPo_TNT lost connection: Timed out
+[23:51:34] [Server thread/INFO]: QingPo_TNT left the game
+[23:51:48] [User Authenticator #31/INFO]: UUID of player QingPo_TNT is 18ec9019-b2e4-470b-ad8e-8c0a448f998a
+[23:51:48] [Server thread/INFO]: QingPo_TNT[/127.0.0.1:53731] logged in with entity id 181935 at ([world_the_end]42.37400764432804, 0.5, -455.49962282153604)
+[23:53:23] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! 0.0,0.0,36.64656559665161
+[23:53:23] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! 0.0,0.0,38.44198210577696
+[23:53:23] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! 0.0,0.0,40.241297705661
+[23:53:23] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! 0.0,0.0,42.044434414562886
+[23:53:23] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! 0.0,0.0,43.85131581037518
+[23:53:23] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! 0.0,0.0,45.66186699943114
+[23:53:23] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! 0.0,0.0,47.476014585935786
+[23:53:23] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! 0.0,0.0,49.29368664200882
+[23:53:23] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! 0.0,0.0,51.114812678326075
+[23:53:24] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! 0.0,0.0,-21.703295615484024
+[23:53:32] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! 0.0,0.0,33.073711900545675
+[23:53:32] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! -7.976171909831464E-4,0.0,34.73291525805985
+[23:53:50] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! -0.625,0.0,39.32117261729576
+[23:53:50] [Server thread/WARN]: Boat (vehicle of QingPo_TNT) moved too quickly! -0.625,0.0,41.07929295943691
+[23:54:03] [Server thread/WARN]: QingPo_TNT was kicked due to keepalive timeout!
+[23:54:03] [Server thread/INFO]: QingPo_TNT lost connection: Timed out
+[23:54:03] [Server thread/INFO]: QingPo_TNT left the game
+[23:54:03] [Server thread/WARN]: handleDisconnection() called twice
+[23:55:16] [User Authenticator #32/INFO]: UUID of player QingPo_TNT is 18ec9019-b2e4-470b-ad8e-8c0a448f998a
+[23:55:16] [Server thread/INFO]: QingPo_TNT[/127.0.0.1:53796] logged in with entity id 182382 at ([world_the_end]41.6875, 44.47160001039505, -227.68460470179096)
+[23:55:34] [Server thread/INFO]: QingPo_TNT fell out of the world
+[23:56:52] [Server thread/WARN]: QingPo_TNT moved too quickly! -0.8545239598670378,3.5684761547292805,-16.71643660226259
+[23:58:16] [Server thread/INFO]: QingPo_TNT lost connection: Timed out
+[23:58:16] [Server thread/INFO]: QingPo_TNT left the game

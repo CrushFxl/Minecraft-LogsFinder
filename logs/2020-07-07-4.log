@@ -1,0 +1,17 @@
+[23:07:46] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[23:07:46] [Server thread/INFO]: Loading properties
+[23:07:46] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[23:07:47] [Server thread/INFO]: Debug logging is disabled
+[23:07:47] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[23:07:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:07:47] [Server thread/INFO]: Default game type: SURVIVAL
+[23:07:47] [Server thread/INFO]: Generating keypair
+[23:07:47] [Server thread/INFO]: Starting Minecraft server on 103.45.161.27:25565
+[23:07:47] [Server thread/INFO]: Using default channel type
+[23:07:47] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[23:07:47] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
+[23:07:47] [Server thread/WARN]: Perhaps a server is already running on that port?
+[23:07:47] [Server thread/INFO]: Stopping server
+[23:07:47] [Server thread/INFO]: Saving players
+[23:07:47] [Server thread/INFO]: Saving worlds
+[23:07:47] [Server thread/INFO]: Saving usercache.json

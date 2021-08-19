@@ -1,0 +1,64 @@
+[00:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[01:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[02:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[03:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[04:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[05:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[06:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[07:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[08:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[09:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[10:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[10:57:46] [User Authenticator #776/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[10:57:46] [Server thread/INFO]: anew_tape[/127.0.0.1:57731] logged in with entity id 8531045 at ([world]3067.1266482812007, 11.5, 17.901481972454086)
+[11:02:25] [Server thread/INFO]: anew_tape issued server command: /qd
+[11:02:25] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1manew_tape [0;33;22mÄ¿Ç°ÓĞ [0;32;1m132 [0;33;22m¹±Ï×µãÊı[m
+[11:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[11:23:40] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[11:23:40] [Server thread/INFO]: anew_tape left the game
+[11:23:49] [User Authenticator #777/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[11:23:49] [Server thread/INFO]: anew_tape[/127.0.0.1:58039] logged in with entity id 8532093 at ([world]3048.2356848272584, 6.0, -90.82054817380066)
+[11:26:09] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[11:26:09] [Server thread/INFO]: anew_tape left the game
+[11:26:12] [User Authenticator #778/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[11:26:13] [Server thread/INFO]: anew_tape[/127.0.0.1:58055] logged in with entity id 8532191 at ([world]3040.8317782795093, 6.0, -53.07657052885662)
+[11:49:48] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+[12:12:39] [Server thread/INFO]: anew_tape issued server command: /co i
+[12:13:31] [Server thread/INFO]: anew_tape issued server command: /co i
+[12:13:41] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1manew_tape [0;33;22mÄ¿Ç°ÓĞ [0;32;1m133 [0;33;22m¹±Ï×µãÊı[m
+[12:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[12:25:23] [Server thread/INFO]: anew_tape issued server command: /co i
+[12:25:32] [Server thread/INFO]: anew_tape issued server command: /co i
+[12:58:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> kkkkk[m
+[12:59:30] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[12:59:30] [Server thread/INFO]: anew_tape left the game
+[13:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[13:55:18] [User Authenticator #779/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[13:55:18] [Server thread/INFO]: anew_tape[/127.0.0.1:58887] logged in with entity id 8540459 at ([world]3061.5, 5.5, 43.5)
+[14:11:32] [Server thread/WARN]: anew_tape moved wrongly!
+[14:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[14:14:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> anew_tape[m
+[14:16:44] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[14:16:44] [Server thread/INFO]: anew_tape left the game
+[15:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[16:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[17:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[18:03:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@158bf5ad[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:60282) lost connection: Disconnected
+[18:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[19:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[20:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[21:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[21:30:28] [User Authenticator #780/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[21:30:28] [Server thread/INFO]: anew_tape[/127.0.0.1:61544] logged in with entity id 8545594 at ([world]3041.340907049692, 6.0, 52.386588423840486)
+[21:37:03] [User Authenticator #781/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[21:37:03] [Server thread/INFO]: Security_Winter[/127.0.0.1:61582] logged in with entity id 8546864 at ([world]3095.5893021388197, 6.0, 45.0866565674931)
+[21:37:28] [Server thread/INFO]: Security_Winter issued server command: /qd
+[21:37:28] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mSecurity_Winter [0;33;22mÄ¿Ç°ÓĞ [0;32;1m72 [0;33;22m¹±Ï×µãÊı[m
+[21:37:59] [Server thread/INFO]: Security_Winter >> ÈËÄØtape[m
+[21:39:22] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[21:39:22] [Server thread/INFO]: anew_tape left the game
+[21:39:54] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[21:39:54] [Server thread/INFO]: Security_Winter left the game
+[22:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[23:13:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m

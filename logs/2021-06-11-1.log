@@ -1,0 +1,940 @@
+[00:21:08] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[00:21:08] [Server thread/INFO]: YuHuaQingZhu left the game
+[00:57:15] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[01:57:15] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[02:57:15] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[03:57:15] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[04:57:15] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[05:57:15] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[06:57:13] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[07:57:13] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[08:57:13] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[09:57:13] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[10:57:13] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[11:57:13] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[12:32:48] [User Authenticator #62/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[12:32:48] [Server thread/INFO]: Twilight2033[/127.0.0.1:56291] logged in with entity id 661788 at ([world]6880.575441620598, 86.0, -501.6501147422604)
+[12:32:58] [Server thread/INFO]: Twilight2033 issued server command: /qd
+[12:32:58] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mTwilight2033 [0;33;22mÄ¿Ç°ÓĞ [0;32;1m2 [0;33;22m¹±Ï×µãÊı[m
+[12:33:31] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[12:33:31] [Server thread/INFO]: Twilight2033 left the game
+[12:57:13] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[13:57:13] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[14:57:13] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[15:57:13] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[16:31:12] [User Authenticator #63/INFO]: UUID of player Cherisss is 207d836e-4ee8-4734-8b9c-c527468e3653
+[16:31:12] [Server thread/INFO]: Cherisss[/127.0.0.1:57395] logged in with entity id 662031 at ([world]-1218.1847457111544, 69.0, -7389.862500011921)
+[16:32:01] [Server thread/INFO]: Cherisss issued server command: /chatc
+[16:32:06] [Server thread/INFO]: Cherisss issued server command: /chatc info
+[16:32:22] [Server thread/INFO]: Cherisss issued server command: /onlinerewards:or
+[16:32:32] [Server thread/INFO]: Cherisss >> .[m
+[16:33:29] [Server thread/INFO]: Cherisss issued server command: /co i
+[16:34:02] [Server thread/INFO]: Cherisss issued server command: /co i
+[16:34:17] [Server thread/INFO]: Cherisss lost connection: Disconnected
+[16:34:17] [Server thread/INFO]: Cherisss left the game
+[16:37:13] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[16:57:13] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[17:38:26] [User Authenticator #64/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[17:38:26] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:57889] logged in with entity id 662480 at ([world]5225.100981875652, 107.875, -513.7245601113032)
+[17:38:41] [User Authenticator #65/INFO]: UUID of player Saligiald_Memory is 2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931
+[17:38:41] [Server thread/INFO]: Saligiald_Memory[/127.0.0.1:57893] logged in with entity id 662752 at ([world]7699.300000011921, 65.0, -1355.0809022174074)
+[17:43:43] [Server thread/WARN]: YuHuaQingZhu moved too quickly! -0.05204303009304567,-0.756759288177264,-15.033303251979987
+[17:44:24] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved wrongly! 0.33594054032431586
+[17:44:24] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved wrongly! 0.309766213783746
+[17:57:14] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[17:58:23] [Server thread/INFO]: Saligiald_Memory lost connection: Disconnected
+[17:58:23] [Server thread/INFO]: Saligiald_Memory left the game
+[17:58:26] [User Authenticator #66/INFO]: UUID of player Saligiald_Memory is 2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931
+[17:58:26] [Server thread/INFO]: Saligiald_Memory[/127.0.0.1:58068] logged in with entity id 674138 at ([world_nether]139.05214953166544, 115.5625, 228.01611777789316)
+[18:00:52] [Server thread/INFO]: Saligiald_Memory has made the advancement [Into Fire]
+[18:03:53] [Server thread/WARN]: Saligiald_Memory moved too quickly! 756.1743568712889,23.945106652967926,1879.5098552162665
+[18:05:52] [User Authenticator #67/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[18:05:52] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:58120] logged in with entity id 678446 at ([world_the_end]196.0308154920538, 42.0, -321.15732202435055)
+[18:06:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[18:06:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Saligiald_Memory[m
+[18:07:15] [Server thread/INFO]: Saligiald_Memory >> ?[m
+[18:07:20] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ĞÂÈËÃ´£¨[m
+[18:07:32] [Server thread/INFO]: Saligiald_Memory >> ÊÇ[m
+[18:07:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÕâÀïÄÃ¶«Î÷[m
+[18:08:07] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ëæ±ãÄÃ[m
+[18:08:12] [Server thread/INFO]: Saligiald_Memory >> Ğ»Ğ»[m
+[18:08:37] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[18:08:41] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[18:09:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> È±É¶ºÍÎÒËµ[m
+[18:09:50] [Server thread/INFO]: Saligiald_Memory >> Ğ»Ğ»Äã[m
+[18:10:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ½»Ò×ÕÒÎÒ¾ÍĞĞ[m
+[18:10:25] [Server thread/INFO]: Saligiald_Memory >> ºÃ[m
+[18:10:38] [Server thread/INFO]: YuHuaQingZhu >> »¹ÓĞÇÊ³áÂğ£¨£¨[m
+[18:10:46] [Server thread/INFO]: YuHuaQingZhu >> ÎÒµÄ±»³ÔµôÁË[m
+[18:10:55] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Èç¹ûÎÒµÄ¶«Î÷Ã»±»Çå¾Í»¹ÓĞ[m
+[18:10:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÉ¶¶¼Ã»ÁË[m
+[18:11:07] [Server thread/INFO]: YuHuaQingZhu >> 555[m
+[18:11:20] [Server thread/INFO]: YuHuaQingZhu >> ÎÒÒ»¸öÇÊ³áÔÚÉíÉÏÒ»¸öÔÚÄ©Ó°Ïä[m
+[18:11:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãµÄÒ²Ã»ÁË°É£¨[m
+[18:11:30] [Server thread/INFO]: YuHuaQingZhu >> È«²¿°×¸øÁË[m
+[18:11:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÄ©Ó°ÏäÊ®¼¸¸öÇÊ³á£¨[m
+[18:11:53] [Server thread/INFO]: YuHuaQingZhu >> 555[m
+[18:11:55] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¼¸Ê®¸öºÏ½ğ¿é[m
+[18:12:29] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÏÂÃæÄÃ¸½Ä§Êé[m
+[18:12:33] [Server thread/INFO]: Saligiald_Memory >> ºÃ[m
+[18:12:53] [Server thread/INFO]: YuHuaQingZhu >> ÏÖÔÚÖíÁé½»Ò×ËùÔÚÄÄ[m
+[18:13:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º£¾§Ã»ÓĞ£¨[m
+[18:13:08] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> µÃÕÒ×Ï¾§[m
+[18:13:29] [Server thread/INFO]: YuHuaQingZhu >> Twilight2033ËµËû²ğÁË×¼±¸×ö¸öĞÂµÄÈ»ºóÏÖÔÚÔİÊ±Ã»[m
+[18:13:33] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[18:13:44] [Server thread/INFO]: sen_lv_ling_ issued server command: /qd
+[18:13:44] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1msen_lv_ling_ [0;33;22mÄ¿Ç°ÓĞ [0;32;1m4 [0;33;22m¹±Ï×µãÊı[m
+[18:13:47] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ./qd[m
+[18:13:49] [Server thread/INFO]: YuHuaQingZhu issued server command: /qd
+[18:13:49] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mYuHuaQingZhu [0;33;22mÄ¿Ç°ÓĞ [0;32;1m4 [0;33;22m¹±Ï×µãÊı[m
+[18:13:56] [Server thread/INFO]: Saligiald_Memory >> ÖíÁé½»Ò×ËùºÃÏñÊÇÔÚ×Ï¾§ÏÂÃæ[m
+[18:14:03] [Server thread/INFO]: Saligiald_Memory >> Èç¹ûÎÒÃ»ÓĞÈÏ´íµØ·½µÄ»°[m
+[18:15:24] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÉÏÃæÄÜÄÃ¾­ÑéºÍ½ğÂÜ±±³Ô[m
+[18:15:37] [Server thread/INFO]: Saligiald_Memory >> ½ğÂÜ²·ÊÇ[m
+[18:16:05] [Server thread/INFO]: Saligiald_Memory >> ºÃ¸»ÓĞ[m
+[18:18:01] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[18:18:01] [Server thread/INFO]: YuHuaQingZhu left the game
+[18:22:25] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[18:22:35] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[18:27:37] [User Authenticator #68/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[18:27:38] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:58229] logged in with entity id 684437 at ([world]2764.7831098532442, 63.0, -405.88804108253413)
+[18:29:29] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[18:29:29] [Server thread/INFO]: sen_lv_ling_ left the game
+[18:30:26] [Server thread/INFO]: Saligiald_Memory lost connection: Disconnected
+[18:30:26] [Server thread/INFO]: Saligiald_Memory left the game
+[18:31:08] [Server thread/INFO]: YuHuaQingZhu issued server command: /points me
+[18:31:13] [Server thread/INFO]: YuHuaQingZhu issued server command: /px mode on
+[18:31:39] [Server thread/INFO]: YuHuaQingZhu issued server command: /px off
+[18:31:39] [Server thread/WARN]: YuHuaQingZhu moved too quickly! 21.37986116634704,14.80433219890979,8.483583204182011
+[18:32:36] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[18:32:40] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,25.49870049370793
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,26.864803015585153
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,28.24299854475271
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,29.633078074630532
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,31.03483522532025
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,32.44806623204954
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,33.872569952474464
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,35.30814786638501
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,36.75460407169112
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,38.21174528793989
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,39.67938135895088
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,41.157324199403774
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,42.64538880395287
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,44.143392261755764
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,45.65115470923581
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,46.88202087986048
+[18:36:40] [Server thread/WARN]: Boat (vehicle of YuHuaQingZhu) moved too quickly! 0.0,0.0,23.983115157337522
+[18:38:08] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[18:38:08] [Server thread/INFO]: YuHuaQingZhu left the game
+[18:38:13] [User Authenticator #69/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[18:38:13] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:58300] logged in with entity id 689820 at ([world_nether]653.3570335326207, 111.0, 32.19357698887258)
+[18:48:01] [User Authenticator #70/INFO]: UUID of player HislGxty is c042c2b9-7ab9-466b-ad80-0ad1e6378c6e
+[18:48:01] [Server thread/INFO]: HislGxty[/127.0.0.1:58384] logged in with entity id 695497 at ([world_nether]-62.28463995203505, 115.875, -47.44989551487832)
+[18:48:11] [Server thread/INFO]: HislGxty >> YuHuaQingZhu yyy[m
+[18:48:42] [Server thread/INFO]: HislGxty lost connection: Disconnected
+[18:48:42] [Server thread/INFO]: HislGxty left the game
+[18:53:55] [User Authenticator #71/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[18:53:55] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:58406] logged in with entity id 699292 at ([world]1092.2604763443992, 74.0, -1787.797345764105)
+[18:54:28] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[18:54:44] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[18:54:54] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[18:55:02] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[18:57:03] [Server thread/INFO]: YuHuaQingZhu has made the advancement [Suit Up]
+[18:57:13] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[18:57:14] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[18:59:50] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[18:59:50] [Server thread/INFO]: Li_zi_wei left the game
+[19:04:58] [Server thread/INFO]: YuHuaQingZhu has made the advancement [Who is Cutting Onions?]
+[19:04:58] [Server thread/INFO]: YuHuaQingZhu has made the advancement [Ice Bucket Challenge]
+[19:06:26] [User Authenticator #72/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[19:06:26] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:58449] logged in with entity id 700006 at ([world]1116.459133164764, 67.0, -1815.5479704818015)
+[19:08:30] [User Authenticator #73/INFO]: UUID of player Saligiald_Memory is 2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931
+[19:08:30] [Server thread/INFO]: Saligiald_Memory[/127.0.0.1:58463] logged in with entity id 700405 at ([world]7792.7121990153155, 63.0, -1347.032348341734)
+[19:09:52] [User Authenticator #74/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[19:09:52] [Server thread/INFO]: Mr_director[/127.0.0.1:58474] logged in with entity id 700772 at ([world_nether]82.8236021486784, 115.0, 23.192658822242407)
+[19:12:30] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÔÚÄÄ[m
+[19:12:41] [Server thread/INFO]: Mr_director issued server command: /co i
+[19:12:45] [Server thread/INFO]: Mr_director issued server command: /co i
+[19:12:54] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Saligiald_Memory[m
+[19:13:19] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ö±½ÓÕâÀïÁÄ²»ĞĞÃ´[m
+[19:13:32] [Server thread/INFO]: Saligiald_Memory >> OK[m
+[19:16:27] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒÀ´ÁË[m
+[19:17:13] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:17:15] [Server thread/WARN]: Mr_director moved too quickly! 27.457895102588736,-4.2305263528581065,-22.866841933427395
+[19:17:26] [Server thread/INFO]: Saligiald_Memory >> ÔÚÄÄ[m
+[19:17:33] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÂíÉÏ[m
+[19:18:58] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ĞÂ×ø±ê[m
+[19:19:19] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÏÖÔÚÄãµÄÎ»ÖÃ[m
+[19:19:27] [Server thread/INFO]: Saligiald_Memory >> 7724 63 -1383[m
+[19:19:36] [Server thread/WARN]: Mr_director moved wrongly!
+[19:20:14] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ºÃ¼Ò»ïÔ­À´Õâ±ùÊÇ±ùËªĞĞÕß[m
+[19:20:18] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Äã×Ô¼ºÅªµÄ?[m
+[19:20:20] [Server thread/INFO]: Saligiald_Memory >> ÊÇ[m
+[19:20:33] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãµÄºÏ½ğĞØ¼×ÄØ[m
+[19:20:47] [Server thread/INFO]: Saligiald_Memory >> Ä©µØ½Å»¬[m
+[19:20:50] [Server thread/INFO]: Saligiald_Memory >> È»ºóÄã¶®µÄ[m
+[19:21:11] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> »¹ÓĞÄãÔõÃ´ÅÜµÄÕâÃ´Æ«Æ§[m
+[19:21:27] [Server thread/INFO]: Saligiald_Memory >> Ì½Â·ÕÒµ½ÓĞÒâË¼µÄµØ·½ÁË[m
+[19:21:47] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÕâÆÆµØ·½ÓĞÉ¶ÓĞÒâË¼µÄ[m
+[19:21:57] [Server thread/INFO]: Saligiald_Memory >> ÓĞ±±¼«ĞÜ[m
+[19:22:13] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÇ¶«Î÷ÎÒÉ±¹ıºÃ¼¸´ÎÁË[m
+[19:22:15] [User Authenticator #75/INFO]: UUID of player Cherisss is 207d836e-4ee8-4734-8b9c-c527468e3653
+[19:22:16] [Server thread/INFO]: Cherisss[/127.0.0.1:58521] logged in with entity id 712159 at ([world]-1216.8255753296, 68.0, -7393.172118555423)
+[19:22:22] [Server thread/INFO]: Saligiald_Memory >> ÎÒ´òËãÑø[m
+[19:22:50] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÇÊ³á»áÓÃÁËÃ´[m
+[19:23:04] [Server thread/INFO]: Saligiald_Memory >> ÎÒÎŞÇÊ³á[m
+[19:23:09] [Server thread/INFO]: Cherisss issued server command: /gc
+[19:23:09] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÃ[m
+[19:23:15] [Server thread/INFO]: Cherisss issued server command: /help
+[19:23:17] [Server thread/INFO]: Saligiald_Memory has reached the goal [Sky's the Limit]
+[19:23:24] [Server thread/INFO]: Saligiald_Memory >> Õâ[m
+[19:23:29] [Server thread/INFO]: Saligiald_Memory >> Ç¿[m
+[19:23:31] [Server thread/INFO]: Cherisss issued server command: /help 2
+[19:23:43] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãµÄË¼Ïë»¹ÓĞµã¾ÖÏŞ[m
+[19:23:48] [Server thread/INFO]: Cherisss issued server command: /help 3
+[19:23:49] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> °á×ß£¬ÕâµØ·½Ã»Ê²Ã´ºÃµÄ[m
+[19:23:53] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ì«Ô¶ÁË»¹[m
+[19:24:02] [Server thread/INFO]: Cherisss issued server command: /help 4\
+[19:24:03] [Server thread/INFO]: Cherisss issued server command: /help 4
+[19:24:05] [Server thread/INFO]: Cherisss issued server command: /help 5
+[19:24:07] [Server thread/INFO]: Cherisss issued server command: /help 6
+[19:24:08] [Server thread/INFO]: Saligiald_Memory >> ĞĞ8[m
+[19:24:11] [Server thread/INFO]: Cherisss issued server command: /help 7
+[19:24:15] [Server thread/INFO]: Cherisss issued server command: /help 8
+[19:24:19] [Server thread/INFO]: Cherisss issued server command: /help 9
+[19:24:26] [Server thread/INFO]: Cherisss issued server command: /help 10
+[19:24:27] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ã»É¶ÖµÇ®µÄ[m
+[19:24:28] [Server thread/INFO]: Cherisss issued server command: /help 11
+[19:24:30] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ö±½ÓÇÊ³á»ØÈ¥°É[m
+[19:24:31] [Server thread/INFO]: Cherisss issued server command: /or
+[19:24:37] [Server thread/INFO]: Cherisss issued server command: /tell 1
+[19:24:42] [Server thread/INFO]: Cherisss issued server command: /tell Cherisss 1
+[19:24:55] [Server thread/INFO]: Cherisss issued server command: /tellraw
+[19:25:01] [Server thread/INFO]: Saligiald_Memory >> ²İ[m
+[19:25:02] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÇÊ³á¸úÎÒ×ß[m
+[19:25:03] [Server thread/INFO]: Cherisss issued server command: /deop
+[19:25:08] [Server thread/INFO]: Saligiald_Memory >> ÄÇÕâ²»ĞĞµÄ»°ÄÄ±È½ÏºÃ[m
+[19:25:18] [Server thread/INFO]: Cherisss lost connection: Disconnected
+[19:25:18] [Server thread/INFO]: Cherisss left the game
+[19:25:20] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Äã¶ãÕâÃ´Ô¶¸ÉÊ²Ã´[m
+[19:25:23] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒÏë²»Ã÷°×[m
+[19:25:38] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ëµ°¡[m
+[19:25:42] [Server thread/INFO]: Saligiald_Memory >> ÎÒÒ²Ïë²»Ã÷°×[m
+[19:25:46] [Server thread/INFO]: Saligiald_Memory >> ¿ÉÄÜÊÇÒòÎªÄÇÖ»Ã¨[m
+[19:25:55] [Server thread/INFO]: Saligiald_Memory >> Ñ±·şÁË¾ÍË³±ã×¡ÁË[m
+[19:25:59] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> = =[m
+[19:26:11] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ã¨¹·ºÃÏñ¿ÉÒÔË²ÒÆµÄ[m
+[19:26:22] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ²»¹ıÈç¹ûÄã·ÉĞĞµÄ»°ËûÃÇ»áË¤ËÀ[m
+[19:26:32] [Server thread/INFO]: Saligiald_Memory >> ÎÒ»¹ÒªÖ»ºüÀêÄØ[m
+[19:26:44] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¶¼ºÃÓÃ[m
+[19:26:46] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Åª[m
+[19:27:01] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µ«ÊÇ¾Í¿´ÄãÉá²»ÉáµÃÁË[m
+[19:27:09] [Server thread/INFO]: Saligiald_Memory >> »¹ĞĞ[m
+[19:27:15] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÏÈ×ß°É[m
+[19:27:24] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÇÊ³á[m
+[19:27:25] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ·É[m
+[19:27:47] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> MrÔÚ´øĞÂÍæ¼Ò...?[m
+[19:28:04] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¸úÎÒ[m
+[19:28:32] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÑÌ»¨Ê¡×ÅÓÃ[m
+[19:28:37] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÈËÄØ[m
+[19:28:49] [Server thread/INFO]: Saligiald_Memory >> µçÄÔ¿¨ÁË[m
+[19:29:01] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãµçÄÔ»¹ÄÜ¿¨£¿[m
+[19:29:08] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Õâ¸ö·½Ïò[m
+[19:29:09] [Server thread/INFO]: Saligiald_Memory >> ÊÓ½ÇÌ«¹ã[m
+[19:29:09] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ·É°É[m
+[19:30:00] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ±ğ¹ÜÎÒ[m
+[19:30:03] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ·É[m
+[19:30:25] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ?[m
+[19:30:27] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ²İ[m
+[19:30:38] [Server thread/INFO]: Mr_director issued server command: /co i
+[19:30:46] [Server thread/INFO]: Saligiald_Memory >> ÄÇÉ¶°¡[m
+[19:31:05] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> +7000 -540[m
+[19:31:07] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¹ıÀ´[m
+[19:31:17] [Server thread/INFO]: Mr_director issued server command: /co i
+[19:31:39] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> £¿[m
+[19:31:49] [Server thread/INFO]: YuHuaQingZhu >> mrÄã»¹ÓĞ¶àµÄÇÊ³áÂğ[m
+[19:31:58] [Server thread/INFO]: YuHuaQingZhu >> ÉÏ´Î±»·şÍÌÁËÎïÆ·À¸¶«Î÷[m
+[19:32:01] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ã»[m
+[19:32:11] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ×ßÕâ±ß°É[m
+[19:32:40] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Âè¸ö¼¦Ê²Ã´Ê±ºò¿ªµÄ[m
+[19:32:42] [Server thread/INFO]: Mr_director issued server command: /co i
+[19:32:45] [Server thread/INFO]: Mr_director issued server command: /co i
+[19:33:39] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µØÓü½»Í¨µÄºÃ´¦[m
+[19:33:56] [Server thread/INFO]: Saligiald_Memory >> ÎÒÃÇÊÇ²»ÊÇÈÆÁËÒ»È¦[m
+[19:35:15] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ×¼±¸Ò»ÏÂ[m
+[19:35:17] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> È¥Ä©µØÍæ[m
+[19:35:24] [Server thread/INFO]: Saligiald_Memory >> ²İ[m
+[19:35:28] [Server thread/INFO]: Mr_director issued server command: /co i
+[19:35:32] [Server thread/INFO]: Saligiald_Memory >> ÈËÔÚ£¬ÓĞĞé¿ÕPTSD[m
+[19:36:01] [Server thread/INFO]: Mr_director issued server command: /co i
+[19:36:16] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ë­ÔÚÏä×ÓÀï·Å¸½Ä§½ğ£¿[m
+[19:36:46] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãµÄ¶«Î÷[m
+[19:36:48] [Server thread/INFO]: Saligiald_Memory >> £¿[m
+[19:36:50] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¶¼·ÅÕâ¸öºĞ×ÓÀï[m
+[19:36:56] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> È«²¿[m
+[19:36:58] [Server thread/INFO]: YuHuaQingZhu has made the advancement [Enchanter]
+[19:37:02] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÖØÒªµÄÓÅÏÈ[m
+[19:37:36] [Server thread/INFO]: Saligiald_Memory >> ¾ÍÕâ[m
+[19:37:41] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ×°±¸Ò²ÊÇ[m
+[19:37:49] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒÃÇÈ¥Ä©µØÕÒÇÊ³á[m
+[19:38:22] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[19:38:22] [Server thread/INFO]: YuHuaQingZhu left the game
+[19:38:49] [Server thread/INFO]: Saligiald_Memory >> ÇÊ³áÎÒÒ²·Å½øÈ¥ÁË[m
+[19:38:55] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÖªµÀ[m
+[19:40:34] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÈ¥Ä©µØÄÇÀïµÄµÈÎÒ[m
+[19:40:36] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒ×¼±¸Ò»ÏÂ[m
+[19:40:40] [Server thread/INFO]: Saligiald_Memory >> ºÃ[m
+[19:47:51] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ²İ×°±¸ÉÌÄØ[m
+[19:48:17] [Server thread/INFO]: Saligiald_Memory >> ?[m
+[19:48:50] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒµÃÏÈÈ¥³Ô·¹[m
+[19:48:54] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÁÁáÄãÔõÃ´Ëµ[m
+[19:49:04] [Server thread/INFO]: Saligiald_Memory >> ÎÒ¹Ò»úµÈÄã[m
+[19:49:16] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¹ıÀ´[m
+[19:49:18] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÏÈ[m
+[19:49:36] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ëæ±ã´©µã×°±¸[m
+[19:50:23] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÏÈÅª±ğµÄ°É[m
+[19:50:26] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒÅªºÃÁË½ÌÄã[m
+[19:50:29] [Server thread/INFO]: Saligiald_Memory >> OK[m
+[19:50:39] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒÊÇËµ±ğµÄÓÎÏ·£¨[m
+[19:50:43] [Server thread/INFO]: Saligiald_Memory >> OK[m
+[19:50:54] [Server thread/INFO]: Saligiald_Memory lost connection: Disconnected
+[19:50:54] [Server thread/INFO]: Saligiald_Memory left the game
+[19:54:01] [User Authenticator #76/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[19:54:01] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:58827] logged in with entity id 724806 at ([world]5212.918860300454, 107.75, -505.66085285398157)
+[19:57:14] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[19:57:36] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[19:57:36] [Server thread/INFO]: Mr_director left the game
+[20:03:22] [Server thread/INFO]: Li_zi_wei issued server command: /qd
+[20:03:22] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mLi_zi_wei [0;33;22mÄ¿Ç°ÓĞ [0;32;1m2 [0;33;22m¹±Ï×µãÊı[m
+[20:12:23] [User Authenticator #77/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[20:12:24] [Server thread/INFO]: Mr_director[/127.0.0.1:58911] logged in with entity id 734069 at ([world_nether]-6.768798855879918, 115.0, 22.72166324960277)
+[20:27:35] [User Authenticator #78/INFO]: UUID of player Saligiald_Memory is 2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931
+[20:27:35] [Server thread/INFO]: Saligiald_Memory[/127.0.0.1:59008] logged in with entity id 742332 at ([world_the_end]207.4009439770786, 48.0, 9.38636441343806)
+[20:27:37] [Server thread/INFO]: YuHuaQingZhu has completed the challenge [Cover Me in Debris]
+[20:28:01] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÔÚÄÄ[m
+[20:28:07] [Server thread/INFO]: Saligiald_Memory >> Õâ[m
+[20:28:25] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÃ[m
+[20:28:33] [Server thread/INFO]: Saligiald_Memory >> £¿[m
+[20:29:04] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÌôÒ»¸öÆ«Æ§µãµÄ[m
+[20:29:38] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÕäÖéÈÓ½øÈ¥[m
+[20:30:22] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ³ÔµÄ[m
+[20:30:27] [Server thread/INFO]: Saligiald_Memory >> ºÃ[m
+[20:30:27] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÏÈ×ß±ğÈË×ß¹ıµÄ[m
+[20:31:09] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ×öºÃ×¼±¸[m
+[20:31:16] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ±Ï¾¹ÊÇÆ´ÔËÆøµÄ¶«Î÷[m
+[20:32:10] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ²»ÖªµÀÄÇ¸öÄÜ²»ÄÜÓÃ[m
+[20:32:12] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÒªÊÔÊÔÃ´[m
+[20:32:17] [Server thread/INFO]: Saligiald_Memory >> ÊÔÊÔ°É[m
+[20:32:21] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ËãÁË[m
+[20:32:22] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÇóÎÈ[m
+[20:32:25] [Server thread/INFO]: Saligiald_Memory >> àŞ[m
+[20:33:26] [Server thread/INFO]: Saligiald_Memory >> £¿[m
+[20:33:40] [Server thread/INFO]: Saligiald_Memory >> ÄãÈËÄØ[m
+[20:33:48] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÅÜÄÄÁË[m
+[20:34:11] [Server thread/INFO]: Saligiald_Memory >> ¸Õ¸Õ±»´òÁËÏÂ[m
+[20:36:03] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÌıËµ°ë¾¶5000¸ñµÄÄ©µØ³Ç¶¼¿ÕÁË[m
+[20:36:07] [Server thread/INFO]: Saligiald_Memory >> ²İ[m
+[20:36:09] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µ«ÏÔÈ»ËûÃÇ²»ÊÇ·É¹ıÈ¥µÄ[m
+[20:36:22] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[20:36:32] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[20:36:36] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÕâÍæÒâ¿ÉÒÔ³Ô[m
+[20:36:39] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[20:36:41] [Server thread/INFO]: Saligiald_Memory >> ²İ[m
+[20:36:42] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µ«ÊÇ»áË²ÒÆ[m
+[20:36:51] [Server thread/WARN]: Saligiald_Memory moved too quickly! 7.9049662284960505,-1.0,6.7087215010330965
+[20:37:00] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[20:37:01] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ´ó¿éµØ·½³ÔÕâ¸ö[m
+[20:37:02] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> °²È«[m
+[20:38:21] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[20:38:35] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[20:38:59] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[20:39:08] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[20:39:13] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[20:39:18] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ñ¡Ò»ÏÂ[m
+[20:39:25] [Server thread/INFO]: Saligiald_Memory >> ÓÒ±ßB[m
+[20:39:30] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[20:39:47] [Server thread/INFO]: Saligiald_Memory >> ²İ[m
+[20:39:50] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÕäÖé[m
+[20:41:47] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> »ØÈ¥[m
+[20:42:20] [User Authenticator #79/INFO]: Disconnecting /127.0.0.1:59078: Failed to verify username!
+[20:42:20] [User Authenticator #79/ERROR]: Username 'TheZezor69' tried to join with an invalid session
+[20:42:20] [Server thread/INFO]: /127.0.0.1:59078 lost connection: Failed to verify username!
+[20:42:57] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÅªÕäÖé[m
+[20:43:09] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[20:43:23] [Server thread/INFO]: YuHuaQingZhu issued server command: /co i
+[20:43:26] [User Authenticator #80/INFO]: Disconnecting /127.0.0.1:59087: Failed to verify username!
+[20:43:26] [User Authenticator #80/ERROR]: Username 'TheZezor69' tried to join with an invalid session
+[20:43:26] [Server thread/INFO]: /127.0.0.1:59087 lost connection: Failed to verify username!
+[20:44:45] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ×ß°É[m
+[20:45:10] [Server thread/INFO]: Mr_director issued server command: /co i
+[20:45:14] [Server thread/INFO]: Mr_director issued server command: /co i
+[20:46:47] [Server thread/INFO]: Saligiald_Memory >> ?[m
+[20:47:06] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ?[m
+[20:47:09] [Server thread/INFO]: Saligiald_Memory >> ×ßÊ§¶ş¶È[m
+[20:48:40] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÕäÖé[m
+[20:48:53] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¹ıÀ´¾ÍĞĞ[m
+[20:49:19] [Server thread/INFO]: Mr_director issued server command: /co i
+[20:49:23] [Server thread/INFO]: Mr_director issued server command: /co i
+[20:49:50] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¾ñÔñ[m
+[20:49:58] [Server thread/INFO]: Saligiald_Memory >> ×ó[m
+[20:50:02] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÓÒ±ß[m
+[20:50:10] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÍùÍâ×ß[m
+[20:51:14] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÓÒ±ßÄÇ¸öµº[m
+[20:51:15] [Server thread/INFO]: YuHuaQingZhu has made the advancement [Diamonds!]
+[20:51:19] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µÈÏÂ[m
+[20:51:22] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¹ı²»È¥[m
+[20:52:14] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ·½¿éÒªÊ¡[m
+[20:52:47] [Server thread/INFO]: Mr_director issued server command: /qd
+[20:52:47] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mMr_director [0;33;22mÄ¿Ç°ÓĞ [0;32;1m2 [0;33;22m¹±Ï×µãÊı[m
+[20:52:51] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ./qd[m
+[20:53:27] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ë¢ÕäÖé[m
+[20:53:50] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÀ´[m
+[20:54:04] [Server thread/INFO]: Mr_director issued server command: /qd help
+[20:54:15] [Server thread/INFO]: Mr_director issued server command: /px mode
+[20:54:23] [Server thread/INFO]: Mr_director issued server command: /px help
+[20:54:31] [Server thread/INFO]: Mr_director issued server command: /px Mr_director
+[20:54:33] [Server thread/INFO]: Mr_director issued server command: /
+[20:54:36] [Server thread/INFO]: Saligiald_Memory was slain by Enderman
+[20:54:39] [Server thread/INFO]: Mr_director issued server command: /px mode
+[20:54:43] [Server thread/INFO]: Mr_director issued server command: /px
+[20:54:47] [Server thread/INFO]: Saligiald_Memory issued server command: /qd
+[20:54:47] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mSaligiald_Memory [0;33;22mÄ¿Ç°ÓĞ [0;32;1m4 [0;33;22m¹±Ï×µãÊı[m
+[20:54:49] [Server thread/INFO]: Mr_director issued server command: /px list
+[20:54:54] [Server thread/INFO]: Mr_director issued server command: /list
+[20:54:56] [Server thread/INFO]: Saligiald_Memory >> ÎÒ£¬²Ë[m
+[20:55:04] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ?[m
+[20:55:05] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ²İ[m
+[20:55:41] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒ²»¶¼¸øÄãÅªÄÇ¸öÁËÃ´[m
+[20:55:43] [Server thread/INFO]: Saligiald_Memory >> ÓĞµãŞÏŞÎ£¬Ö»ÄÜËµÓĞµãŞÏŞÎ[m
+[20:55:58] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ã»¾ÈÁË[m
+[20:56:02] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÏÈÍæ±ğµÄ°É[m
+[20:56:06] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒ×Ô¼ºÀ´[m
+[20:56:07] [Server thread/INFO]: Saligiald_Memory >> ºÃ[m
+[20:56:20] [Server thread/INFO]: Saligiald_Memory lost connection: Disconnected
+[20:56:20] [Server thread/INFO]: Saligiald_Memory left the game
+[20:57:14] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[21:03:11] [Server thread/INFO]: Mr_director issued server command: /px
+[21:03:17] [Server thread/INFO]: Mr_director issued server command: /px mode
+[21:15:09] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[21:15:09] [Server thread/INFO]: YuHuaQingZhu left the game
+[21:32:50] [User Authenticator #81/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[21:32:50] [Server thread/INFO]: Security_Winter[/127.0.0.1:59269] logged in with entity id 751249 at ([world]1515.1520435678965, 161.0, -1541.7130303514646)
+[21:33:18] [Server thread/INFO]: Security_Winter issued server command: /qd
+[21:33:18] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mSecurity_Winter [0;33;22mÄ¿Ç°ÓĞ [0;32;1m6 [0;33;22m¹±Ï×µãÊı[m
+[21:33:20] [Server thread/INFO]: Security_Winter >> az[m
+[21:33:32] [Server thread/INFO]: Security_Winter issued server command: /p lead
+[21:43:40] [Server thread/INFO]: Security_Winter lost connection: Timed out
+[21:43:40] [Server thread/INFO]: Security_Winter left the game
+[21:46:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@3fa3de81[id=<null>,name=Security_Winter,properties={},legacy=false] (/127.0.0.1:59313) lost connection: Disconnected
+[21:46:12] [User Authenticator #82/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[21:46:12] [Server thread/INFO]: Security_Winter[/127.0.0.1:59315] logged in with entity id 752830 at ([world]1515.1520435678965, 161.0, -1541.7130303514646)
+[21:57:14] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[21:57:17] [Server thread/INFO]: Mr_director issued server command: /p
+[21:57:32] [Server thread/INFO]: Mr_director issued server command: /p lead
+[22:01:04] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[22:01:04] [Server thread/INFO]: Li_zi_wei left the game
+[22:03:48] [Server thread/INFO]: Security_Winter >> mr[m
+[22:03:56] [Server thread/INFO]: Security_Winter >> Äã¶«Î÷¶ªÁËÂğ[m
+[22:03:57] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ?[m
+[22:03:59] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ã»[m
+[22:04:03] [Server thread/INFO]: Security_Winter >> az[m
+[22:04:06] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Õ¦ÁË[m
+[22:04:07] [Server thread/INFO]: Security_Winter >> ÇÊ³á[m
+[22:04:18] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ?[m
+[22:04:19] [Server thread/INFO]: Security_Winter >> »¹ÓĞÃ»ÓĞ¶àµÄ[m
+[22:04:23] [Server thread/INFO]: Security_Winter >> qwq[m
+[22:04:24] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒÔÚÕÒ[m
+[22:04:36] [Server thread/INFO]: Security_Winter >> ÄãÓ¦¸ÃÖ»ÓĞ»ı·ÖÃ»ÁË[m
+[22:07:42] [Server thread/INFO]: Security_Winter >> ÓĞÃ»[m
+[22:08:14] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> gg[m
+[22:08:15] [Server thread/INFO]: Mr_director fell out of the world
+[22:08:25] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎŞÈ¤[m
+[22:08:32] [Server thread/INFO]: Security_Winter >> ?[m
+[22:08:52] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ã»ÕÒµ½Ò»¸öÇÊ³á[m
+[22:08:58] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¶øÇÒ²»ÏëÕÒl[m
+[22:08:58] [Server thread/INFO]: Security_Winter >> ¡£¡£¡£[m
+[22:09:07] [Server thread/INFO]: Security_Winter >> ²»ÔÚÄ©Ó°ÏäÀïÂğ¡®[m
+[22:09:10] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ç©µ½ÓÃ¹Û²ìÕß°É[m
+[22:09:19] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> £¿[m
+[22:09:26] [Server thread/INFO]: Security_Winter >> ²»ÊÇ[m
+[22:09:27] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒÃ»ÕÒµ½ĞÂµÄ¶¼[m
+[22:09:29] [Server thread/INFO]: Security_Winter >> az[m
+[22:09:35] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÔÙËµÁË[m
+[22:09:39] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ×Ô¼º¶¯ÊÖ·áÒÂ×ãÊ³[m
+[22:09:46] [Server thread/INFO]: Security_Winter >> ÎÊÌâ¾ÍÊÇ[m
+[22:09:53] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÒ²²»ÊÇÒ»´ÎÁ½´ÎÍæ·şÎñÆ÷ÁË[m
+[22:09:59] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎªÊ²Ã´²»ÓÃ¹Û²ìÕßbug£¿[m
+[22:10:07] [Server thread/INFO]: Security_Winter >> Ã»ÓĞÇÊ³áµÄ»°ÔÚÄ©µØÃ»ÓĞ¿ìËÙµÄÒÆ¶¯·½Ê½[m
+[22:10:14] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ê±´ú[m
+[22:10:16] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÊÇµÄ[m
+[22:10:18] [Server thread/INFO]: Security_Winter >> ¹Û²ìÕßÈİÒ×µôÏÂÈ¥¡¯[m
+[22:10:25] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒÓÃÍÈÅÜµÄ[m
+[22:10:43] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎŞ¸¶³öÎŞÊÕ»ñ[m
+[22:10:53] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÒÔÎªÎÒÇÊ³á¿¿±ğÈË¸øµÄ£¿[m
+[22:11:10] [Server thread/INFO]: Security_Winter >> ...[m
+[22:11:49] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¶øÇÒÖ®Ç°Ã»ÈË¸ø¹ıÄãÇÊ³áÃ´£¿[m
+[22:14:50] [Server thread/INFO]: Security_Winter >> ÎÒ¶«Î÷È«¶ªÁË[m
+[22:14:59] [Server thread/INFO]: Security_Winter >> ±ğÈË¸øÁË4¸öÇÊ³á[m
+[22:15:05] [Server thread/INFO]: Security_Winter >> ×Ô¼ºÕÒÁË5¸ö[m
+[22:15:08] [Server thread/INFO]: Security_Winter >> È«Ã»ÁË[m
+[22:15:32] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÔõÃ´¶ªÁË[m
+[22:15:43] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¶øÇÒÎÒ²»Ò²ÊÇ£¿[m
+[22:19:35] [Server thread/INFO]: Security_Winter >> ²»ÊÇ[m
+[22:19:41] [Server thread/INFO]: Security_Winter >> Äã¶«Î÷Ã»±»Çå¿Õ°¡[m
+[22:19:50] [Server thread/INFO]: Security_Winter >> ÎÒ£¬É­Óï¡£»¹ÓĞ¼¸¸öÈË[m
+[22:20:00] [Server thread/INFO]: Security_Winter >> ËùÓĞ¶«Î÷È«²¿±»·şÎñÆ÷Çå¿ÕÁË[m
+[22:20:07] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ?[m
+[22:20:08] [Server thread/INFO]: Security_Winter >> Òª²»È»ÄãÒÔÎªÎÒÎÊÄã¸ÉÉ¶[m
+[22:20:11] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ²İ[m
+[22:20:14] [Server thread/INFO]: Security_Winter >> Äã²»ÖªµÀÂï[m
+[22:20:18] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ²»ÖªµÀ[m
+[22:20:20] [Server thread/INFO]: Security_Winter >> ·şÎñÆ÷³öÎÊÌâÁË[m
+[22:20:20] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ½ñÌì¸Õ»Ø¼Ò[m
+[22:20:30] [Server thread/INFO]: Security_Winter >> Òª²»È»ÎªÊ²Ã´µãÊıÈ«Ã»ÁË[m
+[22:20:37] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÔçËµ°¡[m
+[22:20:40] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÇÊ³áÎÒÓĞ[m
+[22:20:57] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ²»¹ıÎÒÏ£ÍûÄãÄÜÓÃÒ»¸öÈ¥ÕÒ¸ü¶àµÄqwq[m
+[22:21:33] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÔÚÄÄ[m
+[22:21:54] [User Authenticator #83/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[22:21:54] [Server thread/INFO]: Twilight2033[/127.0.0.1:59439] logged in with entity id 760435 at ([world]6918.4470386436105, 77.0, -504.30000001192104)
+[22:21:58] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Íá£¿[m
+[22:22:04] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ëµ»°°¡°²¶«Äá[m
+[22:24:28] [Server thread/INFO]: Security_Winter issued server command: /
+[22:24:31] [Server thread/INFO]: Security_Winter >> ?[m
+[22:24:42] [Server thread/INFO]: Security_Winter >> Ï®»÷Ëş¡£¡£¡£[m
+[22:24:56] [Server thread/INFO]: Security_Winter >> Äã¸øÎÒÒ»¸öÇÊ³áºÍÒ»¸ö·½Ïò°É[m
+[22:25:12] [Server thread/INFO]: Security_Winter >> ¾ÍÊÇµ½ÁËÄ©µØÍùÄÄ¸ö·½Ïò[m
+[22:25:46] [Server thread/INFO]: Security_Winter >> ÈÃÎÒ¸ãµã»ÃÒíÄ¤[m
+[22:27:04] [Server thread/INFO]: Security_Winter has reached the goal [Sky's the Limit]
+[22:27:05] [User Authenticator #84/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:27:05] [Server thread/INFO]: anew_tape[/127.0.0.1:59464] logged in with entity id 764001 at ([world]-542.7887874162741, 67.0, -513.8582576467527)
+[22:27:10] [Server thread/INFO]: Twilight2033 >> ?[m
+[22:27:14] [Server thread/INFO]: Security_Winter >> az[m
+[22:27:23] [Server thread/INFO]: Twilight2033 >> ³É¾Í¶¼ÖØÖÃÁË£¿[m
+[22:27:33] [Server thread/INFO]: Security_Winter >> ²»È»ÄØ[m
+[22:27:33] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÌıËµ·şÎñÆ÷³öbugÁË[m
+[22:27:36] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒ²»ÖªµÀ[m
+[22:27:52] [Server thread/INFO]: Security_Winter >> Íêµ°[m
+[22:27:54] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Äãµ½Ê±ºòĞ¡ĞÄµã[m
+[22:27:55] [Server thread/INFO]: Twilight2033 >> mdµçÄÔÀÏÁË[m
+[22:27:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ã»ÓĞ°¡[m
+[22:28:02] [Server thread/INFO]: Security_Winter >> ÍüÁËÎÒÃ»ÓĞ»ÃÒíÄ¤[m
+[22:28:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÕâÀï³É¾Í»¹ÊÇÔÚµÄ[m
+[22:28:08] [Server thread/INFO]: anew_tape issued server command: /qd
+[22:28:08] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1manew_tape [0;33;22mÄ¿Ç°ÓĞ [0;32;1m5 [0;33;22m¹±Ï×µãÊı[m
+[22:28:12] [Server thread/INFO]: Security_Winter >> ???[m
+[22:28:12] [Server thread/INFO]: anew_tape issued server command: /p me
+[22:28:24] [Server thread/INFO]: Security_Winter >> ÊÇÎÒ²»ÅäÁË[m
+[22:29:00] [Server thread/INFO]: Security_Winter >> ÄãÔÙ¸øÎÒµã»ÃÒíÄ¤ºÍÒ»¸ö·½Ïò°É[m
+[22:29:10] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> »ÃÒíÄ¤£¿[m
+[22:29:20] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Õı³£ÈËË­ÄÃÕâÍæÒâ[m
+[22:29:22] [Server thread/INFO]: Security_Winter >> ±Ï¾¹ÎÒÒ²ÊÇ²»ÖªµÀÄ©µØÄÄ¸ö·½ÏòÓĞ´¬[m
+[22:29:25] [User Authenticator #85/INFO]: UUID of player Saligiald_Memory is 2a1ccd13-e807-4ed5-83e3-a3c6f8f7e931
+[22:29:25] [Server thread/INFO]: Saligiald_Memory[/127.0.0.1:59475] logged in with entity id 764634 at ([world]7699.969366419345, 65.0, -1360.9791658532338)
+[22:29:27] [Server thread/INFO]: Security_Winter >> ²»ÊÇ[m
+[22:29:31] [Server thread/INFO]: Twilight2033 >> ÄÇ¸ö[m
+[22:29:36] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÕû¸öÊ±ÔË¸å×Ó°É[m
+[22:29:39] [Server thread/INFO]: Security_Winter >> Äã¾õµÃÄ©µØ¿ÉÄÜËæÊ±ËæµØÓĞ¾­ÑéÂï¡®[m
+[22:29:40] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Õı³£¸å×Ó¾ÍĞĞ[m
+[22:30:10] [Server thread/INFO]: Security_Winter >> ...[m
+[22:30:15] [Server thread/INFO]: Twilight2033 >> ÎÒºÃÏñÓĞÒ»µã[m
+[22:30:38] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Äã¿ÉÒÔÉ±Ğ¡ºÚ°¡[m
+[22:30:44] [Server thread/INFO]: Security_Winter >> az[m
+[22:30:47] [Server thread/INFO]: Twilight2033 >> ËùÒÔËµxl²»´òËã²¹³¥Âğ[m
+[22:30:52] [Server thread/INFO]: Security_Winter >> ÄÇ·½Ïò£¿[m
+[22:30:57] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÁÁáÄãÔÚÄÄ[m
+[22:30:59] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ·½ÏòÎŞËùÎ½[m
+[22:31:01] [Server thread/INFO]: Security_Winter >> xl²¹³¥µÄ¿ÉÄÜĞÔ²»´ó[m
+[22:31:03] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ·´ÕıÎÒÒ²²»ÖªµÀÔÚÄÄ[m
+[22:31:11] [Server thread/INFO]: Saligiald_Memory >> Ö®Ç°µÄÅ®Î×Ğ¡Îİ[m
+[22:31:15] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ?[m
+[22:31:21] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÓÖ»ØÈ¥ÁË£¿[m
+[22:31:30] [Server thread/INFO]: Saligiald_Memory >> ÎÒÖØÉúµãÔÚÕâÄØ[m
+[22:31:37] [Server thread/INFO]: Twilight2033 >> Ö÷ÒªÊÇÄ©µØ·½Ô²1Íò¸ñ¶·ËÑµÄ²î²»¶àÁË[m
+[22:31:47] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> °Ñ´²ß£ÁË×ÔÉ±[m
+[22:32:01] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÄÇ¸öµØ·½Ì«Ô¶Ò²Ì«Æ«[m
+[22:32:11] [Server thread/INFO]: Security_Winter >> ÂèÑ½£¬1Íò¸ñ[m
+[22:32:14] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ºóÃæµØÓü½»Í¨ĞŞ¹ıÈ¥ÔÚ»ØÈ¥Ò²Ã»ÊÂ[m
+[22:32:22] [Server thread/INFO]: Saligiald_Memory >> ºÃ[m
+[22:32:26] [Server thread/INFO]: Security_Winter >> ÎÒ»¹ÊÇÏë°ì·¨ÏÈ³öÒ»Íò°É[m
+[22:32:45] [Server thread/INFO]: Saligiald_Memory drowned
+[22:33:06] [Server thread/INFO]: Saligiald_Memory >> È»ºóÄãÔÚÄÄ[m
+[22:33:15] [Server thread/INFO]: Twilight2033 >> Security_WinterÄãÏÖÔÚÔÚÄÄ[m
+[22:33:19] [Server thread/INFO]: Twilight2033 >> Ä©µØÂğ[m
+[22:33:24] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÄØ[m
+[22:33:41] [Server thread/INFO]: Twilight2033 >> Security_Winter?[m
+[22:33:52] [Server thread/INFO]: Security_Winter >> ?[m
+[22:33:56] [Server thread/INFO]: Twilight2033 >> ÄãÔÚÄÄ[m
+[22:33:57] [Server thread/INFO]: Security_Winter >> Ï®»÷Ëş[m
+[22:34:01] [Server thread/INFO]: Security_Winter >> Õ¦ÁË[m
+[22:34:05] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÁÁáÄãÔÚÄÄ[m
+[22:34:06] [Server thread/INFO]: Saligiald_Memory >> ËµÊµ»°ÎÒ²»Ì«ÈÏÊ¶ÕâµØ·½[m
+[22:34:14] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ?[m
+[22:34:27] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Äã¸´»îµã²»Ó¦¸ÃÔÚÖ÷³ÇÃ´[m
+[22:34:29] [Server thread/INFO]: Saligiald_Memory >> ÊÇ[m
+[22:34:34] [Server thread/INFO]: Saligiald_Memory >> µØÓü½»Í¨µÈÄã[m
+[22:35:48] [Server thread/WARN]: Twilight2033 moved wrongly!
+[22:36:17] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãµÄ¸å×ÓÄØ[m
+[22:36:19] [Server thread/INFO]: Security_Winter >> ÄºÉ«Äã¸ÉÉ¶[m
+[22:36:22] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> o[m
+[22:36:24] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÉÏÀ´[m
+[22:36:48] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒ¸ëÁË°ëÌìµÄ¹¤³Ì[m
+[22:36:53] [Server thread/INFO]: Twilight2033 >> Ü³[m
+[22:36:56] [Server thread/INFO]: Security_Winter >> ?[m
+[22:36:59] [Server thread/INFO]: Security_Winter >> hhh'[m
+[22:37:03] [Server thread/INFO]: Saligiald_Memory >> Ì«¸ÎÁË[m
+[22:37:11] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> tapeÄãÔÚÄÄ[m
+[22:37:18] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒ´øÈËÕÒÄãÍæ[m
+[22:37:25] [Server thread/INFO]: Saligiald_Memory >> ÓĞ³ÔµÄÂğ[m
+[22:37:34] [Server thread/INFO]: Twilight2033 >> ²»¶à[m
+[22:37:50] [Server thread/INFO]: Saligiald_Memory >> Ğ»Ğ»[m
+[22:37:54] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¶àÄÃµã[m
+[22:38:16] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> tape?[m
+[22:38:39] [Server thread/INFO]: Security_Winter >> ?[m
+[22:38:41] [Server thread/INFO]: Security_Winter >> az[m
+[22:38:47] [Server thread/INFO]: Security_Winter >> Ğ»ÁË[m
+[22:39:29] [Server thread/INFO]: Twilight2033 >> µ±³õæÎµã»ğÒ©ÄãÓ¦¸Ã²»ÅÂÁË[m
+[22:39:32] [Server thread/INFO]: Twilight2033 >> ³¡[m
+[22:39:35] [Server thread/INFO]: Security_Winter >> az[m
+[22:39:40] [Server thread/INFO]: Security_Winter >> hhh[m
+[22:39:53] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ËãÁË= =[m
+[22:40:01] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ´óÖÂÊÇÕâÑù[m
+[22:40:07] [Server thread/INFO]: Twilight2033 >> ÂéÁËÎÒ¸ßÈıÁË[m
+[22:40:12] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ·şÎñÆ÷Å¼¶û»áÓĞĞ©ÈË×öÒ»Ğ©¹¤³Ì[m
+[22:40:17] [Server thread/INFO]: Twilight2033 >> µ½ÎÒ¿ªÊ¼ÂéÁË[m
+[22:40:23] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µ½Ê±ºò¹ıÈ¥°ïÃ¦¾ÍĞĞ[m
+[22:40:27] [Server thread/INFO]: Saligiald_Memory >> àŞ[m
+[22:40:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ahhhhhhh[m
+[22:40:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> tÔõÃ´ÁË[m
+[22:40:36] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Äã¸ÉÁËÊ²Ã´£¿[m
+[22:40:40] [Server thread/INFO]: Security_Winter >> az[m
+[22:40:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ¸ÉÁËÊ²Ã´[m
+[22:40:46] [Server thread/INFO]: Saligiald_Memory >> ²»Ğ¡ĞÄÓÒ¼üÁËÒ»ÏÂ[m
+[22:40:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> É¶Ò²Ã»¸É[m
+[22:40:49] [Server thread/INFO]: Twilight2033 >> ºÃÆæÒ»Äêºó·şÊÇÔõÑù[m
+[22:40:51] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ²İ= =[m
+[22:40:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ´òf[m
+[22:41:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ´òcf[m
+[22:41:05] [Server thread/INFO]: Security_Winter >> Í¬ÑùºÃÆæ[m
+[22:41:08] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ä¢¹½Å£±äÆÕÍ¨Å£ÁË[m
+[22:41:15] [Server thread/INFO]: Saligiald_Memory >> ²İ[m
+[22:41:27] [Server thread/INFO]: Saligiald_Memory >> ÎÒÔÙÈ¥ÅªÒ»Í·»ØÀ´£¿[m
+[22:41:37] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> = =[m
+[22:41:45] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[22:41:45] [Server thread/INFO]: Twilight2033 left the game
+[22:41:49] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Äãµ½Ê±ºò¾ÍĞĞ[m
+[22:41:52] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¾ÍÊÇ[m
+[22:41:58] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÓĞÈËĞèÒª°ïÃ¦¹ıÈ¥°ïÃ¦¾ÍĞĞ[m
+[22:42:03] [Server thread/INFO]: Saligiald_Memory >> àŞ[m
+[22:42:07] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ã»ÊÂµÄÊ±ºò¿ÉÒÔÈ¥×öĞ©½¨Öşa[m
+[22:42:09] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ºìÊ¯°¡[m
+[22:42:15] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µ±È»ºìÊ¯ÄãÓ¦¸Ã²»»á[m
+[22:42:25] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ×ÜÖ®±ğÀÏÍÑÀëÕûÌå[m
+[22:42:34] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÇÑùÌ«ÎŞÁÄÁË[m
+[22:42:55] [Server thread/INFO]: Security_Winter >> az[m
+[22:43:14] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÔÚÏßµÄ¸÷Î»Ò²°ïÎÒÕÕ¹ËÒ»ÏÂÕâº¢×Ó[m
+[22:43:20] [Server thread/INFO]: Security_Winter >> okok[m
+[22:43:28] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Saligiald_Memory Õâ¼Ò»ï[m
+[22:43:35] [Server thread/INFO]: Security_Winter >> Õâ»ØÄãÊÇÒ¯Ò¯»¹ÊÇÊ²Ã´/doge[m
+[22:43:43] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ·şÎñÆ÷µÄ»·¾³ËıÒ²²»ÁË½â[m
+[22:44:33] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÁÁáÄãÒª²»×Ô¼ºÕû¸öĞ¡¼Æ»®£¿[m
+[22:44:34] [Server thread/INFO]: Security_Winter >> Ëı£¿[m
+[22:44:44] [Server thread/INFO]: Security_Winter >> az[m
+[22:44:47] [Server thread/INFO]: Saligiald_Memory >> ÎÒ´òËã¸ÄÔì±ù´¨À´×Å[m
+[22:44:58] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> É¶ÒâË¼[m
+[22:45:01] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¾ßÌåµã[m
+[22:45:08] [Server thread/INFO]: Saligiald_Memory >> °Ñ±ù´¨½¨µÄÄÜ×¡[m
+[22:45:17] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> = =[m
+[22:45:25] [Server thread/INFO]: Security_Winter >> ...[m
+[22:45:37] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ±ù´¨¡£¡£¡£[m
+[22:45:39] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Äã¸úÎÒÀ´[m
+[22:46:24] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÇÊ³á[m
+[22:46:32] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÒÔºó³£ÓÃÇÊ³á[m
+[22:47:03] [Server thread/INFO]: Security_Winter >> .[m
+[22:48:08] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÕâÊÇ·şÎñÆ÷µÚÒ»¸ö±»·¢ÏÖµÄ±ù´¨[m
+[22:48:19] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¸úÎÒ·É[m
+[22:48:45] [Server thread/WARN]: Saligiald_Memory moved wrongly!
+[22:48:45] [Server thread/WARN]: Saligiald_Memory moved wrongly!
+[22:50:09] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÕâÀïÔ­À´ÓĞ×ù±ùÉ½[m
+[22:50:14] [Server thread/INFO]: Saligiald_Memory >> ±»ÍÚÁË°¡[m
+[22:50:38] [User Authenticator #86/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[22:50:38] [Server thread/INFO]: jason_ji[/127.0.0.1:59552] logged in with entity id 775466 at ([world_nether]973.7987994377287, 11.0, -1023.6999999880791)
+[22:50:40] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Õâ¾ÍÊÇ·şÎñÆ÷ËùÓĞ±ù´¨µÄ×îºóÑù×Ó[m
+[22:50:45] [Server thread/INFO]: Saligiald_Memory >> ²İ[m
+[22:50:52] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[22:50:52] [Server thread/INFO]: jason_ji left the game
+[22:50:53] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÒòÎª[m
+[22:51:00] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒÒªĞŞµØÓü½»Í¨= =[m
+[22:51:01] [Server thread/INFO]: Saligiald_Memory >> µØÓü½»Í¨ĞíÒ«ÄÏ[m
+[22:51:05] [Server thread/INFO]: Saligiald_Memory >> ĞèÒªÄã[m
+[22:51:13] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ?[m
+[22:51:21] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µØÓü½»Í¨¾ÍÊÇÎÒĞŞµÃa[m
+[22:51:23] [Server thread/INFO]: Saligiald_Memory >> Ã»£¬Í»È»ÁªÏëµ½ÁË[m
+[22:51:26] [Server thread/INFO]: Saligiald_Memory >> Õâ¾ä»°[m
+[22:51:48] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÁÁáÒª²»ÒªÊÔÊÔ×ö¸ö½¨Öş[m
+[22:52:11] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> »òÕß¼ÓÈëÄ³¸öÕò[m
+[22:52:14] [Server thread/INFO]: Saligiald_Memory >> ÔÚÏë[m
+[22:52:24] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µ±¸ö´ò¹¤ÈË[m
+[22:52:43] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> »ØÈ¥°É[m
+[22:53:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓĞÅ®º¢×Ó£¿[m
+[22:53:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕæµÄ¼ÙµÄ[m
+[22:53:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Saligiald_Memory[m
+[22:53:49] [Server thread/INFO]: Mr_director issued server command: /tell Saligiald_Memory ÄãµÄĞÔ±ğËµ»¹ÊÇ²»Ëµ
+[22:53:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÊÇÅ®º¢×Ó£¿[m
+[22:53:56] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> = =[m
+[22:54:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿´À´²»ÊÇ[m
+[22:54:20] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÊÇ[m
+[22:54:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²İ[m
+[22:54:35] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÇº¢×ÓÎÒÀ­¹ıÀ´µÄ[m
+[22:54:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÔõÃ´¾­³£ĞÔµØÅª´íĞÔ±ğ[m
+[22:54:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> àÅ£¿[m
+[22:54:51] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¸ÕÏëÈÃËûÀ´ÈÏÊ¶Äã[m
+[22:54:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µÈµÈ[m
+[22:55:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ëı¼¸Ëê£¿[m
+[22:55:08] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒÔõÃ´ÖªµÀ[m
+[22:55:18] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ËıÉç¿Ö[m
+[22:55:22] [Server thread/INFO]: Saligiald_Memory >> ÔÛÔõÃ´ÖªµÀ[m
+[22:55:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ßÀ[m
+[22:55:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇ¾ÍÈÏÊ¶ÈÏÊ¶°Ñ[m
+[22:55:39] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãÏÖÔÚÔÚÄÄ[m
+[22:55:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÔÚ500[m
+[22:55:44] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒ´øËıÈÏÊ¶ÈÏÊ¶Äã[m
+[22:55:48] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¸úÎÒ[m
+[22:56:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃ¾ÃÃ»¼ûĞÂÈËÁË[m
+[22:56:38] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÊìÁ·ÔËÓÃÇÊ³á[m
+[22:56:43] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ·½±ã×ß½»Í¨[m
+[22:56:46] [Server thread/INFO]: Saligiald_Memory >> ka shu ru fa[m
+[22:56:50] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> k[m
+[22:56:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÉÏ´Î¼ûÅ®º¢×Ó»¹ÊÇÒü×È[m
+[22:57:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎØÎØÎØ[m
+[22:57:14] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[22:57:18] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Õâ¸ö¾ÍÊÇtape[m
+[22:57:23] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ·şÎñÆ÷ghsµÄ[m
+[22:57:24] [Server thread/INFO]: Saligiald_Memory >> SABER?[m
+[22:57:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> hello[m
+[22:57:31] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¸ãGºìHÊ¯S[m
+[22:57:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»ghs[m
+[22:57:48] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÇ¸öÂÓ¶áËş¾ÍÊÇËşĞŞµÄ[m
+[22:57:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ×¼±¸×ßÁË[m
+[22:57:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËãÁËÏÖÔÚ²»ËµÕâ¸ö[m
+[22:58:00] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ²İ= =[m
+[22:58:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ĞÂÈË½ĞÉ¶°¡[m
+[22:58:17] [Server thread/INFO]: Saligiald_Memory >> ¿ÉÒÔ½ĞÎÒÄÁÁá[m
+[22:58:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> saligiald[m
+[22:58:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> É¶ÒâË¼[m
+[22:58:41] [Server thread/INFO]: Saligiald_Memory >> ÎÒ±ÊÏÂ×îÏ²»¶µÄ½ÇÉ«µÄÃû×Ö[m
+[22:59:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> emmm£¬¿´À´Í¦»áµÄ¹ş[m
+[22:59:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇÉ¶[m
+[22:59:06] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ËùÒÔtape£¬ÄãÊÇÒª×ª·şÁË?[m
+[22:59:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»ÊÇ[m
+[22:59:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ´òËãµ±±ø[m
+[22:59:23] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> emmm[m
+[22:59:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ö±ËµÁË°É[m
+[22:59:27] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ºÃ°É[m
+[22:59:44] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒ×ì±¿²»ÖªµÀËµÉ¶[m
+[22:59:47] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ×£ÄãºÃÔË[m
+[22:59:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹ş¹ş¹ş¹şĞ»Ğ»[m
+[22:59:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Í¦ºÃÍ¦ºÃ[m
+[23:00:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 6ÔÂ19ºÅÌå¼ì[m
+[23:00:33] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ·şÎñÆ÷×î´óµÄ¸ÎµÛ[m
+[23:00:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÜÈ¥µÄ»°¾ÍÊÇ9ÔÂ×ß[m
+[23:00:38] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÇ¸öºÏ½ğÃÅ[m
+[23:00:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÔõÃ´ÁË[m
+[23:00:45] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¾ÍÊÇËûÕûµÄ[m
+[23:00:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> É¶×ÓÓ´[m
+[23:00:53] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> »¹ÓĞÒ»¶ÑºÏ½ğ¶¼ÊÇÒ»¿é¿éÍÚµÄ[m
+[23:01:04] [Server thread/INFO]: Saligiald_Memory >> Ì«Ç¿ÁË[m
+[23:01:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ±ğÌáÄÇĞ©³ÂÖ¥ÂéÀÃ¹È×ÓÁË[m
+[23:01:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> º¦Ğß[m
+[23:01:20] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> »¹ÓĞÒ»¶ÑÇÊ³á= =[m
+[23:01:32] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÒÔ¼°ÄÇ¸öµòÁã÷¼÷ÃÍ·[m
+[23:01:36] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µòÁãËş[m
+[23:01:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÁÁá»á½¨ÖşÂğ[m
+[23:01:51] [Server thread/INFO]: Saligiald_Memory >> »áÒ»µã[m
+[23:02:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÖÔÚÄãÃÇÔÚ¸ÉÉ¶[m
+[23:02:12] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒ´øº¢×ÓÍæ[m
+[23:02:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ´ó¸Å¶à´ó°¡£¬ÈÃÎÒÓĞ¸öÊı[m
+[23:02:49] [Server thread/INFO]: Saligiald_Memory >> Ê®¼¸[m
+[23:02:54] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> 500µÄÕâÒ»¶Ñ½¨Öş[m
+[23:03:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇ»¹ĞĞ£¬¿ÉÒÔ½»Á÷[m
+[23:03:05] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÊÇ·ãÒ¶×öµÄ[m
+[23:03:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ´øº¢×ÓÍæ[m
+[23:03:15] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µ½Ê±ºòÄãÃÇÓ¦¸Ã»á¼ûµ½[m
+[23:03:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÖÔÚ¸ÉÉ¶ºÃÄØ[m
+[23:03:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÅãÄãÃÇÍæÒ»»á[m
+[23:03:32] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ò²Ã»É¶ºÃÍæµÄ[m
+[23:03:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Òª²»×ö½¨Öş°Ñ[m
+[23:03:52] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Äã½Ì½ÌËû·şÎñÆ÷µÄ»·¾³°É[m
+[23:03:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÒ²Ã»ÓĞ¸ö¼Ò[m
+[23:04:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×ö½¨Öş°É[m
+[23:04:07] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ËıºÃ²»ÈİÒ×±»ÎÒÀ­»Ø¿Ó[m
+[23:04:21] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ½Ì½ÌËıÓÃÄÇĞ©¹¤¾ß[m
+[23:04:25] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> hackrooÉ¶µÄ[m
+[23:04:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓÖÀ´£¿[m
+[23:04:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÀÛËÀÎÒšG[m
+[23:04:43] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄãºÃ´õÒ²ÊÇ·şÎñÆ÷µÄ¼¼ÊõÈËÔ±[m
+[23:04:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃ°É[m
+[23:04:59] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ò»Ğ©¸ö»úÆ÷ÔõÃ´Ê¹ÓÃÉ¶µÄ[m
+[23:05:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏëÑ§É¶Ñ½[m
+[23:05:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> tweakroo»áÓÃÂğ[m
+[23:05:22] [Server thread/INFO]: Saligiald_Memory >> ²»»á[m
+[23:05:33] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÁÁáÄãÊÇ×Ô¼ºµÄ¶ËÊÇÃ´[m
+[23:05:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã¿Í»§¶ËÓĞÄ£×éÂï[m
+[23:05:43] [Server thread/INFO]: Saligiald_Memory >> Ã»[m
+[23:05:46] [Server thread/INFO]: Saligiald_Memory >> µ«¿ÉÒÔÏÂ[m
+[23:05:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> tweakroo,Í¶Ó°ÕâĞ©Ä£×éÉ¶µÄ[m
+[23:05:57] [Server thread/INFO]: Saligiald_Memory >> Ã»ÓĞ[m
+[23:05:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇÄãÏÈÏÂ¸ö´øÄ§×åµÄ°É[m
+[23:06:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇÄãÏÈÏÂ¸ö´ømodsµÄ°É[m
+[23:06:04] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ËıÊÇ×Ô¼ºµÄ¶Ë[m
+[23:06:13] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ·şÎñÆ÷ÈºÀïÓĞ[m
+[23:06:19] [Server thread/INFO]: Saligiald_Memory >> àŞ[m
+[23:06:28] [Server thread/INFO]: Saligiald_Memory >> ÄÇÊÇÓÃÀ´×öÊ²Ã´µÄ[m
+[23:06:33] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¸¨Öú¹¤¾ß[m
+[23:06:44] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µ±È»ÑÏ¸ñÀ´ËµËãÍâ¹Ò£¨[m
+[23:06:48] [Server thread/INFO]: Saligiald_Memory >> ?[m
+[23:06:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÁÁá´ó¸ÅÊ²Ã´Ë®Æ½ÄØ[m
+[23:07:03] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÄ¸öË®Æ½[m
+[23:07:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ö®Ç°Íæmc´ó¸ÅÊÇÊ²Ã´Ë®Æ½[m
+[23:07:16] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ĞÂÈË£¿[m
+[23:07:22] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ĞÂÊÖ£¿[m
+[23:07:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> É¶Ò²²»»áµÄ£¿[m
+[23:07:27] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ²î²»¶à[m
+[23:07:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ä£×é»áÓÃÂğ[m
+[23:07:35] [Server thread/INFO]: Saligiald_Memory >> »á[m
+[23:07:39] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µ«ÊÇËı½¨Öş±ÈÎÒºÃ[m
+[23:07:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> šG[m
+[23:07:47] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ËäÈ»ÊÇºÍÁíÒ»¸öÈËÑ§µÄ[m
+[23:07:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇ¾ÍÊÇÓĞÒ»¶¨µÄ»ù´¡[m
+[23:08:04] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ö®Ç°ÎÒÃÇ³£ÍæµÄÊÇ´´Ôì[m
+[23:08:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹À¼ÆÓ¦¸Ã»á±Èº®°²ºÃ½Ì[m
+[23:08:07] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ËùÒÔ[m
+[23:08:28] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¶øÇÒËı²»ÖªµÀÓĞÃ»ÓĞ¸Î[m
+[23:08:42] [Server thread/INFO]: Saligiald_Memory >> ÓĞ¸Î£¬Ã»Ê±¼ä[m
+[23:08:57] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¶Ô£¬ËıÍæµÄ¶«Î÷Í¦¶à[m
+[23:09:15] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ²»ÏñÔÛÃÇÓĞÊÂÃ»ÊÂÀ´ÍæÍæ[m
+[23:09:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÖªµÀfabric¶ËÂï[m
+[23:09:25] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÁÁáÄãÏÈÏÂ¶Ë°É[m
+[23:09:26] [Server thread/INFO]: Saligiald_Memory >> ²»Ì«ÁË½â[m
+[23:09:31] [Server thread/INFO]: Saligiald_Memory >> ÔÚÈºÀïÊÇÂğ[m
+[23:10:02] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ËıµÄÄ£×éÁË½âÎª0[m
+[23:10:05] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ºìÊ¯0[m
+[23:10:14] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Éú´æ²»Ç¿[m
+[23:10:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ßÀ[m
+[23:10:23] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ½¨ÖşÎÒÈÏÎªÖĞµÈ[m
+[23:10:27] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¿¼ÏÂ[m
+[23:10:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÉÔµÈÎÒÕûÀíÒ»¸öÕûºÏ°ü·¢ÈºÀï[m
+[23:11:22] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÁÁáÎÒÉÔÎ¢ËµËµtape°É[m
+[23:11:26] [Server thread/INFO]: Saligiald_Memory >> àŞ[m
+[23:11:30] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ëû£¬¸Ä±äÁË·şÎñÆ÷[m
+[23:11:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÄ¼ş·¢ÈºÀïÁË[m
+[23:11:46] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ô­À´·şÎñÆ÷µÄºìÊ¯Ë®Æ½²»¸ß[m
+[23:11:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÈÏÂÒ»¸ö°É[m
+[23:11:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 1¸öG[m
+[23:11:57] [Server thread/INFO]: Saligiald_Memory >> ²İ[m
+[23:12:03] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ´ó²¿·Ö¶«Î÷¶¼¿¿ÊÖÍÚ[m
+[23:12:12] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> µ«ÊÇËûÓĞÊ±¼äÍæ·şÎñÆ÷Ö®ºó[m
+[23:12:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Òª²»ÒªÈºÓïÒô[m
+[23:12:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ´ò×ÖºÃÀÛ[m
+[23:12:36] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒÊÇ²»ÊÇËµ¹ıËıÓĞµãÉç¿Ö£¿[m
+[23:12:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÊÌâ²»´ò[m
+[23:12:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒËµ»°¾ÍĞĞ[m
+[23:12:52] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ¿´ËûÔ¸²»Ô¸Òâ[m
+[23:13:15] [Server thread/INFO]: Saligiald_Memory >> ²»ÓÃÁË£¬ÎÒ´ı»á¾ÍµÃÏÂÁË[m
+[23:13:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃµÄ[m
+[23:13:22] [Server thread/INFO]: Saligiald_Memory >> »á´òÈÅµ½¼ÒÀïÈËµÄ[m
+[23:14:01] [Server thread/INFO]: Saligiald_Memory >> ÎÄ¼şÊÇÔÚ´«ÊäÂğ[m
+[23:15:18] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÁÁá£¬ºÃºÃ¿ª¿ªÑÛ½ç°É[m
+[23:15:24] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> MC²»ÊÇÖ®Ç°ÄÇÑùÁË[m
+[23:15:36] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ´©ÉÏ×°±¸[m
+[23:15:56] [Server thread/INFO]: Saligiald_Memory >> ÎÒ»¹ÒÔÎªÎÒ´©ÁË[m
+[23:16:04] [Server thread/INFO]: Saligiald_Memory >> Ìõ¼ş·´ÉäÀ´±£ÄãÏÈ[m
+[23:16:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÈºÎÄ¼ş¿´Ò»ÏÂ[m
+[23:16:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¸Õ¸Õ·¢ÁË2¸ö[m
+[23:16:39] [Server thread/INFO]: Saligiald_Memory >> ¿´µ½ÁË[m
+[23:16:40] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> MC²»ÔÙºÍÖ®Ç°ÔÛÃÇÍæµÄÄÇÑùÁË[m
+[23:16:46] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ±äµÃ¸ü¼ÓÓĞÈ¤ÁË[m
+[23:16:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ë¯¾õ[m
+[23:17:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×ß[m
+[23:17:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Security_Winter[m
+[23:17:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ......[m
+[23:18:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËãÁË¾ÍÕâÑùÁÄÌìÍ¦ºÃ[m
+[23:18:08] [Server thread/INFO]: Saligiald_Memory >> ²İ[m
+[23:18:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ë¯×ÅÁÄÌì~[m
+[23:18:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇÉ¶[m
+[23:18:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ã÷ÌìÄãÃÇÍæÂğ[m
+[23:18:39] [Server thread/INFO]: Saligiald_Memory >> »áÍæ[m
+[23:18:49] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎªÊ²Ã´²»ÄØ[m
+[23:18:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÃÇÏÖÔÚÊÇ³õÖĞ¶ÔÂğ[m
+[23:19:02] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒ¾ÍÊÇÀ´´øËı¿ªÑÛ½çµÄ[m
+[23:19:06] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒ8Ëê[m
+[23:19:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ¸Ğ¾õÎÒºÍÄã¸ôÁËÒ»´ú[m
+[23:19:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ20[m
+[23:19:44] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄêÁä²»ÊÇÎÊÌâ[m
+[23:19:46] [Server thread/INFO]: Security_Winter lost connection: Timed out
+[23:19:46] [Server thread/INFO]: Security_Winter left the game
+[23:19:50] [Server thread/INFO]: Saligiald_Memory >> ²İ[m
+[23:19:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ì½Ğ¸ç[m
+[23:19:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ahhhh[m
+[23:20:07] [Server thread/INFO]: Saligiald_Memory >> ¸Ã½ĞÊåÊåÁË[m
+[23:20:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓĞÕâÃ´ÀÏÂğ[m
+[23:20:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> :([m
+[23:20:24] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ²»Ëµ±ğµÄ[m
+[23:20:30] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Ëı½ĞÎÒÒ¯Ò¯[m
+[23:20:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÓĞµãÂÒ[m
+[23:20:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ò¯Ò¯£¿[m
+[23:21:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃÁË²»Ì¸Õâ¸öÁË[m
+[23:21:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇÃ÷ÌìÔÙ½ÌÒ»Ğ©modsÓÃ·¨°É[m
+[23:21:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºó½ñÌìÏÈ½éÉÜÒ»ÏÂ[m
+[23:21:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> tweakroo[m
+[23:21:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> tweak[m
+[23:22:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ó¦¸Ã¾ÍÊÇ¡°×ª»»¡±µÄÒ×ËÀ[m
+[23:22:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ó¦¸Ã¾ÍÊÇ¡°×ª»»¡±µÄÒâË¼[m
+[23:22:34] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÎÒÏÈÁïÁË[m
+[23:22:42] [Server thread/INFO]: Saligiald_Memory >> ²İ[m
+[23:22:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Êµ¼ÊÉÏÕâ¸öÄ£×éÊÇÓ¢Óïµ¥´ÊµÄ»ìÓÃ[m
+[23:22:45] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ÄÁÁáÄãºÃºÃÑ§[m
+[23:22:50] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:22:50] [Server thread/INFO]: Mr_director left the game
+[23:23:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¾ßÌåÒâË¼¿ÉÄÜÒ²¾ÍÊÇ·½±ã×ª»»Ö®ÀàµÄ°É[m
+[23:23:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹¦ÄÜÒ²ÊÇºÜÇ¿´óµÄ[m
+[23:23:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÒòÎª×÷ÕßÒÔÇ°ÊÇĞ´Íâ¹ÒµÄ[m
+[23:23:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËùÒÔ£¬Ñ§ºÃÁË¶ÔÉú´æÀ´ËµÍ¦ÓÑºÃ[m
+[23:23:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»£¬Í¦·½±ã[m
+[23:24:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¾ÍÊÇÉú´æ¸ü·½±ãÁË£¬´´ÔìÒ²»á·½±ã[m
+[23:24:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×ÜÖ®Ä£×é¿ÉÒÔÈÃÄãÌåÑéÔ­°æ²»ÄÜÌåÑéµÄ¶«Î÷[m
+[23:24:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ò²ÄÜ¶ÔÓÎÏ·½øĞĞÓÅ»¯É¶µÄ[m
+[23:24:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> šG£¬ÄãÓ¢ÓïË®Æ½´ó¸ÅÔõÃ´Ñù[m
+[23:25:02] [Server thread/INFO]: Saligiald_Memory >> Í¦ºÃµÄ»¹[m
+[23:25:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õâ¸öÄ£×éÓ¢ÎÄ±È½Ï¶à[m
+[23:25:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÈ¼Ç¼¸¸öµ¥´Ê°É[m
+[23:26:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> generic Í¨ÓÃ[m
+[23:27:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> tweak toggle ´ó¸Å¾ÍÊÇtweak ×ª»»[m
+[23:27:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> toggleÊÇ×ª»»µÄÒ×ËÀ[m
+[23:27:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> toggleÊÇ×ª»»µÄÒâË¼[m
+[23:27:39] [Server thread/INFO]: Saligiald_Memory >> àŞ[m
+[23:28:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> tweak hotkey ÈÈ¼ü£¬ÒâË¼¾ÍÊÇÉèÖÃÁËÖ®ºó£¬°´ÏÂ¼üÅÌÉÏ¶ÔÓ¦µÄ°´¼ü¿ÉÒÔ¿ªÆô/¹Ø±Õ¹¦ÄÜ[m
+[23:28:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> hotkey ÈÈ¼ü[m
+[23:28:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ßÀ£¬Äã¹äbÕ¾Âï[m
+[23:29:11] [Server thread/INFO]: Saligiald_Memory >> ¹äµÄ[m
+[23:29:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã¿ÉÒÔÔÚbÕ¾ËÑË÷tweakroo£¬ÀïÃæÓĞºÜ¶à½Ì³ÌµÄ[m
+[23:29:26] [Server thread/INFO]: Saligiald_Memory >> ºÃ[m
+[23:29:34] [Server thread/INFO]: Saligiald_Memory >> ÎÒÓĞµãÊÂÇé£¬ÏÈÏÂÁË£¬±§Ç¸[m
+[23:29:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã¿ÉÒÔÏÈÑ§Ò»Ñ§£¬È»ºóÓĞÊ²Ã´²»¶®µÄÎÒ¿ÉÒÔ½ÌÄã[m
+[23:29:44] [Server thread/INFO]: Saligiald_Memory >> àÅ[m
+[23:29:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃµÄ£¬Íí°²[m
+[23:29:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ã÷Ìì¼û[m
+[23:30:19] [Server thread/INFO]: Saligiald_Memory lost connection: Timed out
+[23:30:19] [Server thread/INFO]: Saligiald_Memory left the game
+[23:31:43] [User Authenticator #87/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[23:31:43] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:59702] logged in with entity id 778024 at ([world]5106.159253963963, 92.5, -1064.9469216590462)
+[23:32:35] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[23:32:35] [Server thread/INFO]: anew_tape left the game
+[23:44:43] [User Authenticator #88/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[23:44:43] [Server thread/INFO]: Security_Winter[/127.0.0.1:59758] logged in with entity id 779141 at ([world]1516.8327133214225, 161.0, -1526.4464664782881)
+[23:46:47] [Server thread/INFO]: Security_Winter >> az[m
+[23:46:54] [Server thread/INFO]: Security_Winter issued server command: /p lead
+[23:46:57] [Server thread/INFO]: YuHuaQingZhu >> £¿[m
+[23:47:02] [Server thread/INFO]: Security_Winter >> Ã»Õ¦[m
+[23:57:14] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m

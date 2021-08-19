@@ -1,0 +1,1057 @@
+[21:27:11] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:27:11] [Server thread/INFO]: Loading properties
+[21:27:11] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[21:27:12] [Server thread/INFO]: Debug logging is disabled
+[21:27:12] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[21:27:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:27:12] [Server thread/INFO]: Default game type: SURVIVAL
+[21:27:12] [Server thread/INFO]: Generating keypair
+[21:27:12] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[21:27:12] [Server thread/INFO]: Using default channel type
+[21:27:12] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[21:27:14] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[21:27:14] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[21:27:14] [Server thread/WARN]: Legacy plugin NoSpawnChunks v2.0-b147 does not specify an api-version.
+[21:27:14] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[21:27:14] [Server thread/WARN]: Legacy plugin dynmap v3.0-beta-10-257 does not specify an api-version.
+[21:27:14] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[21:27:14] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[21:27:14] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[21:27:14] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.2.2
+[21:27:14] [Server thread/INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0-b147
+[21:27:14] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[21:27:14] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[21:27:14] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[21:27:14] [Server thread/INFO]: [VillagerOptimiser] Loading VillagerOptimiser v1.1.3
+[21:27:14] [Server thread/INFO]: [dynmap] Loading dynmap v3.0-beta-10-257
+[21:27:14] [Server thread/INFO]: [dynmap] version=git-Paper-118 (MC: 1.15.2)
+[21:27:15] [Server thread/INFO]: [dynmap] Unload queue not found - default to unload all chunks
+[21:27:15] [Server thread/INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[21:27:15] [Server thread/INFO]: [dynmap] Mod Support API available
+[21:27:15] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[21:27:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:27:15] [Server thread/INFO]: Preparing level "world"
+[21:27:15] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:27:22] [Server thread/INFO]: Loaded 6 recipes
+[21:27:22] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:27:22] [Server thread/INFO]: View Distance: 8
+[21:27:22] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:27:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:27:22] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:27:22] [Server thread/INFO]: Item Despawn Rate: 4000
+[21:27:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:27:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:27:22] [Server thread/INFO]: Mob Spawn Range: 4
+[21:27:22] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:27:22] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[21:27:22] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:27:22] [Server thread/INFO]: Max TNT Explosions: 100
+[21:27:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:27:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:27:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:27:22] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:27:22] [Server thread/INFO]: View Distance: 8
+[21:27:22] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:27:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:27:22] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:27:22] [Server thread/INFO]: Item Despawn Rate: 4000
+[21:27:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:27:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:27:22] [Server thread/INFO]: Mob Spawn Range: 4
+[21:27:22] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:27:22] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[21:27:22] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:27:22] [Server thread/INFO]: Max TNT Explosions: 100
+[21:27:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:27:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:27:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:27:22] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:27:22] [Server thread/INFO]: View Distance: 8
+[21:27:22] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:27:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:27:22] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:27:22] [Server thread/INFO]: Item Despawn Rate: 4000
+[21:27:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:27:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:27:22] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:27:22] [Server thread/INFO]: Mob Spawn Range: 4
+[21:27:22] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:27:22] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[21:27:22] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:27:22] [Server thread/INFO]: Max TNT Explosions: 100
+[21:27:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:27:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:27:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:27:22] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[21:27:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:23] [Server thread/INFO]: Preparing spawn area: 24%
+[21:27:23] [Server thread/INFO]: Preparing spawn area: 100%
+[21:27:24] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[21:27:24] [Server thread/INFO]: Time elapsed: 1422 ms
+[21:27:24] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[21:27:24] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:24] [Server thread/INFO]: Preparing spawn area: 97%
+[21:27:24] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[21:27:24] [Server thread/INFO]: Time elapsed: 843 ms
+[21:27:24] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[21:27:24] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:25] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[21:27:25] [Server thread/INFO]: Time elapsed: 395 ms
+[21:27:25] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[21:27:25] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[21:27:25] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[21:27:25] [Server thread/INFO]: --------------------
+[21:27:25] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[21:27:25] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[21:27:25] [Server thread/INFO]: --------------------
+[21:27:25] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[21:27:25] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[21:27:25] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[21:27:25] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[21:27:25] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[21:27:25] [Server thread/INFO]:  
+[21:27:25] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[21:27:25] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[21:27:25] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[21:27:25] [Server thread/INFO]:  
+[21:27:25] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[21:27:25] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[21:27:25] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[21:27:25] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[21:27:28] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[21:27:28] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.2.2
+[21:27:28] [Server thread/INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0-b147*
+[21:27:28] [Server thread/INFO]: [NoSpawnChunks] NoSpawnChunks v2.0-b147 has been enabled. Took 3 ms.
+[21:27:28] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[21:27:28] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[21:27:28] [Server thread/INFO]: [SAML] Loading config.yml...
+[21:27:28] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[21:27:28] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[21:27:28] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[21:27:28] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[21:27:28] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[21:27:28] [Server thread/INFO]: [SAML] Loading messages.yml...
+[21:27:28] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[21:27:28] [Server thread/INFO]: [SAML] Successfully enabled.
+[21:27:28] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[21:27:28] [Server thread/INFO]: [GM+] Checking Your version...
+[21:27:28] [Server thread/INFO]: ===============================
+[21:27:28] [Server thread/INFO]: 
+[21:27:28] [Server thread/INFO]:  GroupManager+ is now enable!
+[21:27:28] [Server thread/INFO]:  
+[21:27:28] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[21:27:28] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[21:27:28] [Server thread/INFO]:  Current version: v3.3
+[21:27:28] [Server thread/INFO]:  
+[21:27:28] [Server thread/INFO]: ===============================
+[21:27:28] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[21:27:28] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[21:27:28] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[21:27:28] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[21:27:28] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[21:27:28] [Server thread/INFO]: [VillagerOptimiser] Enabling VillagerOptimiser v1.1.3
+[21:27:28] [Server thread/INFO]: [VillagerOptimiser] Loading config.yml...
+[21:27:28] [Server thread/INFO]: [VillagerOptimiser] Successfully loaded config.yml.
+[21:27:28] [Server thread/INFO]: [VillagerOptimiser] Successfully enabled.
+[21:27:28] [Server thread/INFO]: [dynmap] Enabling dynmap v3.0-beta-10-257*
+[21:27:29] [Server thread/INFO]: [dynmap] Using GroupManager 3.3 for access control
+[21:27:29] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[21:27:29] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[21:27:29] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[21:27:29] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[21:27:29] [Server thread/INFO]: [dynmap] Web server started on address 127.0.0.1:8123
+[21:27:29] [Server thread/INFO]: [dynmap] version 3.0-beta-10-257 is enabled - core version 3.0-beta-10-257
+[21:27:29] [Server thread/INFO]: [dynmap] For support, visit https://forums.dynmap.us
+[21:27:29] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[21:27:29] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[21:27:29] [Server thread/INFO]: [dynmap] Loaded 32 pending tile renders for world 'world'
+[21:27:29] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[21:27:29] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[21:27:29] [Server thread/INFO]: [dynmap] Enabled
+[21:27:29] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[21:27:29] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[21:27:29] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[21:27:29] [Server thread/INFO]: [TAB] Animation "MyAnimation1" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:27:29] [Server thread/INFO]: [TAB] Animation "ServerName" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:27:29] [Server thread/INFO]: [TAB] Animation "web" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:27:29] [Server thread/INFO]: [TAB] Animation "online" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:27:29] [Server thread/INFO]: [TAB] Animation "vote" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:27:29] [Server thread/INFO]: [TAB] Animation "Welcome" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:27:29] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[21:27:29] [Server thread/INFO]: [TAB] Animation "time" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:27:29] [Server thread/INFO]: [TAB] Animation "versions" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:27:36] [Server thread/INFO]: [TAB] Version 2.8.2 is out! Your version: 2.7.2
+[21:27:36] [Server thread/INFO]: [TAB] Get the update at https://www.spigotmc.org/resources/57806/
+[21:27:36] [Server thread/INFO]: [TAB] There were 10 startup warnings.
+[21:27:36] [Server thread/INFO]: [TAB] Enabled in 6852ms
+[21:27:36] [Server thread/INFO]: Done (21.351s)! For help, type "help"
+[21:27:36] [Server thread/INFO]: Timings Reset
+[21:27:36] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[21:27:36] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[21:27:36] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[21:27:38] [Thread-31/INFO]: --------------------
+[21:27:38] [Thread-31/INFO]: [CoreProtect] Version 19.0 is now available.
+[21:27:38] [Thread-31/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[21:27:38] [Thread-31/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[21:27:38] [Thread-31/INFO]: --------------------
+[21:27:39] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[21:27:39] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
+[21:27:40] [Server thread/INFO]: [NoSpawnChunks] Freed 340 mb!
+[21:27:41] [Craft Scheduler Thread - 3/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[21:27:41] [Craft Scheduler Thread - 3/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[21:27:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@7c7de00c[id=<null>,name=Xin_Sai,properties={},legacy=false] (/127.0.0.1:55164) lost connection: Disconnected
+[21:27:45] [User Authenticator #1/INFO]: UUID of player Raphael0461 is 94bc8e5c-326c-46b8-a68f-aac35f7075f7
+[21:27:45] [Server thread/INFO]: Raphael0461[/127.0.0.1:55163] logged in with entity id 1035 at ([world_the_end]-8.699746306282133, 0.5, 311.4267027174261)
+[21:27:47] [User Authenticator #1/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[21:27:47] [Server thread/INFO]: adhesive_tape[/127.0.0.1:55173] logged in with entity id 1094 at ([world_nether]283.5531878974537, 117.0, 793.3539000222494)
+[21:27:49] [User Authenticator #1/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[21:27:50] [Server thread/INFO]: Xin_Sai[/127.0.0.1:55175] logged in with entity id 1178 at ([world_nether]285.62927089243595, 117.0, 793.4400194517015)
+[21:27:51] [User Authenticator #1/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[21:27:52] [Server thread/INFO]: Mr_director[/127.0.0.1:55176] logged in with entity id 1190 at ([world]2803.4507169919625, 62.0, -427.69999998807907)
+[21:27:56] [Async Chat Thread - #0/INFO]: <Mr_director> ok
+[21:28:13] [Async Chat Thread - #0/INFO]: <adhesive_tape> 多给点脚手架啊喂
+[21:28:14] [User Authenticator #1/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[21:28:14] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:55178] logged in with entity id 2003 at ([world_nether]278.19843283324144, 119.0, 787.9751738597354)
+[21:28:28] [User Authenticator #1/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[21:28:28] [Server thread/INFO]: Ghost_king_[/127.0.0.1:55184] logged in with entity id 2270 at ([world_nether]258.08405252668643, 121.0, 786.6383357683076)
+[21:28:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@119753fc[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:55189) lost connection: Disconnected
+[21:28:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@763ce375[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:55191) lost connection: Disconnected
+[21:28:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@4cdac0fa[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:55192) lost connection: Disconnected
+[21:28:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c0c8d01[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:55198) lost connection: Disconnected
+[21:28:45] [Async Chat Thread - #0/INFO]: <Ghost_king_> 好了
+[21:28:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@37c26890[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:55200) lost connection: Disconnected
+[21:28:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@40ff0395[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:55201) lost connection: Disconnected
+[21:28:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@41c16fab[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:55206) lost connection: Disconnected
+[21:29:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@50ba779a[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:55209) lost connection: Disconnected
+[21:29:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@7516a124[id=<null>,name=lappland,properties={},legacy=false] (/127.0.0.1:55208) lost connection: Disconnected
+[21:29:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c10bfd1[id=<null>,name=lappland,properties={},legacy=false] (/127.0.0.1:55210) lost connection: Disconnected
+[21:29:22] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> ...
+[21:29:45] [Async Chat Thread - #0/INFO]: <Ghost_king_> 都好了是吧
+[21:29:46] [Server thread/INFO]: Nothing changed. The player is not an operator
+[21:29:49] [Server thread/INFO]: Nothing changed. The player is not an operator
+[21:29:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@55621f1c[id=<null>,name=lappland,properties={},legacy=false] (/127.0.0.1:55222) lost connection: Disconnected
+[21:29:56] [Async Chat Thread - #0/INFO]: <Raphael0461> yes
+[21:30:05] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> ...
+[21:30:13] [Async Chat Thread - #0/INFO]: <Ghost_king_> tape你有灵魂出窍吗
+[21:30:14] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> ok
+[21:30:19] [Async Chat Thread - #0/INFO]: <adhesive_tape> 没有
+[21:30:19] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> 全放完了
+[21:30:30] [Async Chat Thread - #0/INFO]: <Ghost_king_> 那……那你咋检查
+[21:30:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@7e5c5dc3[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:55228) lost connection: Disconnected
+[21:31:10] [User Authenticator #3/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[21:31:10] [Server thread/INFO]: jason_ji[/127.0.0.1:55238] logged in with entity id 5396 at ([world_nether]646.5550619008434, 114.0, 24.54097477356792)
+[21:31:17] [Async Chat Thread - #0/INFO]: <adhesive_tape> 粘液块
+[21:31:23] [Async Chat Thread - #0/INFO]: <Ghost_king_> 先别开机
+[21:31:25] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> 多少
+[21:31:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d478718[id=<null>,name=Zheng7,properties={},legacy=false] (/127.0.0.1:55245) lost connection: Disconnected
+[21:31:35] [Async Chat Thread - #0/INFO]: <Ghost_king_> 我只有这些了
+[21:31:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@77f2d433[id=<null>,name=lappland,properties={},legacy=false] (/127.0.0.1:55248) lost connection: Disconnected
+[21:32:00] [Async Chat Thread - #0/INFO]: <Ghost_king_> 等你下你们造完了叫我 我把弹起部分的红石块放好
+[21:32:00] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> 库存还有一个粘液块
+[21:32:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@49932a0f[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:55258) lost connection: Disconnected
+[21:32:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@268d599c[id=<null>,name=Zheng7,properties={},legacy=false] (/127.0.0.1:55257) lost connection: Disconnected
+[21:32:03] [Async Chat Thread - #0/INFO]: <jason_ji> 开机了？
+[21:32:09] [Async Chat Thread - #0/INFO]: <Mr_director> 海晶混凝土机补货是我没玩懂还是有问题？
+[21:32:10] [Async Chat Thread - #0/INFO]: <Ghost_king_> 没
+[21:32:19] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> ...
+[21:32:24] [Async Chat Thread - #0/INFO]: <jason_ji> 去围观了
+[21:32:27] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@14a53914[id=<null>,name=lappland,properties={},legacy=false] (/127.0.0.1:55253): Took too long to log in
+[21:32:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@14a53914[id=<null>,name=lappland,properties={},legacy=false] (/127.0.0.1:55253) lost connection: Took too long to log in
+[21:32:29] [User Authenticator #5/INFO]: UUID of player Cherisss is 207d836e-4ee8-4734-8b9c-c527468e3653
+[21:32:29] [Server thread/INFO]: Cherisss[/127.0.0.1:55267] logged in with entity id 7562 at ([world]-905.0238497862008, 80.0, -7374.697474637758)
+[21:32:33] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> 应该有问题
+[21:32:37] [User Authenticator #4/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[21:32:37] [Server thread/INFO]: 4022sun[/127.0.0.1:55263] logged in with entity id 7939 at ([world]-387.3307226837106, 106.0, -3469.435239278262)
+[21:32:38] [Async Chat Thread - #0/INFO]: <Cherisss> 这不能进来吗= =
+[21:32:40] [Async Chat Thread - #0/INFO]: <jason_ji> 新人吗
+[21:32:44] [Async Chat Thread - #0/INFO]: <Cherisss> 身上不是有东西嘛= =
+[21:32:46] [Async Chat Thread - #0/INFO]: <4022sun> e
+[21:32:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@49f5db64[id=<null>,name=Zheng7,properties={},legacy=false] (/127.0.0.1:55274) lost connection: Disconnected
+[21:32:49] [Async Chat Thread - #0/INFO]: <Ghost_king_> 别围观吧 这不
+[21:32:51] [Async Chat Thread - #0/INFO]: <4022sun> ghost
+[21:32:53] [Async Chat Thread - #0/INFO]: <Ghost_king_> 等下炸膛
+[21:32:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f42e238[id=<null>,name=Zheng7,properties={},legacy=false] (/127.0.0.1:55276) lost connection: Disconnected
+[21:32:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@1cff22a7[id=<null>,name=Zheng7,properties={},legacy=false] (/127.0.0.1:55279) lost connection: Disconnected
+[21:32:58] [Async Chat Thread - #0/INFO]: <Ghost_king_> 就 就很棒了
+[21:32:58] [Async Chat Thread - #0/INFO]: <4022sun> 我来砍你了
+[21:32:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@5270a4e7[id=<null>,name=Zheng7,properties={},legacy=false] (/127.0.0.1:55280) lost connection: Disconnected
+[21:33:02] [Async Chat Thread - #0/INFO]: <4022sun> =w=
+[21:33:05] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> e
+[21:33:05] [Server thread/WARN]: Boat (vehicle of jason_ji) moved too quickly! 22.002864583156466,0.0,0.0
+[21:33:05] [Server thread/WARN]: Boat (vehicle of jason_ji) moved too quickly! 23.229899478854847,0.0,0.0
+[21:33:05] [Server thread/WARN]: Boat (vehicle of jason_ji) moved too quickly! 24.47003863767756,0.0,0.0
+[21:33:05] [Server thread/WARN]: Boat (vehicle of jason_ji) moved too quickly! 25.72312892072685,0.0,0.0
+[21:33:06] [Async Chat Thread - #0/INFO]: <4022sun> 你们在哪
+[21:33:07] [Server thread/INFO]: Cherisss lost connection: Disconnected
+[21:33:07] [Server thread/INFO]: Cherisss left the game
+[21:33:15] [Async Chat Thread - #0/INFO]: <Ghost_king_> wdnmd怎么又双叒叕砍我？
+[21:33:16] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> 你说你再也不来的地方
+[21:33:16] [Async Chat Thread - #0/INFO]: <4022sun> 我烟花又用完了
+[21:33:20] [Async Chat Thread - #0/INFO]: <jason_ji> 我就是来看炸膛的
+[21:33:26] [Async Chat Thread - #0/INFO]: <4022sun> 哦
+[21:33:28] [Async Chat Thread - #0/INFO]: <Ghost_king_> wtm
+[21:33:33] [Async Chat Thread - #0/INFO]: <4022sun> 那我来看ghost炸膛了
+[21:33:34] [Async Chat Thread - #0/INFO]: <Ghost_king_> 森语都砍我
+[21:33:46] [Async Chat Thread - #0/INFO]: <Ghost_king_> 那可没 这次是tape 做的呢
+[21:33:52] [Async Chat Thread - #0/INFO]: <4022sun> 点了
+[21:33:57] [Async Chat Thread - #0/INFO]: <Ghost_king_> 他说是3连发的
+[21:33:59] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> 不是我，我没有，你没看到(否定三连
+[21:34:01] [Async Chat Thread - #0/INFO]: <4022sun> 建议先开试验机
+[21:34:14] [Async Chat Thread - #0/INFO]: <adhesive_tape> 我去
+[21:34:31] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> e
+[21:34:57] [Async Chat Thread - #0/INFO]: <4022sun> 话说，哪里有烟花补给
+[21:35:00] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[21:35:00] [Server thread/INFO]: Ghost_king_ lost connection: Flying is not enabled on this server
+[21:35:00] [Server thread/INFO]: Ghost_king_ left the game
+[21:35:00] [Server thread/WARN]: handleDisconnection() called twice
+[21:35:24] [Async Chat Thread - #0/INFO]: <4022sun> 金萝卜也吃完了。。。。
+[21:35:27] [User Authenticator #6/INFO]: Disconnecting com.mojang.authlib.GameProfile@4ad7e4e7[id=<null>,name=Ghost_king_,properties={},legacy=false] (/127.0.0.1:55296): Authentication servers are down. Please try again later, sorry!
+[21:35:27] [User Authenticator #6/ERROR]: Couldn't verify username because servers are unavailable
+[21:35:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ad7e4e7[id=<null>,name=Ghost_king_,properties={},legacy=false] (/127.0.0.1:55296) lost connection: Authentication servers are down. Please try again later, sorry!
+[21:35:31] [Async Chat Thread - #0/INFO]: <jason_ji> 你们人呢
+[21:35:37] [User Authenticator #6/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[21:35:37] [Server thread/INFO]: Ghost_king_[/127.0.0.1:55301] logged in with entity id 13552 at ([world_nether]316.23224934732343, 117.42804607862257, 781.4240406679887)
+[21:35:38] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> 盒子里有！！！
+[21:35:46] [Async Chat Thread - #0/INFO]: <Ghost_king_> 科所！
+[21:36:15] [User Authenticator #6/INFO]: UUID of player Demon_yhy_ is 4f93a6ea-07a0-4a2d-b426-e3f66f4130f7
+[21:36:15] [Server thread/INFO]: Demon_yhy_[/127.0.0.1:55310] logged in with entity id 14539 at ([world_nether]194.9379443881234, 115.0, 22.684647800016595)
+[21:36:21] [Server thread/INFO]: TPS from last 1m, 5m, 15m: *20.0, 20.0, *20.0
+[21:36:49] [Async Chat Thread - #1/INFO]: <4022sun> ghost炸膛了吗
+[21:37:00] [Async Chat Thread - #1/INFO]: <Ghost_king_> 都还没开机
+[21:37:03] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 末影螨
+[21:37:06] [Async Chat Thread - #1/INFO]: <4022sun> 恐怖如斯的脚手架
+[21:37:12] [Async Chat Thread - #1/INFO]: <Demon_yhy_> 那咋死的
+[21:37:18] [Async Chat Thread - #1/INFO]: <adhesive_tape> 准备一个音符盒
+[21:37:23] [Async Chat Thread - #1/INFO]: <Ghost_king_> 我刚刚看到某持
+[21:37:25] [Async Chat Thread - #1/INFO]: <Ghost_king_> 某处
+[21:37:26] [Async Chat Thread - #1/INFO]: <4022sun> 准备开了？
+[21:37:28] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[21:37:29] [Async Chat Thread - #1/INFO]: <Ghost_king_> 掉落了一个
+[21:37:33] [Async Chat Thread - #1/INFO]: <Ghost_king_> 史莱姆快
+[21:37:42] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 最后一个还没放矿车
+[21:37:43] [Async Chat Thread - #1/INFO]: <Ghost_king_> 你们看看是哪里的
+[21:38:00] [Async Chat Thread - #1/INFO]: <jason_ji> 啥时候开（zha）机(tang)
+[21:38:07] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[21:38:07] [Server thread/INFO]: Mr_director left the game
+[21:38:07] [Async Chat Thread - #1/INFO]: <4022sun> 栅栏门不开？
+[21:38:14] [Async Chat Thread - #1/INFO]: <adhesive_tape> 不开
+[21:38:17] [Async Chat Thread - #1/INFO]: <4022sun> OK
+[21:38:27] [User Authenticator #7/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[21:38:27] [Server thread/INFO]: Mr_director[/127.0.0.1:55336] logged in with entity id 18273 at ([world]2803.4672690705306, 62.0, -427.69999998807907)
+[21:38:28] [Async Chat Thread - #1/INFO]: <Ghost_king_> sun
+[21:38:30] [Async Chat Thread - #1/INFO]: <4022sun> ?
+[21:38:35] [Async Chat Thread - #1/INFO]: <Ghost_king_> nidaol？
+[21:38:40] [Async Chat Thread - #1/INFO]: <4022sun> ??
+[21:38:42] [Async Chat Thread - #1/INFO]: <4022sun> 对啊
+[21:38:43] [Async Chat Thread - #1/INFO]: <Ghost_king_> 你到了？
+[21:38:49] [Async Chat Thread - #1/INFO]: <4022sun> 有烟花嘛
+[21:38:50] [Async Chat Thread - #1/INFO]: <Ghost_king_> oh 我看到你了
+[21:38:53] [Async Chat Thread - #1/INFO]: <4022sun> 我烟花用完了
+[21:39:02] [Async Chat Thread - #1/INFO]: <Ghost_king_> 你还记得你有个鞘翅吗
+[21:39:06] [Async Chat Thread - #1/INFO]: <4022sun> emmm
+[21:39:12] [Async Chat Thread - #1/INFO]: <4022sun> 我还记得那个溺尸
+[21:39:12] [Async Chat Thread - #1/INFO]: <Ghost_king_> 在溺尸身上的
+[21:39:19] [Async Chat Thread - #1/INFO]: <Ghost_king_> 嗯
+[21:39:28] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:39:28] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[21:39:31] [Async Chat Thread - #1/INFO]: <Ghost_king_> 那个鞘翅在仓库 然后应该是给老滑稽偷了
+[21:39:32] [Async Chat Thread - #1/INFO]: <4022sun> 我现在用着fuko的鞘翅XD
+[21:39:39] [Async Chat Thread - #1/INFO]: <4022sun> e
+[21:39:48] [Async Chat Thread - #1/INFO]: <4022sun> 哪个老滑稽
+[21:39:59] [Async Chat Thread - #1/INFO]: <4022sun> 要不要清理空间啊
+[21:40:03] [Async Chat Thread - #1/INFO]: <adhesive_tape> 把最后一个矿车放了
+[21:40:04] [Async Chat Thread - #1/INFO]: <Ghost_king_> 然后laohuaji给tianqi（新人 了
+[21:40:05] [Async Chat Thread - #1/INFO]: <4022sun> 总感觉空间不够
+[21:40:06] [Async Chat Thread - #1/INFO]: <adhesive_tape> sen
+[21:40:12] [Async Chat Thread - #1/INFO]: <4022sun> o
+[21:40:17] [Async Chat Thread - #1/INFO]: <4022sun> EOE!
+[21:40:23] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 干掉
+[21:40:28] [Async Chat Thread - #1/INFO]: <4022sun> 一生宿敌EOE
+[21:40:29] [Async Chat Thread - #1/INFO]: <Ghost_king_> 然后tianqi玩你的鞘翅
+[21:40:30] [Async Chat Thread - #1/INFO]: <Raphael0461> ..
+[21:40:39] [Async Chat Thread - #1/INFO]: <Ghost_king_> 成功玩死
+[21:40:42] [Async Chat Thread - #1/INFO]: <4022sun> emmm
+[21:40:46] [Async Chat Thread - #1/INFO]: <Ghost_king_> 玩死N次
+[21:41:23] [Async Chat Thread - #1/INFO]: <Raphael0461> 有保护4吗
+[21:41:27] [Async Chat Thread - #1/INFO]: <4022sun> 坐等你们炸膛
+[21:41:29] [Async Chat Thread - #1/INFO]: <4022sun> 2333
+[21:41:33] [Async Chat Thread - #1/INFO]: <4022sun> 我已经自闭了
+[21:41:36] [Async Chat Thread - #1/INFO]: <jason_ji> 我找找
+[21:41:53] [Async Chat Thread - #1/INFO]: <jason_ji> 没
+[21:41:54] [Async Chat Thread - #1/INFO]: <4022sun> ghost
+[21:41:58] [Async Chat Thread - #1/INFO]: <Raphael0461> ok
+[21:41:59] [Async Chat Thread - #1/INFO]: <Ghost_king_> ？
+[21:42:02] [Async Chat Thread - #1/INFO]: <4022sun> 我发现我的石头工厂有BUG
+[21:42:16] [Async Chat Thread - #1/INFO]: <4022sun> 满箱自动转换没用
+[21:42:27] [Async Chat Thread - #1/INFO]: <4022sun> 平滑石满了，不会自动转换到石头档
+[21:42:35] [Async Chat Thread - #1/INFO]: <Ghost_king_> 啊这
+[21:42:35] [Async Chat Thread - #1/INFO]: <4022sun> 然后管道堆积平滑石……
+[21:42:37] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> ?
+[21:42:38] [Async Chat Thread - #1/INFO]: <Ghost_king_> 那你咋整
+[21:42:38] [Async Chat Thread - #1/INFO]: <4022sun> emmmm
+[21:42:39] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[21:42:39] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[21:42:40] [Server thread/INFO]: [NoSpawnChunks] Freed 2,316 mb!
+[21:42:40] [Async Chat Thread - #1/INFO]: <Raphael0461> 你们搞得啥啊
+[21:42:45] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 我身上咋多了个粘液块
+[21:42:49] [Async Chat Thread - #1/INFO]: <4022sun> 重做检测= =
+[21:42:56] [Async Chat Thread - #1/INFO]: <4022sun> 我在学校想了个方案
+[21:43:07] [Async Chat Thread - #1/INFO]: <Ghost_king_> 其实我也不知道这粘液块拿来的
+[21:43:11] [Async Chat Thread - #1/INFO]: <4022sun> 强制锁死和自动锁死=w=
+[21:43:20] [Async Chat Thread - #1/INFO]: <4022sun> 谁有烟花啊
+[21:43:23] [Async Chat Thread - #1/INFO]: <Ghost_king_> 从某个地方掉下来的 然后也不知道在那掉的
+[21:43:33] [Async Chat Thread - #1/INFO]: <4022sun> 绿宝石块！
+[21:43:36] [Async Chat Thread - #1/INFO]: <Ghost_king_> 我只有一组不到
+[21:43:41] [Async Chat Thread - #1/INFO]: <4022sun> 你们怎么都能嫖到东西……
+[21:43:50] [Async Chat Thread - #1/INFO]: <4022sun> 我啥都嫖不到QAQ
+[21:43:57] [Async Chat Thread - #1/INFO]: <4022sun> thanks
+[21:43:58] [Async Chat Thread - #1/INFO]: <Ghost_king_> 不是 绿宝石块是自己的
+[21:44:07] [Async Chat Thread - #1/INFO]: <4022sun> 嫖了
+[21:44:20] [Server thread/WARN]: Ghost_king_ moved wrongly!
+[21:44:28] [Async Chat Thread - #1/INFO]: <4022sun> 我们要不要规划个纯掉落物的猪人塔
+[21:44:36] [Async Chat Thread - #1/INFO]: <4022sun> 再造个胡萝卜自动农田
+[21:44:42] [Async Chat Thread - #1/INFO]: <4022sun> 量产金萝卜=w
+[21:44:43] [Async Chat Thread - #1/INFO]: <Mr_director> md真就一人一个大工程被
+[21:44:44] [Async Chat Thread - #1/INFO]: <Ghost_king_> 谁提谁做
+[21:44:44] [Async Chat Thread - #1/INFO]: <4022sun> =w=
+[21:44:49] [Async Chat Thread - #1/INFO]: <Raphael0461> 不建议
+[21:44:50] [Async Chat Thread - #1/INFO]: <4022sun> 没事
+[21:45:00] [Async Chat Thread - #1/INFO]: <jason_ji> 服务器传统 谁提出谁做
+[21:45:01] [Async Chat Thread - #1/INFO]: <4022sun> 我在别的服务器做过
+[21:45:02] [Async Chat Thread - #1/INFO]: <Mr_director> 先整史莱姆塔吧
+[21:45:03] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 金胡萝卜是找村民换的，大哥
+[21:45:07] [Async Chat Thread - #1/INFO]: <Ghost_king_> 是啊
+[21:45:13] [Async Chat Thread - #1/INFO]: <4022sun> 纯掉落猪人塔很简单
+[21:45:20] [Async Chat Thread - #1/INFO]: <Mr_director> 到时候一起做一个工程
+[21:45:30] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 击毙
+[21:45:37] [Async Chat Thread - #1/INFO]: <Ghost_king_> 一生之敌
+[21:45:45] [Async Chat Thread - #1/INFO]: <4022sun> 一群人拿着鱼叉叉EOE
+[21:45:49] [Async Chat Thread - #1/INFO]: <Ghost_king_> 233
+[21:45:54] [Async Chat Thread - #1/INFO]: <Ghost_king_> 我的鱼叉差点无了
+[21:45:59] [Async Chat Thread - #1/INFO]: <4022sun> +1
+[21:46:10] [Async Chat Thread - #1/INFO]: <Mr_director> 海晶的机器真的太好用了
+[21:46:12] [Async Chat Thread - #1/INFO]: <Raphael0461> 我的鱼叉已经无了
+[21:46:13] [Async Chat Thread - #1/INFO]: <4022sun> eeee
+[21:46:14] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> = =
+[21:46:19] [Async Chat Thread - #1/INFO]: <4022sun> 真就白嫖？
+[21:46:35] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[21:46:35] [Server thread/INFO]: Xin_Sai left the game
+[21:46:35] [Async Chat Thread - #1/INFO]: <Ghost_king_> tape我去吧起跳部分的红石放了？
+[21:46:42] [Async Chat Thread - #1/INFO]: <adhesive_tape> 不急
+[21:46:42] [Async Chat Thread - #1/INFO]: <4022sun> 海晶的人基本都到地狱了233
+[21:46:43] [User Authenticator #8/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[21:46:43] [Server thread/INFO]: Xin_Sai[/127.0.0.1:55405] logged in with entity id 31300 at ([world_nether]195.6712827052953, 115.0, 773.9903639004601)
+[21:47:06] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world world_the_end...
+[21:47:06] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[21:47:10] [Async Chat Thread - #1/INFO]: <Mr_director> 反正到时候还得来
+[21:47:24] [Async Chat Thread - #1/INFO]: <4022sun> 我说过我以后都不来了
+[21:47:27] [Async Chat Thread - #1/INFO]: <adhesive_tape> 帮我检查活塞/粘性活塞有没有放错地方的
+[21:47:28] [Async Chat Thread - #1/INFO]: <4022sun> 但是为了看炸膛
+[21:47:34] [Async Chat Thread - #1/INFO]: <4022sun> 我还是来了=w=
+[21:47:38] [Async Chat Thread - #1/INFO]: <Mr_director> 我是说嫖混凝土机
+[21:47:40] [Server thread/WARN]: sen_lv_ling_ was kicked for floating too long!
+[21:47:40] [Server thread/INFO]: sen_lv_ling_ lost connection: Flying is not enabled on this server
+[21:47:40] [Server thread/INFO]: sen_lv_ling_ left the game
+[21:47:40] [Server thread/WARN]: handleDisconnection() called twice
+[21:47:43] [Async Chat Thread - #1/INFO]: <adhesive_tape> 刚才我发现一个
+[21:47:51] [User Authenticator #9/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[21:47:51] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:55417] logged in with entity id 33008 at ([world_nether]205.32457939761633, 112.89377385576076, 795.9653288248696)
+[21:47:55] [Async Chat Thread - #1/INFO]: <4022sun> 我把投影装好了
+[21:47:58] [Async Chat Thread - #1/INFO]: <Ghost_king_> 求得麻袋！
+[21:47:58] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> ?
+[21:48:06] [Async Chat Thread - #1/INFO]: <Ghost_king_> 你这里竟然只有15个单元？？？？？
+[21:48:08] [Async Chat Thread - #1/INFO]: <4022sun> 有空我去主城搞个全自动混凝土工厂
+[21:48:18] [Async Chat Thread - #1/INFO]: <adhesive_tape> 不是16吗
+[21:48:23] [Async Chat Thread - #1/INFO]: <4022sun> eee
+[21:48:31] [Async Chat Thread - #1/INFO]: <Mr_director> 那种末地刷到主世界的那种？
+[21:48:38] [Async Chat Thread - #1/INFO]: <4022sun> yes
+[21:48:39] [Async Chat Thread - #1/INFO]: <adhesive_tape> 不是16吗?
+[21:48:39] [Async Chat Thread - #1/INFO]: <Ghost_king_> 啊是我下了
+[21:48:42] [Async Chat Thread - #1/INFO]: <Ghost_king_> 是我瞎了
+[21:48:50] [Async Chat Thread - #1/INFO]: <Mr_director> 今天我处理下后勤
+[21:48:52] [Server thread/INFO]: Raphael0461 has made the advancement [Voluntary Exile]
+[21:48:53] [Async Chat Thread - #1/INFO]: <4022sun> 混凝土工厂原理简单
+[21:48:56] [Async Chat Thread - #1/INFO]: <Mr_director> 晚上能下线尽量下线
+[21:49:05] [Async Chat Thread - #1/INFO]: <4022sun> 但是时序可以烦死人
+[21:49:15] [Async Chat Thread - #1/INFO]: <4022sun> 所以最好还是投影造
+[21:49:31] [Async Chat Thread - #1/INFO]: <Mr_director> 先处理目前的问题吧
+[21:49:32] [Async Chat Thread - #1/INFO]: <4022sun> EOE
+[21:49:39] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 击毙
+[21:49:40] [Async Chat Thread - #1/INFO]: <Mr_director> 地狱炸空置域主世界铺地板
+[21:49:47] [Async Chat Thread - #1/INFO]: <4022sun> yes
+[21:49:48] [User Authenticator #10/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[21:49:48] [Server thread/INFO]: Jichen233[/127.0.0.1:55433] logged in with entity id 35384 at ([world]3096.1165179497248, 71.0, 596.8506671444204)
+[21:49:55] [Async Chat Thread - #1/INFO]: <4022sun> 有空我去史莱姆塔摸摸鱼
+[21:50:00] [Async Chat Thread - #1/INFO]: <Mr_director> 都整完了一起处理其他的东西
+[21:50:03] [Async Chat Thread - #1/INFO]: <4022sun> 或者先把猪人塔地板铺了
+[21:50:04] [Async Chat Thread - #1/INFO]: <4022sun> 233
+[21:50:12] [Async Chat Thread - #1/INFO]: <Ghost_king_> tape你自己来检查推进部分
+[21:50:14] [Async Chat Thread - #1/INFO]: <adhesive_tape> 对了，盾构机炸了可以回档吗
+[21:50:22] [Async Chat Thread - #1/INFO]: <4022sun> 问小冷……
+[21:50:25] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> emmm
+[21:50:30] [Async Chat Thread - #1/INFO]: <Ghost_king_> 估计不能
+[21:50:30] [Async Chat Thread - #1/INFO]: <4022sun> 我的炸了就没叫回档了
+[21:50:31] [Async Chat Thread - #1/INFO]: <Mr_director> 私聊小泠
+[21:50:44] [Async Chat Thread - #1/INFO]: <Demon_yhy_> 这
+[21:50:52] [Async Chat Thread - #1/INFO]: <Demon_yhy_> 这也行？
+[21:51:00] [Async Chat Thread - #1/INFO]: <4022sun> 我们搞地狱的时候不知道炸了多少次= =
+[21:51:04] [Server thread/INFO]: Jichen233 issued server command: /msg Demon_yhy 你在哪awa
+[21:51:09] [Server thread/INFO]: Jichen233 issued server command: /msg Demon_yhy_ 你在哪awa
+[21:51:10] [Async Chat Thread - #1/INFO]: <adhesive_tape> 我有点怕有人搞盾构机
+[21:51:19] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> ???
+[21:51:23] [Async Chat Thread - #1/INFO]: <4022sun> TMD真就绿宝石当普通方块呗
+[21:51:35] [Async Chat Thread - #1/INFO]: <Mr_director> 绿宝石不就是普通方块么
+[21:51:36] [User Authenticator #11/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[21:51:37] [Server thread/INFO]: Crushxl[/127.0.0.1:55449] logged in with entity id 37677 at ([world]5285.202483123637, 78.62512881942763, 236.0732100232711)
+[21:51:39] [Async Chat Thread - #1/INFO]: <4022sun> emmm
+[21:51:44] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 小泠来了
+[21:51:47] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 问吧
+[21:51:49] [Async Chat Thread - #1/INFO]: <4022sun> 建议搞好袭击农场在说话……
+[21:51:49] [Server thread/INFO]: Demon_yhy_ issued server command: /me Jichen 共镇地下室
+[21:51:49] [Server thread/INFO]: * Demon_yhy_ Jichen 共镇地下室
+[21:51:52] [Async Chat Thread - #1/INFO]: <Ghost_king_> xl
+[21:51:54] [Async Chat Thread - #1/INFO]: <4022sun> ???
+[21:52:00] [Async Chat Thread - #1/INFO]: <adhesive_tape> 小冷，盾构机炸了可以回档吗
+[21:52:01] [Async Chat Thread - #1/INFO]: <4022sun> eeee
+[21:52:02] [Async Chat Thread - #1/INFO]: <Mr_director> 有一个能凑或用的
+[21:52:02] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[21:52:02] [Server thread/INFO]: Ghost_king_ lost connection: Flying is not enabled on this server
+[21:52:02] [Server thread/INFO]: Ghost_king_ left the game
+[21:52:02] [Server thread/WARN]: handleDisconnection() called twice
+[21:52:07] [Async Chat Thread - #1/INFO]: <4022sun> ghost无了
+[21:52:07] [User Authenticator #11/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[21:52:07] [Server thread/INFO]: Ghost_king_[/127.0.0.1:55456] logged in with entity id 38247 at ([world_nether]205.93310001844563, 118.2829253285644, 783.7660184093742)
+[21:52:22] [Server thread/INFO]: Jichen233 issued server command: /msg Demon_yhy_ 是/msg id，不是/me qwq
+[21:52:25] [Async Chat Thread - #1/INFO]: <Ghost_king_> 瞬移！？
+[21:52:27] [Server thread/INFO]: Raphael0461 has completed the challenge [Hero of the Village]
+[21:52:32] [Async Chat Thread - #1/INFO]: <Crushxl> 不能（
+[21:52:36] [Async Chat Thread - #1/INFO]: <4022sun> 2333
+[21:52:39] [Async Chat Thread - #1/INFO]: <Mr_director> 233
+[21:52:42] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> ...
+[21:52:44] [Async Chat Thread - #1/INFO]: <jason_ji> 233
+[21:52:45] [Async Chat Thread - #1/INFO]: <adhesive_tape> 好狠心
+[21:52:50] [Async Chat Thread - #1/INFO]: <4022sun> 切门坏了能回档吗QWQ
+[21:52:58] [Async Chat Thread - #1/INFO]: <adhesive_tape> 我是新人能照顾一下吗
+[21:53:01] [Async Chat Thread - #1/INFO]: <Ghost_king_> xl 有一个叫做tnt的玩家炸坏了我的盾构机
+[21:53:06] [Async Chat Thread - #1/INFO]: <Crushxl> 要不算成一个玩家破坏的 记成处罚可以（不是
+[21:53:08] [Server thread/INFO]: Demon_yhy_ issued server command: /msg Jichen qwq
+[21:53:17] [Server thread/INFO]: Xin_Sai issued server command: /
+[21:53:20] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> ...
+[21:53:29] [Server thread/INFO]: Demon_yhy_ issued server command: /msg Jichen 这样？
+[21:53:30] [Async Chat Thread - #1/INFO]: <Ghost_king_> 谁背这个锅2333
+[21:53:37] [Async Chat Thread - #1/INFO]: <Mr_director> 开个小号，坏了给小号背锅
+[21:53:38] [Async Chat Thread - #1/INFO]: <4022sun> 需要我会海晶搬东西吗
+[21:53:42] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 就你了，ghost
+[21:53:44] [Async Chat Thread - #1/INFO]: <4022sun> 我要回去一次
+[21:53:50] [Async Chat Thread - #1/INFO]: <Crushxl> 首先需要一个正版小号（
+[21:53:53] [Async Chat Thread - #1/INFO]: <Ghost_king_> 我现在信誉只有8.5分（我都不知道我咋扣的1.5 也没触发记录
+[21:53:58] [Async Chat Thread - #1/INFO]: <Ghost_king_> 也没处罚记录
+[21:54:00] [Server thread/INFO]: Demon_yhy_ issued server command: /msg Jichen233 这样？
+[21:54:08] [Server thread/INFO]: Jichen233 issued server command: /msg Demon_yhy_ dei
+[21:54:09] [Async Chat Thread - #1/INFO]: <Mr_director> 这事就体现黑卡的作用了
+[21:54:18] [Async Chat Thread - #1/INFO]: <4022sun> 要帮带东西吗ghost
+[21:54:19] [Server thread/INFO]: Demon_yhy_ issued server command: /msg Jichen233 你在哪？
+[21:54:21] [Server thread/INFO]: Ghost_king_ issued server command: /滑稽
+[21:54:25] [Async Chat Thread - #1/INFO]: <Mr_director> 说起来我好久没玩hyp了
+[21:54:37] [Async Chat Thread - #1/INFO]: <Ghost_king_> 没有吧
+[21:54:40] [Async Chat Thread - #1/INFO]: <Ghost_king_> 我都不缺啥
+[21:54:50] [Server thread/INFO]: Jichen233 issued server command: /msg Demon_yhy_ 旧共镇信标塔
+[21:54:51] [Async Chat Thread - #1/INFO]: <Ghost_king_> 要不你顺路看看哪里有火药 做点亚烟花
+[21:55:05] [Server thread/INFO]: Raphael0461 has reached the goal [Postmortal]
+[21:55:07] [Async Chat Thread - #1/INFO]: <4022sun> 这就去你家嫖
+[21:55:15] [Async Chat Thread - #1/INFO]: <Ghost_king_> 我家没了
+[21:55:18] [Server thread/INFO]: Demon_yhy_ issued server command: /msg Jichen233 ok
+[21:55:31] [Async Chat Thread - #1/INFO]: <Ghost_king_> 感觉差不多了
+[21:56:00] [Server thread/INFO]: Demon_yhy_ issued server command: /msg Jichen233 你有鞘翅嘛
+[21:56:01] [Server thread/INFO]: Jichen233 issued server command: /msg Demon_yhy_ 你没换皮肤吗awa
+[21:56:07] [Async Chat Thread - #1/INFO]: <Demon_yhy_> 没换
+[21:56:23] [Server thread/INFO]: Jichen233 issued server command: /msg Demon_yhy_ 我的鞘翅是lzw借我的qwq
+[21:56:30] [Server thread/INFO]: Demon_yhy_ issued server command: /msg Jichen233 你帮我选你一个你这种的嘛
+[21:56:30] [Async Chat Thread - #1/INFO]: <Mr_director> 等下是不是世吞出问题的话也不回档
+[21:56:47] [Async Chat Thread - #1/INFO]: <Ghost_king_> 啊这 貌似回档也没用啊
+[21:56:53] [Async Chat Thread - #1/INFO]: <Ghost_king_> 回档他方块不会更新吗
+[21:56:59] [Async Chat Thread - #1/INFO]: <4022sun> no
+[21:57:01] [Async Chat Thread - #1/INFO]: <Ghost_king_> 这种他都是属于bud的
+[21:57:02] [Server thread/INFO]: Jichen233 issued server command: /msg Demon_yhy_ 你可以去mc皮肤站选一个
+[21:57:17] [Async Chat Thread - #1/INFO]: <4022sun> 艹，又没红石了
+[21:57:20] [Server thread/INFO]: Jichen233 issued server command: /msg Demon_yhy_ 选好了叫我，我帮你弄下来
+[21:57:28] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[21:57:33] [Async Chat Thread - #1/INFO]: <Mr_director> 无人挂女巫塔
+[21:57:36] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[21:57:39] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[21:57:39] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[21:57:40] [Server thread/INFO]: [NoSpawnChunks] Freed 2,263 mb!
+[21:57:52] [Async Chat Thread - #1/INFO]: <Mr_director> 建议装个假人（不是
+[21:57:57] [Async Chat Thread - #1/INFO]: <4022sun> +1
+[21:57:59] [Server thread/INFO]: Demon_yhy_ issued server command: /msg Jichen233 我选好了本来要弄弄到一半点不开了
+[21:58:01] [Server thread/INFO]: Demon_yhy_ lost connection: Disconnected
+[21:58:01] [Server thread/INFO]: Demon_yhy_ left the game
+[21:58:05] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[21:58:05] [Server thread/INFO]: jason_ji left the game
+[21:58:12] [Async Chat Thread - #1/INFO]: <Mr_director> 加假人只能部分人有权限
+[21:58:20] [Async Chat Thread - #1/INFO]: <Mr_director> 不然不好管控
+[21:58:27] [Async Chat Thread - #1/INFO]: <4022sun> 后勤专员
+[21:58:27] [Async Chat Thread - #1/INFO]: <sen_lv_ling_> 比如我(不是
+[21:58:37] [Async Chat Thread - #1/INFO]: <Raphael0461> 1
+[21:58:42] [Async Chat Thread - #1/INFO]: <Ghost_king_> and我（bushi
+[21:58:54] [Async Chat Thread - #1/INFO]: <Mr_director> 我，不多解释
+[21:59:19] [Async Chat Thread - #1/INFO]: <Mr_director> 女巫塔那堆东西多少都和我有关系
+[21:59:25] [Async Chat Thread - #1/INFO]: <Mr_director> 不是我挂的就是我留下的
+[21:59:31] [Async Chat Thread - #1/INFO]: <adhesive_tape> 。。。。。。
+[22:00:48] [Async Chat Thread - #2/INFO]: <Ghost_king_> tape
+[22:01:42] [Async Chat Thread - #2/INFO]: <Ghost_king_> 能开了吗
+[22:02:09] [Async Chat Thread - #2/INFO]: <4022sun> 平滑石爆仓可
+[22:02:12] [Async Chat Thread - #2/INFO]: <4022sun> le
+[22:02:21] [Async Chat Thread - #2/INFO]: <sen_lv_ling_> 早就爆了
+[22:02:23] [Async Chat Thread - #2/INFO]: <Ghost_king_> 你鞘翅呢tape
+[22:02:53] [Async Chat Thread - #2/INFO]: <Mr_director> 说起来小泠有考虑鞘翅不可再生这一点么
+[22:03:06] [Async Chat Thread - #2/INFO]: <Ghost_king_> 嗯~
+[22:03:11] [Async Chat Thread - #2/INFO]: <Mr_director> 末地工程越高越大，现在都有末地刷铁机
+[22:03:21] [Async Chat Thread - #2/INFO]: <Mr_director> bax做的
+[22:03:26] [User Authenticator #12/INFO]: UUID of player Demon_yhy_ is 4f93a6ea-07a0-4a2d-b426-e3f66f4130f7
+[22:03:26] [Server thread/INFO]: Demon_yhy_[/127.0.0.1:55546] logged in with entity id 57740 at ([world]1343.302637501209, 64.0, 72.35688500199345)
+[22:03:29] [Async Chat Thread - #2/INFO]: <Ghost_king_> 末地的刷铁厂好了？
+[22:03:31] [Async Chat Thread - #2/INFO]: <4022sun> 末地搞刷铁机干嘛
+[22:03:33] [Async Chat Thread - #2/INFO]: <adhesive_tape> 服了
+[22:03:36] [Async Chat Thread - #2/INFO]: <adhesive_tape> 拆
+[22:03:37] [Async Chat Thread - #2/INFO]: <4022sun> 末地不都是搞农场的吗
+[22:03:40] [Async Chat Thread - #2/INFO]: <adhesive_tape> 拆矿车
+[22:03:40] [Async Chat Thread - #2/INFO]: <Ghost_king_> ？？？？？？？
+[22:03:42] [Async Chat Thread - #2/INFO]: <sen_lv_ling_> ???
+[22:03:43] [Async Chat Thread - #2/INFO]: <adhesive_tape> 拆铁轨
+[22:03:51] [Async Chat Thread - #2/INFO]: <adhesive_tape> 别让tnt爆炸
+[22:03:52] [Async Chat Thread - #2/INFO]: <Ghost_king_> 此话怎讲？
+[22:03:53] [Async Chat Thread - #2/INFO]: <Mr_director> 鬼知道
+[22:04:30] [Async Chat Thread - #2/INFO]: <Mr_director> 好像是个强加载刷铁机
+[22:04:34] [Async Chat Thread - #2/INFO]: <Mr_director> 你去末地看看？
+[22:04:35] [Async Chat Thread - #2/INFO]: <4022sun> emmm
+[22:04:43] [User Authenticator #12/INFO]: Disconnecting com.mojang.authlib.GameProfile@54a82134[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:55554): Authentication servers are down. Please try again later, sorry!
+[22:04:43] [User Authenticator #12/ERROR]: Couldn't verify username because servers are unavailable
+[22:04:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@54a82134[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:55554) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:04:53] [User Authenticator #12/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[22:04:53] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:55559] logged in with entity id 59668 at ([world]2618.100495007501, 70.0, 659.3446224662675)
+[22:05:20] [Async Chat Thread - #2/INFO]: <Ghost_king_> 到底咋了
+[22:05:21] [Server thread/INFO]: Demon_yhy_ lost connection: Disconnected
+[22:05:21] [Server thread/INFO]: Demon_yhy_ left the game
+[22:05:24] [Async Chat Thread - #2/INFO]: <adhesive_tape> 所有的复制单元都错位了
+[22:05:25] [Server thread/WARN]: Raphael0461 moved too quickly! -1651.2456569315543,15.878703159460805,-234.96603135249322
+[22:05:48] [Async Chat Thread - #2/INFO]: <adhesive_tape> 幸好没开机
+[22:05:51] [Async Chat Thread - #2/INFO]: <Ghost_king_> 啊？
+[22:05:54] [Async Chat Thread - #2/INFO]: <adhesive_tape> 开机直接播哦，
+[22:06:00] [Async Chat Thread - #2/INFO]: <adhesive_tape> 开机直接炸
+[22:06:09] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[22:06:09] [Server thread/INFO]: Xin_Sai left the game
+[22:06:12] [Async Chat Thread - #2/INFO]: <Ghost_king_> 你确定是 错位
+[22:06:17] [Async Chat Thread - #2/INFO]: <Ghost_king_> 而不是做错吗
+[22:06:24] [Async Chat Thread - #2/INFO]: <4022sun> 233
+[22:06:25] [Server thread/INFO]: Li_zi_wei issued server command: /co iw
+[22:06:26] [Async Chat Thread - #2/INFO]: <adhesive_tape> 来看
+[22:06:27] [Server thread/INFO]: Li_zi_wei issued server command: /co i
+[22:06:42] [Async Chat Thread - #2/INFO]: <Ghost_king_> 噗嗤
+[22:06:46] [Async Chat Thread - #2/INFO]: <Ghost_king_> 看出来了
+[22:07:01] [Async Chat Thread - #2/INFO]: <Ghost_king_> 但是 你先不把脚手架拆了？
+[22:07:09] [Async Chat Thread - #2/INFO]: <Ghost_king_> 脚手架推不动的啊
+[22:07:18] [Async Chat Thread - #2/INFO]: <4022sun> 海晶双护法= =
+[22:07:24] [Async Chat Thread - #2/INFO]: <adhesive_tape> 把tnt复制单元全拆了
+[22:07:25] [Async Chat Thread - #2/INFO]: <4022sun> （刷铁机的逃脱者）
+[22:07:28] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[22:07:30] [Async Chat Thread - #2/INFO]: <adhesive_tape> 待会再做
+[22:07:35] [Async Chat Thread - #2/INFO]: <sen_lv_ling_> 铁轨和矿车已拆完
+[22:07:41] [Async Chat Thread - #2/INFO]: <adhesive_tape> 把tnt复制单元全拆了
+[22:07:48] [Async Chat Thread - #2/INFO]: <sen_lv_ling_> = =
+[22:07:52] [Async Chat Thread - #2/INFO]: <Ghost_king_> …… 害
+[22:08:05] [User Authenticator #13/INFO]: UUID of player Demon_yhy_ is 4f93a6ea-07a0-4a2d-b426-e3f66f4130f7
+[22:08:06] [Server thread/INFO]: Demon_yhy_[/127.0.0.1:55586] logged in with entity id 64424 at ([world]1353.7493479408163, 63.0, 92.28412805112995)
+[22:08:12] [Async Chat Thread - #2/INFO]: <adhesive_tape> 奇怪
+[22:08:23] [Async Chat Thread - #2/INFO]: <Ghost_king_> 真的是逊哎
+[22:08:25] [Async Chat Thread - #2/INFO]: <adhesive_tape> 当时我是放对了的
+[22:08:28] [Server thread/INFO]: Demon_yhy_ lost connection: Disconnected
+[22:08:28] [Server thread/INFO]: Demon_yhy_ left the game
+[22:08:30] [Async Chat Thread - #2/INFO]: <adhesive_tape> 谁搞错了
+[22:08:33] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[22:08:33] [Server thread/INFO]: Li_zi_wei left the game
+[22:08:36] [Async Chat Thread - #2/INFO]: <4022sun> 2333
+[22:08:41] [Async Chat Thread - #2/INFO]: <4022sun> 好菜啊
+[22:08:47] [Async Chat Thread - #2/INFO]: <4022sun> 猪人塔去哪做呢
+[22:08:54] [Async Chat Thread - #2/INFO]: <Ghost_king_> 你
+[22:09:08] [Async Chat Thread - #2/INFO]: <4022sun> 这个ghost就是逊啦
+[22:09:13] [Async Chat Thread - #2/INFO]: <adhesive_tape> 有人把粘性活塞激活了，导致所有tnt复制单元后移一格，全部错位
+[22:09:22] [Async Chat Thread - #2/INFO]: <Ghost_king_> fly
+[22:09:28] [Async Chat Thread - #2/INFO]: <4022sun> ??
+[22:09:30] [Async Chat Thread - #2/INFO]: <adhesive_tape> cao
+[22:09:30] [Async Chat Thread - #2/INFO]: <Mr_director> tweek真好用的
+[22:09:38] [Async Chat Thread - #2/INFO]: <Ghost_king_> 等下 我来查
+[22:09:42] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[22:09:49] [Async Chat Thread - #2/INFO]: <4022sun> 猥琐小冷在线旁观
+[22:10:01] [Async Chat Thread - #2/INFO]: <sen_lv_ling_> 感觉是tape激活的 = =
+[22:10:06] [Async Chat Thread - #2/INFO]: <4022sun> 23333
+[22:10:11] [Async Chat Thread - #2/INFO]: <adhesive_tape> 。。。。。。
+[22:10:57] [Server thread/INFO]: Ghost_king_ issued server command: /co i 2
+[22:11:09] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[22:11:10] [Async Chat Thread - #2/INFO]: <Mr_director> 再次强调一遍，今天补充少量女巫塔物资，能下线的就下线
+[22:11:24] [Async Chat Thread - #2/INFO]: <adhesive_tape> 你们把tnt复制单元前移一格，然后按顺序放上铁轨
+[22:11:25] [Server thread/WARN]: 4022sun moved wrongly!
+[22:11:32] [Async Chat Thread - #2/INFO]: <adhesive_tape> 我再检查一遍
+[22:11:46] [Async Chat Thread - #2/INFO]: <Ghost_king_> 就是和活塞相隔一个方块咯
+[22:11:50] [Async Chat Thread - #2/INFO]: <adhesive_tape> en
+[22:12:04] [Async Chat Thread - #2/INFO]: <adhesive_tape> 栅栏门也一样
+[22:12:06] [Async Chat Thread - #2/INFO]: <adhesive_tape> 记得拆
+[22:12:12] [Async Chat Thread - #2/INFO]: <adhesive_tape> 这还没拆
+[22:12:18] [Async Chat Thread - #2/INFO]: <4022sun> 猪人塔怎么不刷猪人= =
+[22:12:39] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[22:12:39] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
+[22:12:40] [Server thread/INFO]: [NoSpawnChunks] Freed 935 mb!
+[22:13:21] [Async Chat Thread - #3/INFO]: <adhesive_tape> 我检查延时装置
+[22:13:31] [Async Chat Thread - #3/INFO]: <4022sun> 话说，闪烁的金西瓜抗饿吗
+[22:13:33] [Async Chat Thread - #3/INFO]: <Ghost_king_> piston是活塞？
+[22:13:37] [Async Chat Thread - #3/INFO]: <4022sun> e
+[22:13:39] [Async Chat Thread - #3/INFO]: <sen_lv_ling_> 不能吃
+[22:13:41] [Async Chat Thread - #3/INFO]: <adhesive_tape> en
+[22:13:43] [Async Chat Thread - #3/INFO]: <4022sun> emmm
+[22:14:16] [Async Chat Thread - #3/INFO]: <4022sun> 还在为海晶食物问题发愁ing
+[22:14:24] [Async Chat Thread - #3/INFO]: <4022sun> 金萝卜貌似不够了
+[22:14:25] [Async Chat Thread - #3/INFO]: <sen_lv_ling_> 都说了好多遍了
+[22:14:32] [Async Chat Thread - #3/INFO]: <sen_lv_ling_> 盒子里有金萝北
+[22:14:38] [Async Chat Thread - #3/INFO]: <4022sun> ......
+[22:14:41] [Async Chat Thread - #3/INFO]: <4022sun> 我去康康
+[22:14:52] [Async Chat Thread - #3/INFO]: <4022sun> 我们要均衡膳食=w=
+[22:14:59] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[22:15:06] [Async Chat Thread - #3/INFO]: <sen_lv_ling_> 吃蜘蛛眼去
+[22:15:10] [Async Chat Thread - #3/INFO]: <sen_lv_ling_> 有一大箱
+[22:15:11] [Async Chat Thread - #3/INFO]: <Mr_director> 营养均衡mod警告
+[22:15:13] [Async Chat Thread - #3/INFO]: <4022sun> cao
+[22:15:18] [Async Chat Thread - #3/INFO]: <Jichen233> 吃河豚(((
+[22:15:24] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[22:15:59] [Async Chat Thread - #3/INFO]: <Ghost_king_> 过去的一个小时之内触发的
+[22:16:23] [Async Chat Thread - #3/INFO]: <4022sun> 好绿啊
+[22:16:50] [Async Chat Thread - #3/INFO]: <Ghost_king_> 不是fly触发的
+[22:16:55] [Async Chat Thread - #3/INFO]: <4022sun> who
+[22:17:02] [Async Chat Thread - #3/INFO]: <Ghost_king_> 没查到
+[22:17:07] [Async Chat Thread - #3/INFO]: <sen_lv_ling_> ...
+[22:17:09] [Async Chat Thread - #3/INFO]: <Ghost_king_> 这么多方块
+[22:17:11] [Async Chat Thread - #3/INFO]: <4022sun> emmm
+[22:17:14] [Async Chat Thread - #3/INFO]: <Ghost_king_> 我怎么查源头
+[22:17:23] [Async Chat Thread - #3/INFO]: <Ghost_king_> 查完我就下了
+[22:17:25] [Async Chat Thread - #3/INFO]: <sen_lv_ling_> 查最里面的几个
+[22:18:11] [Server thread/INFO]: Ghost_king_ issued server command: /gamemode 1
+[22:18:14] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[22:18:15] [Async Chat Thread - #3/INFO]: <4022sun> 先溜了
+[22:18:26] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[22:18:54] [Async Chat Thread - #3/INFO]: <Ghost_king_> 最里面的几个？
+[22:19:26] [Server thread/WARN]: Jichen233 moved wrongly!
+[22:19:28] [Async Chat Thread - #3/INFO]: <4022sun> 这个南瓜生长有点毒
+[22:19:32] [Async Chat Thread - #3/INFO]: <4022sun> 中间都满了
+[22:19:40] [Async Chat Thread - #3/INFO]: <4022sun> 两边的还没长出来
+[22:19:57] [Async Chat Thread - #3/INFO]: <Ghost_king_> 不行 我得下了
+[22:20:02] [Async Chat Thread - #3/INFO]: <4022sun> 加速也没这么明显吧
+[22:20:04] [Async Chat Thread - #3/INFO]: <adhesive_tape> 明天见
+[22:20:10] [Async Chat Thread - #3/INFO]: <Ghost_king_> 明天见
+[22:20:33] [Async Chat Thread - #3/INFO]: <Raphael0461> 老滑稽在吗
+[22:20:45] [Async Chat Thread - #3/INFO]: <Raphael0461> 在就吱一声
+[22:21:40] [Server thread/INFO]: Ghost_king_ issued server command: /co l 2
+[22:21:45] [Server thread/INFO]: Ghost_king_ issued server command: /co l 3
+[22:21:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[22:21:57] [Server thread/INFO]: Ghost_king_ issued server command: /co l 4
+[22:22:05] [Server thread/INFO]: Ghost_king_ issued server command: /co l 5
+[22:22:26] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/18346, uuid='9c1f015f-dee6-429d-9b56-6dfe62bd10ad', l='world', x=2769.30, y=64.00, z=-417.30, cx=173, cz=-27, tl=13360309, v=true, d=false] died, message: 'Toolsmith was slain by Zombie'
+[22:22:36] [User Authenticator #14/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[22:22:36] [Server thread/INFO]: Laohuaji[/127.0.0.1:55697] logged in with entity id 82747 at ([world_nether]168.82308725055603, 115.0, 11.101468331708988)
+[22:22:41] [Async Chat Thread - #4/INFO]: <Raphael0461> 来了
+[22:22:43] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1078868 bytes} to external file .\world\region\c.3.6.mcc
+[22:23:26] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[22:23:32] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[22:23:32] [Server thread/INFO]: Ghost_king_ left the game
+[22:23:49] [Server thread/INFO]: 4022sun has made the advancement [A Seedy Place]
+[22:23:59] [Async Chat Thread - #5/INFO]: <adhesive_tape> sen在干嘛
+[22:24:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
+[22:24:17] [Async Chat Thread - #5/INFO]: <sen_lv_ling_> 在骨折机换金萝北
+[22:24:26] [Async Chat Thread - #5/INFO]: <sen_lv_ling_> 天天说没吃的
+[22:24:33] [Async Chat Thread - #5/INFO]: <4022sun> 甘蔗和西瓜挺多XD
+[22:24:46] [Async Chat Thread - #5/INFO]: <4022sun> 我的记忆还停留在三天前XD
+[22:24:53] [Async Chat Thread - #5/INFO]: <sen_lv_ling_> 有半盒子金萝北啊
+[22:25:07] [Async Chat Thread - #5/INFO]: <4022sun> 三天前没得啊
+[22:25:13] [Async Chat Thread - #5/INFO]: <sen_lv_ling_> ...
+[22:25:19] [Async Chat Thread - #5/INFO]: <adhesive_tape> 小冷在哪
+[22:25:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5059ms or 101 ticks behind
+[22:26:55] [Server thread/INFO]: [SAML] TPS low (18.34). Will attempt to freeze some mobs...
+[22:26:56] [Server thread/INFO]: [SAML] 878 mobs affected (878 frozen, 0 nerfed) in 182ms. Total of 891/1479 affected (876 frozen, 351 nerfed).
+[22:27:28] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[22:27:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@1157cd2[id=<null>,name=Yvette,properties={},legacy=false] (/127.0.0.1:55741) lost connection: Disconnected
+[22:27:51] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[22:27:52] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1176397 bytes} to external file .\world\region\c.3.6.mcc
+[22:27:54] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[22:27:54] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
+[22:27:55] [Server thread/INFO]: [NoSpawnChunks] Freed 3,338 mb!
+[22:28:27] [Async Chat Thread - #6/INFO]: <4022sun> 溜了
+[22:28:28] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[22:28:28] [Server thread/INFO]: 4022sun left the game
+[22:29:12] [Async Chat Thread - #6/INFO]: <adhesive_tape> 你去摆一下tnt复制单元
+[22:31:07] [Server thread/INFO]: Raphael0461 has made the advancement [Stone Age]
+[22:32:18] [Async Chat Thread - #7/INFO]: <sen_lv_ling_> 面前刷新eoeo
+[22:32:52] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1272300 bytes} to external file .\world\region\c.3.6.mcc
+[22:32:53] [Server thread/WARN]: Crushxl was kicked due to keepalive timeout!
+[22:32:53] [Server thread/INFO]: Crushxl lost connection: Timed out
+[22:32:53] [Server thread/INFO]: Crushxl left the game
+[22:32:53] [Server thread/WARN]: handleDisconnection() called twice
+[22:34:12] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[22:34:12] [Server thread/INFO]: sen_lv_ling_ left the game
+[22:34:24] [User Authenticator #15/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[22:34:24] [Server thread/INFO]: Crushxl[/127.0.0.1:55789] logged in with entity id 95994 at ([world]5168.148877768635, 74.81466162375818, 240.0575466471568)
+[22:35:34] [Server thread/INFO]: Crushxl issued server command: /openinv HDY_DY
+[22:36:01] [Server thread/INFO]: Raphael0461 issued server command: /home
+[22:36:08] [Server thread/INFO]: Crushxl issued server command: /openendr HDY_DY
+[22:36:18] [Server thread/INFO]: Crushxl issued server command: /openender HDY_DY
+[22:36:25] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world world_the_end...
+[22:36:25] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[22:36:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5058ms or 101 ticks behind
+[22:37:03] [Server thread/INFO]: [SAML] TPS low (16.46). Will attempt to freeze some mobs...
+[22:37:03] [Server thread/INFO]: [SAML] 563 mobs affected (563 frozen, 0 nerfed) in 163ms. Total of 1070/1780 affected (1070 frozen, 371 nerfed).
+[22:37:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6960ms or 139 ticks behind
+[22:37:22] [Async Chat Thread - #8/INFO]: <adhesive_tape> 今晚先不开机
+[22:37:26] [Async Chat Thread - #8/INFO]: <adhesive_tape> 明天再开吧
+[22:43:06] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[22:43:06] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[22:43:07] [Server thread/INFO]: [NoSpawnChunks] Freed 1,395 mb!
+[22:44:36] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[22:44:36] [Server thread/INFO]: Crushxl left the game
+[22:45:24] [Server thread/INFO]: Jichen233 issued server command: /co i
+[22:46:37] [Async Chat Thread - #9/INFO]: <Mr_director> 各位尽早下线，我好挂女巫塔
+[22:46:52] [Async Chat Thread - #9/INFO]: <Laohuaji> 我今天不下线
+[22:48:35] [Async Chat Thread - #10/INFO]: <adhesive_tape> 先下了
+[22:48:40] [Async Chat Thread - #10/INFO]: <adhesive_tape> 待会上
+[22:48:42] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[22:48:42] [Server thread/INFO]: adhesive_tape left the game
+[22:48:55] [Server thread/INFO]: Raphael0461 lost connection: Disconnected
+[22:48:55] [Server thread/INFO]: Raphael0461 left the game
+[22:53:45] [Server thread/INFO]: Jichen233 issued server command: /co i
+[22:53:57] [Server thread/INFO]: Jichen233 issued server command: /co i
+[22:56:25] [Server thread/INFO]: Jichen233 issued server command: /co i
+[22:57:05] [Server thread/INFO]: Jichen233 issued server command: /co i
+[22:57:58] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world world_nether...
+[22:57:58] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[22:58:03] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[22:58:06] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[22:58:06] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[22:58:07] [Server thread/INFO]: [NoSpawnChunks] Freed 1,109 mb!
+[22:58:25] [Server thread/INFO]: Jichen233 issued server command: /co i
+[22:59:13] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world world_nether...
+[22:59:13] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[22:59:22] [Server thread/INFO]: Jichen233 issued server command: /co i
+[23:00:18] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world world...
+[23:00:18] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[23:00:23] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:00:23] [Server thread/INFO]: Mr_director left the game
+[23:00:32] [Async Chat Thread - #11/INFO]: <Jichen233> ...?
+[23:00:35] [User Authenticator #16/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[23:00:35] [Server thread/INFO]: Mr_director[/127.0.0.1:55974] logged in with entity id 123674 at ([world_nether]334.0959409600093, 115.0, -41.31039614759653)
+[23:00:38] [Async Chat Thread - #11/INFO]: <Laohuaji> ?
+[23:00:45] [Async Chat Thread - #11/INFO]: <Mr_director> 卡了
+[23:00:57] [Async Chat Thread - #11/INFO]: <Mr_director> 你们在的地方刷怪么
+[23:01:03] [Async Chat Thread - #11/INFO]: <Jichen233> 不知不觉就剩外面三个了...
+[23:01:11] [Async Chat Thread - #11/INFO]: <Jichen233> 我们
+[23:01:18] [Async Chat Thread - #11/INFO]: <Laohuaji> 末地门这空域谁管的
+[23:01:24] [Async Chat Thread - #11/INFO]: <Mr_director> 我
+[23:01:25] [Async Chat Thread - #11/INFO]: <Mr_director> 咋了
+[23:01:30] [Async Chat Thread - #11/INFO]: <Laohuaji> 咋没修完qwq
+[23:01:34] [Async Chat Thread - #11/INFO]: <Mr_director> 你来？
+[23:01:39] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world world...
+[23:01:39] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[23:01:41] [Async Chat Thread - #11/INFO]: <Laohuaji> 我觉得odk
+[23:01:48] [Async Chat Thread - #11/INFO]: <Mr_director> 去吧
+[23:01:52] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world world_nether...
+[23:01:52] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[23:01:55] [Server thread/INFO]: Jichen233 issued server command: /co i
+[23:01:58] [Async Chat Thread - #11/INFO]: <Mr_director> 我挂机屯红石等物资去
+[23:03:07] [Server thread/INFO]: Laohuaji has made the advancement [Acquire Hardware]
+[23:04:26] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world world...
+[23:04:26] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[23:04:49] [Server thread/INFO]: Jichen233 issued server command: /co i
+[23:05:00] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world world_nether...
+[23:05:00] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[23:05:04] [Server thread/INFO]: Mr_director fell from a high place
+[23:05:09] [Async Chat Thread - #12/INFO]: <Mr_director> f
+[23:05:10] [Async Chat Thread - #12/INFO]: <Laohuaji> 哈
+[23:05:22] [Server thread/INFO]: Jichen233 issued server command: /co i
+[23:05:59] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world world_nether...
+[23:05:59] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[23:07:43] [Async Chat Thread - #13/INFO]: <Jichen233> 我跑了qwq
+[23:07:52] [Async Chat Thread - #13/INFO]: <Mr_director> 1
+[23:07:56] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[23:07:56] [Server thread/INFO]: Jichen233 left the game
+[23:09:12] [Async Chat Thread - #14/INFO]: <Mr_director> ok
+[23:09:20] [Async Chat Thread - #14/INFO]: <Mr_director> 空置域中间箱子有混凝土
+[23:09:25] [Async Chat Thread - #14/INFO]: <Mr_director> 要铺自便
+[23:09:31] [Async Chat Thread - #14/INFO]: <Laohuaji> qwq
+[23:09:35] [Async Chat Thread - #14/INFO]: <Mr_director> 不建议晚上施工，除非你没死过
+[23:09:38] [Async Chat Thread - #14/INFO]: <Laohuaji> 我先把末地改了
+[23:09:38] [Async Chat Thread - #14/INFO]: <Mr_director> 我挂机去了
+[23:09:42] [Async Chat Thread - #14/INFO]: <Mr_director> ?
+[23:09:44] [Server thread/INFO]: Mr_director hit the ground too hard
+[23:10:10] [Async Chat Thread - #14/INFO]: <Mr_director> 当然，我没傻到不脱装备挂机
+[23:10:13] [User Authenticator #17/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[23:10:13] [Server thread/INFO]: Xin_Sai[/127.0.0.1:56042] logged in with entity id 133190 at ([world_nether]200.59073596567654, 115.0, 749.5803430045928)
+[23:10:33] [Async Chat Thread - #14/INFO]: <Mr_director> 你末地改造傻？
+[23:10:35] [Async Chat Thread - #14/INFO]: <Mr_director> 啥
+[23:10:39] [Async Chat Thread - #14/INFO]: <Xin_Sai> .
+[23:10:54] [Async Chat Thread - #14/INFO]: <Laohuaji> 这冰道看着不舒服
+[23:10:57] [Async Chat Thread - #14/INFO]: <Mr_director> 11只女巫
+[23:10:59] [Async Chat Thread - #14/INFO]: <Mr_director> nice
+[23:11:34] [Async Chat Thread - #14/INFO]: <Xin_Sai> 艹 我们做了一天的世吞造错位了
+[23:11:42] [Async Chat Thread - #14/INFO]: <Mr_director> 世吞？
+[23:11:54] [Async Chat Thread - #14/INFO]: <Xin_Sai> 额 可能我用词不准
+[23:11:59] [Async Chat Thread - #14/INFO]: <Mr_director> 盾构机吧
+[23:12:03] [Async Chat Thread - #14/INFO]: <Xin_Sai> 反正就是tnt轰炸机
+[23:12:04] [Async Chat Thread - #14/INFO]: <Laohuaji> ....
+[23:12:05] [Async Chat Thread - #14/INFO]: <Mr_director> md现在能搓出来世吞？
+[23:12:16] [Async Chat Thread - #14/INFO]: <Laohuaji> 盾构机吧听着更怪异
+[23:12:38] [Async Chat Thread - #14/INFO]: <Xin_Sai> 我们造一天造错位了
+[23:12:43] [Async Chat Thread - #14/INFO]: <Mr_director> 日常
+[23:12:50] [Async Chat Thread - #14/INFO]: <Mr_director> 我现在在挂女巫塔
+[23:12:54] [Async Chat Thread - #14/INFO]: <Xin_Sai> 一开机就得炸
+[23:12:58] [Async Chat Thread - #14/INFO]: <Mr_director> 尽量不要占刷怪上限
+[23:13:06] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[23:13:06] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[23:13:07] [Server thread/INFO]: [NoSpawnChunks] Freed 1,019 mb!
+[23:13:09] [Async Chat Thread - #14/INFO]: <Laohuaji> 我这一堆小黑
+[23:13:24] [Async Chat Thread - #14/INFO]: <Mr_director> 末地和主世界不是一起算的吧
+[23:13:32] [User Authenticator #18/INFO]: Disconnecting com.mojang.authlib.GameProfile@4054cbb4[id=<null>,name=Small_CaiQAQ,properties={},legacy=false] (/127.0.0.1:56069): Authentication servers are down. Please try again later, sorry!
+[23:13:32] [User Authenticator #18/ERROR]: Couldn't verify username because servers are unavailable
+[23:13:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@4054cbb4[id=<null>,name=Small_CaiQAQ,properties={},legacy=false] (/127.0.0.1:56069) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:13:35] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[23:13:35] [Server thread/INFO]: Xin_Sai left the game
+[23:13:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@716549e1[id=<null>,name=Small_CaiQAQ,properties={},legacy=false] (/127.0.0.1:56076) lost connection: Disconnected
+[23:14:11] [User Authenticator #18/INFO]: Disconnecting com.mojang.authlib.GameProfile@716549e1[id=<null>,name=Small_CaiQAQ,properties={},legacy=false] (/127.0.0.1:56076): Authentication servers are down. Please try again later, sorry!
+[23:14:11] [User Authenticator #18/ERROR]: Couldn't verify username because servers are unavailable
+[23:14:21] [User Authenticator #19/INFO]: Disconnecting com.mojang.authlib.GameProfile@384e8f3[id=<null>,name=Small_CaiQAQ,properties={},legacy=false] (/127.0.0.1:56084): Authentication servers are down. Please try again later, sorry!
+[23:14:21] [User Authenticator #19/ERROR]: Couldn't verify username because servers are unavailable
+[23:14:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@384e8f3[id=<null>,name=Small_CaiQAQ,properties={},legacy=false] (/127.0.0.1:56084) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:14:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@4358b899[id=<null>,name=Small_CaiQAQ,properties={},legacy=false] (/127.0.0.1:56091) lost connection: Disconnected
+[23:14:46] [Async Chat Thread - #15/INFO]: <Mr_director> 我怎么感觉这个速度被人改的
+[23:14:48] [Async Chat Thread - #15/INFO]: <Mr_director> 算了不管了
+[23:14:51] [Async Chat Thread - #15/INFO]: <Mr_director> 我挂机了
+[23:15:08] [Async Chat Thread - #15/INFO]: <Mr_director> 睡一觉
+[23:16:50] [Server thread/INFO]: Mr_director lost connection: Timed out
+[23:16:50] [Server thread/INFO]: Mr_director left the game
+[23:17:05] [User Authenticator #20/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[23:17:06] [Server thread/INFO]: Mr_director[/127.0.0.1:56109] logged in with entity id 145124 at ([world]1129.299999974668, 116.0000002, 2271.299999974668)
+[23:19:46] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world world_the_end...
+[23:19:46] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[23:20:13] [Server thread/INFO]: Laohuaji has made the advancement [Suit Up]
+[23:21:26] [User Authenticator #21/INFO]: UUID of player Sumer_Light is 73b07a88-6c11-4e16-9643-d52ba3eb705c
+[23:21:26] [Server thread/INFO]: Sumer_Light[/127.0.0.1:56139] logged in with entity id 151718 at ([world]1265.300000011921, 11.0, -1382.1169078440566)
+[23:21:30] [Async Chat Thread - #16/INFO]: <Laohuaji> ohhhhh
+[23:21:41] [Async Chat Thread - #16/INFO]: <Sumer_Light> qwq
+[23:21:47] [Server thread/INFO]: Sumer_Light lost connection: Disconnected
+[23:21:47] [Server thread/INFO]: Sumer_Light left the game
+[23:22:11] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks in world world_nether...
+[23:22:11] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 0 ms.
+[23:24:26] [Server thread/INFO]: Laohuaji lost connection: Timed out
+[23:24:26] [Server thread/INFO]: Laohuaji left the game
+[23:27:28] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[23:27:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@4c78ac60[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56194) lost connection: Disconnected
+[23:27:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@5798799d[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56200) lost connection: Disconnected
+[23:28:02] [User Authenticator #22/INFO]: Disconnecting com.mojang.authlib.GameProfile@5798799d[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56200): Authentication servers are down. Please try again later, sorry!
+[23:28:02] [User Authenticator #22/ERROR]: Couldn't verify username because servers are unavailable
+[23:28:03] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[23:28:06] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[23:28:06] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[23:28:27] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@77e5cb64[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56207): Took too long to log in
+[23:28:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@77e5cb64[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56207) lost connection: Took too long to log in
+[23:28:31] [User Authenticator #22/INFO]: Disconnecting com.mojang.authlib.GameProfile@77e5cb64[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56207): Authentication servers are down. Please try again later, sorry!
+[23:28:31] [User Authenticator #22/ERROR]: Couldn't verify username because servers are unavailable
+[23:28:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@7355c4af[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56214) lost connection: Disconnected
+[23:28:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@7ae304eb[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56218) lost connection: Disconnected
+[23:28:53] [User Authenticator #22/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[23:28:53] [Server thread/INFO]: Crushxl[/127.0.0.1:56220] logged in with entity id 165019 at ([world]5178.480602490373, 84.54845509377921, 280.9363761467406)
+[23:29:10] [Server thread/INFO]: Crushxl issued server command: /tp Crushxl -200 100 -20
+[23:29:10] [Server thread/INFO]: [Crushxl: Teleported Crushxl to -199.5, 100.0, -19.5]
+[23:29:38] [Server thread/INFO]: Crushxl issued server command: /gamemode creativw
+[23:29:41] [Server thread/INFO]: Crushxl issued server command: /gamemode creative
+[23:29:41] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[23:30:53] [User Authenticator #23/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[23:30:53] [Server thread/INFO]: adhesive_tape[/127.0.0.1:56248] logged in with entity id 169219 at ([world_nether]322.69999998807907, 119.0, 773.3000000119209)
+[23:31:02] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[23:31:02] [Server thread/INFO]: adhesive_tape left the game
+[23:43:02] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1061794 bytes} to external file .\world\region\c.3.6.mcc
+[23:43:04] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[23:43:04] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 1 ms.
+[23:43:05] [Server thread/INFO]: [NoSpawnChunks] Freed 727 mb!
+[23:48:02] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1159009 bytes} to external file .\world\region\c.3.6.mcc
+[23:49:42] [Server thread/INFO]: Crushxl has made the advancement [Spooky Scary Skeleton]
+[23:53:02] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1255875 bytes} to external file .\world\region\c.3.6.mcc
+[23:53:48] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[23:53:48] [Server thread/INFO]: Crushxl left the game
+[23:53:57] [User Authenticator #24/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[23:53:57] [Server thread/INFO]: Crushxl[/127.0.0.1:56420] logged in with entity id 202366 at ([world]-161.92649892212833, 65.9332452844849, 275.215558160204)
+[23:54:49] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[23:54:49] [Server thread/INFO]: Crushxl left the game
+[23:55:23] [User Authenticator #25/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[23:55:23] [Server thread/INFO]: Crushxl[/127.0.0.1:56434] logged in with entity id 204838 at ([world]-162.0885364558626, 65.9332452844849, 277.22619645532154)
+[23:58:01] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[23:58:02] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1352858 bytes} to external file .\world\region\c.3.6.mcc
+[23:58:04] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[23:58:04] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 2 ms.
+[23:58:24] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[23:58:24] [Server thread/INFO]: Crushxl left the game

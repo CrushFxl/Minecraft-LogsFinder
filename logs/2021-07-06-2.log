@@ -1,0 +1,246 @@
+[06:34:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:34:43] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[06:34:44] [Worker-Main-4/INFO]: Loaded 7 recipes
+[06:34:46] [Server thread/INFO]: Starting minecraft server version 1.17
+[06:34:46] [Server thread/INFO]: Loading properties
+[06:34:47] [Server thread/INFO]: This server is running CraftBukkit version 3108-Spigot-191e497-74575d4 (MC: 1.17) (Implementing API version 1.17-R0.1-SNAPSHOT)
+[06:34:47] [Server thread/INFO]: Debug logging is disabled
+[06:34:47] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[06:34:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:34:47] [Server thread/INFO]: Default game type: SURVIVAL
+[06:34:47] [Server thread/INFO]: Generating keypair
+[06:34:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:34:48] [Server thread/INFO]: Using default channel type
+[06:34:49] [Server thread/ERROR]: Ambiguous plugin name `GroupManager' for files `plugins\[1.16]GroupManager+ [v3.3].jar' and `plugins\GroupManager+ [v3.2].jar' in `plugins'
+[06:34:49] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[06:34:53] [Server thread/WARN]: Legacy plugin OnlineRewards v1.0.0 does not specify an api-version.
+[06:34:53] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[06:34:53] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[06:34:53] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[06:34:53] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[06:34:53] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[06:34:53] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[06:34:53] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[06:34:53] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v19.5
+[06:34:53] [Server thread/INFO]: [OnlineRewards] Loading OnlineRewards v1.0.0
+[06:34:53] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[06:34:53] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[06:34:53] [Server thread/INFO]: [TAB] Loading TAB v2.8.10
+[06:34:53] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[06:34:53] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[06:34:53] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[06:34:53] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[06:34:53] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[06:34:53] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[06:34:53] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[06:34:53] [Server thread/INFO]: Preparing level "world"
+[06:34:53] [Server thread/INFO]: -------- World Settings For [world] --------
+[06:34:53] [Server thread/INFO]: Item Merge Radius: 8.0
+[06:34:53] [Server thread/INFO]: Item Despawn Rate: 3000
+[06:34:53] [Server thread/INFO]: View Distance: 12
+[06:34:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06:34:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[06:34:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[06:34:53] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[06:34:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[06:34:53] [Server thread/INFO]: Experience Merge Radius: 8.0
+[06:34:53] [Server thread/INFO]: Mob Spawn Range: 4
+[06:34:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Potato Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[06:34:53] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[06:34:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[06:34:53] [Server thread/INFO]: Max TNT Explosions: 100
+[06:34:53] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[06:34:53] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[06:34:53] [Server thread/INFO]: Item Merge Radius: 8.0
+[06:34:53] [Server thread/INFO]: Item Despawn Rate: 3000
+[06:34:53] [Server thread/INFO]: View Distance: 12
+[06:34:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06:34:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[06:34:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[06:34:53] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[06:34:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[06:34:53] [Server thread/INFO]: Experience Merge Radius: 8.0
+[06:34:53] [Server thread/INFO]: Mob Spawn Range: 4
+[06:34:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Potato Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[06:34:53] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[06:34:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[06:34:53] [Server thread/INFO]: Max TNT Explosions: 100
+[06:34:53] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[06:34:53] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[06:34:53] [Server thread/INFO]: Item Merge Radius: 8.0
+[06:34:53] [Server thread/INFO]: Item Despawn Rate: 3000
+[06:34:53] [Server thread/INFO]: View Distance: 12
+[06:34:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06:34:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[06:34:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[06:34:53] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[06:34:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[06:34:53] [Server thread/INFO]: Experience Merge Radius: 8.0
+[06:34:53] [Server thread/INFO]: Mob Spawn Range: 4
+[06:34:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Potato Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[06:34:53] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[06:34:53] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[06:34:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[06:34:53] [Server thread/INFO]: Max TNT Explosions: 100
+[06:34:53] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[06:34:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:34:54] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:34:54] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[06:34:54] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[06:34:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:34:55] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[06:34:56] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[06:34:56] [Worker-Main-5/INFO]: Preparing spawn area: 11%
+[06:34:57] [Worker-Main-4/INFO]: Preparing spawn area: 12%
+[06:34:57] [Worker-Main-4/INFO]: Preparing spawn area: 19%
+[06:34:58] [Worker-Main-6/INFO]: Preparing spawn area: 64%
+[06:34:58] [Worker-Main-4/INFO]: Preparing spawn area: 94%
+[06:35:00] [Server thread/INFO]: Time elapsed: 6344 ms
+[06:35:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[06:35:00] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:35:00] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:35:01] [Worker-Main-4/INFO]: Preparing spawn area: 6%
+[06:35:02] [Worker-Main-4/INFO]: Preparing spawn area: 43%
+[06:35:02] [Worker-Main-6/INFO]: Preparing spawn area: 79%
+[06:35:03] [Worker-Main-5/INFO]: Preparing spawn area: 100%
+[06:35:03] [Worker-Main-5/INFO]: Preparing spawn area: 100%
+[06:35:04] [Worker-Main-5/INFO]: Preparing spawn area: 100%
+[06:35:04] [Worker-Main-6/INFO]: Preparing spawn area: 100%
+[06:35:05] [Worker-Main-6/INFO]: Preparing spawn area: 100%
+[06:35:05] [Worker-Main-4/INFO]: Preparing spawn area: 100%
+[06:35:06] [Server thread/INFO]: Time elapsed: 6002 ms
+[06:35:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:35:06] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:35:06] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[06:35:07] [Worker-Main-5/INFO]: Preparing spawn area: 71%
+[06:35:07] [Server thread/INFO]: Time elapsed: 1315 ms
+[06:35:07] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v19.5
+[06:35:07] [Server thread/INFO]: [0;37;1m[0;37;1m[m[CoreProtect] CoreProtect has been successfully enabled![0;37;1m [m
+[06:35:07] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[06:35:07] [Server thread/INFO]: --------------------
+[06:35:07] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[06:35:07] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[06:35:07] [Server thread/INFO]: --------------------
+[06:35:07] [Server thread/INFO]: [OnlineRewards] Enabling OnlineRewards v1.0.0
+[06:35:07] [Server thread/INFO]: [OnlineRewards] [OnlineRewards] Loading config...
+[06:35:07] [Server thread/INFO]: [OnlineRewards]  
+[06:35:07] [Server thread/INFO]: [OnlineRewards] >>>>>>>>>>>>>>>>>>>>>>>> OnlineRewards Loaded <<<<<<<<<<<<<<<<<<<<<<<<
+[06:35:07] [Server thread/INFO]: [OnlineRewards] >>>>> If you encounter any bugs, please contact author's QQ: 768318841 <<<<<
+[06:35:07] [Server thread/INFO]: [OnlineRewards]  
+[06:35:07] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3
+[06:35:07] [Server thread/INFO]: [PxAutoMessage] ÕýÔÚÆô¶¯Æ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[06:35:07] [Server thread/INFO]: [PxAutoMessage] ³õÊ¼»¯ÐÅÏ¢Ä£¿é...
+[06:35:07] [Server thread/INFO]: [PxAutoMessage] ×¢²áÃüÁî¼àÌýÏµÍ³...
+[06:35:07] [Server thread/INFO]: [PxAutoMessage] ¼ÓÔØÍê±Ï£¡
+[06:35:07] [Server thread/INFO]:  
+[06:35:07] [Server thread/INFO]: > ×÷Õß£ºAn_ye (QQ:1444691679)
+[06:35:07] [Server thread/INFO]: > ±¾²å¼þ×Ô´øºº»¯£¬ÇëÎðÏàÐÅËùÎ½µÄºº»¯°æ£¡
+[06:35:07] [Server thread/INFO]: > £¨×÷ÕßµÄ»°£ºI'm Chinese.£©
+[06:35:07] [Server thread/INFO]:  
+[06:35:07] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0
+[06:35:08] [Server thread/INFO]: HikariPool-1 - Starting...
+[06:35:09] [Server thread/INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[06:35:09] [Server thread/INFO]: HikariPool-1 - Start completed.
+[06:35:11] [Server thread/INFO]: 
+[06:35:11] [Server thread/INFO]:  
+[06:35:11] [Server thread/INFO]: [0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
+[06:35:11] [Server thread/INFO]: [0;30;1m| [0;31;1mInformation:
+[06:35:11] [Server thread/INFO]: [0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[06:35:11] [Server thread/INFO]: [0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[06:35:11] [Server thread/INFO]: [0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[06:35:11] [Server thread/INFO]: [0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[06:35:11] [Server thread/INFO]: [0;30;1m| [0;31;1mSupport:
+[06:35:11] [Server thread/INFO]: [0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[06:35:11] [Server thread/INFO]: [0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[06:35:11] [Server thread/INFO]: [0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[06:35:11] [Server thread/INFO]: [0;30;1m| [0;31;1mUpdate:
+[06:35:11] [Server thread/INFO]: [0;30;1m|   [0;37;22mThere is a new version available! [2.3.0]
+[06:35:11] [Server thread/INFO]: [0;30;1m[]================================[][m
+[06:35:11] [Server thread/INFO]:  [m
+[06:35:11] [Server thread/INFO]: [TAB] Enabling TAB v2.8.10
+[06:35:11] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.17 (v1_17_R1)[m
+[06:35:11] [Server thread/INFO]: [0;31;1m[TAB] Your server version is completely unsupported. This plugin version only supports 1.5.x - 1.16.4. Disabling.[m
+[06:35:11] [Server thread/INFO]: [TAB] Disabling TAB v2.8.10
+[06:35:11] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[06:35:11] [Server thread/INFO]: [OpenInv] Your version of CraftBukkit (v1_17_R1) is not supported.
+[06:35:11] [Server thread/INFO]: [OpenInv] If this version is a recent release, check for an update.
+[06:35:11] [Server thread/INFO]: [OpenInv] If this is an older version, ensure that you've downloaded the legacy support version.
+[06:35:11] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5
+[06:35:11] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼þÒÑÆôÓÃ£¡
+[06:35:11] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼þµ±Ç°°æ±¾£ºV0.5 £¨2017Äê8ÔÂ24ÈÕ£©
+[06:35:11] [Server thread/INFO]: [ChatC] ¸ÐÐ»ÄúµÄÊ¹ÓÃ£¡
+[06:35:11] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT
+[06:35:11] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0
+[06:35:11] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3
+[06:35:11] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;33;1mChecking Your version...[m
+[06:35:11] [Server thread/INFO]: [0;34;1m===============================[m
+[06:35:11] [Server thread/INFO]: [0;32;1m[m
+[06:35:11] [Server thread/INFO]: [0;32;1m GroupManager+ is now enable![m
+[06:35:11] [Server thread/INFO]: [0;32;1m [m
+[06:35:11] [Server thread/INFO]: [0;33;1m Thank you for using GroupManager+ :)[m
+[06:35:11] [Server thread/INFO]: [0;33;1m GroupManager+ is create by HappyAreaBean![m
+[06:35:11] [Server thread/INFO]: [0;36;1m Current version: [0;32;1mv3.3[m
+[06:35:11] [Server thread/INFO]: [0;32;1m [m
+[06:35:11] [Server thread/INFO]: [0;34;1m===============================[m
+[06:35:11] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mWorld Found: world[m
+[06:35:11] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mSuperperms support enabled.[m
+[06:35:11] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is set for every 10 minutes![m
+[06:35:11] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBackups will be retained for 24 hours![m
+[06:35:11] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mGroupManager+ v3.3 is now enabled![m
+[06:35:11] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1
+[06:35:11] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[06:35:11] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[06:35:11] [Server thread/INFO]: [AnGmode] ¡ìaÄãºÃ£¡ÎÒÊÇÐ¡°²£¬¸ÐÐ»ÄãÄÜÊ¹ÓÃÕâ¸ö²å¼þ£¡
+[06:35:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:35:11] [Server thread/INFO]: Done (17.773s)! For help, type "help"
+[06:35:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[06:35:11] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBukkit Permissions Updated![m
+[06:35:11] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;32;1mYou are using the lastest version of GM+! (v3.3)[m

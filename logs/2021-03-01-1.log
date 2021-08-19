@@ -1,0 +1,1436 @@
+[00:01:26] [Server thread/INFO]: anew_tape issued server command: /qd
+[00:01:26] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1manew_tape [0;33;22mÄ¿Ç°ÓĞ [0;32;1m111 [0;33;22m¹±Ï×µãÊı[m
+[00:05:44] [Server thread/INFO]: anew_tape issued server command: /co i
+[00:05:48] [Server thread/INFO]: anew_tape issued server command: /co i
+[00:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[00:25:25] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=157, y=115, z=-170}
+[00:25:25] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=158, y=115, z=-170}
+[00:25:25] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=158, y=116, z=-170}
+[00:25:25] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=157, y=116, z=-170}
+[00:25:25] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=157, y=117, z=-170}
+[00:25:25] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=158, y=117, z=-170}
+[00:31:28] [Server thread/INFO]: anew_tape issued server command: /p me
+[01:13:13] [Server thread/WARN]: Player anew_tape just tried to change non-editable sign
+[01:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[01:15:36] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[01:15:36] [Server thread/INFO]: anew_tape left the game
+[02:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[03:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[04:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[04:23:40] [User Authenticator #477/INFO]: UUID of player FriskBlessing is 23c53ffa-702b-4048-8ccd-4c7c00c1645f
+[04:23:40] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1f292568[id=23c53ffa-702b-4048-8ccd-4c7c00c1645f,name=FriskBlessing,properties={textures=[com.mojang.authlib.properties.Property@11419fd7]},legacy=false] (/127.0.0.1:65003): Äã»¹²»ÔÚ°×Ãûµ¥Å¶  ¼ÓÈëQQ¹Ù·½Èº1085723953 ¼´¿Ì»ñÈ¡
+[04:23:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f292568[id=23c53ffa-702b-4048-8ccd-4c7c00c1645f,name=FriskBlessing,properties={textures=[com.mojang.authlib.properties.Property@11419fd7]},legacy=false] (/127.0.0.1:65003) lost connection: Äã»¹²»ÔÚ°×Ãûµ¥Å¶  ¼ÓÈëQQ¹Ù·½Èº1085723953 ¼´¿Ì»ñÈ¡
+[05:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[06:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[07:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[08:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[09:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[09:27:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@24847222[id=<null>,name=anew_tape,properties={},legacy=false] (/127.0.0.1:50782) lost connection: Disconnected
+[09:27:25] [User Authenticator #478/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[09:27:25] [Server thread/INFO]: anew_tape[/127.0.0.1:50786] logged in with entity id 2132046 at ([world]1519.3303482986269, 160.0, -1523.7151113634634)
+[09:55:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> saa[m
+[10:09:30] [Server thread/INFO]: anew_tape issued server command: /co i
+[10:09:34] [Server thread/INFO]: anew_tape issued server command: /
+[10:09:37] [Server thread/INFO]: anew_tape issued server command: /
+[10:09:38] [Server thread/INFO]: anew_tape issued server command: /co i
+[10:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[10:42:18] [User Authenticator #479/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[10:42:18] [Server thread/INFO]: Magical7[/127.0.0.1:51284] logged in with entity id 2138751 at ([world]1517.463169574126, 64.0, 866.7411383615762)
+[10:42:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@1d8d66e[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:51286) lost connection: Disconnected
+[10:42:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºô[m
+[10:43:10] [Server thread/INFO]: Magical7 >> Ó¡³®»ú×öÍêÁËÂğ[m
+[10:43:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×¥»½Ä§Õßing[m
+[10:43:53] [Server thread/INFO]: Magical7 >> ½¨ÔÚÊ²Ã´µØ·½[m
+[10:44:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã¿´Ö¸Ê¾[m
+[10:46:23] [Server thread/INFO]: Magical7 >> ÎÒÈ¥ ÕâÔõÃ´Ò»´ó¸×ÑÒ½¬[m
+[10:46:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[10:46:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇÊÇbayµÄ½ÙÂÓÊŞ´¦ËÀ[m
+[10:51:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[10:51:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õâtm»¹µş²»ÁË[m
+[10:51:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÆøËÀÎÒÁË[m
+[10:53:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÈ¥³Ô·ğÄÇ¸öÏÂÁË[m
+[10:53:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÈ¥³Ô¶«Î÷ÁË[m
+[10:53:33] [Server thread/INFO]: Magical7 >> e[m
+[10:53:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õâ»½Ä§Õß¾ÍtmÀëÆ×[m
+[10:53:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ó³µ²»ÄÜµşµ½Ò»Æğ[m
+[10:54:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóµÚ¶şÖ»×ø×Å¿ó³µÂäµ½µÚÒ»Ö»Í·ÉÏË¤ËÀÁË[m
+[10:54:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãËµÀë²»ÀëÆ×[m
+[11:11:47] [Server thread/INFO]: Magical7 issued server command: /co i
+[11:12:55] [Server thread/INFO]: Magical7 issued server command: /co i
+[11:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[11:14:05] [Server thread/INFO]: Magical7 issued server command: /qd
+[11:14:05] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mMagical7 [0;33;22mÄ¿Ç°ÓĞ [0;32;1m92 [0;33;22m¹±Ï×µãÊı[m
+[11:14:09] [Server thread/INFO]: Magical7 issued server command: /p me
+[11:42:52] [Server thread/WARN]: Horse (vehicle of Magical7) moved wrongly! 0.318514236121473
+[11:43:38] [Server thread/INFO]: Magical7 issued server command: /co i
+[11:43:44] [Server thread/INFO]: Magical7 issued server command: /co i
+[11:58:06] [Server thread/INFO]: anew_tape issued server command: /qd
+[11:58:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¼ÌĞø[m
+[11:58:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> m7[m
+[11:58:46] [Server thread/INFO]: Magical7 >> àÅ£¿[m
+[11:58:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> À´°ïÃ¦²»[m
+[11:59:23] [Server thread/INFO]: Magical7 >> µÈÎÒÊÕ¼¯ÏÂ½¨²Ä[m
+[12:10:35] [Server thread/INFO]: Magical7 >> ºÃÁË Òª×öÊ²Ã´[m
+[12:10:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¸úÎÒÔË»½Ä§Õß[m
+[12:13:09] [Server thread/INFO]: Magical7 >> ÔõÃ´¸öÔË·¨[m
+[12:13:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> °Ñ»½Ä§ÕßÔËÏÂÈ¥[m
+[12:13:50] [Server thread/INFO]: Magical7 >> Äã²»ÊÇËµ»áË¤ËÀÂğ[m
+[12:13:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·äÃÛ¿é[m
+[12:13:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¼õËÙ[m
+[12:14:02] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1manew_tape [0;33;22mÄ¿Ç°ÓĞ [0;32;1m112 [0;33;22m¹±Ï×µãÊı[m
+[12:14:02] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mMagical7 [0;33;22mÄ¿Ç°ÓĞ [0;32;1m93 [0;33;22m¹±Ï×µãÊı[m
+[12:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[12:14:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹ıÀ´[m
+[12:14:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ±ğÈÃËû¿´¼ûÄã[m
+[12:14:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÒª·ÅÌú¹ìÁË[m
+[12:14:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÕ¾ÎÒÕâÀï[m
+[12:14:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[12:15:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[12:15:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã¸ºÔğÄÇÖ»[m
+[12:15:51] [Server thread/INFO]: Magical7 >> ÓĞÊ²Ã´Òª×¢ÒâµÄÂğ[m
+[12:15:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ±ğÈÃËû¿´¼ûÄã[m
+[12:16:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹ıÀ´[m
+[12:16:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ã»ÊÂ[m
+[12:16:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ([m
+[12:17:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÍæÒâ»¹Í¦ÄÑÔË[m
+[12:17:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËãÁËÄãÈ¥´òbuff[m
+[12:17:35] [Server thread/INFO]: Magical7 >> ÏÈÈ¥³ÔÎç·¹ÁË[m
+[12:17:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[12:33:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃ[m
+[12:33:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õâ´Îbuff5Ö»»½Ä§Õß[m
+[12:33:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 6+5=11[m
+[12:33:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·Ç³£nive[m
+[12:33:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> nice[m
+[12:44:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> t[m
+[12:56:35] [Server thread/INFO]: Magical7 >> »ØÀ´ÁË[m
+[12:56:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[12:56:52] [Server thread/INFO]: Magical7 >> ÏÖÔÚ×öÊ²Ã´[m
+[12:56:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×¼±¸ÊÔ»ú[m
+[12:57:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËùÓĞ¹¤×÷¾ÍĞ÷[m
+[12:57:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÕû¸öĞÅ±ê[m
+[12:57:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 3¸ö°É[m
+[12:57:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 5¸ö°É,¸øËüÀ©Ò»ÏÂ[m
+[12:57:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÒªµãĞ§¹û[m
+[12:57:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»È»¹Ò»úµÄÊ±ºò¿ÉÄÜ¹·´ø[m
+[12:58:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> »ù×ùÎÒ×öºÃÁË[m
+[12:58:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÉÏÀ´·ÅĞÅ±ê¾ÍĞĞ[m
+[12:58:54] [Server thread/INFO]: Magical7 >> ÄãÕâÓĞĞÅ±êÂğ[m
+[12:58:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎŞ[m
+[13:01:54] [Server thread/WARN]: Magical7 moved wrongly!
+[13:04:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÈË?[m
+[13:04:12] [Server thread/INFO]: Magical7 >> ÕÒĞÅ±ê[m
+[13:05:12] [Server thread/WARN]: Magical7 moved wrongly!
+[13:09:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕÒµ½ÁË>[m
+[13:09:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕÒµ½ÁË?[m
+[13:09:19] [Server thread/INFO]: Magical7 >> àÅ[m
+[13:10:51] [Server thread/INFO]: Magical7 >> Õâ±ß»ù×ùÄÜ²¹ÆëÂğ[m
+[13:10:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¶î[m
+[13:10:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ¿´¿´[m
+[13:11:04] [Server thread/INFO]: Magical7 >> ÕâÀï·ÅÁËÃÛ¿é[m
+[13:11:25] [Server thread/INFO]: anew_tape was slain by Vex
+[13:11:29] [Server thread/INFO]: Magical7 >> woc[m
+[13:11:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[13:11:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·äÃÛ¿éÊÇ²»ÍêÕû·½¿é///[m
+[13:12:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> °ïÎÒÊÕÊ¬...[m
+[13:12:39] [Server thread/INFO]: Magical7 >> en[m
+[13:13:44] [Server thread/INFO]: Magical7 >> ÃÛ¿é²»ÄÜÌõ[m
+[13:13:52] [Server thread/INFO]: Magical7 >> ²îµãËÀÁË[m
+[13:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[13:14:37] [Server thread/INFO]: Magical7 >> »¹ÓĞ¼¸¸öÃ»u¼ûµ½[m
+[13:14:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËãÁË²»¹ÜÁË[m
+[13:15:24] [Server thread/INFO]: Magical7 >> ¸øÄã·ÅµØÓüÃÅÁË[m
+[13:15:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[13:16:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ã»Í·[m
+[13:16:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 555[m
+[13:16:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÆøËÀÎÒ[m
+[13:16:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ´ı»áÓĞËûÃÇºÃ¿´µÄ[m
+[13:16:42] [Server thread/INFO]: Magical7 >> ÎÔ²ÛÕâÌ«¿ÓÁË ÎÒ¸Õ¸Õ¼ñÁË µ÷°ëÌìÌø²»¶¯[m
+[13:16:59] [Server thread/INFO]: anew_tape fell from a high place
+[13:17:04] [Server thread/INFO]: Magical7 >> az[m
+[13:17:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> wotm[m
+[13:20:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[13:20:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÈ¥×öÒ»°ÑºÏ½ğ½£[m
+[13:21:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·æÀûV,ºáÉ¨Ö®ÈĞIII,ÇÀ¶áIII,ÄÍ¾ÃIII,¾­ÑéĞŞ²¹[m
+[13:21:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»Òª»ğÑæ¸½¼ÓºÍ»÷ÍË[m
+[13:21:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÎÒ½ÌÄãÔõÃ´¿ª»ú[m
+[13:22:10] [Server thread/INFO]: Magical7 >> ²ÄÁÏÌá¹©Ò»ÏÂ°¡[m
+[13:22:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[13:22:31] [Server thread/INFO]: Magical7 >> ²»È»ÎÒµ½´¦ÅÜÕÒ¶«Î÷[m
+[13:23:53] [Server thread/INFO]: Magical7 >> Ä©µØÄÇ±ßÓĞ¸½Ä§ÊéÂğ[m
+[13:23:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓĞ[m
+[13:24:03] [Server thread/INFO]: Magical7 >> xing[m
+[13:31:18] [Server thread/WARN]: Player anew_tape just tried to change non-editable sign
+[13:31:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[13:32:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> »»¸öÃû×Ö[m
+[13:32:18] [Server thread/INFO]: Magical7 >> ½ĞÊ²Ã´[m
+[13:32:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> emmm[m
+[13:32:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÍ×¬Ç®ÓĞ¹ØµÄ[m
+[13:32:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×¬Ç®¹¤¾ßÖ®ÀàµÄ[m
+[13:32:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> É§Ò»µãµÄ[m
+[13:33:29] [Server thread/INFO]: Magical7 >> ²ÆÉñÒ¯[m
+[13:34:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[13:34:19] [Server thread/INFO]: Magical7 >> ¾ÍÕâ¸ö£¿[m
+[13:35:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[13:35:24] [Server thread/INFO]: Magical7 >> ÎªÊ²Ã´²»ÄÜ¼ÓÁíÍâµÄÁ½¸ö[m
+[13:35:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ğ»ÁË[m
+[13:35:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ğ´ÁË[m
+[13:36:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> À´¼¸¸ö¿ø¼×¼Ü[m
+[13:36:54] [Server thread/INFO]: Magical7 >> ºÃÏñÒªÆ½»¬Ê¯°ë×©[m
+[13:37:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÀï[m
+[13:37:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> À´¼¸¸öÎïÆ·Õ¹Ê¾¿ò[m
+[13:40:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ¿´¿´ÒªÔõÃ´Ëµ[m
+[13:45:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> m7ÔÚÂğ[m
+[13:45:36] [Server thread/INFO]: Magical7 >> ÔÚ[m
+[13:45:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ª»úËµÃ÷ÒªÔõÃ´Ëµ[m
+[13:46:01] [Server thread/INFO]: Magical7 >> £¿[m
+[13:46:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÒªËµµÄÓĞµã¶à[m
+[13:46:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Àí²»ÇåË³Ğò[m
+[13:46:06] [Server thread/INFO]: Magical7 >> ÎÒ¶¼Ã»ÓÃ¹ı[m
+[13:46:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÃ×Å¸Õ²ÅÄÇ°Ñ½£[m
+[13:46:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ½ø·àÍ°[m
+[13:46:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> °ÑÍ·ÉÏµÄÕ¤À¸ÃÅ¹ØÉÏ,·ÀÖ¹Íæ¼ÒÒÆ¶¯[m
+[13:47:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºó¶Ô×Å×êÊ¯¼×¿ø¼×¼Ü¿³,¼ä¸ô0.8s-1s[m
+[13:47:16] [Server thread/INFO]: Magical7 >> Õ¹Ê¾¿ò[m
+[13:47:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»Òª¿³Ì«¿ì[m
+[13:47:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ø¼×¼Ü»á±»¿³µô[m
+[13:48:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ì«¿ì¿ø¼×¼Ü»á±»¿³µô[m
+[13:48:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÇ§Íò²»Òªµ½Ë®ÃæÉÏ[m
+[13:48:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> »á±»ÄÕ¹í´ò[m
+[13:48:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ½øÈë·àÍ°µÄÊ±ºòÇ§Íò²»ÒªÓÎµ½ÑÒ½¬Àï![m
+[13:48:53] [Server thread/INFO]: Magical7 >> ÄãÀ´Êµ²ÙÒ»ÏÂ°É ÎÒ¿´¿´[m
+[13:48:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ö±½Ógg[m
+[13:49:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÕ¾Ô¶Ò»µã[m
+[13:49:06] [Server thread/INFO]: Magical7 >> ¿´ÆğÀ´ÓĞµãÂé·³[m
+[13:49:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> »áÓĞÄÖ¹í[m
+[13:49:23] [Server thread/INFO]: Magical7 >> ¹ıÀ´ÁËÎÒ¾Í·É×ß[m
+[13:49:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[13:50:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ê×ÏÈÄÃ½£[m
+[13:50:07] [Server thread/INFO]: Magical7 >> en[m
+[13:50:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºó½øÈëË®µÀ[m
+[13:50:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ½ø·àÍ°[m
+[13:50:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓĞµãÄÑ½ø[m
+[13:51:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÍÂÁË[m
+[13:51:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[13:51:45] [Server thread/INFO]: Magical7 >> ÎªÊ²Ã´Òª·Å¸ñË®[m
+[13:51:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[13:51:52] [Server thread/INFO]: Magical7 >> o[m
+[13:51:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâË®°ÑÍæ¼ÒÍùÇ°ÍÆ[m
+[13:52:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÕ¤À¸ÃÅÏŞÖÆÍæ¼ÒÍùÉÏÌø[m
+[13:52:31] [Server thread/INFO]: Magical7 >> ÄÖ¹í²»ÄÜÅöË®£¿[m
+[13:52:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÑù¹Ò»úµÄÊ±ºò±»ÄÕ¹í´òÁËÒ²²»»áÒÆ¶¯[m
+[13:52:47] [Server thread/INFO]: Magical7 >> ÎÒ¿´ËûÃÇ¶¼¹ı²»È¥[m
+[13:52:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÆøÅİÖù°ÑÄÕ¹í¶¥³öË®Ãæ[m
+[13:53:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËùÒÔÇ§Íò²»ÒªÉÏË®Ãæ![m
+[13:53:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºó¿´µ½¿ø¼×ÉÏÃæµÄÕ¤À¸ÃÅÁËÃ»[m
+[13:53:43] [Server thread/INFO]: Magical7 >> en[m
+[13:53:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹Ø±Õ,·¢³öĞÅºÅ,¿ª»ú[m
+[13:53:59] [Server thread/INFO]: Magical7 >> ÄãÕâ»¹Ã»buffÄØ[m
+[13:54:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÉÏÃæµÄ¹éÖĞºÍ·¢ÉäÆ÷¹¤×÷[m
+[13:54:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÕâÑù¾Í¿ÉÒÔÁË[m
+[13:54:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ç§Íò²»Òª¸ßÆµ¿ª¹ØÕ¤À¸ÃÅ[m
+[13:54:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Òª²»È»´ı»áË®°Ñ¸¡¿ÕÑ©Æ¬³åµôÁË[m
+[13:55:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ö±½Ógg[m
+[13:55:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇÑù¾ÍµÃ»ØµµÁË[m
+[13:55:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃ[m
+[13:55:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÖÔÚÎÒÃÇÍù·àÍ°×ó±ßÕ¾[m
+[13:56:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×¼ĞÄÆ«ÓÒ[m
+[13:56:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿³¿ø¼×¼Ü[m
+[13:56:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»Òª¿³Ì«¿ì,Ì«¿ì»á°Ñ¿ø¼×¼Ü¿³µô[m
+[13:56:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÀïÀûÓÃºáÉ¨Ö®ÈĞÈ¥É±¹Ö[m
+[13:56:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿³¿ø¼×¼Ü,´¥·¢ºáÉ¨Ö®ÈĞ[m
+[13:57:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> É±ËÀ¹Ö[m
+[13:57:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ë®Á÷ÊÕ¼¯ÂÌ±¦Ê¯[m
+[13:57:13] [Server thread/INFO]: Magical7 >> ¹Ö»áµôµ½ÄÄ[m
+[13:57:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> »ù±¾ÎŞ·çÏÕ[m
+[13:57:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ø¼×¼ÜÁ½±ß[m
+[13:57:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎïÆ·Õ¹Ê¾¿òµÄÕâÀï[m
+[13:57:56] [Server thread/INFO]: Magical7 >> Å¶[m
+[13:58:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÑÒ½¬Ïú»Ù¾­ÑéÇò[m
+[13:58:07] [Server thread/INFO]: Magical7 >> ÉÏÃæË¢ÁËÒ»Ö±½©Ê¬[m
+[13:58:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»¹ıÕâ·şÎñÆ÷Ó¦¸Ã²»ÓÃ[m
+[13:58:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ã»ÊÂ[m
+[13:58:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ã»ÎÊÌâµÄ[m
+[13:58:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºó²»ÏëË¢ÁË[m
+[13:58:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ´ò¿ªÕ¤À¸ÃÅ,¹Ø»ú[m
+[13:58:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> okÏÖÔÚ¹Ø»úÁË[m
+[13:59:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÔõÃ´ÉÏÀ´µÄ¾ÍÔõÃ´ÏÂÈ¥[m
+[13:59:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÀë¿ª¾ÍĞĞ[m
+[13:59:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¾ÍÕâÑù[m
+[14:00:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È¥´òbuff[m
+[14:00:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ª»ú°É[m
+[14:00:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¼ÇµÃ´©ĞØ¼×[m
+[14:01:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ÉÒÔ¹Ò»úºÜ¾ÃµÄ[m
+[14:01:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹ÒÒ»ÌìÃ»ÎÊÌâ[m
+[14:01:22] [Server thread/INFO]: Magical7 >> ÎÒÏÖÔÚÈ¥Ë¯ Äã¹Ò°É[m
+[14:01:26] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[14:01:26] [Server thread/INFO]: Magical7 left the game
+[14:13:05] [Server thread/INFO]: anew_tape was slain by Vex
+[14:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[15:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[16:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[16:47:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@205f6bf6[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:54988) lost connection: Disconnected
+[16:47:50] [User Authenticator #480/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[16:47:51] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:54993] logged in with entity id 3005438 at ([world]1534.395219088454, 69.0, -1525.8114027714364)
+[16:48:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ahhhhhh[m
+[16:48:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Èı´óÏä×ÓÂÌ±¦Ê¯¿é![m
+[16:48:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> wc[m
+[16:48:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹»Äã»Ó»ôÒ»±²×Ó[m
+[16:48:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»¹»£¨[m
+[16:48:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÒª¹Ò»ú²»[m
+[16:48:51] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[16:48:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÃ»ÑÌ»¨ÉÏ²»À´£¨[m
+[16:49:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ¶ª¸øÄã[m
+[16:49:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ´î¸öÂ·°É[m
+[16:49:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¶ªÁË[m
+[16:49:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÏÂÈ¥¹Ö»áÏûÊ§[m
+[16:49:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ôô¿ªĞÄ[m
+[16:49:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õ¾×ÅÓ¡³®[m
+[16:49:54] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ...[m
+[16:50:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ç©µôÁË[m
+[16:50:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ìÈ¥¼ñ[m
+[16:50:18] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> µôÏÂÃæÈ¥ÁË[m
+[16:51:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 6ÎÒÓ¡»á³®[m
+[16:51:18] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[16:51:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÊÕ¼¯Äã×ö¶àµã[m
+[16:52:20] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ???[m
+[16:52:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[16:52:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÓĞÄÕ¹í°ÇÀ­ÎÒ[m
+[16:55:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²£Á§»»Ò»ÏÂ[m
+[16:55:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÂ°ë×©[m
+[16:55:13] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[16:55:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»»á¼âÑÀ[m
+[16:55:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÄÀïµÄ[m
+[16:55:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Æ½Ì¨[m
+[16:56:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ±ğÓÃÄ£°å[m
+[16:56:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÍÁ[m
+[16:56:47] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[16:57:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Òª²»ÄãÆÌµØÌºÒ²ĞĞ[m
+[16:57:20] [User Authenticator #481/INFO]: UUID of player Fukoooo is f957285b-78cb-4045-9b47-5af0d4e3679b
+[16:57:21] [Server thread/INFO]: Fukoooo[/127.0.0.1:55060] logged in with entity id 3036904 at ([world]2775.5449556915946, 65.0, -424.3719061016198)
+[16:57:53] [Server thread/INFO]: Fukoooo >> hi[m
+[16:57:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> hi[m
+[17:00:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿´ÁËÄãµÄ¸æÊ¾ÅÆ£¬ÎÒ¾ö¶¨Åª°Ñ½££¨[m
+[17:01:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> hhhh[m
+[17:01:48] [Server thread/INFO]: Fukoooo >> ºÃÌÛ[m
+[17:02:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ±§Ç¸£¨[m
+[17:02:23] [Server thread/INFO]: Fukoooo >> Ã»ÊÂ[m
+[17:04:50] [Server thread/INFO]: Fukoooo >> tape[m
+[17:05:40] [Server thread/INFO]: Fukoooo >> ÎÒ¿¨ÔÚÕâÁË[m
+[17:05:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[17:05:52] [Server thread/INFO]: Fukoooo >> Ï®»÷Ëû[m
+[17:05:54] [Server thread/INFO]: Fukoooo >> qaq[m
+[17:07:17] [Server thread/INFO]: Fukoooo lost connection: Disconnected
+[17:07:17] [Server thread/INFO]: Fukoooo left the game
+[17:07:40] [User Authenticator #482/INFO]: UUID of player Fukoooo is f957285b-78cb-4045-9b47-5af0d4e3679b
+[17:07:40] [Server thread/INFO]: Fukoooo[/127.0.0.1:55133] logged in with entity id 3104666 at ([world]1524.572871607629, 178.5, -1521.7500560477336)
+[17:07:47] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÕıÔÚ»ØÀ´£¨[m
+[17:08:52] [Server thread/INFO]: Fukoooo lost connection: Disconnected
+[17:08:52] [Server thread/INFO]: Fukoooo left the game
+[17:09:05] [User Authenticator #483/INFO]: UUID of player Fukoooo is f957285b-78cb-4045-9b47-5af0d4e3679b
+[17:09:06] [Server thread/INFO]: Fukoooo[/127.0.0.1:55148] logged in with entity id 3114142 at ([world]1524.755318643517, 178.5, -1528.211092214127)
+[17:09:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë»...[m
+[17:09:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> where[m
+[17:09:41] [Server thread/INFO]: Fukoooo >> zz[m
+[17:09:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿´µ½ÁË[m
+[17:09:52] [Server thread/INFO]: Fukoooo >> ÎÒ¸ÃÔõÃ´³öÈ¥[m
+[17:09:55] [Server thread/INFO]: Fukoooo >> ²ğam[m
+[17:09:58] [Server thread/INFO]: Fukoooo >> ²ğÂğ[m
+[17:10:09] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²ğÉÏÃæ²£Á§°É£¨[m
+[17:10:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> az[m
+[17:10:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ok[m
+[17:10:29] [Server thread/INFO]: Fukoooo >> ..[m
+[17:10:47] [Server thread/INFO]: Fukoooo >> QAQ[m
+[17:10:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ë­ÒªË¢[m
+[17:10:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÀ´ÊÔÊÔ[m
+[17:11:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÈ°ÑÕ¤À¸ÃÅ¹ØÉÏ[m
+[17:11:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÔÙ½øÈ¥[m
+[17:12:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Æ½Ì¨·À¹Ö´ëÊ©»¹µÃ×öÒ»ÏÂ[m
+[17:12:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë»...[m
+[17:12:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÕ¾×Å¿³ÊÔÊÔ[m
+[17:12:32] [Server thread/INFO]: Fukoooo >> ÎÒÈ¥¸ãµã½£[m
+[17:12:39] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÊÖÉÏÓĞ°Ñ[m
+[17:12:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ±ğÕ¾Õâ[m
+[17:12:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²ÅÅªµÃ[m
+[17:12:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÕ¹í»á´ò[m
+[17:13:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËãÁËÄã»¹ÊÇ½ø·àÍ°°Ñ[m
+[17:13:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËäÈ»ºÜÄÑ¾Í¶ÔÁË[m
+[17:13:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ½ø²»È¥£¨[m
+[17:13:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÀ´Ê¾·¶[m
+[17:13:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿´ºÃÁË[m
+[17:13:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> giao[m
+[17:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[17:14:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[17:14:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 2333[m
+[17:14:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ²İ[m
+[17:14:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ±ğÉÏË®Ãæ[m
+[17:15:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÒ²²»Ïë°¡£¨[m
+[17:15:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÍÚ·äÃÛ¿é[m
+[17:15:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¸Ï½ôÅÜ[m
+[17:16:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËùÒÔÕ¦½øµÄ£¨[m
+[17:16:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õ¾ÉÏÃæ[m
+[17:17:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹ØÃÅ[m
+[17:17:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> °Ñ×Ô¼ºÑ¹³ÉÓÎÓ¾×ËÊÆ[m
+[17:17:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> shift½øÈ¥[m
+[17:17:22] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºÃµÄ[m
+[17:17:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µÈµÈ[m
+[17:17:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ½£¸øÄã[m
+[17:18:50] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒºÃÁË£¿[m
+[17:18:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[17:19:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÓĞ½£[m
+[17:19:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 0.7s¼ä¸ô¿³![m
+[17:19:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¸Õ¸Õ¸½ÁË°Ñ[m
+[17:19:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õ¤À¸ÃÅ¹ØÆğÀ´[m
+[17:19:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[17:19:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¾ÍÕâÑù[m
+[17:19:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿³?[m
+[17:20:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÔÚµ÷¼ä¸ô[m
+[17:21:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok¾ÍÕâÑù[m
+[17:22:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»ÊÇºÏ½ğ½£ºáÉ¨Ö®ÈĞ·¶Î§ºÃÏñ²»¹»´ó[m
+[17:22:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÊÕ¼¯ÓĞµã¸ú²»ÉÏ[m
+[17:22:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹ÜËûÄØ[m
+[17:23:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·´ÕıÖ»Òª¹Ò»ú¶¼ÊÇÎŞÏŞµÄ[m
+[17:23:04] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë»¡£¡£¡£[m
+[17:23:13] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºÏ½ğ½£»¹¼Ó·¶Î§£¿[m
+[17:23:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»ÖªµÀ[m
+[17:23:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Fukoooo[m
+[17:23:37] [Server thread/INFO]: Fukoooo >> a[m
+[17:23:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Áé»êÉ³À´µã?[m
+[17:24:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ¾õµÄÄãÕâ¸ö¸æÊ¾ÅÆÓ¦¸ÃÌùÔÚÏÔÑÛµÄÎ»ÖÃ£¨[m
+[17:24:19] [Server thread/INFO]: Fukoooo >> ¼¸×é°¡[m
+[17:24:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õâ»¹²»¹»ÏÔÑÛÂğ...[m
+[17:24:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 1ºÍ[m
+[17:24:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 1ºĞ[m
+[17:24:35] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºĞ×Óµ²ÁË£¨[m
+[17:24:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËãÁË[m
+[17:24:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»ÒªÁé»êÉ³[m
+[17:24:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> µ±³õÅªÓãËşÓÃÁË¶àÉÙÁé»êÉ³ = =[m
+[17:25:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃ°É»¹ÊÇÒª°Ñ[m
+[17:25:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë»[m
+[17:25:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÆäÊµ¾ÍÊÇÎÒÏë°ÑÊÕ¼¯Æ½Ì¨ÓÅ»¯ÏÂ[m
+[17:25:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»¹ÖÁË£¿[m
+[17:26:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÉÏÃæÍ£ÁË[m
+[17:26:08] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[17:26:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÊÇ²»ÊÇ¶¯ÁË¿ø¼×¼ÜÉÏÃæµÄÕ¤À¸ÃÅ[m
+[17:26:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¸Õ¿ªÊ¼µÄÊ±ºò¶¯ÁË[m
+[17:26:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºóÃæÎÒÒ»Ö±ÊÇÁé»ê³öÇÏ°¡[m
+[17:26:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã°Ñ¹éÖĞÍ£ÁË¾ÍÃ»¹ÖÁË[m
+[17:26:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËùÒÔ.....[m
+[17:27:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã¿ªÒ»´Î[m
+[17:27:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[17:27:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »¹ÊÇÃ»ÓĞ°¡[m
+[17:27:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹Ö¶¼¼·ËÀÍêÁË[m
+[17:27:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ã»¶Ó³¤ÁË[m
+[17:27:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ...[m
+[17:27:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×Ô¼ºÈ¥Åªbuff[m
+[17:28:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÏÈÈ¥ÅªÒ»ºĞÊ¯Ó¢¿éÆÌµØ°å°Ñ[m
+[17:29:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ°ÑÊÕ¼¯Æ½Ì¨µÄÄÕ¹í¹¥»÷ÎÊÌâ½â¾öÁËÔÙ¿ª»ú[m
+[17:29:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Òª²»È»ÀÏ°¤´ò[m
+[17:29:17] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ½£·ÅÕâÁË[m
+[17:29:39] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ò»ºĞÊ¯Ó¢¿é = =[m
+[17:29:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÜ¶àÂğ...[m
+[17:30:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓĞÁ½°ÑÁË[m
+[17:30:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»¹ıºÃÏñÒ»°Ñ¾Í¹»ÁË[m
+[17:30:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¶à¶àÒæÉÆ[m
+[17:30:58] [Server thread/INFO]: Fukoooo >> ½£Âğ[m
+[17:31:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ö¸²»¶¨ÓĞÈË¹Ò×Å¹Ò×Å¾ÍÏÂÏßÁË[m
+[17:31:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇfukÄãÔÙ×öÒ»°Ñ°É[m
+[17:31:18] [Server thread/INFO]: Fukoooo >> ÎÒÅªÁË5°É[m
+[17:31:22] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ...[m
+[17:31:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[17:31:25] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ÉÒÔ[m
+[17:31:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> °ïÎÒÅª¸öÍ·ºÍ¿ã×Ó[m
+[17:31:39] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[17:31:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÂÌ±¦Ê¯Ëæ±ãÄÃ[m
+[17:31:49] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ´øÁËÒ»ºĞ¿é£¨[m
+[17:36:48] [Server thread/INFO]: Villager EntityVillager['Mason'/3160804, l='ServerLevel[world_the_end]', x=121.50, y=-192.47, z=-359.02] died, message: 'Mason fell out of the world'
+[17:43:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ï®»÷Ëş¾­Ñé±ÈÖíÈËËş»¹¶à[m
+[17:43:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¾ÍÀëÆ×[m
+[17:43:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 1¸ö°ëĞ¡Ê±573¼¶[m
+[17:43:23] [Server thread/INFO]: Fukoooo >> Áé»êÉ³ÈÓµØÉÏÁË[m
+[17:43:23] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> .....[m
+[17:43:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ???[m
+[17:43:33] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÃºĞ×°°¡[m
+[17:43:39] [Server thread/INFO]: Fukoooo >> ¶Ô[m
+[17:43:44] [Server thread/INFO]: Fukoooo >> ÔÚºĞ×ÓÀï[m
+[17:43:55] [Server thread/INFO]: Fukoooo >> ´ÁµØÉÏÁË[m
+[17:44:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[17:44:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ¾õµÃÓÃº£¾§Ê¯×©Ì¨½×ºÃÒ»µã[m
+[17:44:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÌåÏÖº£¾§ÌØĞÔ[m
+[17:44:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¶ÔÁË![m
+[17:44:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º£¾§Ê¯»¹¶à[m
+[17:44:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> °µº£¾§Ê¯Ì¨½×[m
+[17:44:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> °µº£¾§Ê¯Ì¨½×!!![m
+[17:44:54] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[17:44:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õâ¸öºÅ[m
+[17:44:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ä«ÄÒ£¨[m
+[17:45:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õâ¸ÁºÃ[m
+[17:45:03] [Server thread/INFO]: Fukoooo >> ÎÒÃ»ºÏ½ğ¿é[m
+[17:45:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µòÁãÃµ¹å×öºÚÉ«È¾ÁÏ[m
+[17:45:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[17:45:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÍüÁËÉı°æ±¾ÁË£¨[m
+[17:46:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓĞµã¶àÁË...[m
+[17:46:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒµÄÍ·ºÍ¿ã×ÓÄØ[m
+[17:46:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[17:46:35] [Server thread/INFO]: Fukoooo >> Ã»×öÄØ[m
+[17:46:38] [User Authenticator #484/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[17:46:38] [Server thread/INFO]: Twilight2033[/127.0.0.1:55398] logged in with entity id 3165015 at ([world]5203.7128685249845, 76.0, 164.1754717879909)
+[17:46:47] [Server thread/INFO]: Fukoooo >> ¸Õ²ÅÍÛÉ¶×ÓÀ´×Å[m
+[17:46:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> É¶[m
+[17:46:59] [Server thread/INFO]: Fukoooo >> ÍÚÉ³×Ó[m
+[17:47:04] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Áé»êÉ³£¨[m
+[17:47:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Áé»êÉ³[m
+[17:47:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÖÔÚÓĞÁ½¸ö·½°¸[m
+[17:47:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µÚÒ»¸ö:Áé»êÉ³ÆøÅİÖù[m
+[17:47:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µÚ¶ş¸ö:Ö±½Ó±©Á¦í¡·½¿é[m
+[17:48:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[17:48:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µÚ¶ş¸ö:Ö±½Ó±©Á¦í¡·½¿é,ÄÕ¹í²»ÄÜÍ¸¹ı·½¿é¿´ÈË[m
+[17:50:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏëÓÃÄÄ¸ö[m
+[17:50:22] [Server thread/INFO]: Twilight2033 >> anew_tape[m
+[17:50:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> fuko[m
+[17:50:34] [Server thread/INFO]: Twilight2033 >> º£¾§ÃÅÎÀ¿ì°ÑÎÒÕû×Ô±ÕÁË[m
+[17:50:36] [Server thread/INFO]: Fukoooo >> a[m
+[17:50:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»ÓÃÍ·ºÍ¿ã×ÓÁË[m
+[17:50:39] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[17:50:44] [Server thread/INFO]: Fukoooo >> °Â[m
+[17:51:07] [Server thread/INFO]: Fukoooo >> ÑøÁ½Ö»Å£¾ÍºÃÁË[m
+[17:51:21] [Server thread/INFO]: Twilight2033 >> anew_tapeÏÖÔÚÂÓ¶áËşÔõÃ´È¥[m
+[17:51:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿´ÌáÊ¾[m
+[17:51:29] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÀÏµØ·½[m
+[17:51:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÓĞ¸æÊ¾ÅÆ[m
+[17:51:36] [Server thread/INFO]: Twilight2033 >> Ë³±ã½ÌÎÒÕ¦ÓÃßÂ[m
+[17:51:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»¼±[m
+[17:52:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÈ°ÑÊÕ¼¯²¿·ÖÓÅ»¯Ò»²¨[m
+[17:52:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓÃ»§ÌåÑé²»ºÃ[m
+[17:52:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ([m
+[17:52:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 2333[m
+[17:52:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÂÌ±¦Ê¯ÔÚÕâÀï[m
+[17:52:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ê¯Ó¢¿éºÃÁË[m
+[17:52:42] [Server thread/INFO]: Twilight2033 >> ÄÇ¾ÉÂÓ¶áËş[m
+[17:52:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> nice[m
+[17:52:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »¹ĞèÒªÉ¶²»[m
+[17:52:48] [Server thread/INFO]: Twilight2033 >> ÎÒ»ØÊÕÁËÎÒà¸[m
+[17:52:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ±ğ²ğÁË[m
+[17:52:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÀË·ÑÊ±¼ä[m
+[17:53:04] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+[17:53:05] [Server thread/INFO]: Twilight2033 >> ÎÒÈ±[m
+[17:53:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÈ±É¶[m
+[17:53:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÇëÎÊÄãÈ±É¶£¨[m
+[17:53:13] [Server thread/INFO]: Twilight2033 >> ÎÒ·´ÕıÔİÊ±Ã»ÊÂ¸É[m
+[17:53:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇ¾Í°ïÃ¦×¼±¸²ÄÁÏ[m
+[17:53:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> »ğÒ©1×é[m
+[17:53:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ÉÒÔ[m
+[17:53:49] [Server thread/INFO]: Twilight2033 >> ÎÒ×öµÄ³±Ó¿ºËĞÄÕÒµ½ÁË[m
+[17:53:50] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÊÕ¼¯¿ÉÒÔÅª¸öÊÕ¼¯»ğÒ©µÄ[m
+[17:54:01] [Server thread/INFO]: Twilight2033 >> ÄãÃ»ÓÃ[m
+[17:54:06] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ò»´¦¾ÍĞĞ[m
+[17:54:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÃ»¿´¼ûahhhh[m
+[17:54:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×òÌìsenÕÒÁË°ëÌì[m
+[17:54:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÒ²Ã»¿´¼û£¨[m
+[17:54:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÃ»¿´±³°ü[m
+[17:54:24] [Server thread/INFO]: Twilight2033 >> = =[m
+[17:54:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÔÚÎÒ°üÀï[m
+[17:54:31] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ...[m
+[17:54:35] [Server thread/INFO]: Fukoooo >> ÎÒÓĞ[m
+[17:54:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÕÒµ½¾ÍÓĞ¹íÁË[m
+[17:54:43] [Server thread/INFO]: Twilight2033 >> ¶ÔÁËÎÒÏëÄÃÄÇºĞç³ºì[m
+[17:55:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÆÌµØ°å[m
+[17:55:50] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡£¿[m
+[17:55:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ï®»÷ËşÇø¿éÖĞĞÄ[m
+[17:55:52] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[17:55:52] [Server thread/INFO]: Twilight2033 left the game
+[17:55:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 3*3Çø¿é[m
+[17:56:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÍÕ¨¹ÖËşÒ»Ñù[m
+[17:56:11] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¸ß¶È160[m
+[17:56:17] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²ÄÁÏ£¿[m
+[17:56:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ê¯Ó¢¿é£¿[m
+[17:56:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[17:56:51] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÃÇĞÊ¯»ú×ö°ë×©°¡[m
+[17:56:54] [User Authenticator #485/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[17:56:54] [Server thread/INFO]: Twilight2033[/127.0.0.1:55489] logged in with entity id 3168536 at ([world]1524.673636506171, 69.0, -1523.95067449815)
+[17:57:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²£Á§ÍÚµô[m
+[17:59:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»µÃ²»ËµĞ§ÂÊÊÇÕæµÄ¸ß[m
+[17:59:14] [Server thread/INFO]: Fukoooo >> ..[m
+[17:59:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 1Ìì×öÍê[m
+[17:59:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×òÌìµ½½ñÔç[m
+[17:59:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[17:59:33] [Server thread/INFO]: Twilight2033 >> Ê®µã¿ªÊ¼[m
+[17:59:38] [Server thread/INFO]: Fukoooo >> ²»Ò»Ñù¡®[m
+[17:59:39] [Server thread/INFO]: Twilight2033 >> ÉÏÎçÊ®µã¿ªÊ¼[m
+[18:00:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ Ò»¸öÈË×öÒ»Ìì¶¥bay×ö°ëÄê[m
+[18:00:14] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[18:00:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËûµÄÏ®»÷Ëş¶¥²¿µÄ[m
+[18:00:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËûµÄÏ®»÷Ëş¶¥²»µÃÒ»µã[m
+[18:01:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿´ÆğÀ´¿ÕÓò·şºÃÏñ¿ÉÒÔÖ§³Ö×î¸ßĞ§ÂÊ32w[m
+[18:01:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ã¿Ğ¡Ê±15wÂÌ±¦Ê¯[m
+[18:02:05] [Server thread/INFO]: Twilight2033 >> ¶ÔÁËÎÑ[m
+[18:02:09] [Server thread/INFO]: Twilight2033 >> ¾ÉÏ®»÷Ëş[m
+[18:02:18] [Server thread/INFO]: Twilight2033 >> ÊÇ²»ÊÇ°×ÀĞ¿ª¹¤µÄ[m
+[18:02:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãËµµÄ¾É¾ÉËş»¹ÊÇ¾ÉËş[m
+[18:02:49] [Server thread/INFO]: Twilight2033 >> ¾É[m
+[18:02:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÊÇËû°É[m
+[18:03:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ëû×öµÄÊ±ºòÎÒ»¹Ã»½Ó´¥¹ıÏ®»÷Ëş[m
+[18:03:20] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[18:03:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µ±Ê±¿´Ï®»÷Ëş»¹¾õµÃºÜnb[m
+[18:03:27] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[18:03:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÖÔÚ¿´»¹ÊÇºÜnb[m
+[18:03:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»¹ıÎÒ×Ô¼º×öµÄÒ²nb[m
+[18:03:48] [Server thread/INFO]: Twilight2033 >> ÄÜÓÃµÄ×îÅ£±Æ[m
+[18:04:20] [Server thread/INFO]: Twilight2033 >> ¾ÉÏ®»÷ËşÓĞºÃ¶à°×ÀĞµÄºĞ×Ó[m
+[18:04:40] [Server thread/INFO]: Twilight2033 >> ²»¹ıºÃ¶à¶¼¿ÕÁË= =[m
+[18:04:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÀÁµÃ¹Ü[m
+[18:05:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹ıÀ´ÆÌµØ°å[m
+[18:05:27] [Server thread/INFO]: Twilight2033 >> ½ĞÎÒÂğawa[m
+[18:05:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¶Ô[m
+[18:05:33] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[18:05:47] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[18:06:17] [Server thread/INFO]: Twilight2033 >> ÔİÊ±À´²»ÁË[m
+[18:06:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×î¸ßĞ§ÂÊÃ¿Ğ¡Ê±5´óÏä×ÓÂÌ±¦Ê¯¿é×óÓÒ[m
+[18:06:26] [Server thread/INFO]: Twilight2033 >> ÎÒÕâ±ß»¹ÓĞµãÊÂÇé[m
+[18:06:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[18:07:30] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[18:07:36] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[18:07:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 233[m
+[18:08:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[18:09:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¸æÊ¾ÅÆ¿´À´µÃÖØĞ´[m
+[18:10:08] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 23333[m
+[18:11:04] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[18:11:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> hhh[m
+[18:11:39] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[18:12:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ±©Á¦í¡·½¿éºÃÁË[m
+[18:12:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> í¡ĞşÎäÑÒ[m
+[18:12:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ä¥ÖÆĞşÎäÑÒ[m
+[18:12:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·´Õı¶àµÄÓÃ²»Íê[m
+[18:12:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÁ©È¥ÄÃ[m
+[18:12:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 4ºĞÓ¦¸Ã¹»ÁË[m
+[18:12:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> í¡µ½ÄÕ¹í¿´²»¼û[m
+[18:13:13] [Server thread/INFO]: Fukoooo >> sen È¥°É[m
+[18:13:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ok[m
+[18:13:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¸ãµãº£¾§µÆ×°ÊÎ[m
+[18:13:21] [Server thread/INFO]: Fukoooo >> ÎÒÓĞµãÊÂ ÏÈÁïÁË[m
+[18:13:24] [Server thread/INFO]: Fukoooo >> QAQ[m
+[18:13:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[18:13:29] [Server thread/INFO]: Fukoooo >> ÍíÉÏ»Ø[m
+[18:13:35] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÍíÉÏÓĞ¿Î£¨[m
+[18:13:41] [Server thread/INFO]: Fukoooo lost connection: Disconnected
+[18:13:41] [Server thread/INFO]: Fukoooo left the game
+[18:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[18:14:06] [Server thread/INFO]: sen_lv_ling_ issued server command: /qd
+[18:14:06] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1msen_lv_ling_ [0;33;22mÄ¿Ç°ÓĞ [0;32;1m122 [0;33;22m¹±Ï×µãÊı[m
+[18:14:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ¿ÉÄÜÊÇ¿ªÑ§×îÏĞµÄÈË[m
+[18:14:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÖÜÒ»ÎŞ¿Î[m
+[18:14:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÖÜ¶ş¾ÍÒ»½Ú[m
+[18:14:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ½ñÌìÈı½Ú£¬ÖÜ¶şÃ»¿Î£¬ÖÜÈıÁ½½Ú£¬ÖÜËÄÃ»¿Î[m
+[18:15:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã¶¼´òËÀÁË[m
+[18:15:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ´óËÄ[m
+[18:15:29] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ´óÈı[m
+[18:15:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ..[m
+[18:16:38] [Server thread/INFO]: Twilight2033 >> ºÃ[m
+[18:17:00] [Server thread/INFO]: Twilight2033 >> ¾ÉÂÓ¶áËş±»ÎÒ²ğÁËÒ»²¿·ÖºìÊ¯Æ÷Ğµ[m
+[18:17:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÉÏÑ§ÆÚ¾ÍÖ»ÓĞ¼¸¸öÖÜÄ©ÓĞ¿Õ[m
+[18:17:08] [Server thread/INFO]: Twilight2033 >> ÎÒ×¼±¸¸ã¾úÖÖÊ÷³¡ÁË[m
+[18:17:11] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÆäËûÈ«ÊÇÂú¿Î[m
+[18:18:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã°ÑµôÏÂÈ¥µÄ¿ø¼×¼ÜÊÕÒ»ÏÂ[m
+[18:19:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÖØĞÂ·Å[m
+[18:19:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[18:19:07] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> where[m
+[18:19:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿´¼ûÁ½[m
+[18:21:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÆÌÇ½[m
+[18:22:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> nice[m
+[18:22:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> »¹ÊÇÄÜÌø³öÀ´[m
+[18:22:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ...[m
+[18:26:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃÏñÓĞÒ»ºĞ×ÓÇÊ³á²»½¨ÁË[m
+[18:27:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[18:27:11] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÇÎÒ¿Ï¶¨Ã»¼û¹ı£¨[m
+[18:27:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ¾ÍÃ»ÔÚÏ®»÷Ëş¼ûµ½¹ıÒ»ºĞ×ÓÇÊ³á[m
+[18:27:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÂÒÆß°ËÔãµÄ¶«Î÷[m
+[18:28:06] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ¶ù°¡[m
+[18:28:18] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Á½ÅÅÇÊ³á[m
+[18:28:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»ÊÇ[m
+[18:28:29] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[18:29:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÑù×ÓÓÃ»§ÌåÑéºÃ¶àÁË[m
+[18:29:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 233333[m
+[18:29:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã×øÊÕ¼¯[m
+[18:29:39] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[18:29:39] [Server thread/INFO]: Twilight2033 left the game
+[18:29:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ×¼±¸¶Ñ·½¿é[m
+[18:29:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã»á×ö2±¶ËÙµÄÊÕ¼¯Âğ[m
+[18:30:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ×öÒ»¸öÄã¿´¿´[m
+[18:32:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[18:33:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã¾Í×ö2±¶ËÙ°Ñ[m
+[18:33:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓÃÄ¥ÖÆĞşÎäÑÒ[m
+[18:33:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃ¿´[m
+[18:34:08] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÕ¦¸Ğ¾õÕâÍæÒâ¶ùÎÒÖ®Ç°×ö¹ı[m
+[18:34:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÜÏë[m
+[18:34:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·Ç³£Ïñ[m
+[18:34:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÆäÊµ¾ÍÊÇ°Ñ[m
+[18:34:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×îÉÏÃæÕâ¸öÂ©¶·¸ÄÁËyixia[m
+[18:34:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÔÚÂ©¶·ËÙÂÊ»¹Ã»²»¸ßµÄÊ±ºòÎÒ×ö¸ö[m
+[18:34:42] [User Authenticator #486/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[18:34:42] [Server thread/INFO]: Twilight2033[/127.0.0.1:55747] logged in with entity id 3175954 at ([world]1367.4341007587936, 132.0, -1332.2916683938438)
+[18:35:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ë¾Âí»»ÒÂ[m
+[18:35:15] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ½¨ÒéË¯¾õ[m
+[18:35:27] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[18:35:27] [Server thread/INFO]: Twilight2033 left the game
+[18:35:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãË¯[m
+[18:36:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ì[m
+[18:36:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ë«ÈË´²[m
+[18:36:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> tapeÕæ°ô[m
+[18:40:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃ¿´ÚÀ[m
+[18:44:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ok[m
+[18:44:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ĞşÎäÑÒºÃºÃ°ÚÍ¦ºÃ¿´µÄ[m
+[18:44:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> what[m
+[18:44:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 2333[m
+[18:45:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã×öµÄÊÇ¶ş±¶ËÙÂğ[m
+[18:45:23] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡Õâ[m
+[18:45:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Â©¶·Íü¸ÄÁË[m
+[18:45:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã¸Ï½ô»»ÁË°É[m
+[18:45:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 2333[m
+[18:46:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ½¨ÒéÀ´¸öµ÷ÊÔ°ô£¨[m
+[18:48:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×¼±¸µã²£Á§[m
+[18:48:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 1ºĞ[m
+[18:48:20] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãÀ´Èû·ÖÀà£¨[m
+[18:48:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> àÅ[m
+[18:48:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÈ³Ô¸ö·¹[m
+[18:48:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[18:49:09] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÂíÉÏÉÏ¿ÎÁË[m
+[18:53:11] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë»[m
+[18:53:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¸ÕºÃÒ»ºĞ[m
+[18:53:52] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºĞ×Ó·ÅÄãÍ·ÉÏÁË[m
+[18:53:55] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÈ¥ÉÏ¿ÎÁË[m
+[18:54:16] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[18:54:16] [Server thread/INFO]: sen_lv_ling_ left the game
+[19:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[19:16:56] [User Authenticator #487/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[19:16:57] [Server thread/INFO]: Magical7[/127.0.0.1:56027] logged in with entity id 3177851 at ([world]1520.6504818179787, 160.0, -1526.506835656553)
+[19:33:03] [Server thread/INFO]: Magical7 issued server command: /co i
+[19:33:17] [Server thread/INFO]: Magical7 issued server command: /co i
+[19:51:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> hello[m
+[19:51:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> l°®ÁË[m
+[19:51:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> m7?[m
+[19:51:55] [Server thread/INFO]: Magical7 >> àÅºß[m
+[19:52:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹ıÀ´×ö×°ÊÎ[m
+[19:52:08] [Server thread/INFO]: Magical7 >> Ã»¿Õ[m
+[19:52:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> az[m
+[19:52:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÔÚ¸ÉÉ¶ÄØ[m
+[19:52:27] [Server thread/INFO]: Magical7 >> ×¼±¸Ë¢Ìû»úµÄ×°ÊÎ[m
+[19:56:45] [Server thread/WARN]: anew_tape moved wrongly!
+[19:59:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÖªµÀÏ®»÷Ëş¿ÉÒÔÓÃÁËÃ»[m
+[20:00:01] [Server thread/INFO]: Magical7 >> ÖªµÀ°¡ Äã²»ÊÇÑİÊ¾ÁËÂğ[m
+[20:00:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÒªË¢Âğ[m
+[20:00:32] [Server thread/INFO]: Magical7 >> ²» ÏÖÔÚ»¹Ã»ÓĞÒªÓÃµ½µÄµØ·½[m
+[20:00:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[20:04:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓĞ°×É«²£Á§Âğ...[m
+[20:05:10] [Server thread/INFO]: Magical7 >> àÅ[m
+[20:05:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÜÀ´Ò»ºĞÂğ...[m
+[20:05:33] [User Authenticator #488/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[20:05:33] [Server thread/INFO]: Twilight2033[/127.0.0.1:56358] logged in with entity id 3191567 at ([world]1366.1250197342883, 135.0, -1330.214461716154)
+[20:05:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÆÌ¸ö¶¥[m
+[20:05:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓÅ»¯Ò»ÏÂÏ®»÷Ëş[m
+[20:06:51] [Server thread/INFO]: Magical7 >> ÎÒÔÚÃ¦[m
+[20:07:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇÎÒ×Ô¼ºÀ´[m
+[20:09:13] [User Authenticator #489/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[20:09:13] [Server thread/INFO]: Security_Winter[/127.0.0.1:56383] logged in with entity id 3193631 at ([world]1527.3262240455167, 66.0, -1516.1875600077683)
+[20:09:34] [Server thread/INFO]: Security_Winter >> az[m
+[20:09:40] [Server thread/INFO]: Security_Winter >> Ï®»÷ËşºÃÁËÂğ[m
+[20:09:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃÁË[m
+[20:09:52] [Server thread/INFO]: Security_Winter >> ÍÛÎØ[m
+[20:10:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µÈÒ»ÏÂÎÒ×ö¸öÊÕ¼¯[m
+[20:10:24] [Server thread/INFO]: Security_Winter issued server command: /qd
+[20:10:24] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mSecurity_Winter [0;33;22mÄ¿Ç°ÓĞ [0;32;1m51 [0;33;22m¹±Ï×µãÊı[m
+[20:10:28] [Server thread/INFO]: Security_Winter >> az[m
+[20:10:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÒª²»°ïÎÒ×¼±¸µã²£Á§?[m
+[20:10:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ò»ºĞ°×É«µÄ[m
+[20:11:07] [Server thread/INFO]: Security_Winter >> az[m
+[20:11:09] [Server thread/INFO]: Twilight2033 >> ÔÚ²ğ¾ÉÂÓ¶áËş[m
+[20:11:14] [Server thread/INFO]: Security_Winter >> ÎÒÈËÉúµØ²»ÊìµÄ[m
+[20:11:18] [Server thread/INFO]: Twilight2033 >> ÄÜ»ØÊÕºÜ¶à[m
+[20:11:25] [Server thread/INFO]: Twilight2033 >> Ò»»áËÍÄã£¿[m
+[20:11:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> bayµÄÄã²ğ?[m
+[20:11:25] [Server thread/INFO]: Security_Winter >> ÉÏÄÄÕû²£Á§ºÍÑÕÁÏÈ¥[m
+[20:11:34] [Server thread/INFO]: Twilight2033 >> ²»ÊÇËµÄÜ²ğÂğ[m
+[20:11:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇÃ»±ØÒª°Ñ[m
+[20:11:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÆäÊµ´ÕºÏÄÇ¸öÒ²¿ÉÒÔÓÃ°¡[m
+[20:12:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²ğÁË»¹Âé·³[m
+[20:12:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»°­ÊÂÁô×Å°É[m
+[20:12:50] [Server thread/INFO]: Twilight2033 >> ÎÒÖ»²ğÁËÊÕ¼¯×°ÖÃ[m
+[20:12:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> nice[m
+[20:13:08] [Server thread/INFO]: Twilight2033 >> ÒòÎªÈ±ÉÙÒ»Ğ©ºìÊ¯Æ÷Ğµ[m
+[20:13:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È·Êµ¸Ã²ğ[m
+[20:13:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓÃ²»ÆğÄÇÑùµÄ[m
+[20:13:31] [Server thread/INFO]: Twilight2033 >> ÎÒ´ó²¿·ÖºìÊ¯¶¼¶ªÄãĞÂÂÓ¶áËşÁË[m
+[20:13:52] [Server thread/INFO]: Twilight2033 >> ·´ÕıÇ±Ó°ºĞÊ²Ã´µÄÎÒÃ»¶¯[m
+[20:13:58] [Server thread/INFO]: Twilight2033 >> ÎÒÖ»»ØÊÕºÃÉÙÄê[m
+[20:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[20:14:05] [Server thread/INFO]: Twilight2033 >> Ö»»ØÊÕºìÊ¯[m
+[20:14:06] [Server thread/INFO]: Security_Winter >> md[m
+[20:14:10] [Server thread/INFO]: Twilight2033 issued server command: /qd
+[20:14:10] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mTwilight2033 [0;33;22mÄ¿Ç°ÓĞ [0;32;1m66 [0;33;22m¹±Ï×µãÊı[m
+[20:14:17] [Server thread/INFO]: Security_Winter >> Ãü¸öÃû¶¼Òª39¼¶¾­Ñé[m
+[20:14:21] [Server thread/INFO]: Security_Winter >> ³ÔÈË°¡[m
+[20:14:28] [Server thread/INFO]: Twilight2033 >> Äã[m
+[20:14:41] [Server thread/INFO]: Security_Winter >> ?[m
+[20:14:47] [Server thread/INFO]: Twilight2033 >> ²»ÔÚ¸½Ä§Ö®Ç°»òÕß¸½Ä§Ê±ÃüÃû[m
+[20:14:56] [Server thread/INFO]: Twilight2033 >> ¶øÑ¡Ôñ¸½Ä§ÍêºóÔÙÃüÃû[m
+[20:15:01] [Server thread/INFO]: Security_Winter >> ÃüÃû¹ı£¬Ö»ÊÇÏÖÔÚÏë¸ÄÃû[m
+[20:15:08] [Server thread/INFO]: Twilight2033 >> Å¶[m
+[20:15:12] [Server thread/INFO]: Security_Winter >> az[m
+[20:15:21] [Server thread/INFO]: Twilight2033 >> ÄÇ¾ÍÏ´ÁË£¨[m
+[20:16:07] [Server thread/INFO]: Security_Winter >> ±°Î¢µÄÎÒÃ¿ÌìÉÏÏßÇ©µ½ÔÜ»ı·Ö[m
+[20:16:18] [Server thread/INFO]: anew_tape issued server command: /qd
+[20:17:05] [Server thread/INFO]: Security_Winter >> ÕâÓ¡³®»úĞ§ÂÊÕæ¸ß[m
+[20:17:22] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[20:17:22] [Server thread/INFO]: Security_Winter left the game
+[20:21:57] [Server thread/INFO]: Twilight2033 >> °×ÀĞÕâ¸öÕæµÄÒÕÊõ·ÖÀà[m
+[20:22:07] [Server thread/INFO]: Twilight2033 >> ¼ÇÏÂÕ¦×öÁË[m
+[20:28:15] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[20:28:18] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[20:31:45] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[20:31:45] [Server thread/INFO]: Magical7 left the game
+[20:32:11] [User Authenticator #490/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[20:32:11] [Server thread/INFO]: Security_Winter[/127.0.0.1:56541] logged in with entity id 3200147 at ([world]1514.1275319798222, 160.5625, -1519.300000011921)
+[20:32:37] [User Authenticator #491/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[20:32:37] [Server thread/INFO]: Magical7[/127.0.0.1:56545] logged in with entity id 3200257 at ([world]1505.2968967923043, 64.0, 866.824015501651)
+[20:32:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓĞ»ğÒ©Âğ[m
+[20:33:03] [Server thread/INFO]: Twilight2033 >> ÓĞ[m
+[20:33:14] [Server thread/INFO]: Twilight2033 >> »ØÊÕÁËÒ»×é[m
+[20:33:18] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[20:33:18] [Server thread/INFO]: Security_Winter left the game
+[20:36:35] [Server thread/INFO]: Magical7 issued server command: /co i
+[20:36:38] [Server thread/INFO]: Magical7 issued server command: /co i
+[20:37:13] [Server thread/INFO]: Twilight2033 >> anew_tape[m
+[20:37:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> a[m
+[20:37:19] [Server thread/INFO]: Twilight2033 >> ÄãÒª»ğÒ©ºÍ²£Á§Âğ[m
+[20:37:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[20:37:28] [Server thread/INFO]: Twilight2033 >> ÎÒÏÖÔÚ²»·½±ã¹ıÀ´[m
+[20:37:33] [Server thread/INFO]: Twilight2033 >> ÄãÀ´¾ÉËş°É[m
+[20:37:35] [Server thread/INFO]: Twilight2033 >> ÎÒ¸øÄã[m
+[20:38:06] [Server thread/INFO]: Twilight2033 >> ÕâÀï[m
+[20:38:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[20:40:06] [Server thread/INFO]: Magical7 issued server command: /script load ai_tracker
+[20:41:53] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[20:41:53] [Server thread/INFO]: Twilight2033 left the game
+[20:44:20] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[20:44:20] [Server thread/INFO]: Magical7 left the game
+[20:45:47] [User Authenticator #492/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[20:45:47] [Server thread/INFO]: Security_Winter[/127.0.0.1:56654] logged in with entity id 3204309 at ([world]1513.300000011921, 160.5625, -1520.2042372344663)
+[20:45:49] [User Authenticator #493/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[20:45:49] [Server thread/INFO]: Magical7[/127.0.0.1:56658] logged in with entity id 3204311 at ([world]3214.1179674720734, 64.0, 1532.3337907590924)
+[20:45:57] [User Authenticator #494/INFO]: UUID of player Fukoooo is f957285b-78cb-4045-9b47-5af0d4e3679b
+[20:45:57] [Server thread/INFO]: Fukoooo[/127.0.0.1:56659] logged in with entity id 3204493 at ([world_nether]185.78787191360362, 135.0, -180.96857249459273)
+[20:46:15] [Server thread/INFO]: Security_Winter >> tapeÔÚÂğ[m
+[20:46:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÔõÃ´¸Ğ¾õÄãÃÇ´®Í¨ºÃÉÏÏßÄØ[m
+[20:46:26] [Server thread/INFO]: Fukoooo >> ¹ş£¿[m
+[20:46:31] [Server thread/INFO]: Security_Winter >> ÇÉºÏ[m
+[20:46:56] [Server thread/INFO]: Security_Winter >> tape ¼ÓÄãqqºÃÓÑÁË ÎÊÄãÒª¸ö¶«Î÷ ÄãÍ¬ÒâÏÂ[m
+[20:46:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Íê³É¶È¸ã[m
+[20:47:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õ¦ÁË[m
+[20:48:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> w[m
+[20:48:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ë¯¾õ[m
+[20:48:30] [Server thread/INFO]: Security_Winter >> az[m
+[20:48:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Security_Winter[m
+[20:48:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ![m
+[20:48:46] [Server thread/INFO]: Security_Winter >> Ğ»ÁË[m
+[20:49:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓĞÃ»ÓĞµÆÁı»òÕßº£¾§µÆ»òÕß¾ú¹âÌå[m
+[20:49:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×öÒ»ÏÂÕÕÃ÷[m
+[20:49:28] [Server thread/INFO]: Security_Winter >> Ã²ËÆÓÃÍêÁË[m
+[20:49:35] [Server thread/INFO]: Security_Winter >> ÎÒÕÒÕÒ[m
+[20:49:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÚÊ¯Ç½ÉÏ·ÅµÆÁıºÃ¿´[m
+[20:50:11] [Server thread/INFO]: Security_Winter >> ÄÇÎÒ¸øÄãºÏ³ÉµÆÁı[m
+[20:50:16] [Server thread/INFO]: Security_Winter >> Òª¶àÉÙ[m
+[20:50:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 8zu[m
+[20:50:35] [Server thread/INFO]: Security_Winter >> ok ºÏÍê·ÅÄÄ[m
+[20:50:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹ıÀ´¸úÎÒÆÌµØ°å[m
+[20:51:24] [Server thread/INFO]: Security_Winter >> ?[m
+[20:51:58] [Server thread/WARN]: Security_Winter moved too quickly! 0.255410325424009,13.676053823317375,-0.07212032803136026
+[20:53:02] [Server thread/INFO]: Security_Winter was slain by Vex
+[20:53:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[20:53:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÃ»½ĞÄãÉÏÈ¥ÄãÉÏÈ¥×öÉ¶[m
+[20:53:27] [Server thread/INFO]: Security_Winter >> ×ß´íÁË°¡[m
+[20:53:33] [Server thread/WARN]: Security_Winter moved too quickly! -15.84902630454232,0.5292232112077642,0.13231710915594874
+[20:53:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÒ²ÄÜ×ßÅ¶´í[m
+[20:53:44] [User Authenticator #495/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[20:53:44] [Server thread/INFO]: Twilight2033[/127.0.0.1:56713] logged in with entity id 3208783 at ([world]1372.663862615661, 130.0, -1343.9474071189843)
+[20:53:46] [Server thread/INFO]: Security_Winter >> °ïÎÒÊÕÏÂÊ¬[m
+[20:53:46] [Server thread/WARN]: Security_Winter moved too quickly! -10.016954798612261,-0.7967356006687112,-0.167738087209937
+[20:53:52] [Server thread/WARN]: Security_Winter moved too quickly! -0.6522508857317462,0.24813599859093927,-17.057554230094865
+[20:53:58] [Server thread/WARN]: Security_Winter moved too quickly! 0.32615552410061355,1.0244240882136921,-20.548829571344278
+[20:54:07] [Server thread/INFO]: Security_Winter >> Ã»°ì·¨ ÎÒÌ«ÈõÖÇÁË[m
+[20:54:12] [Server thread/INFO]: Twilight2033 >> ×ø±ê[m
+[20:54:14] [Server thread/WARN]: Security_Winter moved too quickly! -0.3152715630890839,0.8291870918577047,-18.663228568742127
+[20:54:22] [Server thread/INFO]: Twilight2033 >> qs[m
+[20:54:27] [Server thread/INFO]: Security_Winter >> ...[m
+[20:54:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÂ´Î¿´Â·[m
+[20:54:41] [Server thread/INFO]: Security_Winter >> o[m
+[20:54:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> [name:Ê¬Ìå, x:1533, y:166, z:-1538, dim:minecraft:overworld][m
+[20:56:18] [Server thread/INFO]: Security_Winter >> ÎÒÈ¥ºÏµÆÁıÁË[m
+[20:56:21] [Server thread/INFO]: Fukoooo >> ..[m
+[20:56:22] [Server thread/WARN]: Security_Winter moved too quickly! 8.24563137958512,-2.495504135427751,10.428184631373824
+[20:56:26] [Server thread/INFO]: Fukoooo >> Ä©Ó°Âú¶¼³öÀ´ÁË[m
+[20:56:28] [Server thread/WARN]: Security_Winter moved too quickly! 3.208941178882469,0.0,-9.51320472759653
+[20:56:32] [Server thread/INFO]: Fukoooo >> ÎÒËæ±ãÒ»¶ª[m
+[20:56:34] [Server thread/WARN]: Security_Winter moved too quickly! -9.964728119326992,0.0,2.3725010447365094
+[20:56:41] [Server thread/WARN]: Security_Winter moved too quickly! 0.02908901999057889,0.0,-10.086554182406417
+[20:57:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> »¹ÊÇ·ÅµÆÁıºÃÁË[m
+[20:57:12] [Server thread/INFO]: Twilight2033 lost connection: Timed out
+[20:57:12] [Server thread/INFO]: Twilight2033 left the game
+[20:57:13] [User Authenticator #496/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[20:57:13] [Server thread/INFO]: Twilight2033[/127.0.0.1:56740] logged in with entity id 3210031 at ([world]1369.8088057964615, 130.0, -1327.291676600674)
+[20:57:23] [Server thread/INFO]: Security_Winter >> ÕıÔÚºÏ³ÉÖĞ¡­¡­[m
+[20:58:01] [Server thread/INFO]: Security_Winter >> ¿¨µÄÒªËÀ[m
+[20:58:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È·ÊµÓĞµã[m
+[20:58:18] [Server thread/INFO]: Twilight2033 >> ÄãÍøÕæµÄ·Ï[m
+[20:58:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[20:58:30] [Server thread/INFO]: Security_Winter >> az[m
+[20:58:43] [Server thread/INFO]: Twilight2033 >> ËùÒÔ²»ÖªµÀÊÇÄãµçÄÔ¿¨»¹ÊÇÍø¿¨[m
+[20:58:54] [Server thread/INFO]: Security_Winter >> µçÄÔĞÂÂòµÄ[m
+[20:59:02] [Server thread/INFO]: Twilight2033 >> ÄãÍøÕæ·Ï[m
+[20:59:30] [Server thread/INFO]: Security_Winter >> µÃÁË ÎÒ»¹µÃÕÒÃºÌ¿È¥[m
+[20:59:38] [Server thread/INFO]: Security_Winter >> Ä¾Í·Ò²Ã»ÓĞ[m
+[20:59:42] [Server thread/INFO]: Twilight2033 >> µòÁãËş[m
+[21:04:43] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.4800000000000182
+[21:04:43] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.4800000000000182
+[21:04:43] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.5
+[21:04:43] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.3849999999999909
+[21:04:43] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.5
+[21:04:43] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.4800000000000182
+[21:04:44] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.5
+[21:04:44] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.3849999999999909
+[21:04:44] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.3849999999999909
+[21:04:44] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.4800000000000182
+[21:04:44] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.5
+[21:04:45] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.4800000000000182
+[21:04:45] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.5
+[21:04:45] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.4800000000000182
+[21:04:45] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.5
+[21:04:45] [Server thread/WARN]: Boat (vehicle of Fukoooo) moved wrongly! 0.4800000000000182
+[21:04:53] [Server thread/INFO]: Security_Winter >> ²»ÖªµÀÎªÊ²Ã´ Ò»ÓÃfabircµÄ°æ±¾¾Í¿¨³É¹·[m
+[21:05:07] [Server thread/INFO]: Twilight2033 >> ÄãÊÇ²»ÊÇÓÃµÄgkµÄÕûºÏ°ü[m
+[21:05:12] [Server thread/INFO]: Security_Winter >> ²»ÊÇ°¡[m
+[21:05:32] [Server thread/INFO]: Fukoooo >> ³Ô·¹à¶¡®[m
+[21:06:02] [Server thread/INFO]: Fukoooo lost connection: Disconnected
+[21:06:02] [Server thread/INFO]: Fukoooo left the game
+[21:06:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µÆÁı[m
+[21:06:15] [Server thread/INFO]: Security_Winter >> ÄÄÀïÓĞÌú¡£¡£¡£[m
+[21:06:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[21:06:28] [Server thread/INFO]: Security_Winter >> ÏÖÔÚ¾ÍºÏÁËÈı×é[m
+[21:06:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÈ¸øÎÒ°É[m
+[21:06:43] [Server thread/WARN]: Twilight2033 moved too quickly! 1.8861567870831095,0.0,-14.888745431208008
+[21:07:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÀïÓĞ[m
+[21:07:14] [Server thread/INFO]: Security_Winter >> o[m
+[21:08:11] [Server thread/INFO]: Twilight2033 >> »°ËµtapeÄã¸úÎÒ½²½²´ó¸ÅÔ­ÀíßÂ[m
+[21:08:18] [Server thread/INFO]: Twilight2033 >> ÎÒÓĞµãºÃÆæÕâ¸ö¼¼ÊõÁË[m
+[21:08:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÊÇ¸öÈË¶¼¶®[m
+[21:08:49] [Server thread/INFO]: Twilight2033 >> ÍêÈ«Ã»Åö¹ı[m
+[21:09:04] [Server thread/INFO]: Twilight2033 >> ÎªÉ¶ÒªÈÃ´åÃñ·´¸´ÇĞ»»Ö°Òµ[m
+[21:09:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·´¸´È¥ÊÀ[m
+[21:12:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[21:12:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> °×É«È¾ÁÏÀ´µã[m
+[21:12:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 8zu[m
+[21:13:32] [Server thread/INFO]: Security_Winter >> µÆÁıºÃÁË[m
+[21:13:38] [Server thread/WARN]: Security_Winter moved too quickly! 0.2612297490597939,1.9424277526289018,-11.038520279584873
+[21:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[21:14:38] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[21:15:06] [Server thread/INFO]: Twilight2033 issued server command: /CO I
+[21:15:10] [Server thread/INFO]: Security_Winter >> ÉÏÄÄÕÒ¹Ç·ÛºÏ°×É«È¾ÁÏ°¡¡­¡­[m
+[21:15:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[21:15:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µòÁé÷¼÷ÃËş[m
+[21:15:49] [Server thread/INFO]: Security_Winter >> o[m
+[21:16:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã²»ÖªµÀÏ®»÷ËşÔ­ÀíÂğ[m
+[21:16:53] [Server thread/INFO]: Security_Winter >> ÎÒÏÈ»»¸ömod ¿¨ËÀ[m
+[21:17:00] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[21:17:00] [Server thread/INFO]: Security_Winter left the game
+[21:17:16] [Server thread/INFO]: Twilight2033 >> ËûÃ»ÒâÊ¶µ½ÕâÖ»ÊÇÍø¿¨[m
+[21:17:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃ[m
+[21:17:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÈ¥ÆÌÎİ¶¥[m
+[21:18:01] [Server thread/INFO]: Twilight2033 >> ÎÒÒªÈ¥ÉÏ¿ÎÁË[m
+[21:18:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ..[m
+[21:18:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ĞĞ[m
+[21:18:21] [Server thread/INFO]: Twilight2033 >> ¼ÓÓÍ[m
+[21:18:24] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[21:18:24] [Server thread/INFO]: Twilight2033 left the game
+[21:19:03] [User Authenticator #497/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[21:19:03] [Server thread/INFO]: Security_Winter[/127.0.0.1:56889] logged in with entity id 3219743 at ([world_nether]192.53341268529334, 128.0, -192.94669357334416)
+[21:20:25] [Server thread/INFO]: Security_Winter >> tape ¿´qq[m
+[21:22:43] [Server thread/INFO]: Security_Winter >> ok ÎÒÈ¥Õû¹Ç·Û[m
+[21:23:14] [Server thread/WARN]: Security_Winter moved too quickly! -9.188465950740323,0.0,5.421687352607961
+[21:23:50] [Server thread/WARN]: Security_Winter moved too quickly! -57.67655747444328,0.0,-0.12907360763870557
+[21:23:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ½ñÍíÍøÓĞµã²»ºÃ'[m
+[21:23:56] [Server thread/WARN]: Security_Winter moved too quickly! -3.430700978803344,0.0,9.60111480466442
+[21:24:02] [Server thread/WARN]: Security_Winter moved too quickly! 0.07672458793518899,0.16422215378291583,47.03797064021006
+[21:24:04] [Server thread/INFO]: Security_Winter >> ÊÇµÄ[m
+[21:24:14] [Server thread/WARN]: Security_Winter moved too quickly! 0.07756533808442434,-0.7540675140087529,21.113545941906068
+[21:24:20] [Server thread/WARN]: Security_Winter moved too quickly! 0.7245948573927201,0.0,55.32985394528407
+[21:24:26] [Server thread/WARN]: Security_Winter moved too quickly! 0.674025767042739,0.0,48.82152639174757
+[21:24:32] [Server thread/WARN]: Security_Winter moved too quickly! 0.05844875646183212,0.0,56.96250078973844
+[21:24:44] [Server thread/WARN]: Security_Winter moved too quickly! 0.3809828942970306,0.0,61.369058705432735
+[21:24:51] [Server thread/WARN]: Security_Winter moved too quickly! 1.9974120831366058,-0.014166590184515826,47.540859121386006
+[21:26:45] [Server thread/INFO]: Security_Winter >> ok °Ë×é°×É«È¾ÁÏºÃÁË[m
+[21:27:30] [Server thread/INFO]: Security_Winter >> ¸øÄã´ø»ØÈ¥ÁË¹ş[m
+[21:27:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[21:29:13] [Server thread/INFO]: Security_Winter >> ÌıËµÏ®»÷ËşÄÜ³Ôµ½¾­ÑéÊÇÕæµÄÂğqwq[m
+[21:29:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[21:29:23] [Server thread/WARN]: Security_Winter moved too quickly! -1.7651883469436598,1.5,-12.360878062503161
+[21:29:35] [Server thread/WARN]: Security_Winter moved too quickly! -1.4675298015667977,0.0,10.12337844629019
+[21:29:41] [Server thread/INFO]: Security_Winter >> È¾ÁÏÀ´¸øÄã[m
+[21:29:53] [Server thread/WARN]: Security_Winter moved too quickly! -1.9438176802416365,-1.1492000197410448,10.091536582308663
+[21:30:12] [Server thread/WARN]: Security_Winter moved too quickly! -12.596307723990321,-0.4641593749554431,-0.5258150041083809
+[21:30:58] [Server thread/INFO]: Security_Winter >> ËùÒÔÔÚÄÄ¿ÉÒÔ³Ôµ½¾­Ñé[m
+[21:31:08] [Server thread/INFO]: Security_Winter >> awa[m
+[21:31:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÈËÄØ[m
+[21:31:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÈ¥ÆÌÒ»ÏÂµØ°å[m
+[21:32:02] [Server thread/INFO]: Security_Winter >> ĞşÎäÑÒÆÌÂğ[m
+[21:32:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÀï[m
+[21:32:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õâ±ß[m
+[21:32:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÉÏÃæ[m
+[21:32:45] [Server thread/INFO]: Security_Winter >> ºÏ³É°×É«²£Á§¶Ô°É[m
+[21:33:02] [Server thread/WARN]: Security_Winter moved too quickly! -4.514492997353045,1.5,-10.646829987905448
+[21:33:27] [User Authenticator #498/INFO]: UUID of player pinkmilk is 591b69f1-5eb9-490b-900c-04516907dc49
+[21:33:27] [Server thread/INFO]: pinkmilk[/127.0.0.1:57219] logged in with entity id 3231051 at ([world_nether]184.35738906993342, 114.55000001192093, 21.456788585294976)
+[21:33:36] [Server thread/INFO]: Security_Winter >> az[m
+[21:33:45] [Server thread/INFO]: Security_Winter >> ºÃÏñ²»ÈÏÊ¶°¥[m
+[21:34:01] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[21:34:06] [Server thread/INFO]: pinkmilk lost connection: Disconnected
+[21:34:06] [Server thread/INFO]: pinkmilk left the game
+[21:38:13] [User Authenticator #499/INFO]: UUID of player Fukoooo is f957285b-78cb-4045-9b47-5af0d4e3679b
+[21:38:13] [Server thread/INFO]: Fukoooo[/127.0.0.1:57254] logged in with entity id 3241492 at ([world]1525.6603106558048, 159.5, -1522.9001156697504)
+[21:38:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¸øµã³ÔµÄ[m
+[21:38:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Fukoooo[m
+[21:39:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ğ»[m
+[21:39:26] [Server thread/INFO]: Fukoooo >> Ã»ÊÂ[m
+[21:39:32] [Server thread/INFO]: Security_Winter >> »°ËµÄã·ÇµÃ½¨ÄÇÃ´¸ß¸ÉÂï[m
+[21:39:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Security_Winter[m
+[21:39:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÈÊ¶÷[m
+[21:39:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÈËÄØ[m
+[21:40:17] [Server thread/INFO]: Security_Winter >> È¥ºĞ×Ó[m
+[21:40:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÉÏÀ´°Ñ²£Á§ÆÌÍê¾Í¸úÄãÃÇ½²ÔõÃ´¿ª»ú[m
+[21:41:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²£Á§[m
+[21:41:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[21:41:57] [Server thread/INFO]: Security_Winter >> ÔõÃ´¿ª»ú[m
+[21:41:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÍêÊÂ[m
+[21:42:04] [Server thread/INFO]: Security_Winter >> a[m
+[21:42:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏĞÏÂÀ´[m
+[21:42:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÂıÂı½²[m
+[21:42:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹ıÀ´×öºÃ[m
+[21:42:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ê×ÏÈÄØ[m
+[21:43:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Íæ¼Ò¹Ò»úµÄÊ±ºò,×îºÃ[m
+[21:43:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ´©ÂúÅäºÏ½ğÌ×[m
+[21:43:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏñÎÒ[m
+[21:43:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÄØ[m
+[21:43:32] [User Authenticator #500/INFO]: UUID of player Laffey_Jiang is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[21:43:32] [Server thread/INFO]: Laffey_Jiang[/127.0.0.1:57292] logged in with entity id 3252601 at ([world_the_end]21.489887385978868, 144.49390748022952, -36423.00612335496)
+[21:43:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È¥ÄÇ±ß,ÄÃÒ»°Ñ½£[m
+[21:43:52] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ËÄÂ¥ÊÇĞÂÈËÂğ£¨[m
+[21:44:03] [Server thread/INFO]: Security_Winter >> ...[m
+[21:44:16] [Server thread/INFO]: Security_Winter >> ·´ÕıÎÒÖªµÀÄãÃ»ÓĞËµÎÒ[m
+[21:44:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÁ½°Ñ¾Í¿ÉÒÔ[m
+[21:44:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿´ÀÏÊ¦[m
+[21:44:23] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ËµµÄ¾ÍÊÇÄã[m
+[21:44:30] [Server thread/INFO]: Laffey_Jiang issued server command: /tp anew_tape
+[21:44:30] [Server thread/INFO]: [Laffey_Jiang: Teleported Laffey_Jiang to anew_tape]
+[21:44:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[21:44:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> À­·ÆÒªÌı¿ÎÂğ[m
+[21:44:43] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ê²Ã´[m
+[21:44:45] [Server thread/INFO]: Security_Winter >> ...[m
+[21:44:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕÒ¸öµØ·½×øºÃ[m
+[21:44:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿´×ÅÎÒ,ÎÒ½²¸øÄãÃÇÌı[m
+[21:45:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃ,ÏÂÒ»²½[m
+[21:45:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã±ğÄÖ[m
+[21:45:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> tm[m
+[21:45:21] [Server thread/INFO]: Security_Winter >> ?[m
+[21:45:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºó,Íæ¼ÒĞèÒª½øÈëË®µÀ[m
+[21:46:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Õ¾µ½·àÍ°ÀïÃæ[m
+[21:46:18] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> az[m
+[21:46:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¾ÍÕâÑù[m
+[21:46:53] [Server thread/INFO]: Security_Winter >> az[m
+[21:47:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÕâÀïÓĞ¸öÕ¤À¸ÃÅ[m
+[21:47:31] [Server thread/INFO]: Security_Winter >> ÊµÑé¶ÔÏó[m
+[21:47:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹Ò»úµÄÊ±ºòĞèÒª°ÑÕ¤À¸ÃÅ¹ØÆğÀ´[m
+[21:47:58] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÎªÊ²Ã´ÓĞÁ½¸ö£¨[m
+[21:48:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÑù×Ó,ÏŞÖÆÍæ¼ÒÒÆ¶¯[m
+[21:48:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»¹ıÉÏÃæÄÇ¸ö·àÍ°ÓĞµãÄÑ½ø[m
+[21:48:32] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode spectator
+[21:48:32] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Spectator Mode]
+[21:48:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ĞèÒª³¢ÊÔ¶à´Î[m
+[21:48:37] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode creative
+[21:48:37] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Creative Mode]
+[21:48:44] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Õâ²»¾Í½øÀ´ÁË£¨[m
+[21:48:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[21:48:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃ,ÎÒÃÇ¼ÌĞø[m
+[21:49:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇÃ´Íæ¼ÒĞèÒªÕ¾ÔÚ·àÍ°ÀïÃæ[m
+[21:49:33] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ./tp[m
+[21:49:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÊÖÀïÄÃ×Å½£,¶Ô×Å¿ø¼×¼ÜÒÔ0.7sµÄ¼ä¸ô¿³¿ø¼×¼Ü[m
+[21:50:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»ÄÜÓÃ´øÓĞ»÷ÍËºÍ»ğÑæ¸½¼ÓµÄ½£[m
+[21:50:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓÃ»ğÑæ¸½¼Ó¿ø¼×¼Ü»áÉÕµô[m
+[21:50:24] [Server thread/INFO]: Security_Winter >> ÄÇ0.7¼ä¸ôÔõÃ´×öµ½[m
+[21:50:24] [Server thread/INFO]: Laffey_Jiang issued server command: /tp Fukoooo Laffey_Jiang
+[21:50:24] [Server thread/INFO]: [Laffey_Jiang: Teleported Fukoooo to Laffey_Jiang]
+[21:50:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓÃ»÷ÍËµÄ»°¿ÉÄÜ»áÓĞ°²È«Òş»¼[m
+[21:50:37] [Server thread/INFO]: Laffey_Jiang issued server command: /tp Security_Winter Laffey_Jiang
+[21:50:37] [Server thread/INFO]: [Laffey_Jiang: Teleported Security_Winter to Laffey_Jiang]
+[21:50:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 0.7s¿ÉÒÔÓÃÊó±êÁ¬µãÆ÷[m
+[21:50:42] [Server thread/INFO]: Fukoooo >> ÓĞºÚÄ»[m
+[21:50:45] [Server thread/INFO]: Security_Winter >> o[m
+[21:50:54] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ãû³¡Ãæ£¨[m
+[21:51:06] [Server thread/INFO]: Security_Winter >> À­·Æ¸øÔÛÃÇÈ«Õû½øÈ¥ÁË[m
+[21:51:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÀïÀûÓÃºáÉ¨Ö®ÈĞµÄĞ§¹ûÈ¥»÷É±¹ÖÎï[m
+[21:51:17] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ë­½Ø¸öÍ¼·¢ÈºÀï£¨[m
+[21:51:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹ÖÎï»áµôµ½¿ø¼×¼ÜÁ½±ßµÄµ½Àï[m
+[21:51:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹ÖÎï»áµôµ½¿ø¼×¼ÜÁ½±ßµÄµÀÀï[m
+[21:51:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÃÇÔÚ½ø·àÍ°µÄÊ±ºò»áÓĞµãÀ§ÄÑ[m
+[21:51:58] [Server thread/INFO]: Security_Winter >> ÎÒ·¢ÁË[m
+[21:52:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×¢ÒâÒ»µã,²»Òª±»ÆøÅİÖù¶¥³öË®Ãæ[m
+[21:52:27] [Server thread/INFO]: Fukoooo >> ·ñÔò¼«ÆäÎ£ÏÕ[m
+[21:52:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¸Õ²ÅwinterÒÑ¾­ÊÔ¹ıÁË[m
+[21:52:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹·´ø[m
+[21:52:40] [Server thread/INFO]: Security_Winter >> ÊÇµÄ[m
+[21:52:52] [Server thread/INFO]: Security_Winter >> ÄÖ¹í¿ìÀÖÈËÉú[m
+[21:52:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÏÂÀ´µÄ»°ĞèÒª¶Ô×¼ÏÂÀ´[m
+[21:53:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×¢ÒâÄÇĞ©»½Ä§Õß²»ÄÜ´ò[m
+[21:53:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·ñÔògg[m
+[21:53:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÊÇÉè¼ÆÈÃ»½Ä§Õß¿´µ½Íæ¼Ò,È»ºóÒ»Ö±ÕÙ»½ÄÕ¹í[m
+[21:53:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ç§Íò²»ÄÜ´ò[m
+[21:53:41] [Server thread/INFO]: Security_Winter >> o[m
+[21:53:47] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> az[m
+[21:53:49] [Server thread/INFO]: Security_Winter >> ÎÊÌâÊÇ³ö²»È¥ÁË£¡[m
+[21:53:54] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode spectator
+[21:53:54] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Spectator Mode]
+[21:53:58] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode creative
+[21:53:58] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Creative Mode]
+[21:54:02] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ³öÀ´ÁË£¨[m
+[21:54:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÏ®»÷Ëş»¹ÓĞ¸ö¿ª¹Ø[m
+[21:54:07] [Server thread/INFO]: Security_Winter >> ËãÁË¼ÌĞø½²[m
+[21:54:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¾ÍÊÇ¿ø¼×¼ÜÍ·ÉÏµÄÕ¤À¸ÃÅ[m
+[21:54:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µ±ÎÒÃÇ¹Ø±ÕÕ¤À¸ÃÅµÄÊ±ºò,Ï®»÷ËşÊÇ¿ªÆôµÄ,ÕâÊ±ºòÎÒÃÇ¿³¿ø¼×¼Ü,¿ø¼×¼Ü²»»áÒÆ¶¯[m
+[21:55:00] [Server thread/INFO]: Security_Winter >> À­·ÆÄã¿ì¸øÎÒÕû³öÈ¥[m
+[21:55:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÒòÎªËü±»Õ¤À¸ÃÅ¶¥×¡ÁË[m
+[21:55:06] [Server thread/INFO]: Security_Winter >> o[m
+[21:55:17] [Server thread/INFO]: Laffey_Jiang issued server command: /tp Security_Winter Laffey_Jiang
+[21:55:17] [Server thread/INFO]: [Laffey_Jiang: Teleported Security_Winter to Laffey_Jiang]
+[21:55:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µ±ÎÒÃÇ¿ªÆôÕ¤À¸ÃÅµÄÊ±ºò,Ï®»÷ËşÊÇ¹Ø±ÕµÄ[m
+[21:55:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÊ±ºò¿³¿ø¼×¼ÜÒ²¿ÉÒÔ,²»¹ı¿ø¼×¼Ü»áÌøÆğÀ´[m
+[21:55:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãĞèÒªµ÷ÕûÒ»ÏÂ×¼ĞÄ[m
+[21:55:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇÃ´ÏÖÔÚÏ®»÷Ëş¾ÍÊÇ¿ªÆôµÄ[m
+[21:56:04] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode spectator
+[21:56:04] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Spectator Mode]
+[21:56:08] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode creative
+[21:56:08] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Creative Mode]
+[21:56:13] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.37552171986976646
+[21:56:13] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.37552171986976646
+[21:56:13] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:56:13] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:56:13] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:56:13] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:56:14] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:56:14] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:56:14] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:56:14] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:56:14] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:56:15] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:56:15] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:56:15] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:56:15] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:56:15] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:56:16] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:56:16] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:56:24] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode spectator
+[21:56:24] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Spectator Mode]
+[21:56:27] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode creative
+[21:56:27] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Creative Mode]
+[21:56:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ï®»÷Ëş¿ªÆôµÄÊÇ¹ÖÎï¹éÖĞºÍ·¢ÉäÆ÷·¢ÉäË®[m
+[21:56:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹éÖĞµÄ¹ÖÎïÏÂÂä±»Íæ¼Ò»÷É±[m
+[21:56:43] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ë­ÄÜ¸æËßÎÒÕâËŞ¹Ü×ö´íÁËÊ²Ã´£¨[m
+[21:57:05] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode spectator
+[21:57:05] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Spectator Mode]
+[21:57:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·¢ÉäÆ÷·¢ÉäË®,Ê¹µÃÆïÔÚ½ÙÂÓÊŞÉÏÃæµÄÂÓ¶áÕß[m
+[21:57:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µôÏÂÀ´[m
+[21:57:19] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode creative
+[21:57:19] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Creative Mode]
+[21:57:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºó½ÙÂÓÊŞ¾Í»á±»µØÓüÃÅ´«ËÍ½øµØÓü[m
+[21:57:34] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:57:34] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:57:34] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:57:34] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:57:35] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:57:35] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:57:35] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:57:35] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:57:36] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.3849999999999909
+[21:57:36] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.3849999999999909
+[21:57:36] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:57:36] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:57:36] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:57:37] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.3849999999999909
+[21:57:37] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:57:37] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:57:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÌÌËÀ[m
+[21:57:37] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:57:38] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:57:38] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:57:38] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:57:38] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.5
+[21:57:39] [Server thread/WARN]: Boat (vehicle of Laffey_Jiang) moved wrongly! 0.4800000000000182
+[21:57:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¼õÉÙ¿¨¶Ù[m
+[21:57:44] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode spectator
+[21:57:44] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Spectator Mode]
+[21:57:50] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode creative
+[21:57:50] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Creative Mode]
+[21:58:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µ±ÎÒÃÇ²»¿ªÆô¹éÖĞµÄÊ±ºò,¹ÖÎïÊÇÏÂ²»À´µÄ[m
+[21:58:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËùÒÔµ±Äã·¢ÏÖ¹ÖÎï¶¼í¡ÔÚ¹éÖĞ²¿·ÖµÄÊ±ºò[m
+[21:58:36] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode spectator
+[21:58:36] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Spectator Mode]
+[21:58:41] [Server thread/INFO]: Laffey_Jiang issued server command: /gamemode creative
+[21:58:41] [Server thread/INFO]: [Laffey_Jiang: Set own game mode to Creative Mode]
+[21:58:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãĞèÒª¿ª»òÕß¹ØÒ»ÏÂ¿ø¼×¼ÜÉÏÃæµÄÕ¤À¸ÃÅ[m
+[21:58:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»Òª¸ßÆµ¿ª¿ª¹Ø¹Ø[m
+[21:59:02] [Server thread/INFO]: Security_Winter >> o[m
+[21:59:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ÉÄÜ»á»µµô[m
+[21:59:09] [Server thread/INFO]: Laffey_Jiang lost connection: Disconnected
+[21:59:09] [Server thread/INFO]: Laffey_Jiang left the game
+[21:59:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> »µÁË¾ÍÂé·³ÁË[m
+[21:59:11] [Server thread/INFO]: Security_Winter >> o[m
+[21:59:26] [Server thread/INFO]: Fukoooo >> o[m
+[21:59:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> »ù±¾¾ÍÕâÑù[m
+[21:59:29] [Server thread/INFO]: Security_Winter >> Äã¹â¸øÎÒÃÇ½²£¬±ğÈË²»ÖªµÀ°¡[m
+[21:59:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ½£ÓÃÍêÁË¼ÇµÃ·Å»ØÈ¥[m
+[22:00:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÀ´ÑİÊ¾Ò»ÏÂ°É[m
+[22:00:32] [Server thread/INFO]: Fukoooo lost connection: Disconnected
+[22:00:32] [Server thread/INFO]: Fukoooo left the game
+[22:00:43] [Server thread/INFO]: Security_Winter >> az[m
+[22:00:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÓĞÁé»ê³öÇÏÂğ[m
+[22:00:49] [Server thread/INFO]: Security_Winter >> À´ÁË[m
+[22:00:55] [Server thread/INFO]: Security_Winter >> ÓĞ°¡ ÓÃµÄÄãµÄ°¡[m
+[22:00:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[22:01:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[22:01:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¾ÍÏñÕâÑù½øÀ´[m
+[22:01:41] [Server thread/INFO]: Security_Winter >> o[m
+[22:01:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ÉÒÔ¿´µ½ÄÕ¹íÊÇ±»ÆøÅİÖù¶¥³öÈ¥µÄ,¹¥»÷²»µ½Íæ¼Ò[m
+[22:02:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¼âÑÀÒ²´ò²»µ½ÎÒ[m
+[22:02:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÊ±ºòÎÒÃÇ¶Ô×Å¿ø¼×¼Ü¿³[m
+[22:02:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 07s[m
+[22:02:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¾ÍÏñÕâÑù[m
+[22:02:59] [Server thread/INFO]: Security_Winter >> o[m
+[22:03:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÑÒ½¬ÊÇÎªÁËÏú»Ù¾­Ñé[m
+[22:03:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»¹ıÕâÀïÃ»ÓĞ±ØÒª[m
+[22:03:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·´Õı×¢Òâµã,±ğÓÎÏÂÈ¥¾ÍĞĞ[m
+[22:03:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÏÂÀ´[m
+[22:04:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[22:04:24] [Server thread/INFO]: Security_Winter >> ºÃ[m
+[22:04:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È¥´ò¸öbuff[m
+[22:04:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ª»úÁË[m
+[22:05:01] [Server thread/INFO]: Security_Winter >> ?[m
+[22:05:06] [Server thread/INFO]: Security_Winter >> ÎÒÈ¥£¿[m
+[22:05:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È¥[m
+[22:06:54] [Server thread/INFO]: Security_Winter >> az[m
+[22:07:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÂıÂıÀ´[m
+[22:08:31] [Server thread/INFO]: Security_Winter >> ÍÛ Õâ¸ö¶«Î÷²»½²ÎäµÂ[m
+[22:08:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÂ²»È¥?[m
+[22:09:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ei[m
+[22:09:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÂÀ´ÁËÂï[m
+[22:09:22] [Server thread/INFO]: Security_Winter >> Ææ¹Ö ÄãÒ»ËµÎÒ¾ÍÏÂÀ´ÁË[m
+[22:09:26] [Server thread/INFO]: Security_Winter >> az[m
+[22:09:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Äã¶àÊÔ¼¸´Î[m
+[22:09:39] [Server thread/INFO]: Security_Winter >> Ã»Á¬µãÆ÷ Äã½ĞÎÒÔõÃ´Õû0.7µÄ[m
+[22:09:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[22:09:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕûÒ»¸ößÂ[m
+[22:10:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Òª²»tweakrooµÄÒ²ĞĞ[m
+[22:10:12] [Server thread/INFO]: Security_Winter >> ±ğ¼± ÎÒÍüÄÃ´ó±¦½£ÁË Õ¦ÏÂÈ¥[m
+[22:10:24] [User Authenticator #501/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[22:10:24] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:57484] logged in with entity id 3315093 at ([world]1511.7251773923645, 163.0, -1511.812313540176)
+[22:10:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë»....[m
+[22:11:17] [Server thread/INFO]: Security_Winter >> ok ÏÂÀ´ÁË[m
+[22:11:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> where are you[m
+[22:11:42] [Server thread/INFO]: Security_Winter >> »°ËµÕâ¸öÏ®»÷ËşÕæµÄÄÜ³Ô¾­ÑéÂğ[m
+[22:11:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ÉÒÔ[m
+[22:11:49] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ³Ô£¿[m
+[22:11:54] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ÉÒÔ°¡[m
+[22:12:20] [Server thread/WARN]: Player anew_tape just tried to change non-editable sign
+[22:12:49] [Server thread/INFO]: Security_Winter >> À´É­ÓïÄãÀ´ÊÔÊÔÕâ¸ö[m
+[22:13:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> É¶£¿[m
+[22:13:02] [Server thread/INFO]: Security_Winter >> ÈÃÄãÌåÑéÒ»ÏÂ½ø²»È¥·àÍ°[m
+[22:13:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ½ñÌì½øÈ¥ÁË£¨[m
+[22:13:25] [Server thread/INFO]: Security_Winter >> az[m
+[22:13:30] [Server thread/INFO]: Security_Winter >> ËäËµÎÒÒ²½øÈ¥ÁË[m
+[22:13:37] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÑ½ø£¨[m
+[22:13:39] [Server thread/INFO]: Security_Winter >> µ«ÊÇÕæµÄÄÑÅª[m
+[22:13:47] [Server thread/INFO]: Security_Winter >> ÎÒÔÙÈ¥ÊÔÊÔ[m
+[22:13:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> »¹ºÃ°¡[m
+[22:13:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÏÂÀ´Ò²²»ºÃÏÂÀ´£¨[m
+[22:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[22:14:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[22:14:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓÅ»¯Ò»ÏÂ[m
+[22:14:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÀ´[m
+[22:15:04] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 23333[m
+[22:15:19] [Server thread/INFO]: Security_Winter >> az[m
+[22:15:55] [Server thread/INFO]: Security_Winter >> ºÜÄÑµÄ[m
+[22:16:01] [Server thread/INFO]: Security_Winter >> ÕæµÄ[m
+[22:16:10] [Server thread/INFO]: Security_Winter >> ÎÒ¿´ÄãÕâÑùºÍÎÒ²î²»¶à°¡[m
+[22:16:17] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ???[m
+[22:16:29] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ½øÀ´ÁË°¡[m
+[22:16:39] [Server thread/INFO]: Security_Winter >> az[m
+[22:16:41] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[22:16:52] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÃ´í½£ÁË[m
+[22:16:55] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ±§Ç¸£¨[m
+[22:16:59] [Server thread/INFO]: Security_Winter >> ¸ÉµÄÆ¯ÁÁ[m
+[22:17:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> fuck[m
+[22:17:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×Ô¼º×°[m
+[22:17:15] [Server thread/INFO]: Security_Winter >> hhhhhhhhhhh[m
+[22:17:17] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºÃµÄ[m
+[22:17:18] [Server thread/INFO]: Security_Winter >> ohhhhhh[m
+[22:17:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 555[m
+[22:17:28] [Server thread/INFO]: Security_Winter >> ÕæµÄ ¿´ÆğÀ´ºÜºÃÍæ[m
+[22:17:40] [Server thread/INFO]: Security_Winter >> É­ÓïÄãÕÒËÀÄØ£¿[m
+[22:17:45] [Server thread/INFO]: Security_Winter >> ÕâÑù»á±»´òËÀµÄ[m
+[22:17:47] [Server thread/INFO]: sen_lv_ling_ was slain by Vex
+[22:17:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë»...[m
+[22:18:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[22:18:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·şÁËÑ½[m
+[22:18:07] [Server thread/INFO]: Security_Winter >> az[m
+[22:18:26] [Server thread/INFO]: Security_Winter >> É­Óï×°±¸ÄØ[m
+[22:18:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ³Ø×ÓÀï£¨[m
+[22:18:38] [Server thread/INFO]: Security_Winter >> ÄÇÄã¼ñ²»»ØÀ´ÁË[m
+[22:18:42] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[22:18:59] [Server thread/INFO]: Security_Winter >> ÄãµÄ½£»¹ÔÚÄÕ¹íÊÖÉÏ[m
+[22:19:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ???[m
+[22:19:03] [Server thread/INFO]: Security_Winter >> hhh[m
+[22:19:39] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ŞÏŞÎ[m
+[22:19:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[22:19:44] [Server thread/INFO]: Security_Winter >> hhh[m
+[22:20:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÀï»¹ÓĞ[m
+[22:21:08] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÕâÀïÃæÕâ¸ö¼×²»ÊÇÎÒµÄ£¨[m
+[22:21:24] [Server thread/INFO]: Security_Winter was slain by Vex
+[22:21:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[22:21:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[22:22:17] [Server thread/INFO]: Security_Winter >> ?[m
+[22:22:18] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ¼×Ã»¾£¼¬[m
+[22:22:32] [Server thread/INFO]: Security_Winter >> °ïÎÒ¼ñÏÂ×°±¸°¡[m
+[22:22:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¼ñÁË[m
+[22:22:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÕâÀï[m
+[22:23:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[22:23:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Í¦¼òµ¥µÄ°¡°¡[m
+[22:24:18] [Server thread/INFO]: Security_Winter >> ·ÅÄÄÁË[m
+[22:24:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºóÃæ[m
+[22:25:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ½øÀ´µÄÊ±ºòÇáÎ¢ÍùºóÍË[m
+[22:25:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ±ğÍùÇ°[m
+[22:25:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóºÜÈİÒ×½øÀ´[m
+[22:25:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ĞØ¼×-1[m
+[22:26:01] [Server thread/INFO]: Security_Winter >> az[m
+[22:26:09] [Server thread/INFO]: Security_Winter >> ÄãµÄĞØ¼×²»ÊÇÔÚÏä×ÓÀïÂğ[m
+[22:26:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È¥´ò¸öbuff[m
+[22:26:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ª»ú[m
+[22:26:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÈ¥[m
+[22:26:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒĞØ¼×Ã»¾£¼¬[m
+[22:26:34] [Server thread/INFO]: Security_Winter >> È¥ÖíÈËËşĞŞ×°±¸ÁË[m
+[22:26:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¾ÍÔÚÕâĞŞ°¡[m
+[22:26:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÈ¥Òıbuff[m
+[22:26:55] [Server thread/INFO]: Security_Winter >> ?[m
+[22:27:17] [Server thread/INFO]: Security_Winter >> Õ¦Åª[m
+[22:27:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÊÇ×°º©»¹ÊÇÕæº©[m
+[22:27:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÈ¥Òıbuff£¬»ØÀ´Äã¹Ò»ú[m
+[22:28:18] [Server thread/INFO]: Security_Winter >> ÔÚÄÄ³Ô¾­Ñé°¡[m
+[22:28:29] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ·àÍ°°¡[m
+[22:28:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¡Ì[m
+[22:28:36] [Server thread/WARN]: Security_Winter moved too quickly! 8.852150620758266,-0.6200000047683716,4.787604968657206
+[22:28:42] [Server thread/INFO]: Security_Winter >> µÃÁË ÎÒ½ø²»È¥ÄÇ¸ö[m
+[22:28:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[22:28:48] [Server thread/INFO]: Security_Winter >> ÎÒ»¹ÊÇÈ¥ÖíÈËËş°É[m
+[22:28:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ò²¿ÉÒÔ[m
+[22:29:29] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë»[m
+[22:29:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»Ë¢¹Ö[m
+[22:29:44] [Server thread/INFO]: Security_Winter >> ¸ÉµÃÆ¯ÁÁ[m
+[22:30:35] [Server thread/INFO]: Security_Winter >> ÍøÓÖ±ä²îÁË[m
+[22:31:48] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ[m
+[22:31:53] [Server thread/INFO]: Security_Winter >> ?[m
+[22:32:13] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãÊÇ²»ÊÇÔÚÖíÈËËş = =[m
+[22:32:29] [Server thread/INFO]: Security_Winter >> ÊÇ¡£¡£¡£[m
+[22:32:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ¾ÍËµÕâÍíÉÏÕ¦Á¬½ªË¿¶¼Ã»¿´¼ûÒ»¸ö[m
+[22:32:59] [Server thread/INFO]: Magical7 >> ÎÒ¹Ò»úÄØ ÄãÔõÃ´À´ÁË[m
+[22:33:01] [Server thread/INFO]: Security_Winter >> »¹»î×Å£¿[m
+[22:33:05] [Server thread/INFO]: Security_Winter >> ÎÒÌì[m
+[22:33:12] [Server thread/INFO]: Security_Winter >> ÎÒÖ»ÊÇÏëĞŞ¸ö×°±¸[m
+[22:33:13] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ...[m
+[22:33:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÖ»ÏëË¢¸öbuff[m
+[22:33:56] [Server thread/INFO]: Security_Winter >> ºÃÁËÄãÀ´¹Ò»ú°É[m
+[22:34:03] [Server thread/INFO]: Security_Winter >> ÎÒĞİÍêÁË[m
+[22:34:06] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ...[m
+[22:34:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÒªË¢buff!!![m
+[22:34:23] [Server thread/INFO]: Security_Winter >> Ê²Ã´buff[m
+[22:34:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»Ïê[m
+[22:34:41] [Server thread/INFO]: Security_Winter >> ²»ÊÇÓĞÏ®»÷ËşÂğ[m
+[22:34:41] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÇÖíÈËËş¸ú¸öÎ±ºÍÆ½Ò»Ñù[m
+[22:34:50] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Òª²»ÏêÆô¶¯°¡[m
+[22:34:58] [Server thread/INFO]: Security_Winter >> az[m
+[22:35:04] [Server thread/INFO]: Magical7 >> ÄÇÎÒ×ßÁË Ò²¹ÒÁËÍ¦¾ÃµÄ[m
+[22:35:07] [Server thread/INFO]: Security_Winter >> ÎÒ·´Õı×ßÁË ±ğÕÒÎÒ[m
+[22:35:17] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[22:35:46] [Server thread/INFO]: Security_Winter >> ÏÂÁË[m
+[22:35:58] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[22:35:58] [Server thread/INFO]: Security_Winter left the game
+[22:36:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»ÏêÓĞÁË[m
+[22:36:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ì[m
+[22:36:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ó¡³®»ú![m
+[22:37:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ï®»÷À´ÁË[m
+[22:37:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[22:37:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãµÈÂÌ±¦Ê¯ÄÃÈ¥ÀË[m
+[22:39:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[22:39:33] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[22:39:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿³µôÁË[m
+[22:39:37] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[22:40:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ğ§ÂÊÌ«¸ßÁË[m
+[22:40:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·şÎñÆ÷³Å²»×¡[m
+[22:40:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> .....[m
+[22:40:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¸ÄµÍÒ»µã[m
+[22:41:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[22:41:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄãÀ´°É[m
+[22:44:41] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë»[m
+[22:44:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> tape[m
+[22:44:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ?[m
+[22:45:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °ÑÉÏÃæÄÇ¸ö»î°åÃÅ[m
+[22:45:08] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> µ²×¡µôÂäÎïÁË[m
+[22:45:20] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ø¼×¼ÜºóÃæ[m
+[22:45:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ...[m
+[22:46:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÄ¸öĞ¡Ìì²Å[m
+[22:46:09] [Server thread/INFO]: anew_tape issued server command: /co i
+[22:46:11] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 233333[m
+[22:46:34] [Server thread/INFO]: anew_tape issued server command: /co i
+[22:46:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËùÒÔÎªÉ¶²»ÓÃ¸æÊ¾ÅÆÄØ[m
+[22:47:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÀÁ...[m
+[22:47:09] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 2333[m
+[22:47:45] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[22:47:45] [Server thread/INFO]: Magical7 left the game
+[22:48:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[22:48:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÓĞ»ğÒ©ÁË[m
+[22:48:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ë¬[m
+[22:48:18] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Êæ·ş[m
+[22:49:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÏ³É¿é[m
+[22:49:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ¿´¿´ÓĞ¶àÉÙ[m
+[22:53:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÍêÈ«¾ÍÊÇĞ§ÂÊ±¬Õ¨[m
+[22:54:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÊÇÕæµÄÊæ·ş[m
+[22:54:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ì4´óÏä×Ó¿éÁË[m
+[22:55:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÂÌ±¦Ê¯¿éÂëĞÅ±ê£¡£¡£¡[m
+[22:55:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÆÌÂ·ÆÌÂ·[m
+[22:57:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÖÕÓÚ²»ÓÃ¹ıÇîÈËµÄÉú»îÁË[m
+[23:00:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ó¡³®Ì«Êæ·şÀ²[m
+[23:02:47] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ï¨µÆÁË[m
+[23:03:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[23:03:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ¹Ò?[m
+[23:04:54] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ¾­ÑéÕæµÄ¿ì[m
+[23:04:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇÊÇ[m
+[23:05:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ±ÈÖíÈËËş¿ì¶àÁË[m
+[23:05:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 1000¼¶²»ÊÇÃÎ[m
+[23:05:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÕâÒ»¶ÏµçÔ´¾ÍµôÖ¡[m
+[23:08:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÏ´Ôè[m
+[23:08:54] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> az[m
+[23:08:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÀ´¹Ò°É[m
+[23:09:13] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÇÎÒ³öÀ´[m
+[23:09:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¸øÎÒ¸ù¼ı[m
+[23:10:05] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ok[m
+[23:10:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ok[m
+[23:10:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ï´ÔèÈ¥[m
+[23:10:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÏÂÁË[m
+[23:10:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> en[m
+[23:11:01] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »ğÒ©²úÁ¿¶¼ÕâÃ´¶à£¨[m
+[23:12:31] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[23:12:31] [Server thread/INFO]: sen_lv_ling_ left the game
+[23:14:02] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[23:44:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> 6[m

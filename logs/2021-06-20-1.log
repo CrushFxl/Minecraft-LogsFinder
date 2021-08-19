@@ -1,0 +1,480 @@
+[00:50:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[01:50:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[02:50:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[03:50:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[04:50:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[05:50:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[06:50:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[07:24:21] [User Authenticator #61/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[07:24:21] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:50122] logged in with entity id 536179 at ([world]1338.3953451525872, 64.0, 61.66241518096984)
+[07:36:29] [User Authenticator #62/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[07:36:29] [Server thread/INFO]: TMN_233[/127.0.0.1:50163] logged in with entity id 537253 at ([world_nether]334.93779735650713, 115.0, 7.550300509158589)
+[07:40:38] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[07:50:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[07:50:41] [Server thread/INFO]: Li_zi_wei issued server command: /qd
+[07:50:41] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mLi_zi_wei [0;33;22mÄ¿Ç°ÓĞ [0;32;1m12 [0;33;22m¹±Ï×µãÊı[m
+[07:55:13] [Server thread/INFO]: TMN_233 issued server command: /qd
+[07:55:13] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mTMN_233 [0;33;22mÄ¿Ç°ÓĞ [0;32;1m2 [0;33;22m¹±Ï×µãÊı[m
+[07:55:14] [Server thread/INFO]: TMN_233 issued server command: /p
+[07:55:24] [Server thread/INFO]: TMN_233 issued server command: /p pay Li_zi_wei 3
+[07:55:26] [Server thread/INFO]: TMN_233 issued server command: /p pay Li_zi_wei 2
+[07:55:38] [Server thread/INFO]: Li_zi_wei issued server command: /p list
+[07:55:42] [Server thread/INFO]: Li_zi_wei issued server command: /p lead
+[08:10:30] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[08:10:30] [Server thread/INFO]: TMN_233 left the game
+[08:15:23] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[08:15:23] [Server thread/INFO]: Li_zi_wei left the game
+[08:50:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[09:50:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[10:14:38] [User Authenticator #63/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[10:14:38] [Server thread/INFO]: anew_tape[/127.0.0.1:50692] logged in with entity id 545059 at ([world]1521.7258787010812, 159.5, -1523.3425874448462)
+[10:14:49] [Server thread/INFO]: anew_tape issued server command: /qd
+[10:14:49] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1manew_tape [0;33;22mÄ¿Ç°ÓĞ [0;32;1m17 [0;33;22m¹±Ï×µãÊı[m
+[10:14:52] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[10:14:52] [Server thread/INFO]: anew_tape left the game
+[10:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[11:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[12:26:13] [User Authenticator #64/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[12:26:13] [Server thread/INFO]: Security_Winter[/127.0.0.1:51189] logged in with entity id 545335 at ([world]-217.50539289757631, 118.0, -448.640838849799)
+[12:26:21] [Server thread/INFO]: Security_Winter issued server command: /qd
+[12:26:21] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mSecurity_Winter [0;33;22mÄ¿Ç°ÓĞ [0;32;1m22 [0;33;22m¹±Ï×µãÊı[m
+[12:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[13:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[14:14:13] [User Authenticator #65/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[14:14:13] [Server thread/INFO]: Ghost_king_[/127.0.0.1:51574] logged in with entity id 873272 at ([world]2666.854222394804, 69.34756056283001, -386.27570321451236)
+[14:24:58] [Server thread/INFO]: Security_Winter >> az[m
+[14:37:31] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[14:37:31] [Server thread/INFO]: Ghost_king_ left the game
+[14:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[15:02:14] [User Authenticator #66/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[15:02:15] [Server thread/INFO]: Bay_Max_[/127.0.0.1:51817] logged in with entity id 1022778 at ([world_nether]188.65976303041657, 42.0, 907.4494694920866)
+[15:14:18] [Server thread/INFO]: There are 2 of a max of 50 players online: Security_Winter, Bay_Max_
+[15:23:17] [Server thread/INFO]: Security_Winter >> ?[m
+[15:23:29] [Server thread/INFO]: Security_Winter >> ´ó°×£¿[m
+[15:29:06] [Server thread/INFO]: [0;33;22m<ÖÜÄêÇì>[0;37;1m Bay_Max_ >> qwq[m
+[15:33:49] [Server thread/INFO]: Security_Winter >> ohhhh[m
+[15:50:36] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mSecurity_Winter [0;33;22mÄ¿Ç°ÓĞ [0;32;1m23 [0;33;22m¹±Ï×µãÊı[m
+[15:50:36] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mBay_Max_ [0;33;22mÄ¿Ç°ÓĞ [0;32;1m1 [0;33;22m¹±Ï×µãÊı[m
+[15:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[16:24:21] [Server thread/INFO]: Bay_Max_ issued server command: /qd
+[16:24:21] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mBay_Max_ [0;33;22mÄ¿Ç°ÓĞ [0;32;1m3 [0;33;22m¹±Ï×µãÊı[m
+[16:24:24] [Server thread/INFO]: Bay_Max_ issued server command: /p lead
+[16:43:38] [Server thread/INFO]: Security_Winter >> ´ó°×ÄãµÄË¢»¨»úÔÚÄÄ[m
+[16:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[16:57:52] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[16:57:52] [Server thread/INFO]: Bay_Max_ left the game
+[17:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[18:05:45] [Server thread/WARN]: Boat (vehicle of Security_Winter) moved wrongly! 1.0153726147696034
+[18:08:55] [User Authenticator #67/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[18:08:55] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:52949] logged in with entity id 1481514 at ([world]2018.307834157495, 75.0, -9.379388999312594)
+[18:08:59] [Server thread/INFO]: Security_Winter >> hello[m
+[18:09:06] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ./qd[m
+[18:09:08] [Server thread/INFO]: sen_lv_ling_ issued server command: /qd
+[18:09:08] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1msen_lv_ling_ [0;33;22mÄ¿Ç°ÓĞ [0;32;1m12 [0;33;22m¹±Ï×µãÊı[m
+[18:09:19] [Server thread/INFO]: Security_Winter >> ¡­¡­[m
+[18:09:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 250[m
+[18:09:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 250 115 1[m
+[18:09:38] [Server thread/INFO]: Security_Winter >> ºÃ[m
+[18:09:41] [Server thread/INFO]: Security_Winter >> Ğ»ÁË[m
+[18:11:25] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ»¹µÃ´Ó1.17»»µ½1.16.5À´¿³×ø±ê£¨[m
+[18:11:29] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿´[m
+[18:13:15] [Server thread/INFO]: Security_Winter >> ¿ÉÁ¯µÄÉ­²Å×êÌ×¹ş¹ş¹ş[m
+[18:13:36] [Server thread/INFO]: Security_Winter >> ÔõÃ´ÓÃ°¡[m
+[18:13:49] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÏÈÈû¹Ç·Û[m
+[18:16:19] [Server thread/INFO]: Security_Winter >> Õæ¾Í¸øÈü±¬ÁË[m
+[18:16:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> È»ºóÀ­ÏÂÀ­¸Ë[m
+[18:16:52] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÈËÈâÊÕ¼¯£¨[m
+[18:16:58] [Server thread/INFO]: Security_Winter >> ???[m
+[18:17:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> £¨ÊÕ¼¯×°ÖÃ¸üĞÂºó»µÁË£©[m
+[18:17:16] [Server thread/INFO]: Security_Winter >> ²İ[m
+[18:17:23] [Server thread/INFO]: Security_Winter >> ·şÎñÆ÷ÌØÉ«ÊÇ°É[m
+[18:17:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËùÒÔ²»ÄÜÍ¨Ïü¹Ò[m
+[18:18:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÏàĞÅÄãÒÑ¾­Ñ§»áÁË[m
+[18:18:18] [Server thread/INFO]: Security_Winter >> ÄÄÀïÓĞµØÌº[m
+[18:18:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÀëÏß»òÀë¿ª¼ÇµÃ¹Ø»ú[m
+[18:18:28] [Server thread/INFO]: Security_Winter >> »¹ÓĞ[m
+[18:18:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> µØÌº£¿[m
+[18:18:39] [Server thread/INFO]: Security_Winter >> ÔõÃ´ÇĞ»»±ğµÄ»¨ÄØ[m
+[18:18:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¸æËßÈÛÂ¯[m
+[18:18:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[18:18:52] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÇĞ»»¸öder[m
+[18:19:09] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ê²Ã´»¨¶¼ÔÚË¢£¨³ıÁËÀ¼»¨[m
+[18:19:20] [Server thread/INFO]: Security_Winter >> ÎªÊ²Ã´[m
+[18:19:26] [Server thread/INFO]: Security_Winter >> ÕıºÃË¢À¼»¨¡£¡£¡£[m
+[18:19:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> À¼»¨ÒªÕÓÔóÈºÏµ[m
+[18:19:35] [Server thread/INFO]: Security_Winter >> ºÃ°É[m
+[18:19:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> À¼»¨ÎÒ¸øÄãÁË°É[m
+[18:19:59] [Server thread/INFO]: Security_Winter >> ÄÇÊÇÊ¸³µ¾Õ[m
+[18:20:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ö®Ç°[m
+[18:20:17] [Server thread/INFO]: Security_Winter >> ÏÖÔÚÒªµÄºÍÖ®Ç°ÓÃÍ¾²»Ò»Ñù[m
+[18:20:23] [Server thread/INFO]: Security_Winter >> ²»¹ıÃ»ÊÂÎÒ×Ô¼ºÏë°ì·¨[m
+[18:20:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[18:20:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»ÊÇ26¸öÀ¼»¨Ã´[m
+[18:20:32] [Server thread/INFO]: Security_Winter >> µØÌºÄÄÓĞ[m
+[18:20:44] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¸ßËÙÈÛÂ¯£¨[m
+[18:20:53] [Server thread/INFO]: Security_Winter >> ÔÚÄÄ[m
+[18:21:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »òÕßÄãÈ¥º£¾§Ö©ÖëÁı×ÓÄÃÏßºÏ³É[m
+[18:23:33] [Server thread/INFO]: Security_Winter >> fuck you[m
+[18:24:18] [Server thread/INFO]: sen_lv_ling_ has made the advancement [Take Aim]
+[18:26:23] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¸ã¿ìÉÏÀ´¹ÒË¢»¨»ú[m
+[18:26:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ´ıÏÂÃæ¸ÉÂï[m
+[18:42:57] [Server thread/INFO]: Security_Winter >> ?[m
+[18:44:08] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[18:44:14] [Server thread/INFO]: Security_Winter >> ...[m
+[18:45:01] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »ØÈ¥Íæ1.17È¥ÁË[m
+[18:48:18] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Äã²»È¥¹Ò»úÅÜ¹ıÀ´¸ÉÂï[m
+[18:48:28] [Server thread/INFO]: Security_Winter >> ÎÒ²Å¸ãµØÌºÄØ[m
+[18:48:35] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[18:48:37] [Server thread/INFO]: Security_Winter >> ËùÒÔÀ´¿´»úÆ÷[m
+[18:48:59] [Server thread/INFO]: Security_Winter >> ÏÉÈËÕÆ¸øÒ»¸ö[m
+[18:50:01] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ok[m
+[18:50:04] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »úÆ÷¾ÍÕâÑù[m
+[18:50:34] [Server thread/INFO]: Security_Winter >> ÄãÕâÃ»ÓĞÄÁÑòÈËÂï[m
+[18:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[18:50:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»ÓĞ°¡[m
+[18:50:44] [Server thread/INFO]: Security_Winter >> cao[m
+[18:50:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[18:50:58] [Server thread/INFO]: Security_Winter >> ¿ì¸ãÒ»¸ö[m
+[18:51:02] [Server thread/INFO]: Security_Winter >> ÎÒÒªÌÍ¿ÕËû[m
+[18:51:12] [Server thread/INFO]: Security_Winter >> awa[m
+[18:51:13] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ×Ô¼º¸ã[m
+[18:51:17] [Server thread/INFO]: Security_Winter >> ,[m
+[18:51:24] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºóÃæÄÇÅÅ´åÃñËæ±ãÄãÅª[m
+[18:51:29] [Server thread/INFO]: Security_Winter >> ËãÁËÄãÓĞÕâ¸ö¾ÍºÃ[m
+[18:52:06] [Server thread/INFO]: Security_Winter >> °ÑÒªË¢µÄµØÌº»»µôÄÄÒ»¸ö[m
+[18:52:14] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¶¼ĞĞ[m
+[18:52:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¶¼ÔÚË¢[m
+[18:52:59] [Server thread/INFO]: Security_Winter >> ¸ã¸öÊÕ¼¯£¿[m
+[18:53:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ½¨ÒéÃÜ·âË®Á÷ÊÕ¼¯[m
+[18:54:57] [User Authenticator #68/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[18:54:57] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53103] logged in with entity id 1492863 at ([world]2661.5133821208256, 74.0, -374.8937872692026)
+[18:54:58] [Server thread/INFO]: Security_Winter >> ºÃ[m
+[18:55:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[18:55:04] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º©º©gk[m
+[18:55:30] [Server thread/INFO]: Security_Winter >> Ê§»îµÄÉºº÷¿ÉÒÔÓÃ¾«×¼²É¼¯ÍÚÏÂÀ´Âï[m
+[18:55:31] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> º©º©É­Óï[m
+[18:55:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ÉÒÔ[m
+[18:55:42] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º©º©°²¶¬[m
+[18:55:48] [Server thread/INFO]: Security_Winter >> ºÃÎÒ¸øËûÅ²¸öµØ·½[m
+[18:56:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ½¨Òé±ğÔÚÕâÀïÅª[m
+[18:56:05] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÊµÌå¶à[m
+[18:56:16] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> º©º©°²È«µÄ¶¬Ìì[m
+[18:56:22] [Server thread/INFO]: Security_Winter >> ¡­¡­A[m
+[18:57:33] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÒ»¸«Í·ÏÂÈ¥É­ÓïÄã¾ÍĞé¿ÕÒ»ÈÕÓÎ[m
+[18:57:47] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¡°ÈÈÇé¡±µØ´òÕĞºô[m
+[18:57:56] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »°Ëµ[m
+[18:58:02] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÔõÃ´ÊÇ×êÌ×[m
+[18:58:07] [Server thread/INFO]: Security_Winter >> hhhhh[m
+[18:58:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÒªÄã¹Ñ = =[m
+[18:58:16] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÔõÃ´ÕâÃ´À­ÁË[m
+[18:58:17] [Server thread/INFO]: Security_Winter >> ²£Á§ÄØ[m
+[18:58:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²£Á§×Ô¼º»»[m
+[18:58:33] [Server thread/INFO]: Security_Winter >> soga[m
+[18:58:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ·´Õı1»»1[m
+[18:59:48] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ²»ÊÇÓĞÃ´[m
+[18:59:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÁÑòÈË[m
+[19:00:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º©º©°²¶¬[m
+[19:00:04] [Server thread/INFO]: Security_Winter >> ...[m
+[19:00:10] [Server thread/INFO]: Security_Winter >> ÄãËûÄÌÄÌµÄ[m
+[19:00:13] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÚÉ¶[m
+[19:00:16] [Server thread/INFO]: Security_Winter >> Äã×Ô¼ºËµÃ»ÓĞ[m
+[19:00:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÕâÅÅÊÇ4022¸ãµÃ = =[m
+[19:00:35] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »¹ÊÇÄã¶®ÎÒ[m
+[19:00:40] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÒ»ÕÅ×ìÄã¾ÍÖªµÀÎÒÒªÎÊÊ²Ã´[m
+[19:00:49] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> .....[m
+[19:00:55] [Server thread/INFO]: Security_Winter >> ...[m
+[19:01:03] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÇÃ´[m
+[19:01:10] [Server thread/INFO]: Security_Winter >> Õâ¾ÍÊÇ¡­¡­Âï°®ÁË°®ÁË[m
+[19:01:10] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÓĞ½ğÂÜ±±Âï[m
+[19:01:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»ÓĞ[m
+[19:01:15] [Server thread/INFO]: Security_Winter >> hhh[m
+[19:01:18] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãÏ¹Ã´[m
+[19:01:21] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ºß[m
+[19:01:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ...[m
+[19:01:39] [Server thread/INFO]: Security_Winter >> gkÄ¿º¦ÁË[m
+[19:01:47] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËµÄãÏ¹»¹²»ĞÅ[m
+[19:02:11] [Server thread/INFO]: Security_Winter >> É­¿ì¸øÎÒÒ»¸öÂÌÉ«È¾ÁÏ½ô¼±¾È¼Ã[m
+[19:02:23] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> awa[m
+[19:02:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[19:02:47] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÃÄãÍ·ÉÏµÄÂÌ[m
+[19:02:53] [Server thread/INFO]: Security_Winter >> ,,[m
+[19:02:58] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÖªµÀÎÒÕâ¸ö²ÄÖÊ¿´É­ÓïÓĞ¶àË§Âï[m
+[19:03:29] [Server thread/INFO]: Security_Winter >> ÄãËûÄÌÄÌµÄ²»ÒªÕâ¸ö[m
+[19:03:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄªµÃ[m
+[19:03:35] [Server thread/INFO]: Security_Winter >> ²İ[m
+[19:04:42] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> sorry[m
+[19:04:42] [Server thread/INFO]: Security_Winter >> ?[m
+[19:04:46] [Server thread/INFO]: Security_Winter >> az[m
+[19:05:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Å¶»í[m
+[19:06:00] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¢Íß¡¢[m
+[19:06:02] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> awa[m
+[19:06:06] [Server thread/INFO]: Security_Winter >> ?[m
+[19:06:17] [Server thread/INFO]: Security_Winter >> ^[m
+[19:06:47] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ºôºô[m
+[19:06:49] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²îµãÄã¾ÍÃ»ÁË[m
+[19:07:06] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[19:07:13] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °²È«µÄ¶¯Ì¬ÄãÔÙ¸ãÊ²Ã´[m
+[19:07:20] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¶¯Ì¬2333333333[m
+[19:07:22] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °²È«µÄ¶¬Ìì£¨[m
+[19:07:25] [Server thread/INFO]: Security_Winter >> cao'[m
+[19:07:42] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËûË¢µØÌº[m
+[19:07:54] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ü³[m
+[19:07:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÍµÎÒË®[m
+[19:08:02] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÃ×Å°É°ÚÒ»ÅÅÊÇÊ²Ã´¹í[m
+[19:08:20] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÊÕ ¼¯ ×° ÖÃ £¿[m
+[19:08:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> hhhhh[m
+[19:08:30] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ²İ[m
+[19:08:35] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒDC´êµôÒ»¸ö²£Á§[m
+[19:08:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¼±ÆÈ2[m
+[19:08:48] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÑ¹Ö[m
+[19:09:20] [Server thread/INFO]: Security_Winter >> ÔõÃ´ÅªÀ´×Å¡­¡­[m
+[19:09:21] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µØÌº»ú±ğ°ÚÔÚÕâÀï°¡ÀÏ¸ç[m
+[19:09:23] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> hhhhhhhhhh[m
+[19:09:36] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÕâÀïÊµÌåÕâÃ´¶à£¬ÄãÕû¸öµØÌº»ú¸ü¿¨[m
+[19:09:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»»á°É²»»á°É[m
+[19:09:56] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»»áÓĞÈËÕâÃ´¼òµ¥µÄ»úÆ÷¿´Ò»ÑÛ¾ÍÍü°É£¨£¨[m
+[19:10:15] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Äã¸ãÁË»ØÍ·ÎÒ¾Í²ğÁË£¨[m
+[19:10:28] [Server thread/INFO]: Security_Winter >> ...[m
+[19:10:36] [Server thread/INFO]: Security_Winter >> Ã»µØ·½ÁË[m
+[19:10:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[19:10:56] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¹ÇÕÛ»úÀï150¶à¸ö´åÃñ[m
+[19:11:06] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õâ±ß80À´¸ö[m
+[19:11:09] [Server thread/INFO]: Security_Winter >> ÎÒÖ»¿ªÒ»»á[m
+[19:11:14] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ÉÒÔ°Ñ×îºóÒ»ÅÅµÄÑïÁË£¨[m
+[19:11:22] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ä©µØÊ¯ÄÇÒ»ÅÅ[m
+[19:11:33] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÒªÑï¿Ï¶¨²»ÊÇÏÖÔÚÑï[m
+[19:11:39] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»ÓÃ¹ı£¨[m
+[19:11:52] [Server thread/INFO]: Security_Winter >> ÎÒ¾ÍË¢¼¸°Ù¸öÓÖ²»ÊÇÒ»Ö±¿ª[m
+[19:12:05] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¼¸°Ù¸öÕâ»á¶ù¶¼Ë¢ÍêÁË£¨[m
+[19:12:06] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ×ÜÓĞĞ¡Ìì²ÅÍü¼Ç¹Ø[m
+[19:12:14] [Server thread/INFO]: Security_Winter >> ,,,[m
+[19:12:21] [Server thread/INFO]: Security_Winter >> Äã²ÅĞ¡Ìì²Å[m
+[19:12:43] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÈ¥Ö÷µº×ö¶¼Ã»ÎÊÌâ[m
+[19:12:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ğ¡Ìì²Å°²¶¬£¨[m
+[19:13:05] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ»¹Ã»ËãÏä×ÓµÄ¿¨¶ÙÄØ[m
+[19:13:20] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ËäÈ»ÎÒ×°ÁË¿ìËÙµÄĞØÕÖ£¨fast chest£©[m
+[19:13:49] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¹Û¿´Ğ¡Ìì²Å°²¶¬µÄ±íÑİ[m
+[19:13:50] [Server thread/INFO]: Security_Winter >> Ã»ÊÂË¢ÍêÁËÎÒ°ÑÉºº÷²ğÁË4[m
+[19:14:01] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ....[m
+[19:14:05] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ½¨Òé²ğÍê[m
+[19:14:09] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÊÇµÄ[m
+[19:14:12] [Server thread/INFO]: Security_Winter >> ok[m
+[19:14:20] [Server thread/INFO]: Security_Winter >> ÊÕ¼¯Áô×Å[m
+[19:14:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¶¯ÆğÀ´[m
+[19:14:30] [Server thread/INFO]: Security_Winter >> »úÆ÷Ò»²ğ[m
+[19:14:33] [Server thread/INFO]: Security_Winter >> ÍêÃÀ[m
+[19:14:52] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ì×ö°¡[m
+[19:14:54] [Server thread/INFO]: Security_Winter >> º£ëàgkµÄ±íÑİ[m
+[19:15:32] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²İ ²îÒ»µã¸ĞÊÜ¶¯ÄÜ[m
+[19:15:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÇÕæÊÇÌ«ÒÅº¶ÁË[m
+[19:16:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãÕ¾²£Á§ÉÏ²»ĞĞÃ´[m
+[19:16:10] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¡ ºÃ¿¨ ºÃ¿¨[m
+[19:16:15] [Server thread/INFO]: Security_Winter >> hhh[m
+[19:16:18] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¡ ²»ĞĞ ÎÒÒª²ğÁË[m
+[19:16:21] [Server thread/INFO]: Security_Winter >> ÈÃÄãÂÒ¿ª[m
+[19:16:23] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[19:16:38] [Server thread/INFO]: Security_Winter >> ÅÀ¿ª[m
+[19:16:42] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²»ĞĞÎÒµÄ1660s¶¥²»×¡ÁË[m
+[19:16:46] [Server thread/INFO]: Security_Winter >> ±ğ¶¯ÎÒµÄÀÍ¶¯³É¹ûawa[m
+[19:17:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °×ÑÛÀÇ[m
+[19:17:34] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> qwq[m
+[19:17:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Î¹Äã½ğÂÜ±±Äã»¹´òÎÒ[m
+[19:17:42] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> qwq[m
+[19:17:59] [Server thread/INFO]: Security_Winter >> Î¹Î¹Î¹¿ìÅÜÎÒÅÂÄã¿¨ËÀ[m
+[19:18:06] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ËùÒÔÄã°Ñ»úÆ÷×öºÃÁËÎªÊ²Ã´²»¿ª[m
+[19:18:12] [Server thread/INFO]: Security_Winter >> µÈÄã×ß[m
+[19:18:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> hhhhhhhhh[m
+[19:18:16] [Server thread/INFO]: Security_Winter >> ÄÇÎÒ×ß£¿[m
+[19:18:29] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿´ÕâÀï[m
+[19:18:34] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ç°ÃæÎ§ÉÏ²£Á§À²Ğ¼[m
+[19:18:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º©º©°²¶¬[m
+[19:18:56] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ËµÄãÊÇ1/4Í°Ë®»¹²»ĞÅ[m
+[19:19:01] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> º©º©[m
+[19:19:05] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> hhhh[m
+[19:19:18] [Server thread/INFO]: Security_Winter >> ÎÒËµÎÒ»¹Ã»¿ª»úÄØ[m
+[19:19:35] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ò»×éµØÌº³É¹¦Í»ÆÆ[m
+[19:19:45] [Server thread/INFO]: Security_Winter >> Ã»À´µÃ¼°Î§Äã¾Í¸øÎÒ¿ª¿ªÁË[m
+[19:19:48] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÍÛ Ë¹¹úÒ»£¡[m
+[19:19:50] [Server thread/INFO]: Security_Winter >> ²»ÄÜ¹ÖÎÒ°É[m
+[19:19:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÊÌâÀ´ÁË[m
+[19:20:09] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÃ²£Á§×ö²»ºÃ²ğ[m
+[19:20:14] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> àÛ£¬¼Ù×°²»ÖªµÀÄãÔÚÄÄÀïÉµÕ¾×ÅµÈÎÒ×ß[m
+[19:20:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> µÚ¶ş×éµØÌº³É¹¦ÆÆÍÁ[m
+[19:20:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »¹ÊÇÎŞ·ì²£Á§ºÃ¿´[m
+[19:20:46] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °²È«µÄ¶¯Ì¬°¡[m
+[19:20:56] [Server thread/INFO]: Security_Winter >> ...[m
+[19:21:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ²»¾Í¼¸°Ù¸öÁËÃ´[m
+[19:21:01] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎªÊ²Ã´²»¶à×öÁ½¸ö[m
+[19:21:01] [Server thread/INFO]: Security_Winter >> ½ĞÎÒº®°²[m
+[19:21:06] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºÃµÄ°²¶¬[m
+[19:21:07] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ºÃµÄ°²È«µÄ¶¬Ìì[m
+[19:21:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ±ğÕõÔúÁË[m
+[19:21:23] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ãû×Ö¶øÒÑ[m
+[19:21:33] [Server thread/INFO]: Security_Winter >> ...[m
+[19:21:41] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ã²ËÆÉ­ÓïÕâ±ßÃ»ÄÇÃ´¿¨[m
+[19:21:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[19:22:17] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸Õ¸ÕÄÇ±ßÊÇBSL+12Çø¿é60Ö¡[m
+[19:22:26] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> É­ÓïÕâ±ßÊÇ67Ö¡[m
+[19:22:41] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Å¼ ÏÖÔÚÍ£ÁË£¬977Ö¡[m
+[19:22:48] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¡ÅŞ 77Ö¡[m
+[19:23:15] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 80Ö¡[m
+[19:23:23] [Server thread/INFO]: Security_Winter >> ...[m
+[19:23:36] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ»¹´øÁË¹âÓ°ÄØawa[m
+[19:23:48] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ä©µØ×öµÄ×îºÃµÄ»¹ÊÇBSL[m
+[19:23:54] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> SEUSÌ«ºÚÁË[m
+[19:23:56] [Server thread/INFO]: Security_Winter >> É­Óï¿ìÈ¥¸ãÏÉÈËÕÆ[m
+[19:23:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[19:24:04] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÎªÉ¶ÌıÄãµÄ[m
+[19:24:23] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÓĞÇÊ³áµÄÄã²»º°[m
+[19:24:25] [Server thread/INFO]: Security_Winter >> ²»¸æËßÄã[m
+[19:24:29] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[19:24:29] [Server thread/INFO]: Ghost_king_ left the game
+[19:24:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º°ÎÒ¸öÃ»ÇÊ³áµÄ[m
+[19:24:34] [Server thread/INFO]: Security_Winter >> ...[m
+[19:24:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ...[m
+[19:24:39] [Server thread/INFO]: Security_Winter >> Õâ¸ö¹·Ôô[m
+[19:24:42] [Server thread/INFO]: Security_Winter >> ²İ[m
+[19:24:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¹·Ôô[m
+[19:24:57] [User Authenticator #69/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[19:24:57] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53215] logged in with entity id 1497030 at ([world_the_end]140.5510392145206, 43.5, -333.28472391137404)
+[19:25:04] [Server thread/INFO]: Security_Winter >> ..[m
+[19:25:34] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ĞèÒª°ïÃ¦²ğÂï[m
+[19:25:37] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> hhhhh[m
+[19:25:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ĞèÒªÏÉÈË°ô[m
+[19:26:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ìÈ¥ÄÃ[m
+[19:26:04] [Server thread/INFO]: Security_Winter >> yes[m
+[19:26:13] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÕâÍæÒâ²»ÊÇ´ó°ÑÂï[m
+[19:26:16] [Server thread/INFO]: Security_Winter >> Ò»¸ö¾ÍºÃ[m
+[19:26:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> µ«Ä©µØÃ»ÓĞ[m
+[19:26:37] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ´ó°×µÄÏÉÈËÕÆ»ú£ºÄÇÎÒ×ß£¿[m
+[19:27:09] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ²İÁ½µÎÑª[m
+[19:27:15] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[19:27:19] [Server thread/INFO]: Security_Winter >> ÄãÄÌÄÌµÄÉ­Óï[m
+[19:27:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÂîÈË[m
+[19:27:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¾Ù±¨ÁË[m
+[19:27:41] [Server thread/INFO]: Security_Winter >> ...[m
+[19:27:46] [Server thread/INFO]: Security_Winter >> ÎÒÊ²Ã´¶¼Ã»¸É[m
+[19:28:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º©º©[m
+[19:28:06] [Server thread/INFO]: Security_Winter >> ¾ÍÕâ[m
+[19:28:31] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> hhhhh[m
+[19:28:36] [Server thread/INFO]: Security_Winter >> sorry[m
+[19:28:47] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 4ÏÂ[m
+[19:28:57] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 4ÏÂÒ»¸öĞ¡°²¶¬[m
+[19:29:10] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÏÂÁË[m
+[19:29:11] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> bye[m
+[19:29:24] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÈ¥1.17ÁË[m
+[19:29:37] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> º©º©°²¶«´ò¼ÜÓÃÁ¬µã[m
+[19:29:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º©º©[m
+[19:29:54] [Server thread/INFO]: Security_Winter >> .[m
+[19:30:01] [Server thread/INFO]: Security_Winter >> Ë­´ò¼ÜÁË[m
+[19:30:06] [Server thread/INFO]: Security_Winter >> ÎÒ¾ÍÏÅ»£Ò»ÏÂËû[m
+[19:30:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> = =[m
+[19:30:10] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÒ»µ¶Äã6µÎÑª[m
+[19:30:14] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²İ[m
+[19:30:16] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¶Ô²»Æğ[m
+[19:30:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ...[m
+[19:30:33] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 2[m
+[19:30:37] [Server thread/INFO]: Security_Winter >> 4[m
+[19:30:50] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÃ»Ëã»ğÑæ¸½¼Ó[m
+[19:31:12] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> É­ÓïºÃÓ²°¡[m
+[19:31:14] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ò»¸«Í·2µÎ[m
+[19:31:19] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÒ»µ¶²Å1µÎÑª[m
+[19:31:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¾ÍÕâ£¿[m
+[19:31:31] [Server thread/INFO]: Security_Winter >> ????[m
+[19:32:01] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »¹ÊÇ¹­ÉËº¦´ó[m
+[19:32:17] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÊÇÄãÃÇÃ»´©ĞØ¼× = =[m
+[19:32:22] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ¼ÇµÃÁ¦Á¿VµÄ¹­Ò»ÏÂÄÜÃëµôÂãÌå[m
+[19:32:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ²»¾Í¶ÔÁË[m
+[19:32:37] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ºÃ°É 1µÎÑª[m
+[19:32:46] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »ğÑæ¸½¼ÓÃ»ÉËº¦[m
+[19:33:29] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÏÂÁËÏÂÁË[m
+[19:33:31] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[19:33:31] [Server thread/INFO]: Ghost_king_ left the game
+[19:33:37] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÏÂÁËÏÂÀ´[m
+[19:33:39] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[19:33:39] [Server thread/INFO]: sen_lv_ling_ left the game
+[19:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[20:25:21] [Server thread/INFO]: Security_Winter issued server command: /qd
+[20:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[21:16:09] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[21:16:09] [Server thread/INFO]: Security_Winter left the game
+[21:16:18] [User Authenticator #70/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[21:16:18] [Server thread/INFO]: Jichen233[/127.0.0.1:53615] logged in with entity id 1507608 at ([world]1315.4015887088012, 63.0, 19.346460465631388)
+[21:16:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@38983e31[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:53608) lost connection: Disconnected
+[21:20:36] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[21:20:52] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[21:20:52] [Server thread/INFO]: Jichen233 left the game
+[21:43:12] [User Authenticator #71/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[21:43:12] [Server thread/INFO]: Jichen233[/127.0.0.1:53703] logged in with entity id 1508328 at ([world]1098.7183533140949, 63.0, -1749.3136998053171)
+[21:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[21:50:44] [Server thread/INFO]: Jichen233 issued server command: /qd
+[21:50:44] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mJichen233 [0;33;22mÄ¿Ç°ÓĞ [0;32;1m2 [0;33;22m¹±Ï×µãÊı[m
+[22:00:06] [User Authenticator #72/INFO]: UUID of player Xcccc is 63bb2a94-5624-441f-82a4-de6bbd70ad8d
+[22:00:06] [Server thread/INFO]: Xcccc[/127.0.0.1:53763] logged in with entity id 1511371 at ([world]-333.0972370045641, 77.0625, -421.0541605519344)
+[22:00:17] [Server thread/INFO]: Jichen233 >> hi[m
+[22:00:36] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[22:00:45] [Server thread/INFO]: Xcccc lost connection: Disconnected
+[22:00:45] [Server thread/INFO]: Xcccc left the game
+[22:13:44] [User Authenticator #73/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[22:13:44] [Server thread/INFO]: Security_Winter[/127.0.0.1:53815] logged in with entity id 1515327 at ([world]2014.188084435291, 73.0, -15.372975639080156)
+[22:13:49] [Server thread/INFO]: Jichen233 >> hi[m
+[22:13:55] [Server thread/INFO]: Security_Winter >> hello[m
+[22:29:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@607098a7[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:53868) lost connection: Disconnected
+[22:30:50] [Server thread/INFO]: Jichen233 lost connection: Timed out
+[22:30:50] [Server thread/INFO]: Jichen233 left the game
+[22:37:26] [User Authenticator #74/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[22:37:26] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:53894] logged in with entity id 1534012 at ([world]1377.5563024549244, 65.5625, -8.334288853207514)
+[22:41:15] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[22:41:15] [Server thread/INFO]: Li_zi_wei left the game
+[22:45:30] [User Authenticator #75/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[22:45:30] [Server thread/INFO]: Jichen233[/127.0.0.1:53926] logged in with entity id 1538565 at ([world_the_end]-7.41012513334817, 0.5, 308.6349848618569)
+[22:47:50] [User Authenticator #76/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[22:47:50] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:53936] logged in with entity id 1539737 at ([world_the_end]96.30000001192093, 28.5, -0.6999999880790697)
+[22:50:14] [Server thread/INFO]: Li_zi_wei fell out of the world
+[22:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[22:53:59] [Server thread/INFO]: Security_Winter >> az[m
+[22:54:15] [Server thread/INFO]: Jichen233 >> ?[m
+[22:54:28] [Server thread/INFO]: Security_Winter >> lzwÄã»¹ºÃÂğ[m
+[22:54:46] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> Ã»ÊÂ[m
+[22:54:55] [Server thread/INFO]: Security_Winter >> ÎÒ¼¸ºõÃ¿´Î¼ûËûÉÏÏß¶¼ÊÇ±ØËÀÒ»´Î¹ş¹ş¹ş[m
+[22:55:01] [Server thread/INFO]: Security_Winter >> ÄªÃû¿ÉÁ¯[m
+[22:55:09] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ¾ÍÒ»Ğ©Ê¯Í·ÄàÍÁ»¹ºÃ[m
+[22:55:14] [Server thread/INFO]: Security_Winter >> az[m
+[22:55:15] [Server thread/INFO]: Jichen233 >> 233[m
+[22:55:16] [Server thread/INFO]: Security_Winter >> lzw[m
+[22:55:19] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ?[m
+[22:55:26] [Server thread/INFO]: Security_Winter >> ÄãÓĞ°ì·¨¸ãºÃË¢É³»úÂï[m
+[22:55:36] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> emm[m
+[22:55:43] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ÎÒºìÊ¯ºÜ²î[m
+[22:56:09] [Server thread/INFO]: Jichen233 >> Ë¢É³»úÔõÃ´ÁË[m
+[22:56:38] [Server thread/INFO]: Security_Winter >> az[m
+[22:56:42] [Server thread/INFO]: Security_Winter >> ²»ÄÜÓÃ¡¯[m
+[22:56:48] [Server thread/INFO]: Security_Winter >> ÓÉÓÚ·şÎñÆ÷ÌØÉ«[m
+[22:56:53] [Server thread/INFO]: Jichen233 >> az[m
+[22:57:52] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ÄãÖªµÀÄÄÓĞË¢Ìú»úÂğ[m
+[22:58:08] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> Ô½¿ìÔ½ºÃµÄÄÇÖÖ([m
+[23:04:12] [Server thread/WARN]: Security_Winter moved too quickly! -1650.1927591604315,16.145106700651638,-233.69218803150673
+[23:04:28] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[23:04:28] [Server thread/INFO]: Security_Winter left the game
+[23:04:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@34fbbf4c[id=<null>,name=Security_Winter,properties={},legacy=false] (/127.0.0.1:53998) lost connection: Disconnected
+[23:04:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@6073fe0d[id=<null>,name=Security_Winter,properties={},legacy=false] (/127.0.0.1:53999) lost connection: Disconnected
+[23:04:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@15abba5a[id=<null>,name=Security_Winter,properties={},legacy=false] (/127.0.0.1:54002) lost connection: Disconnected
+[23:06:46] [User Authenticator #77/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[23:06:46] [Server thread/INFO]: Security_Winter[/127.0.0.1:54010] logged in with entity id 1546854 at ([world_the_end]121.40120545958989, 44.23873861909735, -38.144512133589835)
+[23:19:55] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[23:19:55] [Server thread/INFO]: Security_Winter left the game
+[23:24:25] [Server thread/INFO]: Li_zi_wei tried to swim in lava
+[23:25:12] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[23:25:12] [Server thread/INFO]: Li_zi_wei left the game
+[23:25:13] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[23:25:13] [Server thread/INFO]: Jichen233 left the game
+[23:30:34] [User Authenticator #78/INFO]: UUID of player Ink_Snow is 2a111da9-f9cb-42dc-8ffc-4f295ba4896b
+[23:30:34] [Server thread/INFO]: Ink_Snow[/127.0.0.1:54095] logged in with entity id 1552343 at ([world]1508.5, 160.5625, -1519.5)
+[23:30:36] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[23:30:41] [Server thread/INFO]: Ink_Snow issued server command: /qd
+[23:30:41] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mInk_Snow [0;33;22mÄ¿Ç°ÓĞ [0;32;1m2 [0;33;22m¹±Ï×µãÊı[m
+[23:30:43] [Server thread/INFO]: Ink_Snow issued server command: /p me
+[23:30:45] [Server thread/INFO]: Ink_Snow issued server command: /p lead
+[23:30:52] [Server thread/INFO]: Ink_Snow lost connection: Disconnected
+[23:30:52] [Server thread/INFO]: Ink_Snow left the game
+[23:50:36] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m

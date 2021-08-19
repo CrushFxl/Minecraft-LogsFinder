@@ -1,0 +1,1701 @@
+[00:01:03] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[00:01:03] [Server thread/INFO]: Mr_director left the game
+[00:04:13] [User Authenticator #337/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[00:04:13] [Server thread/INFO]: Mr_director[/127.0.0.1:55827] logged in with entity id 1879965 at ([world_nether]188.49859340249412, 40.875, 907.2145924125169)
+[00:27:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@20aada0c[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:55986): Took too long to log in
+[00:27:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@20aada0c[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:55986) lost connection: Took too long to log in
+[00:28:00] [User Authenticator #338/INFO]: Disconnecting com.mojang.authlib.GameProfile@20aada0c[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:55986): Authentication servers are down. Please try again later, sorry!
+[00:28:00] [User Authenticator #338/ERROR]: Couldn't verify username because servers are unavailable
+[00:28:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@312f40a6[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:55997): Took too long to log in
+[00:28:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@312f40a6[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:55997) lost connection: Took too long to log in
+[00:28:19] [User Authenticator #339/INFO]: Disconnecting com.mojang.authlib.GameProfile@312f40a6[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:55997): Authentication servers are down. Please try again later, sorry!
+[00:28:19] [User Authenticator #339/ERROR]: Couldn't verify username because servers are unavailable
+[00:28:22] [User Authenticator #340/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[00:28:22] [Server thread/INFO]: adhesive_tape[/127.0.0.1:56004] logged in with entity id 1882092 at ([world_nether]198.05192862779816, 32.5, 890.697510994655)
+[00:29:12] [Server thread/INFO]: Mr_director issued server command: ///
+[00:29:15] [Server thread/INFO]: Mr_director >> ???[m
+[00:29:26] [Server thread/INFO]: Mr_director >> ²îÒ»¸öÁ½×éÍ·[m
+[00:32:48] [Server thread/INFO]: adhesive_tape >> Õ¦ÁË[m
+[00:32:51] [Server thread/INFO]: Mr_director >> À§[m
+[00:32:52] [Server thread/INFO]: Mr_director >> ÁïÁË[m
+[00:32:54] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[00:32:54] [Server thread/INFO]: Mr_director left the game
+[00:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[01:05:37] [User Authenticator #341/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[01:05:37] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:56260] logged in with entity id 1883878 at ([world]1924.4439710172524, 67.5, 5923.358730828354)
+[01:29:03] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[01:29:03] [Server thread/INFO]: Ttu_nnm left the game
+[01:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[02:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[03:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[04:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[04:44:44] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[04:44:44] [Server thread/INFO]: adhesive_tape left the game
+[05:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[06:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[07:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[08:23:07] [User Authenticator #342/INFO]: UUID of player ItsFmencenaryC is ee66c593-3d27-4832-911d-b569dd50102f
+[08:23:07] [Server thread/INFO]: ItsFmencenaryC[/127.0.0.1:59247] logged in with entity id 1890800 at ([world]5138.256274307196, 65.0, 193.9349635870476)
+[08:27:36] [Server thread/WARN]: ItsFmencenaryC was kicked for floating too long!
+[08:27:36] [Server thread/INFO]: ItsFmencenaryC lost connection: Flying is not enabled on this server
+[08:27:36] [Server thread/INFO]: ItsFmencenaryC left the game
+[08:28:02] [User Authenticator #343/INFO]: UUID of player ItsFmencenaryC is ee66c593-3d27-4832-911d-b569dd50102f
+[08:28:02] [Server thread/INFO]: ItsFmencenaryC[/127.0.0.1:59284] logged in with entity id 1891909 at ([world]5184.485614259016, 64.89999999850988, 217.15742167051405)
+[08:39:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[08:39:46] [Server thread/INFO]: ItsFmencenaryC >> az[m
+[08:45:57] [Server thread/INFO]: ItsFmencenaryC lost connection: Disconnected
+[08:45:57] [Server thread/INFO]: ItsFmencenaryC left the game
+[08:46:21] [User Authenticator #344/INFO]: UUID of player ItsFmencenaryC is ee66c593-3d27-4832-911d-b569dd50102f
+[08:46:21] [Server thread/INFO]: ItsFmencenaryC[/127.0.0.1:59418] logged in with entity id 1895419 at ([world]5186.0233629230215, 64.0, 178.96315577794883)
+[08:46:28] [Server thread/INFO]: ItsFmencenaryC lost connection: Disconnected
+[08:46:28] [Server thread/INFO]: ItsFmencenaryC left the game
+[08:46:39] [User Authenticator #345/INFO]: UUID of player ItsFmencenaryC is ee66c593-3d27-4832-911d-b569dd50102f
+[08:46:39] [Server thread/INFO]: ItsFmencenaryC[/127.0.0.1:59423] logged in with entity id 1896163 at ([world]5186.0233629230215, 64.0, 178.96315577794883)
+[08:48:36] [Server thread/INFO]: ItsFmencenaryC lost connection: Disconnected
+[08:48:36] [Server thread/INFO]: ItsFmencenaryC left the game
+[08:54:37] [User Authenticator #346/INFO]: UUID of player pinkmilk is 591b69f1-5eb9-490b-900c-04516907dc49
+[08:54:37] [Server thread/INFO]: pinkmilk[/127.0.0.1:59477] logged in with entity id 1897067 at ([world_nether]981.4623405852826, 57.0, -197.56724569305337)
+[08:55:56] [Server thread/INFO]: pinkmilk issued server command: /co i
+[08:56:07] [Server thread/INFO]: pinkmilk issued server command: /co i
+[08:57:25] [Server thread/INFO]: pinkmilk lost connection: Disconnected
+[08:57:25] [Server thread/INFO]: pinkmilk left the game
+[09:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[10:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[10:46:47] [User Authenticator #347/INFO]: UUID of player CoazMoxuan is 0663fe30-2c50-4040-a4cf-e9628fc8822f
+[10:46:47] [Server thread/INFO]: CoazMoxuan[/127.0.0.1:60263] logged in with entity id 1897337 at ([world]-105.5, 63.0, 183.5)
+[10:49:18] [Server thread/INFO]: CoazMoxuan has made the advancement [A Seedy Place]
+[10:49:38] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[11:01:54] [User Authenticator #348/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[11:01:54] [Server thread/INFO]: Twilight2033[/127.0.0.1:60367] logged in with entity id 1899309 at ([world_nether]780.1952085083943, 34.0, -67.02176844258823)
+[11:01:59] [Server thread/INFO]: CoazMoxuan >> hello[m
+[11:02:19] [Server thread/INFO]: Twilight2033 >> Ã»ÈËÁËÂğ[m
+[11:02:27] [Server thread/INFO]: CoazMoxuan >> Ã»[m
+[11:02:34] [Server thread/INFO]: CoazMoxuan >> ¶¼¿ªÑ§ÁË[m
+[11:02:46] [Server thread/INFO]: Twilight2033 >> ÄãÊÇĞÂÈËÂğ[m
+[11:02:46] [Server thread/INFO]: CoazMoxuan >> ¸ßÖĞÒÔÉÏµÄ[m
+[11:02:54] [Server thread/INFO]: CoazMoxuan >> ÊÇµÄ[m
+[11:03:11] [Server thread/INFO]: Twilight2033 >> ÎÒÒ²ÊÇ¸ßÖĞµÄµ«ÊÇÎÒÔÚ³åËş[m
+[11:03:20] [Server thread/INFO]: Twilight2033 >> ½»´úµãºóÊÂ[m
+[11:03:24] [Server thread/INFO]: CoazMoxuan >> ÎÒ³õÈı[m
+[11:03:43] [Server thread/INFO]: CoazMoxuan has made the advancement [We Need to Go Deeper]
+[11:04:15] [Server thread/INFO]: CoazMoxuan >> ÄãÔÚÄÄ¶ù[m
+[11:04:30] [Server thread/INFO]: CoazMoxuan issued server command: /co i
+[11:04:36] [Server thread/INFO]: Twilight2033 >> ×Ï¾§Õò[m
+[11:04:41] [Server thread/INFO]: CoazMoxuan issued server command: /co i
+[11:04:57] [Server thread/INFO]: CoazMoxuan >> Õ¦×ß[m
+[11:05:15] [User Authenticator #349/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[11:05:15] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:60391] logged in with entity id 1900413 at ([world]1922.1699366810378, 73.0, 5916.2983575379185)
+[11:05:19] [Server thread/INFO]: Twilight2033 >> ¿´Â·±ê[m
+[11:08:39] [User Authenticator #350/INFO]: UUID of player pinkmilk is 591b69f1-5eb9-490b-900c-04516907dc49
+[11:08:39] [Server thread/INFO]: pinkmilk[/127.0.0.1:60414] logged in with entity id 1901649 at ([world_nether]989.5, 52.0, -194.84676772949297)
+[11:08:45] [Server thread/INFO]: pinkmilk lost connection: Disconnected
+[11:08:45] [Server thread/INFO]: pinkmilk left the game
+[11:08:56] [User Authenticator #351/INFO]: UUID of player pinkmilk is 591b69f1-5eb9-490b-900c-04516907dc49
+[11:08:56] [Server thread/INFO]: pinkmilk[/127.0.0.1:60418] logged in with entity id 1901745 at ([world_nether]989.5, 52.0, -194.84676772949297)
+[11:09:33] [Server thread/INFO]: pinkmilk lost connection: Disconnected
+[11:09:33] [Server thread/INFO]: pinkmilk left the game
+[11:12:09] [Server thread/INFO]: CoazMoxuan issued server command: /co i
+[11:12:26] [Server thread/INFO]: CoazMoxuan issued server command: /co i
+[11:15:51] [Server thread/INFO]: CoazMoxuan has made the advancement [Eye Spy]
+[11:19:07] [Server thread/INFO]: Villager EntityVillager['Villager'/1900091, l='ServerLevel[world]', x=5263.84, y=73.47, z=299.36] died, message: 'Villager was squished too much'
+[11:20:08] [Server thread/INFO]: Villager EntityVillager['Villager'/1900072, l='ServerLevel[world]', x=5263.30, y=73.19, z=299.30] died, message: 'Villager was squished too much'
+[11:23:16] [Server thread/WARN]: Twilight2033 moved wrongly!
+[11:23:56] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[11:23:56] [Server thread/INFO]: Twilight2033 left the game
+[11:24:25] [Server thread/INFO]: CoazMoxuan >> t[m
+[11:25:19] [Server thread/INFO]: Ttu_nnm fell from a high place
+[11:28:44] [Server thread/INFO]: CoazMoxuan >> hello[m
+[11:29:11] [Server thread/INFO]: Ttu_nnm >> hello[m
+[11:29:24] [Server thread/INFO]: CoazMoxuan >> ÄãÔÚÄÄÀï[m
+[11:29:33] [Server thread/INFO]: Ttu_nnm >> Éºº÷º£[m
+[11:30:00] [Server thread/INFO]: Ttu_nnm >> 1922 69 5922[m
+[11:30:14] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[11:30:14] [Server thread/INFO]: Ttu_nnm left the game
+[11:34:03] [Server thread/INFO]: CoazMoxuan was slain by Zombie
+[11:34:27] [Server thread/INFO]: CoazMoxuan lost connection: Disconnected
+[11:34:27] [Server thread/INFO]: CoazMoxuan left the game
+[11:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[11:49:00] [User Authenticator #352/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[11:49:00] [Server thread/INFO]: adhesive_tape[/127.0.0.1:60702] logged in with entity id 1907582 at ([world_nether]197.45284577822702, 32.5, 897.3000000119209)
+[11:51:18] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6b6c856d[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:60718): Took too long to log in
+[11:51:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@6b6c856d[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:60718) lost connection: Took too long to log in
+[11:51:24] [User Authenticator #353/INFO]: Disconnecting com.mojang.authlib.GameProfile@6b6c856d[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:60718): Authentication servers are down. Please try again later, sorry!
+[11:51:24] [User Authenticator #353/ERROR]: Couldn't verify username because servers are unavailable
+[11:51:34] [User Authenticator #354/INFO]: UUID of player ItsFmencenaryC is ee66c593-3d27-4832-911d-b569dd50102f
+[11:51:34] [Server thread/INFO]: ItsFmencenaryC[/127.0.0.1:60725] logged in with entity id 1907704 at ([world]5153.911639811766, 64.0, 214.39115661762105)
+[11:52:35] [Server thread/INFO]: ItsFmencenaryC >> tapeÄãÄÄ¸öÕòµÄ£¨[m
+[11:52:43] [Server thread/INFO]: adhesive_tape >> º£¾§[m
+[11:52:49] [Server thread/INFO]: ItsFmencenaryC >> o[m
+[11:53:12] [Server thread/INFO]: ItsFmencenaryC >> ¹ûÈ»£¬º£¾§Ò»¶Ñ´óÀĞ[m
+[12:05:34] [Server thread/INFO]: ItsFmencenaryC >> ÍæÁË8±²×ÓµÄÎÒ¶¼²»ÏşµÃº£¾§ÔÚÄÄÀï£¨[m
+[12:15:44] [Server thread/INFO]: ItsFmencenaryC lost connection: Disconnected
+[12:15:44] [Server thread/INFO]: ItsFmencenaryC left the game
+[12:17:42] [User Authenticator #355/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[12:17:42] [Server thread/INFO]: Dong_Miing[/127.0.0.1:60922] logged in with entity id 1912903 at ([world]7792.990345616703, 70.0, -1966.9812412432457)
+[12:17:57] [Server thread/INFO]: Dong_Miing >> ohhhhhhh[m
+[12:18:04] [Server thread/INFO]: Dong_Miing >> ÓĞÉúÖ®Äê[m
+[12:18:32] [Server thread/INFO]: Dong_Miing >> ÎÒ³¾Ä©Õß»¹ÄÜÀ´Ğ¡ãöµÄ·şÎñÆ÷Íæ[m
+[12:18:34] [Server thread/INFO]: Dong_Miing >> ÀáÄ¿[m
+[12:18:50] [Server thread/INFO]: adhesive_tape >> ºÃºÃÕäÏ§[m
+[12:19:02] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[12:19:04] [Server thread/INFO]: Dong_Miing >> en[m
+[12:19:08] [Server thread/INFO]: Dong_Miing >> ¾ÍÊÇ¡£¡£¡£[m
+[12:19:15] [Server thread/INFO]: Dong_Miing >> ÎÒ²»ÖªµÀÎÒÏÖÔÚÔÚÄÄ¡£¡£¡£[m
+[12:19:48] [Server thread/INFO]: Dong_Miing >> ºÃÏñÊÇÓãËş[m
+[12:20:07] [Server thread/INFO]: adhesive_tape >> ³Ô¸ö·¹[m
+[12:20:11] [Server thread/INFO]: Dong_Miing >> 886[m
+[12:21:47] [Server thread/INFO]: Dong_Miing >> 1.16.2µÄÓÅ»¯ÕæµÄ²»´í[m
+[12:21:55] [Server thread/INFO]: Dong_Miing >> ¸Ğ¾õ±È1.15.2»¹ºÃ[m
+[12:24:57] [Server thread/INFO]: Dong_Miing has made the advancement [Eye Spy]
+[12:25:15] [Server thread/INFO]: Dong_Miing has made the advancement [The End?]
+[12:26:56] [Server thread/INFO]: Dong_Miing lost connection: Disconnected
+[12:26:56] [Server thread/INFO]: Dong_Miing left the game
+[12:27:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b50c331[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:60985) lost connection: Disconnected
+[12:27:24] [User Authenticator #356/INFO]: Disconnecting com.mojang.authlib.GameProfile@2b50c331[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:60985): Authentication servers are down. Please try again later, sorry!
+[12:27:24] [User Authenticator #356/ERROR]: Couldn't verify username because servers are unavailable
+[12:27:29] [User Authenticator #357/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[12:27:29] [Server thread/INFO]: Dong_Miing[/127.0.0.1:60991] logged in with entity id 1914555 at ([world_the_end]-0.8813783110255802, 60.20131480518926, -1.9733832524483397)
+[12:27:52] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+[12:28:22] [Server thread/INFO]: Dong_Miing >> º£¾§£¡£¡£¡ÎÒ»ØÀ´ÁË£¡£¡£¡[m
+[12:28:30] [Server thread/INFO]: Dong_Miing >> [ÀáÄ¿][m
+[12:29:16] [Server thread/INFO]: Dong_Miing has made the advancement [Acquire Hardware]
+[12:29:16] [Server thread/INFO]: Dong_Miing has made the advancement [Ice Bucket Challenge]
+[12:29:16] [Server thread/INFO]: Dong_Miing has made the advancement [Isn't It Iron Pick]
+[12:31:24] [Server thread/INFO]: Dong_Miing has made the advancement [Ol' Betsy]
+[12:31:45] [Server thread/INFO]: Dong_Miing has made the advancement [Take Aim]
+[12:33:17] [Server thread/INFO]: Dong_Miing lost connection: Disconnected
+[12:33:17] [Server thread/INFO]: Dong_Miing left the game
+[12:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[12:40:12] [User Authenticator #358/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[12:40:13] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:61092] logged in with entity id 1915575 at ([world_nether]974.8652599398204, 59.0, -242.24589462269225)
+[12:44:07] [User Authenticator #359/INFO]: Disconnecting com.mojang.authlib.GameProfile@783dee97[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:61119): Authentication servers are down. Please try again later, sorry!
+[12:44:07] [User Authenticator #359/ERROR]: Couldn't verify username because servers are unavailable
+[12:44:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@783dee97[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:61119) lost connection: Authentication servers are down. Please try again later, sorry!
+[12:44:33] [User Authenticator #360/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[12:44:33] [Server thread/INFO]: Dong_Miing[/127.0.0.1:61129] logged in with entity id 1915820 at ([world]2701.699999988079, 59.0, -299.8911161347188)
+[12:46:59] [Server thread/INFO]: Dong_Miing fell from a high place
+[12:47:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@ad768e5[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:61152) lost connection: Disconnected
+[12:47:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@71a3715c[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:61153) lost connection: Disconnected
+[12:47:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@1020510e[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:61157) lost connection: Disconnected
+[12:47:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a937cdf[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:61159) lost connection: Disconnected
+[12:47:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@2fc0e79f[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:61166) lost connection: Disconnected
+[12:47:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@51f34f06[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:61170) lost connection: Disconnected
+[12:48:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@79d3fa65[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:61175) lost connection: Disconnected
+[12:52:23] [Server thread/INFO]: Dong_Miing was slain by Piglin
+[12:53:46] [User Authenticator #361/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[12:53:46] [Server thread/INFO]: Block_linyi[/127.0.0.1:61215] logged in with entity id 1917784 at ([world]2443.699999988079, 70.0, -547.99055206259)
+[13:00:32] [Server thread/WARN]: Dong_Miing moved too quickly! 14.98851759608334,0.0,0.0022745818272937868
+[13:03:38] [Server thread/INFO]: Block_linyi >> adhesive_tape[m
+[13:03:42] [Server thread/INFO]: Block_linyi >> ÄãÒ²ÔÚÕâÀï[m
+[13:03:43] [Server thread/INFO]: adhesive_tape >> e[m
+[13:03:51] [Server thread/INFO]: _YuanXiao_ >> hi[m
+[13:04:00] [Server thread/INFO]: Block_linyi >> Ë¢ÎïÆ·¿ÉÒÔµÄ[m
+[13:04:02] [Server thread/INFO]: Block_linyi >> ÎÒÊÔ¹ıÁË[m
+[13:04:06] [Server thread/INFO]: adhesive_tape >> en[m
+[13:04:15] [Server thread/INFO]: Block_linyi >> ÇÊ³á2·­4[m
+[13:04:26] [Server thread/INFO]: adhesive_tape >> Ò»ºĞ·­[m
+[13:04:31] [Server thread/INFO]: _YuanXiao_ >> ???[m
+[13:04:35] [Server thread/INFO]: _YuanXiao_ >> É¶ÒâË¼[m
+[13:05:25] [Server thread/INFO]: _YuanXiao_ >> Block_linyiÊ²Ã´¶«Î÷[m
+[13:05:32] [Server thread/INFO]: Block_linyi >> Ë¢ÎïÆ·[m
+[13:05:37] [Server thread/INFO]: _YuanXiao_ >> Õ¦Ë¢[m
+[13:05:37] [Server thread/INFO]: Block_linyi >> ²Å±¬³öÀ´µÄ[m
+[13:05:47] [Server thread/INFO]: Block_linyi >> ½¨ÒéÈ¥¿´ºÚÉ½´óÊåÊÓÆµ[m
+[13:05:57] [Server thread/INFO]: _YuanXiao_ >> ÎÒ¿´ÁË[m
+[13:06:31] [Server thread/INFO]: _YuanXiao_ >> ¾ÍÊÇÄÇ¸öĞ¡ÖíÁéµÄ£¿[m
+[13:06:34] [Server thread/INFO]: Block_linyi >> en[m
+[13:06:41] [Server thread/INFO]: _YuanXiao_ >> ÄãÃÇÔÚÄÄ[m
+[13:06:46] [Server thread/INFO]: _YuanXiao_ >> ÎÒÒ²ÒªË¢[m
+[13:06:50] [Server thread/INFO]: Block_linyi >> ç³ºìÉ­ÁÖ[m
+[13:06:50] [Server thread/INFO]: _YuanXiao_ >> awa[m
+[13:06:57] [Server thread/INFO]: _YuanXiao_ >> ×ø±ê[m
+[13:07:04] [Server thread/INFO]: Block_linyi >> -1000 1400[m
+[13:07:45] [Server thread/INFO]: _YuanXiao_ >> µÈÎÒ°Ñº£¾§Ê¯×©ÅªºÃ¾ÍÀ´[m
+[13:07:58] [Server thread/INFO]: _YuanXiao_ >> ¸ÕºÃ´øÁËºĞ×Ó[m
+[13:08:06] [Server thread/INFO]: _YuanXiao_ >> ÄãÃÇÒªÂğ[m
+[13:08:22] [Server thread/INFO]: _YuanXiao_ >> ÎÒÓĞ4¸öÇ±Ó°ºĞ[m
+[13:08:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@239b380[id=<null>,name=Xcccc,properties={},legacy=false] (/127.0.0.1:61320) lost connection: Disconnected
+[13:08:27] [User Authenticator #362/INFO]: UUID of player Xcccc is 63bb2a94-5624-441f-82a4-de6bbd70ad8d
+[13:08:27] [Server thread/INFO]: Xcccc[/127.0.0.1:61322] logged in with entity id 1922758 at ([world]-314.700000025332, 75.0000002, -290.700000025332)
+[13:08:31] [Server thread/INFO]: Block_linyi >> ÎÒ´øÁËÒ»ºĞ×ÓµÄ×ÊÔ´[m
+[13:08:35] [Server thread/INFO]: _YuanXiao_ >> ...[m
+[13:08:45] [Server thread/INFO]: _YuanXiao_ >> ÎÒ¾ÍÅªµãÇÊ³á¾ÍĞĞ[m
+[13:09:05] [Server thread/INFO]: Block_linyi >> ÎÒË¢Ç±Ó°¿ÇºÍÇÊ³á[m
+[13:09:19] [Server thread/INFO]: adhesive_tape >> ÎÒË¢ÏÂ½ìºÏ½ğ¿ì[m
+[13:09:24] [Server thread/INFO]: _YuanXiao_ >> Xcccc²»»á¸æÃÜ£¿[m
+[13:09:38] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[13:09:52] [Server thread/INFO]: Block_linyi >> Ë¢Îï×ÊÓĞÉ¶[m
+[13:10:00] [Server thread/INFO]: _YuanXiao_ >> hhh[m
+[13:10:30] [Server thread/INFO]: adhesive_tape >> ²î²»¶àÁË[m
+[13:10:32] [Server thread/INFO]: adhesive_tape >> ÏÈÕâÑù[m
+[13:10:42] [Server thread/INFO]: adhesive_tape >> ÎÒ°Ñº£¾§´óÃÅ×°ºÃ[m
+[13:10:46] [Server thread/INFO]: _YuanXiao_ >> ÎÒ¾ÍÅª¸ö¼¸ºĞ¾Í¹»ÁË[m
+[13:11:01] [Server thread/INFO]: adhesive_tape >> ÑÌ»¨¶à¸ã¼¸ºĞ[m
+[13:11:10] [Server thread/INFO]: _YuanXiao_ >> ¶Ô[m
+[13:11:15] [Server thread/INFO]: Block_linyi >> Ó¦¸Ã¸ã»ğÒ©[m
+[13:11:20] [Server thread/INFO]: _YuanXiao_ >> en[m
+[13:11:35] [Server thread/INFO]: _YuanXiao_ >> ÑÌ»¨Åªµ½ÁË·ÖÄãÃÇ¼¸ºĞ[m
+[13:12:08] [Server thread/INFO]: adhesive_tape >> Ç±Ó°¿ÇÎÒ¸ãÁË²î²»¶à2ºĞ[m
+[13:12:21] [Server thread/INFO]: _YuanXiao_ >> ÎÒÒÔÎªhsdsÍæµÄ²âÊÔ°æ£¬¾ÍÃ»ÊÔ[m
+[13:12:45] [Server thread/INFO]: Xcccc lost connection: Disconnected
+[13:12:45] [Server thread/INFO]: Xcccc left the game
+[13:12:53] [Server thread/INFO]: _YuanXiao_ >> Èı²æêªÒ²À´µã[m
+[13:13:07] [Server thread/INFO]: _YuanXiao_ >> ÎÒÏÈ×°Ïä[m
+[13:14:31] [Server thread/INFO]: _YuanXiao_ >> md£¬ÓãËşĞ§ÂÊ¸ĞÈËqwq[m
+[13:16:21] [Server thread/INFO]: Block_linyi >> ²İ[m
+[13:16:26] [Server thread/INFO]: _YuanXiao_ >> Õ¦À²[m
+[13:16:28] [Server thread/INFO]: Block_linyi >> ÎÒ°ÑÖíÁé´òËÀÁË[m
+[13:16:32] [Server thread/INFO]: _YuanXiao_ >> ...[m
+[13:16:38] [Server thread/INFO]: _YuanXiao_ >> hhhc[m
+[13:20:40] [Server thread/INFO]: _YuanXiao_ >> °¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡[m
+[13:24:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@42b736bd[id=<null>,name=HGhigh,properties={},legacy=false] (/127.0.0.1:61449) lost connection: Disconnected
+[13:25:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b2fc6a8[id=<null>,name=HGhigh,properties={},legacy=false] (/127.0.0.1:61457) lost connection: Disconnected
+[13:25:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@1e7743e8[id=<null>,name=HGhigh,properties={},legacy=false] (/127.0.0.1:61463) lost connection: Disconnected
+[13:25:45] [Server thread/INFO]: _YuanXiao_ >> ohhhhhhhh[m
+[13:26:52] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[13:26:52] [Server thread/INFO]: adhesive_tape left the game
+[13:27:31] [Server thread/INFO]: _YuanXiao_ >> -1000 1400[m
+[13:29:48] [Server thread/INFO]: Block_linyi >> Ì«Ë¬ÁË[m
+[13:29:53] [Server thread/INFO]: _YuanXiao_ >> µÈÎÒ°¡[m
+[13:30:29] [Server thread/INFO]: Dong_Miing lost connection: Disconnected
+[13:30:29] [Server thread/INFO]: Dong_Miing left the game
+[13:32:45] [Server thread/INFO]: _YuanXiao_ tried to swim in lava
+[13:33:04] [Server thread/INFO]: _YuanXiao_ >> Block_linyiÄãÓĞ×°±¸Âğ[m
+[13:33:08] [Server thread/INFO]: Block_linyi >> you[m
+[13:33:23] [Server thread/INFO]: _YuanXiao_ >> Ë¢ÁËÄÇÃ´¶à£¬·ÖÎÒÒ»µãßÂ[m
+[13:33:34] [Server thread/INFO]: Block_linyi >> ÂíÉÏ[m
+[13:33:50] [Server thread/INFO]: _YuanXiao_ >> ÍüÁËÄÃ¿¹»ğqwq[m
+[13:34:20] [Server thread/INFO]: _YuanXiao_ >> µÈÏÂÄãÏÈ±ğË¢[m
+[13:34:29] [Server thread/INFO]: _YuanXiao_ >> ÎÒtp¹ıÈ¥[m
+[13:34:41] [Server thread/INFO]: _YuanXiao_ >> È»ºóÈÃlhj½â³ıÅÔ¹ÛÕß[m
+[13:34:49] [Server thread/INFO]: _YuanXiao_ issued server command: /px mode
+[13:34:54] [Server thread/INFO]: _YuanXiao_ has completed the challenge [Hot Tourist Destinations]
+[13:35:19] [Server thread/INFO]: _YuanXiao_ >> ÄãÈÃÎÒ¿´¿´ÓĞÉ¶[m
+[13:35:26] [Server thread/INFO]: _YuanXiao_ >> ÄãÅªÁËÉ³[m
+[13:35:41] [Server thread/INFO]: _YuanXiao_ >> °ÑÇ±Ó°ºĞ·ÅµØÉÏ[m
+[13:35:56] [Server thread/INFO]: _YuanXiao_ >> 6[m
+[13:36:00] [Server thread/INFO]: _YuanXiao_ >> t[m
+[13:36:00] [Server thread/INFO]: _YuanXiao_ >> tt[m
+[13:36:01] [Server thread/INFO]: _YuanXiao_ >> t[m
+[13:36:03] [Server thread/INFO]: _YuanXiao_ >> t[m
+[13:36:04] [Server thread/INFO]: _YuanXiao_ >> t[m
+[13:36:04] [Server thread/INFO]: _YuanXiao_ >> t[m
+[13:36:05] [Server thread/INFO]: _YuanXiao_ >> t[m
+[13:36:53] [Server thread/INFO]: _YuanXiao_ issued server command: /px off
+[13:37:00] [Server thread/INFO]: _YuanXiao_ issued server command: /px mode
+[13:37:36] [Server thread/INFO]: _YuanXiao_ >> nb[m
+[13:38:03] [Server thread/INFO]: _YuanXiao_ >> Ö±½ÓÑóÁË[m
+[13:38:32] [Server thread/INFO]: Block_linyi >> e[m
+[13:38:39] [Server thread/INFO]: _YuanXiao_ >> ??[m
+[13:39:04] [Server thread/INFO]: _YuanXiao_ >> ¸½ÉíÁË[m
+[13:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[13:40:05] [Server thread/INFO]: Block_linyi >> ÓÖÃ»Ë¢µ½[m
+[13:40:10] [Server thread/INFO]: _YuanXiao_ >> HHH[m
+[13:40:18] [Server thread/INFO]: _YuanXiao_ >> Õı³£[m
+[13:40:38] [Server thread/INFO]: _YuanXiao_ >> ÄãÏÈ²»¸øËû¶«Î÷[m
+[13:40:48] [Server thread/INFO]: _YuanXiao_ >> ÄãÄÜÒ»µÀ¿³ËÀÂğ[m
+[13:40:54] [Server thread/INFO]: _YuanXiao_ >> ËûÂúÑª[m
+[13:41:16] [Server thread/INFO]: Block_linyi >> ÎÒÒ»°ãÊÇ¸ä×Ó¿³Ò»µ¶£¬½£¿³Ò»µ¶[m
+[13:41:29] [Server thread/INFO]: _YuanXiao_ >> ½£²»ÄÜÒ»µ¶¿³ËÀ£¿[m
+[13:41:32] [Server thread/INFO]: Block_linyi >> en[m
+[13:41:56] [Server thread/INFO]: _YuanXiao_ >> Äã½£ÓĞ»ğÑæ¸½¼ÓÂğ[m
+[13:42:00] [Server thread/INFO]: Block_linyi >> mei[m
+[13:42:13] [Server thread/INFO]: _YuanXiao_ >> ÄÃÄãÏÈ²»¸øËû¶«Î÷[m
+[13:42:27] [Server thread/INFO]: _YuanXiao_ >> ÏÈ¿³Ò»ÏÂ[m
+[13:42:32] [Server thread/INFO]: _YuanXiao_ >> ÔÙ¸øËû°¡[m
+[13:42:37] [Server thread/INFO]: Block_linyi >> ÎÒ¾ÍÊÇÕâÑùµÄ[m
+[13:42:38] [Server thread/INFO]: _YuanXiao_ >> ÔÙ¿³°¡[m
+[13:42:49] [Server thread/WARN]: _YuanXiao_ moved too quickly! -8.374376751879026,-3.419999986886978,-5.395682961083139
+[13:42:49] [Server thread/WARN]: _YuanXiao_ moved too quickly! -8.893964296177728,-4.024424088213692,-5.856600788945343
+[13:42:49] [Server thread/WARN]: _YuanXiao_ moved too quickly! -8.949272459118106,-4.0,-6.248074732229497
+[13:42:49] [Server thread/WARN]: _YuanXiao_ moved too quickly! -8.968168664981931,-4.0,-6.462869363431082
+[13:42:49] [Server thread/WARN]: _YuanXiao_ moved too quickly! -8.991737648204548,-4.0,-6.655367047766731
+[13:42:50] [Server thread/WARN]: _YuanXiao_ moved too quickly! -9.0,-4.0,-7.0390149341044435
+[13:42:50] [Server thread/WARN]: _YuanXiao_ moved too quickly! -9.0,-4.0,-7.072877715122559
+[13:42:50] [Server thread/WARN]: _YuanXiao_ moved too quickly! -8.977466016769881,-4.0,-7.202347834801458
+[13:42:50] [Server thread/WARN]: _YuanXiao_ moved too quickly! -9.008757389541415,-4.0,-7.538980070303978
+[13:42:50] [Server thread/WARN]: _YuanXiao_ moved too quickly! -9.296626715834691,-4.0,-7.928147662180436
+[13:42:50] [Server thread/WARN]: _YuanXiao_ moved too quickly! -9.75699267539062,-4.0,-8.052594507810909
+[13:42:50] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.021118513220472,-5.001335979112142,-8.04320314607412
+[13:42:50] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.130354403299748,-5.249187078744683,-8.05422024309064
+[13:42:50] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.189525656969181,-5.252203340253729,-8.05422024309064
+[13:42:50] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.292371217348204,-5.024424088213692,-8.05422024309064
+[13:42:51] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.377537630806955,-5.0,-8.05422024309064
+[13:42:51] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.41178905155516,-5.0,-8.05422024309064
+[13:42:51] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.41178905155516,-5.0,-8.05422024309064
+[13:42:51] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.41178905155516,-5.0,-8.05422024309064
+[13:42:51] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.41178905155516,-5.0,-8.05422024309064
+[13:42:51] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.41178905155516,-5.0,-8.05422024309064
+[13:42:51] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.41178905155516,-5.0,-8.05422024309064
+[13:42:51] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.41178905155516,-5.0,-8.05422024309064
+[13:42:51] [Server thread/WARN]: _YuanXiao_ moved too quickly! -10.41178905155516,-5.0,-8.05422024309064
+[13:42:52] [Server thread/WARN]: _YuanXiao_ moved too quickly! -11.120907108713482,-6.001335979112142,-7.892902052699128
+[13:42:52] [Server thread/WARN]: _YuanXiao_ moved too quickly! -11.51213994421471,-6.249187078744683,-7.91195790645429
+[13:42:52] [Server thread/WARN]: _YuanXiao_ moved too quickly! -11.882987933977233,-6.176759275064242,-8.00794022436412
+[13:42:52] [Server thread/WARN]: _YuanXiao_ moved too quickly! -12.0,-6.0,-8.110537494148048
+[13:42:52] [Server thread/WARN]: _YuanXiao_ moved too quickly! -12.0,-6.0,-8.15501958987511
+[13:42:52] [Server thread/WARN]: _YuanXiao_ moved too quickly! -12.0,-6.0,-8.192567644493465
+[13:42:52] [Server thread/WARN]: _YuanXiao_ moved too quickly! -11.90769385027204,-6.0,-8.437725296050075
+[13:42:53] [Server thread/WARN]: _YuanXiao_ moved too quickly! -11.591781650768894,-6.0,-9.237125197292244
+[13:42:53] [Server thread/WARN]: _YuanXiao_ moved too quickly! -11.296603911643842,-5.921599998474122,-10.006460332655479
+[13:42:53] [Server thread/WARN]: _YuanXiao_ moved too quickly! -11.3471307510506,-6.001335979112142,-9.976083101806807
+[13:42:54] [Server thread/WARN]: _YuanXiao_ moved too quickly! -11.376460127361725,-6.753199980521202,-9.221665946088478
+[13:42:54] [Server thread/WARN]: _YuanXiao_ moved too quickly! -12.0,-6.121296840539202,-8.078755246163155
+[13:42:55] [Server thread/WARN]: _YuanXiao_ moved too quickly! -12.318135832177063,-7.176759275064242,-8.159255837626233
+[13:42:56] [Server thread/WARN]: _YuanXiao_ moved too quickly! -15.0,-8.0,-9.309505777195682
+[13:42:56] [Server thread/WARN]: _YuanXiao_ moved too quickly! -15.0,-8.0,-9.194059939504086
+[13:42:56] [Server thread/WARN]: _YuanXiao_ moved too quickly! -14.659214706233684,-8.419999986886978,-7.099561940525518
+[13:43:34] [Server thread/INFO]: Block_linyi >> nice[m
+[13:44:46] [Server thread/INFO]: _YuanXiao_ >> ÂéÁË[m
+[13:44:52] [Server thread/INFO]: _YuanXiao_ >> ÀÏ»¬»ü²»ÀíÎÒ[m
+[13:45:08] [Server thread/INFO]: Block_linyi >> ¿ÉÒÔ×Ô¼ºÇĞ»ØÀ´[m
+[13:45:19] [User Authenticator #363/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[13:45:19] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:61607] logged in with entity id 1934905 at ([world]1922.7119208116535, 69.0, 5922.605976136141)
+[13:45:24] [Server thread/INFO]: _YuanXiao_ >> Äãµ½µØÓü½»Í¨½ÓÎÒÏÂßÂ[m
+[13:45:38] [Server thread/INFO]: _YuanXiao_ issued server command: /px off
+[13:46:14] [Server thread/INFO]: _YuanXiao_ >> ei[m
+[13:46:41] [Server thread/INFO]: _YuanXiao_ >> ÎÒ°ïÄã£¬ÊÂ³ÉÖ®ºó¸øÄãÒ»°ë[m
+[13:46:49] [Server thread/INFO]: Block_linyi >> ?[m
+[13:46:55] [Server thread/INFO]: _YuanXiao_ >> À´½ÓÎÒ°¡[m
+[13:47:02] [Server thread/INFO]: _YuanXiao_ >> ÎÒÂ·³Õqwq[m
+[13:47:02] [Server thread/INFO]: Block_linyi >> ÂíÉÏ[m
+[13:47:43] [Server thread/INFO]: _YuanXiao_ >> º£¾§´óÃÅ£¬Ğ»Ğ»[m
+[13:47:56] [Server thread/INFO]: Block_linyi >> À´ÁË[m
+[13:50:43] [User Authenticator #364/INFO]: Disconnecting com.mojang.authlib.GameProfile@5f10d90[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:61645): Authentication servers are down. Please try again later, sorry!
+[13:50:43] [User Authenticator #364/ERROR]: Couldn't verify username because servers are unavailable
+[13:50:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f10d90[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:61645) lost connection: Authentication servers are down. Please try again later, sorry!
+[13:50:50] [Server thread/INFO]: _YuanXiao_ >> ÎÒÈ¥º£¾§ÄÇ¶«Î÷[m
+[13:51:07] [User Authenticator #365/INFO]: Disconnecting com.mojang.authlib.GameProfile@55e97a22[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:61650): Authentication servers are down. Please try again later, sorry!
+[13:51:07] [User Authenticator #365/ERROR]: Couldn't verify username because servers are unavailable
+[13:51:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@55e97a22[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:61650) lost connection: Authentication servers are down. Please try again later, sorry!
+[13:51:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f01cd93[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:61654) lost connection: Disconnected
+[13:51:54] [User Authenticator #366/INFO]: Disconnecting com.mojang.authlib.GameProfile@2f01cd93[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:61654): Authentication servers are down. Please try again later, sorry!
+[13:51:54] [User Authenticator #366/ERROR]: Couldn't verify username because servers are unavailable
+[13:52:18] [Server thread/INFO]: _YuanXiao_ >> ÎÒºÃ¿¨[m
+[13:52:20] [User Authenticator #367/INFO]: Disconnecting com.mojang.authlib.GameProfile@51f4954c[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:61662): Authentication servers are down. Please try again later, sorry!
+[13:52:20] [User Authenticator #367/ERROR]: Couldn't verify username because servers are unavailable
+[13:52:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@51f4954c[id=<null>,name=ItsFmencenaryC,properties={},legacy=false] (/127.0.0.1:61662) lost connection: Authentication servers are down. Please try again later, sorry!
+[13:52:23] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[13:52:23] [Server thread/INFO]: _YuanXiao_ left the game
+[13:52:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@6dc15488[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:61670) lost connection: Disconnected
+[13:52:47] [User Authenticator #368/INFO]: Disconnecting com.mojang.authlib.GameProfile@6dc15488[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:61670): Authentication servers are down. Please try again later, sorry!
+[13:52:47] [User Authenticator #368/ERROR]: Couldn't verify username because servers are unavailable
+[13:52:54] [User Authenticator #369/INFO]: UUID of player ItsFmencenaryC is ee66c593-3d27-4832-911d-b569dd50102f
+[13:52:54] [Server thread/INFO]: ItsFmencenaryC[/127.0.0.1:61677] logged in with entity id 1937361 at ([world]5180.921276209419, 64.0, 199.005069265788)
+[13:52:55] [User Authenticator #370/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[13:52:55] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:61678] logged in with entity id 1938122 at ([world]2682.512257193238, 65.5, -360.24010686713467)
+[13:55:35] [Server thread/INFO]: Ttu_nnm was blown up by Creeper
+[13:55:38] [Server thread/INFO]: ItsFmencenaryC >> az[m
+[13:55:47] [Server thread/INFO]: ItsFmencenaryC >> creeper?[m
+[13:55:52] [Server thread/INFO]: ItsFmencenaryC >> awww man[m
+[13:56:01] [Server thread/INFO]: _YuanXiao_ >> ºÍÎÒÒ»ÆğÈ¥×ö×°±¸Âğ01[m
+[13:56:09] [Server thread/INFO]: ItsFmencenaryC >> ok[m
+[13:56:20] [Server thread/INFO]: ItsFmencenaryC >> ÄãÔÚÄÄÀï[m
+[13:56:26] [Server thread/INFO]: ItsFmencenaryC >> ÎÒÀ´ÕÒÄã[m
+[13:57:00] [Server thread/INFO]: _YuanXiao_ issued server command: /tell Block_linyi ·ÖÎÒÒ»¸öÏÂ½ìºÏ½ğ¿é
+[13:57:14] [Server thread/INFO]: _YuanXiao_ >> Ğ»Ğ»[m
+[13:57:34] [Server thread/INFO]: ItsFmencenaryC >> Äã×ø±ê[m
+[13:57:45] [Server thread/INFO]: _YuanXiao_ >> ÎÒ½ĞµÄ01[m
+[13:58:00] [Server thread/INFO]: ItsFmencenaryC >> ÎÒ¾ÍÊÇ01[m
+[13:58:22] [Server thread/INFO]: Block_linyi >> ÁÖÒÀ=01[m
+[13:58:25] [Server thread/INFO]: _YuanXiao_ >> linyi[m
+[13:58:33] [Server thread/INFO]: ItsFmencenaryC >> oo[m
+[14:00:55] [Server thread/INFO]: ItsFmencenaryC lost connection: Disconnected
+[14:00:55] [Server thread/INFO]: ItsFmencenaryC left the game
+[14:01:47] [Server thread/INFO]: Ttu_nnm hit the ground too hard
+[14:03:38] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[14:03:38] [Server thread/INFO]: _YuanXiao_ left the game
+[14:05:17] [User Authenticator #371/INFO]: Disconnecting com.mojang.authlib.GameProfile@272fe844[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:61763): Authentication servers are down. Please try again later, sorry!
+[14:05:17] [User Authenticator #371/ERROR]: Couldn't verify username because servers are unavailable
+[14:05:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@272fe844[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:61763) lost connection: Authentication servers are down. Please try again later, sorry!
+[14:05:39] [User Authenticator #372/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[14:05:39] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:61776] logged in with entity id 1941776 at ([world]2659.3326190720204, 58.0, -316.5770959107073)
+[14:06:13] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[14:06:13] [Server thread/INFO]: _YuanXiao_ left the game
+[14:07:23] [User Authenticator #373/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[14:07:24] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:61789] logged in with entity id 1942502 at ([world]2677.2546903750504, 66.0, -354.54896765281654)
+[14:07:50] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[14:07:50] [Server thread/INFO]: Ttu_nnm left the game
+[14:08:56] [Server thread/INFO]: _YuanXiao_ >> Block_linyiÄãÓĞÑÌ»¨Âğ[m
+[14:09:02] [Server thread/INFO]: Block_linyi >> you[m
+[14:09:12] [Server thread/INFO]: _YuanXiao_ >> µÈ»áË¢µã[m
+[14:09:19] [Server thread/INFO]: Block_linyi >> en[m
+[14:18:07] [Server thread/INFO]: _YuanXiao_ >> ÎÒÀ´ÁË[m
+[14:18:28] [Server thread/INFO]: _YuanXiao_ >> ¾ÍÊÇÃ»ÑÌ»¨·É²»ÁËÄÇÃ´Ô±[m
+[14:18:41] [Server thread/INFO]: Block_linyi >> ÄãÏÖÔÚÔÚÄÄÀï[m
+[14:18:45] [Server thread/INFO]: _YuanXiao_ >> º£¾§[m
+[14:19:05] [Server thread/INFO]: Block_linyi >> ÎÒÂíÉÏ¹ıÀ´[m
+[14:20:06] [Server thread/INFO]: _YuanXiao_ >> µØÓü°¡[m
+[14:20:34] [Server thread/INFO]: Block_linyi lost connection: Disconnected
+[14:20:34] [Server thread/INFO]: Block_linyi left the game
+[14:20:38] [User Authenticator #374/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[14:20:38] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:61898] logged in with entity id 1948300 at ([world]1933.0758202206266, 64.0, 5914.255224923915)
+[14:20:44] [Server thread/INFO]: _YuanXiao_ >> ÄÔ´ü±»º£¾§´óÃÅ¼ĞÁË[m
+[14:21:06] [Server thread/INFO]: _YuanXiao_ >> ´ó¸ç£¬Õ¦Ëµ×ß¾Í×ß°¡[m
+[14:25:35] [User Authenticator #375/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[14:25:35] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:61940] logged in with entity id 1949721 at ([world_nether]190.90152475073276, 46.0, 901.0220059387669)
+[14:25:46] [User Authenticator #376/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[14:25:46] [Server thread/INFO]: the_yellowleaf lost connection: You logged in from another location
+[14:25:46] [Server thread/INFO]: the_yellowleaf left the game
+[14:25:46] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:61939] logged in with entity id 1949819 at ([world_nether]191.07762069188956, 46.0, 901.7708840762091)
+[14:26:04] [User Authenticator #377/INFO]: UUID of player pinkmilk is 591b69f1-5eb9-490b-900c-04516907dc49
+[14:26:04] [Server thread/INFO]: pinkmilk[/127.0.0.1:61946] logged in with entity id 1949853 at ([world_nether]974.9280596342511, 60.0, -244.69999998807907)
+[14:27:47] [Server thread/INFO]: pinkmilk lost connection: Disconnected
+[14:27:47] [Server thread/INFO]: pinkmilk left the game
+[14:29:35] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[14:29:35] [Server thread/INFO]: Ttu_nnm left the game
+[14:32:50] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> 1[m
+[14:33:46] [Server thread/WARN]: _YuanXiao_ moved too quickly! -40.35224247910287,-4.581457166049248,-3.306913290908625
+[14:37:21] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[14:37:21] [Server thread/INFO]: the_yellowleaf left the game
+[14:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[14:40:17] [Server thread/INFO]: _YuanXiao_ was slain by Zombified Piglin
+[14:43:34] [User Authenticator #378/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[14:43:35] [Server thread/INFO]: Bay_Max_[/127.0.0.1:62079] logged in with entity id 1954032 at ([world]1269.5, 116.0, -1356.3180127169196)
+[14:44:56] [User Authenticator #379/INFO]: UUID of player ItsFmencenaryC is ee66c593-3d27-4832-911d-b569dd50102f
+[14:44:56] [Server thread/INFO]: ItsFmencenaryC[/127.0.0.1:62093] logged in with entity id 1954207 at ([world_nether]194.28902501397687, 115.0, 21.83286663492334)
+[14:48:57] [User Authenticator #380/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[14:48:57] [Server thread/INFO]: Ghost_king_[/127.0.0.1:62127] logged in with entity id 1955736 at ([world_nether]187.14874426386953, 32.5, 895.6301763694677)
+[14:48:57] [User Authenticator #381/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[14:48:57] [Server thread/INFO]: Mr_director[/127.0.0.1:62130] logged in with entity id 1955756 at ([world_nether]186.2544704760664, 40.5, 905.4197159402023)
+[14:49:37] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¡Õâ[m
+[14:49:41] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[14:49:41] [Server thread/INFO]: Mr_director left the game
+[14:49:51] [Server thread/INFO]: ItsFmencenaryC >> °¡Õâ[m
+[14:50:29] [User Authenticator #382/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[14:50:29] [Server thread/INFO]: adhesive_tape[/127.0.0.1:62145] logged in with entity id 1956133 at ([world]2778.4206812285406, 63.0, -397.5825274139277)
+[14:51:12] [Server thread/INFO]: adhesive_tape >> hsdsÊÓÆµÄãÃÇ¿´Ã»[m
+[14:51:20] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ë¢ÎïÆ·µÄÂğ[m
+[14:51:22] [Server thread/INFO]: adhesive_tape >> en[m
+[14:51:25] [Server thread/INFO]: Bay_Max_ >> Ô­°æ¶Ë¿ÉÒÔ[m
+[14:51:33] [Server thread/INFO]: adhesive_tape >> ÎÒ½ñÔçË¢ÁËÒ»¶Ñ[m
+[14:51:37] [Server thread/INFO]: Bay_Max_ >> .[m
+[14:51:39] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¨£¨£¨£¨£¨£¨[m
+[14:51:44] [Server thread/INFO]: Bay_Max_ >> ½ØÍ¼£¨£¨£¨£¨£¨£¨£¨[m
+[14:51:44] [Server thread/INFO]: adhesive_tape >> ÏÂ½ìºÏ½ğ¿ìË¢ÁË1×é¶à[m
+[14:51:45] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ·şÎñÆ÷²»ÈÃË¢ÚÀ[m
+[14:51:57] [Server thread/INFO]: adhesive_tape >> º£¾§´óÃÅ¶¼ÊÇÁË[m
+[14:52:01] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãË¢µãÇÊ³á°É ÕâÖÖ²»¿ÉÔÙÉú×ÊÔ´£¨£¨£¨£¨£¨£¨£¨£¨[m
+[14:52:05] [Server thread/INFO]: adhesive_tape >> ×êÊ¯¿éË¢ÁË3×é°Ñ[m
+[14:52:06] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ·´ÕıÎÒÒ²²»È±ºÏ½ğ¿é£¨£¨£¨£¨£¨£¨£¨[m
+[14:52:13] [Server thread/INFO]: adhesive_tape >> ½ğ¿éË¢ÁË7/8×é[m
+[14:52:17] [Server thread/INFO]: adhesive_tape >> ÇÊ³áÁ½ºĞ[m
+[14:52:20] [Server thread/INFO]: Bay_Max_ >> ºĞ×Ó£¨[m
+[14:52:26] [Server thread/INFO]: adhesive_tape >> Ç±Ó°¿ÇÁ½ºĞ[m
+[14:52:31] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ½¨ÒéË¢¸½Ä§Ö®Æ¿[m
+[14:52:41] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ĞĞ×ßµÄ¾­Ñé»ú[m
+[14:52:45] [Server thread/INFO]: adhesive_tape >> ÎÒÈ¥Ë¢µãµòÁãÃµ¹å[m
+[14:52:51] [Server thread/INFO]: Bay_Max_ >> Ë¢Ë¢²»¿ÉÔÙÉú¾ÍµÃÁË[m
+[14:52:53] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> àÅ[m
+[14:52:57] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÆäËûµÄ»¹ÊÇ±ğË¢ÁË[m
+[14:53:07] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µÈÏÂxlÖ±½Ó°ÑÄãbanÁËqwq[m
+[14:53:08] [Server thread/INFO]: adhesive_tape >> e[m
+[14:53:23] [Server thread/INFO]: adhesive_tape >> Ëµ²»¶¨ËûÔÚºóÌ¨¿´×ÅÄØ[m
+[14:53:26] [Server thread/INFO]: adhesive_tape >> ÎÒÈ¥[m
+[14:53:48] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÂèµÄ¸ô±Ú×°ĞŞºÃ³³qwq[m
+[14:53:50] [Server thread/INFO]: adhesive_tape >> ËãÁË²»Ë¢ÁË[m
+[14:53:54] [Server thread/INFO]: ItsFmencenaryC lost connection: Disconnected
+[14:53:54] [Server thread/INFO]: ItsFmencenaryC left the game
+[14:53:55] [Server thread/INFO]: adhesive_tape >> ÎÒÅÂxlÁË[m
+[14:54:08] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÕâbugÎÒÀÏÔç¾ÍÖªµÀÁË* ´óÊå·¢ÊÓÆµËãÊÇÍíµÄÁË[m
+[14:54:14] [Server thread/INFO]: adhesive_tape >> ×°±¸ÎÒË¢ÁËÒ»µã[m
+[14:54:14] [Server thread/INFO]: Villager EntityVillager['Villager'/1956833, l='ServerLevel[world]', x=1263.69, y=115.92, z=-1357.67] died, message: 'Villager was shot by Bay_Max_'
+[14:54:16] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µ«ÊÇ²»¸ÒÓÃqwq[m
+[14:54:26] [Server thread/INFO]: adhesive_tape >> ìÅ¸»Õ¹ÒÂ·şÎÒÌîÉÏÁË[m
+[14:54:33] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> àÅ[m
+[14:55:02] [Server thread/INFO]: adhesive_tape >> 3Ì×[m
+[14:55:06] [Server thread/INFO]: adhesive_tape >> ÏÂ½ìºÏ½ğ[m
+[14:55:10] [Server thread/INFO]: Bay_Max_ >> mojang¸Ã³ö1.16.3ÁË£¨£¨£¨[m
+[14:55:18] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> àÅ[m
+[14:55:38] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÔ²Û£¨[m
+[14:55:41] [Server thread/INFO]: adhesive_tape >> µòÁãÍ·ÎÒ¶¼Ë¢ÁË¼¸×é[m
+[14:55:47] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ·ÇÇõµôÍ·ÁË[m
+[14:56:05] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õ÷¼¯Ò»Î»´óÀĞ×ö×ö·ÖÀà[m
+[14:56:34] [Server thread/INFO]: adhesive_tape >> ÎÒÈ¥°ÉµòÁãÃµ¹åÅ©³¡×öÁË[m
+[14:56:45] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÇÎÒÈ¥ÍÚ½»Í¨[m
+[14:57:49] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÓĞÈËÏëÒª¶ñ»êÂğ 5¹±Ï×µãÒ»Ö»[m
+[14:57:51] [Server thread/INFO]: Villager EntityVillager['Villager'/1956140, l='ServerLevel[world_nether]', x=158.29, y=115.00, z=-169.44] died, message: 'Villager was shot by Bay_Max_'
+[14:58:07] [Server thread/INFO]: _YuanXiao_ >> gk[m
+[14:58:10] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿[m
+[14:58:17] [Server thread/INFO]: _YuanXiao_ >> ¿´qq[m
+[14:58:40] [Server thread/INFO]: adhesive_tape >> Bay_Max_[m
+[14:58:45] [Server thread/INFO]: adhesive_tape >> Å®Î×Ëş²»Ë¢¹Ö[m
+[14:59:03] [Server thread/INFO]: Bay_Max_ >> ¸ò¡£¡£[m
+[14:59:04] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÕâ******[m
+[14:59:06] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÓĞµãÔ¶°¡[m
+[14:59:18] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÔÚĞ¡µØÍ¼ÉÏÓĞ¸ö·ÖÏí[m
+[14:59:27] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ·ÖÏíÒ»ÏÂ ÎÒÈ¥¼ñ[m
+[15:01:27] [Server thread/INFO]: Villager EntityVillager['Villager'/1958281, l='ServerLevel[world_nether]', x=346.01, y=104.00, z=-58.50] died, message: 'Villager was shot by Bay_Max_'
+[15:01:34] [Server thread/INFO]: _YuanXiao_ lost connection: Illegal characters in chat
+[15:01:34] [Server thread/INFO]: _YuanXiao_ left the game
+[15:01:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@4a764a85[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:62222) lost connection: Disconnected
+[15:01:52] [User Authenticator #384/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[15:01:52] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:62225] logged in with entity id 1959261 at ([world_nether]334.37307494844055, 115.0, -36.45734414542436)
+[15:02:01] [Server thread/INFO]: _YuanXiao_ lost connection: Illegal characters in chat
+[15:02:01] [Server thread/INFO]: _YuanXiao_ left the game
+[15:02:07] [User Authenticator #385/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[15:02:07] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:62229] logged in with entity id 1959368 at ([world_nether]334.37307494844055, 115.0, -36.45734414542436)
+[15:02:15] [Server thread/INFO]: _YuanXiao_ >> ²»ĞĞ°¡[m
+[15:02:27] [Server thread/INFO]: _YuanXiao_ >> ¸Õ·ÖÏí¾ÍÍËÁË°¡[m
+[15:02:32] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿[m
+[15:02:41] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÇÄãÓÃ´«ËÍ×Ô¼ºÈ¥¼ñ¿©[m
+[15:02:43] [Server thread/INFO]: _YuanXiao_ issued server command: /tp _YuanXiao_ -2458 45 638
+[15:02:43] [Server thread/INFO]: _YuanXiao_ issued server command: /tppos -2458 45 638
+[15:02:52] [Server thread/INFO]: _YuanXiao_ >> ²»²»²»[m
+[15:02:56] [Server thread/INFO]: _YuanXiao_ >> ÎÒÏë°ì·¨[m
+[15:02:59] [Server thread/INFO]: Ghost_king_ issued server command: /px mode
+[15:03:07] [Server thread/INFO]: _YuanXiao_ >> [name:Latest Death, x:-2458, y:45, z:638, dim:minecraft:the_nether, icon:skull][m
+[15:03:22] [Server thread/INFO]: _YuanXiao_ >> Ğ»Ğ»°¡[m
+[15:03:37] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 3kÃ×£¨[m
+[15:03:39] [Server thread/INFO]: _YuanXiao_ >> ÎÒÔÚº£¾§´óÃÅµÈÄã[m
+[15:03:59] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ¿ª´«ËÍ°ïÄã¼ñ°É[m
+[15:03:59] [Server thread/INFO]: _YuanXiao_ >> ÄãÅÔ¹Û£¿[m
+[15:04:02] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> àÅ[m
+[15:04:17] [Server thread/INFO]: _YuanXiao_ >> ÅÔ¹Û»á»Øµ½¿ªÆôµÄµØ·½°¡[m
+[15:04:23] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¨[m
+[15:04:27] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ·Ï»°Õæ¶à[m
+[15:04:33] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °ïÄãÄÃ»ØÀ´¾ÍÊÇÁË[m
+[15:04:44] [Server thread/INFO]: _YuanXiao_ >> ÄãµÄ°ë×©ºÃÁË[m
+[15:06:56] [Server thread/INFO]: _YuanXiao_ >> µ½ÁËÂğ[m
+[15:07:08] [Server thread/INFO]: Ghost_king_ issued server command: /px mode
+[15:07:14] [Server thread/INFO]: Ghost_king_ issued server command: /px off
+[15:08:48] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿[m
+[15:08:56] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÉíÉÏ¶«Î÷Ã²ËÆÓĞµãÉÙ[m
+[15:09:30] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ä©Ó°ÕôÖóÕâÖÖ²»ÖµÇ®µÄ¶«Î÷ÎÒ¸øÄã¶ªÁË¹ş[m
+[15:10:24] [Server thread/INFO]: _YuanXiao_ >> en[m
+[15:10:31] [Server thread/INFO]: _YuanXiao_ >> kan[m
+[15:10:38] [Server thread/INFO]: _YuanXiao_ >> ¿´QQ[m
+[15:10:59] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õâ12¹±Ï×µãËãÄãÇ·ÎÒµÄ¹ş[m
+[15:11:03] [Server thread/INFO]: Ghost_king_ issued server command: /px mode
+[15:11:21] [Server thread/INFO]: Ghost_king_ issued server command: /px mode
+[15:11:27] [Server thread/INFO]: Ghost_king_ issued server command: /px off
+[15:11:32] [Server thread/WARN]: Boat (vehicle of adhesive_tape) moved wrongly! 0.396455150381513
+[15:11:32] [Server thread/WARN]: Boat (vehicle of adhesive_tape) moved wrongly! 1.4189432675987632
+[15:11:32] [Server thread/WARN]: Boat (vehicle of adhesive_tape) moved wrongly! 0.6977869558118925
+[15:11:32] [Server thread/WARN]: Boat (vehicle of adhesive_tape) moved wrongly! 0.6901113149363312
+[15:11:32] [Server thread/WARN]: Boat (vehicle of adhesive_tape) moved wrongly! 0.43487766799808014
+[15:11:34] [Server thread/INFO]: Ghost_king_ issued server command: /px off
+[15:11:38] [Server thread/INFO]: Ghost_king_ issued server command: /px off
+[15:11:44] [Server thread/INFO]: Ghost_king_ issued server command: /px off
+[15:11:50] [Server thread/INFO]: Ghost_king_ issued server command: /px off
+[15:11:52] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿£¿£¿£¿£¿£¿£¿[m
+[15:12:05] [Server thread/INFO]: _YuanXiao_ >> en[m
+[15:13:12] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÆäËûÓĞĞ©²»ÖµÇ®µÄ¶«Î÷¾ÍÃ»´ø»ØÀ´[m
+[15:13:29] [Server thread/INFO]: _YuanXiao_ >> Ç±Ó°ºĞ£¿[m
+[15:13:36] [Server thread/INFO]: _YuanXiao_ >> °×É«µÄ£¿[m
+[15:13:38] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿[m
+[15:13:47] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ã»¿´µ½[m
+[15:13:52] [Server thread/INFO]: _YuanXiao_ >> cao[m
+[15:14:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@46ca7b26[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:62311) lost connection: Disconnected
+[15:14:08] [User Authenticator #386/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[15:14:08] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:62317] logged in with entity id 1962984 at ([world]83.31752132032439, 66.5, 235.85100524915134)
+[15:14:23] [Server thread/INFO]: _YuanXiao_ >> ÄãÕ¦´«ËÍµÄ£¿[m
+[15:14:39] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÏÈÊäÈëÒ»´Îpx mode[m
+[15:14:46] [Server thread/INFO]: _YuanXiao_ >> en[m
+[15:14:52] [Server thread/INFO]: _YuanXiao_ issued server command: /p me
+[15:14:53] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> È»ºóµ½´ïÄ¿µÄµØ[m
+[15:14:55] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÔÙÊäÈëÒ»´Î[m
+[15:14:57] [Server thread/INFO]: _YuanXiao_ >> en[m
+[15:15:06] [Server thread/INFO]: adhesive_tape >> ÎªÊ²Ã´Å®Î×²»½øµØÓüÃÅ°¡[m
+[15:15:06] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> È»ºó¾Ípx off½â³ıÅÔ¹Û¼´¿É[m
+[15:15:12] [Server thread/INFO]: _YuanXiao_ >> o[m
+[15:15:16] [Server thread/INFO]: _YuanXiao_ >> nb[m
+[15:15:19] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ´«¹ıÀ´ ´«¹ıÈ¥[m
+[15:15:21] [Server thread/INFO]: _YuanXiao_ issued server command: /px mode
+[15:15:32] [Server thread/INFO]: adhesive_tape >> Bay_Max_[m
+[15:15:35] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> À´»Ø¾Í12¹±Ï×µã¿©[m
+[15:15:41] [Server thread/INFO]: adhesive_tape >> ÎªÊ²Ã´Å®Î×²»½øµØÓüÃÅ[m
+[15:15:51] [Server thread/INFO]: adhesive_tape >> Äã¹ıÀ´¿´¿´[m
+[15:15:53] [Server thread/INFO]: _YuanXiao_ >> 3+3=12???[m
+[15:15:54] [Server thread/INFO]: Ghost_king_ issued server command: /px off
+[15:15:55] [Server thread/INFO]: Bay_Max_ >> ÓĞÊ±ºòÉúÎïÓĞÕâ¸öbug£¨[m
+[15:15:58] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> À´»Ø[m
+[15:15:59] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> À´»Ø[m
+[15:15:59] [Server thread/INFO]: _YuanXiao_ >> cao[m
+[15:16:01] [Server thread/INFO]: Bay_Max_ >> ´åÃñÓĞÊ±ºòÒ²ÕâÑù[m
+[15:16:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@1fa0ead1[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:62334) lost connection: Disconnected
+[15:16:09] [Server thread/INFO]: adhesive_tape >> Õ¦¸ã°¡[m
+[15:16:14] [Server thread/INFO]: Bay_Max_ >> ÏÈ°ÑËüÅª³öÀ´ È»ºóµÈÒ»»á[m
+[15:16:20] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[15:16:20] [Server thread/INFO]: adhesive_tape left the game
+[15:16:24] [Server thread/INFO]: _YuanXiao_ >> Ë­ÊäÈëÁËpx off[m
+[15:16:32] [User Authenticator #387/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:16:32] [Server thread/INFO]: adhesive_tape[/127.0.0.1:62338] logged in with entity id 1963557 at ([world_nether]225.76573870329446, 115.5, 24.65826034818535)
+[15:16:34] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ£¨[m
+[15:16:40] [Server thread/INFO]: _YuanXiao_ >> ÅªËÀÄã°¡[m
+[15:16:42] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸Õ¸ÕÏëÔÙÊÔÒ»´Î´«ËÍqwq[m
+[15:16:49] [Server thread/INFO]: _YuanXiao_ >> Äã°ÑÎÒ´«»ØÀ´ÁË[m
+[15:16:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@7f66e89f[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:62341) lost connection: Timed out
+[15:17:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@aac18e8[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:62345) lost connection: Timed out
+[15:17:05] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÒòÎªÄã´«ËÍÁ½´Î£¨À´»Ø[m
+[15:17:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@43ec9c5d[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:62350) lost connection: Disconnected
+[15:17:09] [Server thread/INFO]: _YuanXiao_ >> ±ğÍæÁË[m
+[15:17:11] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »áÓĞÒ»¸öbug[m
+[15:17:20] [Server thread/INFO]: _YuanXiao_ >> µÖÏûÁË°¡[m
+[15:17:30] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÖ»ÒªÊäÒ»´Îpx off ¾Í»á»Øµ½Ô­À´µÄÎ»ÖÃ[m
+[15:17:34] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²»ÏŞ´ÎÊı[m
+[15:17:34] [Server thread/INFO]: _YuanXiao_ issued server command: /px mode
+[15:17:43] [Server thread/INFO]: adhesive_tape >> ½øÈ¥ÁË£¡[m
+[15:18:01] [Server thread/INFO]: _YuanXiao_ issued server command: /tp _YuanXiao_ -2458 45 638
+[15:18:01] [Server thread/INFO]: _YuanXiao_ issued server command: /tppos -2458 45 638
+[15:18:16] [Server thread/INFO]: Bay_Max_ issued server command: /p lead
+[15:18:21] [Server thread/WARN]: Ttu_nnm moved too quickly! 756.9214378300147,25.0,1878.930856465328
+[15:19:09] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÍÚ±ùµÀÈ¥ÁË[m
+[15:19:14] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¡²» ËíµÀ[m
+[15:19:38] [User Authenticator #388/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[15:19:38] [Server thread/INFO]: North_dream[/127.0.0.1:62369] logged in with entity id 1965311 at ([world]2757.726789493322, 63.0, -384.56118026583374)
+[15:19:48] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ğ¼±±ÃÎ[m
+[15:20:28] [Server thread/INFO]: North_dream lost connection: Timed out
+[15:20:28] [Server thread/INFO]: North_dream left the game
+[15:20:31] [Server thread/WARN]: Boat (vehicle of Ghost_king_) moved too quickly! 0.0,0.0,26.100569607136052
+[15:20:46] [User Authenticator #389/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[15:20:46] [Server thread/INFO]: North_dream[/127.0.0.1:62382] logged in with entity id 1966383 at ([world]2757.726789493322, 63.0, -384.56118026583374)
+[15:20:53] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> º©º©±±ÃÎ[m
+[15:21:01] [Server thread/INFO]: _YuanXiao_ >> hhh[m
+[15:21:17] [Server thread/INFO]: North_dream lost connection: Timed out
+[15:21:17] [Server thread/INFO]: North_dream left the game
+[15:21:28] [Server thread/INFO]: _YuanXiao_ >> ...[m
+[15:21:44] [User Authenticator #390/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[15:21:44] [Server thread/INFO]: North_dream[/127.0.0.1:62391] logged in with entity id 1967455 at ([world]2757.726789493322, 63.0, -384.56118026583374)
+[15:22:17] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:22:22] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> º©º©[m
+[15:22:50] [Server thread/INFO]: North_dream issued server command: /p me
+[15:23:24] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w[m
+[15:23:34] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> 1.16.2ÓĞtweakrooÂğ[m
+[15:23:37] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> "w;[m
+[15:23:38] [Server thread/INFO]: Bay_Max_ >> ÓĞ°¡[m
+[15:23:55] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ·ãÒ¶ĞÂ·¢µÄ°üÀïÃ»ÓĞ:w:[m
+[15:24:23] [Server thread/INFO]: _YuanXiao_ >> Ghost_king_Äã²»»á°ÑÎÒµÄ¶«Î÷Ë½ÍÌÁË°Ñ[m
+[15:24:32] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¨£¨£¨£¨£¨£¨[m
+[15:24:39] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ×êÌ×É«É«·¢¶¶:w:[m
+[15:24:43] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÈ±ÄãÄÇµã¶«Î÷£¿[m
+[15:24:49] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²»ÖÁÓÚÕâÃ´»³ÒÉÎÒ°É[m
+[15:24:50] [Server thread/INFO]: _YuanXiao_ >> ÏûÊ§Ò²ÊÇÍ¬Ò»Ê±¼äÏûÊ§°¡[m
+[15:24:54] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> »¨È÷¶«Î÷[m
+[15:24:56] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒËûÂèÒ²Ææ¹Ö°¡£¨[m
+[15:24:56] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> É¶¶«Î÷[m
+[15:25:06] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ¸Õ¸Õ»¹ËµÎªÊ²Ã´ÄãÉíÉÏ¶«Î÷ÕâÃ´ÉÙ[m
+[15:25:13] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÓĞĞØ¼×Ã»Ğ¬×Ó¿ã×Ó[m
+[15:25:24] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÇÊ³á»¹Ôô¶à[m
+[15:25:31] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[15:25:31] [Server thread/INFO]: Bay_Max_ left the game
+[15:25:34] [Server thread/INFO]: _YuanXiao_ >> ÎªÉ¶¾ÍÎÒµÄÏÂ½ìºÏ½ğ¿éºÍÒ»Ì×ÂúÅä×°±¸²»ÔÚÁËÄØqwq[m
+[15:25:34] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÕäÖéÒ²¶à[m
+[15:25:40] [User Authenticator #391/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[15:25:40] [Server thread/INFO]: Bay_Max_[/127.0.0.1:62419] logged in with entity id 1969826 at ([world_nether]155.32710022667592, 115.0, -166.6550242692739)
+[15:25:59] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¨ÎÊ·şÎñÆ÷[m
+[15:26:06] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸ãµÃ[m
+[15:26:10] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:26:15] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> c[m
+[15:26:17] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¸ÉÂï[m
+[15:26:18] [Server thread/INFO]: _YuanXiao_ >> ÍÛÕâÁ½¸öÈË[m
+[15:26:24] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÈËÒªÃ»ÁË:w:[m
+[15:26:27] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ·æÀûv¸«Í·[m
+[15:26:29] [Server thread/INFO]: _YuanXiao_ >> ÔÙ¸ÉÊ²Ã´[m
+[15:26:36] [Server thread/INFO]: _YuanXiao_ >> ??????[m
+[15:26:37] [User Authenticator #392/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[15:26:37] [Server thread/INFO]: North_dream lost connection: You logged in from another location
+[15:26:37] [Server thread/INFO]: North_dream left the game
+[15:26:38] [Server thread/INFO]: North_dream[/127.0.0.1:62431] logged in with entity id 1970843 at ([world_nether]187.3905459537754, 68.5, 906.0257211996092)
+[15:26:52] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:27:16] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¸øµãÑÌ»¨:w;[m
+[15:27:25] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ã»ÓĞ ÅÀ[m
+[15:27:28] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[15:27:44] [Server thread/INFO]: Villager EntityVillager['Villager'/1961923, l='ServerLevel[world_nether]', x=155.61, y=115.00, z=-168.67] died, message: 'Villager was slain by Bay_Max_ using [5311-pickaxe]'
+[15:27:58] [Server thread/INFO]: _YuanXiao_ >> Ghost_king_¸øÎÒÒ»°ÑÇÀ¶áµÄ½£[m
+[15:28:00] [Server thread/INFO]: Villager EntityVillager['Villager'/1960471, l='ServerLevel[world_nether]', x=168.39, y=115.00, z=-122.75] died, message: 'Villager was shot by Bay_Max_'
+[15:28:07] [Server thread/INFO]: North_dream has made the advancement [Spooky Scary Skeleton]
+[15:28:10] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:28:11] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[15:28:17] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÕâÃ´Å·µÄÂğ[m
+[15:28:26] [Server thread/INFO]: _YuanXiao_ >> šG[m
+[15:28:28] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ¼ÇµÃÏä×ÓÀï»¹ÓĞÎÒµÄÈı¸öÍ· ±ğÄÃ¹ş[m
+[15:28:32] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ò»µ¶ÏÂÈ¥µôÁËÒ»¸öÍ·[m
+[15:28:48] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[15:28:50] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Á©¸ö:w:[m
+[15:29:02] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 6[m
+[15:29:05] [Server thread/INFO]: _YuanXiao_ >> ±±ÃÎ£¬Ê©ÉáÒ»°Ñ½£°Ñ[m
+[15:29:08] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:29:09] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ã»ÓĞ[m
+[15:29:12] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒ»¹ÊÇ×êÌ×ÄØ[m
+[15:29:13] [Server thread/INFO]: _YuanXiao_ >> az[m
+[15:29:13] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:29:19] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒÁ¬ºÏ½ğÌ×¶¼Ã»ÓĞ[m
+[15:29:20] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[15:29:33] [Server thread/INFO]: _YuanXiao_ >> ÎÒ»¹ÊÇ°××°ÄØ[m
+[15:29:37] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:29:50] [User Authenticator #393/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[15:29:50] [Server thread/INFO]: North_dream lost connection: You logged in from another location
+[15:29:50] [Server thread/INFO]: North_dream left the game
+[15:29:50] [Server thread/INFO]: North_dream[/127.0.0.1:62458] logged in with entity id 1974350 at ([world_nether]188.35161276756318, 40.875, 907.6929833513218)
+[15:30:07] [User Authenticator #394/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[15:30:07] [Server thread/INFO]: North_dream lost connection: You logged in from another location
+[15:30:07] [Server thread/INFO]: North_dream left the game
+[15:30:08] [Server thread/INFO]: North_dream[/127.0.0.1:62463] logged in with entity id 1975164 at ([world_nether]188.0444249420723, 40.875, 907.617770381852)
+[15:30:18] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:30:27] [User Authenticator #395/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[15:30:27] [Server thread/INFO]: North_dream lost connection: You logged in from another location
+[15:30:27] [Server thread/INFO]: North_dream left the game
+[15:30:27] [Server thread/INFO]: North_dream[/127.0.0.1:62468] logged in with entity id 1975428 at ([world_nether]188.0444249420723, 40.875, 907.617770381852)
+[15:30:35] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> fuk¡¢[m
+[15:30:37] [Server thread/INFO]: _YuanXiao_ >> ???[m
+[15:30:51] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> a[m
+[15:30:56] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ËØÖÊ±±ÃÎ[m
+[15:30:58] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÓÖ´ò³öÒ»¸ö[m
+[15:31:13] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÄãÃÇ×öÁËÉ³µñ»úÂğ:w:[m
+[15:31:19] [Server thread/INFO]: Ttu_nnm was blown up by Creeper
+[15:31:26] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãËµ³¬µç´ÅÅÜ£¿[m
+[15:31:29] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ã»ÄØ[m
+[15:31:33] [Server thread/INFO]: _YuanXiao_ >> ???[m
+[15:31:33] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ?:w"??[m
+[15:31:35] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÕâËûÂè²Å¸Õ×öÍê[m
+[15:31:37] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> É¶ÍæÒâ[m
+[15:31:43] [Server thread/INFO]: Bay_Max_ >> ÓĞ24ÊµÌåÄÇÖÖ¡£¡£[m
+[15:31:46] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:31:50] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÄ¸öĞ¡Ìì²ÅÏëµÄÓÃÁé»êÉ³£¨£¨£¨£¨£¨£¨£¨£¨£¨£¨[m
+[15:31:53] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> e[m
+[15:31:59] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Áé»êÉ³ÉÏË¢¹Ö°¡Î¹[m
+[15:32:04] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:32:11] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÓÃ°ë×©ºÃÏñ[m
+[15:32:14] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> »á±»´òµ½[m
+[15:32:18] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²»¹ıÕâ¸öÊÕ¼¯ÏµÍ³[m
+[15:32:19] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µÃ¸Ä[m
+[15:32:21] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[15:32:29] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ±ØĞë¸Ä:w:[m
+[15:32:30] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÓÃÂ©¶·Ò²Ì«Ğ¼ÁË°É[m
+[15:32:33] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÀ´¸Ä[m
+[15:32:37] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÍµÁËÉè¼Æ»¹ÏëÅÜ[m
+[15:32:38] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:32:42] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒÃ»Íµ[m
+[15:32:43] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:32:47] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ã»ÓĞ1.16.2Í¶Ó°[m
+[15:32:49] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> W[m
+[15:32:55] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ·æÀûv¸«Í·±íÊ¾²»ĞÅ[m
+[15:32:58] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:33:02] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÕæµÄÃ»Íµ[m
+[15:33:03] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ×òÌìÄãËµÁËÍ·Éè¼ÆµÄ[m
+[15:33:03] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¡°ÎÒ¡±[m
+[15:33:05] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:33:06] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ğ¼±±ÃÎ[m
+[15:33:06] [Server thread/INFO]: _YuanXiao_ >> Îª[m
+[15:33:07] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÊÇ°¡[m
+[15:33:12] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> È»ºóÎÒÉÏÏßÀ´ÕâÀï¿´ÁË¿´[m
+[15:33:13] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> mr[m
+[15:33:19] [Server thread/INFO]: _YuanXiao_ >> ÄãÃÇµÄµòÁã÷¼÷Ã»á¿¨×¡[m
+[15:33:19] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ½ĞÎÒ°Ñ¹ÇÍ·ÄÃÈ¥Ê÷³¡[m
+[15:33:35] [User Authenticator #396/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[15:33:35] [Server thread/INFO]: North_dream lost connection: You logged in from another location
+[15:33:35] [Server thread/INFO]: North_dream left the game
+[15:33:35] [Server thread/INFO]: North_dream[/127.0.0.1:62492] logged in with entity id 1978532 at ([world_nether]185.96364251168782, 40.5, 905.0572652380442)
+[15:33:37] [Server thread/INFO]: _YuanXiao_ issued server command: /px mode
+[15:33:40] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¨9ËùÒÔÎÒËµÒª¸Ä°¡[m
+[15:33:44] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:33:44] [Server thread/INFO]: _YuanXiao_ issued server command: /px off
+[15:33:52] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ·ÅÍê¹ÇÍ·ÎÒ¾ÍÏÂÁË[m
+[15:33:54] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[15:34:21] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:34:25] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Äã¶¼ÓĞºÏ½ğÌ×ÁË[m
+[15:34:26] [Server thread/INFO]: _YuanXiao_ >> ¸øµã³ÔµÄ[m
+[15:34:30] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ã»ÓĞ[m
+[15:34:48] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ?[m
+[15:34:52] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:?[m
+[15:34:58] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÈ¥ÄÃµã»îÈû×öÒ»Õ¾Ê½[m
+[15:35:02] [Server thread/INFO]: _YuanXiao_ >> ÎÒÒªËÀÁË[m
+[15:35:05] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ò»Õ¾Ê½£¿[m
+[15:35:08] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> àÅ[m
+[15:35:08] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:?[m
+[15:35:19] [Server thread/INFO]: _YuanXiao_ >> ¾ÍÊÇ¹éÖĞÂğ[m
+[15:35:23] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¶Ô[m
+[15:35:41] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Å®Î×ËşÄÇÖÖ£¿[m
+[15:35:48] [Server thread/INFO]: _YuanXiao_ >> ²»ÊÇ[m
+[15:36:00] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¶Ô[m
+[15:36:01] [Server thread/INFO]: _YuanXiao_ >> µØÓüÄÜÓÃË®£¿[m
+[15:36:12] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÓÃ»îÈû[m
+[15:36:15] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[15:36:15] [Server thread/INFO]: Ttu_nnm left the game
+[15:36:20] [Server thread/INFO]: _YuanXiao_ >> o[m
+[15:36:25] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Õâ¸öttuÊÇĞÂÈËÂğ:w:[m
+[15:36:38] [Server thread/INFO]: _YuanXiao_ >> food!!![m
+[15:36:40] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÍòÄê»®Ë®±ğÈË¶¼ÒÔÎªÄãÊÇĞÂÈË£¨£¨£¨£¨£¨£¨[m
+[15:36:44] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:36:46] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ğ¼±±ÃÎ[m
+[15:36:52] [Server thread/INFO]: _YuanXiao_ >> :w:[m
+[15:37:09] [Server thread/INFO]: adhesive_tape >> ÆøËÀÎÒÁË[m
+[15:37:12] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¸øÎÒ°Ë¸öºÏ½ğ°É:w:[m
+[15:37:15] [Server thread/INFO]: _YuanXiao_ >> šG[m
+[15:37:20] [Server thread/INFO]: _YuanXiao_ >> ÎÒ¿¨ÁË[m
+[15:37:25] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ±±ÃÎ¹ıÀ´[m
+[15:37:27] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÕâÕ¦Ã»¹ÖÁËe[m
+[15:37:36] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[15:37:42] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ°Ñ»î°åÃÅ¹ØÉÏÁË ÄãÃÇ±ğÂÒ¸ã[m
+[15:37:45] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:37:47] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ¸ÄÒ»ÏÂÒ»Õ¾Ê½µÄ[m
+[15:37:47] [Server thread/INFO]: _YuanXiao_ >> ³ÔĞ¡¼¦¼¦huadiao[m
+[15:38:04] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Äã²»¶Ô¾¢[m
+[15:38:17] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :W:??[m
+[15:38:33] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:38:36] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÈÃµòÁã÷¼÷Ã¸ĞÊÜÏÂ»îÈûÔË¶¯awa[m
+[15:38:37] [Server thread/INFO]: _YuanXiao_ >> :w:[m
+[15:38:45] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÄãÑ§ÎÒ:w:[m
+[15:38:51] [Server thread/INFO]: _YuanXiao_ >> ;w;[m
+[15:39:34] [User Authenticator #397/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[15:39:34] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:62536] logged in with entity id 1983055 at ([world]1920.4977860790723, 70.875, 5886.454559334218)
+[15:39:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[15:39:48] [Server thread/INFO]: _YuanXiao_ withered away whilst fighting Wither Skeleton
+[15:39:54] [Server thread/INFO]: _YuanXiao_ >> cao[m
+[15:39:56] [Server thread/INFO]: Ttu_nnm was slain by Zombie
+[15:40:14] [Server thread/INFO]: _YuanXiao_ >> North_dreamÒÂ·şËÍÄãÁË[m
+[15:40:17] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ??[m
+[15:40:17] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒËûÂèÉÏÒ»Ãë»¹Ëµ±ğ¿ª»î°åÃÅ[m
+[15:40:33] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ºÃÀÃ[m
+[15:40:34] [Server thread/INFO]: _YuanXiao_ >> Ã»¿´µ½hhhc[m
+[15:40:35] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ²»Òª £ºÎÒ£»[m
+[15:40:37] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[15:40:42] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »î¸Ã[m
+[15:40:48] [Server thread/INFO]: _YuanXiao_ >> Ã»ÊÂ[m
+[15:40:59] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¸øÄã¶ªÏä×ÓÀïÁË[m
+[15:41:12] [Server thread/INFO]: _YuanXiao_ >> az[m
+[15:41:16] [Server thread/INFO]: _YuanXiao_ >> ÎÒ²»Òª°¡[m
+[15:41:20] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÄÇ[m
+[15:41:26] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¶ªÑÒ½¬Ò²ÉÕ²»µô[m
+[15:41:32] [Server thread/INFO]: Bay_Max_ >> ÏÉÈËÕÆ£¨[m
+[15:41:34] [Server thread/INFO]: _YuanXiao_ >> :w:[m
+[15:41:39] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¶ª¸øÖíÁé´©´©°É[m
+[15:41:40] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:41:57] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ±±ÃÎÄãÏÂÃæÇåÒ»ÏÂ¹ÖÎï[m
+[15:42:01] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÇëÁË[m
+[15:42:11] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ±ğ¿ª»î°åÃÅ[m
+[15:42:20] [Server thread/INFO]: _YuanXiao_ >> šG[m
+[15:42:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@2560874a[id=<null>,name=upsama,properties={},legacy=false] (/127.0.0.1:62563) lost connection: Disconnected
+[15:42:24] [Server thread/INFO]: _YuanXiao_ >> ÇÊ³á¡£¡£¡£[m
+[15:42:25] [User Authenticator #399/INFO]: UUID of player upsama is 9618bb26-059b-4501-8ff2-c2c738588057
+[15:42:25] [Server thread/INFO]: upsama[/127.0.0.1:62565] logged in with entity id 1986593 at ([world]3201.951316542557, 68.0, 516.9875000119209)
+[15:42:27] [User Authenticator #398/INFO]: Disconnecting /127.0.0.1:62563: Failed to verify username!
+[15:42:27] [User Authenticator #398/ERROR]: Username 'upsama' tried to join with an invalid session
+[15:42:30] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> upsama~[m
+[15:42:48] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÄãËÍÎÒµÄgalganmeÎÒ»¹Ã»Íæ:w:[m
+[15:43:00] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> galgame[m
+[15:43:01] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:43:35] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ½¨ÒéÑÓ³Ù1tÏÈÍÆÁ©±ßÔÙÍÆÖĞ¼ä[m
+[15:43:37] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:43:38] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[15:43:38] [Server thread/INFO]: adhesive_tape left the game
+[15:43:41] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> àÅ[m
+[15:43:43] [User Authenticator #400/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:43:43] [Server thread/INFO]: adhesive_tape[/127.0.0.1:62579] logged in with entity id 1988188 at ([world_nether]218.62903157174975, 115.5625, 28.435026887379987)
+[15:44:18] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÓĞÃ»ÓĞtnt[m
+[15:44:20] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:44:23] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ã»[m
+[15:44:26] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒÏëÊÔÊÔÆÆ»ùÑÒ:w:[m
+[15:44:42] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Õ¨ÌÅ¾¯¸æ:w:[m
+[15:44:55] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[15:44:55] [Server thread/INFO]: Ttu_nnm left the game
+[15:44:57] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ğ¡ãöºÃÑ·°¡[m
+[15:44:58] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:45:03] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ñ«ÕÂ¾Í¸ø¸öÈ¾ÁÏ[m
+[15:45:07] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:45:10] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Äã²Å·¢ÏÖ[m
+[15:45:13] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÖ±½Ó¶ªÁË[m
+[15:45:17] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:45:25] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÄãµÄÊÇÉ¶É« µÄ:w;[m
+[15:45:35] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Í³Ò»À¶É«[m
+[15:45:38] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[15:45:47] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒ¶ªÎÒÊ÷³¡¼ÒÀïµ±Õ¹Ê¾:w;[m
+[15:46:01] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¶ÔÁË ËµÆğÄãµÄÊ÷³¡[m
+[15:46:04] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :W:[m
+[15:46:06] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Õ¨ÁË£¿[m
+[15:46:16] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ä¿Ç°ÄãµÄÊ÷³¡ºÍºÓÍåµÄÊ÷³¡Ó¦¸ÃÊÇ·şÎñÆ÷×î´óµÄÓ®¼ÒÁË[m
+[15:46:21] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:?[m
+[15:46:24] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎªÉ¶£¿£¿[m
+[15:46:24] [Server thread/INFO]: _YuanXiao_ >> Ghost_king_µòÁã÷¼÷ÃËş¹«ÓÃ£¿[m
+[15:46:27] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> àÅ[m
+[15:46:32] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:46:40] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎªÉ¶ÊÇ×î´óÓ®¼Ò[m
+[15:46:41] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:46:51] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÒòÎª×Ï¾§ºÍÆäËûµØ·½µÄÊ÷³¡¼¸ºõ¶¼Õ¨ÁË[m
+[15:46:54] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:47:06] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ×Ï¾§µÄÊ÷³¡ÊÇfallenµÄÉè¼Æ[m
+[15:47:12] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> fallenĞ¡Ìì²Å:W:[m
+[15:47:13] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ·´ÕıĞ§ÂÊ¾Ş¸ß[m
+[15:47:33] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:47:35] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µ«ÊÇ·şÎñÆ÷¸üĞÂ+ÌØĞÔ[m
+[15:47:38] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µ¼ÖÂÖ±½ÓÍËÒÛ[m
+[15:47:47] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒ¿ÉÒÔÔÚÕâÀï¿³Âğ:w;[m
+[15:48:01] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÈ¥ÉÏÉÏÃæ¿³ ±ğ¿ª»î°åÃÅ[m
+[15:48:34] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:48:38] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ²îµãÌø½øÈ¥ÁË[m
+[15:48:40] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:48:58] [Server thread/INFO]: adhesive_tape >> ÖÕÓÚ°ÑÅ®Î×¸ãµ½Ä©µØ[m
+[15:49:00] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[15:49:07] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÄãÃÇÔÚ[m
+[15:49:08] [Server thread/INFO]: adhesive_tape >> Ë®É³Å®Î×ÎÒ°ÑËûÑïÁË[m
+[15:49:14] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÂÓ¶áÊ½Ë¢ÌúËş£¿[m
+[15:49:19] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:?[m
+[15:49:23] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÓĞÁËÑ½[m
+[15:49:27] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[15:49:33] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °×ÀĞµÄË¢ÌúËşÎÒ¸ÄÁËÒ»ÏÂ Ğ§ÂÊ»¹²»´í[m
+[15:49:35] [Server thread/INFO]: adhesive_tape >> Å®Î×ÔÚÄ©µØÖ÷µº±ùµÀÉÏ[m
+[15:49:38] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:49:44] [Server thread/INFO]: adhesive_tape >> Ë­öèÅ®Î×ÎÒ°ÑËûÑïÁË[m
+[15:49:51] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÓĞÃ»ÓĞ¿¼ÂÇ°ÑÖ÷µºÍÚ¸É¾» :w:[m
+[15:50:00] [Server thread/INFO]: _YuanXiao_ >> gk[m
+[15:50:02] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¿¼ÂÇ¹ı[m
+[15:50:07] [Server thread/INFO]: Bay_Max_ >> ÒâÒå²»´ó[m
+[15:50:10] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:50:13] [Server thread/INFO]: _YuanXiao_ >> ÎÒÕ¦ÏÂÈ¥¡£¡£¡£[m
+[15:50:15] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÏëÑ§Ï°tisÌÍ¿ÕÖ÷µ¼[m
+[15:50:18] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:50:18] [Server thread/INFO]: Bay_Max_ >> ³ı·ÇÄãÓĞ½¨ÖşµÄÉè¼ÆË¼Â·[m
+[15:50:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@3da872ca[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:62633) lost connection: Disconnected
+[15:50:27] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒÏëÑ§Ï°tis×öÒ»¶ÑÄ©µØÅ©³¡[m
+[15:50:29] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:50:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ffb46dd[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:62635) lost connection: Disconnected
+[15:50:33] [User Authenticator #401/INFO]: Disconnecting /127.0.0.1:62635: Failed to verify username!
+[15:50:33] [User Authenticator #401/ERROR]: Username 'Block_linyi' tried to join with an invalid session
+[15:50:33] [User Authenticator #402/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[15:50:33] [Server thread/INFO]: Block_linyi[/127.0.0.1:62637] logged in with entity id 1990975 at ([world_nether]-882.4412724732591, 44.0, 1425.685571746147)
+[15:50:39] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÌøÏÂÈ¥ ËÀ²»µô[m
+[15:50:40] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ÎÒÃÇÑ§Ğ£¿ªÑ§Ê±¼äÌøÆ±[m
+[15:50:40] [Server thread/INFO]: _YuanXiao_ >> gk[m
+[15:50:43] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:50:45] [Server thread/INFO]: Bay_Max_ >> »òĞí·şÎñÆ÷²»ÔÊĞíÄãÕâÑù×ö£¨[m
+[15:50:46] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ¸øÎÒÕûÁÑ¿ªÁË[m
+[15:50:49] [Server thread/INFO]: Block_linyi >> +1[m
+[15:50:51] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒ»¹ÓĞ²»µ½Ò»ĞÇÆÚ¿ªÑ§[m
+[15:50:52] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[15:50:57] [Server thread/INFO]: Block_linyi >> ÎÒ¿ªÑ§Ê±¼äÒ²±äÁË[m
+[15:50:59] [Server thread/INFO]: Bay_Max_ >> 9.2 ([m
+[15:51:00] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ÎÒÃÇ½ñÌìÒ»µãµÄÊ±ºòÍ¨Öª·¢À´[m
+[15:51:01] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿[m
+[15:51:03] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÊÇÂğ[m
+[15:51:04] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ËµÃ÷Ìì¿ªÑ§[m
+[15:51:07] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[15:51:08] [Server thread/INFO]: Bay_Max_ >> az[m
+[15:51:11] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ²Ò[m
+[15:51:17] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> È»ºóÎÒ²¹ÁËÒ»ÏÂÎçµÄ×÷Òµ[m
+[15:51:21] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÃÇ¿ªÑ§31ºÅÏÂÎç¾ÍµÃ»ØÈ¥ÁËqwq[m
+[15:51:23] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ¸Õ¸ÕÓÖ·¢Í¨Öª[m
+[15:51:25] [Server thread/INFO]: Block_linyi >> ÎÒÃÇ±¾À´ÊÇ8.28¿ªÑ§£¬±ä³É8.30[m
+[15:51:26] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> Ã÷Ìì¿ªÑ§[m
+[15:51:29] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:51:30] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ³åÍ»ÁË[m
+[15:51:34] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ¸Ä³ÉºóÌì[m
+[15:51:34] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒÃÇÒ²ÊÇ[m
+[15:51:39] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> 31È¥Ñ§Ğ£[m
+[15:51:45] [Server thread/INFO]: Bay_Max_ >> ÎÒÃÇ9.1¸Ä9.2[m
+[15:51:58] [Server thread/INFO]: _YuanXiao_ >> ÎÒºóÌìqwq[m
+[15:52:09] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ±±ÃÎ[m
+[15:52:11] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ?[m
+[15:52:15] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> _YuanXiao_[m
+[15:52:18] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ËãÁË[m
+[15:52:18] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ÄãÆ¤·ôºÃ³ó[m
+[15:52:20] [Server thread/INFO]: _YuanXiao_ >> ???[m
+[15:52:21] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:52:22] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> tab¿´[m
+[15:52:24] [Server thread/INFO]: _YuanXiao_ >> cao[m
+[15:52:29] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> Ïñ¸öĞÉĞÉ[m
+[15:52:29] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[15:52:42] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒtabÖ»ÄÜ¿´¼ûupÁÖÒÀµÄÆ¤·ô[m
+[15:52:46] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÔªÏü£ºÄãËûÂè²ÅĞÉĞÉ[m
+[15:52:47] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[15:52:50] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÈ«¼Ò¶¼ĞÉĞÉ[m
+[15:52:50] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ğ»ÌØ[m
+[15:52:57] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ÄãÇÆ²»ÆğĞÉĞÉ£¿[m
+[15:53:01] [Server thread/INFO]: _YuanXiao_ >> ÄãÏñÒ»¸ö**[m
+[15:53:01] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ÎÒÒª¸æËßÖĞ¹ú°İ[m
+[15:53:11] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ºÃ¼¸°ÙÍò·ÛË¿[m
+[15:53:12] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÕâÊÇ¸ö¹£ĞÖµÜ[m
+[15:53:12] [User Authenticator #403/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[15:53:12] [Server thread/INFO]: North_dream lost connection: You logged in from another location
+[15:53:12] [Server thread/INFO]: North_dream left the game
+[15:53:12] [Server thread/INFO]: North_dream[/127.0.0.1:62657] logged in with entity id 1992629 at ([world_nether]192.7104027718238, 41.0, 903.6746900256221)
+[15:53:18] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> £¿£¿£¿[m
+[15:53:25] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ÎÒÖªµÀ[m
+[15:53:27] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ·ãÒ¶°üÀïÃ»ÓĞ¸ßÇåĞŞ¸´[m
+[15:53:30] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÈ«¼Ò¶¼ĞÉĞÉ=ÄãÈ«¼Ò¶¼**[m
+[15:53:39] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ±±ÃÎÄãÔõÃ´¸Õ¸ÕÍ»È»Ã»ÁË[m
+[15:53:45] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Õı³£[m
+[15:53:49] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ã»ÁËºÃ¼¸´Î[m
+[15:53:55] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¼ÒÀï³ıÁËÎÒµÄÌ¨Ê½[m
+[15:53:57] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ÁïÁË[m
+[15:53:58] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒ¸çµÄ±Ê¼Ç±¾[m
+[15:53:59] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÊÖ»ú[m
+[15:54:00] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ÍæÌÇ¶¹ÈËÈ¥ÁË[m
+[15:54:01] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¶¼ÓĞÍû[m
+[15:54:03] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Íø[m
+[15:54:12] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒÖ»ÄÜÓÃusbÍøÂç¹²Ïí[m
+[15:54:12] [Server thread/INFO]: Villager EntityVillager['Villager'/1992194, l='ServerLevel[world_nether]', x=343.49, y=115.00, z=-14.40] died, message: 'Villager was shot by Bay_Max_'
+[15:54:44] [Server thread/INFO]: Block_linyi >> _YuanXiao_Ã»¿´¼ûÄã×°±¸[m
+[15:54:57] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ?[m
+[15:54:58] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[15:55:03] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Áù¸öÍ·ÁË[m
+[15:55:03] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ¼ñÁË°¡[m
+[15:55:03] [Server thread/INFO]: Block_linyi >> ¶à°ëË¢Ã»ÁË[m
+[15:55:06] [Server thread/INFO]: Block_linyi >> ???[m
+[15:55:10] [Server thread/INFO]: Block_linyi >> az[m
+[15:55:11] [Server thread/INFO]: upsama lost connection: Disconnected
+[15:55:11] [Server thread/INFO]: upsama left the game
+[15:55:17] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÊÇ²»ÊÇÔªÏü¸Õ¸ÕËÀĞÂÇø¿éÁË[m
+[15:55:22] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ?[m
+[15:55:25] [Server thread/INFO]: Block_linyi >> en[m
+[15:55:31] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> »°Ëµ:w;[m
+[15:55:32] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ°ïËûÊÕÊ°ÁË[m
+[15:55:45] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÄãÃÇÅÜÁË¶àÔ¶²ÅÕÒµ½ĞÂÇø¿éµÄ:w:[m
+[15:56:03] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> e[m
+[15:56:30] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ë»£¨*[m
+[15:56:33] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ee[m
+[15:56:41] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÀÁµÃÓÃÖĞ¼ÌÆ÷[m
+[15:56:44] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:56:44] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÓĞÖĞ¼ÌÆ÷Âğ[m
+[15:56:46] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ã»ÓĞ[m
+[15:56:52] [Server thread/INFO]: Block_linyi >> ÏÖÔÚ²»ÓÃ³îÃ»ÇÊ³áÁË[m
+[15:56:52] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒÉíÉÏ¿ÕµÄ[m
+[15:57:07] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ´óÊå¸Õ·¢µÄ1.16.2Ğ¡ÖíÈË¸´ÖÆ[m
+[15:57:08] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ğ¡ĞÄÊ¹ÓÃÌØĞÔ±»xl ban[m
+[15:57:08] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;|[m
+[15:57:11] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÄãÃÇ¿´ÁËÂğ[m
+[15:57:11] [Server thread/INFO]: Block_linyi >> az[m
+[15:57:12] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:57:21] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[15:57:22] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ´óÊåÖ®Ç°¾ÍÓĞÈËÖªµÀÁË[m
+[15:57:26] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÊìÏ¤µÄÉùÒô[m
+[15:57:29] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒ¸çÔÚÍæÌÇ¶¹ÈË[m
+[15:57:31] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w[m
+[15:57:46] [Server thread/INFO]: Block_linyi >> ¸´ÖÆÇÊ³á»á²»»á±»ban[m
+[15:57:49] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:57:51] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²»ÖªµÀ[m
+[15:57:54] [Server thread/INFO]: Bay_Max_ >> ¿´¹«Ô¼£¨[m
+[15:57:59] [Server thread/INFO]: Bay_Max_ >> XD[m
+[15:58:03] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¹«Ô¼ÔõÃ´ËµµÄ:w;[m
+[15:58:08] [Server thread/INFO]: Block_linyi >> ·´ÕıÎÒÃ»ÓĞ¸´ÖÆ[m
+[15:58:08] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¹¨«hÔõÃ´ËµµÄ[m
+[15:58:12] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:58:16] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[15:58:16] [Server thread/INFO]: Bay_Max_ left the game
+[15:58:20] [User Authenticator #404/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[15:58:20] [Server thread/INFO]: Bay_Max_[/127.0.0.1:62700] logged in with entity id 1995743 at ([world_nether]157.68814897111895, 115.0, -165.96133985220504)
+[15:58:33] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÕâÕ¦Ã»¹ÖÁË:w:[m
+[15:58:44] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õı³£[m
+[15:58:52] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:58:55] [Server thread/INFO]: Villager EntityVillager['Villager'/1993975, l='ServerLevel[world_nether]', x=159.82, y=115.50, z=-143.42] died, message: 'Villager was burnt to a crisp whilst fighting Bay_Max_'
+[15:59:04] [Server thread/INFO]: adhesive_tape >> ±±ÃÎ[m
+[15:59:06] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ?[m
+[15:59:11] [Server thread/INFO]: adhesive_tape >> ÈËÄØ[m
+[15:59:16] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> µòÁãËş[m
+[15:59:18] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:59:34] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ËãÁË Ôì¸öÖĞ¼ÌÆ÷°Éqwq[m
+[15:59:38] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[15:59:40] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> bksn[m
+[15:59:44] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÓÃÕì²âÆ÷²»ĞĞÂğ[m
+[15:59:46] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[15:59:53] [Server thread/INFO]: _YuanXiao_ lost connection: Timed out
+[15:59:53] [Server thread/INFO]: _YuanXiao_ left the game
+[16:00:00] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ±ğÎÊ[m
+[16:00:03] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÊ¾ÍÊÇ²»Ïà¸ã[m
+[16:00:17] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> °Ë¸öÍ·ÁË[m
+[16:00:18] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:00:36] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ×òÌìMr[m
+[16:00:39] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ´ó¸Å[m
+[16:00:42] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÔÚÏÖ³¡[m
+[16:00:49] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 2Ğ¡Ê± Ë¢ÁË2×éÍ·°É[m
+[16:01:05] [Server thread/INFO]: adhesive_tape >> ¸øÄã¼¸¸ö¿é[m
+[16:01:09] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ?[m
+[16:01:13] [Server thread/INFO]: adhesive_tape >> ÁïÁË[m
+[16:01:21] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[16:01:21] [Server thread/INFO]: adhesive_tape left the game
+[16:01:27] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> tapeÅ¯ÄĞqwq[m
+[16:01:32] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:01:37] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒ²îµã°ÑĞşÎäÑÒ[m
+[16:01:40] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> iÁËiÁË[m
+[16:01:42] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¿´³É»ùÑÒÁË[m
+[16:02:41] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:02:48] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎªÁËÊ£ÖĞ¼ÌÆ÷[m
+[16:02:50] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[16:02:53] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ê¡[m
+[16:02:58] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> w[m
+[16:03:47] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¾Å¸öÍ·ÁË[m
+[16:03:48] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:05:09] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:05:45] [Server thread/WARN]: North_dream moved wrongly!
+[16:05:51] [Server thread/WARN]: North_dream moved wrongly!
+[16:05:51] [Server thread/WARN]: North_dream moved wrongly!
+[16:05:53] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ·¢ÏÖÎÒÌØ±ğÏ²»¶ÓÃÕâÖÖÀÏÊ½µçÂ·[m
+[16:05:54] [Server thread/WARN]: North_dream moved wrongly!
+[16:05:54] [Server thread/WARN]: North_dream moved wrongly!
+[16:05:56] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:05:58] [Server thread/WARN]: North_dream moved wrongly!
+[16:05:58] [Server thread/WARN]: North_dream moved wrongly!
+[16:05:59] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:00] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:00] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:00] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:00] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:01] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:02] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:03] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:04] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:05] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:10] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒ³ö²»È¥ÁË:w:[m
+[16:06:14] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:15] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:19] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:19] [Server thread/WARN]: North_dream moved wrongly!
+[16:06:25] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 2333[m
+[16:06:53] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²»¶Ô[m
+[16:06:59] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸Ğ¾õÕâÑùÓĞµã¿ì[m
+[16:07:16] [Server thread/INFO]: Block_linyi >> Ğè²»ĞèÒªºìÊ¯Ôª¼şÑ½[m
+[16:07:18] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:07:20] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ĞèÒª[m
+[16:07:29] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸÷ÖÖ±È½ÏÆ÷ ÖĞ¼ÌÆ÷ ºìÊ¯·Û Â©¶·[m
+[16:07:33] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> »¹ÓĞÁ©×éÑÌ»¨[m
+[16:07:35] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:07:38] [Server thread/INFO]: Block_linyi >> ÑÌ»¨ÎÒÓĞ[m
+[16:07:40] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ò»×é½ğÂÜ²·[m
+[16:07:42] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[16:07:46] [Server thread/INFO]: Block_linyi >> ÄãÃÇÔÚ¿ÕÖÃÓòÂğ[m
+[16:07:48] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> en[m
+[16:08:32] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µÄµÈÒ»ÏÂ ±ğ¼±[m
+[16:08:35] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÊÔÊÔĞ§¹û[m
+[16:08:37] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:08:49] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ä¾ÓĞ¹Ö:w;[m
+[16:09:32] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> emmm[m
+[16:09:43] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> »á²»»áÁ©²ã¸üºÃÒ»µã:;w[m
+[16:09:50] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¶Ô[m
+[16:10:05] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:10:09] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ºÃ¶àºìÊ¯:w;[m
+[16:10:14] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ok[m
+[16:10:17] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Õâ¸öºĞ×ÓÇëÎñ±Ø¸øÎÒÒ»·İ:w:[m
+[16:10:21] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Òª²»ÏÈ·ÅÔÚÕâÀï[m
+[16:10:28] [Server thread/INFO]: Block_linyi >> en[m
+[16:10:40] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÑÌ»¨Şô[m
+[16:10:42] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w'[m
+[16:10:50] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÑÌ»¨ºÍÂÜ²·ÄØ:w;[m
+[16:11:07] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:11:09] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ğ»ÁË[m
+[16:11:23] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿£¿£¿£¿£¿[m
+[16:11:37] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÓĞ¶ÍÔìÌ«Âğ[m
+[16:11:38] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[16:11:47] [Server thread/INFO]: Block_linyi >> ÓĞÌúºÍÄ¾Í·[m
+[16:12:02] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ºÃ¾ÃÃ»À´É¶¶¼Ã»ÓĞ:w"[m
+[16:12:08] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ô­À´ÎÒ½Ğ¶ÍÔìÌ«qwq[m
+[16:12:21] [Server thread/INFO]: Ghost_king_ lost connection: Timed out
+[16:12:21] [Server thread/INFO]: Ghost_king_ left the game
+[16:12:29] [Server thread/INFO]: Block_linyi >> ĞÅ±êÎÒÓĞ2¸ö[m
+[16:12:35] [Server thread/INFO]: Block_linyi >> ×òÌì´òµÄ[m
+[16:13:02] [User Authenticator #405/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[16:13:02] [Server thread/INFO]: Ghost_king_[/127.0.0.1:62806] logged in with entity id 1999746 at ([world_nether]190.36348447570464, 41.0, 903.2466091884172)
+[16:13:18] [Server thread/INFO]: North_dream has completed the challenge [Cover Me in Debris]
+[16:13:26] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> a[m
+[16:13:28] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¹ÇÍ·±ğ¶ª°¡[m
+[16:13:37] [Server thread/INFO]: Block_linyi >> Ã»¶ª¹ÇÍ·[m
+[16:13:58] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ä§Ó°Ïä·ÅÒ»ÏÂ:w;[m
+[16:14:05] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÔ·ğÁË[m
+[16:14:08] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ±³°üÈ«ÊÇÃºÌ¿¹ÇÍ·[m
+[16:14:41] [Server thread/INFO]: Block_linyi >> ÎÒ±³°üÈ«ÊÇÇ±Ó°ºĞ[m
+[16:15:01] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÔ²Û[m
+[16:15:04] [Server thread/INFO]: Block_linyi >> ?[m
+[16:15:10] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Òª²»ÊÇÍ¼ÌÚÎÒÖ±½Óµ±³¡È¥ÊÀ[m
+[16:15:12] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> e[m
+[16:15:35] [Server thread/INFO]: Block_linyi lost connection: Disconnected
+[16:15:35] [Server thread/INFO]: Block_linyi left the game
+[16:15:42] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÃµãº£¾§Ê¯¹ıÀ´[m
+[16:15:46] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¡²» º£¾§µÆ[m
+[16:16:25] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:16:48] [Server thread/WARN]: North_dream moved wrongly!
+[16:17:34] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ×Ô´ÓºìÊ¯Ïä×ÓµôÑÒ½¬ÁË[m
+[16:17:35] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °ïÎÒÄÃ×Å ÏÈ[m
+[16:17:38] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒ¾ÍÃ»ÔõÃ´Ãş¹ıºìÊ¯[m
+[16:17:41] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> |:W:[m
+[16:17:55] [Server thread/WARN]: North_dream moved wrongly!
+[16:18:08] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> À´À´À´[m
+[16:18:12] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÕâÀïÌîÉÏqwq[m
+[16:18:27] [Server thread/INFO]: North_dream lost connection: Timed out
+[16:18:27] [Server thread/INFO]: North_dream left the game
+[16:19:32] [Server thread/WARN]: Ghost_king_ moved wrongly!
+[16:19:33] [Server thread/WARN]: Ghost_king_ moved wrongly!
+[16:19:34] [Server thread/WARN]: Ghost_king_ moved wrongly!
+[16:19:34] [Server thread/WARN]: Ghost_king_ moved wrongly!
+[16:19:35] [Server thread/WARN]: Ghost_king_ moved wrongly!
+[16:19:41] [Server thread/WARN]: Ghost_king_ moved wrongly!
+[16:19:42] [Server thread/WARN]: Ghost_king_ moved wrongly!
+[16:19:43] [Server thread/WARN]: Ghost_king_ moved wrongly!
+[16:19:43] [Server thread/WARN]: Ghost_king_ moved wrongly!
+[16:19:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@212dab92[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:62857) lost connection: Timed out
+[16:20:07] [User Authenticator #406/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[16:20:07] [Server thread/INFO]: North_dream[/127.0.0.1:62864] logged in with entity id 2001516 at ([world_nether]199.11253041390168, 42.0, 905.7374043335874)
+[16:20:14] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:20:51] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> »°Ëµ[m
+[16:20:56] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Õâ¹·¸ÉÂïÓÃµÄ[m
+[16:21:07] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Çı¸ÏµòÁã÷¼÷Ã[m
+[16:21:12] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:21:34] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Õâ¸Ğ¾õÒ²Ã»ÔõÃ´Çı¸Ï°¡[m
+[16:21:44] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:21:50] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸Ğ¾õ²»Ò»¶¨ÊÇ¶ÔµÄÄØ[m
+[16:21:50] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¹·×ÓµôµØÉÏÁË[m
+[16:22:11] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãËûÂğÂÒ¶¯Ëû¸ÉÂï£¨£¨£¨£¨£¨£¨[m
+[16:22:14] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ²»ÊÇ°¡[m
+[16:22:18] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ëı±¾À´¾ÍÔÚµØÉÏ[m
+[16:22:28] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> emmmm[m
+[16:22:32] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> »¹ÓĞÖ»¹·×Ó¿ìµôµ½Ãµ¹å´ÔÁË[m
+[16:22:33] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÇÄãÓÃÂ¥Ìİ[m
+[16:22:38] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °ÑËûÍÆÉÏÈ¥[m
+[16:23:06] [Server thread/ERROR]: Could not pass event PlayerChatEvent to ChatC v0.5
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PlayerConnection$4.evaluate(PlayerConnection.java:1628) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.util.Waitable.run(Waitable.java:25) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1072) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:352) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1007) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:846) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.lang.IllegalArgumentException: character to be escaped is missing
+	at java.util.regex.Matcher.appendReplacement(Unknown Source) ~[?:1.8.0_181]
+	at java.util.regex.Matcher.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.String.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at cf.cc7w.ChatC.ChatC.onchat(ChatC.java:247) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_181]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	... 11 more
+[16:23:06] [Server thread/INFO]: <North_dream> Ã»ÓĞÂ¥ÌİÁË:w\[m
+[16:23:58] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:24:00] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> »°Ëµ[m
+[16:24:06] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °´Å¥·Å»ØÈ¥[m
+[16:24:07] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÇÊ³áºÃÏñÄÜ¿ç¹ú1.5¸ñ·½¿é[m
+[16:24:22] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:24:24] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »¹ÍÆ£¿[m
+[16:24:28] [User Authenticator #407/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[16:24:28] [Server thread/INFO]: Magical7[/127.0.0.1:62894] logged in with entity id 2002374 at ([world]1580.0202766156845, 64.0, 879.5040546929337)
+[16:25:05] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:25:09] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ë¢ÖíÁË[m
+[16:25:16] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õı¸ÅÄî³µ[m
+[16:25:18] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õı³£[m
+[16:25:29] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ç±Ó°ºĞÉÏ»áË¢¹Ö¶ÔµÄ[m
+[16:25:41] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¹ıÀ´[m
+[16:25:52] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> aw[m
+[16:25:53] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÊÔÊÔ[m
+[16:26:10] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Èç¹û¿ÉÒÔµÄ»°ÎÒ¾Í°ÑÊÕ¼¯ÏµÍ³×öÁË[m
+[16:26:13] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[16:26:22] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¸Ğ¾õº£ĞÇ[m
+[16:26:56] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> »°ËµÄã»á²»¿É¶Ñµş·ÖÀëÂğ[m
+[16:26:57] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[16:26:59] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒÏëÑ§[m
+[16:27:00] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[16:27:06] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ë»[m
+[16:27:11] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õâ¸öµòÁã÷¼÷ÃÓĞµãÉµ[m
+[16:27:15] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> e[m
+[16:27:20] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÅö×²Ïä¶¼Åöµ½ËûÁË[m
+[16:27:31] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ËûÈ´¿³²»µ½wo[m
+[16:27:52] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ËùÒÔÄã»áÂğ[m
+[16:27:55] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ²»¿É¶Ñµş·ÖÀë[m
+[16:28:06] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²»»á ÏÂÒ»¸ö[m
+[16:28:09] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:28:32] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¿ìÈ¥Ñ§£¬Ñ§ÁËÈ»ºó½ÌÎÒ(ÈÃÎÒ³­):w;(bushi[m
+[16:28:35] [Server thread/INFO]: Bay_Max_ >> ¾ÍÀûÓÃÒ»Ğ©²»¿É¶ÑµşÎïÆ·µÄÌØĞÔ[m
+[16:28:38] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> (bushi[m
+[16:28:40] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒÖªµÀ[m
+[16:28:44] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒ¿´ÁËĞÂ±øµÄÊÓÆµ[m
+[16:28:46] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:28:53] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄæÏòË¼Î¬£¿[m
+[16:28:56] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ò»¸ö²»¿É¶ÑµşµÈÓÚ[m
+[16:28:59] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ò»×é[m
+[16:29:24] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¿ÉÒÔÖ±½ÓÈÃ±È½ÏÆ÷·¢³öÈı¸ñĞÅºÅ:w;[m
+[16:29:28] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[16:29:28] [Server thread/INFO]: Magical7 left the game
+[16:29:38] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[16:29:56] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:30:11] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¡Õâ[m
+[16:30:16] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ½¨ÒéÔÚÎÒÉíºó·ÅÒ»¸öÏÉÈËÕÆ:w;[m
+[16:30:20] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »¹ÊÇ»á¿¨qwq[m
+[16:30:36] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒ·ğÁË:w:[m
+[16:30:39] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> È«ÊÇ¹ÇÍ·[m
+[16:30:56] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¿´¿ªÒ»µã[m
+[16:31:06] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ±Ï¾¹Å·»ÊÊØºã¶¨ÂÉÔÚÄÄÀï[m
+[16:31:12] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:31:20] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ºÏ½ğÍ·¿øºÍÎÒµÄ¿ÚÕÖ[m
+[16:31:24] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÔÚÒ»Æğ¸Ğ¾õ[m
+[16:31:27] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ºÃÉ±µô[m
+[16:31:31] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> É³µñ[m
+[16:32:09] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> e[m
+[16:32:15] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¾ÍÒ»¸öÂ©¶·½Ó×ÅÏä×Ó[m
+[16:32:20] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> »á²»»áÑ¹Á¦´óÁË[m
+[16:32:27] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »á¸Ä£¨£¨£¨£¨£¨£¨£¨[m
+[16:33:02] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒÏëÏÖÔÚ¾ÍÈ¥Ò»¸öÄ©µØÍâµº¿ªÈıÖ»µòÁã(((((((((([m
+[16:33:16] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µòÁã£¨ºÃ°¡[m
+[16:33:22] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µÈÏÂ[m
+[16:33:34] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãÓÃº£¾§µÆ°ÑÕâÀïÌîÉÏ[m
+[16:33:37] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> e[m
+[16:33:47] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> eee[m
+[16:34:08] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÊÇÕâÀï£¡£¡£¡£¡£¡£¡[m
+[16:34:13] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¨£¨£¨£¨£¨£¨£¨£¨£¨£¨[m
+[16:34:46] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ºìÊ¯ÏßÉÏ²»ÊÇ²»Ë¢¹ÖÂğ[m
+[16:34:52] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¶Ô°¡[m
+[16:35:30] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ë»[m
+[16:35:36] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> e[m
+[16:35:38] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »ï°éÃÅ»á¿¨ÚÀ[m
+[16:35:46] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÜ²»ÄÜÓÃÕ¤À¸ÃÅ°¡[m
+[16:36:02] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:36:03] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õ¤À¸ÃÅ¹ÖÎïÒ²»áÅĞ¶¨³É·½¿é°É[m
+[16:36:07] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Õâ¸ß¶È[m
+[16:36:25] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> 1.5+¸ñ¿É»¹ĞĞ[m
+[16:36:26] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:36:34] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[16:36:34] [Server thread/INFO]: Bay_Max_ left the game
+[16:36:39] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÅŞ[m
+[16:36:43] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> 0.5+¸ñ[m
+[16:36:59] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄãºÃĞ¡°¡[m
+[16:37:01] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÄãÖªµÀÂğ[m
+[16:37:08] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> º£¾§ÄÇ¸öÖíÈËËş[m
+[16:37:10] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ö¸ÈËÎï´óĞ¡[m
+[16:37:11] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿[m
+[16:37:21] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ö®Ç°¿¨ÁËÒ»¶Ñ¸¯Èâ½ğ×ÓÔÚÂ©¶·Àï[m
+[16:37:54] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Õâ¸ö¸ß¶È[m
+[16:37:56] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ã²ËÆÊÇ[m
+[16:37:58] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> 0.7[m
+[16:38:03] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¨[m
+[16:38:19] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Êı³öÀ´µÄ(bushi[m
+[16:39:37] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Í»È»Ã»ÈË:w:[m
+[16:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[16:39:44] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÚÀ­£¡[m
+[16:39:49] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÚÀ­£¡[m
+[16:40:20] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÑÒ½¬ÄÜ³å×ßµòÁã÷¼÷ÃÂğ[m
+[16:40:28] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÜµÄ[m
+[16:40:33] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:40:37] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¶øÇÒ1.16¸Ä°æÒÔºó[m
+[16:40:46] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÑÒ½¬³åÊµÌåµÄËÙ¶È±ä¿ìÁË[m
+[16:40:50] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:41:08] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> °×ÀĞµÄÁÒÑæÈËËşÖ±½Ó×÷·Ï:w;[m
+[16:41:23] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿ZAKER[m
+[16:41:25] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õ¦ÁË[m
+[16:41:29] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ºÎÌ¸×ô·Æ[m
+[16:41:31] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ?[m
+[16:41:32] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ×÷·Ï£¨[m
+[16:41:33] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[16:41:36] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ö±½ÓÑÒ½¬³å°¡[m
+[16:41:38] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:41:50] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÁÒÑæÈË»á·Ñ[m
+[16:41:52] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »á·É[m
+[16:41:54] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¶øÇÒ[m
+[16:41:57] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ã»ÓĞ¹¥»÷Ä¿±ê[m
+[16:42:03] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ËäÈ»Ôö¼ÓÁËËÙ¶Èµ«ÊÇÈÔÈ»£¨[m
+[16:42:12] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> º«Âş[m
+[16:42:16] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ºÜÂı[m
+[16:42:24] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒÉú´æ£¨bushiÒÑ¾­Êµ×°ÁË[m
+[16:42:26] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:43:03] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¸ÕºÃ[m
+[16:43:06] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> 18¸öÍ·[m
+[16:43:07] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[16:43:18] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:43:27] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> »úÆ÷¶¼»¹Ã»²ğ[m
+[16:43:36] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¡Õâ[m
+[16:44:03] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:44:13] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÊÇ1.16µØÓüÑ×²ÄÖÊ±äÁË[m
+[16:44:17] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ËæÊÖÒ»µ¶ Ò»¸öÍ·[m
+[16:44:17] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> »¹ÊÇÎÒ[m
+[16:46:00] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ±±ÃÎ[m
+[16:46:03] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ?[m
+[16:46:19] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> À´Ò»×éÏä×Ó È»ºóÀ´Ğ­ÖúÎÒ×öÒ»ÏÂ·ÖÀàqwq[m
+[16:46:24] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:46:43] [User Authenticator #408/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[16:46:43] [Server thread/INFO]: North_dream lost connection: You logged in from another location
+[16:46:43] [Server thread/INFO]: North_dream left the game
+[16:46:44] [Server thread/INFO]: North_dream[/127.0.0.1:63059] logged in with entity id 2007773 at ([world_nether]197.97466232736815, 115.0, 33.26305571242685)
+[16:47:45] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:48:37] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Äã¸Õ¸ÕËµÉ¶[m
+[16:48:46] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> À´Ò»×éÏä×Ó[m
+[16:49:01] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:49:12] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒ±»×çÖäÁË[m
+[16:50:38] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> »°Ëµ[m
+[16:50:46] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎªÊ²Ã´Ò»·«·çË³µÄÔŞÖúÂëÔÚº£¾§[m
+[16:50:48] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:51:05] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¹íÖªµÀ[m
+[16:51:11] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w[m
+[16:51:16] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Äã²»¾ÍÊÇ¹íÍõÂğ[m
+[16:51:18] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w[m
+[16:51:39] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ghostÖªµÀ²»´ú±íghost_kingÖªµÀÑ½[m
+[16:52:08] [User Authenticator #409/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[16:52:08] [Server thread/INFO]: North_dream lost connection: You logged in from another location
+[16:52:08] [Server thread/INFO]: North_dream left the game
+[16:52:08] [Server thread/INFO]: North_dream[/127.0.0.1:63102] logged in with entity id 2008692 at ([world]2600.3179856482348, 65.0, -281.94748940790595)
+[16:54:44] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:55:04] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> º£¾§´óÏÃ¾ÍÎÒºÍÁÖÒÀ¼Ò×°ĞŞÁË:w:[m
+[16:56:54] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¶à´øµãÂ©¶·[m
+[16:56:59] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ïä×Ó Â©¶·Ò»×éÆğ²½[m
+[16:57:30] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:57:34] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ë¢Ìú»ú[m
+[16:57:37] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ã»ÌúÁË£¿[m
+[16:57:46] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> È¥Ä©µØË¢Ìú»úÄÃ°É[m
+[16:57:50] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õâ¸öË¢Ìú»ú»µÁË[m
+[16:57:52] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> w[m
+[16:57:53] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ»¹Ã»ĞŞ[m
+[16:58:31] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[16:58:57] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[16:59:05] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ê÷³¡Ò²¸øÎÒÕ¥¸ÉÁË:w:[m
+[16:59:52] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> e[m
+[16:59:55] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ê÷³¡»µÁË£¿[m
+[17:00:03] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ã»°¡[m
+[17:00:08] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ×òÌìÓÃ»¹ÊÇºÃºÃµØ[m
+[17:00:26] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> e[m
+[17:00:47] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÖĞ²»ÁË°×èëÁË£¿[m
+[17:01:04] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÇÄãÃ»ÊÂ¸ÉÖÖ°×èë¸ÉÂï£¨£¨[m
+[17:01:14] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> (((([m
+[17:01:17] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÏğÄ¾¾ÍÍ¦ºÃ°¡[m
+[17:01:59] [User Authenticator #410/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[17:01:59] [Server thread/INFO]: North_dream lost connection: You logged in from another location
+[17:01:59] [Server thread/INFO]: North_dream left the game
+[17:01:59] [Server thread/INFO]: North_dream[/127.0.0.1:63173] logged in with entity id 2009456 at ([world]2757.564958204794, 68.0, -370.77742666706536)
+[17:02:29] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[17:02:31] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ²»ÊÇ°É[m
+[17:03:10] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ´ßÊì´ßµÄºÃÂı°¡[m
+[17:05:10] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> gk[m
+[17:05:23] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Äã¶ËÀïÓĞtweakrooÂğ[m
+[17:05:29] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÓĞ°¡[m
+[17:05:31] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[17:05:34] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÄãÓÃµÄË­µÄ¡¢[m
+[17:05:35] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ·ãÒ¶[m
+[17:05:38] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[17:05:43] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒÒ²ÊÇ·ãÒ¶µÄ[m
+[17:05:44] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[17:05:49] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒÔÙÃ»ÓĞ:w[m
+[17:06:17] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> c[m
+[17:06:26] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¹Ç·Û¹©²»ÉÏÀ´[m
+[17:07:39] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÕâÕæµÄÊÇ°ëÄêÕÅÒ»¿Å:w:[m
+[17:08:57] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[17:09:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@7d1f50ed[id=<null>,name=Twilight2033,properties={},legacy=false] (/127.0.0.1:63227) lost connection: Disconnected
+[17:09:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@4fdaea56[id=<null>,name=Twilight2033,properties={},legacy=false] (/127.0.0.1:63228) lost connection: Disconnected
+[17:09:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@56f992be[id=<null>,name=Twilight2033,properties={},legacy=false] (/127.0.0.1:63232) lost connection: Disconnected
+[17:09:47] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »°ËµµòÁã÷¼÷ÃÊÇ¹ÇÍ·µôµÃ¶à»¹ÊÇÃºÌ¿µôµÄ¶à°¡[m
+[17:09:51] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[17:11:06] [User Authenticator #411/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[17:11:06] [Server thread/INFO]: North_dream lost connection: You logged in from another location
+[17:11:06] [Server thread/INFO]: North_dream left the game
+[17:11:06] [Server thread/INFO]: North_dream[/127.0.0.1:63242] logged in with entity id 2010469 at ([world]2755.934430300864, 66.125, -373.76249998807907)
+[17:11:11] [User Authenticator #412/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[17:11:11] [Server thread/INFO]: North_dream lost connection: You logged in from another location
+[17:11:11] [Server thread/INFO]: North_dream left the game
+[17:11:12] [Server thread/INFO]: North_dream[/127.0.0.1:63245] logged in with entity id 2010474 at ([world]2755.934430300864, 66.125, -373.76249998807907)
+[17:11:33] [User Authenticator #413/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[17:11:33] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:63249] logged in with entity id 2010501 at ([world]1931.3857579140615, 73.0, 5862.384647410997)
+[17:11:39] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[17:12:04] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ÎÒ·ğÁË:w:[m
+[17:12:13] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ³ıÁËº£¾§µÄÆäËû¶¼¿ì²»ÈÏÊ¶ÁË:w:[m
+[17:13:11] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿£¿£¿£¿£¿£¿£¿£¿£¿[m
+[17:13:15] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ???????????[m
+[17:13:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@54118ef4[id=<null>,name=Twilight2033,properties={},legacy=false] (/127.0.0.1:63265) lost connection: Disconnected
+[17:13:19] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µòÁã÷¼÷Ã×ÔÈ»ËÀÍöÄÜµôÍ·£¿[m
+[17:13:24] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¶î[m
+[17:13:30] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¶¼ÊÇÓĞ¼¸ÂÊde[m
+[17:13:32] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;s[m
+[17:14:45] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²»ÄÜĞŞ½Å[m
+[17:14:48] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> e[m
+[17:14:50] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ĞŞ½Å¼ÓÔØ²»µ½[m
+[17:16:33] [Server thread/WARN]: North_dream moved wrongly!
+[17:17:41] [Server thread/INFO]: North_dream has made the advancement [Remote Getaway]
+[17:18:12] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¡Õâ[m
+[17:18:15] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[17:18:16] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ·¢ÏÖÒ»¸ö´óÎÊÌâ[m
+[17:18:56] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ??[m
+[17:18:58] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> az[m
+[17:19:14] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ·¢ÏÖÎÒĞŞÍ·µÄË¢¹ÖÂÊ±ÈĞŞ½Å¸ßºÜ¶à[m
+[17:19:34] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ´í¾õ[m
+[17:19:41] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²»¶Ô²»ÊÇ´í¾õ[m
+[17:20:00] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õ¾¸ßÒ»µã Ë¢¹ÖÂÊ»á¸ü¸ß[m
+[17:20:24] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> e[m
+[17:20:25] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Íæ¼Ò24¸ñÒÔÄÚ²»Ë¢¹Ö[m
+[17:20:26] [Server thread/WARN]: Entity EntityFireworks['Firework Rocket'/2019325, l='ServerLevel[world_the_end]', x=1129.50, y=116.00, z=2271.50] left loaded chunk area
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:32] [Server thread/INFO]: North_dream lost connection: Flying is not enabled on this server
+[17:20:32] [Server thread/INFO]: North_dream left the game
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:32] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:33] [Server thread/WARN]: North_dream was kicked for floating too long!
+[17:20:42] [User Authenticator #414/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[17:20:42] [Server thread/INFO]: North_dream[/127.0.0.1:63318] logged in with entity id 2019761 at ([world]1129.4656706601936, 116.71219357602602, 2271.5264537435874)
+[17:20:51] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µ«ÊÇ24¸ñË¢¹ÖÂÊÊÇ×î¸ßµÄ[m
+[17:22:15] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Â©¶· Ïä×Óawa[m
+[17:23:15] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> ¹Ò»úÈ¥ÁË:w:[m
+[17:23:23] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¹Ò×Å¹ş[m
+[17:23:42] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µÈÏÂ Äã±ğÔÚÕâÀï¹Ò»ú°¡[m
+[17:23:45] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Äãµ½ÉÏÃæÈ¥[m
+[17:23:45] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> £¿[m
+[17:23:48] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> a?[m
+[17:24:00] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õ¾ÔÚÎÒµØÓüÑÒµÄÎ»ÖÃ[m
+[17:24:12] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ĞŞÍ·[m
+[17:24:18] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w;[m
+[17:24:45] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> Ï´¼ô´µ·şÎñ:w[m
+[17:36:22] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÑÒ½¬»á²»»áÉÕµôÏä×ÓÑ½[m
+[17:39:40] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[17:45:17] [Server thread/INFO]: North_dream lost connection: Timed out
+[17:45:17] [Server thread/INFO]: North_dream left the game
+[17:45:25] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[17:45:25] [Server thread/INFO]: Ttu_nnm left the game
+[17:49:32] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3fdb06e2[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:63523): Took too long to log in
+[17:49:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@3fdb06e2[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:63523) lost connection: Took too long to log in
+[17:49:38] [User Authenticator #415/INFO]: Disconnecting com.mojang.authlib.GameProfile@3fdb06e2[id=<null>,name=North_dream,properties={},legacy=false] (/127.0.0.1:63523): Authentication servers are down. Please try again later, sorry!
+[17:49:38] [User Authenticator #415/ERROR]: Couldn't verify username because servers are unavailable
+[17:49:46] [User Authenticator #416/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[17:49:46] [Server thread/INFO]: North_dream[/127.0.0.1:63532] logged in with entity id 2045360 at ([world_nether]187.69999998807907, 42.0, 907.5828015673117)
+[17:49:58] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Äã»îÁË[m
+[17:51:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a2251c9[id=<null>,name=Bili_CMZ,properties={},legacy=false] (/127.0.0.1:63547) lost connection: Disconnected
+[17:51:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@66ccb195[id=<null>,name=Bili_CMZ,properties={},legacy=false] (/127.0.0.1:63548) lost connection: Disconnected
+[18:02:05] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> :w:[m
+[18:04:18] [Server thread/INFO]: North_dream lost connection: Disconnected
+[18:04:18] [Server thread/INFO]: North_dream left the game
+[18:10:10] [User Authenticator #417/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[18:10:10] [Server thread/INFO]: Block_linyi[/127.0.0.1:63684] logged in with entity id 2046842 at ([world_nether]190.5352250819368, 32.5, 889.7787059661441)
+[18:10:23] [Server thread/INFO]: Block_linyi >> »¹Ã»Î¬»¤£¿£¿[m
+[18:15:23] [Server thread/INFO]: Block_linyi lost connection: Disconnected
+[18:15:23] [Server thread/INFO]: Block_linyi left the game
+[18:19:20] [User Authenticator #418/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[18:19:20] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:63759] logged in with entity id 2047423 at ([world_nether]189.70228243266666, 46.0, 900.6818016684731)
+[18:20:19] [User Authenticator #419/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[18:20:19] [Server thread/INFO]: Block_linyi[/127.0.0.1:63771] logged in with entity id 2047547 at ([world_nether]-927.9696186185175, 66.0, 1394.2642415905113)
+[18:20:25] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:20:33] [Server thread/INFO]: Block_linyi lost connection: Disconnected
+[18:20:33] [Server thread/INFO]: Block_linyi left the game
+[18:20:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@179ba9a4[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:63770) lost connection: Disconnected
+[18:20:41] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:22:52] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[18:22:52] [Server thread/INFO]: the_yellowleaf left the game
+[18:24:16] [User Authenticator #420/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[18:24:16] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:63801] logged in with entity id 2047798 at ([world_nether]191.3107143575229, 32.5, 899.2928499261932)
+[18:26:09] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:26:24] [Server thread/WARN]: the_yellowleaf moved too quickly! -4.84943199356465,-8.5,9.573253523620679
+[18:26:42] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:26:56] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> 1[m
+[18:27:26] [User Authenticator #421/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[18:27:26] [Server thread/INFO]: the_yellowleaf lost connection: You logged in from another location
+[18:27:26] [Server thread/INFO]: the_yellowleaf left the game
+[18:27:26] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:63830] logged in with entity id 2047852 at ([world_nether]190.77797195764114, 32.5, 905.2285302353206)
+[18:28:25] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:28:33] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:31:28] [User Authenticator #422/INFO]: UUID of player upsama is 9618bb26-059b-4501-8ff2-c2c738588057
+[18:31:29] [Server thread/INFO]: upsama[/127.0.0.1:63868] logged in with entity id 2048059 at ([world]3243.2661063953465, 67.0, 549.6873929029123)
+[18:33:14] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ²İ[m
+[18:33:26] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÓĞµòÁãÍ·ÁË£¬µ«´ò²»¹ıµòÁã£¨[m
+[18:39:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[18:39:53] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ÌıËµ¿ÉÒÔÓÃĞ¡ÖíÜßË¢¶«Î÷[m
+[18:40:52] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:41:02] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:42:40] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> 1[m
+[18:42:43] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ÓĞÈËÃ´[m
+[18:48:11] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:48:20] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:49:50] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[18:49:50] [Server thread/INFO]: the_yellowleaf left the game
+[18:50:15] [Server thread/INFO]: upsama lost connection: Disconnected
+[18:50:15] [Server thread/INFO]: upsama left the game
+[18:55:59] [User Authenticator #423/INFO]: UUID of player upsama is 9618bb26-059b-4501-8ff2-c2c738588057
+[18:55:59] [Server thread/INFO]: upsama[/127.0.0.1:64062] logged in with entity id 2051414 at ([world_nether]755.3721077059557, 95.0, -2032.7552141358794)
+[18:59:59] [Server thread/INFO]: upsama issued server command: /co i
+[19:00:27] [Server thread/INFO]: upsama issued server command: /co i
+[19:01:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@162d30cd[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:64102) lost connection: Disconnected
+[19:01:48] [Server thread/INFO]: [Server] ¹Ø±Õ·şÎñÆ÷
+[19:01:51] [Server thread/INFO]: upsama lost connection: Disconnected
+[19:01:51] [Server thread/INFO]: upsama left the game
+[19:01:52] [Server thread/INFO]: Stopping the server
+[19:01:52] [Server thread/INFO]: Stopping server
+[19:01:52] [Server thread/INFO]: [AnGmode] Disabling AnGmode v1.0-SNAPSHOT
+[19:01:52] [Server thread/INFO]: [AnGmode] ¡ìaÏÂ´ÎÔÙ¼û~~
+[19:01:52] [Server thread/INFO]: [Lores] Disabling Lores v1.4.1
+[19:01:52] [Server thread/INFO]: [CrowdLocator] Disabling CrowdLocator v1.0
+[19:01:52] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v2.1.5-SNAPSHOT
+[19:01:52] [Server thread/INFO]: [TAB] Disabling TAB v2.8.4
+[19:01:52] [Server thread/INFO]: [0;32;1m[TAB] Disabled in 3ms[m
+[19:01:52] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[19:01:52] [Server thread/INFO]: Database closed
+[19:01:52] [Server thread/INFO]: HikariPool-1 - Shutdown initiated...
+[19:01:52] [Server thread/INFO]: HikariPool-1 - Shutdown completed.
+[19:01:52] [Server thread/INFO]: 
+ 
+[0;30;1m[]=====[[0;37;22mDisabling AdvancedBan[0;30;1m]=====[]
+[0;30;1m| [0;31;1mInformation:
+[0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[0;30;1m| [0;31;1mSupport:
+[0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[0;30;1m[]================================[][m
+ [m
+[19:01:52] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[19:01:52] [Server thread/INFO]: [PxAutoMessage] ÕıÔÚ¹Ø±ÕÆ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[19:01:52] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[19:01:52] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is disabled![m
+[19:01:52] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[19:01:52] [Server thread/INFO]: [ChatC] Disabling ChatC v0.5
+[19:01:52] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şÒÑ¹Ø±Õ£¡
+[19:01:52] [Server thread/INFO]: [ChatC] ¸ĞĞ»ÄúµÄÊ¹ÓÃ£¡
+[19:01:52] [Server thread/INFO]: [SAML] Disabling SAML v2.0.0
+[19:01:52] [Server thread/INFO]: [SAML] The frozen chunk cache file has been deleted. All chunks should have been accounted for.
+[19:01:52] [Server thread/INFO]: [SAML] Successfully disabled.
+[19:01:52] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[19:01:52] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.3.1
+[19:01:52] [Server thread/ERROR]: Error occurred while disabling EntityTrackerFixer v1.3.1 (Is it up to date?)
+java.lang.NullPointerException: null
+	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onDisable(EntityTrackerFixer.java:34) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.disablePlugins(CraftServer.java:426) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.stop(MinecraftServer.java:715) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.stop(DedicatedServer.java:647) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:887) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[19:01:52] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[19:01:52] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[19:01:53] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[19:01:53] [Server thread/INFO]: Saving players
+[19:01:53] [Server thread/INFO]: Ghost_king_ lost connection: Server closed
+[19:01:53] [Server thread/INFO]: Ghost_king_ left the game
+[19:01:53] [Server thread/INFO]: Saving worlds
+[19:01:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:01:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:01:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

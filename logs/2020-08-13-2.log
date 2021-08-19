@@ -1,0 +1,1001 @@
+[06:19:09] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[06:19:09] [Server thread/INFO]: Loading properties
+[06:19:09] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[06:19:09] [Server thread/INFO]: Debug logging is disabled
+[06:19:10] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[06:19:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:19:10] [Server thread/INFO]: Default game type: SURVIVAL
+[06:19:10] [Server thread/INFO]: Generating keypair
+[06:19:10] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[06:19:10] [Server thread/INFO]: Using default channel type
+[06:19:10] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[06:19:12] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[06:19:12] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[06:19:12] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[06:19:12] [Server thread/WARN]: Legacy plugin PlayerPoints v1.7.1 does not specify an api-version.
+[06:19:12] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[06:19:12] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[06:19:12] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[06:19:12] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[06:19:12] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[06:19:12] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[06:19:12] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[06:19:12] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[06:19:12] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[06:19:12] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[06:19:12] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v1.7.1
+[06:19:12] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[06:19:12] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[06:19:12] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[06:19:12] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[06:19:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:19:12] [Server thread/INFO]: Preparing level "world"
+[06:19:12] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[06:19:19] [Server thread/INFO]: Loaded 6 recipes
+[06:19:19] [Server thread/INFO]: -------- World Settings For [world] --------
+[06:19:19] [Server thread/INFO]: View Distance: 12
+[06:19:19] [Server thread/INFO]: Item Merge Radius: 8.0
+[06:19:19] [Server thread/INFO]: Item Despawn Rate: 3000
+[06:19:19] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[06:19:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06:19:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[06:19:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[06:19:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[06:19:19] [Server thread/INFO]: Max TNT Explosions: 100
+[06:19:19] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[06:19:19] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[06:19:19] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[06:19:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[06:19:19] [Server thread/INFO]: Experience Merge Radius: 8.0
+[06:19:19] [Server thread/INFO]: Mob Spawn Range: 4
+[06:19:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Potato Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Vine Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[06:19:19] [Server thread/INFO]: View Distance: 12
+[06:19:19] [Server thread/INFO]: Item Merge Radius: 8.0
+[06:19:19] [Server thread/INFO]: Item Despawn Rate: 3000
+[06:19:19] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[06:19:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06:19:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[06:19:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[06:19:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[06:19:19] [Server thread/INFO]: Max TNT Explosions: 100
+[06:19:19] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[06:19:19] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[06:19:19] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[06:19:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[06:19:19] [Server thread/INFO]: Experience Merge Radius: 8.0
+[06:19:19] [Server thread/INFO]: Mob Spawn Range: 4
+[06:19:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Potato Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Vine Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[06:19:19] [Server thread/INFO]: View Distance: 12
+[06:19:19] [Server thread/INFO]: Item Merge Radius: 8.0
+[06:19:19] [Server thread/INFO]: Item Despawn Rate: 3000
+[06:19:19] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[06:19:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06:19:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[06:19:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[06:19:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[06:19:19] [Server thread/INFO]: Max TNT Explosions: 100
+[06:19:19] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[06:19:19] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[06:19:19] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[06:19:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[06:19:19] [Server thread/INFO]: Experience Merge Radius: 8.0
+[06:19:19] [Server thread/INFO]: Mob Spawn Range: 4
+[06:19:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Potato Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Vine Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[06:19:19] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[06:19:19] [Server thread/INFO]: Preparing spawn area: 0%
+[06:19:19] [Server thread/INFO]: Preparing spawn area: 21%
+[06:19:20] [Server thread/INFO]: Preparing spawn area: 99%
+[06:19:20] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[06:19:20] [Server thread/INFO]: Time elapsed: 1396 ms
+[06:19:20] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[06:19:20] [Server thread/INFO]: Preparing spawn area: 0%
+[06:19:21] [Server thread/INFO]: Preparing spawn area: 100%
+[06:19:21] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[06:19:21] [Server thread/INFO]: Time elapsed: 648 ms
+[06:19:21] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[06:19:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:19:21] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[06:19:21] [Server thread/INFO]: Time elapsed: 445 ms
+[06:19:21] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[06:19:22] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[06:19:22] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[06:19:22] [Server thread/INFO]: --------------------
+[06:19:22] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[06:19:22] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[06:19:22] [Server thread/INFO]: --------------------
+[06:19:22] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[06:19:22] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[06:19:22] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[06:19:22] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[06:19:22] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[06:19:22] [Server thread/INFO]:  
+[06:19:22] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[06:19:22] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[06:19:22] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[06:19:22] [Server thread/INFO]:  
+[06:19:22] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[06:19:22] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[06:19:22] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose start
+[06:19:22] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose synched
+[06:19:22] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose script done
+[06:19:22] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose end
+[06:19:22] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[06:19:22] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[06:19:25] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   There is a new version available! [2.2.1]
+[]================================[]
+ 
+[06:19:25] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[06:19:25] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[06:19:25] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[06:19:25] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[06:19:25] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[06:19:25] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[06:19:25] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[06:19:25] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[06:19:25] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[06:19:25] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[06:19:25] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[06:19:25] [Server thread/INFO]: [EntityTrackerFixer] Vault not found! using default permission system...
+[06:19:25] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[06:19:25] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[06:19:25] [Server thread/INFO]: [SAML] Loading config.yml...
+[06:19:25] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[06:19:25] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[06:19:25] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[06:19:25] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[06:19:25] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[06:19:25] [Server thread/INFO]: [SAML] Loading messages.yml...
+[06:19:25] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[06:19:25] [Server thread/INFO]: [SAML] There is an old chunk cache file. Perhaps the server didn't shut down correctly?
+[06:19:25] [Server thread/INFO]: [SAML] Successfully enabled.
+[06:19:25] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5*
+[06:19:25] [Server thread/INFO]: [ChatC] 聊天管理插件已启用！
+[06:19:25] [Server thread/INFO]: [ChatC] 聊天管理插件当前版本：V0.5 （2017年8月24日）
+[06:19:25] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[06:19:25] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v1.7.1*
+[06:19:25] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0*
+[06:19:25] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[06:19:25] [Server thread/INFO]: [GM+] Checking Your version...
+[06:19:25] [Server thread/INFO]: ===============================
+[06:19:25] [Server thread/INFO]: 
+[06:19:25] [Server thread/INFO]:  GroupManager+ is now enable!
+[06:19:25] [Server thread/INFO]:  
+[06:19:25] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[06:19:25] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[06:19:25] [Server thread/INFO]:  Current version: v3.3
+[06:19:25] [Server thread/INFO]:  
+[06:19:25] [Server thread/INFO]: ===============================
+[06:19:25] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[06:19:25] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[06:19:25] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[06:19:25] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[06:19:25] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[06:19:25] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1*
+[06:19:25] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[06:19:25] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[06:19:25] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[06:19:25] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[06:19:25] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[06:19:26] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[06:19:26] [Server thread/INFO]: [TAB] Enabled in 437ms
+[06:19:26] [Server thread/INFO]: Done (13.563s)! For help, type "help"
+[06:19:26] [Server thread/INFO]: Timings Reset
+[06:19:26] [Server thread/INFO]: [公告] [活动] 灵魂画手已上线活动已经开放报名，详情请见群内公告。 
+[06:19:26] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[06:19:26] [Craft Scheduler Thread - 1/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[06:19:26] [Craft Scheduler Thread - 1/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[06:19:30] [Thread-18/INFO]: --------------------
+[06:19:30] [Thread-18/INFO]: [CoreProtect] Version 19.1 is now available.
+[06:19:30] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[06:19:30] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[06:19:30] [Thread-18/INFO]: --------------------
+[07:19:26] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[07:24:21] [User Authenticator #1/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[07:24:22] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[07:24:22] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:52233] logged in with entity id 618 at ([world]1092.314563666935, 75.0, -1784.732846506664)
+[07:26:41] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[07:26:41] [Server thread/INFO]: Li_zi_wei left the game
+[07:26:46] [User Authenticator #2/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[07:26:46] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:52253] logged in with entity id 944 at ([world]1068.818543216969, 63.0, -1788.8280864398153)
+[07:29:25] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[07:32:57] [Server thread/INFO]: There are 1 of a max 40 players online: Li_zi_wei
+[07:57:07] [Server thread/INFO]: Li_zi_wei >> qwq
+[07:58:47] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[07:58:47] [Server thread/INFO]: Li_zi_wei left the game
+[07:58:51] [User Authenticator #3/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[07:58:51] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:52468] logged in with entity id 5267 at ([world]1090.7979503052063, 74.0, -1786.5061205856957)
+[08:01:09] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[08:01:09] [Server thread/INFO]: Li_zi_wei left the game
+[08:06:03] [User Authenticator #4/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[08:06:03] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:52525] logged in with entity id 5523 at ([world]1090.7979503052063, 74.0, -1786.5061205856957)
+[08:19:26] [Server thread/INFO]: [公告] [活动] 灵魂画手已上线活动已经开放报名，详情请见群内公告。 
+[08:25:25] [User Authenticator #5/INFO]: UUID of player Xiao_Hong_Mao is 3cb3c835-af8d-4e8b-8506-a54938079821
+[08:25:25] [Server thread/INFO]: Xiao_Hong_Mao[/127.0.0.1:52658] logged in with entity id 7344 at ([world]2793.6998522184995, 63.0, -406.7607748829293)
+[08:27:47] [Server thread/INFO]: Xiao_Hong_Mao lost connection: Disconnected
+[08:27:47] [Server thread/INFO]: Xiao_Hong_Mao left the game
+[08:28:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@b4d5596[id=<null>,name=upsama,properties={},legacy=false] (/127.0.0.1:52681) lost connection: Disconnected
+[08:28:59] [User Authenticator #6/INFO]: UUID of player upsama is 9618bb26-059b-4501-8ff2-c2c738588057
+[08:28:59] [Server thread/INFO]: upsama[/127.0.0.1:52689] logged in with entity id 8581 at ([world]1627.128313421907, 63.0, 800.6837445384398)
+[08:29:25] [Server thread/INFO]: <女装子up> upsama >> lzw!
+[08:29:25] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[08:29:28] [Server thread/INFO]: Li_zi_wei >> ?
+[08:29:39] [Server thread/INFO]: <女装子up> upsama >> 你居然上线了
+[08:29:48] [Server thread/INFO]: Li_zi_wei >> 我以前早上都在
+[08:29:50] [Server thread/INFO]: Li_zi_wei >> 最近上课
+[08:29:51] [Server thread/INFO]: <女装子up> upsama >> ?
+[08:30:01] [Server thread/INFO]: <女装子up> upsama >> 我也上课但我照样上了
+[08:30:25] [Server thread/INFO]: Li_zi_wei >> 没办法 10:20上到5:30
+[08:30:52] [User Authenticator #7/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[08:30:52] [Server thread/INFO]: Magical7[/127.0.0.1:52706] logged in with entity id 11386 at ([world]1589.3375071195176, 68.0, 869.119040291293)
+[08:32:25] [Server thread/INFO]: Magical7 >> 绿宝石 我放青金石那个箱子里了
+[08:35:22] [Server thread/INFO]: Li_zi_wei issued server command: /p
+[08:35:28] [Server thread/INFO]: Li_zi_wei issued server command: /p lead
+[08:35:51] [Server thread/INFO]: Li_zi_wei issued server command: /p me
+[08:36:46] [Server thread/INFO]: upsama lost connection: Disconnected
+[08:36:46] [Server thread/INFO]: upsama left the game
+[08:39:17] [User Authenticator #8/INFO]: UUID of player Xiao_Hong_Mao is 3cb3c835-af8d-4e8b-8506-a54938079821
+[08:39:18] [Server thread/INFO]: Xiao_Hong_Mao[/127.0.0.1:52767] logged in with entity id 22691 at ([world]2793.3112559517617, 66.5, -449.48532296474957)
+[08:39:25] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[08:39:49] [Server thread/INFO]: Xiao_Hong_Mao issued server command: /p me
+[08:40:40] [Server thread/INFO]: Xiao_Hong_Mao lost connection: Disconnected
+[08:40:40] [Server thread/INFO]: Xiao_Hong_Mao left the game
+[08:45:53] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[08:45:53] [Server thread/INFO]: Li_zi_wei left the game
+[08:45:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@44fb323[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:52817) lost connection: Disconnected
+[08:46:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@57cec2bf[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:52820) lost connection: Disconnected
+[08:52:14] [User Authenticator #9/INFO]: UUID of player Xiao_Hong_Mao is 3cb3c835-af8d-4e8b-8506-a54938079821
+[08:52:14] [Server thread/INFO]: Xiao_Hong_Mao[/127.0.0.1:52860] logged in with entity id 33892 at ([world]2786.434445418516, 63.0, -377.4211662088663)
+[08:53:37] [Server thread/WARN]: Xiao_Hong_Mao was kicked for floating too long!
+[08:53:37] [Server thread/INFO]: Xiao_Hong_Mao lost connection: Flying is not enabled on this server
+[08:53:37] [Server thread/INFO]: Xiao_Hong_Mao left the game
+[08:53:37] [Server thread/WARN]: handleDisconnection() called twice
+[08:53:43] [User Authenticator #10/INFO]: UUID of player Xiao_Hong_Mao is 3cb3c835-af8d-4e8b-8506-a54938079821
+[08:53:43] [Server thread/INFO]: Xiao_Hong_Mao[/127.0.0.1:52874] logged in with entity id 35485 at ([world_nether]334.71576487827383, 115.05962966304378, -17.424217157617342)
+[08:53:52] [Server thread/WARN]: Magical7 moved wrongly!
+[08:54:58] [Server thread/WARN]: Xiao_Hong_Mao was kicked due to keepalive timeout!
+[08:54:58] [Server thread/INFO]: Xiao_Hong_Mao lost connection: Timed out
+[08:54:58] [Server thread/INFO]: Xiao_Hong_Mao left the game
+[08:55:11] [User Authenticator #11/INFO]: UUID of player Xiao_Hong_Mao is 3cb3c835-af8d-4e8b-8506-a54938079821
+[08:55:12] [Server thread/INFO]: Xiao_Hong_Mao[/127.0.0.1:52887] logged in with entity id 37414 at ([world]3048.074999988079, 65.0, 597.3535368868282)
+[08:55:37] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[08:55:37] [Server thread/INFO]: Magical7 left the game
+[08:57:24] [User Authenticator #12/INFO]: UUID of player Envy_Cloud is c5f83320-e8be-418f-81c1-e1f3ea1f99d5
+[08:57:24] [Server thread/INFO]: Envy_Cloud[/127.0.0.1:52905] logged in with entity id 37806 at ([world]3201.9679876346213, 69.0, 505.04948776555517)
+[08:59:25] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[09:02:15] [Server thread/INFO]: Xiao_Hong_Mao lost connection: Disconnected
+[09:02:15] [Server thread/INFO]: Xiao_Hong_Mao left the game
+[09:05:16] [Server thread/INFO]: There are 1 of a max 40 players online: Envy_Cloud
+[09:19:26] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[09:21:45] [User Authenticator #13/INFO]: UUID of player LSY_forever is 8eeb7432-8a93-44e8-9385-1ba389858ca0
+[09:21:45] [Server thread/INFO]: LSY_forever[/127.0.0.1:53110] logged in with entity id 40438 at ([world]969.1615056484987, 70.0, -1800.9741710240007)
+[09:22:03] [Server thread/INFO]: LSY_forever >> az
+[09:27:59] [User Authenticator #14/INFO]: UUID of player Xiao_Hong_Mao is 3cb3c835-af8d-4e8b-8506-a54938079821
+[09:27:59] [Server thread/INFO]: Xiao_Hong_Mao[/127.0.0.1:53154] logged in with entity id 41709 at ([world]3047.339150976471, 63.0, 610.6606889748997)
+[09:28:17] [Server thread/INFO]: Xiao_Hong_Mao lost connection: Disconnected
+[09:28:17] [Server thread/INFO]: Xiao_Hong_Mao left the game
+[09:28:49] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[09:28:49] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[09:29:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@251acd82[id=<null>,name=hence_tape,properties={},legacy=false] (/127.0.0.1:53169) lost connection: Disconnected
+[09:29:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@7470c29d[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:53164) lost connection: Disconnected
+[09:29:25] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[09:29:34] [User Authenticator #15/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[09:29:34] [Server thread/INFO]: adhesive_tape[/127.0.0.1:53173] logged in with entity id 43127 at ([world]1128.300000011921, 116.0, 2269.300000011921)
+[09:31:32] [Server thread/INFO]: Envy_Cloud lost connection: Disconnected
+[09:31:32] [Server thread/INFO]: Envy_Cloud left the game
+[09:31:48] [User Authenticator #16/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[09:31:48] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53194] logged in with entity id 45127 at ([world]2662.300000011921, 70.0, -375.30000001192093)
+[09:34:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> tape
+[09:34:30] [User Authenticator #17/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[09:34:30] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:53215] logged in with entity id 47224 at ([world_nether]17.36705158047276, 115.0, 21.982557284747685)
+[09:34:35] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 1
+[09:34:43] [Server thread/INFO]: <带鸽子> the_yellowleaf >> I am free
+[09:35:57] [Server thread/WARN]: adhesive_tape was kicked for floating too long!
+[09:35:57] [Server thread/INFO]: adhesive_tape lost connection: Flying is not enabled on this server
+[09:35:57] [Server thread/INFO]: adhesive_tape left the game
+[09:35:57] [Server thread/WARN]: handleDisconnection() called twice
+[09:36:25] [User Authenticator #18/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[09:36:26] [Server thread/INFO]: adhesive_tape[/127.0.0.1:53231] logged in with entity id 48454 at ([world_nether]138.28032531961807, 115.00151846192993, 250.70582472692712)
+[09:36:29] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 11
+[09:36:58] [Server thread/INFO]: adhesive_tape >> 咋回事
+[09:37:06] [Server thread/INFO]: adhesive_tape >> 卡成这样
+[09:37:11] [Server thread/INFO]: LSY_forever >> az
+[09:37:18] [User Authenticator #18/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[09:37:18] [Server thread/INFO]: Crushxl[/127.0.0.1:53244] logged in with entity id 48864 at ([world]2630.4062980704475, 32.809486741892094, -403.25190590283415)
+[09:37:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 服务器又特性了
+[09:37:30] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[09:37:36] [Server thread/INFO]: LSY_forever >> 突然高ping
+[09:37:39] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[09:37:50] [Server thread/INFO]: <带鸽子> the_yellowleaf >> x
+[09:37:53] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[09:37:53] [Server thread/INFO]: Crushxl left the game
+[09:38:02] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 为什么卡成这样
+[09:38:15] [User Authenticator #18/INFO]: Disconnecting com.mojang.authlib.GameProfile@6aa4e0c6[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:53254): Authentication servers are down. Please try again later, sorry!
+[09:38:15] [User Authenticator #18/ERROR]: Couldn't verify username because servers are unavailable
+[09:38:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@6aa4e0c6[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:53254) lost connection: Authentication servers are down. Please try again later, sorry!
+[09:38:22] [Server thread/INFO]: adhesive_tape >> 服务器怎么回事
+[09:38:23] [Server thread/INFO]: LSY_forever >> 我在末地跑图（
+[09:38:25] [User Authenticator #18/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[09:38:25] [Server thread/INFO]: Crushxl[/127.0.0.1:53259] logged in with entity id 49882 at ([world]-515.0030815680241, 69.0, -460.71943593415705)
+[09:38:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 跑图也不会这么卡啊（
+[09:38:50] [Server thread/INFO]: <带鸽子> the_yellowleaf >> waw
+[09:38:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 而且现在是掉ping 不是掉tps
+[09:38:58] [Server thread/INFO]: LSY_forever >> 那我就不太懂了（
+[09:39:02] [Server thread/INFO]: Crushxl issued server command: /gamemode creative
+[09:39:02] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[09:39:10] [Server thread/WARN]: Crushxl was kicked due to keepalive timeout!
+[09:39:10] [Server thread/INFO]: Crushxl lost connection: Timed out
+[09:39:10] [Server thread/INFO]: Crushxl left the game
+[09:39:22] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 小泠是不是没交网费（
+[09:39:25] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[09:39:26] [User Authenticator #18/INFO]: UUID of player Envy_Cloud is c5f83320-e8be-418f-81c1-e1f3ea1f99d5
+[09:39:26] [Server thread/INFO]: Envy_Cloud[/127.0.0.1:53269] logged in with entity id 51201 at ([world]3044.914886183237, 64.9907361226063, 610.6245838921333)
+[09:39:28] [Server thread/INFO]: LSY_forever >> (
+[09:39:34] [Server thread/WARN]: adhesive_tape was kicked due to keepalive timeout!
+[09:39:34] [Server thread/INFO]: adhesive_tape lost connection: Timed out
+[09:39:34] [Server thread/INFO]: adhesive_tape left the game
+[09:39:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 限速了awa
+[09:39:46] [User Authenticator #18/INFO]: UUID of player Xiao_Hong_Mao is 3cb3c835-af8d-4e8b-8506-a54938079821
+[09:39:46] [Server thread/INFO]: Xiao_Hong_Mao[/127.0.0.1:53274] logged in with entity id 52378 at ([world]3047.339150976471, 63.0, 610.6606889748997)
+[09:39:58] [User Authenticator #18/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[09:39:58] [Server thread/INFO]: adhesive_tape[/127.0.0.1:53280] logged in with entity id 52732 at ([world]1757.5, 33.0, 232.00300043142633)
+[09:40:01] [Server thread/INFO]: Envy_Cloud lost connection: Timed out
+[09:40:01] [Server thread/INFO]: Envy_Cloud left the game
+[09:40:21] [User Authenticator #18/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[09:40:21] [Server thread/INFO]: Crushxl[/127.0.0.1:53289] logged in with entity id 53503 at ([world]-517.4966437323869, 70.49537947611582, -462.00291436634063)
+[09:40:59] [Server thread/INFO]: Xiao_Hong_Mao lost connection: Disconnected
+[09:40:59] [Server thread/INFO]: Xiao_Hong_Mao left the game
+[09:41:06] [Server thread/WARN]: Crushxl was kicked due to keepalive timeout!
+[09:41:06] [Server thread/INFO]: Crushxl lost connection: Timed out
+[09:41:06] [Server thread/INFO]: Crushxl left the game
+[09:41:06] [Server thread/WARN]: handleDisconnection() called twice
+[09:41:24] [User Authenticator #19/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[09:41:24] [Server thread/INFO]: Crushxl[/127.0.0.1:53302] logged in with entity id 55361 at ([world]-521.830474565076, 69.70493402823674, -460.32558971565993)
+[09:41:35] [Server thread/INFO]: Crushxl issued server command: /gamemode spectator
+[09:41:35] [Server thread/INFO]: [Crushxl: Set own game mode to Spectator Mode]
+[09:42:30] [Server thread/INFO]: Crushxl issued server command: /gamemode creative
+[09:42:30] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[09:42:36] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？？？？？？？？？？
+[09:42:46] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 抓到小泠awa
+[09:42:56] [Server thread/INFO]: <服主> Crushxl >> awa
+[09:43:02] [Server thread/INFO]: LSY_forever >> az
+[09:43:14] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 挥剑以示友好awa
+[09:43:20] [Server thread/INFO]: <服主> Crushxl >> XD
+[09:43:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我看到了活动纪念勋章
+[09:43:34] [User Authenticator #20/INFO]: UUID of player Envy_Cloud is c5f83320-e8be-418f-81c1-e1f3ea1f99d5
+[09:43:34] [Server thread/INFO]: Envy_Cloud[/127.0.0.1:53318] logged in with entity id 57940 at ([world]3044.538041461366, 64.9150652909842, 610.6251155685695)
+[09:43:42] [Server thread/INFO]: Crushxl issued server command: /lore name &b&l你画我猜纪念勋章
+[09:43:46] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 慕云 我觉得你的纪念勋章在xl手上
+[09:43:57] [Server thread/WARN]: the_yellowleaf moved too quickly! -1650.3919960571982,15.837858578973012,-234.49325439940236
+[09:43:58] [Server thread/INFO]: Crushxl issued server command: /lore name &b&l"你画我猜"纪念勋章
+[09:44:02] [Server thread/INFO]: Envy_Cloud lost connection: Timed out
+[09:44:02] [Server thread/INFO]: Envy_Cloud left the game
+[09:44:10] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？？？？？？？？
+[09:44:12] [Server thread/INFO]: Crushxl issued server command: /lore add &6三周目·活动限定
+[09:44:16] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 为什么我家会有cp？
+[09:44:24] [User Authenticator #20/INFO]: UUID of player Envy_Cloud is c5f83320-e8be-418f-81c1-e1f3ea1f99d5
+[09:44:24] [Server thread/INFO]: Envy_Cloud[/127.0.0.1:53324] logged in with entity id 58499 at ([world]3044.161196739495, 64.83939445936211, 610.6256472450058)
+[09:44:42] [Server thread/INFO]: Crushxl issued server command: /gamemode spectatore
+[09:44:44] [Server thread/INFO]: Crushxl issued server command: /gamemode spectator
+[09:44:44] [Server thread/INFO]: [Crushxl: Set own game mode to Spectator Mode]
+[09:44:57] [Server thread/INFO]: Crushxl issued server command: /gamemode creative
+[09:44:57] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[09:44:59] [Server thread/INFO]: Envy_Cloud lost connection: Timed out
+[09:44:59] [Server thread/INFO]: Envy_Cloud left the game
+[09:45:32] [User Authenticator #21/INFO]: UUID of player Envy_Cloud is c5f83320-e8be-418f-81c1-e1f3ea1f99d5
+[09:45:32] [Server thread/INFO]: Envy_Cloud[/127.0.0.1:53336] logged in with entity id 61209 at ([world]3043.7843520176243, 64.76372362774002, 610.626178921442)
+[09:47:28] [Server thread/INFO]: Crushxl issued server command: /gamemode spectator
+[09:47:28] [Server thread/INFO]: [Crushxl: Set own game mode to Spectator Mode]
+[09:47:39] [Server thread/INFO]: Crushxl issued server command: /gamemode creative
+[09:47:39] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[09:48:03] [Server thread/INFO]: <深海恋人> Envy_Cloud >> qwq
+[09:48:11] [Server thread/INFO]: <服主> Crushxl >> 下了x
+[09:48:12] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[09:48:12] [Server thread/INFO]: Crushxl left the game
+[09:48:17] [Server thread/INFO]: LSY_forever >> az
+[09:49:19] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> xl一走
+[09:49:22] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我的延迟就上了了
+[09:49:32] [Server thread/INFO]: <深海恋人> Envy_Cloud >> awa
+[09:49:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> tape
+[09:50:13] [Server thread/INFO]: adhesive_tape >> e
+[09:50:32] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 下午有空吗
+[09:51:01] [Server thread/INFO]: adhesive_tape >> emmm
+[09:51:14] [Server thread/INFO]: Envy_Cloud lost connection: Disconnected
+[09:51:14] [Server thread/INFO]: Envy_Cloud left the game
+[09:53:31] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你咋不说话呢
+[09:53:35] [Server thread/INFO]: adhesive_tape >> e
+[09:54:03] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 嗯？？？？？？
+[09:54:27] [Server thread/INFO]: adhesive_tape >> 卡
+[09:54:42] [Server thread/INFO]: adhesive_tape >> 这到底咋回事
+[09:54:58] [Server thread/INFO]: adhesive_tape >> 进个地狱门直接卡成翔
+[09:55:36] [Server thread/INFO]: LSY_forever >> 我佛了
+[09:55:53] [Server thread/INFO]: LSY_forever >> 跑了四个末地城全是被搜干净的
+[09:56:16] [Server thread/INFO]: adhesive_tape >> - -
+[09:56:48] [Server thread/INFO]: adhesive_tape >> 我也来
+[09:57:02] [Server thread/INFO]: LSY_forever >> az
+[09:57:06] [Server thread/INFO]: LSY_forever >> 我回来了
+[09:57:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ?
+[09:57:34] [Server thread/INFO]: LSY_forever >> 不过目前鞘翅够用
+[09:57:51] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> tape
+[09:58:07] [User Authenticator #22/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[09:58:07] [Server thread/INFO]: Laohuaji[/127.0.0.1:53427] logged in with entity id 78883 at ([world_nether]191.14106323035992, 115.0, -3.7684521546519116)
+[09:58:19] [Server thread/WARN]: adhesive_tape was kicked due to keepalive timeout!
+[09:58:19] [Server thread/INFO]: adhesive_tape lost connection: Timed out
+[09:58:19] [Server thread/INFO]: adhesive_tape left the game
+[09:58:27] [User Authenticator #22/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[09:58:27] [Server thread/INFO]: adhesive_tape[/127.0.0.1:53432] logged in with entity id 79271 at ([world]1757.5, 33.0, 232.12586042024154)
+[09:58:36] [Server thread/INFO]: LSY_forever >> 算了，先溜了
+[09:59:07] [Server thread/INFO]: LSY_forever lost connection: Timed out
+[09:59:07] [Server thread/INFO]: LSY_forever left the game
+[09:59:25] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[10:00:22] [Server thread/WARN]: Laohuaji was kicked due to keepalive timeout!
+[10:00:22] [Server thread/INFO]: Laohuaji lost connection: Timed out
+[10:00:22] [Server thread/INFO]: Laohuaji left the game
+[10:00:43] [User Authenticator #23/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[10:00:43] [Server thread/INFO]: Laohuaji[/127.0.0.1:53451] logged in with entity id 80826 at ([world]3053.3249566310415, 53.14442825568035, 626.0748812454242)
+[10:00:55] [User Authenticator #23/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[10:00:55] [Server thread/INFO]: Crushxl[/127.0.0.1:53454] logged in with entity id 81047 at ([world_nether]381.9434911855127, 115.0625, 70.26529749701673)
+[10:01:16] [Server thread/INFO]: Crushxl issued server command: /gamemode spectator Crushxl
+[10:01:16] [Server thread/INFO]: [Crushxl: Set own game mode to Spectator Mode]
+[10:04:57] [Server thread/INFO]: Crushxl issued server command: /gamemode creative Crushxl
+[10:04:57] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[10:04:59] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> tape看QQ
+[10:06:07] [Server thread/INFO]: Crushxl issued server command: /tp Crushxl 73 234 -640
+[10:06:07] [Server thread/INFO]: [Crushxl: Teleported Crushxl to 73.5, 234.0, -639.5]
+[10:06:31] [Server thread/INFO]: Crushxl issued server command: /gamemode survival Crushxl
+[10:06:31] [Server thread/INFO]: [Crushxl: Set own game mode to Survival Mode]
+[10:06:35] [Server thread/INFO]: Crushxl issued server command: /tp Crushxl 73 234 -640
+[10:06:35] [Server thread/INFO]: [Crushxl: Teleported Crushxl to 73.5, 234.0, -639.5]
+[10:06:40] [Server thread/INFO]: Crushxl issued server command: /gamemode creative Crushxl
+[10:06:40] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[10:06:51] [Server thread/INFO]: Crushxl issued server command: /gamemode survival Crushxl
+[10:06:51] [Server thread/INFO]: [Crushxl: Set own game mode to Survival Mode]
+[10:10:16] [Server thread/INFO]: Crushxl issued server command: /gamemode creative Crushxl
+[10:10:16] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[10:10:50] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我一穿越维度我就卡成shit（
+[10:10:56] [Server thread/INFO]: adhesive_tape >> 对没错
+[10:11:22] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[10:11:27] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[10:11:51] [Server thread/WARN]: Ghost_king_ was kicked due to keepalive timeout!
+[10:11:51] [Server thread/INFO]: Ghost_king_ lost connection: Timed out
+[10:11:51] [Server thread/INFO]: Ghost_king_ left the game
+[10:12:11] [User Authenticator #24/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[10:12:11] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53534] logged in with entity id 102683 at ([world]1760.5496830646225, 33.0, 231.87079294321774)
+[10:12:19] [Server thread/INFO]: Crushxl has made the advancement [Enchanter]
+[10:12:24] [Server thread/INFO]: adhesive_tape >> xl,末地x-12185,z+36,y140的末地船没回档
+[10:12:53] [Server thread/INFO]: <服主> Crushxl >> 嗯，迟点弄
+[10:13:18] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 所以xl的末地重置
+[10:13:34] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 实际上是开了结构搜索器然后不停地回档末地城是吗
+[10:16:32] [Server thread/INFO]: Crushxl issued server command: /gamemode survival Crushxl
+[10:16:32] [Server thread/INFO]: [Crushxl: Set own game mode to Survival Mode]
+[10:19:26] [Server thread/INFO]: [公告] [活动] 灵魂画手已上线活动已经开放报名，详情请见群内公告。 
+[10:19:40] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 怎么这个活动公告还在
+[10:19:44] [Server thread/INFO]: <管理> Laohuaji >> awa
+[10:19:44] [Server thread/WARN]: Ghost_king_ moved too quickly! -1650.3751928424415,15.837858578973012,-234.43415364282163
+[10:19:54] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 话说这个周末有活动吗
+[10:19:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 4周目
+[10:20:41] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_15_R1.ChunkMapDistance.b(ChunkMapDistance.java:230) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.movePlayer(PlayerChunkMap.java:1363) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.movePlayer(ChunkProviderServer.java:811) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1145) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying.a(SourceFile:122) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:56) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1038) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1031) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:1015) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:938) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[10:21:12] [Server thread/WARN]: Ghost_king_ was kicked due to keepalive timeout!
+[10:21:12] [Server thread/INFO]: Ghost_king_ lost connection: Timed out
+[10:21:12] [Server thread/INFO]: Ghost_king_ left the game
+[10:21:19] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[10:21:19] [Server thread/INFO]: the_yellowleaf left the game
+[10:21:40] [Server thread/INFO]: adhesive_tape >> 话说
+[10:21:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@c6c8a55[id=<null>,name=Ghost_king_,properties={},legacy=false] (/127.0.0.1:53601) lost connection: Disconnected
+[10:21:50] [Server thread/INFO]: adhesive_tape >> 是不是假矿插件导致卡顿
+[10:21:58] [User Authenticator #25/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[10:21:58] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53608] logged in with entity id 114513 at ([world]2664.857633748635, 74.0, -376.5280262645842)
+[10:22:12] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:12] [Server thread/INFO]: Ghost_king_ lost connection: Flying is not enabled on this server
+[10:22:12] [Server thread/INFO]: Ghost_king_ left the game
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:13] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:14] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:15] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:16] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:17] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:18] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:19] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:20] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:21] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:22] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:23] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:24] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:25] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:26] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:26] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:26] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:26] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:26] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:26] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:26] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:26] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:26] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:26] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:26] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:26] [Server thread/WARN]: Ghost_king_ was kicked for floating too long!
+[10:22:40] [User Authenticator #25/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[10:22:40] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53616] logged in with entity id 116189 at ([world]2661.9072553237324, 73.02343737606452, -372.7230308286104)
+[10:23:53] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[10:23:53] [Server thread/INFO]: Laohuaji left the game
+[10:25:04] [User Authenticator #26/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[10:25:04] [Server thread/INFO]: Block_linyi[/127.0.0.1:53635] logged in with entity id 120744 at ([world]3267.253074195651, 64.5864857403149, 560.4916535719767)
+[10:25:23] [Server thread/INFO]: Block_linyi >> ??
+[10:25:53] [Server thread/INFO]: Block_linyi >> 我咋还是旁观
+[10:26:20] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？
+[10:26:53] [Server thread/INFO]: Block_linyi >> Crushxl
+[10:27:26] [Server thread/INFO]: Crushxl issued server command: /gamemode survival Block_linyi
+[10:27:26] [Server thread/INFO]: [Crushxl: Set Block_linyi's game mode to Survival Mode]
+[10:27:38] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 等下 是雷雨诶
+[10:27:41] [Server thread/INFO]: <服主> Crushxl >> 我有事在挂机
+[10:27:43] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 算了吧我三叉戟丢了
+[10:27:47] [Server thread/INFO]: Block_linyi >> 哦
+[10:28:55] [Server thread/INFO]: Crushxl issued server command: /gamemode creative Crushxl
+[10:28:55] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[10:29:25] [pool-9-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[10:30:46] [Server thread/INFO]: Crushxl issued server command: /gamemode survival Crushxl
+[10:30:46] [Server thread/INFO]: [Crushxl: Set own game mode to Survival Mode]
+[10:31:53] [Server thread/INFO]: Block_linyi lost connection: Disconnected
+[10:31:53] [Server thread/INFO]: Block_linyi left the game
+[10:35:29] [Server thread/WARN]: Ghost_king_ was kicked due to keepalive timeout!
+[10:35:29] [Server thread/INFO]: Ghost_king_ lost connection: Timed out
+[10:35:29] [Server thread/INFO]: Ghost_king_ left the game
+[10:38:08] [User Authenticator #27/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[10:38:09] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53729] logged in with entity id 141265 at ([world]1149.300000011921, 65.0, 2272.5)
+[10:40:03] [Server thread/WARN]: Ghost_king_ moved wrongly!
+[10:47:54] [Server thread/INFO]: Ghost_king_ lost connection: Timed out
+[10:47:54] [Server thread/INFO]: Ghost_king_ left the game
+[10:48:05] [User Authenticator #28/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[10:48:05] [Server thread/INFO]: Ghost_king_[/127.0.0.1:53802] logged in with entity id 153697 at ([world]1757.5, 33.0, 231.92853234103183)
+[10:50:00] [Server thread/WARN]: Ghost_king_ moved too quickly! -1650.4218659677572,15.837858578973012,-234.62961641182346
+[10:53:01] [Server thread/WARN]: Ghost_king_ moved wrongly!
+[10:53:15] [Server thread/INFO]: Crushxl issued server command: /gamemode creative Crushxl
+[10:53:15] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[10:53:39] [Server thread/INFO]: Crushxl issued server command: /gamemode survival Crushxl
+[10:53:39] [Server thread/INFO]: [Crushxl: Set own game mode to Survival Mode]
+[10:54:30] [Server thread/INFO]: Crushxl issued server command: /gamemode creative Crushxl
+[10:54:30] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[10:54:37] [Server thread/INFO]: Crushxl issued server command: /gamemode survival Crushxl
+[10:54:37] [Server thread/INFO]: [Crushxl: Set own game mode to Survival Mode]
+[10:54:56] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 现在是真xl吗
+[11:00:22] [User Authenticator #29/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[11:00:22] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:53897] logged in with entity id 160353 at ([world]-527.3000000119209, 84.0, -447.28690598897913)
+[11:00:53] [Server thread/WARN]: the_yellowleaf moved too quickly! -1.6437481201562605,2.0,-11.554401600814515
+[11:01:09] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[11:01:09] [Server thread/INFO]: the_yellowleaf left the game
+[11:04:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 完了
+[11:05:01] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 小泠 危
+[11:07:20] [Server thread/INFO]: Crushxl was slain by Ghost_king_
+[11:07:25] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？？？？？？
+[11:11:11] [Server thread/INFO]: adhesive_tape >> 溜了
+[11:11:13] [Server thread/INFO]: adhesive_tape >> 88
+[11:11:17] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 下午你上线吗
+[11:11:25] [Server thread/INFO]: adhesive_tape >> 下午或者晚上上线
+[11:11:33] [Server thread/INFO]: adhesive_tape >> 我也不是很清楚
+[11:11:35] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[11:11:35] [Server thread/INFO]: adhesive_tape left the game
+[11:11:40] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> (
+[11:18:40] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[11:18:40] [Server thread/INFO]: Ghost_king_ left the game
+[11:19:26] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[11:20:42] [User Authenticator #30/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[11:20:42] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:54037] logged in with entity id 164083 at ([world]2094.6875, 62.07326421147323, 5663.345798304491)
+[11:21:44] [Server thread/INFO]: Crushxl issued server command: /gamemode creative Crushxl
+[11:21:44] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[11:22:24] [Server thread/INFO]: There are 2 of a max 40 players online: Ttu_nnm, Crushxl
+[11:23:16] [User Authenticator #31/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[11:23:17] [Server thread/INFO]: Laohuaji[/127.0.0.1:54061] logged in with entity id 164698 at ([world]3123.9652595948087, 49.55717460212337, 634.4999998176949)
+[11:23:19] [Server thread/WARN]: Ttu_nnm moved wrongly!
+[11:23:34] [User Authenticator #31/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[11:23:34] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:54065] logged in with entity id 164997 at ([world]-526.3000000119209, 83.0, -445.7802671192861)
+[11:23:48] [Server thread/INFO]: There are 4 of a max 40 players online: Ttu_nnm, Crushxl, Laohuaji, the_yellowleaf
+[11:23:58] [Server thread/INFO]: 未知指令.键入"/help"查看帮助
+[11:24:02] [Server thread/WARN]: Laohuaji was kicked due to keepalive timeout!
+[11:24:02] [Server thread/INFO]: Laohuaji lost connection: Timed out
+[11:24:02] [Server thread/INFO]: Laohuaji left the game
+[11:24:11] [Server thread/INFO]: [Server] 我关假矿试试
+[11:24:26] [Server thread/INFO]: <带鸽子> the_yellowleaf >> ？？
+[11:24:40] [Server thread/INFO]: Villager EntityVillager['Villager'/164386, uuid='04e524e1-f385-4c2b-a439-a163ec2c30a3', l='world', x=4415.30, y=178.00, z=1122.65, cx=275, cz=70, tl=26905, v=true, d=false] died, message: 'Villager was slain by Crushxl'
+[11:24:42] [Server thread/INFO]: Villager EntityVillager['Villager'/164385, uuid='83719199-1842-4e41-88a7-1be2cbc34942', l='world', x=4415.70, y=178.00, z=1122.05, cx=275, cz=70, tl=26954, v=true, d=false] died, message: 'Villager was slain by Crushxl'
+[11:24:44] [Server thread/INFO]: Villager EntityVillager['Villager'/164384, uuid='b4e8fdb8-df8f-477a-b004-61b51dbe4c93', l='world', x=4415.30, y=178.00, z=1121.30, cx=275, cz=70, tl=27003, v=true, d=false] died, message: 'Villager was slain by Crushxl'
+[11:24:45] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 假矿满天飞
+[11:25:31] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 1
+[11:25:32] [Server thread/INFO]: [Server] 重启服务器
+[11:25:35] [Server thread/WARN]: Ttu_nnm moved wrongly!
+[11:25:35] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 3
+[11:25:37] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 2
+[11:25:39] [Server thread/INFO]: <带鸽子> the_yellowleaf >> 1
+[11:25:40] [Server thread/INFO]: Stopping the server
+[11:25:40] [Server thread/INFO]: Stopping server
+[11:25:40] [Server thread/INFO]: [TAB] Disabling TAB v2.7.2
+[11:25:40] [Server thread/INFO]: [TAB] Disabled in 0ms
+[11:25:40] [Server thread/INFO]: [Lores] Disabling Lores v1.4.1
+[11:25:40] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[11:25:40] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is disabled!
+[11:25:40] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[11:25:40] [Server thread/INFO]: [CrowdLocator] Disabling CrowdLocator v1.0
+[11:25:40] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v1.7.1
+[11:25:40] [Server thread/INFO]: [ChatC] Disabling ChatC v0.5
+[11:25:40] [Server thread/INFO]: [ChatC] 聊天管理插件已关闭！
+[11:25:40] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[11:25:40] [Server thread/INFO]: [SAML] Disabling SAML v2.0.0
+[11:25:40] [Server thread/INFO]: [SAML] The frozen chunk cache file has been deleted. All chunks should have been accounted for.
+[11:25:40] [Server thread/INFO]: [SAML] Successfully disabled.
+[11:25:40] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[11:25:40] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.3.1
+[11:25:40] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[11:25:40] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] Database closed
+[11:25:40] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[11:25:40] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[11:25:40] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[11:25:40] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[11:25:40] [Server thread/INFO]: [PxAutoMessage] 正在关闭皮克斯自动公告系统...
+[11:25:40] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[11:25:40] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[11:25:40] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[11:25:40] [Server thread/INFO]: Saving players
+[11:25:41] [Server thread/INFO]: Ttu_nnm lost connection: Server closed
+[11:25:41] [Server thread/INFO]: Ttu_nnm left the game
+[11:25:41] [Server thread/INFO]: Crushxl lost connection: Server closed
+[11:25:41] [Server thread/INFO]: Crushxl left the game
+[11:25:41] [Server thread/INFO]: the_yellowleaf lost connection: Server closed
+[11:25:41] [Server thread/INFO]: the_yellowleaf left the game
+[11:25:41] [Server thread/INFO]: Saving worlds
+[11:25:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[11:25:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:25:43] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[11:25:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:25:43] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[11:25:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:25:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:25:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:25:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

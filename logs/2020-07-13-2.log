@@ -1,0 +1,1800 @@
+[12:47:32] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[12:47:32] [Server thread/INFO]: Loading properties
+[12:47:32] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[12:47:32] [Server thread/INFO]: Debug logging is disabled
+[12:47:32] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[12:47:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:47:32] [Server thread/INFO]: Default game type: SURVIVAL
+[12:47:32] [Server thread/INFO]: Generating keypair
+[12:47:32] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[12:47:32] [Server thread/INFO]: Using default channel type
+[12:47:32] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[12:47:35] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[12:47:35] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[12:47:35] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[12:47:35] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[12:47:35] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[12:47:35] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[12:47:35] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[12:47:35] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[12:47:35] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[12:47:35] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[12:47:35] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[12:47:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:47:35] [Server thread/INFO]: Preparing level "world"
+[12:47:35] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[12:47:41] [Server thread/INFO]: Loaded 6 recipes
+[12:47:41] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:47:41] [Server thread/INFO]: View Distance: 8
+[12:47:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:47:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:47:41] [Server thread/INFO]: Item Despawn Rate: 4000
+[12:47:41] [Server thread/INFO]: Item Merge Radius: 8.0
+[12:47:41] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[12:47:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:47:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[12:47:41] [Server thread/INFO]: Mob Spawn Range: 4
+[12:47:41] [Server thread/INFO]: Experience Merge Radius: 8.0
+[12:47:41] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[12:47:41] [Server thread/INFO]: Max TNT Explosions: 100
+[12:47:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:47:41] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[12:47:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:47:41] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[12:47:42] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:47:42] [Server thread/INFO]: View Distance: 8
+[12:47:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:47:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:47:42] [Server thread/INFO]: Item Despawn Rate: 4000
+[12:47:42] [Server thread/INFO]: Item Merge Radius: 8.0
+[12:47:42] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[12:47:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:47:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[12:47:42] [Server thread/INFO]: Mob Spawn Range: 4
+[12:47:42] [Server thread/INFO]: Experience Merge Radius: 8.0
+[12:47:42] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[12:47:42] [Server thread/INFO]: Max TNT Explosions: 100
+[12:47:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:47:42] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[12:47:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[12:47:42] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:47:42] [Server thread/INFO]: View Distance: 8
+[12:47:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:47:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:47:42] [Server thread/INFO]: Item Despawn Rate: 4000
+[12:47:42] [Server thread/INFO]: Item Merge Radius: 8.0
+[12:47:42] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[12:47:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:47:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[12:47:42] [Server thread/INFO]: Mob Spawn Range: 4
+[12:47:42] [Server thread/INFO]: Experience Merge Radius: 8.0
+[12:47:42] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[12:47:42] [Server thread/INFO]: Max TNT Explosions: 100
+[12:47:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:47:42] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[12:47:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:47:42] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[12:47:42] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[12:47:42] [Server thread/INFO]: Preparing spawn area: 0%
+[12:47:42] [Server thread/INFO]: Preparing spawn area: 0%
+[12:47:43] [Server thread/INFO]: Preparing spawn area: 100%
+[12:47:43] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[12:47:43] [Server thread/INFO]: Time elapsed: 1404 ms
+[12:47:43] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[12:47:43] [Server thread/INFO]: Preparing spawn area: 0%
+[12:47:43] [Server thread/INFO]: Preparing spawn area: 100%
+[12:47:44] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[12:47:44] [Server thread/INFO]: Time elapsed: 544 ms
+[12:47:44] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[12:47:44] [Server thread/INFO]: Preparing spawn area: 0%
+[12:47:44] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[12:47:44] [Server thread/INFO]: Time elapsed: 339 ms
+[12:47:44] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[12:47:44] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[12:47:44] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[12:47:44] [Server thread/INFO]: --------------------
+[12:47:44] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[12:47:44] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[12:47:44] [Server thread/INFO]: --------------------
+[12:47:44] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[12:47:44] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[12:47:44] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[12:47:44] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[12:47:44] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[12:47:44] [Server thread/INFO]:  
+[12:47:44] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[12:47:44] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[12:47:44] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[12:47:44] [Server thread/INFO]:  
+[12:47:44] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[12:47:44] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[12:47:44] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[12:47:44] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[12:47:49] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[12:47:49] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[12:47:49] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[12:47:49] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[12:47:49] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[12:47:49] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[12:47:49] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[12:47:49] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[12:47:49] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[12:47:49] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[12:47:49] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[12:47:49] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[12:47:49] [Server thread/INFO]: [EntityTrackerFixer] Vault not found! using default permission system...
+[12:47:49] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[12:47:49] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[12:47:49] [Server thread/INFO]: [SAML] Loading config.yml...
+[12:47:49] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[12:47:49] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[12:47:49] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[12:47:49] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[12:47:49] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[12:47:49] [Server thread/INFO]: [SAML] Loading messages.yml...
+[12:47:49] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[12:47:49] [Server thread/INFO]: [SAML] Successfully enabled.
+[12:47:49] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[12:47:49] [Server thread/INFO]: [GM+] Checking Your version...
+[12:47:49] [Server thread/INFO]: ===============================
+[12:47:49] [Server thread/INFO]: 
+[12:47:49] [Server thread/INFO]:  GroupManager+ is now enable!
+[12:47:49] [Server thread/INFO]:  
+[12:47:49] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[12:47:49] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[12:47:49] [Server thread/INFO]:  Current version: v3.3
+[12:47:49] [Server thread/INFO]:  
+[12:47:49] [Server thread/INFO]: ===============================
+[12:47:49] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[12:47:49] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[12:47:49] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[12:47:49] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[12:47:49] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[12:47:49] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[12:47:49] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[12:47:49] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[12:47:49] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[12:47:52] [Server thread/INFO]: [TAB] Version 2.8.2 is out! Your version: 2.7.2
+[12:47:52] [Server thread/INFO]: [TAB] Get the update at https://www.spigotmc.org/resources/57806/
+[12:47:52] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[12:47:52] [Server thread/INFO]: [TAB] Enabled in 2563ms
+[12:47:52] [Server thread/INFO]: Done (17.126s)! For help, type "help"
+[12:47:52] [Server thread/INFO]: Timings Reset
+[12:47:52] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[12:47:52] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[12:47:52] [Craft Scheduler Thread - 2/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[12:47:52] [Craft Scheduler Thread - 2/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[12:47:58] [Thread-18/INFO]: --------------------
+[12:47:58] [Thread-18/INFO]: [CoreProtect] Version 19.0 is now available.
+[12:47:58] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[12:47:58] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[12:47:58] [Thread-18/INFO]: --------------------
+[12:48:46] [Server thread/INFO]: Usage: /timings <reset|report|on|off|verbon|verboff>
+[12:48:50] [Server thread/INFO]: Enabled Timings & Reset
+[12:48:50] [Server thread/INFO]: Timings Reset
+[12:57:10] [User Authenticator #1/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[12:57:10] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[12:57:10] [Server thread/INFO]: adhesive_tape[/127.0.0.1:58464] logged in with entity id 3182 at ([world]2452.3291746250247, 5.0, 2552.43904781724)
+[12:57:49] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[13:01:29] [Server thread/INFO]: adhesive_tape was blown up by Creeper
+[13:02:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@73df9ecd[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:58502) lost connection: Disconnected
+[13:02:30] [User Authenticator #2/INFO]: Disconnecting /127.0.0.1:58503: Failed to verify username!
+[13:02:30] [User Authenticator #2/ERROR]: Username '_YuanXiao_' tried to join with an invalid session
+[13:02:30] [Server thread/INFO]: /127.0.0.1:58503 lost connection: Failed to verify username!
+[13:02:39] [User Authenticator #2/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[13:02:40] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:58509] logged in with entity id 6335 at ([world]2700.6086403108084, 63.0, -354.76249998807907)
+[13:07:49] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[13:10:18] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[13:10:18] [Server thread/INFO]: _YuanXiao_ left the game
+[13:10:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@3bb5ee[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:58564) lost connection: Disconnected
+[13:10:23] [User Authenticator #3/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[13:10:23] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:58565] logged in with entity id 11829 at ([world]2769.600989639049, 63.875, -398.7506957403615)
+[13:12:55] [Server thread/WARN]: _YuanXiao_ moved wrongly!
+[13:13:15] [Server thread/INFO]: _YuanXiao_ hit the ground too hard whilst trying to escape Skeleton
+[13:17:06] [Server thread/INFO]: _YuanXiao_ has made the advancement [Suit Up]
+[13:17:52] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[13:23:08] [Server thread/INFO]: _YuanXiao_ hit the ground too hard
+[13:25:28] [Server thread/INFO]: _YuanXiao_ hit the ground too hard
+[13:26:28] [Async Chat Thread - #0/INFO]: <_YuanXiao_> 你在干啥呢
+[13:26:35] [Async Chat Thread - #0/INFO]: <adhesive_tape> 做盾构机
+[13:26:50] [Async Chat Thread - #0/INFO]: <_YuanXiao_> 我要帮忙
+[13:27:03] [Async Chat Thread - #0/INFO]: <adhesive_tape> 来黑云
+[13:27:11] [Server thread/WARN]: _YuanXiao_ moved too quickly! -8.352315230265503,-0.6801040319061968,12.048776330446174
+[13:27:18] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[13:27:18] [Server thread/INFO]: _YuanXiao_ left the game
+[13:27:23] [User Authenticator #4/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[13:27:23] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:58683] logged in with entity id 21963 at ([world]2680.090124822125, 66.0, -357.6106554424415)
+[13:28:10] [Async Chat Thread - #1/INFO]: <_YuanXiao_> 我忘了拿吃的，等会给我一点
+[13:29:38] [Server thread/WARN]: _YuanXiao_ moved too quickly! -1940.5957543390982,0.0,-4960.662810565897
+[13:31:14] [Async Chat Thread - #2/INFO]: <_YuanXiao_> 你人呢
+[13:31:21] [Async Chat Thread - #2/INFO]: <_YuanXiao_> 我到了
+[13:31:22] [Async Chat Thread - #2/INFO]: <adhesive_tape> 黑云
+[13:31:33] [Async Chat Thread - #2/INFO]: <_YuanXiao_> 对啊
+[13:32:25] [Async Chat Thread - #2/INFO]: <_YuanXiao_> 人呢
+[13:33:02] [Async Chat Thread - #2/INFO]: <_YuanXiao_> xx
+[13:33:11] [Async Chat Thread - #2/INFO]: <_YuanXiao_> 谢谢
+[13:34:07] [Async Chat Thread - #2/INFO]: <_YuanXiao_> 这样？
+[13:35:58] [Async Chat Thread - #3/INFO]: <_YuanXiao_> 你倒是说句话啊
+[13:36:16] [Async Chat Thread - #3/INFO]: <adhesive_tape> 检查
+[13:36:53] [Async Chat Thread - #3/INFO]: <adhesive_tape> ok
+[13:38:06] [Async Chat Thread - #4/INFO]: <_YuanXiao_> oh
+[13:38:12] [Async Chat Thread - #4/INFO]: <_YuanXiao_> 炸膛了
+[13:39:31] [Async Chat Thread - #5/INFO]: <adhesive_tape> 草
+[13:39:37] [Async Chat Thread - #5/INFO]: <adhesive_tape> 怎么回事
+[13:40:15] [Async Chat Thread - #5/INFO]: <_YuanXiao_> 没事
+[13:40:20] [Async Chat Thread - #5/INFO]: <_YuanXiao_> 不是我弄得
+[13:40:59] [Async Chat Thread - #5/INFO]: <adhesive_tape> 你负责安保
+[13:41:05] [Async Chat Thread - #5/INFO]: <adhesive_tape> 还有挖黑曜石
+[13:41:05] [Async Chat Thread - #5/INFO]: <_YuanXiao_> 好嘞
+[13:41:30] [Async Chat Thread - #5/INFO]: <adhesive_tape> 我怀疑刚才那只僵尸拿了什么东西导致tnt更新
+[13:41:34] [Async Chat Thread - #5/INFO]: <adhesive_tape> 可能是珊瑚
+[13:41:56] [Async Chat Thread - #5/INFO]: <_YuanXiao_> 嗯嗯
+[13:42:31] [Server thread/INFO]: _YuanXiao_ has made the advancement [Ice Bucket Challenge]
+[13:44:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@78519ada[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:58792) lost connection: Disconnected
+[13:44:22] [Server thread/INFO]: _YuanXiao_ lost connection: Timed out
+[13:44:22] [Server thread/INFO]: _YuanXiao_ left the game
+[13:44:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b03ea58[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:58803) lost connection: Disconnected
+[13:44:58] [User Authenticator #5/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[13:44:58] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:58806] logged in with entity id 29308 at ([world]2457.242800306002, 5.875, 2533.1275381534006)
+[13:47:52] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[13:49:03] [Async Chat Thread - #6/INFO]: <adhesive_tape> 让你做安保工作
+[13:49:50] [Async Chat Thread - #6/INFO]: <_YuanXiao_> 我请请矿洞里的怪
+[13:51:00] [Server thread/INFO]: Preparing Timings Report...
+[13:51:03] [Timings paste thread/INFO]: View Timings Report: https://timings.aikar.co/?id=8d37658888e7429bad0a16390f67c148
+[13:52:29] [Async Chat Thread - #7/INFO]: <_YuanXiao_> 话说，为啥人这么少
+[13:52:40] [Async Chat Thread - #7/INFO]: <adhesive_tape> 上学
+[13:52:49] [Async Chat Thread - #7/INFO]: <_YuanXiao_> 。。。
+[13:53:26] [Async Chat Thread - #7/INFO]: <_YuanXiao_> 话说回来，今天我们学校中考，我初二，所以我不上学，嘿嘿
+[13:54:41] [Server thread/WARN]: _YuanXiao_ moved wrongly!
+[14:00:00] [Async Chat Thread - #8/INFO]: <_YuanXiao_> 我回去挂铁人塔了，拜拜
+[14:00:08] [Server thread/INFO]: _YuanXiao_ tried to swim in lava
+[14:07:04] [User Authenticator #6/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[14:07:04] [Server thread/INFO]: Magical7[/127.0.0.1:58950] logged in with entity id 35945 at ([world]1590.178388900639, 67.0625, 866.2407771817658)
+[14:07:49] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[14:16:12] [Async Chat Thread - #9/INFO]: <adhesive_tape> magic
+[14:16:20] [Async Chat Thread - #9/INFO]: <Magical7> en
+[14:16:28] [Async Chat Thread - #9/INFO]: <adhesive_tape> 在干啥
+[14:16:59] [Async Chat Thread - #9/INFO]: <Magical7> 就逛一下 这么久没回来了
+[14:17:21] [Async Chat Thread - #9/INFO]: <Magical7> 你哪位 改了ID的？
+[14:17:26] [Async Chat Thread - #9/INFO]: <adhesive_tape> 我信任
+[14:17:29] [Async Chat Thread - #9/INFO]: <adhesive_tape> 新人
+[14:17:36] [Async Chat Thread - #9/INFO]: <Magical7> o
+[14:17:38] [User Authenticator #7/INFO]: UUID of player fly_pigman01 is ee66c593-3d27-4832-911d-b569dd50102f
+[14:17:38] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@15a54447[id=ee66c593-3d27-4832-911d-b569dd50102f,name=fly_pigman01,properties={textures=[com.mojang.authlib.properties.Property@465136a5]},legacy=false] (/127.0.0.1:59032): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[14:17:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@15a54447[id=ee66c593-3d27-4832-911d-b569dd50102f,name=fly_pigman01,properties={textures=[com.mojang.authlib.properties.Property@465136a5]},legacy=false] (/127.0.0.1:59032) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[14:17:46] [Async Chat Thread - #9/INFO]: <adhesive_tape> 昨天刚做好的盾构机
+[14:17:52] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[14:17:52] [Async Chat Thread - #9/INFO]: <adhesive_tape> 在空置域，你可以去看看
+[14:20:37] [Async Chat Thread - #10/INFO]: <adhesive_tape> 有铁吗
+[14:20:47] [Async Chat Thread - #10/INFO]: <_YuanXiao_> 很多
+[14:20:56] [Async Chat Thread - #10/INFO]: <adhesive_tape> 来9组铁块
+[14:21:06] [Async Chat Thread - #10/INFO]: <adhesive_tape> 做桶
+[14:21:11] [Async Chat Thread - #10/INFO]: <adhesive_tape> 清理岩浆
+[14:21:27] [Server thread/INFO]: Added fly_pigman01 to the whitelist
+[14:22:06] [Server thread/INFO]: Magical7 has made the advancement [We Need to Go Deeper]
+[14:22:11] [User Authenticator #8/INFO]: UUID of player fly_pigman01 is ee66c593-3d27-4832-911d-b569dd50102f
+[14:22:11] [Server thread/INFO]: fly_pigman01[/127.0.0.1:59064] logged in with entity id 46697 at ([world]-100.5, 64.0, 169.5)
+[14:23:18] [Server thread/INFO]: fly_pigman01 was slain by Zombie
+[14:23:50] [Server thread/INFO]: Magical7 has made the advancement [Ol' Betsy]
+[14:23:50] [Server thread/INFO]: Magical7 has made the advancement [Take Aim]
+[14:23:53] [Server thread/INFO]: Magical7 has made the advancement [Monster Hunter]
+[14:24:02] [User Authenticator #9/INFO]: UUID of player DF_yechu is 53cfc767-1c81-46fa-8b77-d5f7f10bb804
+[14:24:02] [Server thread/INFO]: DF_yechu[/127.0.0.1:59080] logged in with entity id 49384 at ([world]34.5, 65.0, 68.5000000198682)
+[14:24:05] [Server thread/WARN]: adhesive_tape moved too quickly! -10.084163991878086,0.0,0.9366054961137706
+[14:24:16] [Async Chat Thread - #11/INFO]: <adhesive_tape> 才1组
+[14:24:19] [Async Chat Thread - #11/INFO]: <adhesive_tape> 好少啊
+[14:24:26] [Async Chat Thread - #11/INFO]: <adhesive_tape> 有这么小气嘛
+[14:24:30] [Async Chat Thread - #11/INFO]: <_YuanXiao_> 你是说9组铁块
+[14:24:34] [Async Chat Thread - #11/INFO]: <adhesive_tape> en
+[14:24:46] [Async Chat Thread - #11/INFO]: <_YuanXiao_> 我以为是9组铁锭
+[14:26:10] [Async Chat Thread - #12/INFO]: <DF_yechu> Magical7你居然上线了
+[14:26:23] [Async Chat Thread - #12/INFO]: <Magical7> 我们认得吗
+[14:26:37] [Server thread/INFO]: fly_pigman01 lost connection: Disconnected
+[14:26:37] [Server thread/INFO]: fly_pigman01 left the game
+[14:26:39] [Async Chat Thread - #12/INFO]: <_YuanXiao_> 还有5组
+[14:26:48] [Async Chat Thread - #12/INFO]: <DF_yechu> 我大号kirito
+[14:26:49] [Async Chat Thread - #12/INFO]: <_YuanXiao_> 要不要
+[14:26:56] [Async Chat Thread - #12/INFO]: <DF_yechu> 紫晶的
+[14:26:56] [Async Chat Thread - #12/INFO]: <adhesive_tape> 嗯
+[14:26:57] [Async Chat Thread - #12/INFO]: <DF_yechu> awa
+[14:27:30] [Async Chat Thread - #12/INFO]: <Magical7> 噢噢
+[14:27:31] [Async Chat Thread - #12/INFO]: <_YuanXiao_> 咱镇的铁都被你吃完了
+[14:27:49] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[14:28:22] [Async Chat Thread - #12/INFO]: <_YuanXiao_> 好吧，我承认，这只是刷帖机里存的部分
+[14:28:54] [User Authenticator #10/INFO]: UUID of player fly_pigman02 is 67b61d6e-8357-402c-bd08-5c7bd2bae3e2
+[14:28:54] [Server thread/INFO]: fly_pigman02[/127.0.0.1:59115] logged in with entity id 56565 at ([world]5185.210876447034, 64.0, 215.49095058332966)
+[14:29:10] [Async Chat Thread - #12/INFO]: <DF_yechu> 01在哪里
+[14:29:16] [Async Chat Thread - #12/INFO]: <fly_pigman02> 没上线呢
+[14:29:16] [Async Chat Thread - #12/INFO]: <DF_yechu> 01没上线
+[14:29:27] [Async Chat Thread - #12/INFO]: <fly_pigman02> 先去趟出生点等他
+[14:29:37] [Async Chat Thread - #12/INFO]: <fly_pigman02> 给他拿点装备
+[14:29:41] [Server thread/INFO]: Villager EntityVillager['Villager'/56967, uuid='7b9a37d0-6bf3-4d5b-a554-9c35e6d7467f', l='world', x=5264.10, y=73.39, z=299.89, cx=329, cz=18, tl=81029, v=true, d=false] died, message: 'Villager was squished too much'
+[14:29:53] [Server thread/INFO]: _YuanXiao_ hit the ground too hard
+[14:30:06] [User Authenticator #11/INFO]: UUID of player fly_pigman01 is ee66c593-3d27-4832-911d-b569dd50102f
+[14:30:06] [Server thread/INFO]: fly_pigman01[/127.0.0.1:59125] logged in with entity id 59085 at ([world]-83.91809020310778, 120.5, 152.89292046705722)
+[14:30:11] [Async Chat Thread - #12/INFO]: <fly_pigman02> 等我
+[14:30:14] [Server thread/INFO]: fly_pigman01 fell from a high place
+[14:30:21] [Async Chat Thread - #12/INFO]: <fly_pigman01> ok
+[14:30:45] [Server thread/INFO]: Villager EntityVillager['Villager'/56890, uuid='ac8123ef-00e2-4372-9ff9-51370df06eae', l='world', x=5264.15, y=73.59, z=299.89, cx=329, cz=18, tl=304153, v=true, d=false] died, message: 'Villager was squished too much'
+[14:30:46] [Async Chat Thread - #12/INFO]: <fly_pigman01> 你在哪里
+[14:30:54] [Async Chat Thread - #12/INFO]: <fly_pigman02> 我在家，等我，我现在去主城
+[14:31:32] [Server thread/INFO]: Magical7 has made the advancement [Eye Spy]
+[14:31:42] [Server thread/INFO]: Magical7 has made the advancement [The End?]
+[14:31:43] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[14:31:43] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[14:31:57] [Server thread/WARN]: fly_pigman02 moved too quickly! 9.765478882382197,1.0230881091015505,2.7138414684142447
+[14:32:03] [Async Chat Thread - #13/INFO]: <fly_pigman02> 来了
+[14:32:11] [Async Chat Thread - #13/INFO]: <fly_pigman02> 跟我
+[14:32:27] [Server thread/INFO]: fly_pigman01 has made the advancement [We Need to Go Deeper]
+[14:32:41] [Async Chat Thread - #13/INFO]: <fly_pigman02> 来
+[14:32:55] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:55] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:55] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:55] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:55] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:55] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:55] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:55] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:55] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:55] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:55] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:56] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:56] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:56] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:56] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:56] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:56] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:32:56] [Server thread/WARN]: 8a345240-a6a9-4d3b-a1a5-d31a6a2d2d74 (vehicle of fly_pigman02) moved wrongly!
+[14:33:04] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 36.335941692471806,0.0,-1.1112386291599243
+[14:33:04] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 38.058473319566986,0.0,-1.3766776844121864
+[14:33:04] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 39.77837853341924,0.0,-1.6610406100726536
+[14:33:04] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 41.49680620400227,0.0,-1.962437172763373
+[14:33:54] [Server thread/INFO]: fly_pigman01 was slain by Zombie Pigman
+[14:33:58] [Async Chat Thread - #14/INFO]: <DF_yechu> 阿这
+[14:34:07] [Async Chat Thread - #14/INFO]: <fly_pigman01> NOOOOOOO
+[14:34:19] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -40.26419407231606,0.0,0.8192631515744182
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -40.34683022697976,0.0,-0.385071922572628
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -42.27288978247657,0.0,-0.2683092572979824
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -44.19965134419482,0.0,-0.1460368613643226
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -46.12720963187371,0.0,-0.018929791322406686
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -48.05564740139985,0.0,0.11236023216153868
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -49.98513848719503,0.0,0.24651026941639742
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -51.9158114566894,0.0,0.3822451402835121
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -53.847752817889756,0.0,0.5183379180652636
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -55.78680639994303,0.0,0.6540108820347257
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -57.732889442352274,0.0,0.7881098459645095
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -59.685887045306515,0.0,0.9195188002141172
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -61.6485837593853,0.0,1.0473573096732203
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -63.61786764917812,0.0,1.1710828449268682
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -65.59659390796082,0.0,1.2912459100698257
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -67.57574030282109,0.0,1.4083499687756458
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -69.55530256984292,0.0,1.4940887271437333
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -71.53525361240264,0.0,1.4940887271437333
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -73.51554532872942,0.0,1.4940887271437333
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -75.49611039546406,0.0,1.4940887271437333
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -77.47686399692029,0.0,1.4940887271437333
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -79.45770502057178,0.0,1.4940887271437333
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -81.43851799231405,0.0,1.4940887271437333
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -83.41928292820876,0.0,1.499950359203993
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -84.63781023987167,0.0,1.5110057770565106
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -84.63781023987167,0.0,1.525913402528552
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -84.63781023987167,0.0,1.5433813115106005
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -84.63781023987167,0.0,1.5621675831446993
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -84.63781023987167,0.0,1.5810728259043287
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -84.63781023987167,0.0,1.5989480511728118
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -84.63781023987167,0.0,1.6146907726145656
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -84.63781023987167,0.0,1.627241078785083
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -84.63781023987167,0.0,1.6355891629550214
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -84.63781023987167,0.0,1.6387673054803074
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -46.21644578616812,0.0,2.1314719738977104
+[14:34:26] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -46.21644578616812,0.0,2.1215777497772237
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -27.186190399775,0.0,-0.23914270150972428
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -28.601419201083047,0.0,-0.4407883027161823
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -30.02532499502169,0.0,-0.6536445353312601
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -31.458645082832362,0.0,-0.8750564294329273
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -32.90210377063221,0.0,-1.1017444161551175
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -34.356145634035244,0.0,-1.3304951722006457
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -35.820952202946415,0.0,-1.5581830401566634
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -37.29645997413937,0.0,-1.720021453292599
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -38.78237804868198,0.0,-1.7174997283867803
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -40.2782066347836,0.0,-1.7095920132993534
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -41.78325613053465,0.0,-1.693580510058176
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -43.29666432742525,0.0,-1.6668958583395401
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -44.817647355860174,0.0,-1.6277868959382644
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -20.566585542237164,0.0,-1.5245202127996684
+[14:34:29] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -22.1011648797666,0.0,-1.4582921943494362
+[14:34:30] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -23.64201370865672,0.0,-1.3780955708262788
+[14:34:53] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 39.18866606728909,0.0,0.0619674738551943
+[14:35:00] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 41.421404604507245,0.0,0.73385340091302
+[14:35:03] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 39.6641381831065,0.0,0.7788145602487901
+[14:35:03] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 41.572619151496895,0.0,0.8581814628034721
+[14:35:03] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 43.482499730285156,0.0,0.941811275388627
+[14:35:03] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 45.39373446885003,0.0,1.0297363236249701
+[14:35:03] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 47.30627894279553,0.0,1.1219844387881857
+[14:35:03] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 49.22008929211239,0.0,1.2185828452375524
+[14:35:03] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 51.13512280966222,0.0,1.3195543848653557
+[14:35:03] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 53.05144332520905,0.0,1.4242315250167863
+[14:35:04] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -30.678932534143712,0.0,-1.5408065311631773
+[14:36:35] [Async Chat Thread - #15/INFO]: <fly_pigman02> 设个重生点
+[14:36:50] [Server thread/INFO]: fly_pigman01 has made the advancement [Sweet Dreams]
+[14:37:04] [Async Chat Thread - #15/INFO]: <fly_pigman02> 给你点东西
+[14:37:20] [Server thread/INFO]: Villager EntityVillager['Villager'/69267, uuid='7f459c27-1a6b-4c19-bad4-61dd1d6b7c7f', l='world', x=5264.13, y=73.40, z=299.85, cx=329, cz=18, tl=599492, v=true, d=false] died, message: 'Villager was squished too much'
+[14:37:23] [Async Chat Thread - #15/INFO]: <fly_pigman02> 用铁做点工具武器啥的
+[14:37:34] [Async Chat Thread - #15/INFO]: <fly_pigman02> 然后图腾放副手
+[14:37:47] [Async Chat Thread - #15/INFO]: <fly_pigman02> 一会带你去刷点经验
+[14:37:49] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[14:37:52] [Server thread/INFO]: Villager EntityVillager['Villager'/69332, uuid='7b4cf4ef-bbc7-4d67-895b-b50e942382e0', l='world', x=5264.11, y=73.39, z=299.86, cx=329, cz=18, tl=320470, v=true, d=false] died, message: 'Villager was squished too much'
+[14:38:04] [Async Chat Thread - #15/INFO]: <DF_yechu> 猪人塔我在
+[14:38:08] [Async Chat Thread - #15/INFO]: <fly_pigman02> 嗯
+[14:38:11] [Server thread/INFO]: fly_pigman01 has made the advancement [Acquire Hardware]
+[14:38:16] [Async Chat Thread - #15/INFO]: <fly_pigman02> 好
+[14:38:27] [Async Chat Thread - #15/INFO]: <fly_pigman02> 去小黑塔还是猪人塔
+[14:38:39] [Async Chat Thread - #15/INFO]: <DF_yechu> 什么都不要带
+[14:38:42] [Async Chat Thread - #15/INFO]: <DF_yechu> 去小黑塔
+[14:38:47] [Async Chat Thread - #15/INFO]: <DF_yechu> 不然你们死了
+[14:38:55] [Async Chat Thread - #15/INFO]: <DF_yechu> 不好收尸
+[14:38:58] [Async Chat Thread - #15/INFO]: <adhesive_tape> 欢迎坐船
+[14:39:05] [Server thread/INFO]: fly_pigman01 has made the advancement [Suit Up]
+[14:39:06] [Async Chat Thread - #15/INFO]: <fly_pigman02> 给你把剑
+[14:39:21] [Async Chat Thread - #15/INFO]: <fly_pigman02> 去猪人塔
+[14:39:21] [Async Chat Thread - #16/INFO]: <fly_pigman02> 跟着我
+[14:39:46] [Async Chat Thread - #16/INFO]: <fly_pigman02> Lia
+[14:39:48] [Async Chat Thread - #16/INFO]: <fly_pigman02> 来
+[14:40:13] [Async Chat Thread - #16/INFO]: <fly_pigman02> 仓库里面的东西拿的话问YiFanFengShun
+[14:40:28] [Async Chat Thread - #16/INFO]: <fly_pigman02> 然后平常去猪人塔刷经验
+[14:40:28] [Async Chat Thread - #16/INFO]: <fly_pigman02> 来
+[14:41:10] [Async Chat Thread - #16/INFO]: <fly_pigman02> 一直按右键网上
+[14:41:49] [Async Chat Thread - #16/INFO]: <fly_pigman02> 挂机
+[14:41:53] [Async Chat Thread - #16/INFO]: <fly_pigman02> 剩下的DF告诉你
+[14:41:57] [Async Chat Thread - #16/INFO]: <DF_yechu> ?
+[14:43:06] [User Authenticator #12/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[14:43:06] [Server thread/INFO]: Xin_Sai[/127.0.0.1:59209] logged in with entity id 77192 at ([world]2755.934191576134, 63.0, -391.9281016363151)
+[14:43:08] [User Authenticator #12/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[14:43:08] [Server thread/INFO]: Xin_Sai lost connection: You logged in from another location
+[14:43:08] [Server thread/INFO]: Xin_Sai left the game
+[14:43:08] [Server thread/INFO]: Xin_Sai[/127.0.0.1:59216] logged in with entity id 77284 at ([world]2755.934191576134, 63.0, -391.9281016363151)
+[14:43:08] [Server thread/WARN]: handleDisconnection() called twice
+[14:43:11] [Server thread/INFO]: Villager EntityVillager['Villager'/69268, uuid='5f21f375-37c8-428a-86db-357e0e5be1d8', l='world', x=5264.13, y=73.36, z=299.87, cx=329, cz=18, tl=412847, v=true, d=false] died, message: 'Villager was squished too much'
+[14:43:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a38f840[id=<null>,name=Xin_Sai,properties={},legacy=false] (/127.0.0.1:59208) lost connection: Disconnected
+[14:43:34] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[14:43:34] [Server thread/INFO]: Xin_Sai left the game
+[14:43:52] [User Authenticator #12/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[14:43:52] [Server thread/INFO]: Xin_Sai[/127.0.0.1:59223] logged in with entity id 77861 at ([world]2755.934191576134, 63.0, -391.9281016363151)
+[14:43:55] [Server thread/INFO]: adhesive_tape has made the advancement [Sticky Situation]
+[14:45:16] [Async Chat Thread - #17/INFO]: <DF_yechu> 爷溜了
+[14:45:35] [Async Chat Thread - #17/INFO]: <fly_pigman01> 马牛逼
+[14:46:00] [Server thread/INFO]: DF_yechu lost connection: Disconnected
+[14:46:00] [Server thread/INFO]: DF_yechu left the game
+[14:46:17] [Async Chat Thread - #17/INFO]: <fly_pigman01> 小享在不在
+[14:46:59] [Async Chat Thread - #17/INFO]: <fly_pigman02> 在
+[14:47:09] [Async Chat Thread - #17/INFO]: <fly_pigman02> 一会要上课
+[14:47:12] [Async Chat Thread - #17/INFO]: <fly_pigman01> 你在哪里
+[14:47:26] [Async Chat Thread - #17/INFO]: <fly_pigman02> 猪人塔矿车那里
+[14:47:41] [Async Chat Thread - #17/INFO]: <fly_pigman01> 不是说刷经验吗
+[14:47:45] [Async Chat Thread - #17/INFO]: <fly_pigman02> 嗯
+[14:47:47] [Async Chat Thread - #17/INFO]: <Xin_Sai> 有谁有胡萝卜土豆之类的
+[14:47:49] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[14:47:52] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[14:47:52] [Async Chat Thread - #17/INFO]: <fly_pigman02> 我
+[14:48:07] [Async Chat Thread - #17/INFO]: <Xin_Sai> 你有几组丫
+[14:48:24] [Async Chat Thread - #17/INFO]: <fly_pigman02> 快两组胡罗贝
+[14:48:37] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-22.89819203529987
+[14:48:37] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-24.137505272323153
+[14:48:37] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-25.391616595733126
+[14:48:37] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-26.660251810955543
+[14:48:37] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-27.943141622431796
+[14:48:37] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-29.240021032724542
+[14:48:37] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-30.550629293808328
+[14:48:37] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-31.874709866784798
+[14:48:37] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-33.212010374953195
+[14:48:37] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-34.56228301975543
+[14:48:40] [Server thread/WARN]: 9bfcb592-daea-4cc3-a14c-8680e8b4f855 (vehicle of fly_pigman02) moved wrongly!
+[14:48:40] [Server thread/WARN]: 9bfcb592-daea-4cc3-a14c-8680e8b4f855 (vehicle of fly_pigman02) moved wrongly!
+[14:48:40] [Server thread/WARN]: 9bfcb592-daea-4cc3-a14c-8680e8b4f855 (vehicle of fly_pigman02) moved wrongly!
+[14:48:40] [Server thread/WARN]: 9bfcb592-daea-4cc3-a14c-8680e8b4f855 (vehicle of fly_pigman02) moved wrongly!
+[14:48:40] [Server thread/WARN]: 9bfcb592-daea-4cc3-a14c-8680e8b4f855 (vehicle of fly_pigman02) moved wrongly!
+[14:48:40] [Server thread/WARN]: 9bfcb592-daea-4cc3-a14c-8680e8b4f855 (vehicle of fly_pigman02) moved wrongly!
+[14:48:40] [Server thread/WARN]: 9bfcb592-daea-4cc3-a14c-8680e8b4f855 (vehicle of fly_pigman02) moved wrongly!
+[14:48:40] [Server thread/WARN]: 9bfcb592-daea-4cc3-a14c-8680e8b4f855 (vehicle of fly_pigman02) moved wrongly!
+[14:48:41] [Server thread/WARN]: 9bfcb592-daea-4cc3-a14c-8680e8b4f855 (vehicle of fly_pigman02) moved wrongly!
+[14:48:41] [Server thread/WARN]: 9bfcb592-daea-4cc3-a14c-8680e8b4f855 (vehicle of fly_pigman02) moved wrongly!
+[14:48:42] [Server thread/WARN]: 9bfcb592-daea-4cc3-a14c-8680e8b4f855 (vehicle of fly_pigman02) moved wrongly!
+[14:48:53] [Server thread/WARN]: 9bfcb592-daea-4cc3-a14c-8680e8b4f855 (vehicle of fly_pigman02) moved wrongly!
+[14:48:53] [Server thread/WARN]: 9bfcb592-daea-4cc3-a14c-8680e8b4f855 (vehicle of fly_pigman02) moved wrongly!
+[14:49:05] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-36.09583519666067
+[14:49:05] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-37.86640803246367
+[14:49:05] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-39.641048630217355
+[14:49:05] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-41.4196823961622
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-39.73735531965801
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-41.63920613057684
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-43.54165566994388
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-45.444673031276295
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-47.34822981121721
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-49.252297060614524
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-51.156847310818904
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-53.061853538245344
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-54.96729019110256
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-56.87313213922772
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-58.77935466192844
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-60.68593343979347
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-62.59284560464954
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-64.50006866745525
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-66.40758156870103
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-68.31536253385352
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-70.22339229513099
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-72.1316508264429
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-74.04011843516486
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-75.9487768395289
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-77.85760806752268
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-79.76659554220447
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-43.83958822923583
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-45.74883739875122
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-47.658193675379266
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-49.567642701752845
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-85.84804383316683
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-87.75686889464393
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-89.66557016568237
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-91.5741406561259
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-93.48257467791186
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-95.39086664183756
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-97.2990110518578
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-99.20700250694705
+[14:49:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-101.11483569547366
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,83.93910089003947
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,82.03073941314312
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,80.16054512938561
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,78.32775469563211
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,76.53162003559598
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,74.77140803450203
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,73.04640023985658
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-69.69919501773686
+[14:49:11] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-69.69919501773686
+[14:49:12] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,98.902106404998
+[14:49:12] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,98.902106404998
+[14:49:12] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,98.902106404998
+[14:49:12] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,98.902106404998
+[14:49:12] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,98.902106404998
+[14:49:12] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,98.902106404998
+[14:49:12] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,97.45382579861737
+[14:49:12] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,95.9958278130415
+[14:49:12] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,94.56698975936806
+[14:49:13] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,89.77291646960896
+[14:49:13] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,89.77291646960896
+[14:49:13] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,89.77291646960896
+[14:49:14] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-70.51395998888864
+[14:49:14] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-70.51395998888864
+[14:49:14] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,-70.51395998888864
+[14:49:14] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,85.70241780366882
+[14:49:14] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,85.70241780366882
+[14:49:14] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,85.70241780366882
+[14:49:21] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -0.5706622512843751,0.0,-20.3293692275588
+[14:49:22] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -0.15076597210827458,0.0,31.041034443560648
+[14:49:37] [Async Chat Thread - #18/INFO]: <fly_pigman01> 857857
+[14:49:53] [Async Chat Thread - #18/INFO]: <fly_pigman02> 一会会有猪人掉下来
+[14:50:06] [Async Chat Thread - #18/INFO]: <fly_pigman02> 来了
+[14:50:13] [Async Chat Thread - #18/INFO]: <fly_pigman02> 死了之后掉经验
+[14:50:17] [Async Chat Thread - #18/INFO]: <fly_pigman01> ohhhh
+[14:50:25] [Server thread/INFO]: Magical7 has made the advancement [Acquire Hardware]
+[14:50:35] [Async Chat Thread - #18/INFO]: <fly_pigman02> 我现在53级经验不需要了
+[14:50:43] [Async Chat Thread - #18/INFO]: <fly_pigman02> 自己体验下
+[14:50:55] [Async Chat Thread - #18/INFO]: <fly_pigman01> 谢谢爸爸
+[14:50:59] [Async Chat Thread - #18/INFO]: <fly_pigman02> 嗯
+[14:51:06] [Async Chat Thread - #18/INFO]: <adhesive_tape> ?????
+[14:51:09] [Async Chat Thread - #18/INFO]: <fly_pigman02> 这是镇长的建筑
+[14:51:24] [Async Chat Thread - #18/INFO]: <fly_pigman02> 我一会挂机上课，半个小时回来
+[14:51:30] [Async Chat Thread - #18/INFO]: <fly_pigman01> 别说还真牛逼
+[14:51:39] [Async Chat Thread - #18/INFO]: <fly_pigman02> 是吧
+[14:51:48] [Async Chat Thread - #18/INFO]: <fly_pigman02> 一会你能去玩hyp
+[14:51:53] [Async Chat Thread - #18/INFO]: <fly_pigman02> 我玩不了
+[14:51:57] [Async Chat Thread - #18/INFO]: <fly_pigman02> 被封了
+[14:52:05] [Async Chat Thread - #18/INFO]: <fly_pigman02> 除非你给我个新号/xyx
+[14:52:12] [Async Chat Thread - #18/INFO]: <fly_pigman01> nope
+[14:52:24] [Async Chat Thread - #18/INFO]: <fly_pigman01> 想多了
+[14:52:26] [Async Chat Thread - #18/INFO]: <fly_pigman02> 三十级回家附魔奥
+[14:52:28] [Async Chat Thread - #18/INFO]: <fly_pigman02> ,/xyx
+[14:52:31] [Server thread/INFO]: Magical7 has made the advancement [Bring Home the Beacon]
+[14:52:31] [Server thread/INFO]: Magical7 has reached the goal [Beaconator]
+[14:52:43] [Async Chat Thread - #18/INFO]: <fly_pigman02> 然后我带你去其他镇串串门
+[14:53:31] [Async Chat Thread - #18/INFO]: <fly_pigman02> 需要偶给你留船吗
+[14:53:35] [Async Chat Thread - #18/INFO]: <fly_pigman02> *我
+[14:53:43] [Async Chat Thread - #18/INFO]: <fly_pigman01> 我有了
+[14:53:49] [Async Chat Thread - #18/INFO]: <fly_pigman02> 好
+[14:54:08] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -0.07626911217357701,0.0,22.512983158198722
+[14:54:08] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -0.0640992754497347,0.0,23.77390737084204
+[14:54:08] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -0.04508889257976989,0.0,25.04898084749277
+[14:54:08] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -0.019197452867047105,0.0,26.337888282521988
+[14:54:08] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,27.640444329968204
+[14:54:08] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,28.956562323336527
+[14:54:08] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,30.286118467231915
+[14:54:08] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,31.62895417808602
+[14:54:08] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,32.98487920880922
+[14:54:08] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.0,0.0,34.35367418195858
+[14:54:08] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -1.303881435887888E-4,0.0,35.73509306851702
+[14:54:08] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! -0.0014621615127907717,0.0,37.128865479261435
+[14:54:09] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.54264210510064,0.0,-41.10763969972453
+[14:54:09] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.54264210510064,0.0,-41.10763969972453
+[14:54:09] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.54264210510064,0.0,-41.10763969972453
+[14:54:09] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.625,0.0,-28.38812523473422
+[14:54:09] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.625,0.0,-26.77086733915712
+[14:54:09] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.625,0.0,-25.14915234955521
+[14:54:09] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.625,0.0,-23.523492146216427
+[14:54:09] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.625,0.0,-21.89410235521956
+[14:54:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.54264210510064,0.0,-43.92625686647153
+[14:54:10] [Server thread/WARN]: Boat (vehicle of fly_pigman02) moved too quickly! 0.54264210510064,0.0,-43.92625686647153
+[14:55:00] [Server thread/WARN]: Xin_Sai moved too quickly! 23.444040513418997,-2.7250653042588198,1.324308294055733
+[14:55:44] [Server thread/INFO]: Xin_Sai issued server command: /me adhesive_tape 是否能在主世界也弄盾构机然后来达到刷钻石的目的
+[14:55:44] [Server thread/INFO]: * Xin_Sai adhesive_tape 是否能在主世界也弄盾构机然后来达到刷钻石的目的
+[14:55:51] [Async Chat Thread - #19/INFO]: <adhesive_tape> 弄好了呀
+[14:56:01] [Server thread/WARN]: fly_pigman02 was kicked for floating too long!
+[14:56:01] [Server thread/INFO]: fly_pigman02 lost connection: Flying is not enabled on this server
+[14:56:01] [Server thread/INFO]: fly_pigman02 left the game
+[14:56:01] [Server thread/WARN]: handleDisconnection() called twice
+[14:56:18] [User Authenticator #13/INFO]: UUID of player fly_pigman02 is 67b61d6e-8357-402c-bd08-5c7bd2bae3e2
+[14:56:18] [Server thread/INFO]: fly_pigman02[/127.0.0.1:59312] logged in with entity id 93577 at ([world]5194.992055909358, 68.24947197770308, 238.99811005626364)
+[14:56:26] [Async Chat Thread - #19/INFO]: <adhesive_tape> 刚刚弄好
+[14:56:30] [Async Chat Thread - #19/INFO]: <adhesive_tape> 还在测试
+[14:56:31] [Async Chat Thread - #19/INFO]: <Xin_Sai> ?
+[14:56:33] [Async Chat Thread - #19/INFO]: <adhesive_tape> 在黑云
+[14:56:43] [Server thread/WARN]: Xin_Sai moved too quickly! -1651.0569995462258,16.233632006042477,-235.01522278037925
+[14:56:45] [Async Chat Thread - #19/INFO]: <fly_pigman02> 话说黑云是不是也没人了
+[14:57:23] [Async Chat Thread - #19/INFO]: <fly_pigman02> 拿点珍珠到时候救命用
+[14:58:13] [Async Chat Thread - #19/INFO]: <fly_pigman02> 谁带我去刷点不死图腾
+[14:58:39] [Async Chat Thread - #19/INFO]: <fly_pigman01> 我要回来了
+[14:59:02] [Async Chat Thread - #19/INFO]: <fly_pigman02> 嗯
+[14:59:11] [Server thread/WARN]: fly_pigman02 moved too quickly! -7.444340507140623,0.939235613781733,-7.186221137010705
+[14:59:44] [Async Chat Thread - #19/INFO]: <fly_pigman02> 挂会机
+[15:00:33] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[15:00:33] [Server thread/INFO]: Xin_Sai left the game
+[15:00:38] [User Authenticator #14/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[15:00:38] [Server thread/INFO]: Xin_Sai[/127.0.0.1:59344] logged in with entity id 98523 at ([world]2649.8195026801454, 76.0, -261.12147701834084)
+[15:00:48] [Async Chat Thread - #20/INFO]: <fly_pigman01> 我拿点珍珠
+[15:00:51] [Async Chat Thread - #20/INFO]: <fly_pigman02> 好
+[15:00:54] [Async Chat Thread - #20/INFO]: <fly_pigman02> 随便拿
+[15:01:08] [Async Chat Thread - #20/INFO]: <fly_pigman02> 珍珠最不缺
+[15:01:14] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[15:01:14] [Server thread/INFO]: Xin_Sai left the game
+[15:01:21] [Server thread/INFO]: Villager EntityVillager['Villager'/94024, uuid='5901d96b-be2c-4e95-8fd2-79a30099e8bd', l='world', x=5264.13, y=73.40, z=299.88, cx=329, cz=18, tl=72135, v=true, d=false] died, message: 'Villager was squished too much'
+[15:01:27] [User Authenticator #14/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[15:01:27] [Server thread/INFO]: Xin_Sai[/127.0.0.1:59354] logged in with entity id 98937 at ([world]2652.3315092664975, 86.2237143312605, -258.662164948673)
+[15:01:36] [Async Chat Thread - #20/INFO]: <fly_pigman02> 一会去趟前哨塔刷点不死图腾
+[15:01:41] [Async Chat Thread - #20/INFO]: <fly_pigman02> 挂会机
+[15:01:44] [Async Chat Thread - #20/INFO]: <fly_pigman01> ok
+[15:01:53] [Async Chat Thread - #20/INFO]: <fly_pigman02> 你可以去找ad
+[15:01:55] [Async Chat Thread - #20/INFO]: <fly_pigman02> adhesive_tape
+[15:02:02] [Async Chat Thread - #20/INFO]: <fly_pigman02> ,/xyx
+[15:02:05] [Async Chat Thread - #20/INFO]: <fly_pigman01> xyx
+[15:02:14] [Server thread/WARN]: Magical7 was kicked for floating too long!
+[15:02:14] [Server thread/INFO]: Magical7 lost connection: Flying is not enabled on this server
+[15:02:14] [Server thread/INFO]: Magical7 left the game
+[15:02:14] [Server thread/WARN]: handleDisconnection() called twice
+[15:02:23] [User Authenticator #14/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[15:02:23] [Server thread/INFO]: Magical7[/127.0.0.1:59362] logged in with entity id 99532 at ([world]1615.1421943421924, 63.771600016355514, 816.5943690115871)
+[15:02:40] [Server thread/INFO]: Magical7 has made the advancement [Stone Age]
+[15:03:22] [Async Chat Thread - #21/INFO]: <fly_pigman02> 别随便招惹别人，因为他们都是钻石甲大佬/xyx
+[15:03:27] [Async Chat Thread - #21/INFO]: <fly_pigman01> xyx
+[15:03:45] [Async Chat Thread - #21/INFO]: <Xin_Sai> ..
+[15:03:46] [Server thread/INFO]: Magical7 has made the advancement [Sweet Dreams]
+[15:03:47] [Async Chat Thread - #21/INFO]: <fly_pigman02> 吃点烤鱼
+[15:03:57] [Async Chat Thread - #21/INFO]: <fly_pigman02> 回复点血
+[15:04:04] [Server thread/WARN]: fly_pigman02 moved too quickly! 6.70497108647578,-2.0,8.41310059647381
+[15:04:27] [Server thread/WARN]: Xin_Sai moved too quickly! -7.614992045796953,-4.109552546740034,-9.866385537530189
+[15:04:30] [Async Chat Thread - #21/INFO]: <fly_pigman02> 好好呆着别作 就行
+[15:04:35] [Async Chat Thread - #21/INFO]: <fly_pigman01> ok
+[15:04:43] [Async Chat Thread - #21/INFO]: <fly_pigman02> 嗯,吃饭去了
+[15:04:54] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[15:04:54] [Server thread/INFO]: Xin_Sai left the game
+[15:05:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@320d14b[id=<null>,name=Xin_Sai,properties={},legacy=false] (/127.0.0.1:59386) lost connection: Disconnected
+[15:05:20] [User Authenticator #15/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[15:05:20] [Server thread/INFO]: Xin_Sai[/127.0.0.1:59392] logged in with entity id 102216 at ([world]2719.533976483089, 63.0, -34.458514760647155)
+[15:05:25] [Server thread/INFO]: Xin_Sai has made the advancement [Hot Stuff]
+[15:06:16] [Server thread/INFO]: Xin_Sai has reached the goal [Postmortal]
+[15:06:49] [Server thread/WARN]: Xin_Sai moved too quickly! 1.4422936093505996,0.0,-9.909645271773456
+[15:07:19] [Async Chat Thread - #22/INFO]: <adhesive_tape> 心塞过来
+[15:07:33] [Async Chat Thread - #22/INFO]: <Xin_Sai> 我在杀铁傀儡
+[15:07:42] [Async Chat Thread - #22/INFO]: <adhesive_tape> 搞完过来
+[15:10:17] [Async Chat Thread - #23/INFO]: <fly_pigman02> 儿子你人呢
+[15:10:26] [Async Chat Thread - #23/INFO]: <fly_pigman01> 在呢
+[15:10:31] [Async Chat Thread - #23/INFO]: <fly_pigman02> 在哪
+[15:10:41] [Server thread/WARN]: fly_pigman02 moved too quickly! -9.515179503392574,-1.4959870982234804,3.1835335549390322
+[15:10:42] [Async Chat Thread - #23/INFO]: <fly_pigman01> 在房子里
+[15:10:43] [Server thread/INFO]: Villager EntityVillager['Librarian'/63553, uuid='04b92a8a-4986-452e-a3fb-11541e12692b', l='world', x=2747.70, y=6.32, z=-353.81, cx=171, cz=-23, tl=7781569, v=true, d=false] died, message: 'Librarian tried to swim in lava'
+[15:10:47] [Server thread/INFO]: Villager EntityVillager['Villager'/63561, uuid='7ce750d4-eb45-4304-87b5-214de3ad047c', l='world', x=2747.30, y=6.98, z=-353.36, cx=171, cz=-23, tl=7800689, v=true, d=false] died, message: 'Villager tried to swim in lava'
+[15:10:47] [Server thread/INFO]: Villager EntityVillager['Librarian'/63610, uuid='92aaa3c6-59a4-4283-a8d6-ad0cc50d3260', l='world', x=2747.30, y=6.03, z=-352.41, cx=171, cz=-23, tl=12659996, v=true, d=false] died, message: 'Librarian tried to swim in lava'
+[15:10:49] [Server thread/INFO]: Villager EntityVillager['Villager'/63560, uuid='54709841-edc8-4e83-b973-3e8ed23afa30', l='world', x=2747.68, y=6.01, z=-351.76, cx=171, cz=-22, tl=7824231, v=true, d=false] died, message: 'Villager tried to swim in lava'
+[15:10:49] [Async Chat Thread - #23/INFO]: <fly_pigman02> 哪个
+[15:11:39] [Async Chat Thread - #23/INFO]: <fly_pigman01> 就是设重生点的房子
+[15:11:47] [Async Chat Thread - #23/INFO]: <fly_pigman02> Oo
+[15:11:51] [Server thread/INFO]: Villager EntityVillager['Librarian'/63762, uuid='55949a62-4917-47da-a296-9d3f5bb4a689', l='world', x=2752.49, y=11.00, z=-346.16, cx=172, cz=-22, tl=12671640, v=true, d=false] died, message: 'Librarian burned to death'
+[15:12:31] [Async Chat Thread - #23/INFO]: <adhesive_tape> magic
+[15:12:33] [Async Chat Thread - #23/INFO]: <adhesive_tape> 来不
+[15:12:40] [Server thread/INFO]: Villager EntityVillager['Librarian'/63750, uuid='d1fdaa9a-cf73-4472-ba9c-c5e646560380', l='world', x=2746.20, y=11.78, z=-328.14, cx=171, cz=-21, tl=12688113, v=true, d=false] died, message: 'Librarian tried to swim in lava'
+[15:12:46] [Async Chat Thread - #23/INFO]: <Magical7> 去哪
+[15:12:48] [Async Chat Thread - #23/INFO]: <_YuanXiao_> 儿子？？？
+[15:12:52] [Async Chat Thread - #23/INFO]: <adhesive_tape> 黑云
+[15:14:22] [Server thread/WARN]: Xin_Sai moved too quickly! 5.278197454123529,0.5625,-8.753225121415142
+[15:14:55] [Async Chat Thread - #24/INFO]: <Xin_Sai> 我延迟好大
+[15:15:28] [Async Chat Thread - #24/INFO]: <fly_pigman01> 那是你家网不好
+[15:15:51] [Async Chat Thread - #24/INFO]: <Xin_Sai> .. 原先我 5 60
+[15:17:37] [Async Chat Thread - #25/INFO]: <adhesive_tape> magic来了没
+[15:17:52] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[15:18:02] [Async Chat Thread - #25/INFO]: <Magical7> 我都不知道你叫我去哪。。。
+[15:18:09] [Async Chat Thread - #25/INFO]: <fly_pigman01> 为毛公告牌上没我
+[15:18:13] [Async Chat Thread - #25/INFO]: <adhesive_tape> 黑云
+[15:18:28] [Async Chat Thread - #25/INFO]: <Magical7> 黑云是啥
+[15:18:37] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[15:18:37] [Server thread/INFO]: Xin_Sai left the game
+[15:18:44] [Server thread/INFO]: Villager EntityVillager['Villager'/93864, uuid='1b2c25fa-cb44-45e3-9dcf-a276b3a086c9', l='world', x=5264.10, y=73.34, z=299.82, cx=329, cz=18, tl=245173, v=true, d=false] died, message: 'Villager was squished too much'
+[15:19:22] [Async Chat Thread - #25/INFO]: <fly_pigman02> 你自己写
+[15:19:23] [Server thread/WARN]: Magical7 moved wrongly!
+[15:19:47] [Async Chat Thread - #25/INFO]: <adhesive_tape> 你在哪
+[15:19:50] [Async Chat Thread - #25/INFO]: <adhesive_tape> 我过去找你
+[15:20:15] [Async Chat Thread - #25/INFO]: <fly_pigman02> 有了
+[15:20:26] [Async Chat Thread - #25/INFO]: <fly_pigman01> 马牛逼
+[15:20:33] [Async Chat Thread - #25/INFO]: <fly_pigman02> 儿砸你想去其他镇看看吗
+[15:20:41] [Async Chat Thread - #25/INFO]: <adhesive_tape> magic你在哪
+[15:20:42] [Async Chat Thread - #25/INFO]: <fly_pigman01> yeah
+[15:20:49] [Async Chat Thread - #25/INFO]: <fly_pigman02> 等等
+[15:20:53] [Async Chat Thread - #25/INFO]: <fly_pigman01> ok
+[15:20:55] [Async Chat Thread - #25/INFO]: <fly_pigman02> 我先去喂下村民
+[15:21:03] [Server thread/WARN]: fly_pigman02 moved too quickly! 0.5241156246820537,3.1661092609382138,-9.73907040700962
+[15:21:21] [Async Chat Thread - #25/INFO]: <adhesive_tape> magic你在哪
+[15:21:26] [Async Chat Thread - #25/INFO]: <Magical7> 我在家
+[15:21:41] [Async Chat Thread - #25/INFO]: <adhesive_tape> 河湾是吧
+[15:21:45] [Async Chat Thread - #25/INFO]: <Magical7> en
+[15:21:46] [Server thread/WARN]: fly_pigman02 moved too quickly! 4.197487921762331,-0.41999998688697815,11.470207599374135
+[15:21:52] [Async Chat Thread - #25/INFO]: <fly_pigman02> 河湾真的有人？
+[15:21:55] [Server thread/WARN]: fly_pigman02 moved too quickly! 4.47195438665949,-0.2987031463477763,10.78167724594158
+[15:22:26] [Async Chat Thread - #25/INFO]: <fly_pigman01> 灵异事件哈哈哈
+[15:22:30] [Async Chat Thread - #25/INFO]: <Magical7> 肯定有啊 不然这里谁建出来的
+[15:22:48] [Async Chat Thread - #25/INFO]: <fly_pigman02> 我还以为共镇和河湾都废弃了
+[15:23:18] [Async Chat Thread - #25/INFO]: <adhesive_tape> 找不到
+[15:23:23] [Async Chat Thread - #25/INFO]: <adhesive_tape> 我在地狱门等你
+[15:23:27] [Async Chat Thread - #25/INFO]: <adhesive_tape> 给我点烟花
+[15:23:36] [Async Chat Thread - #25/INFO]: <fly_pigman02> 儿子走，我们先去共镇
+[15:23:45] [Async Chat Thread - #25/INFO]: <adhesive_tape> 给我点烟花
+[15:24:19] [Async Chat Thread - #25/INFO]: <fly_pigman02> 别手贱
+[15:25:02] [Async Chat Thread - #25/INFO]: <fly_pigman02> 你人呢
+[15:25:25] [Async Chat Thread - #25/INFO]: <fly_pigman02> 跳着跑啊
+[15:25:28] [Server thread/WARN]: fly_pigman02 moved too quickly! 0.03884428161819642,0.7531999805212024,10.418548951802055
+[15:25:37] [Async Chat Thread - #25/INFO]: <fly_pigman02> 回来
+[15:25:44] [Async Chat Thread - #25/INFO]: <fly_pigman02> NO
+[15:25:50] [Async Chat Thread - #25/INFO]: <fly_pigman02> 这是新共镇
+[15:25:56] [Async Chat Thread - #25/INFO]: <fly_pigman02> 走错了
+[15:26:04] [Async Chat Thread - #25/INFO]: <adhesive_tape> magic
+[15:26:10] [Async Chat Thread - #25/INFO]: <fly_pigman02> 去海晶逛一圈吧
+[15:26:14] [Async Chat Thread - #25/INFO]: <adhesive_tape> 人呢
+[15:26:31] [Async Chat Thread - #25/INFO]: <fly_pigman02> 遇到这种门我们不要慌
+[15:26:50] [Async Chat Thread - #25/INFO]: <fly_pigman02> 额
+[15:26:55] [Async Chat Thread - #25/INFO]: <fly_pigman02> adhesive_tape出来开下门xingbu
+[15:27:10] [Async Chat Thread - #25/INFO]: <adhesive_tape> 无语了
+[15:27:13] [Async Chat Thread - #25/INFO]: <fly_pigman02> 还有我能把你们门口两个图腾扣下来吗
+[15:27:16] [Async Chat Thread - #25/INFO]: <adhesive_tape> 待会吧
+[15:27:21] [Async Chat Thread - #25/INFO]: <fly_pigman01> 芝麻开门
+[15:27:23] [Async Chat Thread - #25/INFO]: <fly_pigman02> 算了直接撸掉
+[15:27:31] [Async Chat Thread - #25/INFO]: <fly_pigman02> 你他妈就是来靠谱的/xyx
+[15:27:37] [Async Chat Thread - #25/INFO]: <fly_pigman01> xyx
+[15:27:46] [Async Chat Thread - #25/INFO]: <fly_pigman02> 不
+[15:28:00] [Async Chat Thread - #25/INFO]: <adhesive_tape> Magical7 人呢
+[15:28:22] [Async Chat Thread - #25/INFO]: <fly_pigman02> 就他妈nice
+[15:28:27] [Async Chat Thread - #25/INFO]: <Magical7> 怎么了
+[15:28:37] [Async Chat Thread - #25/INFO]: <adhesive_tape> 给点烟花。。
+[15:28:55] [Async Chat Thread - #25/INFO]: <fly_pigman02> fly_pigman01过来啊
+[15:29:38] [Async Chat Thread - #25/INFO]: <fly_pigman02> 我卡了？
+[15:29:43] [Async Chat Thread - #25/INFO]: <adhesive_tape> 带你去黑云去不
+[15:29:52] [Server thread/WARN]: fly_pigman02 moved too quickly! 1.0417393789812763,1.0013359791121417,11.777855827140428
+[15:29:53] [Async Chat Thread - #25/INFO]: <Magical7> ok
+[15:30:02] [Async Chat Thread - #25/INFO]: <fly_pigman02> 儿子你在这里干啥
+[15:30:11] [Async Chat Thread - #25/INFO]: <fly_pigman02> 进来啊
+[15:30:15] [Async Chat Thread - #25/INFO]: <adhesive_tape> 还是这边先把
+[15:30:21] [Async Chat Thread - #25/INFO]: <fly_pigman01> 接到诈骗电话了
+[15:30:26] [Async Chat Thread - #25/INFO]: <fly_pigman02> 原来
+[15:30:49] [Async Chat Thread - #25/INFO]: <fly_pigman02> 这里是海晶
+[15:30:49] [Async Chat Thread - #26/INFO]: <fly_pigman02> 随便逛逛
+[15:30:59] [Async Chat Thread - #26/INFO]: <fly_pigman02> 箱子里东西别碰就行
+[15:31:31] [Async Chat Thread - #26/INFO]: <adhesive_tape> 盾构机
+[15:31:33] [Async Chat Thread - #26/INFO]: <fly_pigman02> 想去哪随便逛
+[15:31:51] [Async Chat Thread - #26/INFO]: <fly_pigman02> 别拿东西就可
+[15:31:55] [Server thread/WARN]: fly_pigman02 moved too quickly! 11.671845843306528,0.0,-6.411088525908951
+[15:32:37] [Async Chat Thread - #26/INFO]: <fly_pigman01> 不错
+[15:32:38] [Async Chat Thread - #26/INFO]: <fly_pigman02> 逛够了就回家
+[15:33:00] [Async Chat Thread - #26/INFO]: <fly_pigman02> 海晶很大，然后我在这就特卡
+[15:33:08] [Async Chat Thread - #26/INFO]: <fly_pigman02> 6帧
+[15:33:13] [Async Chat Thread - #26/INFO]: <adhesive_tape> 要开机看看吗
+[15:33:20] [Async Chat Thread - #26/INFO]: <Magical7> 不用了
+[15:33:20] [Async Chat Thread - #26/INFO]: <fly_pigman02> 等我，我也要
+[15:33:26] [Async Chat Thread - #26/INFO]: <fly_pigman02> xyx
+[15:33:29] [Async Chat Thread - #26/INFO]: <Magical7> 不是去黑云吗
+[15:33:35] [Async Chat Thread - #26/INFO]: <adhesive_tape> ok
+[15:34:07] [Server thread/WARN]: fly_pigman02 was kicked due to keepalive timeout!
+[15:34:07] [Server thread/INFO]: fly_pigman02 lost connection: Timed out
+[15:34:07] [Server thread/INFO]: fly_pigman02 left the game
+[15:34:07] [Server thread/WARN]: handleDisconnection() called twice
+[15:34:14] [Async Chat Thread - #26/INFO]: <fly_pigman01> WTF
+[15:35:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@6f889afd[id=<null>,name=fly_pigman02,properties={},legacy=false] (/127.0.0.1:59585) lost connection: Timed out
+[15:35:30] [User Authenticator #16/INFO]: UUID of player fly_pigman02 is 67b61d6e-8357-402c-bd08-5c7bd2bae3e2
+[15:35:30] [Server thread/INFO]: fly_pigman02[/127.0.0.1:59590] logged in with entity id 124676 at ([world_nether]335.1088998698066, 115.0, -42.250642235375906)
+[15:36:29] [Async Chat Thread - #27/INFO]: <fly_pigman02> 扑街仔回家啦
+[15:36:35] [Async Chat Thread - #27/INFO]: <adhesive_tape> 人呢
+[15:36:52] [Server thread/INFO]: fly_pigman01 has made the advancement [Monster Hunter]
+[15:36:53] [Async Chat Thread - #27/INFO]: <fly_pigman02> NOoo
+[15:36:56] [Async Chat Thread - #27/INFO]: <fly_pigman02> shoot
+[15:37:04] [Async Chat Thread - #27/INFO]: <fly_pigman01> xyx
+[15:37:10] [Async Chat Thread - #27/INFO]: <fly_pigman02> 好家伙一下子砍我半管
+[15:37:15] [Server thread/WARN]: fly_pigman02 moved too quickly! -10.41537454965993,1.1767592750642422,0.21376230612176883
+[15:37:40] [Async Chat Thread - #27/INFO]: <fly_pigman02> 刷怪塔去吗
+[15:37:58] [Async Chat Thread - #27/INFO]: <Magical7> 回去了
+[15:38:05] [Async Chat Thread - #27/INFO]: <adhesive_tape> e
+[15:38:18] [Server thread/INFO]: fly_pigman01 has reached the goal [Postmortal]
+[15:38:25] [Async Chat Thread - #27/INFO]: <fly_pigman02> 你卡死了
+[15:38:27] [Server thread/INFO]: fly_pigman01 suffocated in a wall
+[15:38:49] [Async Chat Thread - #27/INFO]: <fly_pigman01> fuuuuuuuuuuuuuuuuuuuuuuuk
+[15:38:59] [Async Chat Thread - #27/INFO]: <fly_pigman02> 我回去找你
+[15:39:07] [Async Chat Thread - #27/INFO]: <fly_pigman02> 你东西我都有
+[15:39:11] [Server thread/WARN]: fly_pigman02 moved too quickly! 1.138149060465139,-1.1451067006516382,-17.120389978327523
+[15:39:14] [Async Chat Thread - #27/INFO]: <fly_pigman01> hoho
+[15:39:30] [Async Chat Thread - #27/INFO]: <fly_pigman02> 但经验你要从新刷
+[15:39:41] [Server thread/WARN]: fly_pigman02 moved too quickly! -0.964507920988126,-1.2000000476837158,-17.5696821180157
+[15:39:44] [Async Chat Thread - #27/INFO]: <fly_pigman01> ok
+[15:40:11] [Async Chat Thread - #27/INFO]: <fly_pigman02> omg wtf is this connection
+[15:40:19] [Async Chat Thread - #27/INFO]: <fly_pigman02> 就nm卡
+[15:40:28] [Server thread/WARN]: fly_pigman02 moved too quickly! 18.975497195050195,0.0,0.6789499804128525
+[15:40:39] [Async Chat Thread - #27/INFO]: <fly_pigman02> 我有点小羡慕你的延迟
+[15:41:03] [Async Chat Thread - #27/INFO]: <fly_pigman01> 我也就70帧
+[15:41:23] [Async Chat Thread - #27/INFO]: <fly_pigman02> 延迟....
+[15:41:38] [Async Chat Thread - #27/INFO]: <fly_pigman01> 我不卡
+[15:42:04] [Server thread/WARN]: fly_pigman02 was kicked due to keepalive timeout!
+[15:42:04] [Server thread/INFO]: fly_pigman02 lost connection: Timed out
+[15:42:04] [Server thread/INFO]: fly_pigman02 left the game
+[15:42:04] [Server thread/WARN]: handleDisconnection() called twice
+[15:42:09] [Async Chat Thread - #27/INFO]: <fly_pigman01> 我hypixel也不卡
+[15:44:25] [User Authenticator #17/INFO]: UUID of player fly_pigman02 is 67b61d6e-8357-402c-bd08-5c7bd2bae3e2
+[15:44:25] [Server thread/INFO]: fly_pigman02[/127.0.0.1:59649] logged in with entity id 134165 at ([world]5200.5, 69.0, 212.04999992251396)
+[15:44:39] [Async Chat Thread - #28/INFO]: <fly_pigman01> 东西还我
+[15:45:10] [Server thread/WARN]: fly_pigman02 was kicked due to keepalive timeout!
+[15:45:10] [Server thread/INFO]: fly_pigman02 lost connection: Timed out
+[15:45:10] [Server thread/INFO]: fly_pigman02 left the game
+[15:45:10] [Server thread/WARN]: handleDisconnection() called twice
+[15:45:35] [User Authenticator #18/INFO]: UUID of player fly_pigman02 is 67b61d6e-8357-402c-bd08-5c7bd2bae3e2
+[15:45:35] [Server thread/INFO]: fly_pigman02[/127.0.0.1:59666] logged in with entity id 135455 at ([world]5160.424149306901, 64.0, 205.3398384550532)
+[15:45:55] [Async Chat Thread - #29/INFO]: <fly_pigman01> 我东西丢给我
+[15:46:10] [Server thread/INFO]: fly_pigman02 lost connection: Timed out
+[15:46:10] [Server thread/INFO]: fly_pigman02 left the game
+[15:47:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@40306d2b[id=<null>,name=fly_pigman02,properties={},legacy=false] (/127.0.0.1:59679): Took too long to log in
+[15:47:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@40306d2b[id=<null>,name=fly_pigman02,properties={},legacy=false] (/127.0.0.1:59679) lost connection: Took too long to log in
+[15:47:52] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[15:47:52] [Server thread/INFO]: fly_pigman01 lost connection: Disconnected
+[15:47:52] [Server thread/INFO]: fly_pigman01 left the game
+[15:51:30] [User Authenticator #19/INFO]: UUID of player fly_pigman02 is 67b61d6e-8357-402c-bd08-5c7bd2bae3e2
+[15:51:30] [Server thread/INFO]: fly_pigman02[/127.0.0.1:59710] logged in with entity id 139838 at ([world]5160.424149306901, 64.0, 205.3398384550532)
+[15:51:43] [Async Chat Thread - #30/INFO]: <fly_pigman02> 我在仓库
+[15:55:47] [Server thread/WARN]: fly_pigman02 was kicked for floating too long!
+[15:55:47] [Server thread/INFO]: fly_pigman02 lost connection: Flying is not enabled on this server
+[15:55:47] [Server thread/INFO]: fly_pigman02 left the game
+[15:55:48] [Server thread/WARN]: handleDisconnection() called twice
+[16:10:15] [Server thread/WARN]: _YuanXiao_ moved too quickly! -0.8267731903202389,-1.4735144492737504,17.701821386884326
+[16:11:09] [Server thread/WARN]: _YuanXiao_ moved too quickly! -1650.1335059628018,15.878703159460805,-234.54028315792428
+[16:17:52] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[16:31:16] [User Authenticator #20/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:31:16] [Server thread/INFO]: Block_linyi[/127.0.0.1:59971] logged in with entity id 161016 at ([world]2666.4157878016217, 4.0, 704.7691328809046)
+[16:33:54] [Server thread/WARN]: Block_linyi was kicked for floating too long!
+[16:33:54] [Server thread/INFO]: Block_linyi lost connection: Flying is not enabled on this server
+[16:33:54] [Server thread/INFO]: Block_linyi left the game
+[16:33:54] [Server thread/WARN]: handleDisconnection() called twice
+[16:33:57] [User Authenticator #21/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:33:57] [Server thread/INFO]: Block_linyi[/127.0.0.1:59990] logged in with entity id 163415 at ([world]2816.6932518986355, 116.7498957549491, 1400.7344832219787)
+[16:35:27] [Server thread/WARN]: Block_linyi was kicked for floating too long!
+[16:35:27] [Server thread/INFO]: Block_linyi lost connection: Flying is not enabled on this server
+[16:35:27] [Server thread/INFO]: Block_linyi left the game
+[16:35:27] [Server thread/WARN]: handleDisconnection() called twice
+[16:35:31] [User Authenticator #22/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:35:31] [Server thread/INFO]: Block_linyi[/127.0.0.1:60002] logged in with entity id 165049 at ([world]2748.1758817344166, 152.82786494065866, 4318.254701345522)
+[16:35:35] [Server thread/WARN]: Block_linyi was kicked for floating too long!
+[16:35:35] [Server thread/INFO]: Block_linyi lost connection: Flying is not enabled on this server
+[16:35:35] [Server thread/INFO]: Block_linyi left the game
+[16:35:35] [Server thread/WARN]: handleDisconnection() called twice
+[16:35:39] [User Authenticator #22/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:35:39] [Server thread/INFO]: Block_linyi[/127.0.0.1:60004] logged in with entity id 165125 at ([world]2743.254733155182, 149.03683291082308, 4582.80893792357)
+[16:36:44] [Server thread/INFO]: Block_linyi issued server command: /co i
+[16:36:51] [Server thread/INFO]: Block_linyi issued server command: /co i
+[16:37:49] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[16:38:10] [Server thread/INFO]: Block_linyi lost connection: Disconnected
+[16:38:10] [Server thread/INFO]: Block_linyi left the game
+[16:42:52] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1061043 bytes} to external file .\world\region\c.3.6.mcc
+[16:44:25] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[16:44:25] [Server thread/INFO]: Magical7 left the game
+[16:47:52] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[16:47:52] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1108942 bytes} to external file .\world\region\c.3.6.mcc
+[16:52:52] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1157000 bytes} to external file .\world\region\c.3.6.mcc
+[16:57:52] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1205880 bytes} to external file .\world\region\c.3.6.mcc
+[17:02:52] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1254277 bytes} to external file .\world\region\c.3.6.mcc
+[17:04:57] [Server thread/WARN]: _YuanXiao_ moved too quickly! 10.286041280893187,-1.0,5.149105279844207
+[17:07:52] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1302305 bytes} to external file .\world\region\c.3.6.mcc
+[17:08:06] [Server thread/WARN]: _YuanXiao_ moved too quickly! 11.347526299361107,-0.24785109963253404,-4.175396534564015
+[17:12:16] [Server thread/WARN]: _YuanXiao_ moved too quickly! 12.412679480753468,1.252203340253729,-7.249402364256866
+[17:12:52] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1350780 bytes} to external file .\world\region\c.3.6.mcc
+[17:16:47] [Server thread/INFO]: _YuanXiao_ has made the advancement [The City at the End of the Game]
+[17:17:52] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[17:17:52] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1399528 bytes} to external file .\world\region\c.3.6.mcc
+[17:19:34] [Server thread/WARN]: _YuanXiao_ moved too quickly! 3.125371377457668,-0.2277792520400439,12.667897063710143
+[17:19:43] [Server thread/WARN]: _YuanXiao_ moved too quickly! 8.524112873081322,-3.766367993957523,4.22863243238362
+[17:20:25] [Server thread/WARN]: _YuanXiao_ moved too quickly! 9.267959227221581,-0.6044241013267069,-4.757638495835408
+[17:22:52] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1447620 bytes} to external file .\world\region\c.3.6.mcc
+[17:25:07] [Server thread/WARN]: _YuanXiao_ moved too quickly! 11.220369434684471,-2.0,-2.393297831986615
+[17:26:32] [Server thread/INFO]: _YuanXiao_ fell out of the world
+[17:26:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
+[17:26:41] [Async Chat Thread - #31/INFO]: <_YuanXiao_> nb
+[17:28:01] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1495631 bytes} to external file .\world\region\c.3.6.mcc
+[17:32:26] [User Authenticator #23/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[17:32:27] [Server thread/INFO]: Xin_Sai[/127.0.0.1:60401] logged in with entity id 195263 at ([world]2752.7172937882237, 61.53933946620289, -332.30000001192093)
+[17:33:00] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1544441 bytes} to external file .\world\region\c.3.6.mcc
+[17:34:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[17:35:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[17:36:10] [Server thread/INFO]: [SAML] TPS low (18.22). Will attempt to freeze some mobs...
+[17:36:10] [Server thread/INFO]: [SAML] 475 mobs affected (475 frozen, 0 nerfed) in 133ms. Total of 476/849 affected (474 frozen, 96 nerfed).
+[17:36:14] [Server thread/INFO]: Preparing Timings Report...
+[17:36:19] [Timings paste thread/INFO]: View Timings Report: https://timings.aikar.co/?id=45eda844ba6c44ceacf89c4ddb39dcba
+[17:38:07] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1592911 bytes} to external file .\world\region\c.3.6.mcc
+[17:38:48] [Async Chat Thread - #32/INFO]: <Xin_Sai> adhesive_tape
+[17:38:56] [Async Chat Thread - #32/INFO]: <adhesive_tape> yes
+[17:39:07] [Async Chat Thread - #32/INFO]: <Xin_Sai> 你在哪里？
+[17:39:21] [Async Chat Thread - #32/INFO]: <adhesive_tape> 混凝土固化机
+[17:43:07] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1640933 bytes} to external file .\world\region\c.3.6.mcc
+[17:43:37] [Async Chat Thread - #33/INFO]: <_YuanXiao_> 心塞
+[17:43:46] [Async Chat Thread - #33/INFO]: <_YuanXiao_> 我太苦了
+[17:43:58] [Async Chat Thread - #33/INFO]: <_YuanXiao_> 我就找个鞘翅。
+[17:44:10] [Async Chat Thread - #33/INFO]: <_YuanXiao_> 还能遇到吞方块
+[17:44:24] [Async Chat Thread - #33/INFO]: <_YuanXiao_> 难道这是网易开的服吗
+[17:44:35] [Async Chat Thread - #33/INFO]: <_YuanXiao_> 心态崩啦
+[17:44:44] [Async Chat Thread - #33/INFO]: <Xin_Sai> 233
+[17:45:44] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 19.4, 19.87, 19.74
+[17:47:08] [User Authenticator #24/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[17:47:08] [Server thread/INFO]: Crushxl[/127.0.0.1:60505] logged in with entity id 200347 at ([world]-35.11332990342904, 110.02086325668914, 259.7114979458895)
+[17:47:12] [Server thread/INFO]: Xin_Sai has made the advancement [Sticky Situation]
+[17:47:19] [Async Chat Thread - #34/INFO]: <_YuanXiao_> 救我
+[17:47:25] [Server thread/INFO]: Crushxl issued server command: /tp Crushxl 1536 100 3072
+[17:47:27] [Server thread/INFO]: [Crushxl: Teleported Crushxl to 1536.5, 100.0, 3072.5]
+[17:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6815ms or 136 ticks behind
+[17:47:37] [Async Chat Thread - #34/INFO]: <_YuanXiao_> 玩混凝土姬的那个
+[17:47:49] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[17:48:14] [Async Chat Thread - #34/INFO]: <adhesive_tape> 你在哪
+[17:48:17] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[17:48:18] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1689218 bytes} to external file .\world\region\c.3.6.mcc
+[17:48:21] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[17:48:21] [Server thread/INFO]: Crushxl left the game
+[17:48:26] [User Authenticator #25/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[17:48:26] [Server thread/INFO]: Crushxl[/127.0.0.1:60514] logged in with entity id 201539 at ([world]1537.8062485027049, 68.0, 3065.710466324193)
+[17:48:32] [Async Chat Thread - #34/INFO]: <_YuanXiao_> 你旁边的村民
+[17:48:49] [Server thread/WARN]: _YuanXiao_ moved too quickly! 10.066754068197042,-4.943945043052423,0.3999999761581421
+[17:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[17:48:56] [Async Chat Thread - #34/INFO]: <_YuanXiao_> 23333
+[17:49:14] [Async Chat Thread - #34/INFO]: <_YuanXiao_> 谢谢
+[17:49:16] [Server thread/WARN]: Crushxl moved too quickly! 3.5020118987029036,0.0,25.218210866729805
+[17:49:25] [Server thread/INFO]: Villager EntityVillager['Farmer'/161250, uuid='0eb202d5-ff89-457f-806d-4130b7b461d2', l='world', x=2770.30, y=73.25, z=-409.30, cx=173, cz=-26, tl=943554, v=true, d=false] died, message: 'Farmer was slain by 森语'
+[17:50:16] [Server thread/WARN]: Crushxl moved too quickly! 15.984222948902698,0.0,0.0583590972746606
+[17:50:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[17:50:35] [Async Chat Thread - #35/INFO]: <_YuanXiao_> 你去做其他事，我来吧。毕竟我不想白嫖太多
+[17:51:26] [Async Chat Thread - #35/INFO]: <adhesive_tape> 蒙蔽
+[17:51:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[17:51:40] [Async Chat Thread - #35/INFO]: <adhesive_tape> 现在不知道干啥
+[17:52:06] [Async Chat Thread - #35/INFO]: <adhesive_tape> 小冷在干啥
+[17:52:15] [Async Chat Thread - #35/INFO]: <_YuanXiao_> 不知道
+[17:52:44] [Async Chat Thread - #35/INFO]: <_YuanXiao_> 这是末地们空置域的地板吗
+[17:53:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
+[17:53:37] [Server thread/INFO]: [SAML] TPS low (18.36). Will attempt to freeze some mobs...
+[17:53:37] [Server thread/INFO]: [SAML] 141 mobs affected (141 frozen, 0 nerfed) in 115ms. Total of 490/1015 affected (488 frozen, 131 nerfed).
+[17:53:37] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1738084 bytes} to external file .\world\region\c.3.6.mcc
+[17:53:43] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[17:53:43] [Server thread/INFO]: Xin_Sai left the game
+[17:54:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5025ms or 100 ticks behind
+[17:54:54] [Async Chat Thread - #36/INFO]: <adhesive_tape> en
+[17:55:15] [Async Chat Thread - #36/INFO]: <_YuanXiao_> 你去铁人塔挂机啊
+[17:55:38] [Async Chat Thread - #36/INFO]: <_YuanXiao_> 我在那建了个自闭小屋
+[17:56:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[17:56:55] [User Authenticator #26/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[17:56:56] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:60575] logged in with entity id 210627 at ([world]2675.557355456434, 39.0, -366.3244419961059)
+[17:57:43] [Async Chat Thread - #37/INFO]: <adhesive_tape> sen搞一点力量V
+[17:57:46] [Async Chat Thread - #37/INFO]: <adhesive_tape> 附魔书
+[17:57:48] [Async Chat Thread - #37/INFO]: <sen_lv_ling_> = =
+[17:57:49] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[17:58:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[17:58:08] [Async Chat Thread - #37/INFO]: <sen_lv_ling_> 真就没人管神兽呗
+[17:58:18] [Async Chat Thread - #37/INFO]: <adhesive_tape> 鱼叉用的我难受
+[17:58:27] [Async Chat Thread - #37/INFO]: <adhesive_tape> 我需要弓
+[17:58:31] [Async Chat Thread - #37/INFO]: <_YuanXiao_> 我没听懂你说的圣兽在哪
+[17:58:37] [Async Chat Thread - #37/INFO]: <sen_lv_ling_> e
+[17:58:52] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1786229 bytes} to external file .\world\region\c.3.6.mcc
+[17:59:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[17:59:40] [Server thread/INFO]: Villager EntityVillager['Villager'/177158, uuid='08bd53ee-9bac-445d-894d-1631a34529ab', l='world', x=2769.35, y=63.00, z=-424.90, cx=173, cz=-27, tl=76637, v=true, d=false] died, message: 'Villager hit the ground too hard'
+[18:00:04] [Async Chat Thread - #38/INFO]: <sen_lv_ling_> 一个一个都不睡觉
+[18:00:21] [Async Chat Thread - #38/INFO]: <_YuanXiao_> 没装备了
+[18:00:33] [Async Chat Thread - #38/INFO]: <_YuanXiao_> 我好能白嫖吗sen
+[18:00:38] [Async Chat Thread - #38/INFO]: <_YuanXiao_> awa
+[18:00:39] [Async Chat Thread - #38/INFO]: <sen_lv_ling_> 。。。
+[18:00:50] [Async Chat Thread - #38/INFO]: <sen_lv_ling_> 话说谁放的村民
+[18:00:55] [Async Chat Thread - #38/INFO]: <_YuanXiao_> 那我还是去自闭小屋了
+[18:01:00] [Async Chat Thread - #38/INFO]: <sen_lv_ling_> 又不治疗
+[18:01:20] [Async Chat Thread - #38/INFO]: <adhesive_tape> 元宵掉村民里面了，为了救他只能放出来
+[18:01:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[18:01:24] [Async Chat Thread - #38/INFO]: <sen_lv_ling_> ...
+[18:01:37] [Async Chat Thread - #38/INFO]: <sen_lv_ling_> 给他个珍珠不就行了...
+[18:01:59] [Async Chat Thread - #38/INFO]: <sen_lv_ling_> 谁又把金苹果拿了
+[18:02:41] [Server thread/INFO]: _YuanXiao_ was slain by Phantom
+[18:02:51] [Async Chat Thread - #38/INFO]: <adhesive_tape> 溜了
+[18:02:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5036ms or 100 ticks behind
+[18:03:34] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[18:03:34] [Server thread/INFO]: sen_lv_ling_ left the game
+[18:04:06] [Server thread/WARN]: adhesive_tape moved too quickly! -17.027732303151513,-4.93091586324519,44.78016581186051
+[18:04:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5036ms or 100 ticks behind
+[18:04:09] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1834392 bytes} to external file .\world\region\c.3.6.mcc
+[18:04:12] [User Authenticator #27/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[18:04:12] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:60623] logged in with entity id 213704 at ([world]2725.2174050533463, 63.0, -337.30000001192093)
+[18:04:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5048ms or 100 ticks behind
+[18:05:17] [Server thread/INFO]: [SAML] TPS low (17.56). Will attempt to freeze some mobs...
+[18:05:17] [Server thread/INFO]: [SAML] 47 mobs affected (47 frozen, 0 nerfed) in 125ms. Total of 501/1038 affected (500 frozen, 133 nerfed).
+[18:05:24] [User Authenticator #28/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[18:05:24] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:60632] logged in with entity id 214792 at ([world]-193.5112232555389, 64.0, 210.13711227804757)
+[18:05:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[18:06:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5110ms or 102 ticks behind
+[18:06:07] [Async Chat Thread - #39/INFO]: <GinGer_Snow> 阿巴阿巴
+[18:06:16] [Async Chat Thread - #39/INFO]: <adhesive_tape> 这啥意思
+[18:06:17] [Async Chat Thread - #39/INFO]: <GinGer_Snow> 有人缺打工仔吗
+[18:06:22] [Async Chat Thread - #39/INFO]: <GinGer_Snow> （痴呆
+[18:06:23] [Async Chat Thread - #39/INFO]: <sen_lv_ling_> 阿巴阿巴
+[18:06:26] [Async Chat Thread - #39/INFO]: <GinGer_Snow> 阿巴阿巴
+[18:06:26] [Async Chat Thread - #39/INFO]: <adhesive_tape> 好啊
+[18:06:27] [Server thread/INFO]: [SAML] TPS low (16.87). Will attempt to freeze some mobs...
+[18:06:27] [Server thread/INFO]: [SAML] 59 mobs affected (59 frozen, 0 nerfed) in 120ms. Total of 554/1129 affected (553 frozen, 178 nerfed).
+[18:06:31] [Async Chat Thread - #39/INFO]: <_YuanXiao_> 这话我也想问
+[18:06:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5630ms or 112 ticks behind
+[18:06:47] [Async Chat Thread - #39/INFO]: <GinGer_Snow> 有人缺打工仔吗
+[18:06:49] [Server thread/INFO]: Villager EntityVillager['Librarian'/161257, uuid='98d5fdb6-a8b9-4ab3-b5a1-fd23698caf8a', l='world', x=2770.44, y=73.65, z=-409.51, cx=173, cz=-26, tl=2091096, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[18:07:08] [Async Chat Thread - #39/INFO]: <adhesive_tape> 可以帮我搞个全属性弓吗
+[18:07:11] [Async Chat Thread - #39/INFO]: <GinGer_Snow> ?
+[18:07:14] [Async Chat Thread - #39/INFO]: <GinGer_Snow> az
+[18:07:14] [Async Chat Thread - #39/INFO]: <adhesive_tape> 、
+[18:07:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5811ms or 116 ticks behind
+[18:07:20] [Async Chat Thread - #39/INFO]: <_YuanXiao_> ezzzzzz
+[18:07:24] [Async Chat Thread - #39/INFO]: <GinGer_Snow> 全属性弩行吗（
+[18:07:28] [Async Chat Thread - #39/INFO]: <adhesive_tape> 不行哦
+[18:07:38] [Server thread/INFO]: [SAML] TPS low (16.92). Will attempt to freeze some mobs...
+[18:07:38] [Server thread/INFO]: [SAML] 37 mobs affected (37 frozen, 0 nerfed) in 110ms. Total of 590/1134 affected (589 frozen, 199 nerfed).
+[18:07:39] [Async Chat Thread - #39/INFO]: <_YuanXiao_> 我可以。
+[18:07:49] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[18:07:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5149ms or 102 ticks behind
+[18:07:56] [Server thread/WARN]: 43f33bcb-b1e1-4f36-b7e9-49d54a05150e (vehicle of GinGer_Snow) moved wrongly!
+[18:07:56] [Server thread/WARN]: 43f33bcb-b1e1-4f36-b7e9-49d54a05150e (vehicle of GinGer_Snow) moved wrongly!
+[18:07:56] [Server thread/WARN]: 43f33bcb-b1e1-4f36-b7e9-49d54a05150e (vehicle of GinGer_Snow) moved wrongly!
+[18:07:57] [Server thread/WARN]: 43f33bcb-b1e1-4f36-b7e9-49d54a05150e (vehicle of GinGer_Snow) moved wrongly!
+[18:08:06] [Async Chat Thread - #39/INFO]: <adhesive_tape> 算了我自己弄了
+[18:08:10] [Async Chat Thread - #39/INFO]: <_YuanXiao_> 。。。
+[18:08:16] [Async Chat Thread - #39/INFO]: <sen_lv_ling_> 你门放水救人出来也不关水的么
+[18:08:24] [Async Chat Thread - #39/INFO]: <GinGer_Snow> 为什么我觉得弩比弓香（
+[18:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5521ms or 110 ticks behind
+[18:08:31] [Async Chat Thread - #39/INFO]: <_YuanXiao_> 难道我那么遭人嫌弃的吗
+[18:08:37] [Async Chat Thread - #39/INFO]: <sen_lv_ling_> 连拉杆都拆了
+[18:08:50] [Server thread/INFO]: [SAML] TPS low (16.65). Will attempt to freeze some mobs...
+[18:08:50] [Server thread/INFO]: [SAML] 31 mobs affected (31 frozen, 0 nerfed) in 106ms. Total of 601/1163 affected (600 frozen, 213 nerfed).
+[18:08:52] [Async Chat Thread - #39/INFO]: <GinGer_Snow> 这边建议co i(
+[18:08:56] [Async Chat Thread - #39/INFO]: <GinGer_Snow> .
+[18:08:58] [Async Chat Thread - #39/INFO]: <adhesive_tape> ...
+[18:08:58] [Async Chat Thread - #39/INFO]: <GinGer_Snow> 我卡了？
+[18:09:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6075ms or 121 ticks behind
+[18:09:07] [Server thread/INFO]: _YuanXiao_ issued server command: /coi
+[18:09:10] [Async Chat Thread - #39/INFO]: <GinGer_Snow> 地图刷不出来是怎么回事
+[18:09:24] [Async Chat Thread - #39/INFO]: <GinGer_Snow> ?
+[18:09:37] [Server thread/INFO]: GinGer_Snow lost connection: Disconnected
+[18:09:37] [Server thread/INFO]: GinGer_Snow left the game
+[18:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5208ms or 104 ticks behind
+[18:09:43] [Async Chat Thread - #39/INFO]: <sen_lv_ling_> 啊这
+[18:09:50] [Async Chat Thread - #39/INFO]: <sen_lv_ling_> 貌似村民又少了
+[18:09:50] [User Authenticator #29/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[18:09:50] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:60668] logged in with entity id 222118 at ([world]-650.5, 22.0, -1874.300000011921)
+[18:09:55] [Async Chat Thread - #39/INFO]: <GinGer_Snow> 阿巴阿巴
+[18:10:00] [Server thread/INFO]: [SAML] TPS low (17.02). Will attempt to freeze some mobs...
+[18:10:00] [Server thread/INFO]: [SAML] 10 mobs affected (10 frozen, 0 nerfed) in 109ms. Total of 592/1150 affected (591 frozen, 221 nerfed).
+[18:10:01] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1883005 bytes} to external file .\world\region\c.3.6.mcc
+[18:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6060ms or 121 ticks behind
+[18:10:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6269ms or 125 ticks behind
+[18:11:13] [Server thread/INFO]: [SAML] TPS low (16.73). Will attempt to freeze some mobs...
+[18:11:13] [Server thread/INFO]: [SAML] 20 mobs affected (20 frozen, 0 nerfed) in 115ms. Total of 610/1175 affected (609 frozen, 231 nerfed).
+[18:11:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5421ms or 108 ticks behind
+[18:11:33] [Async Chat Thread - #40/INFO]: <GinGer_Snow> 力量5耐久3精修火矢的弓
+[18:11:36] [Async Chat Thread - #40/INFO]: <GinGer_Snow> 满配了吗
+[18:11:42] [Async Chat Thread - #40/INFO]: <sen_lv_ling_> 冲击
+[18:11:55] [Async Chat Thread - #40/INFO]: <GinGer_Snow> 最高是2还是3
+[18:12:00] [Async Chat Thread - #40/INFO]: <sen_lv_ling_> 2吧
+[18:12:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5294ms or 105 ticks behind
+[18:12:23] [Server thread/INFO]: [SAML] TPS low (16.97). Will attempt to freeze some mobs...
+[18:12:24] [Server thread/INFO]: [SAML] 54 mobs affected (54 frozen, 0 nerfed) in 106ms. Total of 654/1187 affected (653 frozen, 237 nerfed).
+[18:12:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5180ms or 103 ticks behind
+[18:12:42] [Async Chat Thread - #40/INFO]: <adhesive_tape> 还有无线
+[18:12:48] [Async Chat Thread - #40/INFO]: <adhesive_tape> 还有无限
+[18:12:54] [Async Chat Thread - #40/INFO]: <GinGer_Snow> 无限不能和精修一起吧
+[18:12:57] [Async Chat Thread - #40/INFO]: <sen_lv_ling_> 无限和精修冲突
+[18:13:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[18:13:32] [Server thread/INFO]: [SAML] TPS low (17.4). Will attempt to freeze some mobs...
+[18:13:32] [Server thread/INFO]: [SAML] 10 mobs affected (10 frozen, 0 nerfed) in 122ms. Total of 643/1185 affected (642 frozen, 227 nerfed).
+[18:13:36] [Server thread/INFO]: _YuanXiao_ issued server command: /co inspect
+[18:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5082ms or 101 ticks behind
+[18:14:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5119ms or 102 ticks behind
+[18:14:42] [Server thread/INFO]: [SAML] TPS low (17.52). Will attempt to freeze some mobs...
+[18:14:42] [Server thread/INFO]: [SAML] 7 mobs affected (7 frozen, 0 nerfed) in 126ms. Total of 641/1141 affected (640 frozen, 240 nerfed).
+[18:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[18:15:15] [Async Chat Thread - #41/INFO]: <_YuanXiao_> 我在用/coi
+[18:15:18] [Async Chat Thread - #41/INFO]: <GinGer_Snow> az
+[18:15:30] [Async Chat Thread - #41/INFO]: <GinGer_Snow> 黑云怎么多了个盾构机（
+[18:15:38] [Server thread/INFO]: _YuanXiao_ fell from a high place
+[18:15:40] [Async Chat Thread - #41/INFO]: <sen_lv_ling_> ...
+[18:15:42] [Async Chat Thread - #41/INFO]: <_YuanXiao_> 。。。
+[18:15:50] [Server thread/INFO]: [SAML] TPS low (17.62). Will attempt to freeze some mobs...
+[18:15:50] [Server thread/INFO]: [SAML] 25 mobs affected (25 frozen, 0 nerfed) in 100ms. Total of 661/1173 affected (660 frozen, 241 nerfed).
+[18:15:50] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1931516 bytes} to external file .\world\region\c.3.6.mcc
+[18:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[18:15:58] [Async Chat Thread - #41/INFO]: <sen_lv_ling_> 你很强
+[18:16:28] [Async Chat Thread - #41/INFO]: <_YuanXiao_> 我以为下面有楼梯，看见你跳了，我就跟着跳了
+[18:16:32] [Async Chat Thread - #41/INFO]: <sen_lv_ling_> ...
+[18:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[18:16:59] [Server thread/INFO]: [SAML] TPS low (17.46). Will attempt to freeze some mobs...
+[18:16:59] [Server thread/INFO]: [SAML] 25 mobs affected (25 frozen, 0 nerfed) in 108ms. Total of 675/1174 affected (674 frozen, 241 nerfed).
+[18:17:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5061ms or 101 ticks behind
+[18:17:34] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[18:17:34] [Server thread/INFO]: _YuanXiao_ left the game
+[18:17:48] [User Authenticator #30/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[18:17:48] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:60730] logged in with entity id 228524 at ([world]2765.699999988079, 63.0, -393.3649682297702)
+[18:17:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5054ms or 101 ticks behind
+[18:17:58] [Server thread/WARN]: _YuanXiao_ moved too quickly! -9.04328283004179,1.4719179919633376,4.293303026367312
+[18:18:08] [Server thread/INFO]: [SAML] TPS low (17.45). Will attempt to freeze some mobs...
+[18:18:08] [Server thread/INFO]: [SAML] 22 mobs affected (22 frozen, 0 nerfed) in 88ms. Total of 662/1163 affected (661 frozen, 240 nerfed).
+[18:18:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
+[18:18:31] [Async Chat Thread - #42/INFO]: <_YuanXiao_> 咋退出这个模式
+[18:18:36] [Async Chat Thread - #42/INFO]: <sen_lv_ling_> ?
+[18:18:42] [Server thread/INFO]: _YuanXiao_ issued server command: /coi
+[18:18:48] [Server thread/INFO]: _YuanXiao_ issued server command: /co inspect
+[18:18:51] [Server thread/WARN]: sen_lv_ling_ moved wrongly!
+[18:19:01] [Async Chat Thread - #42/INFO]: <_YuanXiao_> 哦好嘞
+[18:19:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[18:19:17] [Server thread/INFO]: [SAML] TPS low (17.36). Will attempt to freeze some mobs...
+[18:19:17] [Server thread/INFO]: [SAML] 10 mobs affected (10 frozen, 0 nerfed) in 107ms. Total of 663/1161 affected (662 frozen, 240 nerfed).
+[18:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[18:20:14] [Async Chat Thread - #43/INFO]: <adhesive_tape> 盾构机我做的
+[18:20:22] [Async Chat Thread - #43/INFO]: <adhesive_tape> 挖矿用
+[18:20:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[18:20:26] [Server thread/INFO]: [SAML] TPS low (17.38). Will attempt to freeze some mobs...
+[18:20:26] [Server thread/INFO]: [SAML] 4 mobs affected (4 frozen, 0 nerfed) in 114ms. Total of 658/1158 affected (657 frozen, 240 nerfed).
+[18:20:26] [Async Chat Thread - #43/INFO]: <_YuanXiao_> 我看他做的
+[18:20:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
+[18:21:00] [Async Chat Thread - #43/INFO]: <adhesive_tape> 使用时候右键音符盒，然后必须等tnt发射出去才能继续按
+[18:21:07] [Async Chat Thread - #43/INFO]: <adhesive_tape> 不然会坏掉
+[18:21:25] [Async Chat Thread - #43/INFO]: <adhesive_tape> 还有就是注意清理前进方向的岩浆/黑曜石
+[18:21:28] [Async Chat Thread - #43/INFO]: <GinGer_Snow> 懂了 现在就疯狂右键（
+[18:21:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6304ms or 126 ticks behind
+[18:21:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[18:21:37] [Server thread/INFO]: [SAML] TPS low (16.59). Will attempt to freeze some mobs...
+[18:21:37] [Server thread/INFO]: [SAML] 6 mobs affected (6 frozen, 0 nerfed) in 113ms. Total of 644/1152 affected (643 frozen, 227 nerfed).
+[18:21:38] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (1979698 bytes} to external file .\world\region\c.3.6.mcc
+[18:22:07] [Async Chat Thread - #43/INFO]: <adhesive_tape> 箱子里有桶，用桶乘岩浆，多的直接烧掉就好
+[18:22:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6684ms or 133 ticks behind
+[18:22:12] [Async Chat Thread - #43/INFO]: <adhesive_tape> 反正没啥用
+[18:22:26] [Async Chat Thread - #43/INFO]: <GinGer_Snow> 憨明去末地附魔辣（
+[18:22:30] [Async Chat Thread - #43/INFO]: <adhesive_tape> 当然也可以粘液块/石头填上
+[18:22:31] [Async Chat Thread - #43/INFO]: <GinGer_Snow> 今天的憨明会白给吗
+[18:22:37] [Async Chat Thread - #43/INFO]: <GinGer_Snow> 阿巴巴
+[18:22:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5535ms or 110 ticks behind
+[18:22:49] [Async Chat Thread - #43/INFO]: <adhesive_tape> 我在小黑塔
+[18:22:49] [Server thread/INFO]: [SAML] TPS low (16.88). Will attempt to freeze some mobs...
+[18:22:49] [Server thread/INFO]: [SAML] 7 mobs affected (7 frozen, 0 nerfed) in 129ms. Total of 649/1142 affected (648 frozen, 227 nerfed).
+[18:22:52] [Async Chat Thread - #43/INFO]: <GinGer_Snow> az
+[18:22:53] [Async Chat Thread - #43/INFO]: <_YuanXiao_> sen,6组铁块就是他借的
+[18:23:02] [Async Chat Thread - #43/INFO]: <adhesive_tape> 借的？
+[18:23:08] [Async Chat Thread - #43/INFO]: <_YuanXiao_> 送的
+[18:23:08] [Async Chat Thread - #43/INFO]: <adhesive_tape> 明明是你给的，，
+[18:23:12] [Async Chat Thread - #43/INFO]: <GinGer_Snow> 《借》
+[18:23:13] [Async Chat Thread - #43/INFO]: <sen_lv_ling_> 憨明还铁（doge
+[18:23:18] [Async Chat Thread - #43/INFO]: <GinGer_Snow> ?
+[18:23:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6312ms or 126 ticks behind
+[18:23:29] [Async Chat Thread - #43/INFO]: <GinGer_Snow> 蛤
+[18:23:42] [Async Chat Thread - #43/INFO]: <adhesive_tape> 汉明过来给我几把弓
+[18:23:45] [Async Chat Thread - #43/INFO]: <adhesive_tape> 我要附魔
+[18:23:45] [Async Chat Thread - #43/INFO]: <_YuanXiao_> ginger,没事
+[18:23:53] [Async Chat Thread - #43/INFO]: <GinGer_Snow> omw
+[18:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6317ms or 126 ticks behind
+[18:24:02] [Server thread/INFO]: [SAML] TPS low (16.57). Will attempt to freeze some mobs...
+[18:24:02] [Server thread/INFO]: [SAML] 26 mobs affected (26 frozen, 0 nerfed) in 121ms. Total of 666/1155 affected (665 frozen, 241 nerfed).
+[18:24:18] [Server thread/WARN]: GinGer_Snow moved too quickly! 755.9986487953108,25.0,1878.5283214863093
+[18:24:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6679ms or 133 ticks behind
+[18:24:56] [Server thread/WARN]: GinGer_Snow moved wrongly!
+[18:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7252ms or 145 ticks behind
+[18:25:16] [Server thread/INFO]: [SAML] TPS low (16.14). Will attempt to freeze some mobs...
+[18:25:16] [Server thread/INFO]: [SAML] 26 mobs affected (26 frozen, 0 nerfed) in 124ms. Total of 667/1145 affected (666 frozen, 227 nerfed).
+[18:25:35] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 啊这
+[18:25:36] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 来这边坐坐（
+[18:25:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6223ms or 124 ticks behind
+[18:25:54] [Server thread/INFO]: Enabled Timings & Reset
+[18:25:54] [Server thread/INFO]: Timings Reset
+[18:26:11] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 我家地狱门咋从石英块变成平滑石头，现在又变成地狱岩了？？？
+[18:26:21] [Async Chat Thread - #44/INFO]: <_YuanXiao_> hhh
+[18:26:23] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[18:26:23] [Server thread/INFO]: Crushxl left the game
+[18:26:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7561ms or 151 ticks behind
+[18:26:27] [User Authenticator #31/INFO]: UUID of player fly_pigman01 is ee66c593-3d27-4832-911d-b569dd50102f
+[18:26:27] [Server thread/INFO]: fly_pigman01[/127.0.0.1:60789] logged in with entity id 234308 at ([world]5161.435772710041, 64.0, 205.71749649471582)
+[18:26:30] [Server thread/INFO]: [SAML] TPS low (16.09). Will attempt to freeze some mobs...
+[18:26:30] [Server thread/INFO]: [SAML] 55 mobs affected (55 frozen, 0 nerfed) in 95ms. Total of 630/1098 affected (629 frozen, 279 nerfed).
+[18:26:35] [Server thread/WARN]: sen_lv_ling_ moved too quickly! -1651.1594613991815,16.233632006042477,-233.55003955717822
+[18:26:44] [Async Chat Thread - #44/INFO]: <_YuanXiao_> 下次换圆石
+[18:27:01] [Server thread/INFO]: Villager EntityVillager['Villager'/234955, uuid='19c58200-cad8-470b-a0f4-292bcbe12356', l='world', x=5264.11, y=73.38, z=299.85, cx=329, cz=18, tl=132152, v=true, d=false] died, message: 'Villager was squished too much'
+[18:27:01] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 来
+[18:27:06] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 森宇来这边坐坐（
+[18:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11969ms or 239 ticks behind
+[18:27:18] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 啊这
+[18:27:23] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 危
+[18:27:26] [Async Chat Thread - #44/INFO]: <GinGer_Snow> az
+[18:27:34] [Async Chat Thread - #44/INFO]: <adhesive_tape> 弓呢
+[18:27:38] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 多洗跌
+[18:27:41] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 怎么没死（
+[18:27:50] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 就俩（
+[18:27:50] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 你以为我不知道 = =
+[18:27:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12324ms or 246 ticks behind
+[18:27:55] [Server thread/INFO]: [SAML] TPS low (14.08). Will attempt to freeze some mobs...
+[18:27:55] [Server thread/INFO]: [SAML] 271 mobs affected (271 frozen, 0 nerfed) in 143ms. Total of 895/1426 affected (894 frozen, 475 nerfed).
+[18:27:55] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (2027854 bytes} to external file .\world\region\c.3.6.mcc
+[18:28:02] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 你以为我和你一样憨2333
+[18:28:19] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 憨明痛哭
+[18:28:26] [Async Chat Thread - #44/INFO]: <fly_pigman01> 有人吗
+[18:28:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8731ms or 174 ticks behind
+[18:28:33] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 没有
+[18:28:39] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 有只猫
+[18:28:41] [Async Chat Thread - #44/INFO]: <fly_pigman01> emmm
+[18:28:45] [Async Chat Thread - #44/INFO]: <fly_pigman01> o
+[18:29:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8168ms or 163 ticks behind
+[18:29:11] [Server thread/INFO]: [SAML] TPS low (15.74). Will attempt to freeze some mobs...
+[18:29:11] [Server thread/INFO]: [SAML] 11 mobs affected (11 frozen, 0 nerfed) in 123ms. Total of 895/1408 affected (894 frozen, 475 nerfed).
+[18:29:28] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 弩的穿透最高是几（
+[18:29:41] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 我看看
+[18:29:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8548ms or 170 ticks behind
+[18:29:51] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 4
+[18:30:17] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 欧克，我修完了
+[18:30:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8661ms or 173 ticks behind
+[18:30:28] [Server thread/INFO]: [SAML] TPS low (15.53). Will attempt to freeze some mobs...
+[18:30:28] [Server thread/INFO]: [SAML] 4 mobs affected (4 frozen, 0 nerfed) in 128ms. Total of 893/1416 affected (892 frozen, 474 nerfed).
+[18:30:53] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 多重打击呢（
+[18:30:57] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 阿巴巴
+[18:30:58] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 3
+[18:31:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8710ms or 174 ticks behind
+[18:31:05] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 不对
+[18:31:11] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 貌似就1吧
+[18:31:15] [Async Chat Thread - #44/INFO]: <GinGer_Snow> o
+[18:31:18] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 所以
+[18:31:21] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 弩满配
+[18:31:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8051ms or 161 ticks behind
+[18:31:41] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 穿透和多重冲突
+[18:31:44] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 穿透4快速装填3耐久3多重打击精修
+[18:31:45] [Server thread/INFO]: [SAML] TPS low (15.73). Will attempt to freeze some mobs...
+[18:31:45] [Server thread/INFO]: [SAML] 8 mobs affected (8 frozen, 0 nerfed) in 123ms. Total of 890/1401 affected (889 frozen, 470 nerfed).
+[18:31:47] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 啊这
+[18:32:00] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 那还是穿透香（
+[18:32:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7788ms or 155 ticks behind
+[18:32:21] [Async Chat Thread - #44/INFO]: <_YuanXiao_> sen家门口有一把满配的awa
+[18:32:24] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> = =
+[18:32:25] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 啊这
+[18:32:30] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 那是我的装饰
+[18:32:35] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 懂了 这就去嫖（
+[18:32:39] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 啊这
+[18:32:44] [Async Chat Thread - #44/INFO]: <_YuanXiao_> 我还给你上堂了。
+[18:32:48] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> ...
+[18:32:52] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 啊这
+[18:32:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9093ms or 181 ticks behind
+[18:33:02] [Server thread/INFO]: [SAML] TPS low (15.45). Will attempt to freeze some mobs...
+[18:33:02] [Server thread/INFO]: [SAML] 97 mobs affected (97 frozen, 0 nerfed) in 118ms. Total of 909/1431 affected (908 frozen, 470 nerfed).
+[18:33:27] [User Authenticator #32/INFO]: UUID of player YiFanFengShun is 6b491d23-aa75-4830-8683-36a79ae50c53
+[18:33:27] [Server thread/INFO]: YiFanFengShun[/127.0.0.1:60836] logged in with entity id 241495 at ([world]5072.300000011921, 9.0, -139.30000001192093)
+[18:33:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8394ms or 167 ticks behind
+[18:33:50] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 需要我帮忙附魔么
+[18:34:02] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 阿巴巴
+[18:34:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8894ms or 177 ticks behind
+[18:34:15] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 如果能白嫖当然是最好（
+[18:34:19] [Server thread/INFO]: [SAML] TPS low (15.42). Will attempt to freeze some mobs...
+[18:34:19] [Server thread/INFO]: [SAML] 7 mobs affected (7 frozen, 0 nerfed) in 123ms. Total of 874/1506 affected (873 frozen, 432 nerfed).
+[18:34:20] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (2076749 bytes} to external file .\world\region\c.3.6.mcc
+[18:34:23] [Async Chat Thread - #44/INFO]: <adhesive_tape> 满配弓完成
+[18:34:35] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 我60级
+[18:34:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9843ms or 196 ticks behind
+[18:35:00] [Async Chat Thread - #44/INFO]: <adhesive_tape> 射
+[18:35:01] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 来一箭
+[18:35:13] [Async Chat Thread - #44/INFO]: <GinGer_Snow> 我弩还差个快速装填2（
+[18:35:25] [Server thread/INFO]: fly_pigman01 lost connection: Disconnected
+[18:35:25] [Server thread/INFO]: fly_pigman01 left the game
+[18:35:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8739ms or 174 ticks behind
+[18:35:34] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 一格半心
+[18:35:37] [Server thread/INFO]: [SAML] TPS low (15.43). Will attempt to freeze some mobs...
+[18:35:37] [Server thread/INFO]: [SAML] 3 mobs affected (3 frozen, 0 nerfed) in 94ms. Total of 585/1046 affected (584 frozen, 227 nerfed).
+[18:35:42] [Async Chat Thread - #44/INFO]: <adhesive_tape> 射我
+[18:35:51] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 我又没弓
+[18:36:01] [Async Chat Thread - #44/INFO]: <adhesive_tape> 给你了呀
+[18:36:07] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 啊这
+[18:36:10] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 没箭啊
+[18:36:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6950ms or 139 ticks behind
+[18:36:19] [Server thread/INFO]: sen_lv_ling_ has made the advancement [Take Aim]
+[18:36:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7131ms or 142 ticks behind
+[18:36:51] [Server thread/INFO]: [SAML] TPS low (16.16). Will attempt to freeze some mobs...
+[18:36:51] [Server thread/INFO]: [SAML] 3 mobs affected (3 frozen, 0 nerfed) in 117ms. Total of 585/1029 affected (584 frozen, 227 nerfed).
+[18:36:53] [Async Chat Thread - #44/INFO]: <adhesive_tape> 还差个头
+[18:36:57] [Async Chat Thread - #44/INFO]: <adhesive_tape> 就完成了
+[18:37:08] [Async Chat Thread - #44/INFO]: <adhesive_tape> 帮我搞
+[18:37:12] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> ...
+[18:37:21] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 我^#&*@$*(#@&^%
+[18:37:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7640ms or 152 ticks behind
+[18:37:43] [Async Chat Thread - #44/INFO]: <adhesive_tape> 看着办
+[18:37:45] [User Authenticator #33/INFO]: UUID of player fly_pigman01 is ee66c593-3d27-4832-911d-b569dd50102f
+[18:37:46] [Server thread/INFO]: fly_pigman01[/127.0.0.1:60869] logged in with entity id 245353 at ([world]5172.086586211767, 64.0625, 194.34137802482215)
+[18:37:49] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[18:37:55] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 你头要火焰保护？
+[18:37:58] [Async Chat Thread - #44/INFO]: <adhesive_tape> en
+[18:38:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7793ms or 155 ticks behind
+[18:38:03] [Async Chat Thread - #44/INFO]: <adhesive_tape> 算了，要保护
+[18:38:07] [Server thread/INFO]: [SAML] TPS low (15.91). Will attempt to freeze some mobs...
+[18:38:07] [Server thread/INFO]: [SAML] 260 mobs affected (260 frozen, 0 nerfed) in 109ms. Total of 843/1436 affected (842 frozen, 423 nerfed).
+[18:38:07] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> ...
+[18:38:08] [Async Chat Thread - #44/INFO]: <adhesive_tape> 你刷一下
+[18:38:15] [Async Chat Thread - #44/INFO]: <sen_lv_ling_> 我@#&￥*（#
+[18:38:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9449ms or 188 ticks behind
+[18:39:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9736ms or 194 ticks behind
+[18:39:26] [Server thread/INFO]: [SAML] TPS low (15.17). Will attempt to freeze some mobs...
+[18:39:26] [Server thread/INFO]: [SAML] 79 mobs affected (79 frozen, 0 nerfed) in 140ms. Total of 916/1497 affected (915 frozen, 474 nerfed).
+[18:40:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9561ms or 191 ticks behind
+[18:40:12] [Async Chat Thread - #45/INFO]: <sen_lv_ling_> 你回去拿本保护四和荆棘三
+[18:40:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9473ms or 189 ticks behind
+[18:40:42] [Async Chat Thread - #45/INFO]: <GinGer_Snow> 顺便带点铁砧（
+[18:40:45] [Server thread/INFO]: [SAML] TPS low (15.18). Will attempt to freeze some mobs...
+[18:40:45] [Server thread/INFO]: [SAML] 50 mobs affected (50 frozen, 0 nerfed) in 155ms. Total of 927/1503 affected (926 frozen, 478 nerfed).
+[18:40:46] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (2124920 bytes} to external file .\world\region\c.3.6.mcc
+[18:40:52] [Async Chat Thread - #45/INFO]: <GinGer_Snow> ?
+[18:40:54] [Server thread/INFO]: fly_pigman01 fell from a high place
+[18:40:55] [Async Chat Thread - #45/INFO]: <GinGer_Snow> 这弓
+[18:40:57] [Async Chat Thread - #45/INFO]: <GinGer_Snow> 离谱
+[18:41:07] [Async Chat Thread - #45/INFO]: <GinGer_Snow> 刚合一起19级
+[18:41:13] [Async Chat Thread - #45/INFO]: <GinGer_Snow> 刷到19之后要20
+[18:41:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12172ms or 243 ticks behind
+[18:41:38] [Server thread/INFO]: Preparing Timings Report...
+[18:41:42] [Timings paste thread/INFO]: View Timings Report: https://timings.aikar.co/?id=fff65dd9b60947fc88a4042c86b48220
+[18:41:47] [Async Chat Thread - #45/INFO]: <sen_lv_ling_> tps稳定14
+[18:41:57] [Async Chat Thread - #45/INFO]: <GinGer_Snow> ohhh
+[18:42:01] [Async Chat Thread - #45/INFO]: <sen_lv_ling_> 越来越低
+[18:42:07] [Async Chat Thread - #45/INFO]: <GinGer_Snow> 神弓出世
+[18:42:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16161ms or 323 ticks behind
+[18:42:14] [Server thread/INFO]: [SAML] TPS low (13.06). Will attempt to freeze some mobs...
+[18:42:14] [Server thread/INFO]: [SAML] 410 mobs affected (410 frozen, 0 nerfed) in 137ms. Total of 1006/1560 affected (1005 frozen, 478 nerfed).
+[18:42:35] [Async Chat Thread - #45/INFO]: <GinGer_Snow> az
+[18:42:48] [Async Chat Thread - #45/INFO]: <GinGer_Snow> 打3滴血掉2滴（
+[18:42:50] [Async Chat Thread - #45/INFO]: <sen_lv_ling_> 话说附魔你给我钻石干嘛
+[18:42:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10810ms or 216 ticks behind
+[18:42:54] [Async Chat Thread - #45/INFO]: <GinGer_Snow> 就离谱（
+[18:43:15] [Async Chat Thread - #45/INFO]: <adhesive_tape> 做头盔
+[18:43:20] [Async Chat Thread - #45/INFO]: <adhesive_tape> 多刷几个
+[18:43:30] [Async Chat Thread - #45/INFO]: <sen_lv_ling_> 不用啊
+[18:43:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10597ms or 211 ticks behind
+[18:43:35] [Server thread/INFO]: [SAML] TPS low (14.84). Will attempt to freeze some mobs...
+[18:43:35] [Server thread/INFO]: [SAML] 52 mobs affected (52 frozen, 0 nerfed) in 126ms. Total of 937/1519 affected (936 frozen, 474 nerfed).
+[18:43:37] [Async Chat Thread - #45/INFO]: <sen_lv_ling_> 一个头就够了
+[18:43:40] [Server thread/WARN]: adhesive_tape moved too quickly! -1651.312095495827,16.233632006042477,-234.51497733907476
+[18:43:47] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[18:43:58] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[18:43:58] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[18:43:58] [Server thread/INFO]: Debug logging is disabled
+[18:43:58] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[18:43:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:43:58] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:43:58] [Server thread/INFO]: View Distance: 8
+[18:43:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:43:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:43:58] [Server thread/INFO]: Item Despawn Rate: 4000
+[18:43:58] [Server thread/INFO]: Item Merge Radius: 8.0
+[18:43:58] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[18:43:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:43:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[18:43:58] [Server thread/INFO]: Mob Spawn Range: 4
+[18:43:58] [Server thread/INFO]: Experience Merge Radius: 8.0
+[18:43:58] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[18:43:58] [Server thread/INFO]: Max TNT Explosions: 100
+[18:43:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:43:58] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[18:43:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[18:43:58] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:43:58] [Server thread/INFO]: View Distance: 8
+[18:43:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:43:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:43:58] [Server thread/INFO]: Item Despawn Rate: 4000
+[18:43:58] [Server thread/INFO]: Item Merge Radius: 8.0
+[18:43:58] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[18:43:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:43:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[18:43:58] [Server thread/INFO]: Mob Spawn Range: 4
+[18:43:58] [Server thread/INFO]: Experience Merge Radius: 8.0
+[18:43:58] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[18:43:58] [Server thread/INFO]: Max TNT Explosions: 100
+[18:43:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:43:58] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[18:43:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[18:43:58] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:43:58] [Server thread/INFO]: View Distance: 8
+[18:43:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:43:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:43:58] [Server thread/INFO]: Item Despawn Rate: 4000
+[18:43:58] [Server thread/INFO]: Item Merge Radius: 8.0
+[18:43:58] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[18:43:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:43:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[18:43:58] [Server thread/INFO]: Mob Spawn Range: 4
+[18:43:58] [Server thread/INFO]: Experience Merge Radius: 8.0
+[18:43:58] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[18:43:58] [Server thread/INFO]: Max TNT Explosions: 100
+[18:43:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:43:58] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[18:43:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:43:58] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[18:43:58] [Server thread/INFO]: [TAB] Disabling TAB v2.7.2
+[18:43:58] [Server thread/INFO]: [TAB] Disabled in 1ms
+[18:43:58] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[18:43:58] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is disabled!
+[18:43:58] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[18:43:58] [Server thread/INFO]: [SAML] Disabling SAML v2.0.0
+[18:43:58] [Server thread/INFO]: [SAML] The frozen chunk cache file has been deleted. All chunks should have been accounted for.
+[18:43:58] [Server thread/INFO]: [SAML] Successfully disabled.
+[18:43:58] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[18:43:58] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.3.1
+[18:43:58] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[18:43:58] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] Database closed
+[18:43:58] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[18:43:58] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[18:43:58] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[18:43:58] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[18:43:58] [Server thread/INFO]: [PxAutoMessage] 正在关闭皮克斯自动公告系统...
+[18:43:58] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[18:43:58] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[18:43:59] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[18:43:59] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[18:43:59] [Server thread/INFO]: Loaded 6 recipes
+[18:43:59] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[18:43:59] [Server thread/INFO]: Loaded 6 recipes
+[18:44:00] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[18:44:00] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[18:44:00] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[18:44:00] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[18:44:00] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[18:44:00] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[18:44:00] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[18:44:00] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[18:44:00] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[18:44:00] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[18:44:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:44:00] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[18:44:00] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[18:44:00] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[18:44:00] [Server thread/INFO]: --------------------
+[18:44:00] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[18:44:00] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[18:44:00] [Server thread/INFO]: --------------------
+[18:44:00] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[18:44:00] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[18:44:00] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[18:44:00] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[18:44:00] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[18:44:00] [Server thread/INFO]:  
+[18:44:00] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[18:44:00] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[18:44:00] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[18:44:00] [Server thread/INFO]:  
+[18:44:00] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[18:44:00] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-2 - Starting...
+[18:44:00] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-2 - Driver does not support get/set network timeout for connections. (feature not supported)
+[18:44:00] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-2 - Start completed.
+[18:44:02] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[18:44:02] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[18:44:02] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[18:44:02] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[18:44:02] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[18:44:02] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[18:44:02] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[18:44:02] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[18:44:02] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[18:44:02] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[18:44:02] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[18:44:02] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[18:44:02] [Server thread/INFO]: [EntityTrackerFixer] Vault not found! using default permission system...
+[18:44:02] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[18:44:02] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[18:44:02] [Server thread/INFO]: [GM+] Checking Your version...
+[18:44:02] [Server thread/INFO]: ===============================
+[18:44:02] [Server thread/INFO]: 
+[18:44:02] [Server thread/INFO]:  GroupManager+ is now enable!
+[18:44:02] [Server thread/INFO]:  
+[18:44:02] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[18:44:02] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[18:44:02] [Server thread/INFO]:  Current version: v3.3
+[18:44:02] [Server thread/INFO]:  
+[18:44:02] [Server thread/INFO]: ===============================
+[18:44:02] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[18:44:02] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[18:44:02] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[18:44:02] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[18:44:02] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[18:44:02] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[18:44:02] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[18:44:02] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[18:44:02] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[18:44:04] [Server thread/INFO]: [TAB] Version 2.8.2 is out! Your version: 2.7.2
+[18:44:04] [Server thread/INFO]: [TAB] Get the update at https://www.spigotmc.org/resources/57806/
+[18:44:04] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[18:44:04] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[18:44:04] [Server thread/INFO]: [TAB] Enabled in 1217ms
+[18:44:04] [Server thread/INFO]: CONSOLE: Reload complete.
+[18:44:04] [Server thread/INFO]: Timings Reset
+[18:44:04] [Server thread/WARN]: adhesive_tape moved too quickly! -1.9686478882680625,-35.74339677034045,38.1252750352225
+[18:44:04] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[18:44:04] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[18:44:04] [Craft Scheduler Thread - 422/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[18:44:04] [Craft Scheduler Thread - 422/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[18:44:08] [Thread-645/INFO]: --------------------
+[18:44:08] [Thread-645/INFO]: [CoreProtect] Version 19.0 is now available.
+[18:44:08] [Thread-645/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[18:44:08] [Thread-645/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[18:44:08] [Thread-645/INFO]: --------------------
+[18:44:16] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 13.33, 14.47, 15.19
+[18:44:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20492ms or 409 ticks behind
+[18:44:35] [Async Chat Thread - #45/INFO]: <sen_lv_ling_> 要34级
+[18:45:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17308ms or 346 ticks behind
+[18:45:50] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 12.51, 13.85, 14.92
+[18:45:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18302ms or 366 ticks behind
+[18:46:07] [Async Chat Thread - #46/INFO]: <sen_lv_ling_> tps掉到12了
+[18:46:11] [Async Chat Thread - #46/INFO]: <fly_pigman01> 哈咯
+[18:46:11] [Async Chat Thread - #46/INFO]: <GinGer_Snow> 危
+[18:46:15] [Async Chat Thread - #46/INFO]: <YiFanFengShun> 我去下点东西
+[18:46:20] [Async Chat Thread - #46/INFO]: <YiFanFengShun> 很快回来awa
+[18:46:22] [Server thread/INFO]: YiFanFengShun lost connection: Disconnected
+[18:46:22] [Server thread/INFO]: YiFanFengShun left the game
+[18:46:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17393ms or 347 ticks behind
+[18:46:54] [Async Chat Thread - #46/INFO]: <GinGer_Snow> 突然想到一个有趣的问题（
+[18:47:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17302ms or 346 ticks behind
+[18:47:56] [Async Chat Thread - #47/INFO]: <sen_lv_ling_> 头好了
+[18:48:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17076ms or 341 ticks behind
+[18:48:24] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (2173116 bytes} to external file .\world\region\c.3.6.mcc
+[18:48:24] [User Authenticator #34/INFO]: UUID of player DF_yechu is 53cfc767-1c81-46fa-8b77-d5f7f10bb804
+[18:48:24] [Server thread/INFO]: DF_yechu[/127.0.0.1:60948] logged in with entity id 256087 at ([world]5213.300000011921, 110.0, -511.30000001192093)
+[18:49:00] [Async Chat Thread - #48/INFO]: <adhesive_tape> 谢谢
+[18:49:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17821ms or 356 ticks behind
+[18:49:08] [Async Chat Thread - #48/INFO]: <adhesive_tape> 对了，没有横扫之刃
+[18:49:13] [Async Chat Thread - #48/INFO]: <adhesive_tape> 能不能搞一下
+[18:49:17] [Async Chat Thread - #48/INFO]: <GinGer_Snow> 砂轮祛魔后还会
+[18:49:19] [Async Chat Thread - #48/INFO]: <GinGer_Snow> az
+[18:49:22] [Async Chat Thread - #48/INFO]: <sen_lv_ling_> ?
+[18:49:25] [Async Chat Thread - #48/INFO]: <GinGer_Snow> 我有一本在家（
+[18:49:31] [Async Chat Thread - #48/INFO]: <GinGer_Snow> 横扫之刃3
+[18:49:46] [Async Chat Thread - #48/INFO]: <adhesive_tape> 说吧，多少钻
+[18:49:49] [Async Chat Thread - #48/INFO]: <sen_lv_ling_> 剑的话
+[18:49:52] [Async Chat Thread - #48/INFO]: <GinGer_Snow> 啊这
+[18:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18318ms or 366 ticks behind
+[18:50:15] [Async Chat Thread - #48/INFO]: <GinGer_Snow> 直接去黑云拿就行了（
+[18:50:20] [Async Chat Thread - #48/INFO]: <GinGer_Snow> 阿巴阿巴
+[18:50:36] [Async Chat Thread - #48/INFO]: <adhesive_tape> 给10钻演一下
+[18:50:39] [Async Chat Thread - #48/INFO]: <sen_lv_ling_> 家里没有横扫3，火焰附加2，锋利5，和节肢5
+[18:50:40] [Async Chat Thread - #48/INFO]: <GinGer_Snow> az
+[18:50:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18569ms or 371 ticks behind
+[18:50:52] [Async Chat Thread - #48/INFO]: <GinGer_Snow> 截肢5有
+[18:50:57] [Async Chat Thread - #48/INFO]: <GinGer_Snow> 锋利
+[18:51:02] [Async Chat Thread - #48/INFO]: <GinGer_Snow> 应该没有5
+[18:51:05] [Async Chat Thread - #48/INFO]: <sen_lv_ling_> 我说村民卖的
+[18:51:11] [Async Chat Thread - #48/INFO]: <adhesive_tape> 刷村民
+[18:51:12] [Async Chat Thread - #48/INFO]: <GinGer_Snow> 我记得有几本1 2的
+[18:51:15] [Async Chat Thread - #48/INFO]: <GinGer_Snow> az
+[18:51:18] [Async Chat Thread - #48/INFO]: <sen_lv_ling_> 不想刷
+[18:51:22] [Async Chat Thread - #48/INFO]: <GinGer_Snow> 阿巴巴
+[18:51:27] [Server thread/INFO]: [Server] 重启一下服务器
+[18:51:29] [Async Chat Thread - #48/INFO]: <adhesive_tape> 去哪里搞绿宝石
+[18:51:30] [Async Chat Thread - #48/INFO]: <sen_lv_ling_> 啊这
+[18:51:32] [Async Chat Thread - #48/INFO]: <GinGer_Snow> az
+[18:51:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19329ms or 386 ticks behind
+[18:51:36] [Server thread/INFO]: Stopping the server
+[18:51:36] [Server thread/INFO]: Stopping server
+[18:51:36] [Server thread/INFO]: [TAB] Disabling TAB v2.7.2
+[18:51:36] [Server thread/INFO]: [TAB] Disabled in 1ms
+[18:51:36] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[18:51:36] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is disabled!
+[18:51:36] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[18:51:36] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[18:51:36] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.3.1
+[18:51:36] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[18:51:36] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] Database closed
+[18:51:36] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-2 - Shutdown initiated...
+[18:51:36] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-2 - Shutdown completed.
+[18:51:36] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[18:51:36] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[18:51:36] [Server thread/INFO]: [PxAutoMessage] 正在关闭皮克斯自动公告系统...
+[18:51:36] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[18:51:36] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[18:51:36] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[18:51:36] [Server thread/INFO]: Saving players
+[18:51:36] [Server thread/INFO]: sen_lv_ling_ lost connection: Server closed
+[18:51:36] [Server thread/INFO]: sen_lv_ling_ left the game
+[18:51:36] [Server thread/INFO]: GinGer_Snow lost connection: Server closed
+[18:51:36] [Server thread/INFO]: GinGer_Snow left the game
+[18:51:36] [Server thread/INFO]: _YuanXiao_ lost connection: Server closed
+[18:51:36] [Server thread/INFO]: _YuanXiao_ left the game
+[18:51:36] [Server thread/INFO]: fly_pigman01 lost connection: Server closed
+[18:51:36] [Server thread/INFO]: fly_pigman01 left the game
+[18:51:36] [Server thread/INFO]: adhesive_tape lost connection: Server closed
+[18:51:36] [Server thread/INFO]: adhesive_tape left the game
+[18:51:36] [Server thread/INFO]: DF_yechu lost connection: Server closed
+[18:51:36] [Server thread/INFO]: DF_yechu left the game
+[18:51:36] [Server thread/INFO]: Saving worlds
+[18:51:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:51:37] [Paper RegionFile IO Thread/WARN]: Saving oversized chunk [3, 6] (2192516 bytes} to external file .\world\region\c.3.6.mcc
+[18:51:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:51:38] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[18:51:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:51:38] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[18:51:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:51:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:51:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:51:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

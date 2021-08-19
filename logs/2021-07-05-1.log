@@ -1,0 +1,1016 @@
+[00:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[01:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[02:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[03:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[04:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[05:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[06:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[07:02:16] [User Authenticator #275/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[07:02:16] [Server thread/INFO]: TMN_233[/127.0.0.1:59911] logged in with entity id 12133623 at ([world]-217.3040815799178, 117.0, -448.35358569544934)
+[07:02:28] [Server thread/INFO]: TMN_233 issued server command: /p lead
+[07:02:30] [Server thread/INFO]: TMN_233 issued server command: /qd
+[07:02:30] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mTMN_233 [0;33;22mÄ¿Ç°ÓÐ [0;32;1m2 [0;33;22m¹±Ï×µãÊý[m
+[07:02:33] [User Authenticator #276/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[07:02:33] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:59914] logged in with entity id 12134040 at ([world]1330.6559514345995, 63.0, -27.08347023910483)
+[07:02:37] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[07:02:37] [Server thread/INFO]: Li_zi_wei left the game
+[07:02:40] [User Authenticator #277/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[07:02:41] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:59918] logged in with entity id 12134561 at ([world]1330.6559514345995, 63.0, -27.08347023910483)
+[07:03:05] [Server thread/INFO]: Li_zi_wei issued server command: /qd
+[07:03:05] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mLi_zi_wei [0;33;22mÄ¿Ç°ÓÐ [0;32;1m57 [0;33;22m¹±Ï×µãÊý[m
+[07:03:06] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[07:03:06] [Server thread/INFO]: Li_zi_wei left the game
+[07:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[07:52:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@28a31309[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:60095) lost connection: Disconnected
+[07:52:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@742538bc[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:60097) lost connection: Disconnected
+[07:53:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@6688b208[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:60099) lost connection: Disconnected
+[07:54:10] [User Authenticator #278/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[07:54:11] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:60104] logged in with entity id 12293155 at ([world]1329.5060738779653, 63.0, -25.294674948906632)
+[08:31:38] [Server thread/INFO]: Li_zi_wei issued server command: /p lead
+[08:32:00] [Server thread/INFO]: Li_zi_wei issued server command: /warns
+[08:32:05] [Server thread/INFO]: Li_zi_wei issued server command: /p lead 2
+[08:32:17] [Server thread/INFO]: Li_zi_wei issued server command: /p lead 3
+[08:32:32] [Server thread/INFO]: Li_zi_wei issued server command: /ver
+[08:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[09:27:03] [User Authenticator #279/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[09:27:03] [Server thread/INFO]: Jichen233[/127.0.0.1:60422] logged in with entity id 12581723 at ([world]1297.847988828761, 63.0, 24.11984440459104)
+[09:27:11] [User Authenticator #280/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[09:27:11] [Server thread/INFO]: Jichen233 lost connection: You logged in from another location
+[09:27:11] [Server thread/INFO]: Jichen233 left the game
+[09:27:11] [Server thread/INFO]: Jichen233[/127.0.0.1:60432] logged in with entity id 12582186 at ([world]1297.847988828761, 63.0, 24.11984440459104)
+[09:29:16] [Server thread/INFO]: Jichen233 issued server command: /msg Li_zi_wei ½ñÌìÃ²ËÆÃ»¿Î(
+[09:29:33] [Server thread/INFO]: Li_zi_wei issued server command: /tell Jichen233 ²éÁË
+[09:29:35] [Server thread/INFO]: Li_zi_wei issued server command: /tell Jichen233 ²Ý
+[09:30:33] [Server thread/INFO]: Jichen233 issued server command: /msg Li_zi_wei here
+[09:33:12] [Server thread/INFO]: Li_zi_wei issued server command: /tell Jichen233 ¹ã³¡£¨»®µô£©ÅçÈª
+[09:33:22] [Server thread/INFO]: Jichen233 >> az[m
+[09:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[09:34:12] [Server thread/INFO]: Li_zi_wei issued server command: /tell Jichen233 ÕòÄÚ¼ÇµÃ¸ãÌøÔ¾ÌáÉý
+[09:35:56] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ÎÊÄã¸öÎÊÌâ[m
+[09:35:59] [Server thread/INFO]: Jichen233 >> ?[m
+[09:36:11] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ·±Ã¯µØÐÎ1.17Ôö¼ÓÁËÂð[m
+[09:36:46] [Server thread/INFO]: Jichen233 >> ºÃÏñÃ»[m
+[09:37:16] [Server thread/INFO]: Jichen233 >> ²»È·¶¨[m
+[09:37:28] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[09:37:28] [Server thread/INFO]: Li_zi_wei left the game
+[09:37:42] [Server thread/INFO]: Jichen233 issued server command: /ÒòÎª´´ÔìÀ¸ÀïÓÐÄÇÐ©¶«Î÷
+[10:06:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved wrongly! 0.3613687904891094
+[10:06:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved wrongly! 0.6817881114051261
+[10:11:42] [User Authenticator #281/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[10:11:43] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:60591] logged in with entity id 12722635 at ([world]1276.5099803357339, 71.5, 14.599835648786)
+[10:12:10] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ÄãÔÚÄÄ[m
+[10:12:37] [Server thread/INFO]: Jichen233 >> -20000¸½½üµÄ·Ï¿ó[m
+[10:14:08] [Server thread/INFO]: Li_zi_wei issued server command: /co i
+[10:14:20] [Server thread/INFO]: Li_zi_wei issued server command: /co i
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-31.835409161108927
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-33.44821522194793
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-35.0685785469434
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-36.69635386573913
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-38.33139872025103
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-39.97357340469644
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-41.62274091427341
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-43.27876139261268
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-44.94150327899821
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-46.61083755079349
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-48.28663767268003
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-49.96877954318575
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-51.65713632745923
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-53.35158885334309
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-55.05202023526331
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-56.7583108962132
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-58.470348586733564
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-60.14814555609806
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-61.792386618076705
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -3.8311927346512675E-4,0.0,-63.398757589818786
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.001134047654090864,0.0,-64.96801529033013
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.002245428966716645,0.0,-66.50090198432747
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.0037024054692551545,0.0,-37.76783601729569
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00760283899364822,0.0,40.658224229351205
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00760283899364822,0.0,40.658224229351205
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00760283899364822,0.0,40.658224229351205
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00760283899364822,0.0,40.658224229351205
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00760283899364822,0.0,40.658224229351205
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00760283899364822,0.0,40.658224229351205
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00760283899364822,0.0,40.658224229351205
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00760283899364822,0.0,40.658224229351205
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00760283899364822,0.0,40.658224229351205
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00760283899364822,0.0,40.658224229351205
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00760283899364822,0.0,40.658224229351205
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00760283899364822,0.0,40.658224229351205
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00760283899364822,0.0,40.658224229351205
+[10:14:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.004730877101394526,0.0,39.29656150931619
+[10:14:32] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.3045796279580486,0.0,-20.04488745744429
+[10:14:46] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[10:14:46] [Server thread/INFO]: Li_zi_wei left the game
+[10:14:49] [User Authenticator #282/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[10:14:49] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:60605] logged in with entity id 12733336 at ([world_nether]168.16831491082343, 115.0, -195.39053913852476)
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.2559464199536592,0.0,-36.66358686374895
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.29221385339201333,0.0,-38.460680090051824
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.33106554915309516,0.0,-40.2616943311985
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.3725109673248994,0.0,-42.06654604096741
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.41655937017910105,0.0,-43.8751532546529
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.4632198275243695,0.0,-45.687435549984286
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.512501218692961,0.0,-47.50331402000256
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.564412237281573,0.0,-49.32271124275405
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.618961394866119,0.0,-51.14555125159052
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-52.97175372441234
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-54.80130983573173
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-56.634195774638954
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-58.47037881125982
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-60.309817467684354
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-62.152460608867784
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-63.99824169766032
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-65.84707289651539
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-67.69885222882186
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-69.553463884037
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-71.41077851299121
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-73.27066090081212
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-75.13296507744832
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-76.99753457002578
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.40274641167781056,0.0,-43.993824267568414
+[10:15:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.40274641167781056,0.0,-45.86288892653357
+[10:15:10] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5433105419491824,0.0,-40.45598381906581
+[10:15:10] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5433105419491824,0.0,-42.18542097425558
+[10:15:10] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5433105419491824,0.0,-43.88026941932799
+[10:15:14] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5992329556384277,0.0,-37.832743405255655
+[10:15:14] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.625,0.0,-39.66995400680503
+[10:15:14] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.625,0.0,-41.51001408325624
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -3.681499802041799E-4,0.0,-40.037653907194226
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.0010357301653414197,0.0,-41.962292766282076
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.0019967519570514014,0.0,-43.88843770681194
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.0031839885237161525,0.0,-45.81605903186676
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.004531557569151801,0.0,-47.745127541609804
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.005974893655974256,0.0,-49.675614527068205
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.007512081445185004,0.0,-51.60749161875458
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.009079884706238772,0.0,-53.5407311561321
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.010616331931970535,0.0,-55.4753059387416
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.012060691044183613,0.0,-57.41118921327518
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.013414803803414088,0.0,-59.348354809919215
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.014619115936682192,0.0,-61.28677694069506
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.016351557463679,0.0,-63.22642685396181
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.019215010524220588,0.0,-65.16726681774128
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.02386132174450495,0.0,-67.10924766926951
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.030867536448880628,0.0,-69.05231366297244
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.04079858118052471,0.0,-70.99640077672939
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.05414625951038943,0.0,-72.94144247279019
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.07145287048945193,0.0,-74.88735951844046
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.0931879577626944,0.0,-76.83407227631335
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.11914108879545893,0.0,-78.78157929375664
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.14910599592761287,0.0,-42.61532690504225
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.1828804940074633,0.0,-44.564416709258694
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:18] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.40357774267772584,0.0,54.32070065692051
+[10:15:18] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.40502971287691025,0.0,-54.3197967493486
+[10:15:18] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:18] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:18] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45470098071061216,0.0,56.27539180002293
+[10:15:18] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.32160789710661675,0.0,-50.40210912111479
+[10:15:21] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.330063695156781,0.0,-41.592134514644044
+[10:15:21] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.33186150473795806,0.0,-43.576229822210735
+[10:15:21] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.3342369265124603,0.0,-45.56063855553407
+[10:15:21] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.33705570149240316,0.0,-47.545356141111824
+[10:15:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 3.9752317383090485E-4,0.0,-28.476183446132836
+[10:15:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.03806530090361093,0.0,-29.947162759911294
+[10:15:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.08083793701095487,0.0,-31.428398742146328
+[10:15:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.12807754218158607,0.0,-32.91965434882786
+[10:15:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.17993792961118515,0.0,-34.42069578297992
+[10:15:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.23656962668687243,0.0,-35.93129243344549
+[10:15:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.2973911118708088,0.0,-37.45132149555286
+[10:15:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.36189259555021636,0.0,-38.98064918359944
+[10:15:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.42450662122507765,0.0,-40.51913981666269
+[10:15:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.42450662122507765,0.0,-42.06666199205813
+[10:15:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.45921771558056435,0.0,37.5745042473568
+[10:15:28] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-38.904889850025484
+[10:15:28] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,51.384771370175145
+[10:15:28] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,49.45995363097438
+[10:15:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,47.53379042381766
+[10:15:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,45.60633708945409
+[10:15:29] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,43.67764386085685
+[10:15:31] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-41.16534688704337
+[10:15:31] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-43.12352346438456
+[10:15:31] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-45.082212774203754
+[10:15:31] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-47.04153572188193
+[10:15:31] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-49.001524751664874
+[10:15:34] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-41.18910152815465
+[10:15:34] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.3348412992580734,0.0,-41.41423932552743
+[10:15:34] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.39101364713872044,0.0,-43.38935024625971
+[10:15:34] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.4519317677471122,0.0,-45.36452604701822
+[10:15:35] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.6017100306845578,0.0,69.20814694366732
+[10:15:35] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.6017100306845578,0.0,67.63100938777916
+[10:15:35] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.3183223495292111,0.0,25.834174067144204
+[10:15:39] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> 1[m
+[10:15:43] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ÑÓ³Ù[m
+[10:15:59] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5459035364222871,0.0,-20.53649905632483
+[10:15:59] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5459035364222871,0.0,-21.57296148465116
+[10:15:59] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5459035364222871,0.0,-22.628595139803792
+[10:15:59] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5459035364222871,0.0,-23.702941153032725
+[10:15:59] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5459035364222871,0.0,-24.795528744085914
+[10:15:59] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5459035364222871,0.0,-25.905884005254848
+[10:15:59] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5459035364222871,0.0,-27.033524238152495
+[10:15:59] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5459035364222871,0.0,-28.17795818540617
+[10:15:59] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5459035364222871,0.0,-29.338698558624856
+[10:15:59] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5459035364222871,0.0,-30.515394553277247
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.05361780897018775,0.0,-32.28053000254931
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.04199915271129839,0.0,-33.91231294544741
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.03380016696652888,0.0,-35.55133307085589
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0307833596429532,0.0,-37.19725679657199
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.03466536376231488,0.0,-38.84967318438271
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.04705408008351242,0.0,-40.508109278208394
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.06944896861145367,0.0,-42.172040057912454
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.10330058781201501,0.0,-43.84087968306835
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.14931338339084732,0.0,-45.51422632099775
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.20747634150379213,0.0,-47.19191034501205
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.27713977664063805,0.0,-48.87398317476436
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.35766553667517087,0.0,-50.56049082429922
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.44842681876383494,0.0,-52.25147399898947
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-53.94696818308262
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-55.646986779151575
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-57.351556075718236
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-59.060681618384024
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-60.774365563582705
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-62.49262142773341
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-64.2154439347837
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-65.94281103863682
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-67.67471195608596
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-69.41113281525577
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-71.15204468468801
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-72.89742845772344
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-74.60790458858878
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5269540062344902,0.0,-76.28417122946166
+[10:16:02] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.460165812458456,0.0,-47.27067202245371
+[10:16:03] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.460165812458456,0.0,-48.88055856701362
+[10:16:05] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.164834187541544,0.0,-26.287468028329158
+[10:16:05] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.164834187541544,0.0,-27.68949744938209
+[10:16:05] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.164834187541544,0.0,-29.10318548694454
+[10:16:05] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.164834187541544,0.0,-30.52826817938444
+[10:16:05] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.164834187541544,0.0,-31.96448535045579
+[10:16:05] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.164834187541544,0.0,-33.41158053359118
+[10:16:05] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.164834187541544,0.0,-34.86930985703157
+[10:16:05] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.164834187541544,0.0,-36.33742424953789
+[10:16:05] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.164834187541544,0.0,-37.81568774614948
+[10:16:05] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.164834187541544,0.0,-39.303970879856706
+[10:16:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,44.20949041970084
+[10:16:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,44.20949041970084
+[10:16:06] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-38.617398581221096
+[10:16:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.25953038261403094,0.0,-28.235575420749
+[10:16:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.2998579205988108,0.0,-29.71312061917797
+[10:16:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.34146417662489625,0.0,-31.201060551687988
+[10:16:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.38401713898173284,0.0,-32.69920213927503
+[10:16:17] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.42725264771215166,0.0,-34.2073515153495
+[10:16:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.08112398784194852,0.0,-29.472680466466045
+[10:16:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.07036977706391667,0.0,-30.920535648172972
+[10:16:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.05983065029633394,0.0,-32.339433753861385
+[10:16:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.04950230586308635,0.0,-33.72995392449934
+[10:16:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.03938052812151227,0.0,-35.09266371824651
+[10:16:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.029461185741695317,0.0,-36.42811934211045
+[10:16:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.019740230020289573,0.0,-37.736865878968956
+[10:16:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.01021369322791088,0.0,-39.01943751005251
+[10:16:24] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -8.776869896678363E-4,0.0,-40.27635773297766
+[10:16:31] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.3346623722954405,0.0,-39.353038935544646
+[10:16:31] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.3003370652203614,0.0,-41.25090934387208
+[10:16:31] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.26155833951193586,0.0,-43.150490768896816
+[10:16:31] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.2183544187570874,0.0,-45.05174105917422
+[10:16:31] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.1707529746444152,0.0,-46.95461881315623
+[10:16:31] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.11878113753647312,0.0,-48.859083364191974
+[10:16:34] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.030109208096234852,0.0,-41.04707160611815
+[10:16:34] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.04922243435092355,0.0,-43.00872476484301
+[10:16:34] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.07394397710069711,0.0,-44.97069376425952
+[10:16:35] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5759556427507562,0.0,49.10170709271051
+[10:16:35] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.5759556427507562,0.0,49.10170709271051
+[10:16:35] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5850469944167571,0.0,-47.13204440812615
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.4035231669023176,0.0,-32.761210964898055
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.4427291364362418,0.0,-34.40617942877316
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.483174977360477,0.0,-36.058197316209316
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5248358922708576,0.0,-37.71712363886991
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.5676262963571332,0.0,-39.38282328291962
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.6115235998573212,0.0,-41.055160782060284
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-42.734006344647696
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-44.41923267801076
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-46.11071216685559
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-47.80832252353321
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-49.51194113080328
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-51.22145050597828
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-52.93673283381213
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-54.65767524443845
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-56.38416453630953
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-58.116092264125655
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-59.853349659271316
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-61.595832531314045
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-63.3434363708152
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-65.09606106075307
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-66.85360618421464
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.625,0.0,-68.61597333262307
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.25935509919935384,0.0,-39.25963570407748
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.25935509919935384,0.0,-41.031363891353976
+[10:16:38] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.25935509919935384,0.0,-42.80763477135906
+[10:16:40] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-39.4905266951896
+[10:16:40] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-41.38830195706578
+[10:16:40] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-43.28774955152858
+[10:16:40] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-45.18900955598019
+[10:16:40] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-47.092165311524695
+[10:16:40] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-48.99724273975062
+[10:16:40] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 3.067931975238025E-4,0.0,-50.90421747766277
+[10:16:40] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0022636760701857384,0.0,-52.813018453822224
+[10:16:40] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.007185193205202722,0.0,-54.723530506345924
+[10:16:40] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.015623534394848093,0.0,-56.635668641758
+[10:16:40] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.027447251001888162,0.0,-20.9551906597203
+[10:16:41] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.4220432061142958,0.0,45.96868707250678
+[10:16:41] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.44885338914480144,0.0,-45.96730648956009
+[10:16:43] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-39.65588704059746
+[10:16:43] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-41.5489101900871
+[10:16:43] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-43.444033338040754
+[10:16:43] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.0,0.0,-45.34125024731566
+[10:16:43] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 6.135683506727219E-4,0.0,-47.240518148656065
+[10:16:43] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.002319191333441495,0.0,-49.14178547968777
+[10:16:43] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.004849665065222553,0.0,-51.04501827564991
+[10:16:43] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.00794309772129509,0.0,-52.950181746058206
+[10:16:43] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.01134281176345553,0.0,-54.85724028749564
+[10:16:43] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.014797249986230554,0.0,-56.76615750359451
+[10:16:43] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.01805988111382817,0.0,-58.676896220897106
+[10:16:43] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.02095046648358334,0.0,-22.82448713869917
+[10:16:44] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.02323102458765902,0.0,-24.73875570860082
+[10:16:44] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.02472970240458494,0.0,-26.654732166418853
+[10:16:44] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.02521675742627849,0.0,-28.572377083141873
+[10:16:44] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.025203209761201606,0.0,-30.491666127178178
+[10:16:44] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.025926202217732452,0.0,-32.412562649743904
+[10:16:45] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.33834923239950854,0.0,66.83420099206205
+[10:16:45] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.33834923239950854,0.0,66.83420099206205
+[10:16:45] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.33834923239950854,0.0,66.83420099206205
+[10:16:45] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.33834923239950854,0.0,66.83420099206205
+[10:16:45] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.33834923239950854,0.0,66.83420099206205
+[10:16:45] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.33834923239950854,0.0,66.83420099206205
+[10:16:45] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! -0.33834923239950854,0.0,66.83420099206205
+[10:16:45] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.25413357856859875,0.0,-60.48105145900763
+[10:16:45] [Server thread/WARN]: Boat (vehicle of Li_zi_wei) moved too quickly! 0.25413357856859875,0.0,-60.48105145900763
+[10:16:54] [Server thread/WARN]: Li_zi_wei moved too quickly! 0.3835785894097228,0.7531999805212024,-10.360992136973437
+[10:17:31] [Server thread/WARN]: Li_zi_wei moved too quickly! 7.839284890259478,-5.024424088213692,5.780474397415674
+[10:18:40] [Server thread/WARN]: Li_zi_wei moved too quickly! 7.132524704049956,-1.7521489003674589,-7.220149533044605
+[10:18:43] [Server thread/WARN]: Li_zi_wei was kicked for floating too long!
+[10:18:43] [Server thread/INFO]: Li_zi_wei lost connection: Flying is not enabled on this server
+[10:18:43] [Server thread/INFO]: Li_zi_wei left the game
+[10:18:43] [Server thread/WARN]: handleDisconnection() called twice
+[10:18:48] [User Authenticator #283/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[10:18:48] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:60620] logged in with entity id 12747130 at ([world]1411.508702853455, 64.58110025942946, -19915.485530047303)
+[10:18:50] [Server thread/INFO]: TMN_233 >> ÑÓ³Ù[m
+[10:18:55] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> 1[m
+[10:19:02] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> 114514[m
+[10:19:22] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ÓÐ¿ª³ö¶«Î÷Âð[m
+[10:19:25] [Server thread/WARN]: Li_zi_wei moved too quickly! -8.914589734938772,0.8245767040478995,-5.339746952169662
+[10:19:30] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[10:19:30] [Server thread/INFO]: TMN_233 left the game
+[10:19:41] [Server thread/INFO]: Jichen233 >> ±ðËµ¿ªÃ»¿ª³öÁË[m
+[10:19:50] [Server thread/INFO]: Jichen233 >> Á¬Ïä×Ó¶¼Ã»[m
+[10:20:01] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ²Ý[m
+[10:20:46] [Server thread/INFO]: Jichen233 >> Î¨Ò»Ò»¸öÏä×Ó[m
+[10:20:59] [Server thread/INFO]: Jichen233 >> 5½¬¹û[m
+[10:21:10] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ºÃÁË¿ÉÒÔ»ØÈ¥ÁË£¨»¬»ü[m
+[10:22:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@4eb85dff[id=<null>,name=TMN_233,properties={},legacy=false] (/127.0.0.1:60634) lost connection: Disconnected
+[10:22:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@62709b8d[id=<null>,name=TMN_233,properties={},legacy=false] (/127.0.0.1:60635) lost connection: Disconnected
+[10:24:00] [Server thread/INFO]: Jichen233 >> µÚ¶þ¸ö[m
+[10:24:05] [Server thread/INFO]: Jichen233 >> +4[m
+[10:24:21] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ºÜ´ÀµÄÒ»µãÊÇÎÒÃÇÃ»·¨ÅàÓý[m
+[10:25:18] [User Authenticator #284/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[10:25:19] [Server thread/INFO]: TMN_233[/127.0.0.1:60646] logged in with entity id 12750622 at ([world]-217.3040815799178, 117.0, -448.35358569544934)
+[10:25:48] [Server thread/WARN]: Li_zi_wei moved too quickly! -9.96097543095766,0.2046003784434376,2.8483313684132856
+[10:25:55] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> 1[m
+[10:26:36] [Server thread/INFO]: Jichen233 >> ?![m
+[10:26:39] [Server thread/INFO]: Jichen233 >> ºÃ¼Ò»ï[m
+[10:26:51] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ?[m
+[10:27:14] [Server thread/INFO]: Jichen233 >> ÎÒÎ¨¶þÓöµ½µÄÈý²æêªÄçÊ¬¶¼µôÁË[m
+[10:27:22] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ²Ý[m
+[10:27:28] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[10:27:28] [Server thread/INFO]: TMN_233 left the game
+[10:27:38] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ²»ÄÜ¿ªÎ±ºÍÆ½[m
+[10:27:48] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ÎÒÃÇÇø¿éÀëÌ«Ô¶ÁË[m
+[10:28:09] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ¿ÉÒÔ»ØÀ´ÁË[m
+[10:28:36] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ???[m
+[10:28:40] [Server thread/INFO]: Jichen233 >> ?[m
+[10:28:46] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ÄãË¯¾õÁË£¿[m
+[10:28:50] [Server thread/INFO]: Jichen233 >> µØÓü[m
+[10:28:56] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ²Ý[m
+[10:29:05] [User Authenticator #285/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[10:29:06] [Server thread/INFO]: TMN_233[/127.0.0.1:60661] logged in with entity id 12758598 at ([world]-217.3040815799178, 117.0, -448.35358569544934)
+[10:29:10] [Server thread/INFO]: Jichen233 >> ÎÒÏÂµØÓüÁË([m
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,20.05779185007782
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,21.103520266843816
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,22.167696413055637
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,23.249976323723786
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,24.35002176203693
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,25.467500786527125
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,26.602086991863416
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,27.75346006123118
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,28.921305029888572
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,30.105312222828843
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,31.305177182513717
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,32.5206011680209
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,33.75129048191775
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,34.996956406645495
+[10:29:22] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,36.257315667440025
+[10:29:23] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-48.15798433271607
+[10:29:23] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-48.15798433271607
+[10:29:23] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-48.15798433271607
+[10:29:23] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-48.15798433271607
+[10:29:23] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-48.15798433271607
+[10:29:23] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-48.15798433271607
+[10:29:23] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-48.15798433271607
+[10:29:24] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-51.44255099832003
+[10:29:24] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,44.74028900998269
+[10:29:24] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,46.42928418160727
+[10:29:24] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,48.12435945490847
+[10:29:25] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,49.82539673346696
+[10:29:25] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,51.53228023808606
+[10:29:26] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,38.17031981434707
+[10:29:26] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,40.01993485185426
+[10:29:26] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.872052723225806
+[10:29:26] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,43.72662700771548
+[10:29:26] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,45.58361099482113
+[10:29:26] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-21.096267510371263
+[10:29:26] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-55.56034962805779
+[10:29:26] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-53.69902697929865
+[10:29:26] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-57.41952309359249
+[10:29:27] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,38.69684150832745
+[10:29:27] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-48.13649747921272
+[10:29:27] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-48.13500141308896
+[10:29:27] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-46.23896373962157
+[10:29:27] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-44.341485187351964
+[10:29:27] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-42.442592524919064
+[10:29:27] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-40.54231199676542
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,40.488494121641
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,42.42651365225947
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,44.36531477781705
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,46.30488244384992
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,48.245202474403186
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,50.18626039962055
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,52.128042039043066
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,54.070534073240424
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,56.01372287175059
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,57.95759507299522
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,59.90213816004757
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,61.847339288898866
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,63.79318587242028
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,65.73966557522567
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,67.68676688233063
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,69.63447793535579
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,71.58278710936384
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,73.53168301564119
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,75.48115449324837
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,77.43119060073923
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,79.38178061549615
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,42.78164307470024
+[10:29:30] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,44.73330958965653
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-66.23407305290289
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,58.40251384487988
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-70.15289685994344
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-70.15289685994344
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-70.15289685994344
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,58.40020163235204
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,58.40020163235204
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,60.361834822517494
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,62.32379849825588
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,64.28608661610588
+[10:29:31] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,66.2486926872316
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.33534410912057
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,43.30555560912671
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,45.275912356857134
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,47.246412021054766
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,49.21705174339286
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,51.1878287227114
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,53.15874021387344
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,55.12978410033929
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,57.100957734205394
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,59.07225852052625
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,61.04368391625508
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,23.649951181825827
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-55.20961588460273
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-55.20961588460273
+[10:29:34] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-55.20961588460273
+[10:29:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.39478113097334
+[10:29:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.39478113097334
+[10:29:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-59.1574113843958
+[10:29:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-59.15734210286246
+[10:29:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-57.18319511226082
+[10:29:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-55.20898158367186
+[10:29:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-47.316586443930646
+[10:29:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.39355640877875
+[10:29:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.39355640877875
+[10:29:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-47.317161342057034
+[10:29:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-47.317161342057034
+[10:29:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.39302343012082
+[10:29:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.39302343012082
+[10:29:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-49.29266829306857
+[10:29:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-49.29266829306857
+[10:29:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.39219566256952
+[10:29:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.39219566256952
+[10:29:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-47.31806210791183
+[10:29:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.39149028130464
+[10:29:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,43.36708309143842
+[10:29:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,45.34271753533403
+[10:29:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,47.31839335028644
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,30.25824376876085
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,31.40340467584474
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,32.525662386629165
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,33.6254749646032
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,34.703291311995144
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,35.75955135299682
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,36.79468621332512
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,37.80911839619057
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,38.80326195474731
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,39.777522661094736
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,40.73229817189781
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.66797819069575
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,42.58494462696444
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,43.48357175199749
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,44.364226351669686
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,45.22726787614579
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,46.073048586593586
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,46.901913698964336
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,47.71420152489691
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,48.51024360980409
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,49.29036486819632
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,50.05488371630054
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,50.8041122020245
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,51.53835613232445
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,52.257915198023056
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,52.963083096132095
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,24.564435396066074
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,25.24167867177198
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,25.90537709488126
+[10:29:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,26.5558015621873
+[10:29:40] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,27.19321755255328
+[10:29:40] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,27.817885235269614
+[10:29:48] [Server thread/INFO]: Jichen233 issued server command: /msg Li_zi_wei qq talk?
+[10:29:51] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,21.505430317167793
+[10:29:51] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,22.72519420104777
+[10:29:51] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,23.96011513540907
+[10:29:51] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,25.209889979531
+[10:29:51] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,26.47422165550188
+[10:29:51] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,27.752819026962243
+[10:29:51] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,29.04539678027436
+[10:29:51] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,30.351675308068025
+[10:29:51] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,31.671380595114897
+[10:29:51] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,33.004244106485885
+[10:29:52] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> àÅ[m
+[10:29:52] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-43.30999785653671
+[10:29:52] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,35.32094520062651
+[10:29:53] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-41.838384826466836
+[10:29:53] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-40.19178794819618
+[10:29:53] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-38.53857067119088
+[10:29:58] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,40.50242459168339
+[10:29:58] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,42.441153375229305
+[10:29:59] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-50.60733318528446
+[10:29:59] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,44.74028445408385
+[10:29:59] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,44.74070871359845
+[10:30:00] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,46.69795288217529
+[10:30:00] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,48.65560450960584
+[10:30:00] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,50.61365544672071
+[10:30:01] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.253588943130126
+[10:30:03] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.406781070778834
+[10:30:03] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,43.379736351203974
+[10:30:03] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,45.35278486854554
+[10:30:03] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,47.325924758067
+[10:30:04] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-98.5415437053316
+[10:30:04] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-96.56781338254814
+[10:30:04] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-94.59400532368068
+[10:30:04] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-92.62012108344948
+[10:30:04] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-90.6461621854803
+[10:30:04] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-88.67213012292655
+[10:30:04] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-86.69802635907854
+[10:30:04] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-84.72385232796069
+[10:30:07] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.49475892770556
+[10:30:07] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,43.47104383965893
+[10:30:07] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,45.44735539596172
+[10:30:07] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,47.42369306372734
+[10:30:07] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,49.40005632072712
+[10:30:07] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,51.376444655176556
+[10:30:07] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,53.35285756552753
+[10:30:07] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,55.32929456026227
+[10:30:07] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,57.30575515769351
+[10:30:07] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,59.28223888576781
+[10:30:07] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,21.740244078009937
+[10:30:08] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-59.29762032645385
+[10:30:08] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-59.29762032645385
+[10:30:08] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,51.389972575527736
+[10:30:08] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,51.389972575527736
+[10:30:08] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-61.274838184932605
+[10:30:08] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-61.274838184932605
+[10:30:08] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,53.36672147478953
+[10:30:08] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,53.36672147478953
+[10:30:09] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-59.297929617096315
+[10:30:09] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-59.297929617096315
+[10:30:09] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,53.366624838647795
+[10:30:09] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,53.366624838647795
+[10:30:09] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-63.25233226636192
+[10:30:09] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-63.25233226636192
+[10:30:09] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-61.27516262644167
+[10:30:09] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,59.297984036714524
+[10:30:09] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-65.22963037032127
+[10:30:09] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-63.252401717847306
+[10:30:09] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-61.27516529581658
+[10:30:09] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-59.2979212596199
+[10:30:09] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-57.32066976154056
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.527150562516226
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,43.50574351859905
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -7.28640443412587E-5,0.0,45.484764585349694
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.0014900848984780168,0.0,47.46418262157829
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.005473401373876641,0.0,49.443928105128975
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.013190861543790788,0.0,51.423896485849696
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.025760758162022057,0.0,53.403950949962336
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.04425177579918227,0.0,55.38392524462938
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.06967948774413912,0.0,57.3636271165816
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.10301436636072481,0.0,59.34283966286603
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.14449523353789573,0.0,21.772509929089324
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.19435149208834446,0.0,23.750508961594164
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.25279585516733505,0.0,25.727782615564024
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.3200321502039287,0.0,27.70425076128106
+[10:30:12] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.39624808049367743,0.0,29.679834215969095
+[10:30:13] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,-55.272607170560946
+[10:30:13] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,-55.272607170560946
+[10:30:13] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,-55.272607170560946
+[10:30:13] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.625,0.0,49.37235397829329
+[10:30:13] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,-59.20703453868214
+[10:30:13] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,-57.239255423369286
+[10:30:13] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,-55.2710520742603
+[10:30:13] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,-51.33990349833414
+[10:30:13] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,-49.371789255163435
+[10:30:14] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,-47.40378873694635
+[10:30:14] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,-45.43592578347091
+[10:30:14] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,-43.46822420103945
+[10:30:14] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.625,0.0,-41.50070620596682
+[10:30:16] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.49822042407243
+[10:30:16] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,43.47807949530102
+[10:30:16] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,45.45826377574804
+[10:30:16] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,47.438770303986416
+[10:30:16] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,49.41959586489327
+[10:30:16] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,51.40073746038479
+[10:30:16] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,53.3821918505904
+[10:30:16] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,55.363955789656416
+[10:30:16] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,57.346025817249256
+[10:30:16] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,59.32839868007784
+[10:30:16] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,21.792381672208876
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0038726658165728622,0.0,-51.51332022038923
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0038726658165728622,0.0,-51.51332022038923
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved wrongly! 50.88832022038923
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved wrongly! 50.88832022038923
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved wrongly! 50.88832022038923
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved wrongly! 50.88832022038923
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved wrongly! 50.88832022038923
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved wrongly! 50.88832022038923
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved wrongly! 50.88832022038923
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved wrongly! 50.88832022038923
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved wrongly! 50.84840796677099
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved wrongly! 50.88832022038923
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0038726658165728622,0.0,-51.434293957463865
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0038726658165728622,0.0,-51.316934701798004
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0038726658165728622,0.0,-51.16200760377285
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0038726658165728622,0.0,-50.970262775271976
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0038726658165728622,0.0,-50.74243509126245
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0038726658165728622,0.0,-50.479244982545765
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0038726658165728622,0.0,-50.18139848249689
+[10:30:17] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0038726658165728622,0.0,-49.84958751128738
+[10:30:25] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -0.31741656609659685,0.0,20.770856647143205
+[10:30:28] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,28.52090192125081
+[10:30:28] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,29.951066218794608
+[10:30:32] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-121.9426301221281
+[10:30:32] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-121.9426301221281
+[10:30:32] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-120.29456241326841
+[10:30:32] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-118.64528367102275
+[10:30:32] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-116.99481811603584
+[10:30:32] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-115.34318948453983
+[10:30:32] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-113.69042103804281
+[10:30:32] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-112.03653557282291
+[10:30:32] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-110.38155542923334
+[10:30:32] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-108.72550449385096
+[10:30:32] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-107.06840418249124
+[10:30:32] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-105.41027548265356
+[10:30:32] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-103.75113896208802
+[10:30:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,35.25721063782919
+[10:30:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,36.94152806288389
+[10:30:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,38.62626357467161
+[10:30:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,40.31140881146575
+[10:30:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,41.996955578773964
+[10:30:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,43.682893841787404
+[10:30:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,45.36921577059945
+[10:30:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,47.05591369190154
+[10:30:35] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,48.742980085850945
+[10:30:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-40.51519490940325
+[10:30:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-40.51519490940325
+[10:30:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,33.74541479034133
+[10:30:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-40.51914078734421
+[10:30:36] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,33.73983819766045
+[10:30:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,35.702775478122646
+[10:30:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,37.403931613748455
+[10:30:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,39.10516705801092
+[10:30:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,40.806480224738834
+[10:30:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,42.507869559484334
+[10:30:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,44.20933353888853
+[10:30:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,45.91087067005964
+[10:30:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,47.61247948996373
+[10:30:39] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,49.31415856482755
+[10:30:40] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-56.170564925196686
+[10:30:40] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-56.170564925196686
+[10:30:40] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,49.35814236121746
+[10:30:40] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,49.35814236121746
+[10:30:40] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-54.46786095610764
+[10:30:41] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,49.55947475063169
+[10:30:41] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,51.13058749582228
+[10:30:41] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-58.52719969595023
+[10:30:41] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-58.52719969595023
+[10:30:41] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-57.13544127862019
+[10:30:41] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-55.7715180030911
+[10:30:41] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-54.43487316705779
+[10:30:41] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-53.12496120225069
+[10:30:41] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-51.84124745175512
+[10:30:41] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-50.58320795178457
+[10:30:41] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-49.35032921781823
+[10:30:41] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,-48.14210803501595
+[10:30:43] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,20.33760124510667
+[10:30:43] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,20.89831039494709
+[10:30:43] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,21.44780537248539
+[10:30:43] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,21.98631046095369
+[10:30:43] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! 0.0,0.0,22.514045457923828
+[10:31:00] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> 1[m
+[10:31:20] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[10:31:20] [Server thread/INFO]: TMN_233 left the game
+[10:33:13] [User Authenticator #286/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[10:33:13] [Server thread/INFO]: TMN_233[/127.0.0.1:60677] logged in with entity id 12766963 at ([world]-217.3193048852511, 117.0, -448.4006729065502)
+[10:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[10:41:36] [Server thread/INFO]: Jichen233 issued server command: /co i
+[10:41:55] [Server thread/INFO]: Jichen233 issued server command: /co l
+[10:42:07] [Server thread/INFO]: Jichen233 issued server command: /co l 2
+[10:42:18] [Server thread/INFO]: Jichen233 issued server command: /co l 3
+[10:43:42] [Server thread/INFO]: Jichen233 issued server command: /co i
+[10:50:22] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[10:50:22] [Server thread/INFO]: Li_zi_wei left the game
+[10:50:25] [User Authenticator #287/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[10:50:26] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:60739] logged in with entity id 12774325 at ([world]1389.9900970414099, 63.0, 2.1524442486632567)
+[10:50:55] [Server thread/INFO]: TMN_233 has made the advancement [Whatever Floats Your Goat!]
+[10:56:17] [Server thread/INFO]: Jichen233 was slain by TMN_233 using [¥Ï¥¤¥Ñ©`¥¤¥ó¥Ñ¥¯¥È]
+[10:58:01] [Server thread/WARN]: TMN_233 moved too quickly! 26.642916836372876,-6.179686460715047,-5.261626126165879
+[11:02:32] [Server thread/INFO]: Jichen233 >> ?[m
+[11:04:20] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[11:04:20] [Server thread/INFO]: TMN_233 left the game
+[11:05:16] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[11:05:16] [Server thread/INFO]: Li_zi_wei left the game
+[11:06:19] [User Authenticator #288/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[11:06:20] [Server thread/INFO]: TMN_233[/127.0.0.1:60796] logged in with entity id 12794763 at ([world]-217.47351413355057, 117.0, -448.4043130780156)
+[11:06:25] [User Authenticator #289/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[11:06:26] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:60799] logged in with entity id 12795649 at ([world]1381.895450887911, 65.5, -8.228314090115578)
+[11:06:52] [Server thread/WARN]: Jichen233 moved too quickly! 4.6974013417361675,2.0281914744294767,9.338484639664557
+[11:07:02] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[11:07:02] [Server thread/INFO]: Li_zi_wei left the game
+[11:07:19] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[11:07:19] [Server thread/INFO]: TMN_233 left the game
+[11:10:17] [User Authenticator #290/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[11:10:17] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:60817] logged in with entity id 12800178 at ([world]1377.5, 65.0, -9.5)
+[11:10:36] [User Authenticator #291/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[11:10:36] [Server thread/INFO]: TMN_233[/127.0.0.1:60821] logged in with entity id 12800239 at ([world]-217.47351413355057, 117.0, -448.4043130780156)
+[11:10:50] [Server thread/WARN]: Li_zi_wei moved too quickly! -9.897492023780615,1.8932016293528093,-2.627797062727762
+[11:11:17] [User Authenticator #292/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[11:11:18] [Server thread/INFO]: jason_ji[/127.0.0.1:60826] logged in with entity id 12803129 at ([world]5196.8007159467825, 66.0, 195.94769983110302)
+[11:12:10] [Server thread/INFO]: Villager EntityVillager['Villager'/12803633, l='ServerLevel[world]', x=5263.90, y=73.30, z=299.30] died, message: 'Villager was squished too much'
+[11:12:16] [Server thread/INFO]: jason_ji >> ÄãÃÇÔÚÃ¦Ê²Ã´[m
+[11:12:38] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ÖØ½¨¾É¹²[m
+[11:12:54] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> (²»ÊÇ¸´ÐË[m
+[11:13:05] [Server thread/WARN]: jason_ji moved too quickly! 13.778658722001637,-0.8344447334886667,2.0397304366701974
+[11:13:10] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> Äã²»¿¨Âð£¨[m
+[11:13:18] [Server thread/WARN]: Li_zi_wei moved too quickly! -1.2445286682716414,2.672045177710295,22.737846212864735
+[11:13:18] [Server thread/INFO]: jason_ji >> »¹ºÃ[m
+[11:13:26] [Server thread/INFO]: Villager EntityVillager['Villager'/12803601, l='ServerLevel[world]', x=5263.30, y=73.16, z=299.30] died, message: 'Villager was squished too much'
+[11:13:34] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ÎÒ·è¿ñÂ½ÓÎ[m
+[11:14:14] [Server thread/WARN]: jason_ji moved too quickly! 14.674831376426482,23.777650066365055,6.393824101557783
+[11:14:29] [Server thread/INFO]: jason_ji >> ¿¨ËÀÁË[m
+[11:14:32] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[11:14:32] [Server thread/INFO]: jason_ji left the game
+[11:14:36] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[11:14:36] [Server thread/INFO]: TMN_233 left the game
+[11:14:51] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[11:14:51] [Server thread/INFO]: Li_zi_wei left the game
+[11:14:54] [User Authenticator #293/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[11:14:54] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:60845] logged in with entity id 12814193 at ([world]1299.3641187214826, 66.0, -29.657709092935505)
+[11:23:17] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[11:23:17] [Server thread/INFO]: Li_zi_wei left the game
+[11:23:19] [User Authenticator #294/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[11:23:19] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:60898] logged in with entity id 12815342 at ([world]1255.5434676705754, 69.0, -21.60205820582941)
+[11:29:29] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[11:29:29] [Server thread/INFO]: Li_zi_wei left the game
+[11:29:49] [Server thread/WARN]: Jichen233 moved wrongly!
+[11:30:41] [User Authenticator #295/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[11:30:41] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:60932] logged in with entity id 12817506 at ([world]1275.074999988079, 72.0, 3.2192392056505694)
+[11:30:43] [User Authenticator #296/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[11:30:43] [Server thread/INFO]: TMN_233[/127.0.0.1:60934] logged in with entity id 12817521 at ([world]-217.47351413355057, 117.0, -448.4043130780156)
+[11:31:08] [Server thread/WARN]: Li_zi_wei moved too quickly! -0.9523034197186462,2.2202133935591775,-17.435711997125136
+[11:31:39] [Server thread/WARN]: Li_zi_wei moved too quickly! 0.05287374813883616,2.890898901482302,-19.28938368207006
+[11:31:49] [Server thread/WARN]: Jichen233 moved too quickly! 6.283246522699756,15.961202598703522,-17.95061938088095
+[11:31:55] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[11:31:55] [Server thread/INFO]: Li_zi_wei left the game
+[11:33:29] [User Authenticator #297/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[11:33:30] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:60945] logged in with entity id 12824764 at ([world]1261.300000011921, 68.0, -43.522093475026686)
+[11:33:47] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[11:33:47] [Server thread/INFO]: TMN_233 left the game
+[11:34:08] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mJichen233 [0;33;22mÄ¿Ç°ÓÐ [0;32;1m32 [0;33;22m¹±Ï×µãÊý[m
+[11:34:08] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mLi_zi_wei [0;33;22mÄ¿Ç°ÓÐ [0;32;1m58 [0;33;22m¹±Ï×µãÊý[m
+[11:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[11:34:11] [Server thread/INFO]: Jichen233 issued server command: /qd
+[11:34:11] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mJichen233 [0;33;22mÄ¿Ç°ÓÐ [0;32;1m34 [0;33;22m¹±Ï×µãÊý[m
+[11:48:21] [Server thread/INFO]: Li_zi_wei has made the advancement [Ol' Betsy]
+[11:53:49] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[11:53:49] [Server thread/INFO]: Li_zi_wei left the game
+[11:53:52] [User Authenticator #298/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[11:53:53] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:61029] logged in with entity id 12837667 at ([world]1396.648770944133, 72.0, -8.300000011920929)
+[12:00:16] [Server thread/INFO]: Li_zi_wei issued server command: /co i
+[12:00:52] [Server thread/INFO]: Li_zi_wei issued server command: /co i
+[12:01:44] [Server thread/WARN]: Jichen233 moved too quickly! -10.103366399405473,-0.41999998688697815,-0.04049284854076518
+[12:03:12] [Server thread/WARN]: Jichen233 moved too quickly! -1649.862168223917,16.145106700651638,-233.5491608448679
+[12:06:47] [Server thread/WARN]: Jichen233 moved wrongly!
+[12:10:34] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[12:10:34] [Server thread/INFO]: Jichen233 left the game
+[12:11:20] [Server thread/WARN]: Li_zi_wei moved too quickly! 17.232373069363774,26.682107236707736,3.2834701080519153
+[12:15:38] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[12:15:38] [Server thread/INFO]: Li_zi_wei left the game
+[12:27:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@76b1a521[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:61163) lost connection: Disconnected
+[12:33:37] [User Authenticator #299/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[12:33:37] [Server thread/INFO]: Jichen233[/127.0.0.1:61189] logged in with entity id 12858977 at ([world]1297.984496745531, 63.5625, 21.335550525126706)
+[12:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[13:08:40] [Server thread/INFO]: Jichen233 has completed the challenge [Two Birds, One Arrow]
+[13:30:36] [Server thread/INFO]: There are 1 of a max of 50 players online: Jichen233
+[13:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[13:36:17] [User Authenticator #300/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[13:36:17] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:61469] logged in with entity id 12864765 at ([world_the_end]104.50242147595095, 49.0, -9.911824879260868)
+[13:37:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ./qd[m
+[13:37:45] [Server thread/INFO]: sen_lv_ling_ issued server command: /qd
+[13:37:45] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1msen_lv_ling_ [0;33;22mÄ¿Ç°ÓÐ [0;32;1m4 [0;33;22m¹±Ï×µãÊý[m
+[13:38:28] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[13:38:28] [Server thread/INFO]: sen_lv_ling_ left the game
+[13:45:19] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[13:45:19] [Server thread/INFO]: Jichen233 left the game
+[14:15:27] [User Authenticator #301/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[14:15:27] [Server thread/INFO]: Jichen233[/127.0.0.1:61624] logged in with entity id 12865470 at ([world]1298.0429687955154, 63.5625, 21.470277768787557)
+[14:20:28] [User Authenticator #302/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[14:20:28] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:61649] logged in with entity id 12866027 at ([world]1376.2441141723707, 67.95163992975817, 19.89904895323771)
+[14:21:46] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ²ø¸ùÄàÍÁ[m
+[14:22:09] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ÓÐÂÌ±¦Ê¯Âð[m
+[14:22:29] [User Authenticator #303/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[14:22:29] [Server thread/INFO]: TMN_233[/127.0.0.1:61658] logged in with entity id 12866187 at ([world]1300.275513757786, 63.0, -14.588870893971675)
+[14:24:57] [Server thread/WARN]: Li_zi_wei moved too quickly! 9.427604316584393,-1.130906499714527,3.726427134886773
+[14:25:45] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[14:25:45] [Server thread/INFO]: TMN_233 left the game
+[14:26:09] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ¾­Ñé½èÎÒÒ»ÏÂ[m
+[14:26:18] [Server thread/INFO]: Jichen233 >> no[m
+[14:26:39] [Server thread/INFO]: Jichen233 >> ²»¹»[m
+[14:30:39] [Server thread/WARN]: Jichen233 moved wrongly!
+[14:30:54] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> Ë¢¹Ö[m
+[14:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[14:41:06] [Server thread/INFO]: Jichen233 >> ²Ý[m
+[14:41:18] [Server thread/INFO]: Jichen233 >> Å×ÎïÏßnb[m
+[14:41:27] [Server thread/INFO]: Jichen233 >> az[m
+[14:44:11] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> why so weak[m
+[14:44:44] [Server thread/INFO]: Jichen233 >> I always want to run away[m
+[14:44:47] [Server thread/INFO]: Li_zi_wei experienced kinetic energy
+[14:44:51] [Server thread/INFO]: Jichen233 >> az[m
+[14:45:31] [Server thread/INFO]: Li_zi_wei was shot by Jichen233
+[14:45:57] [Server thread/INFO]: Jichen233 >> ?[m
+[14:51:32] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[14:51:32] [Server thread/INFO]: Li_zi_wei left the game
+[14:52:42] [User Authenticator #304/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[14:52:43] [Server thread/INFO]: TMN_233[/127.0.0.1:61784] logged in with entity id 12875425 at ([world]-217.51700230763313, 117.0, -448.4927898719478)
+[14:52:52] [User Authenticator #305/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[14:52:52] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:61787] logged in with entity id 12876390 at ([world]1395.143431602947, 72.0, -19.348258515799312)
+[14:54:18] [Server thread/WARN]: Li_zi_wei moved too quickly! -6.141502946671608,1.1661092609382138,7.963378165833664
+[14:54:56] [Server thread/INFO]: Jichen233 >> ka[m
+[14:55:47] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[14:55:47] [Server thread/INFO]: TMN_233 left the game
+[14:57:46] [Server thread/INFO]: Jichen233 >> qq talk[m
+[15:11:54] [Server thread/INFO]: Li_zi_wei fell from a high place
+[15:15:26] [Server thread/INFO]: Jichen233 issued server command: /co i
+[15:15:34] [Server thread/INFO]: Jichen233 issued server command: /co i
+[15:26:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@68936da0[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:61921) lost connection: Disconnected
+[15:28:16] [User Authenticator #306/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[15:28:16] [Server thread/INFO]: Bay_Max_[/127.0.0.1:61935] logged in with entity id 12895736 at ([world_the_end]-16.23897627596113, 61.0, -53.11476131628699)
+[15:28:26] [User Authenticator #307/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[15:28:26] [Server thread/INFO]: TMN_233[/127.0.0.1:61937] logged in with entity id 12895777 at ([world]-217.51700230763313, 117.0, -448.4927898719478)
+[15:28:48] [Server thread/WARN]: Bay_Max_ moved too quickly! 5.116344220064837,-0.33060334177960726,8.607348186846892
+[15:29:01] [Server thread/WARN]: Bay_Max_ moved wrongly!
+[15:29:49] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> 1626 -129[m
+[15:33:12] [Server thread/WARN]: Bay_Max_ moved too quickly! 3.6470112405640975,0.1727465586233876,9.708552444565953
+[15:33:19] [Server thread/WARN]: Bay_Max_ moved too quickly! 14.493919211276534,2.2736993451813703,1.7114529292941256
+[15:33:20] [User Authenticator #308/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[15:33:20] [Server thread/INFO]: Security_Winter[/127.0.0.1:61960] logged in with entity id 12913467 at ([world]-653.3338699367282, 26.0, -1880.1059350239784)
+[15:33:29] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[15:33:29] [Server thread/INFO]: Bay_Max_ left the game
+[15:33:44] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ¿¨[m
+[15:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[15:34:27] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[15:34:27] [Server thread/INFO]: TMN_233 left the game
+[15:35:11] [Server thread/INFO]: Security_Winter issued server command: /qd
+[15:35:11] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mSecurity_Winter [0;33;22mÄ¿Ç°ÓÐ [0;32;1m54 [0;33;22m¹±Ï×µãÊý[m
+[15:35:48] [User Authenticator #309/INFO]: UUID of player TMN_233 is adc9ba48-dce6-4355-8edd-d5fe5ef08b25
+[15:35:49] [Server thread/INFO]: TMN_233[/127.0.0.1:61972] logged in with entity id 12917669 at ([world]-217.51700230763313, 117.0, -448.4927898719478)
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -1.8083248204873144,-31.949399286532483,0.1649327128828304
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -1.8305423386063921,-33.91079924272307,0.16695911626754878
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -1.8505381043839861,-35.91219919801959,0.16878287926549262
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -1.8685342931071318,-37.95359915242204,0.17042426592016113
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -1.8847308625288406,-40.034999105930424,0.17190151387022468
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -1.8993077746222298,-42.156399058544736,0.17323103699006026
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -1.9124269951587394,-43.37860033795823,0.17442760776621924
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -1.9354457112956425,-43.506768276190655,0.16572468426957698
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -1.9650721010743837,-43.526251932105325,0.14898250872059293
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -2.0006453969733684,-43.55874967104488,0.12500500651617585
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -2.0415709082385547,-43.598341491168945,0.09451571049437746
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -2.0873134132059477,-43.640005312654075,0.0581658001921852
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -2.137391212390412,-43.68236913413921,0.016541337177358173
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -2.1913707762666945,-43.72543295562434,-0.007631370232417112
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -2.248861928272845,-43.76919677710947,-0.007631370232417112
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -2.309513509512044,-43.8136605985946,-0.007631370232417112
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -2.373009476985544,-43.858824420079735,-0.007631370232417112
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -2.4390653920022487,-43.90468824156487,-0.007631370232417112
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -2.5074252597466966,-43.95125206305,-0.007631370232417112
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -2.5689491390869534,-43.99851588453513,-0.007631370232417112
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -2.624320629026215,-44.046479706020264,-0.007631370232417112
+[15:36:05] [Server thread/WARN]: Boat (vehicle of Jichen233) moved too quickly! -2.6741549686514645,-44.09514352750539,-0.007631370232417112
+[15:38:19] [Server thread/INFO]: TMN_233 lost connection: Disconnected
+[15:38:19] [Server thread/INFO]: TMN_233 left the game
+[15:42:50] [Server thread/WARN]: Jichen233 moved wrongly!
+[15:42:55] [Server thread/INFO]: Li_zi_wei was slain by Jichen233
+[15:43:35] [Server thread/INFO]: Li_zi_wei was killed trying to hurt Jichen233
+[15:44:22] [Server thread/INFO]: Li_zi_wei fell from a high place
+[15:45:02] [Server thread/WARN]: Jichen233 moved wrongly!
+[15:51:29] [Server thread/INFO]: Security_Winter >> ...[m
+[15:51:38] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ¡£¡£¡£[m
+[15:54:49] [Server thread/INFO]: Li_zi_wei fell from a high place
+[16:10:08] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[16:10:08] [Server thread/INFO]: Li_zi_wei left the game
+[16:11:35] [Server thread/WARN]: Security_Winter moved wrongly!
+[16:15:11] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[16:15:11] [Server thread/INFO]: Jichen233 left the game
+[16:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[17:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[17:48:06] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[17:48:06] [Server thread/INFO]: Security_Winter left the game
+[18:08:45] [User Authenticator #310/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[18:08:45] [Server thread/INFO]: Security_Winter[/127.0.0.1:62598] logged in with entity id 12942161 at ([world_the_end]96.5238093882831, 49.0, 2.33773500509717)
+[18:13:54] [Server thread/INFO]: Security_Winter issued server command: /player Alex spawn at
+[18:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[19:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[19:50:50] [User Authenticator #311/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[19:50:50] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:63010] logged in with entity id 12944334 at ([world]1098.5190025163054, 63.5, -1748.1593222121826)
+[19:50:55] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[19:50:55] [Server thread/INFO]: Li_zi_wei left the game
+[20:01:49] [User Authenticator #312/INFO]: UUID of player Mashiro_Ayado is 600d268d-e247-47ef-b811-c9d6cdc5cd3a
+[20:01:49] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/iron_ingot_from_blasting' in progress file .\world\advancements\600d268d-e247-47ef-b811-c9d6cdc5cd3a.json - it doesn't exist anymore?
+[20:01:49] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/iron_ingot' in progress file .\world\advancements\600d268d-e247-47ef-b811-c9d6cdc5cd3a.json - it doesn't exist anymore?
+[20:01:49] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/slime_block' in progress file .\world\advancements\600d268d-e247-47ef-b811-c9d6cdc5cd3a.json - it doesn't exist anymore?
+[20:01:49] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot removed now.
+[20:01:49] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot_from_blasting removed now.
+[20:01:49] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot removed now.
+[20:01:49] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot_from_blasting removed now.
+[20:01:50] [Server thread/INFO]: Mashiro_Ayado[/127.0.0.1:63061] logged in with entity id 12944744 at ([world]5202.932017789372, 71.0, 256.4082604732372)
+[20:02:08] [Server thread/INFO]: Mashiro_Ayado >> ÊÇÄã º®°²[m
+[20:02:48] [Server thread/INFO]: Mashiro_Ayado hit the ground too hard
+[20:04:40] [Server thread/INFO]: Mashiro_Ayado lost connection: Disconnected
+[20:04:40] [Server thread/INFO]: Mashiro_Ayado left the game
+[20:07:16] [pool-10-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[20:52:51] [Server thread/INFO]: Security_Winter lost connection: Timed out
+[20:52:51] [Server thread/INFO]: Security_Winter left the game
+[21:11:40] [User Authenticator #313/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[21:11:40] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:63360] logged in with entity id 12946885 at ([world]1098.5190025163054, 63.5, -1748.1593222121826)
+[21:11:53] [Server thread/INFO]: Li_zi_wei issued server command: /p lead
+[21:11:57] [Server thread/INFO]: Li_zi_wei issued server command: /p lead 1
+[21:17:07] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[21:17:07] [Server thread/INFO]: Li_zi_wei left the game
+[21:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[22:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[22:57:37] [User Authenticator #314/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[22:57:37] [Server thread/INFO]: Security_Winter[/127.0.0.1:63799] logged in with entity id 12948066 at ([world]-654.6793159090112, 25.0, -1883.4146344271855)
+[22:57:46] [Server thread/INFO]: Security_Winter issued server command: /qd
+[22:57:53] [Server thread/INFO]: Security_Winter issued server command: /p lead
+[23:20:48] [Server thread/INFO]: Security_Winter lost connection: Timed out
+[23:20:48] [Server thread/INFO]: Security_Winter left the game
+[23:27:21] [User Authenticator #315/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[23:27:21] [Server thread/INFO]: Security_Winter[/127.0.0.1:63912] logged in with entity id 12950283 at ([world]-657.4603417819237, 26.0, -1876.2678413927106)
+[23:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m

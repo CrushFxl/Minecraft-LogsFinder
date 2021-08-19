@@ -1,0 +1,28 @@
+[10:11:46] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[10:11:46] [Server thread/INFO]: Loading properties
+[10:11:46] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[10:11:46] [Server thread/INFO]: Debug logging is disabled
+[10:11:46] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[10:11:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:11:46] [Server thread/INFO]: Default game type: SURVIVAL
+[10:11:46] [Server thread/INFO]: Generating keypair
+[10:11:47] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[10:11:47] [Server thread/INFO]: Using default channel type
+[10:11:47] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[10:11:49] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[10:11:49] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[10:11:49] [Server thread/WARN]: Legacy plugin NoSpawnChunks v2.0-b147 does not specify an api-version.
+[10:11:49] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[10:11:49] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[10:11:49] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[10:11:49] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[10:11:49] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.2.2
+[10:11:49] [Server thread/INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0-b147
+[10:11:49] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[10:11:49] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[10:11:49] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[10:11:49] [Server thread/INFO]: [VillagerOptimiser] Loading VillagerOptimiser v1.1.3
+[10:11:49] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[10:11:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:11:49] [Server thread/INFO]: Preparing level "world"
+[10:11:49] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit

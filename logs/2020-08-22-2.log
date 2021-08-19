@@ -1,0 +1,797 @@
+[18:39:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[18:39:29] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[18:39:30] [Worker-Main-6/INFO]: Loaded 7 recipes
+[18:39:31] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[18:39:31] [Server thread/INFO]: Loading properties
+[18:39:33] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-379750e-43c7ff9 (MC: 1.16.2) (Implementing API version 1.16.2-R0.1-SNAPSHOT)
+[18:39:33] [Server thread/INFO]: Debug logging is disabled
+[18:39:33] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[18:39:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:39:33] [Server thread/INFO]: Default game type: SURVIVAL
+[18:39:33] [Server thread/INFO]: Generating keypair
+[18:39:33] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[18:39:33] [Server thread/INFO]: Using default channel type
+[18:39:34] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[18:39:36] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[18:39:36] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[18:39:36] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[18:39:36] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[18:39:36] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[18:39:36] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[18:39:36] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[18:39:36] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[18:39:36] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[18:39:36] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[18:39:36] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[18:39:36] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[18:39:36] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[18:39:36] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[18:39:36] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[18:39:36] [Server thread/INFO]: [TAB] Loading TAB v2.8.4
+[18:39:36] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[18:39:36] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[18:39:36] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[18:39:36] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[18:39:36] [Server thread/INFO]: Preparing level "world"
+[18:39:36] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:39:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:39:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:39:36] [Server thread/INFO]: Item Despawn Rate: 3000
+[18:39:36] [Server thread/INFO]: Item Merge Radius: 8.0
+[18:39:36] [Server thread/INFO]: View Distance: 12
+[18:39:36] [Server thread/INFO]: Experience Merge Radius: 8.0
+[18:39:36] [Server thread/INFO]: Mob Spawn Range: 4
+[18:39:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[18:39:36] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[18:39:36] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[18:39:36] [Server thread/INFO]: Max TNT Explosions: 100
+[18:39:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:39:36] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[18:39:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:39:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:39:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:39:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:39:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:39:36] [Server thread/INFO]: Item Despawn Rate: 3000
+[18:39:36] [Server thread/INFO]: Item Merge Radius: 8.0
+[18:39:36] [Server thread/INFO]: View Distance: 12
+[18:39:36] [Server thread/INFO]: Experience Merge Radius: 8.0
+[18:39:36] [Server thread/INFO]: Mob Spawn Range: 4
+[18:39:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[18:39:36] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[18:39:36] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[18:39:36] [Server thread/INFO]: Max TNT Explosions: 100
+[18:39:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:39:36] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[18:39:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:39:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:39:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:39:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:39:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:39:36] [Server thread/INFO]: Item Despawn Rate: 3000
+[18:39:36] [Server thread/INFO]: Item Merge Radius: 8.0
+[18:39:36] [Server thread/INFO]: View Distance: 12
+[18:39:36] [Server thread/INFO]: Experience Merge Radius: 8.0
+[18:39:36] [Server thread/INFO]: Mob Spawn Range: 4
+[18:39:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:39:36] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[18:39:36] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[18:39:36] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[18:39:36] [Server thread/INFO]: Max TNT Explosions: 100
+[18:39:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:39:36] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[18:39:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:39:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:39:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:39:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:38] [Server thread/INFO]: Preparing spawn area: 6%
+[18:39:39] [Server thread/INFO]: Time elapsed: 2464 ms
+[18:39:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:39:40] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:40] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:40] [Server thread/INFO]: Time elapsed: 914 ms
+[18:39:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:39:40] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:40] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:40] [Server thread/INFO]: Time elapsed: 765 ms
+[18:39:40] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[18:39:41] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[18:39:41] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[18:39:41] [Server thread/INFO]: --------------------
+[18:39:41] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[18:39:41] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[18:39:41] [Server thread/INFO]: --------------------
+[18:39:41] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[18:39:41] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[18:39:41] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[18:39:41] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[18:39:41] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[18:39:41] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[18:39:41] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[18:39:41] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[18:39:41] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[18:39:41] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[18:39:41] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[18:39:41] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minemora.entitytrackerfixer.v1_16_R2.NMSHandler
+[18:39:41] [Server thread/WARN]: 	at java.net.URLClassLoader.findClass(Unknown Source)
+[18:39:41] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:167)
+[18:39:41] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:96)
+[18:39:41] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[18:39:41] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[18:39:41] [Server thread/WARN]: 	at java.lang.Class.forName0(Native Method)
+[18:39:41] [Server thread/WARN]: 	at java.lang.Class.forName(Unknown Source)
+[18:39:41] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.nms.NMSCheck.getNMS(NMSCheck.java:14)
+[18:39:41] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:25)
+[18:39:41] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[18:39:41] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351)
+[18:39:41] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480)
+[18:39:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492)
+[18:39:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406)
+[18:39:41] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435)
+[18:39:41] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219)
+[18:39:41] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808)
+[18:39:41] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164)
+[18:39:41] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:39:41] [Server thread/ERROR]: [EntityTrackerFixer] Could not find support for this Spigot version.
+[18:39:41] [Server thread/ERROR]: Error occurred while enabling EntityTrackerFixer v1.3.1 (Is it up to date?)
+java.lang.NullPointerException: null
+	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:26) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[18:39:41] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[18:39:41] [Server thread/INFO]: [OpenInv] Your version of CraftBukkit (v1_16_R2) is not supported.
+[18:39:41] [Server thread/INFO]: [OpenInv] If this version is a recent release, check for an update.
+[18:39:41] [Server thread/INFO]: [OpenInv] If this is an older version, ensure that you've downloaded the legacy support version.
+[18:39:41] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[18:39:41] [Server thread/INFO]: [SAML] Loading config.yml...
+[18:39:41] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[18:39:41] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[18:39:41] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[18:39:41] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[18:39:41] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[18:39:41] [Server thread/INFO]: [SAML] Loading messages.yml...
+[18:39:41] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[18:39:41] [Server thread/INFO]: [SAML] Successfully enabled.
+[18:39:41] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5
+[18:39:41] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şÒÑÆôÓÃ£¡
+[18:39:41] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şµ±Ç°°æ±¾£ºV0.5 £¨2017Äê8ÔÂ24ÈÕ£©
+[18:39:41] [Server thread/INFO]: [ChatC] ¸ĞĞ»ÄúµÄÊ¹ÓÃ£¡
+[18:39:41] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3
+[18:39:41] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;33;1mChecking Your version...[m
+[18:39:41] [Server thread/INFO]: [0;34;1m===============================[m
+[18:39:41] [Server thread/INFO]: [0;32;1m[m
+[18:39:41] [Server thread/INFO]: [0;32;1m GroupManager+ is now enable![m
+[18:39:41] [Server thread/INFO]: [0;32;1m [m
+[18:39:41] [Server thread/INFO]: [0;33;1m Thank you for using GroupManager+ :)[m
+[18:39:41] [Server thread/INFO]: [0;33;1m GroupManager+ is create by HappyAreaBean![m
+[18:39:41] [Server thread/INFO]: [0;36;1m Current version: [0;32;1mv3.3[m
+[18:39:41] [Server thread/INFO]: [0;32;1m [m
+[18:39:41] [Server thread/INFO]: [0;34;1m===============================[m
+[18:39:41] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mWorld Found: world[m
+[18:39:41] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mSuperperms support enabled.[m
+[18:39:41] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is set for every 10 minutes![m
+[18:39:41] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBackups will be retained for 24 hours![m
+[18:39:41] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mGroupManager+ v3.3 is now enabled![m
+[18:39:41] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3
+[18:39:41] [Server thread/INFO]: [PxAutoMessage] ÕıÔÚÆô¶¯Æ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[18:39:41] [Server thread/INFO]: [PxAutoMessage] ³õÊ¼»¯ĞÅÏ¢Ä£¿é...
+[18:39:41] [Server thread/INFO]: [PxAutoMessage] ×¢²áÃüÁî¼àÌıÏµÍ³...
+[18:39:41] [Server thread/INFO]: [PxAutoMessage] ¼ÓÔØÍê±Ï£¡
+[18:39:41] [Server thread/INFO]:  
+[18:39:41] [Server thread/INFO]: > ×÷Õß£ºAn_ye (QQ:1444691679)
+[18:39:41] [Server thread/INFO]: > ±¾²å¼ş×Ô´øºº»¯£¬ÇëÎğÏàĞÅËùÎ½µÄºº»¯°æ£¡
+[18:39:41] [Server thread/INFO]: > £¨×÷ÕßµÄ»°£ºI'm Chinese.£©
+[18:39:41] [Server thread/INFO]:  
+[18:39:41] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0
+[18:39:41] [Server thread/INFO]: HikariPool-1 - Starting...
+[18:39:42] [Server thread/INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[18:39:42] [Server thread/INFO]: HikariPool-1 - Start completed.
+[18:39:43] [Server thread/INFO]: 
+ 
+[0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
+[0;30;1m| [0;31;1mInformation:
+[0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[0;30;1m| [0;31;1mSupport:
+[0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[0;30;1m| [0;31;1mUpdate:
+[0;30;1m|   [0;37;22mThere is a new version available! [2.2.1]
+[0;30;1m[]================================[][m
+ [m
+[18:39:43] [Server thread/INFO]: [TAB] Enabling TAB v2.8.4
+[18:39:43] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.16.2 (v1_16_R2)[m
+[18:39:43] [Server thread/INFO]: [0;31;1m[TAB] File [0;33;1mplugins\TAB\errors.txt[0;31;1m exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.[m
+[18:39:43] [Server thread/INFO]: [0;31;1m[TAB] Animation "[0;33;1mWelcome[0;31;1m" does not have any texts! [0;36;1mIgnoring.[m
+[18:39:43] [Server thread/INFO]: [0;33;1m[TAB] There were 2 startup warnings.[m
+[18:39:43] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 66ms[m
+[18:39:43] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT
+[18:39:43] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0
+[18:39:43] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1
+[18:39:43] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[18:39:43] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[18:39:43] [Server thread/INFO]: [AnGmode] ¡ìaÄãºÃ£¡ÎÒÊÇĞ¡°²£¬¸ĞĞ»ÄãÄÜÊ¹ÓÃÕâ¸ö²å¼ş£¡
+[18:39:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:39:43] [Server thread/INFO]: Done (7.269s)! For help, type "help"
+[18:39:43] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBukkit Permissions Updated![m
+[18:39:43] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[18:39:44] [Craft Scheduler Thread - 1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;31;1mYour version (v3.3) is outdated download the lastest version:[m
+[18:39:44] [Craft Scheduler Thread - 1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;32;1mhttps://www.spigotmc.org/resources/40615/[m
+[18:39:46] [Thread-19/INFO]: --------------------
+[18:39:46] [Thread-19/INFO]: [CoreProtect] Version 19.1 is now available.
+[18:39:46] [Thread-19/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[18:39:46] [Thread-19/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[18:39:46] [Thread-19/INFO]: --------------------
+[18:40:00] [User Authenticator #1/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[18:40:01] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:49931] logged in with entity id 432 at ([world_nether]-389.63343964873826, 79.0, 16.477423896851484)
+[18:41:15] [User Authenticator #2/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[18:41:16] [Server thread/INFO]: adhesive_tape[/127.0.0.1:49962] logged in with entity id 443 at ([world_nether]-386.20640245991837, 79.0, 18.69999998807907)
+[18:44:25] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãÈ·¶¨Õâ¸öÀïÃæÓĞÔ¶¹Å[m
+[18:44:31] [Server thread/INFO]: adhesive_tape >> ÓĞ[m
+[18:45:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@d01e7c1[id=<null>,name=jason_ji,properties={},legacy=false] (/127.0.0.1:49998) lost connection: Disconnected
+[18:45:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@13bbcae[id=<null>,name=jason_ji,properties={},legacy=false] (/127.0.0.1:50000) lost connection: Disconnected
+[18:45:25] [User Authenticator #3/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[18:45:25] [Server thread/INFO]: Twilight2033[/127.0.0.1:50001] logged in with entity id 656 at ([world]5179.543806020863, 64.0, 213.69999998807907)
+[18:46:18] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[18:46:18] [Server thread/INFO]: Twilight2033 left the game
+[18:47:03] [User Authenticator #4/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[18:47:03] [Server thread/INFO]: jason_ji[/127.0.0.1:50027] logged in with entity id 1623 at ([world]5161.352928762535, 64.0, 205.82225794663742)
+[18:48:13] [Server thread/INFO]: sen_lv_ling_ issued server command: /px off
+[18:48:13] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'px' in plugin AnGmode v1.0-SNAPSHOT
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.dispatchCommand(CraftServer.java:756) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PlayerConnection.handleCommand(PlayerConnection.java:1697) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PlayerConnection.a(PlayerConnection.java:1540) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PacketPlayInChat.a(PacketPlayInChat.java:47) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.TickTask.run(SourceFile:18) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.IAsyncTaskHandler.executeTask(SourceFile:144) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.IAsyncTaskHandler.executeNext(SourceFile:118) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.ba(MinecraftServer.java:941) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.executeNext(MinecraftServer.java:934) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.IAsyncTaskHandler.awaitTasks(SourceFile:127) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.sleepForTick(MinecraftServer.java:918) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:850) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.lang.NullPointerException
+	at enron.angmode.command.AnGmodeCommand.onCommand(AnGmodeCommand.java:46) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	... 18 more
+[18:48:17] [Server thread/INFO]: sen_lv_ling_ issued server command: /px off
+[18:48:17] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'px' in plugin AnGmode v1.0-SNAPSHOT
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.dispatchCommand(CraftServer.java:756) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PlayerConnection.handleCommand(PlayerConnection.java:1697) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PlayerConnection.a(PlayerConnection.java:1540) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PacketPlayInChat.a(PacketPlayInChat.java:47) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.TickTask.run(SourceFile:18) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.IAsyncTaskHandler.executeTask(SourceFile:144) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.IAsyncTaskHandler.executeNext(SourceFile:118) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.ba(MinecraftServer.java:941) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.executeNext(MinecraftServer.java:934) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.IAsyncTaskHandler.awaitTasks(SourceFile:127) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.sleepForTick(MinecraftServer.java:918) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:850) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.lang.NullPointerException
+	at enron.angmode.command.AnGmodeCommand.onCommand(AnGmodeCommand.java:46) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	... 18 more
+[18:48:20] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmm[m
+[18:48:35] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÊÇ²»ÊÇpx off[m
+[18:48:41] [Server thread/INFO]: adhesive_tape >> en[m
+[18:48:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ±ä²»»ØÀ´[m
+[18:48:49] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> f[m
+[18:49:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ¶ùÓĞÁ½¸öÃ»³äÄÜ[m
+[18:49:38] [Server thread/INFO]: sen_lv_ling_ issued server command: /px off
+[18:49:38] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'px' in plugin AnGmode v1.0-SNAPSHOT
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.dispatchCommand(CraftServer.java:756) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PlayerConnection.handleCommand(PlayerConnection.java:1697) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PlayerConnection.a(PlayerConnection.java:1540) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PacketPlayInChat.a(PacketPlayInChat.java:47) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.TickTask.run(SourceFile:18) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.IAsyncTaskHandler.executeTask(SourceFile:144) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.IAsyncTaskHandler.executeNext(SourceFile:118) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.ba(MinecraftServer.java:941) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.executeNext(MinecraftServer.java:934) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.IAsyncTaskHandler.awaitTasks(SourceFile:127) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.sleepForTick(MinecraftServer.java:918) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:850) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.lang.NullPointerException
+	at enron.angmode.command.AnGmodeCommand.onCommand(AnGmodeCommand.java:46) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	... 18 more
+[18:49:41] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[18:49:42] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ±ä²»»ØÀ´[m
+[18:49:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ›N[m
+[18:50:04] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ²»ÊÇÉ­ÁÖÃ´[m
+[18:52:37] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¾ÍÒ»¸öº£Ãà·¿...[m
+[18:55:19] [Server thread/INFO]: jason_ji >> µ½ÓêÁÖÁË[m
+[18:55:25] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÉÏº£Ãà[m
+[18:55:47] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ¸öÓêÁÖÎÒÀ´¹ı[m
+[18:55:56] [Server thread/INFO]: jason_ji >> À´¹ıÂğ[m
+[18:56:02] [Server thread/INFO]: jason_ji >> -12000 -1000[m
+[18:56:07] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> À´¸ö[m
+[18:56:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> À´¹ı[m
+[18:56:19] [Server thread/INFO]: jason_ji >> ºÃ°É[m
+[18:56:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¼ÌĞøÏòÎ÷×ßÓĞÖñÁÖ[m
+[18:57:22] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»ÅÅË®Ã´[m
+[18:57:31] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> µö¸ÍÏÂ²»È¥µÄ[m
+[18:57:51] [Server thread/INFO]: adhesive_tape >> ...[m
+[18:58:01] [Server thread/INFO]: jason_ji >> ÕâÓÖ¸ö´ÔÁÖÉñÃí[m
+[18:58:07] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ohhhh[m
+[18:58:09] [Server thread/INFO]: jason_ji >> ÄãÃ»Ì½Ë÷¹ıÂğ[m
+[18:58:11] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¹ş¹ş¹ş[m
+[18:58:13] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»[m
+[18:58:14] [Server thread/INFO]: adhesive_tape >> ...[m
+[18:58:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ¾Í×ö¸ö½ø¶È¶øÒÑ[m
+[18:58:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»´øº£ÃàÃ´[m
+[18:59:07] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÏÈ°ÑÏÂÃæµÄ¶´¶ÂÁË[m
+[18:59:31] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ´ÔÁÖÉñÃíÃ»É¶ºÃ¶«Î÷°É[m
+[18:59:31] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:random_patch",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:0b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{state:{Properties:{age:"3"},Name:"minecraft:sweet_berry_bush"},type:"minecraft:simple_state_provider"},whitelist:[{Properties:{snowy:"false"},Name:"minecraft:grass_block"}],can_replace:0b}}]
+[18:59:31] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:7,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:spruce_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:spruce_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:1,height_rand_a:4,trunk_top_offset:1,max_water_depth:0,foliage_placer:{type:"minecraft:pine_foliage_placer",radius:1,radius_random:0},ignore_vines:1b}}]
+[18:59:31] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:random_patch",config:{tries:32,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{entries:[{data:{Name:"minecraft:grass"},weight:1},{data:{Name:"minecraft:fern"},weight:4}],type:"minecraft:weighted_state_provider"},whitelist:[],can_replace:0b}}]
+[18:59:31] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{entries:[{data:{Name:"minecraft:pumpkin"},weight:19},{data:{Properties:{facing:"north"},Name:"minecraft:jack_o_lantern"},weight:1}],type:"minecraft:weighted_state_provider"}}}]
+[18:59:31] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:7,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:spruce_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:spruce_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:1,height_rand_a:4,trunk_top_offset:1,max_water_depth:0,foliage_placer:{type:"minecraft:pine_foliage_placer",radius:1,radius_random:0},ignore_vines:1b}}]
+[18:59:31] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:7,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:spruce_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:spruce_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:1,height_rand_a:4,trunk_top_offset:1,max_water_depth:0,foliage_placer:{type:"minecraft:pine_foliage_placer",radius:1,radius_random:0},ignore_vines:1b}}]
+[18:59:31] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:7,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:spruce_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:spruce_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:1,height_rand_a:4,trunk_top_offset:1,max_water_depth:0,foliage_placer:{type:"minecraft:pine_foliage_placer",radius:1,radius_random:0},ignore_vines:1b}}]
+[18:59:31] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:random_patch",config:{tries:32,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{entries:[{data:{Name:"minecraft:grass"},weight:1},{data:{Name:"minecraft:fern"},weight:4}],type:"minecraft:weighted_state_provider"},whitelist:[],can_replace:0b}}]
+[18:59:31] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:random_patch",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:0b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{state:{Properties:{age:"3"},Name:"minecraft:sweet_berry_bush"},type:"minecraft:simple_state_provider"},whitelist:[{Properties:{snowy:"false"},Name:"minecraft:grass_block"}],can_replace:0b}}]
+[18:59:35] [Server thread/INFO]: jason_ji >> È·Êµ[m
+[19:00:05] [Server thread/INFO]: adhesive_tape >> ÂéÁË[m
+[19:00:08] [Server thread/INFO]: adhesive_tape >> µö²»ÉÏÀ´[m
+[19:00:38] [Server thread/INFO]: adhesive_tape >> Õâ¸ö¹şÆ¤[m
+[19:00:41] [Server thread/INFO]: adhesive_tape >> ³Ô·¹È¥ÁË[m
+[19:00:54] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ó¦¸ÃÅÅÍêË®Ö±½Ó·Å¿ó³µ[m
+[19:01:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> tape×Ô±ÕÁË[m
+[19:01:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÌúÂí¿­[m
+[19:01:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¸¯Èâ[m
+[19:01:57] [Server thread/INFO]: jason_ji >> °¡Õâ[m
+[19:02:14] [Server thread/INFO]: jason_ji >> ´ÔÁÖÉñÃí¾ÍÊÇÕâ½±Àø[m
+[19:02:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºÍÉ³Ä®ÉñÃíÒ»ÑùÃ»ÓÃ[m
+[19:02:43] [Server thread/INFO]: jason_ji >> ÎªÊ²Ã´Ã»ÓĞĞÜÃ¨[m
+[19:02:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÖñÁÖ²Å»áË¢ĞÜÃ¨[m
+[19:03:22] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ¶ùÓÖÓĞ¸ö´ÔÁÖÉñÃí[m
+[19:03:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> [x:-12173, y:78, z:-1384][m
+[19:05:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÖñÁÖÔÚÕâ¶ù[m
+[19:05:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> [x:-13006, y:103, z:-1410][m
+[19:05:50] [Server thread/INFO]: jason_ji >> À´ÁË[m
+[19:06:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ĞÜÃ¨»áÔÚÖñÁÖÈºÏµµÄ²İ·½¿éÉÏË¢ĞÂ£¬Ò»´Î1-2Ö»[m
+[19:06:43] [Server thread/INFO]: jason_ji >> Å¶[m
+[19:06:49] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> µ«ÖñÁÖ´ó²¿·ÖÊÇ»Ò»¯ÍÁ[m
+[19:06:52] [Server thread/INFO]: jason_ji >> ...[m
+[19:06:55] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËùÒÔ²»ºÃË¢[m
+[19:07:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÔÚ¼ÓÉÏÃÜÃÜÂéÂéµÄÖñ×ÓÕ¼¿Õ¼ä[m
+[19:07:42] [Server thread/INFO]: jason_ji >> ÎÒ¿³µãÖñ×ÓÊÔÊÔ[m
+[19:08:25] [Server thread/INFO]: jason_ji >> ÕÒµ½ĞÜÃ¨ÁËÂğ[m
+[19:08:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ³Ô·¹È¥ÁË£¬ÎÒ²»ĞÅÎÒÕâ´ÎÅÔ¹Û¹Ò»ú»¹ÄÜ°×¸ø[m
+[19:09:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÖ®Ç°ÔÚÁíÒ»¸öÖñÁÖ¹ÒÁË°ëÌì¶¼Ã»¼ûË¢Ò»¸öĞÜÃ¨[m
+[19:09:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë¢ĞÜÃ¨Òª¹âÕÕ´óÓÚ6»¹ÊÇ¼¸À´×Å[m
+[19:10:45] [Server thread/INFO]: jason_ji >> 9[m
+[19:14:07] [Server thread/INFO]: jason_ji >> Õâ¸öÎÒ·ÅÆúÁË[m
+[19:19:16] [User Authenticator #5/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[19:19:16] [Server thread/INFO]: Mr_director[/127.0.0.1:50298] logged in with entity id 11709 at ([world_nether]97.69354693809525, 49.0, 443.30000001192093)
+[19:19:41] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:20:02] [Server thread/INFO]: Mr_director issued server command: /co i
+[19:20:06] [Server thread/INFO]: Mr_director issued server command: /co i
+[19:24:43] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[19:24:43] [Server thread/INFO]: jason_ji left the game
+[19:27:37] [Server thread/INFO]: adhesive_tape >> e[m
+[19:29:00] [User Authenticator #6/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[19:29:00] [Server thread/INFO]: jason_ji[/127.0.0.1:50384] logged in with entity id 14184 at ([world_nether]-1375.9354183011787, 115.0, 811.6141204210993)
+[19:29:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Name:"minecraft:melon"},type:"minecraft:simple_state_provider"}}}]
+[19:29:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:acacia_tree",config:{height_rand_b:2,foliage_height:-1,trunk_height:0,base_height:5,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:acacia_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:acacia_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:0,height_rand_a:2,trunk_top_offset:0,max_water_depth:0,foliage_placer:{type:"minecraft:acacia_foliage_placer",radius:2,radius_random:0},ignore_vines:1b}}]
+[19:29:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[19:29:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[19:29:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:acacia_tree",config:{height_rand_b:2,foliage_height:-1,trunk_height:0,base_height:5,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:acacia_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:acacia_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:0,height_rand_a:2,trunk_top_offset:0,max_water_depth:0,foliage_placer:{type:"minecraft:acacia_foliage_placer",radius:2,radius_random:0},ignore_vines:1b}}]
+[19:29:34] [Server thread/INFO]: adhesive_tape >> ÄáÂê[m
+[19:29:56] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[19:29:56] [Server thread/INFO]: jason_ji left the game
+[19:31:44] [Server thread/INFO]: adhesive_tape >> ÂéÁË[m
+[19:31:55] [Server thread/INFO]: adhesive_tape >> Åö×²Ïä¿¨ÌúÕèÀïÁË[m
+[19:33:16] [Server thread/INFO]: adhesive_tape >> 2333[m
+[19:35:53] [Server thread/INFO]: adhesive_tape was slain by Elder Guardian
+[19:35:54] [User Authenticator #7/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[19:35:54] [Server thread/INFO]: Ghost_king_[/127.0.0.1:50436] logged in with entity id 15172 at ([world_nether]42.57918103605838, 34.0, 839.466837582892)
+[19:36:27] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸Ğ¶¯ÁË[m
+[19:36:34] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õâ´ÎÉ­ÓïÃ»ÂîÎÒº©º©ghost[m
+[19:36:36] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> qwq[m
+[19:39:41] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:39:44] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[19:42:00] [Server thread/WARN]: Boat (vehicle of adhesive_tape) moved wrongly! 0.42319918426949243
+[19:45:16] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[19:45:16] [Server thread/INFO]: adhesive_tape left the game
+[19:45:40] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[19:45:40] [Server thread/INFO]: Ghost_king_ left the game
+[19:48:18] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmmm[m
+[19:48:22] [User Authenticator #8/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[19:48:22] [Server thread/INFO]: Ghost_king_[/127.0.0.1:50550] logged in with entity id 18109 at ([world_nether]46.30000001192093, 32.0, 839.6520872018854)
+[19:48:33] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[19:48:33] [Server thread/INFO]: Ghost_king_ left the game
+[19:50:47] [User Authenticator #9/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[19:50:47] [Server thread/INFO]: Laohuaji[/127.0.0.1:50572] logged in with entity id 18196 at ([world]-514.614193441899, 121.375, -450.5396895286411)
+[19:51:39] [Server thread/INFO]: Laohuaji issued server command: /gamemode spectator
+[19:51:39] [Server thread/INFO]: [Laohuaji: Set own game mode to Spectator Mode]
+[19:51:46] [Server thread/INFO]: Laohuaji issued server command: /tp sen_lv_ling_
+[19:51:46] [Server thread/INFO]: [Laohuaji: Teleported Laohuaji to sen_lv_ling_]
+[19:52:30] [Server thread/INFO]: Laohuaji issued server command: /gamemode creative
+[19:52:30] [Server thread/INFO]: [Laohuaji: Set own game mode to Creative Mode]
+[19:53:04] [Server thread/INFO]: Laohuaji issued server command: /gamemode spectator
+[19:53:04] [Server thread/INFO]: [Laohuaji: Set own game mode to Spectator Mode]
+[19:53:15] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> az[m
+[19:53:23] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÈËÉúáÛ·å[m
+[19:53:27] [Server thread/INFO]: Laohuaji issued server command: /gamemode creative
+[19:53:27] [Server thread/INFO]: [Laohuaji: Set own game mode to Creative Mode]
+[19:53:42] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[19:53:42] [Server thread/INFO]: Laohuaji left the game
+[19:54:25] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[19:54:25] [Server thread/INFO]: Mr_director left the game
+[19:55:23] [User Authenticator #10/INFO]: UUID of player Envy_Cloud is c5f83320-e8be-418f-81c1-e1f3ea1f99d5
+[19:55:23] [Server thread/INFO]: Envy_Cloud[/127.0.0.1:50615] logged in with entity id 19419 at ([world]3168.300000011921, 64.0, 604.6953071387417)
+[19:57:26] [Server thread/INFO]: [Server] az
+[19:57:29] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> az[m
+[19:59:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> qwq[m
+[19:59:20] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> qwq[m
+[19:59:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÒªÀ´¸ÉÀÏ»¬»ü¸ÉµÄÊÂ¶ùÁË[m
+[19:59:34] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> awa?[m
+[19:59:41] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:59:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ×êµ½Ä½ÔÆÉíÌåÀïÃæÈ¥qwq[m
+[20:00:09] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> Õ¦¾ÍÕâÃ´É¬ÇéÄØ£¨[m
+[20:00:22] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»ÓĞÃ»ÓĞqwq[m
+[20:00:31] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ¿ÉÊÇÕı¾­ÈË[m
+[20:00:56] [Server thread/INFO]: Envy_Cloud lost connection: Disconnected
+[20:00:56] [Server thread/INFO]: Envy_Cloud left the game
+[20:01:07] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> .[m
+[20:04:09] [User Authenticator #11/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[20:04:09] [Server thread/INFO]: Laohuaji[/127.0.0.1:50718] logged in with entity id 19990 at ([world_nether]137.98632831471164, 115.56936373414835, 281.2972400037925)
+[20:04:21] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[20:04:21] [Server thread/INFO]: Laohuaji left the game
+[20:05:18] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6f141028[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:50726): Took too long to log in
+[20:05:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@6f141028[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:50726) lost connection: Took too long to log in
+[20:05:24] [User Authenticator #12/INFO]: Disconnecting com.mojang.authlib.GameProfile@6f141028[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:50726): Authentication servers are down. Please try again later, sorry!
+[20:05:24] [User Authenticator #12/ERROR]: Couldn't verify username because servers are unavailable
+[20:06:49] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[20:06:49] [Server thread/INFO]: sen_lv_ling_ left the game
+[20:06:57] [User Authenticator #13/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:06:57] [Server thread/INFO]: Bay_Max_[/127.0.0.1:50745] logged in with entity id 20033 at ([world]1150.4186184671635, 64.0, 2274.3018617219514)
+[20:07:17] [Server thread/INFO]: Bay_Max_ >> ???[m
+[20:08:02] [User Authenticator #14/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[20:08:02] [Server thread/INFO]: Ghost_king_[/127.0.0.1:50757] logged in with entity id 20272 at ([world_nether]46.65067069322583, 32.0, 839.5855563631592)
+[20:08:24] [Server thread/INFO]: Bay_Max_ >> ½ñÌìÕ¦Ã»ÈË[m
+[20:09:41] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:10:51] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[20:10:51] [Server thread/INFO]: Ghost_king_ left the game
+[20:12:10] [User Authenticator #15/INFO]: Disconnecting com.mojang.authlib.GameProfile@751ece76[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:50798): Authentication servers are down. Please try again later, sorry!
+[20:12:10] [User Authenticator #15/ERROR]: Couldn't verify username because servers are unavailable
+[20:12:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@751ece76[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:50798) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:12:52] [User Authenticator #16/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[20:12:52] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:50810] logged in with entity id 20940 at ([world_nether]-2368.333419836648, 14.0, 996.3000000119209)
+[20:13:11] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:13:11] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:15:34] [Server thread/INFO]: _YuanXiao_ >> ´ó°×£¬·¢Ò»¸öµØÓü½»Í¨×ø±êßÂ£¬ÎÒÃÔÂ·ÁËqwq[m
+[20:19:41] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:23:26] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@e21bce[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:50899): Took too long to log in
+[20:23:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@e21bce[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:50899) lost connection: Took too long to log in
+[20:23:32] [User Authenticator #17/INFO]: Disconnecting com.mojang.authlib.GameProfile@e21bce[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:50899): Authentication servers are down. Please try again later, sorry!
+[20:23:32] [User Authenticator #17/ERROR]: Couldn't verify username because servers are unavailable
+[20:23:56] [User Authenticator #18/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[20:23:56] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:50910] logged in with entity id 23049 at ([world]3204.975719325, 85.51656088863889, 551.1507615425334)
+[20:24:04] [Server thread/INFO]: _YuanXiao_ >> sen_lv_ling_[m
+[20:24:11] [Server thread/INFO]: _YuanXiao_ >> ÎÒÃÔÂ·ÁË[m
+[20:24:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[20:24:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ...[m
+[20:26:18] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »»¸öipÀ´¸øÄãÖ¸Â·[m
+[20:26:20] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[20:26:20] [Server thread/INFO]: sen_lv_ling_ left the game
+[20:26:21] [User Authenticator #19/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[20:26:21] [Server thread/INFO]: Ghost_king_[/127.0.0.1:50932] logged in with entity id 24227 at ([world_nether]46.30000001192093, 32.0, 839.3000000119209)
+[20:26:35] [User Authenticator #20/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[20:26:35] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:50943] logged in with entity id 24421 at ([world_nether]-866.439719876901, 101.03439794286027, 1094.791836322195)
+[20:27:02] [Server thread/INFO]: _YuanXiao_ >> az[m
+[20:27:07] [Server thread/INFO]: _YuanXiao_ >> ²»ÓÃÁË[m
+[20:27:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> .[m
+[20:27:25] [Server thread/INFO]: _YuanXiao_ >> ÎÒÕÒµ½µØÓüµÄ¿ÕÖÃÓòÁË=£©[m
+[20:27:25] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µØÍÌ2.0¸ÄÍêÁËawa[m
+[20:27:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º©º©ghost[m
+[20:27:48] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÏÂÎçÃ»½ĞÄãÊÇÒòÎªÎÒÈ¥Ç¡·¹È¥ÁË[m
+[20:28:19] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[20:28:19] [Server thread/INFO]: _YuanXiao_ left the game
+[20:28:27] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µØÍÌ2.0Õ¨ÌÅÒÇÊ½[m
+[20:28:31] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÓĞÈË²Î¼ÓÂğ[m
+[20:28:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÔÚ¿´ÄØ[m
+[20:28:40] [Server thread/INFO]: Bay_Max_ >> ±ğÎÊÁË¾ÍØíÈË£¨[m
+[20:28:48] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °×ÀĞÔÚË¢Ñ©[m
+[20:29:16] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> e[m
+[20:29:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ìÕ¨°¡[m
+[20:30:08] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ»¹µÈ×Å¿´ÑÌ»¨ÄØ[m
+[20:30:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@127340d5[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:50975) lost connection: Disconnected
+[20:30:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@47e16eb5[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:50977) lost connection: Disconnected
+[20:30:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d981b49[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:50981) lost connection: Disconnected
+[20:30:21] [Server thread/INFO]: Bay_Max_ >> hhhhhhh[m
+[20:30:45] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¡¶ÑÌ»¨¡·£¿[m
+[20:30:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@288fa89b[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:50984) lost connection: Disconnected
+[20:30:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÉÁÉÁ·¢¹âµÄÄÚÖÖ[m
+[20:31:22] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ´ò ÉÏ¡á fa¡á »ğ£¿[m
+[20:32:37] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ì¿ì¿ì[m
+[20:33:48] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õ¨ÌÅÕß Æô¶¯£¡[m
+[20:33:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@5a4aea51[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51012) lost connection: Disconnected
+[20:34:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ...[m
+[20:34:13] [User Authenticator #21/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[20:34:13] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:51016] logged in with entity id 26584 at ([world_nether]101.53930210824119, 114.0, 1080.699999988079)
+[20:34:14] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿£¿£¿£¿£¿£¿£¿£¿£¿£¿[m
+[20:34:17] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÅÅË®»úÒâÒåºÎÔÚ[m
+[20:34:51] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿£¿£¿£¿£¿£¿£¿£¿£¿£¿£¿£¿£¿£¿[m
+[20:35:05] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ???????[m
+[20:35:12] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> É­Óï[m
+[20:35:36] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Äã¿´µÄtntÂäµãÊÇÔÚÅÅË®»úËùÔÚµÄyÖá»¹ÊÇÔÚÅÅË®»úÉÏÃæ[m
+[20:35:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[20:36:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ¿´¿´[m
+[20:36:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¸Õ¸ÕÃ»×¢Òâ[m
+[20:36:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»¹ıÈºÀïÓĞ½ØÍ¼[m
+[20:36:20] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> È¥µÄÊ±ºò ÎÒ¿´µÄtnt±¬Õ¨ÔÚÅÅË®»úÉÏ·½[m
+[20:36:28] [Server thread/INFO]: _YuanXiao_ >> ohhhh[m
+[20:36:31] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> »ØÀ´µÄÊ±ºò ¿´µ½tnt±¬Õ¨ÔÚÅÅË®»úÇ°Ãæ[m
+[20:36:40] [Server thread/INFO]: _YuanXiao_ >> Â·³Õ»Ø¼ÒÁË£¡£¡£¡[m
+[20:36:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÈºÀï½ØÍ¼ÊÇ»ØÀ´µÄÊ±ºò[m
+[20:36:46] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸ÅÂÊĞÔÊÂ¼ş£¿£¿£¿£¿£¿£¿£¿£¿£¿£¿£¿£¿£¿£¿[m
+[20:36:49] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> àÅ¶ÔÎÒÖªµÀ[m
+[20:37:14] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÊÓ½ÇÎÊÌâ£¿[m
+[20:37:22] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ²»ÊÇÊÓ½ÇÎÊÌâ[m
+[20:37:46] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ±¾À´tape·´À¡µÄÊ±ºò ÊÇËµtntÂäÏÂÈ¥ÁË ³¬¹ıÁËÅÅË®»úµÄ¸ß¶È[m
+[20:38:42] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> É­Óï ÔÙ¿´Ò»±é[m
+[20:38:45] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¿´Çå³ş¹ş[m
+[20:38:55] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ×îºÃÂ¼ÆÁ[m
+[20:38:55] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒµ±³¡½ØÍ¼[m
+[20:39:16] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒµçÄÔÂ¼ÆÁ20ÒÔÏÂfps£¨£¨£¨£¨£¨£¨[m
+[20:39:27] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ğ¡´°¿ÚÂ¼ÆÁ¹ş ±ğÈ«ÆÁ[m
+[20:39:31] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[20:39:35] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎªÉ¶[m
+[20:39:41] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Äã°ÑÓÎÏ·´°¿Ú»¯[m
+[20:39:44] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[20:39:48] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> È»ºó·Ö±æÂÊ¾ÍĞ¡Ò»µã[m
+[20:39:56] [Server thread/INFO]: _YuanXiao_ has made the advancement [Isn't It Iron Pick]
+[20:39:58] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÊÓÆµ´óĞ¡Ò²¾ÍĞ¡Ò»µã[m
+[20:39:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÒ»Ö±ÓÃµÄ×î´ó»¯£¬²»ÊÇÈ«ÆÁ[m
+[20:40:02] [Server thread/INFO]: _YuanXiao_ >> az[m
+[20:40:13] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> tape¾ÍÊÇÈ«ÆÁ/×î´ó»¯Â¼ÖÆ£¨£¨£¨£¨£¨£¨[m
+[20:40:31] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ªÊ¼£¿[m
+[20:40:37] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[20:40:37] [Server thread/INFO]: Bay_Max_ left the game
+[20:40:38] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> È»ºó14·ÖÖÓµÄÊÓÆµ3G£¨[m
+[20:40:49] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¿ªÊ¼°É[m
+[20:40:52] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 3[m
+[20:40:54] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 2[m
+[20:40:55] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> 1[m
+[20:41:19] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¨£¨£¨£¨£¨£¨£¨£¨£¨£¨£¨£¿[m
+[20:41:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ??????????[m
+[20:41:29] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÅÅË®»úÀë¼Ò³ö×ß£¨doge[m
+[20:41:37] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÆæÃî[m
+[20:41:43] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¹ØÁË°É É¾µô[m
+[20:41:48] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ã»ÒâÒå[m
+[20:41:56] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¶øÇÒtntÂäµ½ÁË»ùÑÒÉÏÃæ[m
+[20:42:04] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> àÅ*[m
+[20:42:25] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µ«ÊÇ»ù±¾ÉÏÂäÁË¾ÍÊÇÃë±¬[m
+[20:42:33] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ËùÒÔÎÊÌâ²»´ó[m
+[20:42:39] [Server thread/INFO]: _YuanXiao_ >> ÎÒÄÜ´ò¸öÖíÈËĞŞÒ»ÏÂ¸å×ÓÂğawa[m
+[20:42:39] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»ÊÇÃë±¬°É[m
+[20:43:07] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> tnt±¬Õ¨5Ãë[m
+[20:43:11] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ±¬Õ¨ĞèÒª1Ãë[m
+[20:43:13] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¡ÅŞ[m
+[20:43:19] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ãë±¬Ö¸1ÃëÄÚ[m
+[20:43:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¡£¡£¡£[m
+[20:43:37] [User Authenticator #22/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:43:37] [Server thread/INFO]: Bay_Max_[/127.0.0.1:51109] logged in with entity id 29449 at ([world]2685.5156760715076, 63.5, -393.69999998807907)
+[20:43:59] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÔÙ½ôÒ»µã 0.5ÃëÄÚ[m
+[20:44:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²î²»¶àÒ»Ãë[m
+[20:44:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»µ½Ò»Ãë[m
+[20:44:21] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ò²»¹ĞĞÁË[m
+[20:44:27] [Server thread/INFO]: Bay_Max_ lost connection: Timed out
+[20:44:27] [Server thread/INFO]: Bay_Max_ left the game
+[20:44:30] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÖÁÉÙµÚÒ»´Î·ÉµÄÊ±ºò[m
+[20:44:37] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> tntÊÇ×¼È·ÂäÔÚÅÅË®»úÇ°ÃæµÄ[m
+[20:44:52] [User Authenticator #23/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:44:52] [Server thread/INFO]: Bay_Max_[/127.0.0.1:51125] logged in with entity id 31180 at ([world]2679.6143937162988, 63.8447679954834, -392.35931559319323)
+[20:45:16] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸Ğ¾õmajang»¹ÊÇ·şÎñÆ÷ÕâÒ»´Î[m
+[20:45:18] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸üĞÂ[m
+[20:45:42] [Server thread/INFO]: _YuanXiao_ >> Õ¨ÌÅÄØ[m
+[20:45:42] [Server thread/INFO]: Bay_Max_ lost connection: Timed out
+[20:45:42] [Server thread/INFO]: Bay_Max_ left the game
+[20:45:49] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ã»Õ¨£¨£¨£¨£¨£¨£¨£¨£¨[m
+[20:45:52] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ¼¼ÊõºÃ£¨doge[m
+[20:46:02] [Server thread/INFO]: _YuanXiao_ >> nb[m
+[20:46:05] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÕæµÄ¡°ºÃ¡±[m
+[20:46:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»À¢ÊÇÄã[m
+[20:46:22] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ghost¸ÉÉ¶É¶²»ĞĞ[m
+[20:46:25] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ñû¹¦µÚÒ»Ãû[m
+[20:46:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@42bf7020[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:51146) lost connection: Disconnected
+[20:46:39] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÔªÏü[m
+[20:46:46] [Server thread/INFO]: _YuanXiao_ >> ???[m
+[20:46:52] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º©º©ghost(²¹ÉÏÏÂÎçÄÇÒ»´Î[m
+[20:46:53] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> À´¿ÕÖÃÓòÕâ±ßawa[m
+[20:47:01] [User Authenticator #24/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:47:01] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> º©º©É­É­[m
+[20:47:01] [Server thread/INFO]: Bay_Max_[/127.0.0.1:51156] logged in with entity id 31934 at ([world]2677.300000011921, 65.0, -392.45868854681095)
+[20:47:05] [Server thread/INFO]: _YuanXiao_ >> ÎÒÒ»Ö±¶¼ÔÙ[m
+[20:47:15] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> À´µØÍÌ²âÊÔ³¡µØ[m
+[20:47:22] [Server thread/WARN]: _YuanXiao_ moved too quickly! -6.901692489924159,-2.7221444706313918,21.259881361291605
+[20:47:24] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÓÒ±ßµÄ[m
+[20:47:35] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> [x:116, y:4, z:851][m
+[20:47:37] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÕâÀï[m
+[20:47:51] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °ÑÕâ¸ö²ğÁË°É[m
+[20:47:51] [Server thread/INFO]: Bay_Max_ lost connection: Timed out
+[20:47:51] [Server thread/INFO]: Bay_Max_ left the game
+[20:48:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºÃÎŞÁÄ[m
+[20:48:23] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> È¥Íæ»á¶ùÍøÒ×°æµÄ[m
+[20:48:35] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÍøÒ×ÓĞÉ¶ºÃÍæµÄ[m
+[20:48:43] [Server thread/INFO]: _YuanXiao_ >> Î÷ÄÚ[m
+[20:48:50] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÍøÒ×É³µñ¶à[m
+[20:48:56] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[20:48:56] [Server thread/INFO]: sen_lv_ling_ left the game
+[20:49:04] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> É­ÓïËµÍøÒ×É³µñ¶à[m
+[20:49:07] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Êâ²»Öª[m
+[20:49:16] [Server thread/INFO]: _YuanXiao_ >> Äã¾ÍÊÇÉ³µñ[m
+[20:49:20] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ëû×Ô¼ºÒ²ÊÇÉ³µñ£¨doge[m
+[20:52:22] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> À´ÔªÏü °ïÃ¦°É»úÆ÷²ğÁË°É[m
+[20:52:56] [Server thread/INFO]: _YuanXiao_ >> ÎÒÈ¥ĞŞ×°±¸£¬¸ãÑÌ»¨[m
+[20:53:16] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ·´ÕıµÈ»á²ğÁË¾ÍĞĞ[m
+[20:53:51] [Server thread/INFO]: [0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¿ì¿ªÑ§ÁË ¸Ï×÷ÒµÈ¥ÁË[m
+[20:53:53] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[20:53:53] [Server thread/INFO]: Ghost_king_ left the game
+[20:53:57] [Server thread/INFO]: _YuanXiao_ >> ???[m
+[20:55:09] [Server thread/INFO]: _YuanXiao_ issued server command: /co i
+[20:56:13] [Server thread/INFO]: _YuanXiao_ issued server command: /co i
+[21:03:45] [Server thread/INFO]: [Server] az?
+[21:03:50] [Server thread/INFO]: _YuanXiao_ >> az[m
+[21:04:02] [Server thread/INFO]: [Server] Õ¦Ã»ÈËÁË
+[21:07:20] [Server thread/INFO]: [Server] www
+[21:13:05] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[21:13:05] [Server thread/INFO]: _YuanXiao_ left the game
+[21:16:51] [User Authenticator #25/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[21:16:52] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:51421] logged in with entity id 36730 at ([world]1127.6831733055312, 116.875, 2272.9288379342265)
+[21:18:29] [Server thread/WARN]: _YuanXiao_ moved too quickly! -0.009890003039799922,50.182756637055974,0.0
+[21:22:24] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[21:22:24] [Server thread/INFO]: _YuanXiao_ left the game
+[21:24:25] [User Authenticator #26/INFO]: Disconnecting com.mojang.authlib.GameProfile@5670d534[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51487): Authentication servers are down. Please try again later, sorry!
+[21:24:25] [User Authenticator #26/ERROR]: Couldn't verify username because servers are unavailable
+[21:24:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@5670d534[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51487) lost connection: Authentication servers are down. Please try again later, sorry!
+[21:24:58] [User Authenticator #27/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[21:24:58] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:51494] logged in with entity id 37129 at ([world]1129.699999988079, 116.875, 2275.699999988079)
+[21:25:17] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[21:25:17] [Server thread/INFO]: _YuanXiao_ left the game
+[21:30:31] [User Authenticator #28/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[21:30:31] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:51540] logged in with entity id 37328 at ([world]1129.699999988079, 116.875, 2275.699999988079)
+[21:31:56] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[21:31:56] [Server thread/INFO]: _YuanXiao_ left the game
+[21:35:19] [User Authenticator #29/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[21:35:19] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:51591] logged in with entity id 37588 at ([world_nether]73.71601021754768, 10.613984421609137, 851.1970667503115)
+[21:35:49] [User Authenticator #30/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[21:35:49] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:51597] logged in with entity id 37662 at ([world]1125.6479654222771, 116.0, 2271.578307065958)
+[21:35:54] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[21:36:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Å®Î×Ëş....[m
+[21:37:07] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[21:37:07] [Server thread/INFO]: _YuanXiao_ left the game
+[21:37:54] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[21:37:54] [Server thread/INFO]: sen_lv_ling_ left the game
+[21:39:43] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[21:52:16] [User Authenticator #31/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[21:52:16] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:51741] logged in with entity id 37923 at ([world]1125.6479654222771, 116.0, 2271.578307065958)
+[21:52:41] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[21:52:41] [Server thread/INFO]: _YuanXiao_ left the game
+[21:55:33] [User Authenticator #32/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[21:55:33] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:51765] logged in with entity id 38133 at ([world]1125.6479654222771, 116.0, 2271.578307065958)
+[21:56:58] [Server thread/INFO]: [Server] Ã»ÎÊÌâ
+[21:57:12] [Server thread/INFO]: [Server] ÄãµçÄÔµÄÊÂ
+[21:58:19] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[21:58:19] [Server thread/INFO]: _YuanXiao_ left the game
+[22:01:39] [User Authenticator #33/INFO]: Disconnecting com.mojang.authlib.GameProfile@c5cecb6[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51822): Authentication servers are down. Please try again later, sorry!
+[22:01:39] [User Authenticator #33/ERROR]: Couldn't verify username because servers are unavailable
+[22:01:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@c5cecb6[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51822) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:02:06] [User Authenticator #34/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[22:02:06] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:51829] logged in with entity id 38445 at ([world_nether]137.81021759963207, 115.0, 290.9277173851001)
+[22:02:30] [Server thread/WARN]: _YuanXiao_ moved too quickly! -0.6413800075124811,0.0,-53.73830490206399
+[22:02:39] [Server thread/WARN]: _YuanXiao_ moved too quickly! 1.2961027210487828,1.0708437376029423,-21.209129150937795
+[22:05:03] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[22:05:03] [Server thread/INFO]: _YuanXiao_ left the game
+[22:09:36] [User Authenticator #35/INFO]: Disconnecting com.mojang.authlib.GameProfile@74f67749[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51890): Authentication servers are down. Please try again later, sorry!
+[22:09:36] [User Authenticator #35/ERROR]: Couldn't verify username because servers are unavailable
+[22:09:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@74f67749[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51890) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:09:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@302cca7[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51895) lost connection: Disconnected
+[22:10:08] [User Authenticator #36/INFO]: Disconnecting com.mojang.authlib.GameProfile@302cca7[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51895): Authentication servers are down. Please try again later, sorry!
+[22:10:08] [User Authenticator #36/ERROR]: Couldn't verify username because servers are unavailable
+[22:10:24] [User Authenticator #37/INFO]: Disconnecting com.mojang.authlib.GameProfile@7871e2b6[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51901): Authentication servers are down. Please try again later, sorry!
+[22:10:24] [User Authenticator #37/ERROR]: Couldn't verify username because servers are unavailable
+[22:10:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@7871e2b6[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51901) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:10:53] [User Authenticator #38/INFO]: Disconnecting com.mojang.authlib.GameProfile@7aabdaad[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51908): Authentication servers are down. Please try again later, sorry!
+[22:10:53] [User Authenticator #38/ERROR]: Couldn't verify username because servers are unavailable
+[22:10:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@7aabdaad[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51908) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:11:18] [User Authenticator #39/INFO]: Disconnecting com.mojang.authlib.GameProfile@29df67a1[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51915): Authentication servers are down. Please try again later, sorry!
+[22:11:18] [User Authenticator #39/ERROR]: Couldn't verify username because servers are unavailable
+[22:11:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@29df67a1[id=<null>,name=_YuanXiao_,properties={},legacy=false] (/127.0.0.1:51915) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:12:29] [User Authenticator #40/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[22:12:29] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:51935] logged in with entity id 39217 at ([world]2779.5429172357076, 63.0, -403.26263488661215)
+[22:25:23] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[22:25:23] [Server thread/INFO]: _YuanXiao_ left the game
+[22:39:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[23:24:07] [User Authenticator #41/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[23:24:07] [Server thread/INFO]: adhesive_tape[/127.0.0.1:52514] logged in with entity id 40178 at ([world]-3327.699999988079, 57.0, -767.3000000119209)
+[23:39:41] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m

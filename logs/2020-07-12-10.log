@@ -1,0 +1,1053 @@
+[15:38:46] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[15:38:46] [Server thread/INFO]: Loading properties
+[15:38:47] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[15:38:47] [Server thread/INFO]: Debug logging is disabled
+[15:38:47] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[15:38:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:38:47] [Server thread/INFO]: Default game type: SURVIVAL
+[15:38:47] [Server thread/INFO]: Generating keypair
+[15:38:47] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[15:38:47] [Server thread/INFO]: Using default channel type
+[15:38:47] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[15:38:49] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[15:38:49] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[15:38:49] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[15:38:49] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[15:38:49] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[15:38:49] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[15:38:49] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.2.2
+[15:38:49] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[15:38:49] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[15:38:49] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[15:38:49] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[15:38:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:38:49] [Server thread/INFO]: Preparing level "world"
+[15:38:49] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[15:38:56] [Server thread/INFO]: Loaded 6 recipes
+[15:38:56] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:38:56] [Server thread/INFO]: View Distance: 8
+[15:38:56] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[15:38:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:38:56] [Server thread/INFO]: Item Despawn Rate: 4000
+[15:38:56] [Server thread/INFO]: Item Merge Radius: 8.0
+[15:38:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:38:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:38:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:38:56] [Server thread/INFO]: Mob Spawn Range: 4
+[15:38:56] [Server thread/INFO]: Experience Merge Radius: 8.0
+[15:38:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:38:56] [Server thread/INFO]: Max TNT Explosions: 100
+[15:38:56] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[15:38:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[15:38:56] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[15:38:56] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:38:56] [Server thread/INFO]: View Distance: 8
+[15:38:56] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[15:38:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:38:56] [Server thread/INFO]: Item Despawn Rate: 4000
+[15:38:56] [Server thread/INFO]: Item Merge Radius: 8.0
+[15:38:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:38:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:38:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:38:56] [Server thread/INFO]: Mob Spawn Range: 4
+[15:38:56] [Server thread/INFO]: Experience Merge Radius: 8.0
+[15:38:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:38:56] [Server thread/INFO]: Max TNT Explosions: 100
+[15:38:56] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[15:38:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[15:38:56] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[15:38:56] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:38:56] [Server thread/INFO]: View Distance: 8
+[15:38:56] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[15:38:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:38:56] [Server thread/INFO]: Item Despawn Rate: 4000
+[15:38:56] [Server thread/INFO]: Item Merge Radius: 8.0
+[15:38:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:38:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:38:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:38:56] [Server thread/INFO]: Mob Spawn Range: 4
+[15:38:56] [Server thread/INFO]: Experience Merge Radius: 8.0
+[15:38:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:38:56] [Server thread/INFO]: Max TNT Explosions: 100
+[15:38:56] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[15:38:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:38:56] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[15:38:56] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[15:38:56] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[15:38:56] [Server thread/INFO]: Preparing spawn area: 0%
+[15:38:56] [Server thread/INFO]: Preparing spawn area: 7%
+[15:38:57] [Server thread/INFO]: Preparing spawn area: 100%
+[15:38:57] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[15:38:57] [Server thread/INFO]: Time elapsed: 1330 ms
+[15:38:57] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[15:38:57] [Server thread/INFO]: Preparing spawn area: 0%
+[15:38:58] [Server thread/INFO]: Preparing spawn area: 100%
+[15:38:58] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[15:38:58] [Server thread/INFO]: Time elapsed: 530 ms
+[15:38:58] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[15:38:58] [Server thread/INFO]: Preparing spawn area: 0%
+[15:38:58] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[15:38:58] [Server thread/INFO]: Time elapsed: 344 ms
+[15:38:58] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[15:38:58] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[15:38:58] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[15:38:58] [Server thread/INFO]: --------------------
+[15:38:58] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[15:38:58] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[15:38:58] [Server thread/INFO]: --------------------
+[15:38:58] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[15:38:58] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[15:38:58] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[15:38:58] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[15:38:58] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[15:38:58] [Server thread/INFO]:  
+[15:38:58] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[15:38:58] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[15:38:58] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[15:38:58] [Server thread/INFO]:  
+[15:38:58] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[15:38:58] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[15:38:58] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] checkpointClose start
+[15:38:58] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] checkpointClose synched
+[15:38:59] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] checkpointClose script done
+[15:38:59] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] checkpointClose end
+[15:38:59] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[15:38:59] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[15:39:09] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[15:39:09] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.2.2
+[15:39:09] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[15:39:09] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[15:39:09] [Server thread/INFO]: [SAML] Loading config.yml...
+[15:39:09] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[15:39:09] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[15:39:09] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[15:39:09] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[15:39:09] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[15:39:09] [Server thread/INFO]: [SAML] Loading messages.yml...
+[15:39:09] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[15:39:09] [Server thread/INFO]: [SAML] Successfully enabled.
+[15:39:09] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[15:39:09] [Server thread/INFO]: [GM+] Checking Your version...
+[15:39:09] [Server thread/INFO]: ===============================
+[15:39:09] [Server thread/INFO]: 
+[15:39:09] [Server thread/INFO]:  GroupManager+ is now enable!
+[15:39:09] [Server thread/INFO]:  
+[15:39:09] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[15:39:09] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[15:39:09] [Server thread/INFO]:  Current version: v3.3
+[15:39:09] [Server thread/INFO]:  
+[15:39:09] [Server thread/INFO]: ===============================
+[15:39:09] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[15:39:09] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[15:39:09] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[15:39:09] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[15:39:09] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[15:39:09] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[15:39:09] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[15:39:09] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[15:39:27] [Server thread/INFO]: [TAB] Version 2.8.2 is out! Your version: 2.7.2
+[15:39:27] [Server thread/INFO]: [TAB] Get the update at https://www.spigotmc.org/resources/57806/
+[15:39:27] [Server thread/INFO]: [TAB] There was 1 startup warning.
+[15:39:27] [Server thread/INFO]: [TAB] Enabled in 17652ms
+[15:39:27] [Server thread/INFO]: Done (37.803s)! For help, type "help"
+[15:39:27] [Server thread/INFO]: Timings Reset
+[15:39:27] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[15:39:27] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[15:39:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@39068e2b[id=<null>,name=GinGer_Snow,properties={},legacy=false] (/127.0.0.1:65034) lost connection: Disconnected
+[15:39:29] [Thread-18/INFO]: --------------------
+[15:39:29] [Thread-18/INFO]: [CoreProtect] Version 19.0 is now available.
+[15:39:29] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[15:39:29] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[15:39:29] [Thread-18/INFO]: --------------------
+[15:39:35] [User Authenticator #2/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[15:39:35] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[15:39:35] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:65055] logged in with entity id 2003 at ([world_the_end]-6.979813629748854, 0.5, 307.21365779066343)
+[15:39:35] [User Authenticator #1/INFO]: UUID of player DF_yechu is 53cfc767-1c81-46fa-8b77-d5f7f10bb804
+[15:39:35] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@514f879e[id=53cfc767-1c81-46fa-8b77-d5f7f10bb804,name=DF_yechu,properties={textures=[com.mojang.authlib.properties.Property@29c79835]},legacy=false] (/127.0.0.1:65040): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:39:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@514f879e[id=53cfc767-1c81-46fa-8b77-d5f7f10bb804,name=DF_yechu,properties={textures=[com.mojang.authlib.properties.Property@29c79835]},legacy=false] (/127.0.0.1:65040) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:39:37] [User Authenticator #1/INFO]: UUID of player YiFanFengShun is 6b491d23-aa75-4830-8683-36a79ae50c53
+[15:39:37] [Server thread/INFO]: YiFanFengShun[/127.0.0.1:65057] logged in with entity id 2043 at ([world]2691.089318341274, 134.0, -392.8261065882158)
+[15:39:38] [Craft Scheduler Thread - 5/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[15:39:38] [Craft Scheduler Thread - 5/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[15:39:46] [User Authenticator #1/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[15:39:46] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4e421d72[id=73cb5d0a-9578-42d7-8096-e35458abd65f,name=Crushxl,properties={textures=[com.mojang.authlib.properties.Property@26b0c8fc]},legacy=false] (/127.0.0.1:65061): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:39:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@4e421d72[id=73cb5d0a-9578-42d7-8096-e35458abd65f,name=Crushxl,properties={textures=[com.mojang.authlib.properties.Property@26b0c8fc]},legacy=false] (/127.0.0.1:65061) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:39:50] [Async Chat Thread - #0/INFO]: <_YuanXiao_> 刚刚服务器炸了？
+[15:39:58] [User Authenticator #1/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[15:39:58] [Server thread/INFO]: Mr_director[/127.0.0.1:65066] logged in with entity id 2994 at ([world]1930.0007384800372, 6.0, 266.5839342967129)
+[15:41:42] [Server thread/INFO]: YiFanFengShun lost connection: Disconnected
+[15:41:42] [Server thread/INFO]: YiFanFengShun left the game
+[15:41:45] [User Authenticator #3/INFO]: UUID of player YiFanFengShun is 6b491d23-aa75-4830-8683-36a79ae50c53
+[15:41:45] [Server thread/INFO]: YiFanFengShun[/127.0.0.1:65083] logged in with entity id 4646 at ([world]2690.636317243628, 134.0, -392.5293638400465)
+[15:41:49] [User Authenticator #3/INFO]: UUID of player DF_yechu is 53cfc767-1c81-46fa-8b77-d5f7f10bb804
+[15:41:49] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2eddc5d0[id=53cfc767-1c81-46fa-8b77-d5f7f10bb804,name=DF_yechu,properties={textures=[com.mojang.authlib.properties.Property@f949425]},legacy=false] (/127.0.0.1:65085): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:41:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@2eddc5d0[id=53cfc767-1c81-46fa-8b77-d5f7f10bb804,name=DF_yechu,properties={textures=[com.mojang.authlib.properties.Property@f949425]},legacy=false] (/127.0.0.1:65085) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:42:15] [Server thread/INFO]: YiFanFengShun lost connection: Timed out
+[15:42:15] [Server thread/INFO]: YiFanFengShun left the game
+[15:42:47] [User Authenticator #3/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[15:42:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@58d898f2[id=ba422888-c323-43f5-9002-eda655f75e57,name=Jichen233,properties={textures=[com.mojang.authlib.properties.Property@7b4dae39]},legacy=false] (/127.0.0.1:65092): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:42:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@58d898f2[id=ba422888-c323-43f5-9002-eda655f75e57,name=Jichen233,properties={textures=[com.mojang.authlib.properties.Property@7b4dae39]},legacy=false] (/127.0.0.1:65092) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:43:02] [User Authenticator #3/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[15:43:02] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@31a2a1f7[id=ba422888-c323-43f5-9002-eda655f75e57,name=Jichen233,properties={textures=[com.mojang.authlib.properties.Property@41701f16]},legacy=false] (/127.0.0.1:65096): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:43:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@31a2a1f7[id=ba422888-c323-43f5-9002-eda655f75e57,name=Jichen233,properties={textures=[com.mojang.authlib.properties.Property@41701f16]},legacy=false] (/127.0.0.1:65096) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:43:49] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[15:43:49] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[15:43:51] [Server thread/INFO]: 未知指令.键入"/help"查看帮助
+[15:44:03] [Server thread/INFO]: Added DF_yechu to the whitelist
+[15:44:07] [User Authenticator #4/INFO]: UUID of player YiFanFengShun is 6b491d23-aa75-4830-8683-36a79ae50c53
+[15:44:07] [Server thread/INFO]: YiFanFengShun[/127.0.0.1:65107] logged in with entity id 7006 at ([world]2690.636317243628, 134.0, -392.5293638400465)
+[15:44:19] [User Authenticator #4/INFO]: UUID of player DF_yechu is 53cfc767-1c81-46fa-8b77-d5f7f10bb804
+[15:44:19] [Server thread/INFO]: DF_yechu[/127.0.0.1:65111] logged in with entity id 7860 at ([world]5153.204236905732, 64.0, 204.7291367866612)
+[15:44:35] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_15_R1.ChunkMapDistance.b(ChunkMapDistance.java:230) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.movePlayer(PlayerChunkMap.java:1363) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.movePlayer(ChunkProviderServer.java:811) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1145) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying.a(SourceFile:122) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:56) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1038) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1031) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1102) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[15:45:02] [User Authenticator #4/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[15:45:02] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:65117] logged in with entity id 9300 at ([world]2479.0474501678054, 6.0, 2481.0091887728395)
+[15:45:53] [Server thread/INFO]: DF_yechu issued server command: /co i
+[15:45:54] [Server thread/INFO]: DF_yechu issued server command: /co i
+[15:46:39] [Server thread/INFO]: _YuanXiao_ has made the advancement [Enchanter]
+[15:47:16] [Server thread/INFO]: 未知指令.键入"/help"查看帮助
+[15:47:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[15:47:34] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[15:47:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:47:34] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[15:47:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:47:34] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[15:47:34] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[15:47:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.HttpAuthenticationService.performPostRequest(HttpAuthenticationService.java:77)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:66)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:55)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.a(UserCache.java:88)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.getProfile(UserCache.java:157)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ArgumentProfile.a(SourceFile:54)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ArgumentProfile$$Lambda$3569/1546874889.getNames(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ArgumentProfile.a(SourceFile:30)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.CommandWhitelist.c(SourceFile:53)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.CommandWhitelist$$Lambda$1887/1582770902.run(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:262)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:176)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.CommandDispatcher.a(CommandDispatcher.java:179)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.command.VanillaCommandWrapper.execute(VanillaCommandWrapper.java:45)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[15:47:34] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[15:47:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:47:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[15:47:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:47:39] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[15:47:39] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[15:47:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:47:39] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[15:47:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:47:39] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[15:47:39] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[15:47:39] [Paper Watchdog Thread/ERROR]: 	Stack:
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.HttpAuthenticationService.performPostRequest(HttpAuthenticationService.java:77)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:66)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:55)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.a(UserCache.java:88)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.getProfile(UserCache.java:157)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ArgumentProfile.a(SourceFile:54)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ArgumentProfile$$Lambda$3569/1546874889.getNames(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ArgumentProfile.a(SourceFile:30)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.CommandWhitelist.c(SourceFile:53)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.CommandWhitelist$$Lambda$1887/1582770902.run(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:262)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:176)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.CommandDispatcher.a(CommandDispatcher.java:179)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.command.VanillaCommandWrapper.execute(VanillaCommandWrapper.java:45)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[15:47:39] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[15:47:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:47:39] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[15:47:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:47:42] [Server thread/INFO]: Added Jichen233 to the whitelist
+[15:47:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17682ms or 353 ticks behind
+[15:47:43] [Server thread/INFO]: Player is already whitelisted
+[15:47:45] [Server thread/INFO]: [SAML] TPS low (18.26). Will attempt to freeze some mobs...
+[15:47:45] [Server thread/INFO]: [SAML] 750 mobs affected (750 frozen, 0 nerfed) in 97ms. Total of 770/1488 affected (750 frozen, 250 nerfed).
+[15:47:54] [User Authenticator #5/INFO]: Disconnecting com.mojang.authlib.GameProfile@20015d34[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:65147): Authentication servers are down. Please try again later, sorry!
+[15:47:54] [User Authenticator #5/ERROR]: Couldn't verify username because servers are unavailable
+[15:47:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@20015d34[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:65147) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:48:00] [Async Chat Thread - #1/INFO]: <GinGer_Snow> tps有点低啊
+[15:48:02] [User Authenticator #5/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[15:48:02] [Server thread/INFO]: Jichen233[/127.0.0.1:65158] logged in with entity id 11876 at ([world]2633.3216999873607, 73.0, 680.3381321622363)
+[15:48:10] [Async Chat Thread - #1/INFO]: <Mr_director> 这还低？
+[15:48:17] [Async Chat Thread - #1/INFO]: <GinGer_Snow> 15了
+[15:49:09] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[15:50:36] [Async Chat Thread - #2/INFO]: <YiFanFengShun> 我来碰碰运气awa
+[15:50:42] [Async Chat Thread - #2/INFO]: <_YuanXiao_> 我也想
+[15:51:08] [Server thread/INFO]: DF_yechu was impaled by Drowned
+[15:51:13] [Async Chat Thread - #2/INFO]: <GinGer_Snow> 啊这
+[15:51:17] [User Authenticator #6/INFO]: UUID of player Small_CaiQAQ is 5993cb85-5924-4e1d-b969-8e62a7b337d0
+[15:51:17] [Server thread/INFO]: Small_CaiQAQ[/127.0.0.1:65289] logged in with entity id 17981 at ([world]2633.300000011921, 72.0, 680.3000000119209)
+[15:51:18] [User Authenticator #6/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[15:51:19] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5b971623[id=73cb5d0a-9578-42d7-8096-e35458abd65f,name=Crushxl,properties={textures=[com.mojang.authlib.properties.Property@41f5b883]},legacy=false] (/127.0.0.1:65273): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:51:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b971623[id=73cb5d0a-9578-42d7-8096-e35458abd65f,name=Crushxl,properties={textures=[com.mojang.authlib.properties.Property@41f5b883]},legacy=false] (/127.0.0.1:65273) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:51:26] [Async Chat Thread - #2/INFO]: <GinGer_Snow> ohhhhhh
+[15:51:31] [Server thread/WARN]: DF_yechu was kicked for floating too long!
+[15:51:31] [Server thread/INFO]: DF_yechu lost connection: Flying is not enabled on this server
+[15:51:31] [Server thread/INFO]: DF_yechu left the game
+[15:51:31] [Server thread/WARN]: handleDisconnection() called twice
+[15:51:37] [Async Chat Thread - #2/INFO]: <YiFanFengShun> 三叉戟!!!快去打
+[15:51:37] [User Authenticator #6/INFO]: UUID of player DF_yechu is 53cfc767-1c81-46fa-8b77-d5f7f10bb804
+[15:51:37] [Server thread/INFO]: DF_yechu[/127.0.0.1:65293] logged in with entity id 19292 at ([world]5218.77103761394, 110.26852403119736, 223.98421988907384)
+[15:51:49] [User Authenticator #6/INFO]: UUID of player Raphael0461 is 94bc8e5c-326c-46b8-a68f-aac35f7075f7
+[15:51:49] [Server thread/INFO]: Raphael0461[/127.0.0.1:65296] logged in with entity id 20224 at ([world]109.31288494599787, 69.0, 215.8714827637203)
+[15:52:10] [Server thread/INFO]: DF_yechu lost connection: Timed out
+[15:52:10] [Server thread/INFO]: DF_yechu left the game
+[15:52:11] [Async Chat Thread - #2/INFO]: <Mr_director> 睡觉睡觉
+[15:52:12] [User Authenticator #6/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:52:13] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@d4c7135[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@1b60955b]},legacy=false] (/127.0.0.1:65310): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:52:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@d4c7135[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@1b60955b]},legacy=false] (/127.0.0.1:65310) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:52:23] [Async Chat Thread - #2/INFO]: <GinGer_Snow> 啊这
+[15:52:28] [User Authenticator #6/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:52:28] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@56bd1d46[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@5132bf58]},legacy=false] (/127.0.0.1:65315): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:52:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@56bd1d46[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@5132bf58]},legacy=false] (/127.0.0.1:65315) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:52:29] [Server thread/INFO]: GinGer_Snow lost connection: Disconnected
+[15:52:29] [Server thread/INFO]: GinGer_Snow left the game
+[15:52:44] [Server thread/INFO]: Jichen233 issued server command: /co i
+[15:52:56] [User Authenticator #6/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:52:56] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@499a8ea2[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@2f50c1be]},legacy=false] (/127.0.0.1:65326): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:52:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@499a8ea2[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@2f50c1be]},legacy=false] (/127.0.0.1:65326) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:52:59] [Server thread/INFO]: Jichen233 issued server command: /co i
+[15:53:01] [Async Chat Thread - #2/INFO]: <_YuanXiao_> 点错了
+[15:53:20] [Async Chat Thread - #2/INFO]: <Raphael0461> 小菜
+[15:53:26] [Async Chat Thread - #2/INFO]: <Small_CaiQAQ> 嗯
+[15:53:34] [Async Chat Thread - #2/INFO]: <Raphael0461> 你干啥呢
+[15:53:34] [User Authenticator #6/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:53:34] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@c9eba6d[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@36c15bcf]},legacy=false] (/127.0.0.1:65345): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:53:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@c9eba6d[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@36c15bcf]},legacy=false] (/127.0.0.1:65345) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:53:41] [User Authenticator #6/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:53:41] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2d52ec42[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@3eb30e75]},legacy=false] (/127.0.0.1:65350): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:53:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d52ec42[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@3eb30e75]},legacy=false] (/127.0.0.1:65350) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:53:45] [Async Chat Thread - #2/INFO]: <Small_CaiQAQ> 想去挖点青金石
+[15:53:50] [Async Chat Thread - #2/INFO]: <Small_CaiQAQ> 把我等级用了
+[15:53:52] [User Authenticator #6/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:53:52] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6638a86c[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@650ef71a]},legacy=false] (/127.0.0.1:65353): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:53:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@6638a86c[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@650ef71a]},legacy=false] (/127.0.0.1:65353) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:53:59] [User Authenticator #6/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:53:59] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@31e94872[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@677fc964]},legacy=false] (/127.0.0.1:65358): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:53:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@31e94872[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@677fc964]},legacy=false] (/127.0.0.1:65358) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:54:06] [User Authenticator #6/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:54:07] [Async Chat Thread - #2/INFO]: <Raphael0461> 一起吗
+[15:54:07] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2495898e[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@154063d]},legacy=false] (/127.0.0.1:65361): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:54:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@2495898e[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@154063d]},legacy=false] (/127.0.0.1:65361) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:54:17] [User Authenticator #6/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:54:17] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@589259d7[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@41b1ef3c]},legacy=false] (/127.0.0.1:65364): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:54:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@589259d7[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@41b1ef3c]},legacy=false] (/127.0.0.1:65364) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:54:30] [User Authenticator #6/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[15:54:30] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:65368] logged in with entity id 25946 at ([world]2401.3003768532103, 22.0, 2554.786015742819)
+[15:54:38] [Async Chat Thread - #2/INFO]: <Small_CaiQAQ> 我在地狱门那
+[15:54:49] [User Authenticator #6/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:54:50] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7abe6b35[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@5fe8efbd]},legacy=false] (/127.0.0.1:65373): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:54:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@7abe6b35[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@5fe8efbd]},legacy=false] (/127.0.0.1:65373) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:54:53] [User Authenticator #6/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:54:53] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@39d4fae1[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@294ba1cb]},legacy=false] (/127.0.0.1:65376): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:54:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@39d4fae1[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@294ba1cb]},legacy=false] (/127.0.0.1:65376) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:55:16] [User Authenticator #6/INFO]: UUID of player DF_yechu is 53cfc767-1c81-46fa-8b77-d5f7f10bb804
+[15:55:16] [Server thread/INFO]: DF_yechu[/127.0.0.1:65388] logged in with entity id 27107 at ([world]5218.77103761394, 106.34852374880364, 223.98421988907384)
+[15:55:16] [User Authenticator #7/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:55:17] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@45db72d[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@17be59e3]},legacy=false] (/127.0.0.1:65385): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:55:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@45db72d[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@17be59e3]},legacy=false] (/127.0.0.1:65385) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:55:21] [User Authenticator #7/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:55:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@650b1498[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@171bd6c8]},legacy=false] (/127.0.0.1:65393): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:55:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@650b1498[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@171bd6c8]},legacy=false] (/127.0.0.1:65393) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:55:42] [Server thread/INFO]: DF_yechu was blown up by Creeper
+[15:55:53] [User Authenticator #7/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:55:53] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4313ca41[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@61659fcc]},legacy=false] (/127.0.0.1:65398): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:55:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@4313ca41[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@61659fcc]},legacy=false] (/127.0.0.1:65398) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:55:58] [User Authenticator #7/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:55:58] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@466c5e9e[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@598841e6]},legacy=false] (/127.0.0.1:65403): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:55:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@466c5e9e[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@598841e6]},legacy=false] (/127.0.0.1:65403) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:56:05] [Async Chat Thread - #3/INFO]: <YiFanFengShun> r.i.p
+[15:57:00] [Server thread/WARN]: DF_yechu moved too quickly! 1.7086401616079456,-10.50829186453663,-0.9073948433902785
+[15:57:04] [Server thread/WARN]: DF_yechu moved too quickly! 7.788085411972133,8.0,0.9007389160465209
+[15:57:07] [User Authenticator #8/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:57:07] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2908674a[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@32150a00]},legacy=false] (/127.0.0.1:65411): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:57:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@2908674a[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@32150a00]},legacy=false] (/127.0.0.1:65411) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:57:09] [Server thread/WARN]: DF_yechu was kicked for floating too long!
+[15:57:09] [Server thread/INFO]: DF_yechu lost connection: Flying is not enabled on this server
+[15:57:09] [Server thread/INFO]: DF_yechu left the game
+[15:57:09] [Server thread/WARN]: handleDisconnection() called twice
+[15:57:28] [Server thread/INFO]: Small_CaiQAQ has made the advancement [Stone Age]
+[15:57:55] [User Authenticator #8/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:57:55] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5b07c75f[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@2b0c81f]},legacy=false] (/127.0.0.1:65420): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:57:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b07c75f[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@2b0c81f]},legacy=false] (/127.0.0.1:65420) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:58:03] [User Authenticator #8/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:58:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@43479836[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@2bfff74e]},legacy=false] (/127.0.0.1:65426): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:58:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@43479836[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@2bfff74e]},legacy=false] (/127.0.0.1:65426) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:58:21] [User Authenticator #8/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:58:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3ad199d9[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@3a20c7c8]},legacy=false] (/127.0.0.1:65431): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:58:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@3ad199d9[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@3a20c7c8]},legacy=false] (/127.0.0.1:65431) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:58:25] [User Authenticator #8/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:58:25] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@b359b4b[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@9aa0698]},legacy=false] (/127.0.0.1:65437): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:58:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@b359b4b[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@9aa0698]},legacy=false] (/127.0.0.1:65437) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:58:44] [User Authenticator #8/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:58:44] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7575f50c[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@26d36d4]},legacy=false] (/127.0.0.1:65441): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:58:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@7575f50c[id=4c96318f-887a-42ea-a266-2e19af41d6cd,name=adhesive_tape,properties={textures=[com.mojang.authlib.properties.Property@26d36d4]},legacy=false] (/127.0.0.1:65441) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[15:58:49] [Async Chat Thread - #4/INFO]: <Mr_director> 2373 2475
+[15:59:02] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[15:59:02] [Server thread/INFO]: Mr_director left the game
+[15:59:09] [Server thread/INFO]: Added adhesive_tape to the whitelist
+[15:59:09] [Server thread/WARN]: Small_CaiQAQ moved wrongly!
+[15:59:09] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[15:59:22] [Server thread/INFO]: Added tianqixiaobaobao to the whitelist
+[16:00:08] [User Authenticator #9/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[16:00:08] [Server thread/INFO]: adhesive_tape[/127.0.0.1:65468] logged in with entity id 35728 at ([world]2781.2344904350193, 63.0, -394.23750001192093)
+[16:03:17] [Server thread/INFO]: _YuanXiao_ hit the ground too hard
+[16:03:20] [User Authenticator #10/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[16:03:20] [Server thread/INFO]: Mr_director[/127.0.0.1:65491] logged in with entity id 38999 at ([world]2373.504213742019, 8.0, 2475.90887844632)
+[16:03:44] [Async Chat Thread - #5/INFO]: <Mr_director> 这地方选的真好
+[16:03:47] [Async Chat Thread - #5/INFO]: <Mr_director> 要啥没啥
+[16:04:03] [Async Chat Thread - #5/INFO]: <Mr_director> 老安全了
+[16:04:04] [Async Chat Thread - #5/INFO]: <GinGer_Snow> 啊这
+[16:04:17] [Server thread/WARN]: YiFanFengShun moved wrongly!
+[16:04:19] [Async Chat Thread - #5/INFO]: <GinGer_Snow> 有龙佬（
+[16:05:23] [Server thread/INFO]: _YuanXiao_ hit the ground too hard
+[16:07:41] [Server thread/INFO]: [Server] 是的，有我(
+[16:07:46] [Async Chat Thread - #6/INFO]: <GinGer_Snow> 啊这
+[16:07:48] [Async Chat Thread - #6/INFO]: <_YuanXiao_> woc
+[16:07:49] [Server thread/INFO]: [Server] 以后缺什么东西我会加的
+[16:07:59] [Async Chat Thread - #6/INFO]: <_YuanXiao_> 白天打雷
+[16:08:08] [Server thread/INFO]: _YuanXiao_ was shot by Skeleton
+[16:08:10] [Async Chat Thread - #6/INFO]: <GinGer_Snow> 缺效率V的精修钻石镐ww
+[16:08:15] [Server thread/INFO]: [Server] = =
+[16:08:17] [Async Chat Thread - #6/INFO]: <Mr_director> 加个海底遗迹在黑云区域
+[16:08:22] [Server thread/INFO]: [Server] emmmm
+[16:08:22] [Async Chat Thread - #6/INFO]: <Mr_director> 区块
+[16:08:25] [Async Chat Thread - #6/INFO]: <GinGer_Snow> 我都被迫开始用
+[16:08:36] [Async Chat Thread - #6/INFO]: <GinGer_Snow> tnt炸区块了（
+[16:08:38] [Server thread/INFO]: [Server] 等我正式放假去量产=
+[16:08:40] [Async Chat Thread - #6/INFO]: <Mr_director> 这样就能名正言顺的开发黑云了
+[16:08:41] [User Authenticator #11/INFO]: UUID of player DF_yechu is 53cfc767-1c81-46fa-8b77-d5f7f10bb804
+[16:08:41] [Server thread/INFO]: DF_yechu[/127.0.0.1:65533] logged in with entity id 46987 at ([world]5194.307130066804, 66.07762746979758, 132.4209864839337)
+[16:08:53] [Server thread/INFO]: YiFanFengShun issued server command: /
+[16:08:58] [Server thread/INFO]: YiFanFengShun issued server command: /
+[16:09:01] [Server thread/WARN]: DF_yechu was kicked for floating too long!
+[16:09:01] [Server thread/INFO]: DF_yechu lost connection: Flying is not enabled on this server
+[16:09:01] [Server thread/INFO]: DF_yechu left the game
+[16:09:01] [Server thread/WARN]: handleDisconnection() called twice
+[16:09:09] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[16:09:15] [User Authenticator #11/INFO]: UUID of player DF_yechu is 53cfc767-1c81-46fa-8b77-d5f7f10bb804
+[16:09:16] [Server thread/INFO]: DF_yechu[/127.0.0.1:49154] logged in with entity id 47828 at ([world]5194.307130066804, 62.157787879056215, 132.4209864839337)
+[16:09:28] [Async Chat Thread - #6/INFO]: <GinGer_Snow> 如果我带着不祥之兆从地狱门进到黑云劫掠会刷在哪（
+[16:09:40] [Async Chat Thread - #6/INFO]: <Mr_director> 刷你面前
+[16:09:45] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[16:09:54] [Async Chat Thread - #6/INFO]: <GinGer_Snow> 试试就知道了XD
+[16:11:11] [Server thread/INFO]: DF_yechu lost connection: Timed out
+[16:11:11] [Server thread/INFO]: DF_yechu left the game
+[16:11:34] [Async Chat Thread - #7/INFO]: <Mr_director> 我刚才怎么听到雷声了
+[16:11:37] [Async Chat Thread - #7/INFO]: <Mr_director> 我还以为雷雨了
+[16:11:56] [User Authenticator #12/INFO]: UUID of player DF_yechu is 53cfc767-1c81-46fa-8b77-d5f7f10bb804
+[16:11:56] [Server thread/INFO]: DF_yechu[/127.0.0.1:49185] logged in with entity id 51347 at ([world]5194.307130066804, 62.1327878775661, 132.4209864839337)
+[16:12:09] [Async Chat Thread - #7/INFO]: <GinGer_Snow> ?凋零怎么掉了一半血
+[16:12:26] [Async Chat Thread - #7/INFO]: <Mr_director> 你信不信
+[16:12:32] [Async Chat Thread - #7/INFO]: <Mr_director> 他刚才窒息了
+[16:12:32] [Server thread/INFO]: DF_yechu drowned
+[16:12:32] [Async Chat Thread - #7/INFO]: <GinGer_Snow> 我信
+[16:12:42] [Async Chat Thread - #7/INFO]: <Mr_director> 我看着他掉血的
+[16:13:03] [Async Chat Thread - #7/INFO]: <Mr_director> 当时太近了还吃了一个头
+[16:13:05] [Async Chat Thread - #7/INFO]: <Mr_director> 差点没了
+[16:15:14] [Server thread/INFO]: Small_CaiQAQ has made the advancement [Diamonds!]
+[16:16:19] [Server thread/INFO]: Jichen233 issued server command: /msg Small_CaiQAQ 你们在哪qwq
+[16:16:28] [Async Chat Thread - #8/INFO]: <Small_CaiQAQ> 我在你背后
+[16:16:35] [Async Chat Thread - #8/INFO]: <Jichen233> ...
+[16:18:28] [Server thread/INFO]: _YuanXiao_ hit the ground too hard whilst trying to escape Endermite
+[16:20:57] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[16:20:57] [Server thread/INFO]: _YuanXiao_ left the game
+[16:21:09] [User Authenticator #13/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[16:21:09] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:49255] logged in with entity id 64992 at ([world_nether]335.85218193722466, 115.0, -42.5)
+[16:21:29] [Async Chat Thread - #9/INFO]: <Small_CaiQAQ> 惊了一直跟着我干嘛
+[16:21:39] [Async Chat Thread - #9/INFO]: <Jichen233> qwq
+[16:21:43] [Server thread/WARN]: GinGer_Snow moved wrongly!
+[16:21:45] [Async Chat Thread - #9/INFO]: <Small_CaiQAQ> 我去找点书把等级用了
+[16:24:15] [Server thread/INFO]: GinGer_Snow has made the advancement [Voluntary Exile]
+[16:24:35] [Async Chat Thread - #10/INFO]: <GinGer_Snow> 嘿嘿
+[16:24:36] [Server thread/INFO]: Small_CaiQAQ has reached the goal [The Next Generation]
+[16:24:43] [Server thread/WARN]: YiFanFengShun moved wrongly!
+[16:24:46] [Async Chat Thread - #10/INFO]: <GinGer_Snow> 我要去祸害谁家村民呢（
+[16:24:51] [Server thread/WARN]: _YuanXiao_ moved too quickly! 0.06352423955771336,-0.41999998688697815,14.655145578031352
+[16:26:11] [Async Chat Thread - #11/INFO]: <GinGer_Snow> 啊这真刷了
+[16:27:32] [Async Chat Thread - #12/INFO]: <GinGer_Snow> 啊这怎么没了
+[16:28:03] [Server thread/INFO]: Small_CaiQAQ has made the advancement [Enchanter]
+[16:28:22] [User Authenticator #14/INFO]: Disconnecting com.mojang.authlib.GameProfile@3cbdeee1[id=<null>,name=fly_pigman02,properties={},legacy=false] (/127.0.0.1:49308): Authentication servers are down. Please try again later, sorry!
+[16:28:22] [User Authenticator #14/ERROR]: Couldn't verify username because servers are unavailable
+[16:28:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@3cbdeee1[id=<null>,name=fly_pigman02,properties={},legacy=false] (/127.0.0.1:49308) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:28:46] [User Authenticator #14/INFO]: UUID of player fly_pigman02 is 67b61d6e-8357-402c-bd08-5c7bd2bae3e2
+[16:28:46] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5cbfffe4[id=67b61d6e-8357-402c-bd08-5c7bd2bae3e2,name=fly_pigman02,properties={textures=[com.mojang.authlib.properties.Property@3e4d265e]},legacy=false] (/127.0.0.1:49313): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:28:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@5cbfffe4[id=67b61d6e-8357-402c-bd08-5c7bd2bae3e2,name=fly_pigman02,properties={textures=[com.mojang.authlib.properties.Property@3e4d265e]},legacy=false] (/127.0.0.1:49313) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:28:51] [User Authenticator #15/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:28:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1bffa581[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@6da7a1d7]},legacy=false] (/127.0.0.1:49319): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:28:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@1bffa581[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@6da7a1d7]},legacy=false] (/127.0.0.1:49319) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:28:51] [User Authenticator #14/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:28:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@62b74513[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@4336679c]},legacy=false] (/127.0.0.1:49317): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:28:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@62b74513[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@4336679c]},legacy=false] (/127.0.0.1:49317) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:29:07] [User Authenticator #14/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:29:07] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@771b0b88[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@7e6fd7a9]},legacy=false] (/127.0.0.1:49323): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:29:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@771b0b88[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@7e6fd7a9]},legacy=false] (/127.0.0.1:49323) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:29:12] [User Authenticator #14/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:29:13] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1740dc31[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@7e2cde28]},legacy=false] (/127.0.0.1:49325): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:29:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@1740dc31[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@7e2cde28]},legacy=false] (/127.0.0.1:49325) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:29:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@adb0c00[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:49330) lost connection: Disconnected
+[16:29:49] [Server thread/INFO]: _YuanXiao_ hit the ground too hard whilst trying to escape Enderman
+[16:29:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@64fe01ee[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:49331) lost connection: Disconnected
+[16:29:55] [User Authenticator #14/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:29:55] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@19e6d4ed[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@16bfb050]},legacy=false] (/127.0.0.1:49332): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:29:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@19e6d4ed[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@16bfb050]},legacy=false] (/127.0.0.1:49332) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:30:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c2a0048[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:49336) lost connection: Disconnected
+[16:30:03] [User Authenticator #14/INFO]: Disconnecting /127.0.0.1:49336: Failed to verify username!
+[16:30:03] [User Authenticator #14/ERROR]: Username 'Block_linyi' tried to join with an invalid session
+[16:30:04] [User Authenticator #14/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:30:04] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6dda8f37[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@57923f90]},legacy=false] (/127.0.0.1:49338): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:30:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@6dda8f37[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@57923f90]},legacy=false] (/127.0.0.1:49338) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:30:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@7732d8e1[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:49339) lost connection: Disconnected
+[16:30:07] [User Authenticator #14/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:30:07] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2a08875c[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@195778b0]},legacy=false] (/127.0.0.1:49340): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:30:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a08875c[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@195778b0]},legacy=false] (/127.0.0.1:49340) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:30:54] [Server thread/WARN]: YiFanFengShun moved too quickly! 3.3916937742242226,-9.141118222579692,3.3221721929625687
+[16:31:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@6174a52c[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:49349) lost connection: Disconnected
+[16:31:37] [User Authenticator #16/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:31:37] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6e12f479[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@2f627d12]},legacy=false] (/127.0.0.1:49350): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:31:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@6e12f479[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@2f627d12]},legacy=false] (/127.0.0.1:49350) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:32:24] [User Authenticator #16/INFO]: UUID of player fly_pigman02 is 67b61d6e-8357-402c-bd08-5c7bd2bae3e2
+[16:32:24] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6bae4f4a[id=67b61d6e-8357-402c-bd08-5c7bd2bae3e2,name=fly_pigman02,properties={textures=[com.mojang.authlib.properties.Property@6dddd39]},legacy=false] (/127.0.0.1:49358): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:32:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@6bae4f4a[id=67b61d6e-8357-402c-bd08-5c7bd2bae3e2,name=fly_pigman02,properties={textures=[com.mojang.authlib.properties.Property@6dddd39]},legacy=false] (/127.0.0.1:49358) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:32:37] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[16:32:37] [Server thread/INFO]: adhesive_tape left the game
+[16:32:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b7a4ff6[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:49363) lost connection: Disconnected
+[16:32:47] [User Authenticator #16/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:32:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@62b73421[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@1d7e31a]},legacy=false] (/127.0.0.1:49364): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:32:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@62b73421[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@1d7e31a]},legacy=false] (/127.0.0.1:49364) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:32:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@142cc6d9[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:49368) lost connection: Disconnected
+[16:33:00] [User Authenticator #16/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:33:00] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@88fc16c[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@7005b641]},legacy=false] (/127.0.0.1:49369): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:33:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@88fc16c[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@7005b641]},legacy=false] (/127.0.0.1:49369) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:33:38] [Server thread/INFO]: Villager EntityVillager['精准采集时运'/7495, uuid='15dcd5e3-28f4-494e-91b0-a26a886bf5b5', l='world', x=2770.30, y=73.32, z=-409.70, cx=173, cz=-26, tl=14064917, v=true, d=false] died, message: '精准采集时运 was slain by 森语'
+[16:34:19] [Server thread/INFO]: Raphael0461 lost connection: Disconnected
+[16:34:19] [Server thread/INFO]: Raphael0461 left the game
+[16:34:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@6e9ed4f[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:49380) lost connection: Disconnected
+[16:34:33] [User Authenticator #17/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:34:33] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@44fac6b8[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@7a401d6c]},legacy=false] (/127.0.0.1:49381): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:34:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@44fac6b8[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@7a401d6c]},legacy=false] (/127.0.0.1:49381) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:34:35] [User Authenticator #17/INFO]: UUID of player uuuuuppppp is 9618bb26-059b-4501-8ff2-c2c738588057
+[16:34:35] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@433af876[id=9618bb26-059b-4501-8ff2-c2c738588057,name=uuuuuppppp,properties={textures=[com.mojang.authlib.properties.Property@76925ecd]},legacy=false] (/127.0.0.1:49386): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:34:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@433af876[id=9618bb26-059b-4501-8ff2-c2c738588057,name=uuuuuppppp,properties={textures=[com.mojang.authlib.properties.Property@76925ecd]},legacy=false] (/127.0.0.1:49386) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:34:42] [User Authenticator #17/INFO]: UUID of player uuuuuppppp is 9618bb26-059b-4501-8ff2-c2c738588057
+[16:34:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@32f157bf[id=9618bb26-059b-4501-8ff2-c2c738588057,name=uuuuuppppp,properties={textures=[com.mojang.authlib.properties.Property@23cb9374]},legacy=false] (/127.0.0.1:49389): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:34:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@32f157bf[id=9618bb26-059b-4501-8ff2-c2c738588057,name=uuuuuppppp,properties={textures=[com.mojang.authlib.properties.Property@23cb9374]},legacy=false] (/127.0.0.1:49389) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:34:50] [User Authenticator #17/INFO]: UUID of player uuuuuppppp is 9618bb26-059b-4501-8ff2-c2c738588057
+[16:34:50] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@59a26902[id=9618bb26-059b-4501-8ff2-c2c738588057,name=uuuuuppppp,properties={textures=[com.mojang.authlib.properties.Property@6b1317a8]},legacy=false] (/127.0.0.1:49391): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:34:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@59a26902[id=9618bb26-059b-4501-8ff2-c2c738588057,name=uuuuuppppp,properties={textures=[com.mojang.authlib.properties.Property@6b1317a8]},legacy=false] (/127.0.0.1:49391) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:34:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ef60f50[id=<null>,name=uuuuuppppp,properties={},legacy=false] (/127.0.0.1:49393) lost connection: Disconnected
+[16:34:58] [User Authenticator #17/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:34:58] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3f105212[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@543a6503]},legacy=false] (/127.0.0.1:49397): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:34:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@3f105212[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@543a6503]},legacy=false] (/127.0.0.1:49397) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:03] [User Authenticator #17/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:35:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2deef0ec[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@4e45d853]},legacy=false] (/127.0.0.1:49398): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@2deef0ec[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@4e45d853]},legacy=false] (/127.0.0.1:49398) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:15] [User Authenticator #17/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:35:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@642aaa07[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@5667641f]},legacy=false] (/127.0.0.1:49399): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@642aaa07[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@5667641f]},legacy=false] (/127.0.0.1:49399) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:24] [User Authenticator #17/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:35:24] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@14e9e419[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@2e721496]},legacy=false] (/127.0.0.1:49406): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@14e9e419[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@2e721496]},legacy=false] (/127.0.0.1:49406) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:29] [User Authenticator #18/INFO]: Disconnecting com.mojang.authlib.GameProfile@2f07d762[id=<null>,name=uuuuuppppp,properties={},legacy=false] (/127.0.0.1:49402): Authentication servers are down. Please try again later, sorry!
+[16:35:29] [User Authenticator #18/ERROR]: Couldn't verify username because servers are unavailable
+[16:35:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f07d762[id=<null>,name=uuuuuppppp,properties={},legacy=false] (/127.0.0.1:49402) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:35:37] [User Authenticator #18/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:35:37] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@12b9487b[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@251e7dab]},legacy=false] (/127.0.0.1:49409): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@12b9487b[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@251e7dab]},legacy=false] (/127.0.0.1:49409) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:39] [User Authenticator #17/INFO]: UUID of player uuuuuppppp is 9618bb26-059b-4501-8ff2-c2c738588057
+[16:35:39] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7cae162b[id=9618bb26-059b-4501-8ff2-c2c738588057,name=uuuuuppppp,properties={textures=[com.mojang.authlib.properties.Property@2a09c8a]},legacy=false] (/127.0.0.1:49413): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@7cae162b[id=9618bb26-059b-4501-8ff2-c2c738588057,name=uuuuuppppp,properties={textures=[com.mojang.authlib.properties.Property@2a09c8a]},legacy=false] (/127.0.0.1:49413) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:44] [User Authenticator #17/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:35:45] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@16f41563[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@12ce096d]},legacy=false] (/127.0.0.1:49429): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@16f41563[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@12ce096d]},legacy=false] (/127.0.0.1:49429) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:45] [User Authenticator #17/INFO]: UUID of player uuuuuppppp is 9618bb26-059b-4501-8ff2-c2c738588057
+[16:35:45] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@301367dd[id=9618bb26-059b-4501-8ff2-c2c738588057,name=uuuuuppppp,properties={textures=[com.mojang.authlib.properties.Property@21013967]},legacy=false] (/127.0.0.1:49431): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@301367dd[id=9618bb26-059b-4501-8ff2-c2c738588057,name=uuuuuppppp,properties={textures=[com.mojang.authlib.properties.Property@21013967]},legacy=false] (/127.0.0.1:49431) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:55] [User Authenticator #17/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:35:55] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@56b736d[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@b74528f]},legacy=false] (/127.0.0.1:49436): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@56b736d[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@b74528f]},legacy=false] (/127.0.0.1:49436) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:35:59] [Server thread/INFO]: 未知指令.键入"/help"查看帮助
+[16:36:06] [User Authenticator #17/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:36:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1fb2fdd5[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@4c10b70b]},legacy=false] (/127.0.0.1:49440): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:36:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@1fb2fdd5[id=6dd389e7-c052-4a51-abc7-d6543cf7932c,name=Block_linyi,properties={textures=[com.mojang.authlib.properties.Property@4c10b70b]},legacy=false] (/127.0.0.1:49440) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:36:08] [Server thread/INFO]: Added Block_linyi to the whitelist
+[16:36:12] [Server thread/INFO]: That player does not exist
+[16:36:22] [User Authenticator #17/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:36:23] [Server thread/INFO]: That player does not exist
+[16:36:23] [Server thread/WARN]: Small_CaiQAQ moved too quickly! -6.512768841323307,1.252203340253729,-9.782242061188327
+[16:36:24] [Server thread/INFO]: Block_linyi[/127.0.0.1:49443] logged in with entity id 90889 at ([world]2655.2973688933175, 63.0, -314.2864529428073)
+[16:36:24] [Server thread/INFO]: Small_CaiQAQ has made the advancement [A Terrible Fortress]
+[16:36:52] [Async Chat Thread - #13/INFO]: <Block_linyi> 终于有白名单了
+[16:37:01] [Async Chat Thread - #13/INFO]: <GinGer_Snow> 阿巴阿巴
+[16:37:05] [Server thread/INFO]: That player does not exist
+[16:37:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8652ms or 173 ticks behind
+[16:37:05] [Server thread/WARN]: Small_CaiQAQ moved too quickly! 95.65023128636443,2.542859029897272,63.88744025490598
+[16:37:05] [Server thread/WARN]: YiFanFengShun moved too quickly! -1.3784895918652182,0.0,-9.95244280923167
+[16:37:23] [Async Chat Thread - #13/INFO]: <Block_linyi> tps咋才17
+[16:37:51] [Server thread/INFO]: Block_linyi issued server command: /
+[16:38:08] [Async Chat Thread - #13/INFO]: <Mr_director> tps之前10
+[16:38:35] [Async Chat Thread - #13/INFO]: <GinGer_Snow> 阿巴阿巴我下了（
+[16:38:38] [Async Chat Thread - #13/INFO]: <Block_linyi> 我去领财产了
+[16:38:46] [Async Chat Thread - #13/INFO]: <GinGer_Snow> 今天憨明只死了三次
+[16:38:49] [Async Chat Thread - #13/INFO]: <GinGer_Snow> 很棒
+[16:38:50] [Async Chat Thread - #13/INFO]: <YiFanFengShun> Block_linyi你萌新？
+[16:38:55] [Async Chat Thread - #13/INFO]: <Block_linyi> 没啊
+[16:38:55] [Async Chat Thread - #13/INFO]: <GinGer_Snow> 对（
+[16:39:05] [Async Chat Thread - #13/INFO]: <Block_linyi> 我不是
+[16:39:09] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[16:39:12] [Async Chat Thread - #13/INFO]: <GinGer_Snow> 胡说（
+[16:39:18] [Server thread/INFO]: _YuanXiao_ fell from a high place
+[16:39:21] [Async Chat Thread - #13/INFO]: <GinGer_Snow> 我之前都没见过你的ID（
+[16:39:22] [Async Chat Thread - #13/INFO]: <Block_linyi> 我内测一直在啊
+[16:39:27] [Async Chat Thread - #13/INFO]: <Block_linyi> lin_yi_233
+[16:39:34] [Async Chat Thread - #13/INFO]: <GinGer_Snow> 萌新就萌新不要装大佬（
+[16:39:40] [Async Chat Thread - #13/INFO]: <GinGer_Snow> 阿巴阿巴
+[16:39:50] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[16:39:50] [Server thread/INFO]: Jichen233 left the game
+[16:39:53] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[16:40:07] [Server thread/INFO]: Small_CaiQAQ lost connection: Disconnected
+[16:40:07] [Server thread/INFO]: Small_CaiQAQ left the game
+[16:41:15] [Async Chat Thread - #14/INFO]: <Block_linyi> 我财产呢
+[16:41:40] [Async Chat Thread - #14/INFO]: <GinGer_Snow> 相位猛冲！
+[16:41:42] [Server thread/INFO]: GinGer_Snow hit the ground too hard
+[16:41:46] [Server thread/INFO]: GinGer_Snow lost connection: Disconnected
+[16:41:46] [Server thread/INFO]: GinGer_Snow left the game
+[16:41:57] [Server thread/INFO]: Block_linyi issued server command: /co i
+[16:42:34] [Server thread/INFO]: Added fly_pigman02 to the whitelist
+[16:42:45] [Server thread/INFO]: Block_linyi issued server command: /co i
+[16:43:24] [User Authenticator #19/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[16:43:24] [Server thread/INFO]: adhesive_tape[/127.0.0.1:49507] logged in with entity id 100688 at ([world]2781.699999988079, 63.0, -394.35168170801506)
+[16:44:54] [User Authenticator #20/INFO]: UUID of player fly_pigman02 is 67b61d6e-8357-402c-bd08-5c7bd2bae3e2
+[16:44:54] [Server thread/INFO]: fly_pigman02[/127.0.0.1:49520] logged in with entity id 102225 at ([world_nether]642.453645490401, 38.0, 27.30000001192093)
+[16:45:09] [Server thread/INFO]: _YuanXiao_ was slain by Enderman
+[16:46:38] [Async Chat Thread - #15/INFO]: <fly_pigman02> YiFanFengShun在家吗
+[16:46:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@2633601c[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:49536) lost connection: Disconnected
+[16:46:44] [Async Chat Thread - #15/INFO]: <YiFanFengShun> ,
+[16:46:53] [Async Chat Thread - #15/INFO]: <YiFanFengShun> 我在整地狱交通
+[16:46:59] [Async Chat Thread - #15/INFO]: <fly_pigman02> 哦哦
+[16:46:59] [Server thread/INFO]: _YuanXiao_ was slain by Enderman
+[16:47:11] [User Authenticator #21/INFO]: Disconnecting com.mojang.authlib.GameProfile@3d2cab99[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:49541): Authentication servers are down. Please try again later, sorry!
+[16:47:11] [User Authenticator #21/ERROR]: Couldn't verify username because servers are unavailable
+[16:47:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@3d2cab99[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:49541) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:47:22] [User Authenticator #21/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[16:47:22] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4dda3b0a[id=73cb5d0a-9578-42d7-8096-e35458abd65f,name=Crushxl,properties={textures=[com.mojang.authlib.properties.Property@375c81d]},legacy=false] (/127.0.0.1:49546): 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:47:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@4dda3b0a[id=73cb5d0a-9578-42d7-8096-e35458abd65f,name=Crushxl,properties={textures=[com.mojang.authlib.properties.Property@375c81d]},legacy=false] (/127.0.0.1:49546) lost connection: 你还不在白名单噢 请加入空域公测群1085723953 进行快速审核
+[16:47:43] [Async Chat Thread - #15/INFO]: <Mr_director> 1
+[16:47:46] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[16:47:46] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[16:47:46] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:47:46] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[16:47:46] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:47:46] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[16:47:46] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[16:47:46] [Paper Watchdog Thread/ERROR]: 	Stack:
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead0(Native Method)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.socketRead(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		java.net.SocketInputStream.read(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.readFully(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.InputRecord.read(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		sun.security.ssl.AppInputStream.read(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.fill(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read1(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.HttpAuthenticationService.performPostRequest(HttpAuthenticationService.java:87)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:66)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:55)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.a(UserCache.java:88)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.UserCache.getProfile(UserCache.java:157)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ArgumentProfile.a(SourceFile:54)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ArgumentProfile$$Lambda$3569/1546874889.getNames(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ArgumentProfile.a(SourceFile:30)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.CommandWhitelist.c(SourceFile:53)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.CommandWhitelist$$Lambda$1887/1582770902.run(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:262)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:176)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.CommandDispatcher.a(CommandDispatcher.java:179)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.command.VanillaCommandWrapper.execute(VanillaCommandWrapper.java:45)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:742)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:704)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[16:47:46] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[16:47:46] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:47:46] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[16:47:46] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:47:47] [Server thread/INFO]: Added Crushxl to the whitelist
+[16:47:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11073ms or 221 ticks behind
+[16:47:48] [Server thread/WARN]: _YuanXiao_ moved too quickly! 12.79945187020985,-4.393779687915227,2.695198957341006
+[16:47:55] [Async Chat Thread - #15/INFO]: <Block_linyi> 1
+[16:47:58] [Async Chat Thread - #15/INFO]: <Block_linyi> 好卡
+[16:48:02] [User Authenticator #21/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[16:48:03] [Server thread/INFO]: Crushxl[/127.0.0.1:49554] logged in with entity id 107222 at ([world]1401.7542908288249, 64.0, 65.51102293363716)
+[16:48:04] [Server thread/INFO]: [SAML] TPS low (14.35). Will attempt to freeze some mobs...
+[16:48:05] [Server thread/INFO]: [SAML] 1160 mobs affected (1160 frozen, 0 nerfed) in 96ms. Total of 1157/1868 affected (1157 frozen, 465 nerfed).
+[16:48:10] [Async Chat Thread - #15/INFO]: <Block_linyi> 小冷来了
+[16:48:13] [Server thread/INFO]: Crushxl issued server command: /tp Crushxl -111 63 -225
+[16:48:14] [Async Chat Thread - #15/INFO]: <fly_pigman02> 腐竹来了哇咔咔
+[16:48:25] [Server thread/WARN]: fly_pigman02 moved too quickly! 12.603891174442651,1.756759288177264,5.190828858531404
+[16:48:28] [Server thread/INFO]: Made Crushxl a server operator
+[16:48:29] [Server thread/WARN]: fly_pigman02 was kicked for floating too long!
+[16:48:29] [Server thread/INFO]: fly_pigman02 lost connection: Flying is not enabled on this server
+[16:48:29] [Server thread/INFO]: fly_pigman02 left the game
+[16:48:29] [Server thread/WARN]: handleDisconnection() called twice
+[16:48:30] [Server thread/INFO]: Crushxl issued server command: /tp Crushxl -111 63 -225
+[16:48:30] [Server thread/INFO]: [Crushxl: Teleported Crushxl to -110.5, 63.0, -224.5]
+[16:48:37] [User Authenticator #21/INFO]: UUID of player fly_pigman02 is 67b61d6e-8357-402c-bd08-5c7bd2bae3e2
+[16:48:37] [Server thread/INFO]: fly_pigman02[/127.0.0.1:49560] logged in with entity id 109119 at ([world]5185.210876447034, 64.34475224855441, 215.49095058332966)
+[16:48:47] [User Authenticator #21/INFO]: UUID of player Raphael0461 is 94bc8e5c-326c-46b8-a68f-aac35f7075f7
+[16:48:47] [Server thread/INFO]: Raphael0461[/127.0.0.1:49564] logged in with entity id 109220 at ([world]1708.2604813501086, 64.0, 913.3624337769209)
+[16:49:09] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[16:49:13] [Server thread/INFO]: fly_pigman02 lost connection: Timed out
+[16:49:13] [Server thread/INFO]: fly_pigman02 left the game
+[16:49:29] [Async Chat Thread - #16/INFO]: <Crushxl> -111 63 223
+[16:49:32] [Server thread/WARN]: _YuanXiao_ moved too quickly! -1533.9898348220772,82.0,-203.03475224503677
+[16:49:42] [Async Chat Thread - #16/INFO]: <Crushxl> 多打了个符号（
+[16:49:47] [Async Chat Thread - #16/INFO]: <Block_linyi> e
+[16:50:11] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[16:50:11] [Server thread/INFO]: Crushxl left the game
+[16:53:06] [Server thread/WARN]: Block_linyi moved wrongly!
+[16:53:06] [Server thread/WARN]: Raphael0461 moved too quickly! -2.5011020026811366,0.08307781780646906,-9.730744748730558
+[16:53:32] [Async Chat Thread - #17/INFO]: <Block_linyi> 这和玩哈皮咳嗽一样卡
+[16:54:04] [Async Chat Thread - #17/INFO]: <Mr_director> 建议做个加速IP(
+[16:54:27] [Async Chat Thread - #17/INFO]: <Block_linyi> 小黑塔怎么不刷怪
+[16:56:01] [Server thread/WARN]: Raphael0461 moved wrongly!
+[16:57:02] [Async Chat Thread - #18/INFO]: <adhesive_tape> 有人在末地
+[16:57:27] [Async Chat Thread - #18/INFO]: <Block_linyi> 谁在末地
+[16:58:31] [Async Chat Thread - #19/INFO]: <adhesive_tape> 没效率
+[16:58:34] [Async Chat Thread - #19/INFO]: <Block_linyi> en
+[16:58:38] [Async Chat Thread - #19/INFO]: <adhesive_tape> 干别的事情却
+[16:58:43] [Async Chat Thread - #19/INFO]: <adhesive_tape> 干别的事情去了
+[17:05:37] [Async Chat Thread - #20/INFO]: <Block_linyi> 到底谁在末地啊
+[17:05:46] [Async Chat Thread - #20/INFO]: <Mr_director> ?
+[17:05:48] [Async Chat Thread - #20/INFO]: <Mr_director> ZAL
+[17:05:49] [Server thread/WARN]: YiFanFengShun moved wrongly!
+[17:05:51] [Async Chat Thread - #20/INFO]: <Mr_director> 咋了
+[17:05:57] [Async Chat Thread - #20/INFO]: <adhesive_tape> 小黑塔不刷怪
+[17:06:14] [Async Chat Thread - #20/INFO]: <Mr_director> 一个都没有？
+[17:06:20] [Async Chat Thread - #20/INFO]: <Block_linyi> 就1个
+[17:06:22] [Async Chat Thread - #20/INFO]: <adhesive_tape> 有1个
+[17:06:24] [Async Chat Thread - #20/INFO]: <Block_linyi> 有时2隔
+[17:06:27] [Async Chat Thread - #20/INFO]: <Block_linyi> 2个
+[17:06:34] [Async Chat Thread - #20/INFO]: <Mr_director> 上面末影满死了么
+[17:06:38] [Async Chat Thread - #20/INFO]: <Block_linyi> 没有
+[17:06:49] [Async Chat Thread - #20/INFO]: <Mr_director> 有人在跑末地
+[17:06:59] [Async Chat Thread - #20/INFO]: <Block_linyi> 上面那个平台根本就不刷怪
+[17:08:19] [Async Chat Thread - #21/INFO]: <adhesive_tape> 末地主岛有个人
+[17:08:21] [Async Chat Thread - #21/INFO]: <adhesive_tape> block
+[17:08:25] [Async Chat Thread - #21/INFO]: <adhesive_tape> 你去看一下
+[17:08:35] [Async Chat Thread - #21/INFO]: <adhesive_tape> 我太快了没看清名字
+[17:08:54] [Async Chat Thread - #21/INFO]: <Block_linyi> 哪啊
+[17:08:57] [Async Chat Thread - #21/INFO]: <Block_linyi> 没看见
+[17:08:58] [Async Chat Thread - #21/INFO]: <adhesive_tape> 祭坛
+[17:09:14] [Async Chat Thread - #21/INFO]: <Block_linyi> _YuanXiao_
+[17:09:30] [Async Chat Thread - #21/INFO]: <Block_linyi> _YuanXiao_你干嘛呢
+[17:09:33] [Async Chat Thread - #21/INFO]: <adhesive_tape> 你把他送回来就行
+[17:09:38] [Async Chat Thread - #21/INFO]: <adhesive_tape> 他挂机应该
+[17:09:46] [Async Chat Thread - #21/INFO]: <Block_linyi> 他在祭坛下面挂机
+[17:09:50] [Server thread/WARN]: YiFanFengShun moved too quickly! 0.031915062903863145,0.0,-10.101686237767865
+[17:09:50] [Server thread/WARN]: Mr_director moved too quickly! -9.947343057758644,-2.001335979112147,-0.011612487797776794
+[17:09:54] [Async Chat Thread - #21/INFO]: <adhesive_tape> 钓鱼竿
+[17:09:58] [User Authenticator #22/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[17:09:58] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:49727] logged in with entity id 139460 at ([world]1377.299999974668, 65.0000002, -7.700000025331974)
+[17:10:01] [Async Chat Thread - #21/INFO]: <Block_linyi> Li_zi_wei
+[17:10:05] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[17:10:23] [Async Chat Thread - #21/INFO]: <Li_zi_wei> 在？我是刚入服的萌新
+[17:10:38] [Async Chat Thread - #21/INFO]: <adhesive_tape> 我也是qwq
+[17:10:41] [Async Chat Thread - #21/INFO]: <Block_linyi> +1
+[17:10:43] [Async Chat Thread - #21/INFO]: <Mr_director> ?
+[17:10:46] [Async Chat Thread - #21/INFO]: <Mr_director> 你们不对劲
+[17:10:54] [Async Chat Thread - #21/INFO]: <adhesive_tape> 我是萌新
+[17:10:59] [Async Chat Thread - #21/INFO]: <Block_linyi> +1
+[17:10:59] [Async Chat Thread - #21/INFO]: <YiFanFengShun> Li_zi_wei我镇你要来吗awa
+[17:11:02] [Async Chat Thread - #21/INFO]: <adhesive_tape> 我什么都不会
+[17:11:53] [Async Chat Thread - #21/INFO]: <Block_linyi> 慕云不在
+[17:12:11] [Async Chat Thread - #21/INFO]: <adhesive_tape> 大佬
+[17:12:20] [Async Chat Thread - #21/INFO]: <Mr_director> DF_yechu 人活着没
+[17:12:23] [Async Chat Thread - #21/INFO]: <Li_zi_wei> ??????
+[17:12:25] [Async Chat Thread - #21/INFO]: <Mr_director> 活着扣个1
+[17:12:25] [Async Chat Thread - #21/INFO]: <DF_yechu> ?
+[17:12:27] [Async Chat Thread - #21/INFO]: <DF_yechu> 1
+[17:12:31] [Async Chat Thread - #21/INFO]: <Li_zi_wei> 2
+[17:12:32] [Async Chat Thread - #21/INFO]: <Mr_director> 睡一觉？
+[17:12:37] [Async Chat Thread - #21/INFO]: <DF_yechu> o
+[17:12:39] [Async Chat Thread - #21/INFO]: <Mr_director> 晚上我这里没法施工
+[17:12:41] [Async Chat Thread - #21/INFO]: <adhesive_tape> 我不睡觉
+[17:12:41] [Async Chat Thread - #21/INFO]: <Li_zi_wei> zzz
+[17:12:49] [Async Chat Thread - #21/INFO]: <DF_yechu> 懂了
+[17:12:52] [Async Chat Thread - #21/INFO]: <DF_yechu> 淦
+[17:12:52] [Async Chat Thread - #21/INFO]: <Li_zi_wei> 不睡觉先小退一下？
+[17:12:56] [Async Chat Thread - #21/INFO]: <Mr_director> 主世界的睡
+[17:12:57] [Async Chat Thread - #21/INFO]: <adhesive_tape> 不用
+[17:12:58] [Async Chat Thread - #21/INFO]: <DF_yechu> 顾着和你们聊天
+[17:13:01] [Async Chat Thread - #21/INFO]: <adhesive_tape> 我去找你
+[17:13:05] [Async Chat Thread - #21/INFO]: <Mr_director> 不睡的退一下
+[17:13:10] [Async Chat Thread - #21/INFO]: <DF_yechu> 我打排位系统给我选了个貂蝉
+[17:13:16] [Async Chat Thread - #21/INFO]: <DF_yechu> 我tm
+[17:13:22] [Async Chat Thread - #21/INFO]: <Mr_director> 233
+[17:13:33] [Async Chat Thread - #21/INFO]: <DF_yechu> 还不能重开
+[17:13:35] [Async Chat Thread - #21/INFO]: <Li_zi_wei> 我睡了 然而并没有什么用
+[17:13:40] [Async Chat Thread - #21/INFO]: <Mr_director> 谁没睡
+[17:13:50] [Async Chat Thread - #21/INFO]: <DF_yechu> 对面阵容全都是欺负我的
+[17:13:50] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[17:13:50] [Server thread/INFO]: adhesive_tape left the game
+[17:14:11] [Async Chat Thread - #21/INFO]: <Mr_director> wdnmd谁啊
+[17:14:15] [Async Chat Thread - #21/INFO]: <DF_yechu> ？
+[17:14:16] [Async Chat Thread - #21/INFO]: <Mr_director> 不睡觉
+[17:14:16] [User Authenticator #23/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[17:14:16] [Server thread/INFO]: adhesive_tape[/127.0.0.1:49762] logged in with entity id 144171 at ([world]1755.2721757257245, 33.0, 234.68687011193828)
+[17:14:21] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[17:14:21] [Server thread/INFO]: adhesive_tape left the game
+[17:14:27] [Async Chat Thread - #21/INFO]: <Li_zi_wei> 有人没睡觉
+[17:14:30] [Async Chat Thread - #21/INFO]: <Li_zi_wei> 没用
+[17:14:34] [Async Chat Thread - #21/INFO]: <Li_zi_wei> 我能起了吗（
+[17:14:36] [Async Chat Thread - #21/INFO]: <Block_linyi> _YuanXiao_
+[17:14:37] [Async Chat Thread - #21/INFO]: <Block_linyi> _YuanXiao_
+[17:14:39] [Async Chat Thread - #21/INFO]: <Block_linyi> _YuanXiao_没有
+[17:14:44] [Async Chat Thread - #21/INFO]: <Mr_director> 他在主世界？
+[17:14:46] [Async Chat Thread - #21/INFO]: <DF_yechu> 阿这
+[17:14:47] [Async Chat Thread - #21/INFO]: <Block_linyi> 末地
+[17:14:52] [Async Chat Thread - #21/INFO]: <Block_linyi> 他在末地挂机
+[17:14:53] [Async Chat Thread - #21/INFO]: <Mr_director> 末地不会影响的
+[17:14:57] [Async Chat Thread - #21/INFO]: <Block_linyi> 蛤
+[17:15:02] [Async Chat Thread - #21/INFO]: <Mr_director> 主世界都睡觉就行
+[17:15:07] [Async Chat Thread - #21/INFO]: <Block_linyi> 我也在末地
+[17:15:13] [Async Chat Thread - #21/INFO]: <Li_zi_wei> 我躺下了啊
+[17:15:17] [Async Chat Thread - #21/INFO]: <Mr_director> 算了别躺着了
+[17:15:22] [Async Chat Thread - #21/INFO]: <Mr_director> 该干啥干啥吧
+[17:15:48] [Async Chat Thread - #21/INFO]: <Block_linyi> 我有一个好主意
+[17:15:51] [User Authenticator #24/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[17:15:51] [Server thread/INFO]: adhesive_tape[/127.0.0.1:49776] logged in with entity id 145633 at ([world]1755.2721757257245, 33.0, 234.68687011193828)
+[17:15:59] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[17:15:59] [Server thread/INFO]: adhesive_tape left the game
+[17:16:16] [Async Chat Thread - #21/INFO]: <Block_linyi> 让元宵看末影人
+[17:16:26] [Async Chat Thread - #21/INFO]: <Block_linyi> 然后末影人把元宵打死
+[17:16:29] [Async Chat Thread - #21/INFO]: <Li_zi_wei> 别啊
+[17:17:02] [User Authenticator #25/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[17:17:02] [Server thread/INFO]: adhesive_tape[/127.0.0.1:49792] logged in with entity id 146456 at ([world]1755.2721757257245, 33.0, 234.68687011193828)
+[17:17:11] [Async Chat Thread - #21/INFO]: <adhesive_tape> 别睡了，元宵挂机
+[17:17:17] [Async Chat Thread - #21/INFO]: <adhesive_tape> 他在主世界
+[17:17:19] [Async Chat Thread - #21/INFO]: <Block_linyi> 末地
+[17:17:20] [Async Chat Thread - #21/INFO]: <Block_linyi> 末地
+[17:17:23] [Async Chat Thread - #21/INFO]: <adhesive_tape> o
+[17:17:29] [Server thread/INFO]: Block_linyi issued server command: /pm
+[17:17:29] [Async Chat Thread - #21/INFO]: <adhesive_tape> 那我再推出一会
+[17:17:31] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[17:17:31] [Server thread/INFO]: adhesive_tape left the game
+[17:17:33] [Server thread/INFO]: Block_linyi issued server command: /pm 1
+[17:17:44] [Async Chat Thread - #21/INFO]: <Block_linyi> 私聊是什么来着
+[17:17:47] [Async Chat Thread - #21/INFO]: <Li_zi_wei> msg
+[17:18:04] [Server thread/INFO]: Block_linyi issued server command: /msg 共镇现在有啥项目吗？
+[17:18:20] [Server thread/INFO]: Block_linyi issued server command: /msg Li_zi_wei 共镇现在有啥项目吗？
+[17:18:30] [Server thread/INFO]: Block_linyi issued server command: /msg Li_zi_wei 好无聊啊
+[17:18:37] [Server thread/INFO]: Li_zi_wei issued server command: /msg Block_linyi 暮云不在还真没有
+[17:18:45] [Server thread/INFO]: Li_zi_wei fell out of the world
+[17:18:47] [Async Chat Thread - #22/INFO]: <Block_linyi> e
+[17:18:49] [Async Chat Thread - #22/INFO]: <Li_zi_wei> 鱼——
+[17:19:09] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[17:21:17] [Async Chat Thread - #23/INFO]: <Li_zi_wei> 小黑塔又没效率了
+[17:21:23] [Async Chat Thread - #23/INFO]: <Block_linyi> _YuanXiao_在挂机
+[17:21:32] [Async Chat Thread - #23/INFO]: <Block_linyi> 我在用钓鱼竿把他送回去
+[17:22:16] [Async Chat Thread - #23/INFO]: <Block_linyi> 回去了
+[17:22:24] [User Authenticator #26/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[17:22:24] [Server thread/INFO]: adhesive_tape[/127.0.0.1:49834] logged in with entity id 156321 at ([world]1755.6410340057903, 33.0, 234.4749259597041)
+[17:22:34] [Async Chat Thread - #23/INFO]: <Block_linyi> _YuanXiao_被我弄回去了
+[17:22:44] [Async Chat Thread - #23/INFO]: <Li_zi_wei> 突然高效率
+[17:23:42] [User Authenticator #27/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[17:23:43] [Server thread/INFO]: Xin_Sai[/127.0.0.1:49846] logged in with entity id 158379 at ([world_nether]197.95835047390946, 111.0, 857.6429818491109)
+[17:23:49] [Async Chat Thread - #24/INFO]: <adhesive_tape> Mr_director
+[17:23:51] [Async Chat Thread - #24/INFO]: <adhesive_tape> 人呢
+[17:24:04] [Async Chat Thread - #24/INFO]: <Mr_director> ?
+[17:24:06] [Async Chat Thread - #24/INFO]: <Xin_Sai> hi
+[17:24:29] [Server thread/INFO]: Block_linyi issued server command: /
+[17:24:55] [Server thread/INFO]: Li_zi_wei hit the ground too hard
+[17:25:00] [Async Chat Thread - #24/INFO]: <Block_linyi> ??????????????
+[17:25:02] [Async Chat Thread - #24/INFO]: <Li_zi_wei> 快速回家
+[17:25:03] [Async Chat Thread - #24/INFO]: <adhesive_tape> 铺地板
+[17:25:14] [Async Chat Thread - #24/INFO]: <Xin_Sai> 炸空置域炸完了？？
+[17:25:14] [Async Chat Thread - #24/INFO]: <Li_zi_wei> 顺带送exp
+[17:25:22] [Async Chat Thread - #24/INFO]: <adhesive_tape> 今天不炸了
+[17:25:24] [Async Chat Thread - #24/INFO]: <adhesive_tape> 没人
+[17:25:26] [Async Chat Thread - #24/INFO]: <Mr_director> 人没了
+[17:25:35] [Async Chat Thread - #24/INFO]: <Xin_Sai> ?
+[17:25:41] [Async Chat Thread - #24/INFO]: <adhesive_tape> 不说了
+[17:25:43] [Async Chat Thread - #24/INFO]: <adhesive_tape> 没人
+[17:25:45] [Async Chat Thread - #24/INFO]: <adhesive_tape> 真是
+[17:26:15] [Async Chat Thread - #24/INFO]: <adhesive_tape> 给我点
+[17:26:59] [Server thread/INFO]: Xin_Sai has made the advancement [A Terrible Fortress]
+[17:27:24] [Async Chat Thread - #25/INFO]: <Block_linyi> 我想做个全物品
+[17:27:31] [Async Chat Thread - #25/INFO]: <Li_zi_wei> ?
+[17:27:39] [Async Chat Thread - #25/INFO]: <Mr_director> 全无品
+[17:27:45] [Async Chat Thread - #25/INFO]: <Xin_Sai> 我睡觉去了===============
+[17:27:48] [Async Chat Thread - #25/INFO]: <Li_zi_wei> 你得问问服务器的人同不同意.jpg
+[17:28:01] [Async Chat Thread - #25/INFO]: <Xin_Sai> 还以为完事了
+[17:28:03] [Server thread/INFO]: YiFanFengShun issued server command: /
+[17:28:04] [Async Chat Thread - #25/INFO]: <Block_linyi> 大型卡服机
+[17:28:08] [Async Chat Thread - #25/INFO]: <Block_linyi> 全物品
+[17:28:12] [Async Chat Thread - #25/INFO]: <Mr_director> 没到那种地步呢
+[17:28:25] [Async Chat Thread - #25/INFO]: <Li_zi_wei> ?
+[17:29:09] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[17:29:16] [Async Chat Thread - #25/INFO]: <adhesive_tape> 怎么铺得这么快
+[17:29:24] [Async Chat Thread - #25/INFO]: <Mr_director> hax（不是
+[17:29:35] [Async Chat Thread - #25/INFO]: <Mr_director> 我做了个投影
+[17:29:38] [Async Chat Thread - #25/INFO]: <Mr_director> 快速放置
+[17:29:48] [Async Chat Thread - #25/INFO]: <adhesive_tape> o
+[17:29:59] [Server thread/WARN]: 6353c349-7535-42ed-a078-548216b6e9d3 (vehicle of Li_zi_wei) moved wrongly!
+[17:30:05] [Async Chat Thread - #25/INFO]: <Mr_director> 天黑就撤
+[17:30:20] [Async Chat Thread - #25/INFO]: <Mr_director> 撤
+[17:30:24] [Async Chat Thread - #25/INFO]: <Block_linyi> 我这还有以前的混凝土
+[17:30:48] [Async Chat Thread - #25/INFO]: <Block_linyi> 又让我回忆起一件不好的事
+[17:30:49] [Async Chat Thread - #25/INFO]: <Mr_director> 这些都是粉末
+[17:30:52] [Async Chat Thread - #25/INFO]: <Mr_director> 都空了
+[17:30:55] [Async Chat Thread - #25/INFO]: <Li_zi_wei> (((
+[17:30:59] [Async Chat Thread - #25/INFO]: <adhesive_tape> 飞行器坏了吗
+[17:31:13] [Async Chat Thread - #25/INFO]: <Mr_director> 那是gh没带烟花回不去的产物
+[17:31:24] [Server thread/INFO]: DF_yechu issued server command: /dynmap webregister
+[17:31:34] [Async Chat Thread - #25/INFO]: <Block_linyi> 开始挖石英
+[17:31:35] [Async Chat Thread - #25/INFO]: <adhesive_tape> 给点烟花
+[17:31:55] [Async Chat Thread - #25/INFO]: <Mr_director> 我也无了
+[17:32:29] [Async Chat Thread - #25/INFO]: <adhesive_tape> 睡觉吧
+[17:32:34] [Async Chat Thread - #25/INFO]: <adhesive_tape> 我下线
+[17:32:36] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[17:32:36] [Server thread/INFO]: adhesive_tape left the game
+[17:32:38] [Server thread/INFO]: DF_yechu issued server command: /dynmap webregister
+[17:32:38] [Async Chat Thread - #25/INFO]: <Block_linyi> _YuanXiao_还在呢
+[17:32:42] [Server thread/INFO]: Xin_Sai has reached the goal [Zombie Doctor]
+[17:32:51] [Server thread/INFO]: DF_yechu issued server command: /dynmap

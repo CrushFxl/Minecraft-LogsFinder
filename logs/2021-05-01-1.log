@@ -1,0 +1,242 @@
+[00:25:23] [Server thread/INFO]: Security_Winter issued server command: /qd
+[00:25:23] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mSecurity_Winter [0;33;22mÄ¿Ç°ÓÐ [0;32;1m172 [0;33;22m¹±Ï×µãÊý[m
+[00:25:29] [Server thread/INFO]: Security_Winter issued server command: /p me
+[00:28:25] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[00:28:25] [Server thread/INFO]: Security_Winter left the game
+[00:29:59] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[00:41:59] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[00:41:59] [Server thread/INFO]: Mr_director left the game
+[01:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[02:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[03:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[04:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[05:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[06:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[07:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[08:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[09:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[10:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[10:48:00] [User Authenticator #331/INFO]: UUID of player Misours is 3ba17b9b-ef06-48d3-8444-9e527ffb37f2
+[10:48:00] [Server thread/INFO]: Misours[/127.0.0.1:51406] logged in with entity id 20119594 at ([world]-521.2457508916428, 75.0, -461.30000001192093)
+[11:07:06] [Server thread/INFO]: Misours lost connection: Disconnected
+[11:07:06] [Server thread/INFO]: Misours left the game
+[11:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[11:35:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@60828f4c[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:51624) lost connection: Disconnected
+[11:35:08] [User Authenticator #332/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[11:35:09] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:51629] logged in with entity id 20121211 at ([world]1528.574999988079, 174.125, -1525.5695323884893)
+[11:36:23] [Server thread/ERROR]: Could not pass event CreatureSpawnEvent to CoreProtect v2.18.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.event.CraftEventFactory.callCreatureSpawnEvent(CraftEventFactory.java:637) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.event.CraftEventFactory.doEntityAddEventCalling(CraftEventFactory.java:574) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.addEntity0(WorldServer.java:915) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.addEntity(WorldServer.java:845) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldAccess.lambda$0(WorldAccess.java:13) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Unknown Source) ~[?:1.8.0_181]
+	at java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Unknown Source) ~[?:1.8.0_181]
+	at java.util.stream.ReferencePipeline$Head.forEach(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.v1_16_R3.WorldAccess.addAllEntities(WorldAccess.java:13) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldAccess.addAllEntities(WorldAccess.java:9) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ItemArmorStand.a(ItemArmorStand.java:36) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ItemStack.placeItem(ItemStack.java:174) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerInteractManager.a(PlayerInteractManager.java:497) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1356) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PacketPlayInUseItem.a(PacketPlayInUseItem.java:27) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:941) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:934) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:918) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:850) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.lang.NullPointerException
+[11:56:53] [Server thread/INFO]: sen_lv_ling_ issued server command: /qd
+[11:56:53] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1msen_lv_ling_ [0;33;22mÄ¿Ç°ÓÐ [0;32;1m154 [0;33;22m¹±Ï×µãÊý[m
+[12:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[12:57:52] [User Authenticator #333/INFO]: UUID of player YellowDon is 330b76bc-623b-498d-83b5-0e13cebb33b7
+[12:57:52] [Server thread/INFO]: YellowDon[/127.0.0.1:51976] logged in with entity id 20834071 at ([world]1515.051516250678, 186.0, -1524.881743780294)
+[13:15:52] [Server thread/INFO]: YellowDon lost connection: Disconnected
+[13:15:52] [Server thread/INFO]: YellowDon left the game
+[13:21:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@5972dfa7[id=<null>,name=Sorth_dream,properties={},legacy=false] (/127.0.0.1:52069) lost connection: Disconnected
+[13:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[13:47:38] [User Authenticator #334/INFO]: UUID of player WangMouDaMC is 960e9f73-b94e-47b7-ac55-5ab43a6035d0
+[13:47:39] [Server thread/INFO]: WangMouDaMC[/127.0.0.1:52209] logged in with entity id 21269842 at ([world]54.30932085182794, 64.0, -953.9380466609468)
+[13:49:00] [Server thread/INFO]: WangMouDaMC lost connection: Disconnected
+[13:49:00] [Server thread/INFO]: WangMouDaMC left the game
+[13:49:46] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[13:52:13] [User Authenticator #335/INFO]: UUID of player WangMouDaMC is 960e9f73-b94e-47b7-ac55-5ab43a6035d0
+[13:52:13] [Server thread/INFO]: WangMouDaMC[/127.0.0.1:52247] logged in with entity id 21310709 at ([world]78.91601532890657, 64.0, -833.974138542804)
+[13:52:29] [Server thread/INFO]: WangMouDaMC issued server command: /tps
+[13:54:14] [Server thread/INFO]: WangMouDaMC fell from a high place
+[13:55:01] [Server thread/INFO]: WangMouDaMC >> is there any peopie[m
+[13:55:48] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> .[m
+[13:56:14] [Server thread/INFO]: WangMouDaMC lost connection: Disconnected
+[13:56:14] [Server thread/INFO]: WangMouDaMC left the game
+[14:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[14:50:19] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[14:50:19] [Server thread/INFO]: sen_lv_ling_ left the game
+[15:16:40] [User Authenticator #336/INFO]: UUID of player Xiao_Hong_Mao is 3cb3c835-af8d-4e8b-8506-a54938079821
+[15:16:40] [Server thread/INFO]: Xiao_Hong_Mao[/127.0.0.1:52627] logged in with entity id 21737880 at ([world]2658.300000011921, 66.0, -475.69999998807907)
+[15:17:13] [Server thread/INFO]: Xiao_Hong_Mao lost connection: Disconnected
+[15:17:13] [Server thread/INFO]: Xiao_Hong_Mao left the game
+[15:19:42] [User Authenticator #337/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[15:19:42] [Server thread/INFO]: Security_Winter[/127.0.0.1:52645] logged in with entity id 21738481 at ([world]-217.6544710586359, 118.0, -448.6504060643348)
+[15:19:46] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[15:20:19] [Server thread/INFO]: Security_Winter >> ...[m
+[15:21:52] [Server thread/INFO]: Security_Winter lost connection: Timed out
+[15:21:52] [Server thread/INFO]: Security_Winter left the game
+[15:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[15:31:42] [User Authenticator #338/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[15:31:43] [Server thread/INFO]: Ghost_king_[/127.0.0.1:52721] logged in with entity id 21743585 at ([world_the_end]11.747498787739008, 54.0, -5.195791997779358)
+[15:33:34] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[15:33:34] [Server thread/INFO]: Ghost_king_ left the game
+[15:43:40] [User Authenticator #339/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[15:43:41] [Server thread/INFO]: Mr_director[/127.0.0.1:52782] logged in with entity id 21743684 at ([world]1517.2855206951238, 159.5, -1532.0644592018157)
+[16:18:14] [User Authenticator #340/INFO]: UUID of player Mashiro_Ayado is 600d268d-e247-47ef-b811-c9d6cdc5cd3a
+[16:18:14] [Server thread/INFO]: Mashiro_Ayado[/127.0.0.1:52921] logged in with entity id 21745724 at ([world]5127.525844060867, 68.0, 171.97976230815541)
+[16:18:27] [Server thread/INFO]: Mashiro_Ayado >> w[m
+[16:18:49] [Server thread/INFO]: Mashiro_Ayado >> ´óÀÐÏÂÎçºÃ[m
+[16:18:53] [Server thread/INFO]: Mashiro_Ayado >> ³ÔÏÂÎç²èÁË†á[m
+[16:19:16] [Server thread/INFO]: Mashiro_Ayado >> ¤â¤·¤â¤·[m
+[16:19:26] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ?[m
+[16:19:53] [Server thread/INFO]: Mashiro_Ayado >> ÏÂÎçºÃ[m
+[16:19:57] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> Å¶[m
+[16:20:00] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[16:20:00] [Server thread/INFO]: Mr_director left the game
+[16:20:03] [Server thread/INFO]: Mashiro_Ayado >> ¡£¡£¡£¡£[m
+[16:20:05] [Server thread/INFO]: Mashiro_Ayado >> ×ßÁË[m
+[16:20:09] [Server thread/INFO]: Mashiro_Ayado >> Ò»‚€ÈË[m
+[16:20:55] [User Authenticator #341/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[16:20:55] [Server thread/INFO]: Mr_director[/127.0.0.1:52937] logged in with entity id 21746682 at ([world_nether]-11.470102976948498, 115.0, 703.322713432099)
+[16:21:31] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ·½ÖÛ·þÎñÆ÷Õ¨ÁË£¿[m
+[16:21:39] [Server thread/INFO]: Mashiro_Ayado >> ›]Íæ¡£¡£[m
+[16:21:45] [Server thread/INFO]: Mashiro_Ayado >> ÂŸ„eµÄÈºÕf[m
+[16:21:49] [Server thread/INFO]: Mashiro_Ayado >> ºÃÏñÊÇÕ¨ÁË[m
+[16:21:59] [Server thread/INFO]: Mashiro_Ayado >> ºÃŽ×‚€ÈºÒ²ß@÷áÕh[m
+[16:26:25] [Server thread/INFO]: Mashiro_Ayado lost connection: Disconnected
+[16:26:25] [Server thread/INFO]: Mashiro_Ayado left the game
+[16:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[16:33:11] [User Authenticator #342/INFO]: UUID of player JadeynPlays is b0173584-4934-4d60-9dfc-c577da518fee
+[16:33:11] [Server thread/INFO]: JadeynPlays[/127.0.0.1:53001] logged in with entity id 21748586 at ([world_nether]210.8137461238977, 115.0, 22.601593919261326)
+[16:40:31] [Server thread/INFO]: JadeynPlays has made the advancement [Isn't It Iron Pick]
+[16:40:48] [Server thread/INFO]: [0;32;1m<ìâ>[0;37;1m Mr_director >> ?ÐÂÈË£¿[m
+[16:41:27] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[16:41:27] [Server thread/INFO]: Mr_director left the game
+[16:43:22] [Server thread/INFO]: JadeynPlays lost connection: Disconnected
+[16:43:22] [Server thread/INFO]: JadeynPlays left the game
+[16:46:56] [User Authenticator #343/INFO]: UUID of player JadeynPlays is b0173584-4934-4d60-9dfc-c577da518fee
+[16:46:56] [Server thread/INFO]: JadeynPlays[/127.0.0.1:53065] logged in with entity id 21749828 at ([world]1183.0642087148772, 59.0, 344.2204172213221)
+[16:47:07] [Server thread/INFO]: JadeynPlays drowned
+[16:53:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@2395a3[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:53097) lost connection: Disconnected
+[16:55:06] [Server thread/INFO]: JadeynPlays lost connection: Disconnected
+[16:55:06] [Server thread/INFO]: JadeynPlays left the game
+[16:58:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@5d6148a1[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:53118) lost connection: Disconnected
+[17:07:55] [User Authenticator #345/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[17:07:55] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:53159] logged in with entity id 21753387 at ([world]1515.7131317248047, 159.5, -1530.0021200357448)
+[17:18:47] [Server thread/WARN]: Player sen_lv_ling_ just tried to change non-editable sign
+[17:24:57] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[17:24:57] [Server thread/INFO]: sen_lv_ling_ left the game
+[17:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[17:45:14] [User Authenticator #346/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[17:45:15] [Server thread/INFO]: Mr_director[/127.0.0.1:53326] logged in with entity id 21756324 at ([world_nether]-6.347886860600575, 115.5, 481.2950586952086)
+[17:45:43] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[17:45:43] [Server thread/INFO]: Mr_director left the game
+[18:08:12] [User Authenticator #347/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[18:08:13] [Server thread/INFO]: Mr_director[/127.0.0.1:53554] logged in with entity id 21756431 at ([world_nether]-10.873713054504071, 115.0, 482.4800882061979)
+[18:13:25] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[18:13:25] [Server thread/INFO]: Mr_director left the game
+[18:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[18:36:25] [User Authenticator #348/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[18:36:25] [Server thread/INFO]: Mr_director[/127.0.0.1:53683] logged in with entity id 21756720 at ([world_nether]-6.762888055037279, 115.5, 693.3471853108564)
+[18:49:53] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[18:49:53] [Server thread/INFO]: Mr_director left the game
+[18:51:22] [User Authenticator #349/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[18:51:22] [Server thread/INFO]: Mr_director[/127.0.0.1:53741] logged in with entity id 21758252 at ([world_nether]-5.310472803248992, 116.0, 282.83468066398035)
+[19:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[19:35:09] [Server thread/INFO]: Mr_director issued server command: /qd
+[19:35:09] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mMr_director [0;33;22mÄ¿Ç°ÓÐ [0;32;1m103 [0;33;22m¹±Ï×µãÊý[m
+[19:44:56] [User Authenticator #350/INFO]: UUID of player Ink_Snow is 2a111da9-f9cb-42dc-8ffc-4f295ba4896b
+[19:44:56] [Server thread/INFO]: Ink_Snow[/127.0.0.1:53963] logged in with entity id 21760742 at ([world]1521.310188293405, 159.5, -1508.7961268185013)
+[19:45:11] [Server thread/INFO]: Ink_Snow issued server command: /qd
+[19:45:11] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mInk_Snow [0;33;22mÄ¿Ç°ÓÐ [0;32;1m63 [0;33;22m¹±Ï×µãÊý[m
+[19:45:13] [Server thread/INFO]: Ink_Snow lost connection: Disconnected
+[19:45:13] [Server thread/INFO]: Ink_Snow left the game
+[19:46:22] [User Authenticator #351/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[19:46:22] [Server thread/INFO]: anew_tape[/127.0.0.1:53976] logged in with entity id 21761012 at ([world]1526.723204821504, 161.0, -1505.2825702232085)
+[19:46:46] [Server thread/INFO]: anew_tape issued server command: /qd
+[19:46:46] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1manew_tape [0;33;22mÄ¿Ç°ÓÐ [0;32;1m217 [0;33;22m¹±Ï×µãÊý[m
+[19:49:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> a[m
+[19:52:11] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[19:52:11] [Server thread/INFO]: anew_tape left the game
+[19:52:57] [User Authenticator #352/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[19:52:57] [Server thread/INFO]: 4022sun[/127.0.0.1:54008] logged in with entity id 21761515 at ([world_the_end]175.1400147758729, 41.0, -303.85757943437324)
+[19:53:06] [Server thread/INFO]: 4022sun >> awa[m
+[19:53:25] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[19:53:25] [Server thread/INFO]: Mr_director left the game
+[20:23:47] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[20:23:47] [Server thread/INFO]: 4022sun left the game
+[20:27:07] [User Authenticator #353/INFO]: UUID of player WangMouDaMC is 960e9f73-b94e-47b7-ac55-5ab43a6035d0
+[20:27:07] [Server thread/INFO]: WangMouDaMC[/127.0.0.1:54140] logged in with entity id 21763677 at ([world]-99.35595884117544, 65.5, 260.8940085771618)
+[20:27:57] [Server thread/INFO]: WangMouDaMC lost connection: Disconnected
+[20:27:57] [Server thread/INFO]: WangMouDaMC left the game
+[20:29:22] [User Authenticator #354/INFO]: UUID of player WangMouDaMC is 960e9f73-b94e-47b7-ac55-5ab43a6035d0
+[20:29:22] [Server thread/INFO]: WangMouDaMC[/127.0.0.1:54151] logged in with entity id 21763738 at ([world]-77.66373929496353, 65.09375, 257.70297651634974)
+[20:29:23] [Server thread/INFO]: WangMouDaMC lost connection: Disconnected
+[20:29:23] [Server thread/INFO]: WangMouDaMC left the game
+[20:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[20:30:50] [User Authenticator #355/INFO]: UUID of player WangMouDaMC is 960e9f73-b94e-47b7-ac55-5ab43a6035d0
+[20:30:50] [Server thread/INFO]: WangMouDaMC[/127.0.0.1:54164] logged in with entity id 21763750 at ([world]-77.66373929496353, 65.09375, 257.70297651634974)
+[20:38:16] [Server thread/INFO]: WangMouDaMC was slain by Zombie
+[20:42:21] [Server thread/INFO]: WangMouDaMC lost connection: Disconnected
+[20:42:21] [Server thread/INFO]: WangMouDaMC left the game
+[20:43:59] [User Authenticator #356/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[20:43:59] [Server thread/INFO]: Mr_director[/127.0.0.1:54237] logged in with entity id 21764931 at ([world_nether]-9.636449749423425, 115.0, 37.86459654602932)
+[20:57:36] [Server thread/INFO]: Mr_director lost connection: Timed out
+[20:57:36] [Server thread/INFO]: Mr_director left the game
+[20:57:53] [User Authenticator #357/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[20:57:53] [Server thread/INFO]: Mr_director[/127.0.0.1:54344] logged in with entity id 21765792 at ([world_nether]-7.300000011920933, 117.0, 784.8137434617486)
+[20:59:37] [Server thread/WARN]: Mr_director was kicked for floating too long!
+[20:59:37] [Server thread/INFO]: Mr_director lost connection: Flying is not enabled on this server
+[20:59:37] [Server thread/INFO]: Mr_director left the game
+[20:59:44] [User Authenticator #358/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[20:59:44] [Server thread/INFO]: Mr_director[/127.0.0.1:54352] logged in with entity id 21765993 at ([world_nether]-7.201514697218048, 116.21886680679012, 904.9303618657508)
+[21:09:24] [User Authenticator #359/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[21:09:25] [Server thread/INFO]: Security_Winter[/127.0.0.1:54388] logged in with entity id 21767320 at ([world]-217.6544710586359, 118.0, -448.6504060643348)
+[21:10:12] [Server thread/INFO]: Security_Winter >> az[m
+[21:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[21:38:08] [User Authenticator #360/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[21:38:08] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:54516] logged in with entity id 21830833 at ([world]-511.30000001192076, 64.0, -511.8493552653581)
+[21:39:53] [Server thread/INFO]: the_yellowleaf issued server command: /qd
+[21:39:53] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mthe_yellowleaf [0;33;22mÄ¿Ç°ÓÐ [0;32;1m49 [0;33;22m¹±Ï×µãÊý[m
+[21:44:49] [Server thread/WARN]: Security_Winter moved too quickly! 19.97379721303979,0.604424101326714,0.20815650165912913
+[21:44:58] [Server thread/WARN]: Security_Winter moved too quickly! 22.352085756097836,0.0,1.9509431028552626E-4
+[21:45:07] [Server thread/WARN]: Security_Winter moved too quickly! 16.31624026555511,0.07544406518948676,-0.0014953813336049393
+[21:46:39] [Server thread/INFO]: Security_Winter >> mr[m
+[21:46:48] [Server thread/INFO]: Security_Winter >> Äã½»Í¨ÐÞºÃÁËÂð[m
+[21:54:53] [Server thread/WARN]: Security_Winter moved too quickly! 30.458049790396018,-1.9020352461498646,0.006073468516554215
+[22:01:22] [Server thread/WARN]: Security_Winter moved too quickly! -14.313941192317998,1.1661092609382138,0.3253634184656846
+[22:02:05] [Server thread/WARN]: Security_Winter moved too quickly! -26.775021861335944,-1.1363162884817228,0.3258664923959458
+[22:03:07] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[22:03:07] [Server thread/INFO]: Mr_director left the game
+[22:03:55] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[22:03:55] [Server thread/INFO]: the_yellowleaf left the game
+[22:05:18] [User Authenticator #361/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[22:05:19] [Server thread/INFO]: Mr_director[/127.0.0.1:54629] logged in with entity id 21846937 at ([world_nether]-9.807067990760943, 115.0, 166.01346449439788)
+[22:29:58] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mSecurity_Winter [0;33;22mÄ¿Ç°ÓÐ [0;32;1m173 [0;33;22m¹±Ï×µãÊý[m
+[22:29:58] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mMr_director [0;33;22mÄ¿Ç°ÓÐ [0;32;1m104 [0;33;22m¹±Ï×µãÊý[m
+[22:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[22:36:29] [Server thread/WARN]: Security_Winter moved too quickly! 0.008653904683541214,-2.292696208443701,33.24817457264335
+[22:36:53] [Server thread/WARN]: Security_Winter moved too quickly! -12.400495475212267,2.724421398164253,-11.955508115596615
+[23:08:51] [Server thread/INFO]: Security_Winter issued server command: /qd
+[23:09:06] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[23:09:06] [Server thread/INFO]: Security_Winter left the game
+[23:29:58] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m

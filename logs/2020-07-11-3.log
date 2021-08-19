@@ -1,0 +1,395 @@
+[21:21:26] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:21:26] [Server thread/INFO]: Loading properties
+[21:21:26] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[21:21:27] [Server thread/INFO]: Debug logging is disabled
+[21:21:27] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[21:21:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:21:27] [Server thread/INFO]: Default game type: SURVIVAL
+[21:21:27] [Server thread/INFO]: Generating keypair
+[21:21:27] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[21:21:27] [Server thread/INFO]: Using default channel type
+[21:21:27] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[21:21:29] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[21:21:29] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[21:21:29] [Server thread/WARN]: Legacy plugin NoSpawnChunks v2.0-b147 does not specify an api-version.
+[21:21:29] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[21:21:29] [Server thread/WARN]: Legacy plugin dynmap v3.0-beta-10-257 does not specify an api-version.
+[21:21:29] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[21:21:29] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[21:21:29] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[21:21:29] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.2.2
+[21:21:29] [Server thread/INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0-b147
+[21:21:29] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[21:21:29] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[21:21:29] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[21:21:29] [Server thread/INFO]: [VillagerOptimiser] Loading VillagerOptimiser v1.1.3
+[21:21:29] [Server thread/INFO]: [dynmap] Loading dynmap v3.0-beta-10-257
+[21:21:29] [Server thread/INFO]: [dynmap] version=git-Paper-118 (MC: 1.15.2)
+[21:21:29] [Server thread/INFO]: [dynmap] Unload queue not found - default to unload all chunks
+[21:21:29] [Server thread/INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[21:21:29] [Server thread/INFO]: [dynmap] Mod Support API available
+[21:21:29] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[21:21:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:21:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:21:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:21:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:21:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:21:29] [Server thread/INFO]: Preparing level "world"
+[21:21:29] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:21:36] [Server thread/INFO]: Loaded 6 recipes
+[21:21:36] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:21:36] [Server thread/INFO]: View Distance: 8
+[21:21:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:21:36] [Server thread/INFO]: Mob Spawn Range: 4
+[21:21:36] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:21:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:21:36] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:21:36] [Server thread/INFO]: Max TNT Explosions: 100
+[21:21:36] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[21:21:36] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:21:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:21:36] [Server thread/INFO]: Item Despawn Rate: 4000
+[21:21:36] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:21:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:21:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:21:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:21:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:21:36] [Server thread/INFO]: View Distance: 8
+[21:21:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:21:36] [Server thread/INFO]: Mob Spawn Range: 4
+[21:21:36] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:21:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:21:36] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:21:36] [Server thread/INFO]: Max TNT Explosions: 100
+[21:21:36] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[21:21:36] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:21:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:21:36] [Server thread/INFO]: Item Despawn Rate: 4000
+[21:21:36] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:21:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:21:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:21:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:21:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:21:36] [Server thread/INFO]: View Distance: 8
+[21:21:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:21:36] [Server thread/INFO]: Experience Merge Radius: 8.0
+[21:21:36] [Server thread/INFO]: Mob Spawn Range: 4
+[21:21:36] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[21:21:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:21:36] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[21:21:36] [Server thread/INFO]: Max TNT Explosions: 100
+[21:21:36] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[21:21:36] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[21:21:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:21:36] [Server thread/INFO]: Item Despawn Rate: 4000
+[21:21:36] [Server thread/INFO]: Item Merge Radius: 8.0
+[21:21:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:21:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:21:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:21:36] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[21:21:36] [Server thread/INFO]: Preparing spawn area: 0%
+[21:21:36] [Server thread/INFO]: Preparing spawn area: 7%
+[21:21:37] [Server thread/INFO]: Preparing spawn area: 100%
+[21:21:37] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[21:21:37] [Server thread/INFO]: Time elapsed: 1437 ms
+[21:21:37] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[21:21:37] [Server thread/INFO]: Preparing spawn area: 0%
+[21:21:38] [Server thread/INFO]: Preparing spawn area: 100%
+[21:21:38] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[21:21:38] [Server thread/INFO]: Time elapsed: 525 ms
+[21:21:38] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[21:21:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:21:38] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[21:21:38] [Server thread/INFO]: Time elapsed: 362 ms
+[21:21:38] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[21:21:38] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[21:21:38] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[21:21:38] [Server thread/INFO]: --------------------
+[21:21:38] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[21:21:38] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[21:21:38] [Server thread/INFO]: --------------------
+[21:21:38] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[21:21:38] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[21:21:38] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[21:21:38] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[21:21:38] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[21:21:38] [Server thread/INFO]:  
+[21:21:38] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[21:21:38] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[21:21:38] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[21:21:38] [Server thread/INFO]:  
+[21:21:38] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[21:21:38] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[21:21:39] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[21:21:39] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[21:21:43] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[21:21:43] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.2.2
+[21:21:43] [Server thread/INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0-b147*
+[21:21:43] [Server thread/INFO]: [NoSpawnChunks] NoSpawnChunks v2.0-b147 has been enabled. Took 2 ms.
+[21:21:43] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[21:21:43] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[21:21:43] [Server thread/INFO]: [SAML] Loading config.yml...
+[21:21:43] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[21:21:43] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[21:21:43] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[21:21:43] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[21:21:43] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[21:21:43] [Server thread/INFO]: [SAML] Loading messages.yml...
+[21:21:43] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[21:21:44] [Server thread/INFO]: [SAML] Successfully enabled.
+[21:21:44] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[21:21:44] [Server thread/INFO]: [GM+] Checking Your version...
+[21:21:44] [Server thread/INFO]: ===============================
+[21:21:44] [Server thread/INFO]: 
+[21:21:44] [Server thread/INFO]:  GroupManager+ is now enable!
+[21:21:44] [Server thread/INFO]:  
+[21:21:44] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[21:21:44] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[21:21:44] [Server thread/INFO]:  Current version: v3.3
+[21:21:44] [Server thread/INFO]:  
+[21:21:44] [Server thread/INFO]: ===============================
+[21:21:44] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[21:21:44] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[21:21:44] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[21:21:44] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[21:21:44] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[21:21:44] [Server thread/INFO]: [VillagerOptimiser] Enabling VillagerOptimiser v1.1.3
+[21:21:44] [Server thread/INFO]: [VillagerOptimiser] Loading config.yml...
+[21:21:44] [Server thread/INFO]: [VillagerOptimiser] Successfully loaded config.yml.
+[21:21:44] [Server thread/INFO]: [VillagerOptimiser] Successfully enabled.
+[21:21:44] [Server thread/INFO]: [dynmap] Enabling dynmap v3.0-beta-10-257*
+[21:21:44] [Server thread/INFO]: [dynmap] Using GroupManager 3.3 for access control
+[21:21:44] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[21:21:44] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[21:21:44] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[21:21:44] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[21:21:44] [Server thread/INFO]: [dynmap] Web server started on address 127.0.0.1:8123
+[21:21:44] [Server thread/INFO]: [dynmap] version 3.0-beta-10-257 is enabled - core version 3.0-beta-10-257
+[21:21:44] [Server thread/INFO]: [dynmap] For support, visit https://forums.dynmap.us
+[21:21:44] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[21:21:44] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[21:21:44] [Server thread/INFO]: [dynmap] Loaded 42 pending tile renders for world 'world'
+[21:21:44] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[21:21:44] [Server thread/INFO]: [dynmap] Loaded 7 pending tile renders for world 'world_nether'
+[21:21:44] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[21:21:44] [Server thread/INFO]: [dynmap] Enabled
+[21:21:44] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[21:21:44] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[21:21:44] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[21:21:44] [Server thread/INFO]: [TAB] Animation "MyAnimation1" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:21:44] [Server thread/INFO]: [TAB] Animation "ServerName" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:21:44] [Server thread/INFO]: [TAB] Animation "web" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:21:44] [Server thread/INFO]: [TAB] Animation "online" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:21:44] [Server thread/INFO]: [TAB] Animation "vote" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:21:44] [Server thread/INFO]: [TAB] Animation "Welcome" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:21:44] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[21:21:44] [Server thread/INFO]: [TAB] Animation "time" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:21:44] [Server thread/INFO]: [TAB] Animation "versions" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[21:21:46] [Server thread/INFO]: [TAB] Version 2.8.2 is out! Your version: 2.7.2
+[21:21:46] [Server thread/INFO]: [TAB] Get the update at https://www.spigotmc.org/resources/57806/
+[21:21:46] [Server thread/INFO]: [TAB] There were 10 startup warnings.
+[21:21:46] [Server thread/INFO]: [TAB] Enabled in 1969ms
+[21:21:46] [Server thread/INFO]: Done (17.233s)! For help, type "help"
+[21:21:46] [Server thread/INFO]: Timings Reset
+[21:21:46] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[21:21:46] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[21:21:47] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[21:21:48] [User Authenticator #1/INFO]: UUID of player Ghost_king_ is efb7414e-805e-3d58-8736-6af967530b4b
+[21:21:48] [Server thread/INFO]: Ghost_king_[/127.0.0.1:55024] logged in with entity id 5602 at ([world]-112.5, 64.0, 176.5)
+[21:21:49] [Craft Scheduler Thread - 1/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[21:21:49] [Craft Scheduler Thread - 1/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[21:21:49] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[21:21:49] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
+[21:21:50] [Server thread/INFO]: [NoSpawnChunks] Freed 525 mb!
+[21:22:01] [Thread-31/INFO]: --------------------
+[21:22:01] [Thread-31/INFO]: [CoreProtect] Version 19.0 is now available.
+[21:22:01] [Thread-31/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[21:22:01] [Thread-31/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[21:22:01] [Thread-31/INFO]: --------------------
+[21:22:06] [Async Chat Thread - #0/INFO]: <Ghost_king_> ！？
+[21:22:27] [User Authenticator #1/INFO]: UUID of player adhesive_tape is d20cb557-1781-3180-95d4-dc91d2c88641
+[21:22:27] [Server thread/INFO]: adhesive_tape[/127.0.0.1:55032] logged in with entity id 5924 at ([world]-116.5, 64.0, 170.5)
+[21:22:33] [Async Chat Thread - #0/INFO]: <Ghost_king_> ？？？？
+[21:22:44] [Async Chat Thread - #0/INFO]: <adhesive_tape> wodiao
+[21:22:46] [Async Chat Thread - #0/INFO]: <Ghost_king_> ？？？？？？？？？
+[21:22:55] [Async Chat Thread - #0/INFO]: <Ghost_king_> xl！？
+[21:23:02] [Async Chat Thread - #0/INFO]: <adhesive_tape> 哈普
+[21:23:05] [Async Chat Thread - #0/INFO]: <adhesive_tape> 东西呢
+[21:23:11] [User Authenticator #1/INFO]: UUID of player sen_lv_ling_ is 055dfe29-6e4f-3dfc-a473-8284a9a64732
+[21:23:11] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:55041] logged in with entity id 6198 at ([world]-112.5, 64.0, 170.5)
+[21:23:14] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> ???
+[21:23:21] [User Authenticator #1/INFO]: UUID of player Mr_director is 4f17e877-3d02-30fe-9922-528c867f1ba3
+[21:23:21] [Server thread/INFO]: Mr_director[/127.0.0.1:55047] logged in with entity id 6283 at ([world]-119.5, 64.0, 167.5)
+[21:23:26] [Async Chat Thread - #0/INFO]: <Mr_director> ?
+[21:23:32] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> 我！一无所有
+[21:23:33] [Async Chat Thread - #0/INFO]: <Ghost_king_> 很棒 腐竹摊上事了
+[21:23:33] [Server thread/INFO]: [Server] 啊等等数据没了正常
+[21:23:50] [Server thread/INFO]: adhesive_tape has made the advancement [We Need to Go Deeper]
+[21:24:05] [Server thread/INFO]: [Server] 主要是之前玩离线的时候有些人的物品需要转移
+[21:24:10] [Server thread/INFO]: Ghost_king_ was slain by sen_lv_ling_
+[21:24:13] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> 开心
+[21:24:13] [Async Chat Thread - #0/INFO]: <Ghost_king_> cap
+[21:24:15] [Async Chat Thread - #0/INFO]: <Ghost_king_> 打我干嘛
+[21:24:37] [Async Chat Thread - #0/INFO]: <adhesive_tape> 所以东西呢
+[21:24:46] [Async Chat Thread - #0/INFO]: <Mr_director> 这时候就体现地狱交通的重要性了
+[21:24:55] [Async Chat Thread - #0/INFO]: <Mr_director> 要不然你们还得一格格走
+[21:25:01] [Server thread/INFO]: Ghost_king_ was slain by sen_lv_ling_
+[21:25:04] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> 开心
+[21:25:04] [User Authenticator #2/INFO]: UUID of player Raphael0461 is b3e7233a-096d-3ef4-bed6-d77a72e19506
+[21:25:05] [Server thread/INFO]: Raphael0461[/127.0.0.1:55061] logged in with entity id 7665 at ([world]-100.5, 64.0, 168.5)
+[21:25:09] [Async Chat Thread - #0/INFO]: <Ghost_king_> 卡卧槽
+[21:25:14] [User Authenticator #2/INFO]: UUID of player 4022sun is 0f8facbb-1bc0-32a4-8482-a1609c7cb93b
+[21:25:14] [Server thread/INFO]: 4022sun[/127.0.0.1:55064] logged in with entity id 7775 at ([world]-119.5, 64.0, 169.5)
+[21:25:15] [Async Chat Thread - #0/INFO]: <Raphael0461> ?
+[21:25:18] [Async Chat Thread - #0/INFO]: <4022sun> ee
+[21:25:22] [Async Chat Thread - #0/INFO]: <sen_lv_ling_> 溜了溜了
+[21:25:23] [Async Chat Thread - #0/INFO]: <Raphael0461> 东西呢
+[21:25:28] [Async Chat Thread - #0/INFO]: <4022sun> +!
+[21:25:30] [Async Chat Thread - #0/INFO]: <4022sun> +1
+[21:25:37] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[21:25:37] [Server thread/INFO]: 4022sun left the game
+[21:25:38] [User Authenticator #2/INFO]: UUID of player 4022sun is 0f8facbb-1bc0-32a4-8482-a1609c7cb93b
+[21:25:38] [Server thread/INFO]: 4022sun[/127.0.0.1:55071] logged in with entity id 8493 at ([world]-115.65002697765607, 65.0, 171.09792202456643)
+[21:25:57] [Async Chat Thread - #0/INFO]: <4022sun> ohhh
+[21:25:59] [Async Chat Thread - #0/INFO]: <4022sun> 土豆
+[21:26:09] [Async Chat Thread - #0/INFO]: <adhesive_tape> 假的吧腐竹，末影箱里的东西全没了
+[21:26:26] [Async Chat Thread - #0/INFO]: <Raphael0461> 估计家白名单了
+[21:26:34] [User Authenticator #2/INFO]: UUID of player Xin_Sai is 4ff64fe9-d869-30f8-9199-97634d80fc40
+[21:26:34] [Server thread/INFO]: Xin_Sai[/127.0.0.1:55079] logged in with entity id 8954 at ([world]-101.5, 63.0, 184.5)
+[21:26:36] [Server thread/INFO]: Mr_director was slain by Ghost_king_
+[21:26:37] [Async Chat Thread - #0/INFO]: <4022sun> e
+[21:26:43] [Server thread/INFO]: [Server] 好了好了重启了XD
+[21:26:43] [Server thread/INFO]: sen_lv_ling_ was shot by Skeleton
+[21:26:44] [Async Chat Thread - #0/INFO]: <Ghost_king_> 东西咋搞啊腐竹
+[21:26:47] [Async Chat Thread - #0/INFO]: <4022sun> ee
+[21:26:47] [Server thread/INFO]: Stopping the server
+[21:26:47] [Server thread/INFO]: Stopping server
+[21:26:47] [Server thread/INFO]: [TAB] Disabling TAB v2.7.2
+[21:26:47] [Server thread/INFO]: [TAB] Disabled in 3ms
+[21:26:47] [Server thread/INFO]: [dynmap] Disabling dynmap v3.0-beta-10-257
+[21:26:47] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[21:26:47] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[21:26:47] [Server thread/INFO]: [dynmap] Saved 32 pending tile renders in world 'world'
+[21:26:47] [Server thread/INFO]: [dynmap] Disabled
+[21:26:47] [Server thread/INFO]: [VillagerOptimiser] Disabling VillagerOptimiser v1.1.3
+[21:26:47] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[21:26:47] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is disabled!
+[21:26:47] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[21:26:47] [Server thread/INFO]: [SAML] Disabling SAML v2.0.0
+[21:26:47] [Server thread/INFO]: [SAML] The frozen chunk cache file has been deleted. All chunks should have been accounted for.
+[21:26:47] [Server thread/INFO]: [SAML] Successfully disabled.
+[21:26:47] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[21:26:47] [Server thread/INFO]: [NoSpawnChunks] Disabling NoSpawnChunks v2.0-b147
+[21:26:47] [Server thread/INFO]: [NoSpawnChunks] NoSpawnChunks v2.0-b147 has been disabled.
+[21:26:47] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.2.2
+[21:26:47] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[21:26:47] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] Database closed
+[21:26:47] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[21:26:47] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[21:26:47] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[21:26:47] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[21:26:47] [Server thread/INFO]: [PxAutoMessage] 正在关闭皮克斯自动公告系统...
+[21:26:47] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[21:26:47] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[21:26:48] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[21:26:48] [Server thread/INFO]: Saving players
+[21:26:48] [Server thread/INFO]: adhesive_tape lost connection: Server closed
+[21:26:48] [Server thread/INFO]: adhesive_tape left the game
+[21:26:48] [Server thread/INFO]: Ghost_king_ lost connection: Server closed
+[21:26:48] [Server thread/INFO]: Ghost_king_ left the game
+[21:26:48] [Server thread/INFO]: Raphael0461 lost connection: Server closed
+[21:26:48] [Server thread/INFO]: Raphael0461 left the game
+[21:26:48] [Server thread/INFO]: 4022sun lost connection: Server closed
+[21:26:48] [Server thread/INFO]: 4022sun left the game
+[21:26:48] [Server thread/INFO]: Xin_Sai lost connection: Server closed
+[21:26:48] [Server thread/INFO]: Xin_Sai left the game
+[21:26:48] [Server thread/INFO]: Mr_director lost connection: Server closed
+[21:26:48] [Server thread/INFO]: Mr_director left the game
+[21:26:48] [Server thread/INFO]: sen_lv_ling_ lost connection: Server closed
+[21:26:48] [Server thread/INFO]: sen_lv_ling_ left the game
+[21:26:48] [Server thread/INFO]: Saving worlds
+[21:26:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:26:48] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[21:26:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:26:49] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[21:26:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:26:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:26:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:26:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:26:49] [Server thread/INFO]: Saving usercache.json

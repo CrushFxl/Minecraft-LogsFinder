@@ -1,0 +1,2153 @@
+[00:01:01] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[00:01:01] [Server thread/INFO]: Mr_director left the game
+[00:01:20] [User Authenticator #7/INFO]: Disconnecting /127.0.0.1:51664: Failed to verify username!
+[00:01:20] [User Authenticator #7/ERROR]: Username 'Mr_director' tried to join with an invalid session
+[00:01:20] [Server thread/INFO]: /127.0.0.1:51664 lost connection: Failed to verify username!
+[00:01:30] [User Authenticator #8/INFO]: Disconnecting com.mojang.authlib.GameProfile@3adcfceb[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:51666): Authentication servers are down. Please try again later, sorry!
+[00:01:30] [User Authenticator #8/ERROR]: Couldn't verify username because servers are unavailable
+[00:01:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@3adcfceb[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:51666) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:01:57] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@346678f6[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:51671): Took too long to log in
+[00:01:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@346678f6[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:51671) lost connection: Took too long to log in
+[00:02:06] [User Authenticator #7/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[00:02:06] [Server thread/INFO]: Mr_director[/127.0.0.1:51678] logged in with entity id 36235 at ([world_the_end]852.1645619917299, 31.5, 604.4085625649573)
+[00:02:08] [User Authenticator #8/INFO]: Disconnecting com.mojang.authlib.GameProfile@346678f6[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:51671): Authentication servers are down. Please try again later, sorry!
+[00:02:08] [User Authenticator #8/ERROR]: Couldn't verify username because servers are unavailable
+[00:04:10] [Server thread/INFO]: Mr_director fell out of the world
+[00:04:57] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[00:04:57] [Server thread/INFO]: Mr_director left the game
+[00:05:45] [User Authenticator #9/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[00:05:45] [Server thread/INFO]: Mr_director[/127.0.0.1:51704] logged in with entity id 37140 at ([world]1126.8700678694788, 116.0, 2270.300000011921)
+[00:13:46] [User Authenticator #10/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[00:13:46] [Server thread/INFO]: adhesive_tape[/127.0.0.1:51759] logged in with entity id 45368 at ([world]2781.699999988079, 63.0, -394.23750001192093)
+[00:15:43] [Server thread/INFO]: adhesive_tape >> 老mr了
+[00:17:02] [Server thread/INFO]: adhesive_tape >> 我睡了
+[00:27:00] [Server thread/INFO]: Mr_director >> .
+[00:27:02] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[00:27:02] [Server thread/INFO]: Mr_director left the game
+[00:35:38] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[00:56:02] [Server thread/INFO]: Added nan_nono_boom to the whitelist
+[01:10:58] [Server thread/INFO]: There are 1 of a max 40 players online: adhesive_tape
+[01:20:57] [User Authenticator #11/INFO]: UUID of player nan_nono_boom is ca34b23c-fb89-4817-8f02-b570a4fcf250
+[01:20:57] [Server thread/WARN]: Using offline mode UUID file for player nan_nono_boom as it is the only copy we can find.
+[01:20:57] [Server thread/INFO]: nan_nono_boom has reached the goal [Sky's the Limit]
+[01:20:57] [Server thread/INFO]: nan_nono_boom has made the advancement [Stone Age]
+[01:20:57] [Server thread/INFO]: nan_nono_boom has made the advancement [Isn't It Iron Pick]
+[01:20:57] [Server thread/INFO]: nan_nono_boom has made the advancement [Suit Up]
+[01:20:57] [Server thread/INFO]: nan_nono_boom has made the advancement [Cover Me With Diamonds]
+[01:20:57] [Server thread/INFO]: nan_nono_boom has made the advancement [Hot Stuff]
+[01:20:57] [Server thread/INFO]: nan_nono_boom has made the advancement [Acquire Hardware]
+[01:20:57] [Server thread/INFO]: nan_nono_boom[/127.0.0.1:52208] logged in with entity id 131863 at ([world]2686.640601949548, 64.0, -363.30000001192093)
+[01:21:14] [Server thread/INFO]: nan_nono_boom >> 啊这
+[01:22:36] [Server thread/INFO]: nan_nono_boom has made the advancement [We Need to Go Deeper]
+[01:25:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[01:31:27] [Server thread/INFO]: nan_nono_boom has made the advancement [Eye Spy]
+[01:31:36] [Server thread/INFO]: nan_nono_boom has made the advancement [The End?]
+[01:31:36] [Server thread/WARN]: nan_nono_boom moved too quickly! 756.5650622913714,25.0,1878.475268404054
+[01:34:53] [Server thread/INFO]: nan_nono_boom has made the advancement [Monster Hunter]
+[01:35:11] [Server thread/INFO]: nan_nono_boom lost connection: Disconnected
+[01:35:11] [Server thread/INFO]: nan_nono_boom left the game
+[01:35:17] [User Authenticator #12/INFO]: UUID of player nan_nono_boom is ca34b23c-fb89-4817-8f02-b570a4fcf250
+[01:35:17] [Server thread/INFO]: nan_nono_boom[/127.0.0.1:52300] logged in with entity id 158534 at ([world_the_end]74.23181689750358, 58.0, 6.356540992763158)
+[01:35:38] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[01:35:49] [Server thread/WARN]: nan_nono_boom moved wrongly!
+[01:40:14] [Server thread/INFO]: nan_nono_boom issued server command: /co i
+[01:40:16] [Server thread/INFO]: nan_nono_boom issued server command: /co i
+[01:49:04] [Server thread/INFO]: nan_nono_boom has made the advancement [What a Deal!]
+[01:54:23] [Server thread/WARN]: nan_nono_boom moved wrongly!
+[01:57:08] [Server thread/INFO]: nan_nono_boom lost connection: Disconnected
+[01:57:08] [Server thread/INFO]: nan_nono_boom left the game
+[02:35:38] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[03:35:38] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[04:35:38] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[05:21:08] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[05:21:08] [Server thread/INFO]: adhesive_tape left the game
+[05:35:38] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[06:35:38] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[07:26:02] [User Authenticator #13/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[07:26:02] [Server thread/INFO]: Xin_Sai[/127.0.0.1:54538] logged in with entity id 441438 at ([world]2767.587608516866, 70.5, -406.03321969261896)
+[07:35:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[07:35:38] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[08:02:41] [User Authenticator #14/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[08:02:41] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:54792] logged in with entity id 453643 at ([world]-96.80160487879613, 65.5, 273.5574524078376)
+[08:04:03] [Server thread/INFO]: CoreProtect - Inspector now enabled.
+[08:04:05] [Server thread/INFO]: CoreProtect - Inspector now disabled.
+[08:04:08] [Thread-274/INFO]: ----- CoreProtect Update -----
+[08:04:08] [Thread-274/INFO]: Notice: CoreProtect v19.0 is now available.
+[08:04:08] [Thread-274/INFO]: Download: www.coreprotect.net/download/
+[08:05:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[08:06:01] [User Authenticator #15/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[08:06:01] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@10776378[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@64f24318]},legacy=false] (/127.0.0.1:54828): 你还不在白名单噢 加入审核群1145301933 进行审核
+[08:06:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@10776378[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@64f24318]},legacy=false] (/127.0.0.1:54828) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[08:07:02] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[08:07:02] [Server thread/INFO]: Li_zi_wei left the game
+[08:07:28] [User Authenticator #16/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[08:07:28] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5c9671c5[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@7ac3499b]},legacy=false] (/127.0.0.1:54839): 你还不在白名单噢 加入审核群1145301933 进行审核
+[08:07:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c9671c5[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@7ac3499b]},legacy=false] (/127.0.0.1:54839) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[08:08:09] [User Authenticator #16/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[08:08:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2173cd1a[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@2d4af1d2]},legacy=false] (/127.0.0.1:54845): 你还不在白名单噢 加入审核群1145301933 进行审核
+[08:08:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@2173cd1a[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@2d4af1d2]},legacy=false] (/127.0.0.1:54845) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[08:15:39] [Server thread/INFO]: Xin_Sai issued server command: /co i
+[08:15:55] [Server thread/INFO]: Xin_Sai issued server command: /co i
+[08:16:08] [User Authenticator #17/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[08:16:08] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@12db1f32[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@6a90b975]},legacy=false] (/127.0.0.1:54900): 你还不在白名单噢 加入审核群1145301933 进行审核
+[08:16:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@12db1f32[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@6a90b975]},legacy=false] (/127.0.0.1:54900) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[08:19:36] [User Authenticator #18/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[08:19:36] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@736b75ef[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@7c346e0]},legacy=false] (/127.0.0.1:54925): 你还不在白名单噢 加入审核群1145301933 进行审核
+[08:19:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@736b75ef[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@7c346e0]},legacy=false] (/127.0.0.1:54925) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[08:27:00] [User Authenticator #19/INFO]: UUID of player fly_pigman01 is ee66c593-3d27-4832-911d-b569dd50102f
+[08:27:00] [Server thread/INFO]: fly_pigman01[/127.0.0.1:54975] logged in with entity id 463594 at ([world]5216.300000011921, 192.0, 243.69999998807907)
+[08:27:06] [Server thread/INFO]: Xin_Sai >> !
+[08:27:25] [Server thread/INFO]: fly_pigman01 >> 咋啦
+[08:28:19] [Server thread/INFO]: fly_pigman01 fell from a high place
+[08:35:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[08:35:38] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[08:35:51] [Server thread/INFO]: fly_pigman01 lost connection: Disconnected
+[08:35:51] [Server thread/INFO]: fly_pigman01 left the game
+[08:38:01] [User Authenticator #20/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[08:38:01] [Server thread/INFO]: Jichen233[/127.0.0.1:55051] logged in with entity id 473901 at ([world]2633.2384394648348, 71.0, 687.1825206893748)
+[08:41:03] [User Authenticator #21/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[08:41:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4eb965fd[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@3565f797]},legacy=false] (/127.0.0.1:55076): 你还不在白名单噢 加入审核群1145301933 进行审核
+[08:41:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@4eb965fd[id=65a0ca08-1f30-4aee-99cd-f57d809b2af8,name=HitoShouri,properties={textures=[com.mojang.authlib.properties.Property@3565f797]},legacy=false] (/127.0.0.1:55076) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[08:44:48] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[08:44:48] [Server thread/INFO]: Jichen233 left the game
+[08:45:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[08:45:58] [Server thread/INFO]: Xin_Sai >> zzz
+[09:24:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@525c10e1[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:55368) lost connection: Disconnected
+[09:24:46] [Server thread/INFO]: Added HitoShouri to the whitelist
+[09:24:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5663ms or 113 ticks behind
+[09:24:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@131e6251[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:55370) lost connection: Disconnected
+[09:26:55] [User Authenticator #22/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[09:26:55] [Server thread/INFO]: HitoShouri[/127.0.0.1:55384] logged in with entity id 516439 at ([world]-103.5, 64.0, 173.5)
+[09:27:04] [Server thread/INFO]: Xin_Sai >> !
+[09:27:10] [Server thread/INFO]: HitoShouri >> hi
+[09:27:19] [Server thread/INFO]: Xin_Sai >> 你是新手么
+[09:27:35] [Server thread/INFO]: HitoShouri >> Yes
+[09:27:36] [Server thread/INFO]: Xin_Sai >> ?
+[09:27:46] [Server thread/INFO]: Xin_Sai >> a.a
+[09:28:05] [Server thread/INFO]: Xin_Sai >> 我说的是 刚玩我的世界么
+[09:28:54] [Server thread/INFO]: HitoShouri >> 我从2017年秋入坑
+[09:29:05] [Server thread/INFO]: Xin_Sai >> 可以
+[09:29:16] [Server thread/INFO]: Xin_Sai >> 来我们城发展么
+[09:29:33] [Server thread/INFO]: HitoShouri >> 你在哪？
+[09:29:52] [Server thread/INFO]: Xin_Sai >> 你去地狱门等我
+[09:30:01] [Server thread/INFO]: Xin_Sai >> 主城地狱门
+[09:30:25] [Server thread/INFO]: HitoShouri >> -146 64 169
+[09:31:07] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[09:31:07] [Server thread/INFO]: Xin_Sai left the game
+[09:31:11] [Server thread/INFO]: HitoShouri >> ?
+[09:31:15] [User Authenticator #23/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[09:31:15] [Server thread/INFO]: Xin_Sai[/127.0.0.1:55417] logged in with entity id 532839 at ([world]-146.06529283451337, 64.0, 169.5642368171865)
+[09:31:33] [Server thread/INFO]: Xin_Sai >> 刚刚有点卡
+[09:31:46] [Server thread/INFO]: Xin_Sai >> 跟我走
+[09:31:53] [Server thread/INFO]: HitoShouri has made the advancement [We Need to Go Deeper]
+[09:32:34] [Server thread/INFO]: Xin_Sai >> 这个边缘跳可以加速
+[09:33:25] [Server thread/INFO]: Xin_Sai >> ? 你人呢
+[09:34:45] [Server thread/INFO]: HitoShouri >> food
+[09:34:53] [Server thread/INFO]: Xin_Sai >> 我先给你拿一套装备
+[09:35:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[09:35:35] [Server thread/INFO]: Xin_Sai >> HitoShouri 跟我来
+[09:35:44] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[09:36:08] [Server thread/INFO]: HitoShouri has made the advancement [Cover Me With Diamonds]
+[09:36:32] [Server thread/INFO]: Xin_Sai >> 这里是村民的地方
+[09:36:38] [Server thread/INFO]: HitoShouri >> thankyou
+[09:36:53] [Server thread/INFO]: Xin_Sai >> 这里是刷树机
+[09:37:08] [Server thread/INFO]: Xin_Sai >> ?
+[09:37:31] [Server thread/INFO]: HitoShouri >> 能开小地图吗？
+[09:37:40] [Server thread/INFO]: Xin_Sai >> 为什么不能
+[09:38:05] [Server thread/INFO]: Xin_Sai >> 我给你拿点武器】
+[09:38:06] [Server thread/INFO]: HitoShouri >> 等会，我去加个小地图
+[09:38:08] [Server thread/INFO]: HitoShouri lost connection: Disconnected
+[09:38:08] [Server thread/INFO]: HitoShouri left the game
+[09:46:22] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[09:46:22] [Server thread/INFO]: Xin_Sai left the game
+[09:46:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@14bc311f[id=<null>,name=Xin_Sai,properties={},legacy=false] (/127.0.0.1:55522) lost connection: Disconnected
+[09:46:44] [User Authenticator #24/INFO]: Disconnecting com.mojang.authlib.GameProfile@14bc311f[id=<null>,name=Xin_Sai,properties={},legacy=false] (/127.0.0.1:55522): Authentication servers are down. Please try again later, sorry!
+[09:46:44] [User Authenticator #24/ERROR]: Couldn't verify username because servers are unavailable
+[09:46:49] [User Authenticator #24/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[09:46:49] [Server thread/INFO]: Xin_Sai[/127.0.0.1:55526] logged in with entity id 536719 at ([world]2814.8331892639253, 63.0, -414.915839070028)
+[09:50:08] [User Authenticator #25/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[09:50:09] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:55549] logged in with entity id 549619 at ([world]2777.9548139459835, 63.0, -396.926804239756)
+[09:50:25] [Server thread/INFO]: Xin_Sai >> sen!
+[09:50:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 开始打骨折
+[09:57:00] [User Authenticator #26/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[09:57:00] [Server thread/INFO]: North_dream[/127.0.0.1:55596] logged in with entity id 568484 at ([world_nether]278.45095004070936, 119.0, 996.3100000119209)
+[09:57:06] [Server thread/INFO]: Xin_Sai >> emm
+[09:57:20] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 先看他卡退不
+[09:58:18] [Server thread/INFO]: <北梦曦> North_dream >> az
+[09:58:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 竟然没有
+[09:58:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 奇迹
+[09:58:51] [Server thread/INFO]: Villager EntityVillager['Librarian'/565976, uuid='31f78ce8-01fc-4f82-9525-8aba5a959bae', l='world', x=2770.30, y=73.49, z=-409.30, cx=173, cz=-26, tl=141076, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[09:58:55] [Server thread/INFO]: <北梦曦> North_dream >> 我要怎么走
+[09:58:56] [Server thread/INFO]: Villager EntityVillager[''/565977, uuid='291c25ef-5b58-4944-b1d1-9f32835b1880', l='world', x=2770.30, y=73.59, z=-409.70, cx=173, cz=-26, tl=141175, v=true, d=false] died, message: '小泠 was slain by 森语'
+[09:58:59] [Server thread/INFO]: Villager EntityVillager['Librarian'/565982, uuid='9e5cf0a0-731a-4bb7-bc58-29ebcda668b8', l='world', x=2770.30, y=74.23, z=-409.34, cx=173, cz=-26, tl=133127, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[09:59:02] [Server thread/INFO]: <北梦曦> North_dream >> 我还在盾构机上面
+[09:59:03] [Server thread/INFO]: Villager EntityVillager['Farmer'/565978, uuid='c33d3290-36e4-4bef-8205-600d1c0d368d', l='world', x=2770.30, y=73.76, z=-409.30, cx=173, cz=-26, tl=137402, v=true, d=false] died, message: 'Farmer was slain by 森语'
+[09:59:06] [Server thread/INFO]: Villager EntityVillager['Farmer'/565983, uuid='53781379-1756-4377-bc65-adb34247367e', l='world', x=2770.70, y=73.65, z=-409.70, cx=173, cz=-26, tl=126984, v=true, d=false] died, message: 'Farmer was slain by Zombie Villager'
+[09:59:08] [Server thread/INFO]: Villager EntityVillager['Librarian'/565981, uuid='413c1801-7e28-43e7-9683-db08152392bb', l='world', x=2770.70, y=73.58, z=-409.30, cx=173, cz=-26, tl=133307, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[09:59:12] [Server thread/INFO]: Villager EntityVillager['Librarian'/565979, uuid='c039c4d4-3318-4966-9736-712900fa09fa', l='world', x=2770.30, y=73.24, z=-409.30, cx=173, cz=-26, tl=133383, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[09:59:15] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[09:59:15] [Server thread/INFO]: Villager EntityVillager[''/566070, uuid='8cf036c1-f155-4175-a387-a2f66014ac6b', l='world', x=2770.70, y=72.89, z=-409.30, cx=173, cz=-26, tl=133633, v=true, d=false] died, message: '小泠 was slain by 森语'
+[09:59:23] [Server thread/INFO]: Villager EntityVillager[''/566072, uuid='1cada4f6-492c-4f1f-aacc-6a0d61370fa3', l='world', x=2770.30, y=73.24, z=-409.61, cx=173, cz=-26, tl=133775, v=true, d=false] died, message: '小泠 was slain by 森语'
+[09:59:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 就是你在盾构上面
+[09:59:31] [Server thread/INFO]: Villager EntityVillager[''/566073, uuid='30e9c031-0569-43f6-991a-11edea9109f5', l='world', x=2770.70, y=73.91, z=-409.30, cx=173, cz=-26, tl=133953, v=true, d=false] died, message: '小泠 was slain by 森语'
+[09:59:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 昨天才没开盾构
+[09:59:37] [Server thread/INFO]: <北梦曦> North_dream >> ???
+[09:59:54] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 害怕你一进来就掉岩浆
+[10:00:01] [Server thread/INFO]: <北梦曦> North_dream >> 怕什么
+[10:00:06] [Server thread/INFO]: <北梦曦> North_dream >> 我东西又不重要
+[10:00:27] [Server thread/INFO]: <北梦曦> North_dream >> 也就带了一套满配钻甲和一把满配剑
+[10:00:46] [Server thread/INFO]: <北梦曦> North_dream >> az
+[10:00:47] [Server thread/INFO]: <北梦曦> North_dream >> tape
+[10:01:01] [Server thread/INFO]: <北梦曦> North_dream >> 把18号箱子拿了
+[10:01:04] [Server thread/INFO]: <北梦曦> North_dream >> 我东西还在里面
+[10:01:44] [Server thread/INFO]: Villager EntityVillager[''/565980, uuid='3dc78f55-7683-4bb9-b3d3-507a39d949e4', l='world', x=2770.30, y=73.35, z=-409.49, cx=173, cz=-26, tl=136425, v=true, d=false] died, message: '小泠 was slain by 森语'
+[10:02:43] [Server thread/INFO]: Villager EntityVillager['Farmer'/566107, uuid='eeb34583-75ad-4ff8-9748-8dc983bf77a9', l='world', x=2770.34, y=73.15, z=-409.52, cx=173, cz=-26, tl=146561, v=true, d=false] died, message: 'Farmer was slain by 森语'
+[10:03:06] [Server thread/INFO]: Villager EntityVillager['Librarian'/566111, uuid='5821687b-f8b6-4400-b534-94adfeb601cf', l='world', x=2770.30, y=73.30, z=-409.50, cx=173, cz=-26, tl=146955, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[10:03:53] [Server thread/INFO]: <北梦曦> North_dream >> az
+[10:03:55] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[10:03:55] [Server thread/INFO]: Xin_Sai left the game
+[10:03:58] [Server thread/INFO]: <北梦曦> North_dream >> co i的全名是啥啊
+[10:04:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[10:04:06] [Server thread/INFO]: <北梦曦> North_dream >> 这个审核题好难
+[10:05:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[10:08:29] [Server thread/INFO]: Villager EntityVillager[''/566071, uuid='9b95ea3f-3806-49c1-9771-9901b1e6ff08', l='world', x=2770.30, y=73.32, z=-409.30, cx=173, cz=-26, tl=144697, v=true, d=false] died, message: '小泠 was slain by 森语'
+[10:08:41] [Server thread/INFO]: Villager EntityVillager['Librarian'/571243, uuid='67c07caf-d88e-4aa1-9461-9c4d6f752f1a', l='world', x=2770.48, y=73.77, z=-409.49, cx=173, cz=-26, tl=747, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[10:09:15] [Server thread/INFO]: Villager EntityVillager[''/570031, uuid='62915fba-2de2-4e3f-936e-ccbc8621638f', l='world', x=2770.48, y=73.51, z=-409.51, cx=173, cz=-26, tl=6666, v=true, d=false] died, message: '小泠 was slain by 森语'
+[10:09:30] [Server thread/INFO]: Villager EntityVillager['Librarian'/569982, uuid='41aec66b-a198-4659-b7ab-ed8e65b0e3e6', l='world', x=2770.32, y=73.26, z=-409.49, cx=173, cz=-26, tl=7329, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[10:10:04] [Server thread/INFO]: Villager EntityVillager[''/570126, uuid='b9d87fb0-8e50-4bde-a723-968e53d75471', l='world', x=2770.30, y=73.27, z=-409.46, cx=173, cz=-26, tl=7253, v=true, d=false] died, message: '小泠 was slain by 森语'
+[10:10:28] [Server thread/INFO]: Villager EntityVillager['Librarian'/570132, uuid='32d6c7d1-4bae-4ca9-8cfb-5110aaa6df32', l='world', x=2770.38, y=73.12, z=-409.48, cx=173, cz=-26, tl=7690, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[10:10:59] [Server thread/INFO]: Villager EntityVillager['Librarian'/571088, uuid='a712a602-6833-4b85-b897-732d93747487', l='world', x=2770.30, y=73.33, z=-409.52, cx=173, cz=-26, tl=4434, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[10:10:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@14b0630[id=<null>,name=Xin_Sai,properties={},legacy=false] (/127.0.0.1:55689) lost connection: Disconnected
+[10:11:01] [User Authenticator #27/INFO]: Disconnecting com.mojang.authlib.GameProfile@14b0630[id=<null>,name=Xin_Sai,properties={},legacy=false] (/127.0.0.1:55689): Authentication servers are down. Please try again later, sorry!
+[10:11:01] [User Authenticator #27/ERROR]: Couldn't verify username because servers are unavailable
+[10:11:10] [User Authenticator #27/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[10:11:10] [Server thread/INFO]: Xin_Sai[/127.0.0.1:55693] logged in with entity id 572382 at ([world]2791.281503562583, 63.0, -380.5320851795557)
+[10:11:19] [User Authenticator #27/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[10:11:19] [Server thread/INFO]: HitoShouri[/127.0.0.1:55695] logged in with entity id 572428 at ([world]2806.289943065421, 63.0, -425.66322163303835)
+[10:11:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[10:11:27] [Server thread/INFO]: <北梦曦> North_dream >> !?
+[10:11:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 新人？
+[10:11:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[10:11:48] [Server thread/INFO]: Xin_Sai >> a.a
+[10:11:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 骨折机莫名其妙再多一个农民
+[10:11:53] [Server thread/INFO]: <北梦曦> North_dream >> 别来海晶
+[10:11:57] [Server thread/INFO]: <北梦曦> North_dream >> 不要来！
+[10:12:03] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[10:12:19] [Server thread/INFO]: Villager EntityVillager['Farmer'/569884, uuid='921a0125-6830-4efe-8385-81c1874f140b', l='world', x=2777.30, y=64.00, z=-410.70, cx=173, cz=-26, tl=11275, v=true, d=false] died, message: 'Farmer was slain by sen_lv_ling_ using [森语.破阵]'
+[10:12:27] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 1
+[10:12:35] [Server thread/INFO]: <北梦曦> North_dream >> 对于昨天的事
+[10:12:40] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 我带你去住的地方
+[10:13:00] [Server thread/WARN]: Xin_Sai moved wrongly!
+[10:13:02] [Server thread/INFO]: HitoShouri issued server command: /help
+[10:13:05] [Server thread/INFO]: <北梦曦> North_dream >> 我不挖人啦森森！
+[10:13:11] [Server thread/INFO]: HitoShouri issued server command: /w
+[10:13:22] [Server thread/INFO]: HitoShouri issued server command: /c
+[10:13:40] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 走？
+[10:13:54] [Server thread/INFO]: North_dream lost connection: Timed out
+[10:13:54] [Server thread/INFO]: North_dream left the game
+[10:13:56] [Server thread/INFO]: HitoShouri >> 怎么私聊？
+[10:14:06] [Server thread/INFO]: Xin_Sai >> ?
+[10:14:07] [Server thread/INFO]: HitoShouri issued server command: /
+[10:14:20] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri tell 人名
+[10:14:39] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 你不要乱跑丫
+[10:15:00] [Server thread/INFO]: HitoShouri issued server command: /tell Xin
+[10:15:07] [Server thread/INFO]: HitoShouri >> go
+[10:15:10] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri sen这个人不太喜欢新人
+[10:15:28] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 昨天新人熊了他的骨折机
+[10:15:57] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 人呢？
+[10:16:19] [Server thread/INFO]: HitoShouri >> 我是路痴
+[10:16:29] [User Authenticator #28/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[10:16:29] [Server thread/INFO]: North_dream[/127.0.0.1:55732] logged in with entity id 574114 at ([world_nether]200.2965213226532, 115.0, 260.2338339188584)
+[10:16:30] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 你能不能跟好我 一会sen把你杀了我管不了233
+[10:16:46] [Server thread/INFO]: Xin_Sai >> ohhh
+[10:17:52] [Server thread/INFO]: <北梦曦> North_dream >> 森森
+[10:17:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[10:17:57] [Server thread/INFO]: <北梦曦> North_dream >> 门及那块还有吗
+[10:18:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[10:18:03] [Server thread/INFO]: <北梦曦> North_dream >> 门禁卡还有吗
+[10:18:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[10:18:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你自己命名吧
+[10:18:17] [Server thread/INFO]: <北梦曦> North_dream >> ...
+[10:18:24] [Server thread/INFO]: <北梦曦> North_dream >> 那我先挖门进去咯
+[10:18:27] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 而且那个门旁边右路
+[10:18:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 而且那个门旁边有路
+[10:18:36] [Server thread/INFO]: <北梦曦> North_dream >> o
+[10:18:40] [Server thread/INFO]: Xin_Sai >> HitoShouri 你对于自己的建筑自信么
+[10:18:53] [Server thread/INFO]: Villager EntityVillager[''/566074, uuid='568c86fe-16b0-494e-981e-a9f6694d8438', l='world', x=2787.30, y=64.00, z=-410.70, cx=174, cz=-26, tl=165777, v=true, d=false] died, message: '小泠 was slain by sen_lv_ling_ using [森语.破阵]'
+[10:18:59] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri ?
+[10:19:02] [Server thread/INFO]: <北梦曦> North_dream >> 你是做了问卷调查有的白名单还是之前就有的
+[10:19:11] [Server thread/INFO]: Villager EntityVillager['Farmer'/566054, uuid='259faaff-f923-45b3-92fc-66999af0645a', l='world', x=2740.60, y=63.00, z=-423.51, cx=171, cz=-27, tl=466094, v=true, d=false] died, message: 'Farmer burned to death'
+[10:19:26] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 你对自己的建筑自信吗
+[10:20:05] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 还行吧
+[10:20:12] [Server thread/INFO]: Xin_Sai >> sen 还有青金石和仙人掌么
+[10:20:29] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri en en
+[10:20:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 没
+[10:20:43] [Server thread/INFO]: HitoShouri has made the advancement [Monster Hunter]
+[10:20:45] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 什么风格的
+[10:20:52] [Server thread/INFO]: <北梦曦> North_dream >> 仙人掌？
+[10:21:00] [Server thread/INFO]: Xin_Sai >> 嗯嗯
+[10:21:02] [Server thread/INFO]: <北梦曦> North_dream >> 白佬做了一个仙人掌机
+[10:21:09] [Server thread/INFO]: <北梦曦> North_dream >> 没有人挂过
+[10:21:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 旁边有
+[10:21:16] [Server thread/INFO]: Xin_Sai >> 我把那边的仙人掌拿光了
+[10:21:19] [Server thread/INFO]: HitoShouri lost connection: Disconnected
+[10:21:19] [Server thread/INFO]: HitoShouri left the game
+[10:21:26] [Server thread/INFO]: <北梦曦> North_dream >> 在马赛克的西边
+[10:21:29] [Server thread/INFO]: <北梦曦> North_dream >> 的沙漠
+[10:21:59] [Server thread/INFO]: Xin_Sai >> 北梦 那个高速熔炉是你修的么
+[10:22:17] [Server thread/INFO]: Xin_Sai >> 高速熔炉接地毯机
+[10:23:31] [Server thread/INFO]: Xin_Sai >> 那个真的是做的有问题 每个熔炉的羊毛供给不到 然后有些路子烧不了
+[10:24:20] [Server thread/INFO]: Xin_Sai >> 染羊毛是最烦的
+[10:24:28] [Server thread/INFO]: Xin_Sai >> 我TM
+[10:24:40] [Server thread/INFO]: Xin_Sai >> 1组染料只能染1组羊毛
+[10:24:40] [Server thread/INFO]: <北梦曦> North_dream >> e
+[10:24:49] [Server thread/INFO]: <北梦曦> North_dream >> 我还在做羊毛机
+[10:24:54] [Server thread/INFO]: <北梦曦> North_dream >> 你等等awa
+[10:25:10] [Server thread/INFO]: Xin_Sai >> 我要青色羊qwq
+[10:25:25] [Server thread/INFO]: Xin_Sai >> 教堂就差屋顶没铺了
+[10:25:30] [Server thread/INFO]: <北梦曦> North_dream >> awa?
+[10:25:36] [Server thread/INFO]: Xin_Sai >> 然后就做内饰
+[10:25:56] [User Authenticator #29/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[10:25:56] [Server thread/INFO]: adhesive_tape[/127.0.0.1:55794] logged in with entity id 578442 at ([world]1129.5839887978566, 116.0, 2271.8517014667123)
+[10:27:16] [Server thread/INFO]: Xin_Sai >> 仙人掌都被拿去铺史莱姆地板了吧
+[10:27:20] [Server thread/INFO]: <北梦曦> North_dream >> e?
+[10:28:29] [Server thread/INFO]: Xin_Sai >> 黄绿色玻璃要用仙人掌丫
+[10:34:04] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[10:34:04] [Server thread/INFO]: Xin_Sai left the game
+[10:35:32] [Server thread/INFO]: <北梦曦> North_dream >> tape
+[10:35:34] [Server thread/INFO]: <北梦曦> North_dream >> 你来了啊
+[10:35:43] [Server thread/INFO]: <北梦曦> North_dream >> 18号盒子在你那吗
+[10:35:44] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[10:36:04] [Server thread/INFO]: adhesive_tape >> 没
+[10:36:06] [Server thread/INFO]: <北梦曦> North_dream >> ??
+[10:36:08] [Server thread/INFO]: <北梦曦> North_dream >> 就是
+[10:36:12] [Server thread/INFO]: <北梦曦> North_dream >> 一个装了鞘翅
+[10:36:14] [Server thread/INFO]: <北梦曦> North_dream >> 稿子
+[10:36:15] [Server thread/INFO]: <北梦曦> North_dream >> 斧头
+[10:36:17] [Server thread/INFO]: <北梦曦> North_dream >> 烟花
+[10:36:23] [Server thread/INFO]: <北梦曦> North_dream >> 好像是粉色的
+[10:36:36] [Server thread/INFO]: adhesive_tape >> 这是15号盒子
+[10:36:40] [Server thread/INFO]: <北梦曦> North_dream >> 那我记错了
+[10:36:52] [Server thread/INFO]: Villager EntityVillager[''/574177, uuid='19743f3b-3cf0-462f-95ef-435d051f2855', l='world', x=2770.54, y=73.06, z=-409.70, cx=173, cz=-26, tl=24193, v=true, d=false] died, message: '小泠 was slain by 森语'
+[10:37:02] [Server thread/INFO]: adhesive_tape >> 空置域吗
+[10:37:03] [Server thread/WARN]: adhesive_tape moved wrongly!
+[10:37:06] [Server thread/INFO]: adhesive_tape >> 我给你送过去
+[10:37:09] [Server thread/INFO]: <北梦曦> North_dream >> 不
+[10:37:11] [Server thread/INFO]: <北梦曦> North_dream >> 羊毛机
+[10:37:39] [Server thread/INFO]: <北梦曦> North_dream >> az
+[10:37:43] [Server thread/INFO]: <北梦曦> North_dream >> 我要走了
+[10:37:46] [Server thread/INFO]: <北梦曦> North_dream >> 身份证要过期了
+[10:37:50] [Server thread/INFO]: <北梦曦> North_dream >> 我要去照相了
+[10:37:53] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> = =
+[10:37:54] [Server thread/INFO]: Villager EntityVillager[''/571089, uuid='19ddfc74-40db-4c17-b134-14a49e3e6877', l='world', x=2770.34, y=73.15, z=-409.47, cx=173, cz=-26, tl=36729, v=true, d=false] died, message: '小泠 was slain by 森语'
+[10:37:55] [Server thread/INFO]: <北梦曦> North_dream >> bye
+[10:37:57] [Server thread/INFO]: North_dream lost connection: Disconnected
+[10:37:57] [Server thread/INFO]: North_dream left the game
+[10:38:10] [User Authenticator #30/INFO]: UUID of player fly_pigman01 is ee66c593-3d27-4832-911d-b569dd50102f
+[10:38:10] [Server thread/INFO]: fly_pigman01[/127.0.0.1:55881] logged in with entity id 587303 at ([world]5181.724042679608, 64.0, 212.7646824518115)
+[10:38:19] [Server thread/INFO]: Villager EntityVillager['Librarian'/566049, uuid='cc4f5af7-65f5-42c1-9e84-f64da59ea53b', l='world', x=2770.47, y=73.35, z=-409.50, cx=173, cz=-26, tl=2406992, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[10:38:26] [Server thread/INFO]: Villager EntityVillager['小泠'/566050, uuid='14008675-36ad-48ec-8141-ef6159e14bbb', l='world', x=2770.34, y=73.24, z=-409.55, cx=173, cz=-26, tl=2407090, v=true, d=false] died, message: '小泠 was slain by 森语'
+[10:38:42] [Server thread/INFO]: Villager EntityVillager['Librarian'/565989, uuid='fef556fc-0c91-4cca-9c42-afee37099e77', l='world', x=2770.47, y=73.78, z=-409.49, cx=173, cz=-26, tl=3057306, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[10:39:46] [Server thread/INFO]: Villager EntityVillager['Librarian'/565987, uuid='3cee3b2b-3034-4e7d-b357-448c28af486d', l='world', x=2770.30, y=73.33, z=-409.36, cx=173, cz=-26, tl=3271934, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[10:43:10] [User Authenticator #31/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[10:43:10] [Server thread/INFO]: Mr_director[/127.0.0.1:55916] logged in with entity id 590980 at ([world]1126.8700678694788, 116.0, 2270.300000011921)
+[10:44:39] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[10:44:49] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[10:46:07] [Server thread/INFO]: adhesive_tape >> 搞什么
+[10:46:23] [Server thread/INFO]: adhesive_tape >> 另一边的盾构机怎么炸得稀碎
+[10:46:29] [Server thread/INFO]: adhesive_tape >> 谁做的啊
+[10:46:32] [Server thread/INFO]: Mr_director >> 4022
+[10:46:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我服
+[10:46:51] [Server thread/INFO]: Mr_director >> co i看看
+[10:47:01] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[10:47:19] [Server thread/INFO]: adhesive_tape issued server command: /co l2
+[10:47:22] [Server thread/INFO]: adhesive_tape issued server command: /co l 2
+[10:47:23] [Server thread/INFO]: Mr_director >> 挂机挂机
+[10:47:31] [Server thread/INFO]: adhesive_tape issued server command: /co l 2
+[10:47:38] [Server thread/INFO]: adhesive_tape issued server command: /co l 2
+[10:47:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> wtm
+[10:47:45] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[10:47:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 谁又碰骨折机来的
+[10:48:04] [User Authenticator #32/INFO]: UUID of player nan_nono_boom is ca34b23c-fb89-4817-8f02-b570a4fcf250
+[10:48:04] [Server thread/INFO]: nan_nono_boom[/127.0.0.1:55948] logged in with entity id 594069 at ([world]3192.9865618958165, 62.073264739703426, -5158.492346344355)
+[10:48:06] [Server thread/INFO]: adhesive_tape >> ...
+[10:48:23] [Server thread/INFO]: nan_nono_boom >> w
+[10:48:25] [Server thread/INFO]: fly_pigman01 lost connection: Disconnected
+[10:48:25] [Server thread/INFO]: fly_pigman01 left the game
+[10:48:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 水一冲一大片没了
+[10:48:44] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[10:49:20] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[10:51:20] [Server thread/INFO]: adhesive_tape >> 咋了
+[10:52:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 一卡一卡的
+[10:52:56] [Server thread/WARN]: nan_nono_boom moved too quickly! 2355.3608878886894,-52.0,-4548.194814084938
+[10:53:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[10:54:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 导致几个村民挤在一起
+[10:54:17] [Server thread/INFO]: adhesive_tape >> 咦
+[10:54:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你
+[10:54:22] [Server thread/INFO]: adhesive_tape >> 这里可以出来
+[10:56:15] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 别围
+[10:56:19] [Server thread/INFO]: Villager EntityVillager['Librarian'/590588, uuid='73c5828d-43f3-4667-9a5c-f984c122b338', l='world', x=2770.39, y=73.16, z=-409.50, cx=173, cz=-26, tl=16721, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[10:56:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我吐了
+[10:57:06] [Server thread/WARN]: adhesive_tape moved wrongly!
+[10:57:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 玩家进的不一样emmm
+[10:57:30] [Server thread/INFO]: adhesive_tape >> e
+[10:57:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 又哪刷的姜丝
+[10:57:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 熔炉那边
+[10:59:45] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[10:59:57] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:01:04] [Server thread/INFO]: adhesive_tape >> 来了来了
+[11:01:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 心塞放的这
+[11:01:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 刷怪了
+[11:02:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 莫名其妙
+[11:02:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你睡一下
+[11:05:38] [Server thread/INFO]: nan_nono_boom has made the advancement [Ice Bucket Challenge]
+[11:05:58] [Server thread/INFO]: nan_nono_boom lost connection: Disconnected
+[11:05:58] [Server thread/INFO]: nan_nono_boom left the game
+[11:06:07] [Server thread/INFO]: adhesive_tape >> 完？
+[11:06:19] [Server thread/INFO]: adhesive_tape >> 那个新人是干啥的
+[11:06:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[11:07:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 貌似少了个图书管理员
+[11:07:30] [User Authenticator #33/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[11:07:30] [Server thread/INFO]: Ghost_king_[/127.0.0.1:56077] logged in with entity id 603420 at ([world_nether]197.3263611941099, 115.0, 74.7303947170476)
+[11:07:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不对
+[11:07:55] [Server thread/INFO]: adhesive_tape >> 啊
+[11:07:57] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[11:07:57] [Server thread/INFO]: Ghost_king_ left the game
+[11:08:00] [Server thread/INFO]: adhesive_tape >> 少没少
+[11:08:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 应该没少
+[11:08:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 有个没职业而已
+[11:08:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@591c406[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:56085) lost connection: Disconnected
+[11:08:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@1bf4160f[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:56087) lost connection: Disconnected
+[11:09:23] [User Authenticator #34/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[11:09:23] [Server thread/INFO]: Ghost_king_[/127.0.0.1:56094] logged in with entity id 604027 at ([world_nether]198.0077714582864, 115.0, 70.1192912215788)
+[11:09:44] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 问个问题
+[11:09:58] [Server thread/INFO]: Villager EntityVillager['Librarian'/565843, uuid='3ac71114-972c-4f47-b6f6-74598b0034b5', l='world', x=2770.30, y=73.21, z=-409.50, cx=173, cz=-26, tl=1678947, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[11:10:15] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 如何设置REI的右侧栏的宽度
+[11:10:21] [Server thread/INFO]: Villager EntityVillager['Librarian'/565838, uuid='5ce06a5c-a11b-40dd-80b7-1c16e1f2a481', l='world', x=2770.30, y=73.38, z=-409.30, cx=173, cz=-26, tl=3213769, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[11:10:38] [Server thread/INFO]: Villager EntityVillager['Librarian'/566047, uuid='eedf960a-a6b3-4219-b80c-803ea13a282c', l='world', x=2770.30, y=73.23, z=-409.30, cx=173, cz=-26, tl=2445769, v=true, d=false] died, message: 'Librarian was slain by 森语'
+[11:11:20] [User Authenticator #35/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[11:11:20] [Server thread/INFO]: HitoShouri[/127.0.0.1:56114] logged in with entity id 604820 at ([world]3191.557309298805, 63.0, -583.583394507545)
+[11:11:30] [Server thread/INFO]: adhesive_tape >> 页面尺寸
+[11:11:59] [Server thread/INFO]: HitoShouri issued server command: /cl i
+[11:12:15] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 在哪了啊
+[11:12:19] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 找不到
+[11:12:21] [Server thread/INFO]: adhesive_tape >> 视频设置
+[11:13:20] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 阿舒服了
+[11:13:27] [Server thread/INFO]: adhesive_tape >> 我去挂鱼塔了
+[11:13:52] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 对了 关于伪和平
+[11:14:03] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 要不我们 制定一个禁令
+[11:14:18] [Server thread/INFO]: There are 5 of a max 40 players online: sen_lv_ling_, Mr_director, adhesive_tape, Ghost_king_, HitoShouri
+[11:14:22] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 所有非工程人员 在非施工期间禁止进入空置域
+[11:14:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 防止机器被炸坏
+[11:14:43] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 而施工期间 开启伪和平（短暂的
+[11:14:47] [Server thread/INFO]: adhesive_tape >> 可以
+[11:15:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[11:15:13] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 这样就不需要工具人24x7都开着电脑挂着机了
+[11:15:30] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你们下午谁有空
+[11:15:38] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 今天下午来搞
+[11:15:53] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> HitoShouri新人？
+[11:15:59] [Server thread/INFO]: adhesive_tape >> 盾构机准备炸完一边空置域了
+[11:16:02] [Server thread/INFO]: HitoShouri >> Yes
+[11:16:06] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:16:11] [Server thread/INFO]: adhesive_tape >> 今晚开盾构吧
+[11:16:20] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 要不另一边也一起做上 北梦有投影了 可以来帮忙
+[11:16:26] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我也去研究下投影awa
+[11:16:35] [Server thread/INFO]: adhesive_tape >> 下午到傍晚这段时间我看看能不能和你搞伪和平
+[11:16:44] [Server thread/INFO]: adhesive_tape >> 待会要去学车
+[11:16:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> wtm
+[11:17:01] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 没事 伪和平屯怪快得很
+[11:17:24] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> hence的还在伪和平里呢
+[11:17:31] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 只需要一个玩家进去鱼塔挂机就行
+[11:17:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> SUPERKAER这b拿的还是我们箱子里面的岩浆桶和铁剑破坏的骨折机
+[11:17:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 不是回档了吗
+[11:17:58] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:18:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 对啊
+[11:18:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 村民重新打骨折
+[11:18:18] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这
+[11:18:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 还出各种问题
+[11:18:32] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 顺序也乱了
+[11:18:44] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这……
+[11:18:52] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> xl回档回错了？
+[11:18:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 顺序全乱了吗
+[11:19:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不是
+[11:19:28] [Server thread/INFO]: adhesive_tape >> 我挂机了
+[11:19:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 重新打骨折的时候骨折机总是莫名其妙的少各种零件
+[11:19:35] [Server thread/INFO]: adhesive_tape >> 准备去学车
+[11:19:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 而且我一起打的
+[11:19:57] [Server thread/INFO]: HitoShouri >> 这个服是生电服？
+[11:20:09] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 生电服?
+[11:20:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 没那技术
+[11:20:22] [Server thread/INFO]: HitoShouri >> 就是红石服。
+[11:20:32] [Server thread/WARN]: Ghost_king_ moved wrongly!
+[11:20:38] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这
+[11:20:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 为何非要下个定义呢
+[11:20:45] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 不算是吧
+[11:20:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 每个玩家想玩的方式都不一样
+[11:20:54] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 嗯
+[11:21:04] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 自♂由の服
+[11:21:37] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 这个逮虾户赛道确实不错awa
+[11:21:51] [Server thread/INFO]: HitoShouri >> 在哪？
+[11:21:56] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 在紫晶
+[11:21:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> yffs家
+[11:21:59] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 先给你介绍下吧
+[11:22:06] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 服务器有
+[11:22:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 请开始你的表演
+[11:22:27] [Server thread/INFO]: HitoShouri >> 我是新人，报下坐标。
+[11:22:32] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 7个聚落
+[11:23:05] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 分别是主城 五百镇 共产镇 河湾镇 海晶港 梦曦城 紫晶真
+[11:23:08] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊不
+[11:23:13] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 紫晶镇awa
+[11:23:13] [User Authenticator #36/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[11:23:13] [Server thread/INFO]: North_dream[/127.0.0.1:56200] logged in with entity id 613723 at ([world]1136.6275808176206, 69.0, 373.17870611675767)
+[11:23:20] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[11:23:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 城主来了
+[11:23:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 梦曦城主被海晶港挖走了awa
+[11:23:51] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 所以梦曦城某种意义上算是海晶的awa（（（（
+[11:23:58] [Server thread/INFO]: <北梦曦> North_dream >> az
+[11:24:08] [Server thread/INFO]: <北梦曦> North_dream >> 索尼
+[11:24:20] [Server thread/INFO]: <北梦曦> North_dream >> 所以
+[11:24:28] [Server thread/INFO]: <北梦曦> North_dream >> 又想干啥？
+[11:24:29] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我在给这位新人讲解
+[11:24:37] [Server thread/INFO]: <北梦曦> North_dream >> az
+[11:24:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 下次不给你们换金萝北，给你们换谜之炖菜
+[11:24:51] [Server thread/INFO]: <北梦曦> North_dream >> az
+[11:24:56] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你所在的地方应该就是主城了 主城≈死城 正在想办法改造
+[11:25:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 改造（炸
+[11:25:07] [Server thread/INFO]: <北梦曦> North_dream >> 炖菜不能堆叠啊
+[11:25:18] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 一人一碗
+[11:25:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 吃完在说
+[11:25:40] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 然后就是五百 曾经辉煌的镇子 现在由一位鸽子建筑师打理
+[11:25:52] [Server thread/INFO]: <北梦曦> North_dream >> 鸽子awa
+[11:26:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 有你鸽 = =
+[11:26:12] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> awa
+[11:26:19] [Server thread/INFO]: <北梦曦> North_dream >> az
+[11:26:27] [Server thread/INFO]: <北梦曦> North_dream >> 我先放什么颜色的羊呢
+[11:26:47] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 彩色！
+[11:26:51] [Server thread/INFO]: <北梦曦> North_dream >> az
+[11:27:06] [Server thread/INFO]: <北梦曦> North_dream >> 先弄红色吧
+[11:27:07] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 然后是河湾和共产 也是曾经的辉煌 可惜共产镇广泛招人 出现各种低素质玩家 导致和河湾起了矛盾 趋于解体状态
+[11:27:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 按照系统的顺序吧
+[11:27:23] [Server thread/INFO]: <北梦曦> North_dream >> e?
+[11:27:32] [Server thread/INFO]: <北梦曦> North_dream >> 系统的顺序是？
+[11:27:35] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[11:27:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 按照
+[11:27:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[11:27:43] [Server thread/INFO]: HitoShouri lost connection: Timed out
+[11:27:43] [Server thread/INFO]: HitoShouri left the game
+[11:27:48] [Server thread/INFO]: <北梦曦> North_dream >> 算了
+[11:27:52] [Server thread/INFO]: <北梦曦> North_dream >> 随便整
+[11:27:56] [Server thread/INFO]: <北梦曦> North_dream >> 反正还有分类机
+[11:28:07] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 然后是海晶 是逐渐发展起来的 吸取了前面几个镇的教训 隐藏坐标 严格管理 整治人员
+[11:28:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 人都走了 - -
+[11:28:20] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你目前看到的都是海晶的awa
+[11:28:20] [Server thread/INFO]: <北梦曦> North_dream >> e
+[11:28:26] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这
+[11:28:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我一定是唐僧awa
+[11:28:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这个新人啥时候来的
+[11:28:43] [Server thread/INFO]: <北梦曦> North_dream >> 你也知道？
+[11:28:47] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 金蝉子转世awa
+[11:29:11] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 北梦
+[11:29:15] [Server thread/INFO]: <北梦曦> North_dream >> ?
+[11:29:17] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 投影咋用 我也学学awa
+[11:29:20] [Server thread/INFO]: <北梦曦> North_dream >> e
+[11:29:25] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我记得有教程
+[11:29:27] [Server thread/INFO]: <北梦曦> North_dream >> 看b站
+[11:29:30] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ！
+[11:29:32] [Server thread/INFO]: <北梦曦> North_dream >> 不会了再问
+[11:29:37] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这
+[11:29:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@6536f787[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:56242) lost connection: Disconnected
+[11:29:40] [Server thread/INFO]: <北梦曦> North_dream >> 看xk和大叔的教材
+[11:29:42] [Server thread/INFO]: <北梦曦> North_dream >> 看xk和大叔的教程
+[11:29:43] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这
+[11:29:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@31aaf7cf[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:56243) lost connection: Disconnected
+[11:29:46] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> b站=学习网站
+[11:29:53] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 行8
+[11:30:07] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 昨天我问tianqi
+[11:30:08] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 金萝北进货了！！！
+[11:30:14] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你为什么挖信标
+[11:30:26] [Server thread/INFO]: <北梦曦> North_dream >> 他说
+[11:30:45] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 他说 信标跟个傻逼一样 体育课动不动就是5圈（我们体育老师叫信标）
+[11:30:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[11:30:58] [Server thread/INFO]: <北梦曦> North_dream >> xxs
+[11:30:59] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我说 那你就迁怒于服务器的信标？？？？？？？？？？？？
+[11:31:00] [Server thread/INFO]: <北梦曦> North_dream >> 无疑
+[11:31:08] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这逻辑
+[11:31:18] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 他说 管他呢 反正我就看他不顺眼
+[11:32:02] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我 （拿起衣架）你都13岁的人了还迁怒？ 这逻辑怕不是xxs
+[11:32:17] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 他 你别吵我看他打王者呢
+[11:32:24] [Server thread/INFO]: <北梦曦> North_dream >> ?
+[11:32:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[11:32:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 在?带我?
+[11:32:39] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 他说 你别吵 我看他打王者你
+[11:32:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@a9a723[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:56268) lost connection: Disconnected
+[11:32:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 昨晚 我们全宿舍几乎都带了手机awa
+[11:33:44] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 然后我拿起衣架直接就是锤 说 要学会做人 不能迁怒 这边建议您去看看论语 学习学习 实在不行就来我衣架这里学习
+[11:33:54] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[11:33:55] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 兄弟们我做的对吗！！
+[11:34:04] [Server thread/INFO]: <北梦曦> North_dream >> 终于把这小羊羔崽子绿了
+[11:34:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[11:34:31] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ……
+[11:34:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 种豆得瓜
+[11:34:40] [Server thread/INFO]: <北梦曦> North_dream >> 话说
+[11:34:41] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> awa
+[11:34:43] [Server thread/INFO]: <北梦曦> North_dream >> 投影怎么关
+[11:34:47] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[11:34:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 砍b站
+[11:35:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不懂再问
+[11:35:06] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 2333
+[11:35:15] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 要用北梦的话教育北梦awa
+[11:35:16] [Server thread/INFO]: <北梦曦> North_dream >> 搜嘎
+[11:35:24] [Server thread/INFO]: <北梦曦> North_dream >> 原来是我放置限制美观
+[11:35:27] [Server thread/INFO]: <北梦曦> North_dream >> 原来是我放置限制没关
+[11:35:29] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[11:35:38] [Server thread/INFO]: <北梦曦> North_dream >> 森森
+[11:35:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 憨憨
+[11:35:42] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[11:35:43] [Server thread/INFO]: <北梦曦> North_dream >> 能给我送一把铲子吗
+[11:35:44] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[11:35:47] [Server thread/INFO]: <北梦曦> North_dream >> 带精准的
+[11:35:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 来了
+[11:36:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@cc693a6[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:56296) lost connection: Disconnected
+[11:36:35] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 是我养了太多猫的缘故么
+[11:36:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这延迟
+[11:36:46] [Server thread/INFO]: <北梦曦> North_dream >> 请问
+[11:36:53] [Server thread/INFO]: <北梦曦> North_dream >> 密集繁殖会受到什么处罚
+[11:37:04] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？
+[11:37:21] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 北梦 你确定羊毛机会获得贡献点？
+[11:37:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 打完就跑
+[11:37:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@74ca1c37[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:56308) lost connection: Disconnected
+[11:37:37] [Server thread/INFO]: <北梦曦> North_dream >> 不会的话就海晶自己用awa
+[11:37:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你没睡觉
+[11:37:52] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 森森最近越来越皮了awa
+[11:38:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 还想不想要
+[11:38:22] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啥
+[11:39:05] [User Authenticator #37/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[11:39:05] [Server thread/INFO]: HitoShouri[/127.0.0.1:56320] logged in with entity id 625341 at ([world]2711.7627992615444, 59.0, -403.0961558355228)
+[11:39:15] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 北梦
+[11:39:19] [Server thread/INFO]: <北梦曦> North_dream >> ?
+[11:39:23] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我改一下你的铁傀儡笼子的设计行不
+[11:39:26] [Server thread/INFO]: <北梦曦> North_dream >> 哦
+[11:39:38] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 史莱姆会跑进去 然后打到铁傀儡
+[11:39:42] [User Authenticator #37/INFO]: UUID of player nan_nono_boom is ca34b23c-fb89-4817-8f02-b570a4fcf250
+[11:39:42] [Server thread/INFO]: nan_nono_boom[/127.0.0.1:56327] logged in with entity id 626617 at ([world]2753.300000011921, 9.0, -562.4730592239716)
+[11:40:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 草 方块
+[11:41:50] [Server thread/INFO]: <北梦曦> North_dream >> 然后是
+[11:42:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 红橙黄绿蓝靛紫
+[11:42:11] [Server thread/INFO]: <北梦曦> North_dream >> 基佬紫
+[11:42:43] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我发现史莱姆的寻敌范围比较广诶
+[11:43:34] [Server thread/INFO]: <北梦曦> North_dream >> 能帮我做点漏斗和一点伙伴们和告示牌吗
+[11:43:44] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你把活板门铺上啊
+[11:43:46] [Server thread/INFO]: <北梦曦> North_dream >> 漏斗要多少懂？
+[11:43:54] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不懂awa
+[11:44:02] [Server thread/INFO]: <北梦曦> North_dream >> 半组awa？
+[11:44:03] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这
+[11:44:05] [Server thread/INFO]: <北梦曦> North_dream >> 懂awa？
+[11:44:14] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 告示牌？
+[11:44:16] [Server thread/INFO]: <北梦曦> North_dream >> en
+[11:44:28] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我来看看羊毛机吧
+[11:44:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 多少
+[11:44:36] [Server thread/INFO]: <北梦曦> North_dream >> 羊毛 机吧
+[11:44:44] [Server thread/INFO]: <北梦曦> North_dream >> 告示牌
+[11:44:46] [Server thread/INFO]: <北梦曦> North_dream >> 16个
+[11:44:50] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啧
+[11:44:56] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 说机不说吧，问你你我他
+[11:45:02] [Server thread/INFO]: <北梦曦> North_dream >> 我来看看羊毛 机吧
+[11:45:16] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 梦梦学坏了awa
+[11:45:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 羊 毛机吧
+[11:45:28] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 羊毛 几把
+[11:48:21] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 内啥
+[11:48:31] [Server thread/INFO]: <北梦曦> North_dream >> ?
+[11:48:35] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你们到头来还是没有选出 是北梦设计的好看 还是我的
+[11:48:46] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我老早不是说投票的吗！！！
+[11:48:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不知道
+[11:48:53] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 森语你来说 我好做
+[11:49:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我都没见过
+[11:49:07] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 那服务器里有哪些比较闲的人
+[11:49:16] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 有人吗 过来投个票
+[11:49:22] [Server thread/INFO]: HitoShouri >> 请问刷铁机在哪？
+[11:49:24] [Server thread/INFO]: nan_nono_boom >> .
+[11:49:25] [Server thread/INFO]: <北梦曦> North_dream >> e
+[11:49:28] [Server thread/INFO]: <北梦曦> North_dream >> 新人说话了！
+[11:49:31] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ！
+[11:49:39] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 过来投个票就告诉你awa
+[11:49:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[11:49:52] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 末地地狱门 史莱姆空置域
+[11:50:05] [Server thread/INFO]: HitoShouri >> 坐标
+[11:50:11] [Server thread/INFO]: <北梦曦> North_dream >> 我先吃饭了
+[11:50:13] [Server thread/INFO]: <北梦曦> North_dream >> 挂机
+[11:50:13] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 地狱交通可以过来
+[11:50:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> wtm
+[11:50:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 刚拿完材料
+[11:50:30] [Server thread/INFO]: <北梦曦> North_dream >> 放箱子里
+[11:51:11] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 地狱坐标 220 20
+[11:51:17] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 地狱交通可以直接过来
+[11:51:44] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 新人你有啥特长吗 亦或是建筑or红石
+[11:51:49] [Server thread/INFO]: nan_nono_boom lost connection: Disconnected
+[11:51:49] [Server thread/INFO]: nan_nono_boom left the game
+[11:52:03] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我的船给我
+[11:52:27] [Server thread/INFO]: HitoShouri issued server command: /tell Ghost_king 红石吧
+[11:52:41] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ……？
+[11:52:49] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 新人打字速度有点慢诶
+[11:52:52] [Server thread/INFO]: HitoShouri issued server command: /tell Ghost_king 红石
+[11:53:05] [Server thread/INFO]: HitoShouri lost connection: Disconnected
+[11:53:05] [Server thread/INFO]: HitoShouri left the game
+[11:53:05] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我的船被你吸走了 还给我……
+[11:53:09] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这……
+[11:53:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> hhh
+[11:53:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@7e1cc423[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:56417) lost connection: Disconnected
+[11:53:43] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[11:53:57] [Server thread/INFO]: Ghost_king_ issued server command: /co l 2
+[11:54:01] [Server thread/INFO]: Ghost_king_ issued server command: /co l 3
+[11:54:07] [Server thread/INFO]: Ghost_king_ issued server command: /co l 4
+[11:55:06] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 等下
+[11:55:12] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我有预感海晶东西被偷了
+[11:55:37] [Server thread/INFO]: Ghost_king_ issued server command: /co l 2
+[11:55:43] [Server thread/INFO]: Ghost_king_ issued server command: /co l 3
+[11:55:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我想问的是那个人多久进的服
+[11:56:36] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 时装展少了一件衣服！
+[11:56:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 今天我看到他上线就在海晶，还全套附魔钻甲
+[11:56:53] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 没错 就是他
+[11:56:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这叫萌新？
+[11:57:13] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:57:18] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我今天看到他从海晶的方向过来 然后穿着钻套
+[11:57:20] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:57:33] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:57:41] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我生疑了
+[11:57:44] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:58:05] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 没有记录？？？？？
+[11:58:40] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:59:03] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:59:08] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:59:12] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:59:16] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:59:26] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:59:33] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:59:36] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[11:59:37] [User Authenticator #38/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[11:59:37] [Server thread/INFO]: HitoShouri[/127.0.0.1:56458] logged in with entity id 678105 at ([world_nether]218.45121522914175, 115.5, 19.237500011920925)
+[11:59:45] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 新人
+[11:59:49] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你怎么突然掉线了
+[12:00:02] [Server thread/INFO]: HitoShouri >> 我该换电脑了
+[12:00:07] [Server thread/INFO]: HitoShouri has made the advancement [Eye Spy]
+[12:00:20] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你什么时候进的服务器啊 这就有钻套了 真强
+[12:00:40] [Server thread/INFO]: HitoShouri has made the advancement [The End?]
+[12:00:48] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 别去末地……
+[12:00:51] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 控制不在末地……
+[12:00:58] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 空置域不在末地
+[12:01:27] [Server thread/INFO]: Ghost_king_ issued server command: /tell sen_lv_ling_ 海晶目前有谁拿了时装展的衣服吗
+[12:01:46] [Server thread/INFO]: sen_lv_ling_ issued server command: /msg Ghost_king_ 群里问问
+[12:01:53] [Server thread/WARN]: sen_lv_ling_ moved too quickly! -1012.4252950411901,44.0,-333.5287663773409
+[12:02:46] [Server thread/INFO]: HitoShouri has made the advancement [Acquire Hardware]
+[12:03:13] [Server thread/INFO]: Ghost_king_ issued server command: /tell sen_lv_ling_ 初步判定是他拿的 但是却没有留下co 的记录
+[12:03:58] [Server thread/INFO]: Ghost_king_ issued server command: /tell sen_lv_ling_ 这记录能删除的吗？？？？？？还是有挂能强制删除
+[12:05:07] [Server thread/INFO]: HitoShouri >> 为啥主城废弃了？
+[12:05:18] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这
+[12:05:46] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 玩家意愿不同呗 有些人想自己出去打拼and创业awa
+[12:05:51] [Server thread/INFO]: Added Link_Light to the whitelist
+[12:05:51] [Server thread/WARN]: Ghost_king_ moved too quickly! -3.377875176104226,0.41999998688697815,9.671315422084263
+[12:07:12] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> HitoShouri你什么时候进的服务器啊 这么快就有钻套了
+[12:07:28] [Server thread/INFO]: <北梦曦> North_dream >> 1
+[12:07:32] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 莫非有啥强大的方法或者欧气 下矿就是钻石awa？
+[12:07:39] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[12:07:40] [Server thread/INFO]: <北梦曦> North_dream >> 难不成
+[12:07:46] [Server thread/INFO]: <北梦曦> North_dream >> 偷的awa？
+[12:07:54] [Server thread/INFO]: Ghost_king_ issued server command: /tell North_dream !艹
+[12:07:54] [Server thread/INFO]: HitoShouri >> no
+[12:08:17] [Server thread/INFO]: Ghost_king_ issued server command: /tell North_dream 我在套他的话！ 你别给他捅破了啊喂 打草惊蛇！
+[12:08:26] [Server thread/INFO]: <北梦曦> North_dream >> awa
+[12:08:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[12:08:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我好笨
+[12:08:41] [Server thread/INFO]: <北梦曦> North_dream >> 我也是
+[12:09:09] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 那你哪来的呀
+[12:09:23] [Server thread/INFO]: HitoShouri >> 有人给的。
+[12:09:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ？
+[12:09:32] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 偶？
+[12:09:42] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> （我进来时都没这福利
+[12:09:47] [Server thread/INFO]: <北梦曦> North_dream >> 真好
+[12:09:53] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 龙岩有
+[12:09:55] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 谁给的 这就找他白嫖awa
+[12:10:19] [Server thread/INFO]: Ghost_king_ issued server command: /tell sen_lv_ling_ 嘿 嘘 别说话 我在套他的话 你俩配合我演戏
+[12:10:43] [Server thread/INFO]: sen_lv_ling_ issued server command: /msg Ghost_king_ 龙岩又没上线 = =
+[12:10:48] [Server thread/INFO]: Ghost_king_ issued server command: /tell sen_lv_ling_ 龙岩确实有福利 但是就当做没有罢awa
+[12:10:52] [Server thread/INFO]: HitoShouri >> TA不让我告诉别人
+[12:10:56] [Server thread/INFO]: <北梦曦> North_dream >> az
+[12:10:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 偶？
+[12:11:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[12:11:03] [Server thread/INFO]: <北梦曦> North_dream >> 说说是谁呀
+[12:11:20] [Server thread/INFO]: <北梦曦> North_dream >> 森森，放九把剪刀进去
+[12:11:27] [Server thread/INFO]: <北梦曦> North_dream >> 这个发射器
+[12:11:33] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 说不定给你钻套的人我们都认识》？
+[12:11:43] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我们可是老van家呢
+[12:11:48] [Server thread/INFO]: <北梦曦> North_dream >> 把这羊推一下
+[12:11:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[12:12:28] [Server thread/INFO]: HitoShouri >> 给你们个提示：TA早上来了，现在不在。
+[12:12:35] [Server thread/INFO]: <北梦曦> North_dream >> 还给提示
+[12:12:38] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> tape？
+[12:12:51] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> yifanfengshun？
+[12:13:01] [Server thread/INFO]: HitoShouri >> no
+[12:13:01] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 早上我不再诶
+[12:13:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 心塞 = =
+[12:13:12] [Server thread/INFO]: HitoShouri >> sen在
+[12:13:18] [Server thread/INFO]: <北梦曦> North_dream >> 那你的钻套从12格摔下去会掉多少血呀
+[12:13:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 是不是 Xin_Sai
+[12:13:53] [Server thread/INFO]: <北梦曦> North_dream >> az
+[12:13:53] [Server thread/INFO]: HitoShouri >> 恭喜你
+[12:13:56] [Server thread/INFO]: <北梦曦> North_dream >> 这就离谱
+[12:14:02] [Server thread/INFO]: <北梦曦> North_dream >> az
+[12:14:08] [Server thread/INFO]: HitoShouri >> 猜错了
+[12:14:12] [Server thread/INFO]: <北梦曦> North_dream >> 你以为你是谁啊，问你个人还恭喜
+[12:14:19] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？？？？？？？
+[12:14:21] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这
+[12:14:26] [Server thread/INFO]: <北梦曦> North_dream >> 我看不下去额
+[12:14:32] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 暴躁老梦
+[12:14:36] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 冷静点暴躁老梦
+[12:14:53] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 女孩子别这么暴躁awa
+[12:14:56] [Server thread/INFO]: <北梦曦> North_dream >> 我没有生气
+[12:14:58] [Server thread/INFO]: <北梦曦> North_dream >> 真的awa
+[12:15:07] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> fly?
+[12:15:19] [Server thread/INFO]: <北梦曦> North_dream >> az
+[12:15:20] [Server thread/INFO]: <北梦曦> North_dream >> 我刚刚
+[12:15:24] [Server thread/INFO]: <北梦曦> North_dream >> 卡出了什么奇怪的东西
+[12:15:32] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> fly_pigman01?
+[12:16:27] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 活板门和冰给我
+[12:16:34] [Server thread/INFO]: HitoShouri >> 其实TA就是Xin_Sai
+[12:16:45] [Server thread/INFO]: <北梦曦> North_dream >> c
+[12:16:49] [Server thread/INFO]: <北梦曦> North_dream >> 我更暴躁了
+[12:16:58] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 蛋定
+[12:17:08] [Server thread/INFO]: <北梦曦> North_dream >> 甚至想砍森森
+[12:17:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[12:17:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 那你要更加蛋定
+[12:17:45] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这
+[12:17:48] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 就是心塞？
+[12:17:53] [Server thread/INFO]: HitoShouri >> Yes
+[12:18:07] [Server thread/INFO]: <北梦曦> North_dream >> 搞得像你很高大上？
+[12:18:12] [Server thread/INFO]: <北梦曦> North_dream >> 用词换点行不？
+[12:18:30] [Server thread/INFO]: Mr_director >> ?
+[12:18:36] [Server thread/INFO]: Mr_director >> 我刚回来，发生啥了
+[12:18:46] [Server thread/INFO]: <北梦曦> North_dream >> az
+[12:18:47] [Server thread/INFO]: <北梦曦> North_dream >> 森森
+[12:18:49] [Server thread/INFO]: There are 6 of a max 40 players online: sen_lv_ling_, Mr_director, adhesive_tape, Ghost_king_, North_dream, HitoShouri
+[12:18:49] [Server thread/INFO]: <北梦曦> North_dream >> 这羊
+[12:18:51] [Server thread/INFO]: <北梦曦> North_dream >> 又卡了
+[12:18:56] [Server thread/INFO]: HitoShouri >> 我用Macbook在打中文
+[12:19:04] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[12:19:04] [Server thread/INFO]: Mr_director left the game
+[12:19:15] [User Authenticator #39/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[12:19:15] [Server thread/INFO]: Mr_director[/127.0.0.1:56593] logged in with entity id 695960 at ([world_the_end]84.73536541697335, 57.0, 32.24708184301452)
+[12:19:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[12:19:26] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> …………？
+[12:19:47] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 梦 冷静点
+[12:19:57] [Server thread/INFO]: <北梦曦> North_dream >> 我敲冷静的
+[12:20:05] [Server thread/INFO]: <北梦曦> North_dream >> awa
+[12:20:20] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 别砍我就行qwq
+[12:20:26] [Server thread/INFO]: <北梦曦> North_dream >> awa
+[12:20:48] [Server thread/WARN]: Player sen_lv_ling_ just tried to change non-editable sign
+[12:20:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 没冰了
+[12:21:02] [Server thread/INFO]: <北梦曦> North_dream >> e
+[12:21:06] [Server thread/INFO]: <北梦曦> North_dream >> 去挖呗awa
+[12:21:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你就给了我三块
+[12:21:17] [Server thread/INFO]: Mr_director >> f
+[12:21:37] [Server thread/INFO]: Mr_director was slain by Spider
+[12:21:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[12:21:45] [Server thread/INFO]: <北梦曦> North_dream >> 森森你喂一下羊
+[12:21:48] [Server thread/INFO]: Mr_director >> 这下面刷怪就离谱
+[12:21:50] [User Authenticator #40/INFO]: UUID of player nan_nono_boom is ca34b23c-fb89-4817-8f02-b570a4fcf250
+[12:21:50] [Server thread/INFO]: nan_nono_boom[/127.0.0.1:56612] logged in with entity id 698450 at ([world]3046.6432992896935, 13.0, -505.40061986629325)
+[12:21:54] [Server thread/INFO]: HitoShouri >> .........
+[12:21:57] [Server thread/INFO]: nan_nono_boom >> .
+[12:22:01] [Server thread/WARN]: Mr_director moved too quickly! 990.420498443023,-50.0,2044.9360334138382
+[12:22:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 那里的羊
+[12:22:07] [Server thread/INFO]: <北梦曦> North_dream >> 拿小麦到那边afk就行了
+[12:22:09] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 哪里的羊
+[12:22:14] [Server thread/INFO]: <北梦曦> North_dream >> 这边
+[12:22:26] [Server thread/INFO]: <北梦曦> North_dream >> afk就行了
+[12:22:36] [Server thread/INFO]: Mr_director >> 谁来下女巫塔
+[12:22:40] [Server thread/INFO]: Mr_director >> 苦力怕把门炸了
+[12:22:41] [User Authenticator #40/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[12:22:42] [Server thread/INFO]: Crushxl[/127.0.0.1:56621] logged in with entity id 699278 at ([world]2771.4951121488525, 63.0, -414.45536674809205)
+[12:22:42] [Server thread/INFO]: <北梦曦> North_dream >> 咋了
+[12:22:43] [Server thread/INFO]: <北梦曦> North_dream >> az
+[12:22:45] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[12:22:47] [Server thread/INFO]: <北梦曦> North_dream >> 小冷
+[12:22:48] [Server thread/INFO]: <北梦曦> North_dream >> az
+[12:22:49] [Server thread/INFO]: nan_nono_boom lost connection: Disconnected
+[12:22:49] [Server thread/INFO]: nan_nono_boom left the game
+[12:23:03] [Server thread/INFO]: <北梦曦> North_dream >> 小冷
+[12:23:10] [Server thread/INFO]: <北梦曦> North_dream >> 羊毛机算点数吗
+[12:23:15] [Server thread/INFO]: Mr_director >> 冰没被炸也算奇迹
+[12:23:18] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 淦
+[12:23:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 没带末影箱
+[12:23:45] [Server thread/INFO]: Mr_director was slain by Zombie Pigman
+[12:24:10] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> b站视频里 说按m键能出gui
+[12:24:14] [Server thread/INFO]: <北梦曦> North_dream >> 是的
+[12:24:17] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我按m键出大地图
+[12:24:18] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> awa
+[12:24:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我打火石呢
+[12:24:24] [Server thread/INFO]: HitoShouri >> 有人玩过2b2t吗？
+[12:24:27] [Server thread/INFO]: <北梦曦> North_dream >> 正常啊
+[12:24:29] [Server thread/INFO]: Mr_director >> 改键位啊
+[12:24:40] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 叫啥名字
+[12:24:52] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我想改投影的 大地图就不改了吧
+[12:24:54] [Server thread/INFO]: <北梦曦> North_dream >> 改大地图的键位啊
+[12:24:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 用着顺手
+[12:25:23] [Server thread/INFO]: <北梦曦> North_dream >> az
+[12:26:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ...
+[12:26:20] [Server thread/INFO]: Mr_director >> k
+[12:26:21] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你干嘛
+[12:26:27] [Server thread/INFO]: Mr_director >> ？
+[12:26:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 进来就想砍我233
+[12:26:30] [Server thread/INFO]: <北梦曦> North_dream >> az
+[12:26:32] [Server thread/INFO]: <北梦曦> North_dream >> 森森
+[12:26:37] [Server thread/INFO]: <北梦曦> North_dream >> 你拉走了全部的小麦
+[12:26:43] [Server thread/INFO]: <北梦曦> North_dream >> 然后不喂羊
+[12:26:43] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[12:26:46] [Server thread/INFO]: HitoShouri lost connection: Disconnected
+[12:26:46] [Server thread/INFO]: HitoShouri left the game
+[12:26:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 点门呢
+[12:26:57] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 回来了
+[12:27:18] [Server thread/INFO]: <北梦曦> North_dream >> az
+[12:27:19] [Server thread/INFO]: <北梦曦> North_dream >> mr
+[12:27:25] [Server thread/INFO]: <北梦曦> North_dream >> 你为什么没有出现在我的小地图上面
+[12:27:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[12:27:36] [Server thread/INFO]: <北梦曦> North_dream >> 吓死人啊
+[12:27:46] [User Authenticator #41/INFO]: UUID of player nan_nono_boom is ca34b23c-fb89-4817-8f02-b570a4fcf250
+[12:27:47] [Server thread/INFO]: nan_nono_boom[/127.0.0.1:56656] logged in with entity id 718046 at ([world]3065.032009566246, 13.0, -505.60166332271746)
+[12:27:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你这里面几只羊
+[12:28:05] [Server thread/INFO]: <北梦曦> North_dream >> e
+[12:28:08] [Server thread/INFO]: <北梦曦> North_dream >> 我回来了
+[12:28:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@dd72941[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:56662) lost connection: Disconnected
+[12:28:38] [Server thread/INFO]: Mr_director >> 盾构机快炸完了
+[12:28:39] [Server thread/INFO]: <北梦曦> North_dream >> e
+[12:28:44] [Server thread/INFO]: <北梦曦> North_dream >> 你就打开右键连点
+[12:28:49] [Server thread/INFO]: <北梦曦> North_dream >> 然后拿着小麦
+[12:28:51] [Server thread/INFO]: <北梦曦> North_dream >> 左上矿车
+[12:28:53] [Server thread/INFO]: <北梦曦> North_dream >> 挂机
+[12:29:29] [Server thread/INFO]: <北梦曦> North_dream >> 人呢
+[12:29:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[12:30:42] [Server thread/INFO]: <北梦曦> North_dream >> az
+[12:30:47] [Server thread/INFO]: <北梦曦> North_dream >> 这里面的羊
+[12:30:49] [Server thread/INFO]: <北梦曦> North_dream >> 踩点了
+[12:31:12] [User Authenticator #42/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[12:31:12] [Server thread/INFO]: HitoShouri[/127.0.0.1:56680] logged in with entity id 731479 at ([world]534.5188604369299, 66.0, 230.51183606663565)
+[12:31:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 问题来了
+[12:31:21] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我为啥要挂机
+[12:31:24] [Server thread/INFO]: <北梦曦> North_dream >> e
+[12:31:29] [Server thread/INFO]: <北梦曦> North_dream >> 你不挂可以给我挂
+[12:31:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我一只一只的喂不好么
+[12:32:04] [Server thread/INFO]: <北梦曦> North_dream >> 算了
+[12:32:20] [Server thread/INFO]: <北梦曦> North_dream >> 给我喂吧
+[12:32:28] [Server thread/INFO]: HitoShouri has made the advancement [Stone Age]
+[12:32:30] [Server thread/INFO]: <北梦曦> North_dream >> 没了？
+[12:32:35] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 箱子里
+[12:33:05] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[12:33:05] [Server thread/INFO]: Mr_director left the game
+[12:35:44] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[12:36:30] [Server thread/WARN]: nan_nono_boom moved wrongly!
+[12:37:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> we是啥
+[12:38:16] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 视频说什么we 跟we一样的？
+[12:38:25] [Server thread/INFO]: nan_nono_boom >> world edit
+[12:38:33] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 傻啊
+[12:38:37] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啥啊
+[12:38:41] [Server thread/INFO]: nan_nono_boom >> 插件
+[12:38:51] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 没玩过
+[12:38:58] [Server thread/INFO]: Ghost_king_ issued server command: /
+[12:39:16] [Server thread/INFO]: nan_nono_boom >> 服务器插件，就方便做一些大型的修改地图
+[12:40:13] [Server thread/INFO]: <北梦曦> North_dream >> e
+[12:40:18] [Server thread/INFO]: <北梦曦> North_dream >> 你看xk的就好了
+[12:40:18] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[12:40:18] [Server thread/INFO]: Ghost_king_ left the game
+[12:40:30] [Server thread/INFO]: <北梦曦> North_dream >> 你要做什么东西
+[12:40:33] [Server thread/INFO]: nan_nono_boom has made the advancement [Diamonds!]
+[12:41:47] [Server thread/INFO]: nan_nono_boom has made the advancement [Enchanter]
+[12:47:06] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[12:47:09] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[12:48:25] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[12:48:37] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[12:49:14] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[12:49:18] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[12:52:09] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[12:52:09] [Server thread/INFO]: Crushxl left the game
+[12:52:19] [Server thread/INFO]: There are 5 of a max 40 players online: sen_lv_ling_, adhesive_tape, North_dream, nan_nono_boom, HitoShouri
+[12:53:10] [User Authenticator #43/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[12:53:10] [Server thread/INFO]: Block_linyi[/127.0.0.1:56827] logged in with entity id 795852 at ([world]3086.220845374299, 72.07510340862538, -755.9327852959685)
+[12:53:21] [Server thread/INFO]: <北梦曦> North_dream >> !
+[12:54:46] [Server thread/ERROR]: Could not pass event PlayerChatEvent to ChatC v0.5
+java.lang.IllegalArgumentException: character to be escaped is missing
+	at java.util.regex.Matcher.appendReplacement(Unknown Source) ~[?:1.8.0_181]
+	at java.util.regex.Matcher.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.String.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at cf.cc7w.ChatC.ChatC.onchat(ChatC.java:247) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor26.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:559) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection$5.evaluate(PlayerConnection.java:1743) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.util.Waitable.run(Waitable.java:25) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1198) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[12:54:46] [Server thread/INFO]: <Block_linyi> \
+[12:54:49] [Server thread/ERROR]: Could not pass event PlayerChatEvent to ChatC v0.5
+java.lang.IllegalArgumentException: character to be escaped is missing
+	at java.util.regex.Matcher.appendReplacement(Unknown Source) ~[?:1.8.0_181]
+	at java.util.regex.Matcher.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.String.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at cf.cc7w.ChatC.ChatC.onchat(ChatC.java:247) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor26.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:559) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection$5.evaluate(PlayerConnection.java:1743) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.util.Waitable.run(Waitable.java:25) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1198) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[12:54:49] [Server thread/INFO]: <sen_lv_ling_> \
+[12:54:58] [Server thread/WARN]: Block_linyi was kicked for floating too long!
+[12:54:58] [Server thread/INFO]: Block_linyi lost connection: Flying is not enabled on this server
+[12:54:58] [Server thread/INFO]: Block_linyi left the game
+[12:54:58] [Server thread/WARN]: handleDisconnection() called twice
+[12:55:02] [Server thread/INFO]: HitoShouri has made the advancement [Diamonds!]
+[12:55:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[12:55:37] [User Authenticator #44/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[12:55:37] [Server thread/INFO]: Block_linyi[/127.0.0.1:56845] logged in with entity id 801884 at ([world]3060.8242231597096, 75.23625203141623, -733.7211948384496)
+[12:59:25] [User Authenticator #45/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[12:59:25] [Server thread/INFO]: Mr_director[/127.0.0.1:56872] logged in with entity id 812296 at ([world_nether]43.069529267692516, 115.5, 23.877788262927265)
+[12:59:47] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[12:59:47] [Server thread/INFO]: sen_lv_ling_ left the game
+[13:01:21] [User Authenticator #46/INFO]: UUID of player Link_Light is d974653f-8eea-4930-b5c9-367343362111
+[13:01:21] [Server thread/INFO]: Link_Light[/127.0.0.1:56893] logged in with entity id 816291 at ([world]-104.5, 64.0, 177.5)
+[13:01:44] [Server thread/WARN]: Block_linyi moved too quickly! -2301.1985221255586,42.51864627584827,-592.7096729595745
+[13:02:33] [Server thread/INFO]: Link_Light fell from a high place
+[13:04:44] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[13:04:44] [Server thread/INFO]: Mr_director left the game
+[13:04:48] [Server thread/INFO]: Link_Light fell from a high place
+[13:04:53] [Server thread/INFO]: <北梦曦> North_dream >> AZ
+[13:04:59] [Server thread/INFO]: <北梦曦> North_dream >> 又来新人了？
+[13:05:10] [Server thread/INFO]: Link_Light >> 。。
+[13:05:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[13:05:36] [Server thread/INFO]: Link_Light >> 地狱交通找半天
+[13:05:49] [Server thread/INFO]: Block_linyi >> 不认识=新人
+[13:05:52] [Server thread/INFO]: Block_linyi >> 滑稽
+[13:05:53] [Server thread/INFO]: <北梦曦> North_dream >> e
+[13:05:54] [Server thread/INFO]: <北梦曦> North_dream >> awa
+[13:06:00] [Server thread/INFO]: <北梦曦> North_dream >> 有镇了吗
+[13:06:24] [User Authenticator #47/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[13:06:24] [Server thread/INFO]: Mr_director[/127.0.0.1:56926] logged in with entity id 823053 at ([world]1129.699999988079, 116.0, 2273.378253853057)
+[13:07:47] [Server thread/INFO]: nan_nono_boom >> w
+[13:07:55] [Server thread/INFO]: Link_Light >> ?
+[13:07:58] [Server thread/INFO]: nan_nono_boom >> (
+[13:08:04] [Server thread/INFO]: Link_Light has made the advancement [We Need to Go Deeper]
+[13:08:44] [Server thread/INFO]: Mr_director >> 现在有啥工程要人手的么
+[13:08:55] [Server thread/INFO]: <北梦曦> North_dream >> 来帮我喂羊
+[13:09:12] [Server thread/INFO]: Mr_director >> 那就是没了
+[13:09:17] [Server thread/INFO]: <北梦曦> North_dream >> az
+[13:09:23] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[13:09:23] [Server thread/INFO]: Mr_director left the game
+[13:10:59] [Server thread/INFO]: Link_Light issued server command: /kill
+[13:12:07] [Server thread/WARN]: nan_nono_boom moved too quickly! 756.0246757443387,25.0,1878.663135036844
+[13:14:36] [Server thread/INFO]: <北梦曦> North_dream >> 请问有海晶的在线吗
+[13:15:08] [Server thread/INFO]: <北梦曦> North_dream >> tape
+[13:15:28] [Server thread/INFO]: nan_nono_boom lost connection: Disconnected
+[13:15:28] [Server thread/INFO]: nan_nono_boom left the game
+[13:15:29] [Server thread/INFO]: Block_linyi >> 我算是海城的
+[13:15:32] [Server thread/INFO]: <北梦曦> North_dream >> az
+[13:15:35] [Server thread/INFO]: <北梦曦> North_dream >> 海城？
+[13:16:32] [Server thread/WARN]: Link_Light moved wrongly!
+[13:16:34] [Server thread/INFO]: Block_linyi >> 海晶旁边的岛就叫海城
+[13:16:39] [Server thread/INFO]: Block_linyi >> 心塞得
+[13:16:44] [Server thread/INFO]: Block_linyi >> 心塞的
+[13:17:31] [Server thread/INFO]: Block_linyi >> 共镇我都懒得去了
+[13:17:35] [Server thread/INFO]: <北梦曦> North_dream >> az
+[13:19:05] [Server thread/INFO]: <北梦曦> North_dream >> 那
+[13:19:08] [Server thread/INFO]: Link_Light >> 刷铁机和树厂在哪
+[13:19:12] [Server thread/INFO]: <北梦曦> North_dream >> 额
+[13:19:20] [Server thread/INFO]: Link_Light >> 我找不到基础装备了
+[13:19:20] [Server thread/INFO]: <北梦曦> North_dream >> 你是哪个镇的
+[13:19:27] [Server thread/INFO]: Link_Light >> 新人
+[13:19:31] [Server thread/INFO]: <北梦曦> North_dream >> 那再见
+[13:19:35] [Server thread/INFO]: Link_Light >> ..
+[13:19:39] [Server thread/INFO]: <北梦曦> North_dream >> 不加镇无基础装备
+[13:19:55] [Server thread/INFO]: Block_linyi >> yes
+[13:20:06] [Server thread/INFO]: Link_Light >> 怎么加镇
+[13:20:55] [Server thread/INFO]: <北梦曦> North_dream >> linyi
+[13:20:58] [Server thread/INFO]: Block_linyi >> ?
+[13:20:58] [Server thread/INFO]: <北梦曦> North_dream >> 你有浮冰吗
+[13:21:05] [Server thread/INFO]: Block_linyi >> 没
+[13:21:11] [Server thread/INFO]: <北梦曦> North_dream >> 哪里有
+[13:21:29] [Server thread/INFO]: Block_linyi >> 我记得地狱交通有个地方可以去冰山
+[13:21:36] [User Authenticator #48/INFO]: UUID of player fly_pigman01 is ee66c593-3d27-4832-911d-b569dd50102f
+[13:21:36] [Server thread/INFO]: fly_pigman01[/127.0.0.1:57029] logged in with entity id 844329 at ([world]5165.718345278285, 66.0, 317.84985407354)
+[13:22:19] [Server thread/INFO]: <北梦曦> North_dream >> 现在在线的我有三个不认识
+[13:22:26] [Server thread/ERROR]: Could not pass event PlayerChatEvent to ChatC v0.5
+java.lang.IllegalArgumentException: character to be escaped is missing
+	at java.util.regex.Matcher.appendReplacement(Unknown Source) ~[?:1.8.0_181]
+	at java.util.regex.Matcher.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.String.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at cf.cc7w.ChatC.ChatC.onchat(ChatC.java:247) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor26.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:559) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection$5.evaluate(PlayerConnection.java:1743) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.util.Waitable.run(Waitable.java:25) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1198) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[13:22:26] [Server thread/INFO]: <Block_linyi> +!\
+[13:22:28] [Server thread/INFO]: Block_linyi >> +1
+[13:22:29] [Server thread/INFO]: fly_pigman01 >> az
+[13:22:38] [Server thread/INFO]: <北梦曦> North_dream >> linyi
+[13:22:44] [Server thread/INFO]: <北梦曦> North_dream >> 共振后面是有冰山吗
+[13:22:46] [Server thread/INFO]: <北梦曦> North_dream >> 我记得
+[13:23:01] [Server thread/INFO]: Block_linyi >> 好像不是
+[13:24:49] [Server thread/INFO]: Link_Light has made the advancement [Acquire Hardware]
+[13:24:58] [Server thread/INFO]: <北梦曦> North_dream >> 去哪拿的？
+[13:25:02] [Server thread/INFO]: Link_Light has made the advancement [Monster Hunter]
+[13:25:11] [Server thread/INFO]: Link_Light >> 废弃主城
+[13:25:14] [Server thread/INFO]: <北梦曦> North_dream >> az
+[13:25:22] [Server thread/INFO]: <北梦曦> North_dream >> 主城还拆完吗
+[13:25:42] [Server thread/INFO]: HitoShouri >> 66
+[13:25:45] [Server thread/INFO]: <北梦曦> North_dream >> 可怜
+[13:25:54] [Server thread/INFO]: <北梦曦> North_dream >> 没有镇收新人
+[13:26:00] [Server thread/INFO]: <北梦曦> North_dream >> 话说
+[13:26:04] [Server thread/INFO]: <北梦曦> North_dream >> hito
+[13:26:05] [Server thread/INFO]: Link_Light >> 我上个寒假玩的时候这主城还在用的
+[13:26:08] [Server thread/INFO]: <北梦曦> North_dream >> 你是哪个镇的
+[13:26:12] [Server thread/INFO]: <北梦曦> North_dream >> az
+[13:26:27] [Server thread/INFO]: <北梦曦> North_dream >> 寒假的时候就已经接近废了
+[13:26:43] [Server thread/INFO]: fly_pigman01 >> 我才来一个礼拜
+[13:26:46] [Server thread/INFO]: <北梦曦> North_dream >> az
+[13:26:55] [Server thread/INFO]: <北梦曦> North_dream >> pigman你是哪个镇dew`
+[13:27:01] [User Authenticator #49/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[13:27:01] [Server thread/INFO]: Xin_Sai[/127.0.0.1:57065] logged in with entity id 850431 at ([world]3214.1440834743426, 63.0, -609.8789644340762)
+[13:27:18] [Server thread/INFO]: fly_pigman01 >> 紫晶的
+[13:27:21] [Server thread/INFO]: <北梦曦> North_dream >> o
+[13:27:24] [Server thread/INFO]: <北梦曦> North_dream >> 心塞
+[13:27:26] [Server thread/INFO]: Xin_Sai >> !
+[13:27:32] [Server thread/INFO]: <北梦曦> North_dream >> 这个hito的钻甲
+[13:27:35] [Server thread/INFO]: <北梦曦> North_dream >> 是你给的
+[13:27:37] [Server thread/INFO]: <北梦曦> North_dream >> 吗
+[13:27:40] [Server thread/INFO]: Xin_Sai >> en
+[13:27:47] [Server thread/INFO]: Xin_Sai >> 他不住海晶
+[13:27:47] [Server thread/INFO]: <北梦曦> North_dream >> 那他是哪个镇的
+[13:27:59] [Server thread/INFO]: Xin_Sai >> 他住海城
+[13:28:02] [Server thread/INFO]: <北梦曦> North_dream >> az
+[13:28:32] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 1
+[13:28:35] [Server thread/INFO]: <北梦曦> North_dream >> az
+[13:28:35] [Server thread/INFO]: Link_Light was slain by ZOMBIE_
+[13:28:36] [Server thread/INFO]: Block_linyi >> Xin_Sai我做好第二个房子了
+[13:28:51] [Server thread/INFO]: There are 7 of a max 40 players online: adhesive_tape, North_dream, HitoShouri, Block_linyi, fly_pigman01, Xin_Sai, Link_Light
+[13:28:54] [Server thread/INFO]: <北梦曦> North_dream >> 服务器进入了周朝awa
+[13:29:06] [Server thread/INFO]: Xin_Sai >> 啊这 ，你如果住在这里的话做一个家就够了丫
+[13:29:19] [Server thread/INFO]: HitoShouri >> 你好，心塞
+[13:29:25] [Server thread/INFO]: Xin_Sai >> en
+[13:30:07] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 你过来海城住
+[13:30:25] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 海晶已经没地方住人了
+[13:30:49] [Server thread/INFO]: Xin_Sai >> 建的不错
+[13:31:08] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 坐标
+[13:31:24] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 2965 -726
+[13:31:26] [Server thread/INFO]: <北梦曦> North_dream >> az
+[13:31:44] [Server thread/INFO]: Block_linyi >> 橙色染料咋做来着
+[13:31:45] [Server thread/INFO]: <北梦曦> North_dream >> 放火烧山，牢底坐穿
+[13:31:47] [Server thread/INFO]: Xin_Sai >> 北梦这是你的房子？
+[13:31:53] [Server thread/INFO]: <北梦曦> North_dream >> 不是啊
+[13:32:07] [Server thread/INFO]: <北梦曦> North_dream >> 我住在树场里
+[13:32:11] [Server thread/INFO]: Xin_Sai >> ..
+[13:32:14] [Server thread/INFO]: fly_pigman01 >> ...
+[13:32:20] [Server thread/INFO]: <北梦曦> North_dream >> 换句话就是
+[13:32:29] [Server thread/INFO]: Block_linyi >> 这里2个房子都是我建的
+[13:32:32] [Server thread/INFO]: <北梦曦> North_dream >> 我住在水晶棺材里
+[13:32:45] [Server thread/INFO]: fly_pigman01 >> 还缺两个黑人
+[13:32:50] [Server thread/INFO]: Xin_Sai >> Block_linyi 我看你做建筑很不错丫
+[13:32:51] [Server thread/INFO]: <北梦曦> North_dream >> az
+[13:32:53] [Server thread/INFO]: fly_pigman01 >> 哈哈哈
+[13:33:01] [Server thread/INFO]: Block_linyi >> 还行吧
+[13:33:02] [Server thread/INFO]: <北梦曦> North_dream >> 什么年代了
+[13:33:08] [Server thread/INFO]: <北梦曦> North_dream >> 还黑奴黑人的叫
+[13:33:13] [Server thread/INFO]: Xin_Sai >> 如果有兴趣的话可以来做大型建筑
+[13:33:25] [Server thread/WARN]: HitoShouri moved wrongly!
+[13:33:33] [Server thread/INFO]: Xin_Sai >> 当然得自己在海上圈地 或者 地上
+[13:33:58] [Server thread/INFO]: Xin_Sai >> Block_linyi 我记得之前我答应给你个鞘翅对吧
+[13:34:21] [Server thread/INFO]: Block_linyi >> 那个你们海晶的给了我了
+[13:34:33] [Server thread/INFO]: Xin_Sai >> 啊这
+[13:34:40] [Server thread/INFO]: Xin_Sai >> 谁给的丫
+[13:34:40] [Server thread/INFO]: Block_linyi >> ghs给的
+[13:34:51] [Server thread/INFO]: fly_pigman01 >> 干坏事
+[13:35:14] [Server thread/INFO]: Xin_Sai >> HitoShouri 来了没
+[13:35:44] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[13:36:01] [Server thread/INFO]: <北梦曦> North_dream >> 说黑人黑奴的出去噢拉一页
+[13:36:04] [Server thread/INFO]: Xin_Sai >> 我看这个岛就留给你改造吧qwq
+[13:36:19] [Server thread/INFO]: <北梦曦> North_dream >> awa
+[13:36:31] [Server thread/INFO]: Xin_Sai >> 做的是真心好
+[13:37:08] [Server thread/INFO]: Xin_Sai >> 不说了 我去仙人掌挂机了qwq
+[13:37:17] [Server thread/INFO]: <北梦曦> North_dream >> 请务必给我一块空岛
+[13:37:17] [Server thread/INFO]: fly_pigman01 >> 我们这里的大炮都烂掉了
+[13:37:29] [Server thread/INFO]: fly_pigman01 >> 太草了
+[13:37:33] [Server thread/INFO]: Xin_Sai >> 没仙人掌没办法把教堂顶铺满
+[13:38:18] [Server thread/INFO]: Link_Light has made the advancement [Suit Up]
+[13:38:49] [Server thread/WARN]: Link_Light moved wrongly!
+[13:39:49] [Server thread/INFO]: Link_Light fell from a high place
+[13:39:52] [Server thread/INFO]: fly_pigman01 lost connection: Disconnected
+[13:39:52] [Server thread/INFO]: fly_pigman01 left the game
+[13:40:05] [Server thread/INFO]: North_dream lost connection: Timed out
+[13:40:05] [Server thread/INFO]: North_dream left the game
+[13:40:16] [Server thread/INFO]: Block_linyi issued server command: /co i
+[13:40:36] [Server thread/INFO]: Block_linyi issued server command: /co i
+[13:42:24] [Server thread/INFO]: HitoShouri >> '
+[13:46:34] [User Authenticator #50/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[13:46:34] [Server thread/INFO]: North_dream[/127.0.0.1:57213] logged in with entity id 888088 at ([world]3161.1099191443095, 55.77580841543546, -667.3950320867209)
+[13:48:48] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 我到了。
+[13:52:02] [Server thread/WARN]: d1b4fb11-735d-48e4-9533-2a8aa40e4cac (vehicle of Link_Light) moved wrongly!
+[13:54:24] [Server thread/INFO]: HitoShouri issued server command: /
+[13:54:59] [User Authenticator #51/INFO]: UUID of player fly_pigman01 is ee66c593-3d27-4832-911d-b569dd50102f
+[13:54:59] [Server thread/INFO]: fly_pigman01[/127.0.0.1:57266] logged in with entity id 902396 at ([world]5158.752934360443, 69.0, 214.12724442738687)
+[13:55:39] [Server thread/INFO]: HitoShouri issued server command: /co i
+[13:56:55] [Server thread/INFO]: HitoShouri issued server command: /co i
+[13:57:32] [Server thread/INFO]: HitoShouri issued server command: /tell
+[13:58:19] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 我到了，你在哪？
+[13:58:59] [User Authenticator #52/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[13:58:59] [Server thread/INFO]: Ghost_king_[/127.0.0.1:57298] logged in with entity id 907731 at ([world]1831.3306919279646, 7.0, 319.37454701980516)
+[14:00:30] [Server thread/INFO]: HitoShouri has made the advancement [Sweet Dreams]
+[14:01:14] [User Authenticator #53/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[14:01:14] [Server thread/INFO]: Twilight2033[/127.0.0.1:57316] logged in with entity id 912170 at ([world]5296.855439721927, 105.0, -634.4104168182183)
+[14:01:17] [Server thread/INFO]: <北梦曦> North_dream >> az
+[14:01:21] [Server thread/INFO]: <北梦曦> North_dream >> 搞了三天
+[14:01:26] [Server thread/INFO]: <北梦曦> North_dream >> 终于弄好了八色
+[14:01:40] [Server thread/INFO]: Block_linyi >> 羊毛机？
+[14:01:43] [Server thread/INFO]: <北梦曦> North_dream >> en
+[14:01:44] [Server thread/INFO]: HitoShouri >> w
+[14:01:47] [Server thread/INFO]: <北梦曦> North_dream >> 老鸽子了
+[14:02:16] [Server thread/INFO]: <北梦曦> North_dream >> 去修一下装备
+[14:03:39] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[14:04:24] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[14:04:43] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[14:04:43] [Server thread/INFO]: Twilight2033 left the game
+[14:04:49] [Server thread/INFO]: North_dream lost connection: Disconnected
+[14:04:49] [Server thread/INFO]: North_dream left the game
+[14:05:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[14:06:15] [Server thread/INFO]: Link_Light fell from a high place
+[14:06:47] [Server thread/INFO]: Block_linyi issued server command: /co i
+[14:06:54] [Server thread/INFO]: Block_linyi issued server command: /co i
+[14:06:57] [Server thread/INFO]: Block_linyi issued server command: /co i
+[14:07:12] [Server thread/INFO]: Block_linyi issued server command: /co i
+[14:07:22] [Server thread/INFO]: Block_linyi issued server command: /co i\
+[14:07:23] [Server thread/INFO]: Block_linyi issued server command: /co i
+[14:07:31] [Server thread/INFO]: Block_linyi issued server command: /co i
+[14:07:56] [Server thread/INFO]: Block_linyi issued server command: /co i
+[14:08:05] [Server thread/INFO]: Block_linyi issued server command: /co i
+[14:10:35] [Server thread/INFO]: Link_Light was slain by Zombie Pigman
+[14:12:26] [Server thread/INFO]: Link_Light has made the advancement [A Seedy Place]
+[14:15:59] [Server thread/WARN]: Block_linyi moved too quickly! 2342.3133479737367,-48.832178999728924,-310.73138398405257
+[14:17:34] [User Authenticator #54/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[14:17:34] [Server thread/INFO]: North_dream[/127.0.0.1:57424] logged in with entity id 937543 at ([world_the_end]-8.093956368347744, 0.5, 309.22177566671246)
+[14:18:10] [Server thread/INFO]: Link_Light was slain by Vex
+[14:18:39] [Server thread/INFO]: <北梦曦> North_dream >> az
+[14:18:48] [Server thread/INFO]: <北梦曦> North_dream >> 大掠夺了?
+[14:19:14] [Server thread/INFO]: Link_Light >> 印钞机那。
+[14:19:18] [Server thread/INFO]: Block_linyi >> e
+[14:19:31] [Server thread/INFO]: <北梦曦> North_dream >> 印钞机少去
+[14:19:35] [Server thread/INFO]: <北梦曦> North_dream >> 不好用
+[14:19:39] [Server thread/INFO]: HitoShouri >> 我睡着睡着床被挖了........
+[14:19:47] [Server thread/INFO]: Block_linyi >> 我觉得还行吧
+[14:20:04] [Server thread/INFO]: Block_linyi >> 印钞机要团队一起去
+[14:20:10] [Server thread/INFO]: <北梦曦> North_dream >> 还要钻套
+[14:20:12] [Server thread/INFO]: <北梦曦> North_dream >> 最起码
+[14:20:16] [Server thread/INFO]: Block_linyi >> en
+[14:20:21] [Server thread/INFO]: <北梦曦> North_dream >> 有能力钻套是满配
+[14:21:05] [Server thread/INFO]: Link_Light >> oo
+[14:21:17] [Server thread/INFO]: <北梦曦> North_dream >> 话说你到底是哪的
+[14:21:27] [Server thread/INFO]: Link_Light >> 不知道
+[14:21:29] [Server thread/INFO]: <北梦曦> North_dream >> e
+[14:21:46] [Server thread/INFO]: Link_Light >> 要申请的吗
+[14:21:54] [Server thread/INFO]: <北梦曦> North_dream >> en
+[14:22:21] [Server thread/INFO]: Link_Light >> 去哪申请
+[14:22:37] [Server thread/INFO]: <北梦曦> North_dream >> 找城镇的管理部
+[14:23:03] [Server thread/INFO]: Block_linyi lost connection: Disconnected
+[14:23:03] [Server thread/INFO]: Block_linyi left the game
+[14:23:14] [Server thread/INFO]: Link_Light >> 行
+[14:23:29] [Server thread/INFO]: <北梦曦> North_dream >> ghost不是在线吗
+[14:23:33] [Server thread/INFO]: <北梦曦> North_dream >> 你可以找他进海晶
+[14:24:34] [Server thread/INFO]: Link_Light has made the advancement [Eye Spy]
+[14:25:32] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 你在哪？
+[14:26:16] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> ？
+[14:26:18] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 咋了
+[14:26:22] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 我挂机ing
+[14:26:26] [Server thread/INFO]: <北梦曦> North_dream >> 这个人
+[14:26:33] [Server thread/INFO]: Link_Light >> 能进你的城镇吗
+[14:26:34] [Server thread/INFO]: <北梦曦> North_dream >> 想找镇
+[14:27:43] [Server thread/INFO]: Link_Light has made the advancement [The End?]
+[14:30:37] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这
+[14:30:44] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 你有啥特长吗
+[14:30:54] [Server thread/INFO]: Link_Light >> 没有。。。
+[14:31:16] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 活跃吗
+[14:31:34] [Server thread/INFO]: Link_Light >> 不一定
+[14:31:38] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这
+[14:31:53] [Server thread/INFO]: Link_Light >> 可能更多时间玩单人
+[14:31:57] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 啊这
+[14:32:14] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 如果活跃 我们就收（去做后勤部的awa
+[14:32:57] [Server thread/INFO]: HitoShouri lost connection: Disconnected
+[14:32:57] [Server thread/INFO]: HitoShouri left the game
+[14:33:02] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 北梦
+[14:33:06] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> 这玩意我还是没学会
+[14:34:03] [Server thread/INFO]: <GK幽灵王> Ghost_king_ >> North_dream
+[14:34:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ce715a8[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:57540) lost connection: Disconnected
+[14:35:40] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[14:35:40] [Server thread/INFO]: Ghost_king_ left the game
+[14:35:44] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[14:35:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a9127d9[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:57559) lost connection: Disconnected
+[14:36:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@722ba790[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57567) lost connection: Disconnected
+[14:37:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@3bd43372[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57578) lost connection: Disconnected
+[14:37:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@372a4252[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57580) lost connection: Disconnected
+[14:37:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@14bc24ee[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57585) lost connection: Disconnected
+[14:37:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@5a91330f[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57588) lost connection: Disconnected
+[14:39:07] [User Authenticator #55/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[14:39:07] [Server thread/INFO]: HitoShouri[/127.0.0.1:57595] logged in with entity id 965523 at ([world]2986.9877786749857, 68.0, -731.156120927672)
+[14:41:35] [Server thread/INFO]: fly_pigman01 lost connection: Disconnected
+[14:41:35] [Server thread/INFO]: fly_pigman01 left the game
+[14:42:33] [Server thread/INFO]: HitoShouri lost connection: Disconnected
+[14:42:33] [Server thread/INFO]: HitoShouri left the game
+[14:45:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@dd58c87[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57648) lost connection: Disconnected
+[14:45:50] [Server thread/INFO]: Link_Light lost connection: Disconnected
+[14:45:50] [Server thread/INFO]: Link_Light left the game
+[14:46:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@32a0e8e9[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57653) lost connection: Disconnected
+[14:48:14] [User Authenticator #56/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[14:48:14] [Server thread/INFO]: Block_linyi[/127.0.0.1:57669] logged in with entity id 969467 at ([world]3037.0177526553266, 75.0, -714.5458967473867)
+[14:50:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@5fd22e5[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57691) lost connection: Disconnected
+[14:51:59] [User Authenticator #57/INFO]: UUID of player fly_pigman02 is 67b61d6e-8357-402c-bd08-5c7bd2bae3e2
+[14:51:59] [Server thread/INFO]: fly_pigman02[/127.0.0.1:57699] logged in with entity id 971048 at ([world]5174.207447633236, 64.0, 205.56417760705992)
+[14:52:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@249fd169[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57705) lost connection: Disconnected
+[14:54:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@6b734417[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57719) lost connection: Disconnected
+[14:55:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[14:55:38] [Server thread/INFO]: Xin_Sai >> 在挂机一会 233 我有两排仙人掌了
+[14:57:51] [Server thread/INFO]: Xin_Sai >> 白佬的甘蔗机这点牛逼
+[14:58:17] [Server thread/INFO]: Block_linyi >> 我记得1.15可以用0t催熟
+[14:58:41] [Server thread/INFO]: Xin_Sai >> 这服务器不行
+[15:00:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@d4eec02[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57761) lost connection: Disconnected
+[15:00:30] [Server thread/INFO]: Xin_Sai >> 估计晚上我的教堂外饰就能完工了 只要材料够
+[15:00:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@e1c6f57[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57768) lost connection: Disconnected
+[15:00:40] [Server thread/WARN]: Block_linyi moved wrongly!
+[15:01:03] [Server thread/WARN]: Block_linyi moved wrongly!
+[15:01:04] [User Authenticator #58/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[15:01:04] [Server thread/INFO]: Twilight2033[/127.0.0.1:57772] logged in with entity id 977408 at ([world]5080.838837127842, 70.0, 139.48725432613207)
+[15:01:30] [Server thread/WARN]: fly_pigman02 was kicked due to keepalive timeout!
+[15:01:30] [Server thread/INFO]: fly_pigman02 lost connection: Timed out
+[15:01:30] [Server thread/INFO]: fly_pigman02 left the game
+[15:01:30] [Server thread/WARN]: handleDisconnection() called twice
+[15:01:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@3d9be6ea[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57780) lost connection: Disconnected
+[15:02:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f46fc92[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57787) lost connection: Disconnected
+[15:02:19] [Server thread/INFO]: Twilight2033 issued server command: /coi
+[15:02:22] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[15:02:55] [Server thread/INFO]: Block_linyi >> 卧槽？
+[15:03:01] [Server thread/INFO]: Block_linyi >> 共镇要解散了？
+[15:03:11] [Server thread/INFO]: Twilight2033 >> ?
+[15:03:16] [Server thread/INFO]: Twilight2033 >> 咋了
+[15:03:27] [Server thread/INFO]: Twilight2033 >> 他们群内说的吗
+[15:03:33] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[15:04:25] [Server thread/INFO]: Block_linyi >> 我能来海晶吗？
+[15:05:20] [Server thread/INFO]: Block_linyi >> Xin_Sai在吗？
+[15:05:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@603669a5[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:57810) lost connection: Disconnected
+[15:06:14] [Server thread/INFO]: <北梦曦> North_dream >> 共振不是已经散了吗。。
+[15:06:30] [Server thread/INFO]: Block_linyi >> 现在才真正散了
+[15:06:43] [Server thread/INFO]: <北梦曦> North_dream >> 所以慕云以后要干嘛
+[15:06:54] [Server thread/INFO]: Block_linyi >> 来投靠你们
+[15:06:57] [Server thread/INFO]: <北梦曦> North_dream >> az
+[15:07:07] [Server thread/INFO]: <北梦曦> North_dream >> 你们开新镇吧awa
+[15:07:13] [Server thread/INFO]: <北梦曦> North_dream >> 共振二周目awa
+[15:07:23] [Server thread/INFO]: Twilight2033 >> 话说那样的话
+[15:07:34] [User Authenticator #59/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[15:07:34] [Server thread/INFO]: HitoShouri[/127.0.0.1:57822] logged in with entity id 981977 at ([world]2960.300000011921, 68.0, -739.8065034094664)
+[15:07:36] [Server thread/INFO]: Twilight2033 >> 还留在这个服的共镇人
+[15:07:47] [Server thread/INFO]: Twilight2033 >> 不就可以直接继承共镇的地盘了吗
+[15:08:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@4a1583a1[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57828) lost connection: Disconnected
+[15:08:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b4383a0[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57836) lost connection: Disconnected
+[15:09:01] [Server thread/INFO]: <北梦曦> North_dream >> 林依
+[15:09:08] [Server thread/INFO]: Block_linyi >> ?
+[15:09:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@76af2e30[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57841) lost connection: Disconnected
+[15:09:15] [Server thread/INFO]: <北梦曦> North_dream >> 你能去海晶树场里帮我做一组活版门吗
+[15:09:33] [Server thread/INFO]: Block_linyi >> 什么木头的活板门
+[15:09:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@659b7af5[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57852) lost connection: Disconnected
+[15:09:41] [Server thread/INFO]: <北梦曦> North_dream >> 橡木
+[15:09:45] [Server thread/INFO]: Block_linyi >> ok
+[15:10:26] [Server thread/WARN]: Block_linyi moved wrongly!
+[15:10:30] [Server thread/INFO]: Block_linyi >> 你人呢
+[15:11:07] [Server thread/INFO]: Block_linyi >> 你人在哪里
+[15:11:20] [Server thread/INFO]: <北梦曦> North_dream >> 我在
+[15:11:34] [User Authenticator #60/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[15:11:34] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:57872] logged in with entity id 989131 at ([world]1375.237500011921, 65.0, -8.507458043620321)
+[15:11:37] [Server thread/INFO]: <北梦曦> North_dream >> 羊毛机
+[15:11:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@64f8408[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57870) lost connection: Disconnected
+[15:12:05] [Server thread/INFO]: Block_linyi >> 羊毛几搁哪呢
+[15:12:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@3abc1129[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57880) lost connection: Disconnected
+[15:12:13] [Server thread/INFO]: <北梦曦> North_dream >> e
+[15:12:21] [Server thread/INFO]: <北梦曦> North_dream >> 单联女巫塔的地狱交通
+[15:12:27] [Server thread/INFO]: <北梦曦> North_dream >> 旁边有个小门
+[15:12:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@64719288[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:57885) lost connection: Disconnected
+[15:13:01] [User Authenticator #61/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[15:13:01] [Server thread/INFO]: Bay_Max_[/127.0.0.1:57892] logged in with entity id 991369 at ([world_nether]197.92733965373014, 115.0, 31.42085864810824)
+[15:13:16] [Server thread/INFO]: Block_linyi issued server command: /msg Li_zi_wei 共镇真的要解散了吗？
+[15:13:16] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> ohhhhhhh
+[15:13:18] [Server thread/INFO]: Li_zi_wei issued server command: /co i
+[15:13:20] [Server thread/INFO]: <北梦曦> North_dream >> az
+[15:13:22] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 不容易（
+[15:13:22] [Server thread/INFO]: Li_zi_wei >> 嗯
+[15:13:25] [Server thread/INFO]: <北梦曦> North_dream >> 咋了百佬
+[15:13:29] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 身份验证停机一下午（
+[15:13:32] [Server thread/INFO]: <北梦曦> North_dream >> az
+[15:13:47] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 试了半个小时（
+[15:13:57] [User Authenticator #61/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[15:13:57] [Server thread/INFO]: Jichen233[/127.0.0.1:57899] logged in with entity id 992961 at ([world]2631.0897636396344, 49.0, 685.5416917166033)
+[15:14:34] [Server thread/INFO]: Jichen233 issued server command: /msg Li_zi_wei where
+[15:14:35] [Server thread/INFO]: HitoShouri fell from a high place
+[15:15:05] [Server thread/INFO]: <北梦曦> North_dream >> az
+[15:15:10] [Server thread/INFO]: <北梦曦> North_dream >> 我在投影
+[15:15:11] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[15:15:13] [Server thread/INFO]: <北梦曦> North_dream >> 别挡着我
+[15:15:42] [Server thread/INFO]: Block_linyi issued server command: /msg Bay_Max_ 我能来海晶吗？
+[15:15:57] [Server thread/INFO]: Bay_Max_ issued server command: /tell Block_linyi 问心塞他们吧（
+[15:17:03] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[15:17:08] [Server thread/INFO]: <北梦曦> North_dream >> az
+[15:17:14] [Server thread/INFO]: Block_linyi >> 你们也是？
+[15:17:15] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[15:17:16] [Server thread/INFO]: <北梦曦> North_dream >> 投影提示方块紫色是什么意思啊
+[15:18:05] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 多余得
+[15:18:23] [Server thread/INFO]: HitoShouri has made the advancement [A Seedy Place]
+[15:18:32] [Server thread/WARN]: Twilight2033 moved wrongly!
+[15:18:40] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 多余的方块
+[15:19:04] [Server thread/INFO]: Villager EntityVillager['Farmer'/995014, uuid='bea636ba-a113-4b2f-bb2f-eeb69895a259', l='world', x=2770.58, y=73.44, z=-409.50, cx=173, cz=-26, tl=7042738, v=true, d=false] died, message: 'Farmer was slain by 森语'
+[15:19:44] [Server thread/INFO]: Li_zi_wei issued server command: /co i
+[15:19:53] [Server thread/WARN]: Twilight2033 moved wrongly!
+[15:21:10] [Server thread/INFO]: <北梦曦> North_dream >> 食堂泼辣酱！砸挖路多！
+[15:21:16] [Server thread/INFO]: <北梦曦> North_dream >> 啊不好意思
+[15:21:21] [Server thread/INFO]: <北梦曦> North_dream >> 串台了
+[15:22:06] [Server thread/INFO]: Jichen233 >> ...
+[15:30:02] [Server thread/WARN]: 5498735b-68ef-4ca2-ac3c-6592791d2b26 (vehicle of Block_linyi) moved wrongly!
+[15:34:05] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_15_R1.ChunkMapDistance.b(ChunkMapDistance.java:230) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.movePlayer(PlayerChunkMap.java:1363) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.movePlayer(ChunkProviderServer.java:811) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1145) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying.a(SourceFile:122) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying$PacketPlayInPositionLook.a(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1038) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1031) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeAll(IAsyncTaskHandler.java:95) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1172) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[15:35:01] [Server thread/WARN]: Jichen233 moved wrongly!
+[15:35:23] [Server thread/INFO]: Block_linyi issued server command: /co i
+[15:35:26] [Server thread/INFO]: Block_linyi issued server command: /co i
+[15:35:44] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[15:35:59] [Server thread/INFO]: Block_linyi >> 好无聊
+[15:36:10] [Server thread/INFO]: Jichen233 >> ...
+[15:36:12] [Server thread/INFO]: Li_zi_wei >> 是挺无聊的
+[15:36:19] [Server thread/INFO]: Twilight2033 issued server command: /whilt list
+[15:36:29] [Server thread/INFO]: Twilight2033 issued server command: /while list
+[15:37:09] [Server thread/INFO]: Twilight2033 issued server command: /white list
+[15:37:11] [Server thread/INFO]: Bay_Max_ issued server command: /co i
+[15:37:16] [Server thread/INFO]: Twilight2033 issued server command: /whitelist
+[15:37:30] [Server thread/INFO]: Bay_Max_ issued server command: /co l 2
+[15:37:36] [Server thread/INFO]: Bay_Max_ issued server command: /co i
+[15:37:58] [Server thread/INFO]: Block_linyi >> 去海城玩玩
+[15:39:32] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[15:39:32] [Server thread/INFO]: Twilight2033 left the game
+[15:40:04] [Server thread/INFO]: Xin_Sai >> !
+[15:40:14] [Server thread/INFO]: Xin_Sai >> 刚挂机回来
+[15:40:27] [Server thread/INFO]: <北梦曦> North_dream >> az
+[15:40:34] [Server thread/INFO]: <北梦曦> North_dream >> 颜色被我弄混了
+[15:40:40] [Server thread/INFO]: HitoShouri issued server command: /kill
+[15:40:40] [Server thread/INFO]: Li_zi_wei issued server command: /co i
+[15:40:43] [Server thread/INFO]: <北梦曦> North_dream >> 只能羊杀了重弄了
+[15:40:44] [Server thread/INFO]: HitoShouri issued server command: /help
+[15:40:49] [Server thread/INFO]: Li_zi_wei issued server command: /co i
+[15:41:06] [Server thread/INFO]: Xin_Sai >> Bay_Max_ 你做的末地的甘蔗机好高级的样子！
+[15:41:12] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> ...
+[15:41:18] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 很垃圾
+[15:41:21] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 很容易坏
+[15:41:23] [Server thread/INFO]: <北梦曦> North_dream >> e
+[15:41:39] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 飞行器式的烂点
+[15:41:41] [Server thread/INFO]: Xin_Sai >> 这活塞虫还能自动转弯
+[15:42:02] [Server thread/INFO]: Xin_Sai >> 我感觉你这个贼省材料
+[15:42:13] [Server thread/INFO]: Li_zi_wei >> 然后坏了
+[15:42:15] [Server thread/INFO]: Li_zi_wei >> ((((
+[15:42:22] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 差不多 就是不稳定
+[15:42:44] [Server thread/INFO]: <北梦曦> North_dream >> 飞行器式的就怕区块卸载
+[15:43:14] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 愿意来海城看看吗
+[15:44:05] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[15:44:05] [Server thread/INFO]: Li_zi_wei left the game
+[15:44:33] [Server thread/INFO]: HitoShouri fell from a high place
+[15:44:36] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 1
+[15:44:52] [Server thread/INFO]: Bay_Max_ issued server command: /tell Xin_Sai 在哪awa
+[15:45:17] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 海晶东边
+[15:45:32] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 愿意看看我可以带你转转
+[15:45:58] [Server thread/INFO]: HitoShouri went up in flames
+[15:46:03] [Server thread/INFO]: Xin_Sai >> ??
+[15:46:05] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[15:48:22] [Server thread/INFO]: Xin_Sai >> 海晶的高速熔炉接地毯机谁做的
+[15:49:19] [Server thread/WARN]: Block_linyi moved wrongly!
+[15:49:48] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 3196 -607
+[15:50:15] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri你人在哪里？
+[15:50:22] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 你人在哪里？
+[15:50:28] [Server thread/INFO]: Bay_Max_ issued server command: /tell Xin_Sai 看到了awa
+[15:51:01] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 我承认雕花需要重新装修一下
+[15:51:28] [Server thread/INFO]: Bay_Max_ issued server command: /tell Xin_Sai 在我看起来都很棒（
+[15:51:34] [Server thread/INFO]: Bay_Max_ issued server command: /tell Xin_Sai 不会建筑（
+[15:51:37] [Server thread/INFO]: Bay_Max_ issued server command: /tell Xin_Sai 233
+[15:51:56] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 我做的比较难看 233
+[15:52:22] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 不过天花板我比较满意 要上了看看么
+[15:52:41] [Server thread/INFO]: Bay_Max_ issued server command: /tell Xin_Sai 灵魂出窍在看
+[15:52:44] [Server thread/INFO]: Bay_Max_ issued server command: /tell Xin_Sai XD
+[15:53:30] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 我说实话 要不是染料就这么点 谁愿意用这么单调的颜色染玻璃
+[15:53:48] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 我去烧仙人掌了
+[15:53:53] [Server thread/INFO]: Bay_Max_ issued server command: /tell Xin_Sai en
+[15:54:06] [User Authenticator #62/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[15:54:06] [Server thread/INFO]: Mr_director[/127.0.0.1:58164] logged in with entity id 1051888 at ([world]2766.7067148947554, 62.0, -291.59978246683806)
+[15:54:31] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 我拉人来海城的目的是为了制约海晶
+[15:54:51] [Server thread/WARN]: Block_linyi moved wrongly!
+[15:55:00] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 因为共镇要解体了
+[15:55:02] [Server thread/INFO]: <北梦曦> North_dream >> az
+[15:55:11] [Server thread/WARN]: Bay_Max_ moved too quickly! -1650.4764126772106,16.145106700651638,-234.85754642240045
+[15:55:26] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 共镇的技术人员要跑来海晶
+[15:55:34] [Server thread/INFO]: Bay_Max_ issued server command: /tell Xin_Sai 搜嘎
+[15:55:47] [Server thread/INFO]: Mr_director issued server command: /co i
+[15:55:52] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 憨明也在这里 lin hgih
+[15:55:57] [Server thread/INFO]: Mr_director issued server command: /co i
+[15:56:06] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 那边有他的床233
+[15:56:13] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> en
+[15:56:16] [Server thread/INFO]: Bay_Max_ issued server command: /tell Xin_Sai en
+[15:56:18] [Server thread/INFO]: <北梦曦> North_dream >> bay
+[15:56:20] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> .
+[15:56:23] [Server thread/INFO]: <北梦曦> North_dream >> 你在干嘛呢awa
+[15:57:15] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 做 烈焰人 农场
+[15:57:21] [Server thread/INFO]: <北梦曦> North_dream >> az
+[15:57:23] [Server thread/INFO]: <北梦曦> North_dream >> 在哪
+[15:57:25] [Server thread/INFO]: <北梦曦> North_dream >> 我去看看awa
+[15:57:37] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 在准备材料（
+[15:57:59] [Server thread/INFO]: <北梦曦> North_dream >> 在哪准备呢
+[15:58:10] [Server thread/INFO]: Xin_Sai issued server command: /tell Bay_Max_ 总之如果你愿意来建筑 可以来这里海上圈地
+[15:58:11] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 在挖黑曜石
+[15:58:13] [Server thread/INFO]: <北梦曦> North_dream >> az
+[15:58:25] [Server thread/INFO]: Bay_Max_ issued server command: /tell Xin_Sai 行
+[15:58:37] [Server thread/INFO]: Xin_Sai >> zzz
+[15:58:38] [Server thread/INFO]: Xin_Sai >> zzz
+[15:58:43] [Server thread/INFO]: Mr_director >> 到头来黑曜石来源还是柱子
+[15:58:44] [Server thread/INFO]: Mr_director >> 绝了
+[15:58:46] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 233
+[15:58:49] [Server thread/INFO]: <北梦曦> North_dream >> az
+[15:59:28] [Server thread/INFO]: Xin_Sai >> 有没有刷花机
+[15:59:33] [Server thread/INFO]: <北梦曦> North_dream >> 没有
+[15:59:35] [Server thread/INFO]: Mr_director >> 刷铁塔
+[15:59:36] [Server thread/WARN]: Mr_director moved too quickly! 1005.9075708089906,-50.0,1988.997202104629
+[15:59:38] [Server thread/INFO]: <北梦曦> North_dream >> 但是梦曦是花海
+[15:59:38] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 啊这
+[15:59:49] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 沙漠空置域旁边也是
+[16:00:12] [Server thread/INFO]: Mr_director >> 我记得周围就有人养蜜蜂
+[16:00:25] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> whichwho养的
+[16:00:31] [Server thread/INFO]: <北梦曦> North_dream >> 好像是哪个谁养的
+[16:00:31] [Server thread/INFO]: Xin_Sai >> 谁有青金石块 我收3组
+[16:00:38] [Server thread/WARN]: Mr_director moved too quickly! -1650.8855994144747,16.145106700651638,-234.70836364694406
+[16:00:46] [Server thread/INFO]: Xin_Sai >> 谁有青金石块 我收3组qwq 实在是没染料了
+[16:01:06] [Server thread/INFO]: Xin_Sai has reached the goal [You Need a Mint]
+[16:01:11] [Server thread/INFO]: Xin_Sai >> ?
+[16:01:16] [Server thread/INFO]: Mr_director >> 都是现挖的（
+[16:01:26] [Server thread/INFO]: HitoShouri lost connection: Disconnected
+[16:01:26] [Server thread/INFO]: HitoShouri left the game
+[16:01:32] [Server thread/INFO]: Xin_Sai >> 龙溪能喝么
+[16:01:36] [Server thread/INFO]: <北梦曦> North_dream >> 你可以去炸矿awa
+[16:01:44] [Server thread/INFO]: <北梦曦> North_dream >> 投影一台盾构awa
+[16:02:10] [Server thread/INFO]: Xin_Sai >> 投影没有灵魂233
+[16:02:31] [Server thread/INFO]: Mr_director >> 我把沙漠空置域的信标拿过来用了（
+[16:03:24] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 我靠快速右键切到了烟花（
+[16:04:10] [Server thread/INFO]: Xin_Sai >> 求求了 上次淘金热你们没挖青金石么
+[16:04:25] [Server thread/INFO]: Mr_director >> 淘金热我挖了29个钻石原矿
+[16:04:31] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 淘“金”热
+[16:04:33] [Server thread/INFO]: Mr_director >> 以及四个刷怪笼
+[16:04:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@855a7b5[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:58233) lost connection: Disconnected
+[16:05:01] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 现修个刷花机、吧
+[16:05:03] [Server thread/INFO]: Block_linyi >> 淘金热我挖了0个红石，0个钻石，0个青金石
+[16:05:07] [Server thread/INFO]: Xin_Sai >> 1组青金石块我给20钻
+[16:05:13] [Server thread/INFO]: <北梦曦> North_dream >> 去梦曦修呗awa
+[16:05:14] [Server thread/INFO]: Block_linyi >> 机什么？？？？？
+[16:05:20] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> doge
+[16:05:28] [Server thread/INFO]: Mr_director >> 食大便了，钻石不值钱
+[16:05:46] [Server thread/INFO]: Xin_Sai >> 。。
+[16:06:05] [Server thread/INFO]: Xin_Sai >> 我收8组青金石块 一个鞘翅
+[16:06:09] [Server thread/INFO]: Xin_Sai >> 如何
+[16:06:10] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 鞘翅都贬值了（
+[16:06:14] [Server thread/INFO]: Xin_Sai >> ..
+[16:06:38] [User Authenticator #63/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[16:06:38] [Server thread/INFO]: HitoShouri[/127.0.0.1:58248] logged in with entity id 1067104 at ([world_nether]334.8833128763139, 115.0, 17.456028920943716)
+[16:06:39] [Server thread/INFO]: Xin_Sai >> 我就是想要点染料555
+[16:06:49] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 现催吧（
+[16:06:51] [Server thread/INFO]: Mr_director >> 我有时间去挖青金石为啥不自己去跑
+[16:06:52] [Server thread/INFO]: <北梦曦> North_dream >> 造个刷花季呗
+[16:06:55] [Server thread/INFO]: <北梦曦> North_dream >> 梦曦是花海
+[16:06:59] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 拿点骨粉去花海（
+[16:07:03] [Server thread/INFO]: <北梦曦> North_dream >> 沙漠空置域都是沙不好搞
+[16:07:13] [Server thread/INFO]: <北梦曦> North_dream >> 要带你们去梦曦吗
+[16:07:23] [Server thread/INFO]: <北梦曦> North_dream >> (自己都快忘了咋去的屑城主
+[16:07:29] [Server thread/INFO]: Mr_director >> 对了，既然梦溪没人了
+[16:07:31] [Server thread/INFO]: Xin_Sai >> 骨粉我要留着做染料 我骨粉也缺
+[16:07:33] [Server thread/INFO]: Mr_director >> 回头我去拆一下
+[16:07:39] [Server thread/INFO]: <北梦曦> North_dream >> ???
+[16:07:40] [Server thread/INFO]: <北梦曦> North_dream >> az
+[16:07:45] [Server thread/INFO]: <北梦曦> North_dream >> 是人话吗
+[16:08:00] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 哦对 上次淘金热在梦曦嫖了个末影箱（
+[16:08:08] [Server thread/INFO]: <北梦曦> North_dream >> ??
+[16:08:09] [Server thread/INFO]: <北梦曦> North_dream >> az
+[16:08:14] [Server thread/INFO]: North_dream has reached the goal [You Need a Mint]
+[16:08:14] [Server thread/INFO]: Mr_director >> 没人用不回收留着生崽?
+[16:08:16] [Server thread/INFO]: <北梦曦> North_dream >> 我撒了你！
+[16:08:23] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 阿巴阿巴
+[16:08:32] [Server thread/INFO]: HitoShouri fell from a high place
+[16:08:52] [Server thread/INFO]: Mr_director >> 急迫2挖黑曜石跟木稿挖煤炭一样
+[16:08:55] [Server thread/INFO]: Xin_Sai >> 我自己去黏土山挖吧
+[16:09:20] [Server thread/INFO]: Mr_director >> 黏土山的青金石和普通的一样
+[16:09:26] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 看来烈焰人农场做完还要搞刷花机（
+[16:09:29] [Server thread/INFO]: Mr_director >> Bay_Max_ 要多少黑曜石
+[16:09:35] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 我够了
+[16:09:37] [Server thread/INFO]: <北梦曦> North_dream >> 我去梦曦搞刷花季了
+[16:09:38] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 3组就行
+[16:09:38] [Server thread/INFO]: Mr_director >> 淦
+[16:09:43] [Server thread/INFO]: <北梦曦> North_dream >> 有投影文件吗
+[16:09:44] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 啊这
+[16:09:46] [Server thread/INFO]: <北梦曦> North_dream >> awa
+[16:09:57] [Server thread/INFO]: Mr_director >> 拿留着等主世界猪人塔好了
+[16:10:16] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 刷花机要讲究选址（
+[16:10:19] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+[16:10:26] [Server thread/INFO]: <北梦曦> North_dream >> 梦曦是花海
+[16:10:37] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 花海也有选址
+[16:10:42] [Server thread/INFO]: <北梦曦> North_dream >> az
+[16:10:44] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+[16:10:54] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 最好涵盖所有的花
+[16:10:59] [Server thread/INFO]: <北梦曦> North_dream >> 我去看看
+[16:11:07] [Server thread/INFO]: Xin_Sai >> 花花
+[16:11:08] [Server thread/INFO]: <北梦曦> North_dream >> 16色是吗
+[16:11:11] [Server thread/INFO]: <北梦曦> North_dream >> 还是说
+[16:11:14] [Server thread/INFO]: <北梦曦> North_dream >> 有很多
+[16:11:25] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 主要是蓝
+[16:11:31] [Server thread/INFO]: <北梦曦> North_dream >> 小蓝花
+[16:11:31] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 红黄可以刷
+[16:11:32] [Server thread/INFO]: <北梦曦> North_dream >> 有
+[16:11:50] [Server thread/INFO]: Xin_Sai >> 红好说
+[16:11:52] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 然后就是橙粉之类附加的
+[16:11:53] [Server thread/INFO]: Mr_director >> 沙漠这也有蓝花
+[16:12:04] [Server thread/INFO]: Xin_Sai >> 一堆一堆的红花
+[16:12:10] [Server thread/INFO]: <北梦曦> North_dream >> 既然你已经发现了
+[16:12:12] [Server thread/INFO]: <北梦曦> North_dream >> 那我只能
+[16:12:14] [Server thread/INFO]: <北梦曦> North_dream >> 撒了你！
+[16:12:17] [Server thread/INFO]: Mr_director >> 还有一些种在沙子上的
+[16:12:25] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> ?啊这
+[16:12:27] [Server thread/INFO]: <北梦曦> North_dream >> 你看了不该看的东西
+[16:12:29] [Server thread/INFO]: <北梦曦> North_dream >> hito
+[16:12:41] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[16:12:41] [Server thread/INFO]: Jichen233 left the game
+[16:12:52] [User Authenticator #64/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[16:12:52] [Server thread/INFO]: Twilight2033[/127.0.0.1:58291] logged in with entity id 1074979 at ([world]5282.699999988079, 104.0, -615.6004076801296)
+[16:12:57] [Server thread/INFO]: <北梦曦> North_dream >> az
+[16:13:02] [Server thread/INFO]: <北梦曦> North_dream >> 被我吓跑了
+[16:13:32] [Server thread/INFO]: Xin_Sai issued server command: /tell Block_linyi 有青金石么qwq
+[16:13:38] [Server thread/INFO]: Block_linyi >> 没有.....
+[16:13:51] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[16:13:51] [Server thread/INFO]: Twilight2033 left the game
+[16:14:22] [Server thread/INFO]: Xin_Sai issued server command: /tell Mr_director 有青金石么
+[16:14:27] [Server thread/INFO]: Mr_director >> 无
+[16:14:34] [Server thread/INFO]: <北梦曦> North_dream >> az
+[16:14:39] [Server thread/INFO]: <北梦曦> North_dream >> 这！
+[16:14:45] [Server thread/INFO]: <北梦曦> North_dream >> 谁乱开洞啊
+[16:14:59] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 可能是我（
+[16:15:04] [Server thread/INFO]: <北梦曦> North_dream >> 还看见石英不挖
+[16:15:21] [Server thread/INFO]: HitoShouri issued server command: /tell North_dream
+[16:16:16] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[16:16:16] [Server thread/INFO]: Bay_Max_ left the game
+[16:16:23] [Server thread/INFO]: <北梦曦> North_dream >> 我已经看到小兰花了
+[16:16:26] [User Authenticator #65/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[16:16:26] [Server thread/INFO]: Bay_Max_[/127.0.0.1:58318] logged in with entity id 1079299 at ([world_nether]333.70276174264126, 115.875, 1.813276576372254)
+[16:16:29] [Server thread/INFO]: Xin_Sai >> 没辙了qwq
+[16:16:30] [Server thread/INFO]: <北梦曦> North_dream >> 还有茜草
+[16:16:36] [Server thread/INFO]: <北梦曦> North_dream >> 橙色的
+[16:16:37] [Server thread/INFO]: <北梦曦> North_dream >> 黄色
+[16:16:41] [Server thread/INFO]: <北梦曦> North_dream >> 茜草
+[16:16:47] [Server thread/INFO]: <北梦曦> North_dream >> 小兰
+[16:16:58] [Server thread/INFO]: <北梦曦> North_dream >> 丁香
+[16:17:02] [Server thread/INFO]: <北梦曦> North_dream >> 宾菊
+[16:17:05] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 有没有近一点的刷怪笼
+[16:17:15] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 那个-1100 800 太远了
+[16:17:23] [Server thread/INFO]: <北梦曦> North_dream >> 然后梦曦附件
+[16:17:24] [Server thread/INFO]: <北梦曦> North_dream >> 还有
+[16:17:33] [Server thread/INFO]: <北梦曦> North_dream >> 紫色的
+[16:17:49] [Server thread/INFO]: <北梦曦> North_dream >> 红花
+[16:17:55] [Server thread/INFO]: Mr_director >> -307 -3510
+[16:17:58] [Server thread/INFO]: <北梦曦> North_dream >> 白色的
+[16:18:05] [Server thread/INFO]: Mr_director >> 我去看看有什么好的区块
+[16:18:06] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[16:18:06] [Server thread/INFO]: Mr_director left the game
+[16:18:10] [Server thread/INFO]: <北梦曦> North_dream >> 牡丹
+[16:18:15] [Server thread/INFO]: Xin_Sai >> !W
+[16:18:17] [Server thread/INFO]: HitoShouri >> .........
+[16:18:27] [Server thread/INFO]: HitoShouri >> HitoShouri
+[16:18:29] [Server thread/INFO]: <北梦曦> North_dream >> 还有
+[16:18:34] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 两格高的都能无限刷（
+[16:18:37] [Server thread/INFO]: <北梦曦> North_dream >> creeper？
+[16:18:45] [Server thread/INFO]: Xin_Sai >> HitoShouri
+[16:18:56] [Server thread/INFO]: Xin_Sai issued server command: /TELL HitoShouri 1
+[16:18:56] [Server thread/INFO]: <北梦曦> North_dream >> 还有向日葵平缓
+[16:19:20] [Server thread/INFO]: <北梦曦> North_dream >> 还有粉色de
+[16:19:28] [Server thread/INFO]: <北梦曦> North_dream >> 还有红玫瑰
+[16:19:37] [Server thread/INFO]: Xin_Sai issued server command: /TELL HitoShouri 我出1组钻换9组青金石 你愿意去挖么
+[16:19:42] [Server thread/INFO]: Xin_Sai >> 我可以
+[16:19:46] [Server thread/INFO]: <北梦曦> North_dream >> 所以
+[16:19:50] [Server thread/INFO]: <北梦曦> North_dream >> 符合要求了吗
+[16:20:05] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 7*8
+[16:20:13] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai
+[16:20:21] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 尽量涵盖所有
+[16:20:32] [Server thread/INFO]: <北梦曦> North_dream >> 建议自己来看
+[16:20:32] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> （好像是7*8
+[16:20:50] [Server thread/INFO]: Xin_Sai >> 北梦你在哪里？我去看看
+[16:20:54] [Server thread/INFO]: <北梦曦> North_dream >> 梦曦
+[16:21:15] [Server thread/INFO]: Xin_Sai >> 额。。我没去过梦曦
+[16:21:18] [Server thread/INFO]: <北梦曦> North_dream >> e
+[16:22:25] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai
+[16:22:30] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[16:22:30] [Server thread/INFO]: Xin_Sai left the game
+[16:22:35] [Server thread/INFO]: <北梦曦> North_dream >> 不想去接你
+[16:24:28] [Server thread/INFO]: There are 5 of a max 40 players online: adhesive_tape, North_dream, Block_linyi, HitoShouri, Bay_Max_
+[16:25:14] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 靠这就真啥也不留
+[16:25:18] [Server thread/INFO]: <北梦曦> North_dream >> ?
+[16:25:23] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 六个一个笼子都没
+[16:26:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@7f25bc11[id=<null>,name=fly_pigman01,properties={},legacy=false] (/127.0.0.1:58391) lost connection: Disconnected
+[16:26:29] [User Authenticator #66/INFO]: UUID of player fly_pigman01 is ee66c593-3d27-4832-911d-b569dd50102f
+[16:26:29] [Server thread/INFO]: fly_pigman01[/127.0.0.1:58395] logged in with entity id 1090484 at ([world]5153.12354128195, 69.0, 211.21528660962224)
+[16:27:19] [Server thread/INFO]: fly_pigman01 lost connection: Disconnected
+[16:27:19] [Server thread/INFO]: fly_pigman01 left the game
+[16:28:16] [Server thread/INFO]: <北梦曦> North_dream >> 白佬
+[16:28:22] [Server thread/INFO]: <北梦曦> North_dream >> 你在哪呢awa
+[16:28:36] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 92 442
+[16:28:38] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 下界
+[16:29:27] [Server thread/WARN]: Block_linyi moved wrongly!
+[16:31:44] [Server thread/INFO]: <北梦曦> North_dream >> 你还在那里吗
+[16:31:46] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> en
+[16:31:51] [Server thread/INFO]: <北梦曦> North_dream >> 我到380了
+[16:31:57] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> y62
+[16:32:01] [User Authenticator #67/INFO]: UUID of player fly_pigman01 is ee66c593-3d27-4832-911d-b569dd50102f
+[16:32:01] [Server thread/INFO]: fly_pigman01[/127.0.0.1:58432] logged in with entity id 1096010 at ([world]5154.436596643479, 69.0, 210.38039707040832)
+[16:32:06] [Server thread/INFO]: <北梦曦> North_dream >> y57
+[16:32:18] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 我看到你了
+[16:32:24] [Server thread/INFO]: fly_pigman01 >> ZBC
+[16:32:37] [Server thread/INFO]: fly_pigman01 >> 无情哈拉少
+[16:32:43] [Server thread/INFO]: <北梦曦> North_dream >> ?
+[16:32:46] [Server thread/INFO]: fly_pigman01 >> 雷霆嘎巴
+[16:32:47] [Server thread/INFO]: <北梦曦> North_dream >> 啥东西？
+[16:32:50] [Server thread/INFO]: <北梦曦> North_dream >> what
+[16:32:54] [Server thread/INFO]: fly_pigman01 >> 啊这
+[16:32:55] [Server thread/INFO]: <北梦曦> North_dream >> 你在说啥
+[16:32:59] [Server thread/INFO]: <北梦曦> North_dream >> 是什么的梗吗
+[16:33:05] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> yes
+[16:33:06] [Server thread/INFO]: fly_pigman01 >> 你不玩抖音的吗
+[16:33:11] [Server thread/INFO]: <北梦曦> North_dream >> 不玩
+[16:33:15] [Server thread/INFO]: fly_pigman01 >> 呃呃呃呃
+[16:33:36] [Server thread/INFO]: Block_linyi >> 我也不玩抖音
+[16:33:41] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> +1
+[16:33:44] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 但我知道XD
+[16:33:50] [Server thread/INFO]: fly_pigman01 >> XDD
+[16:34:23] [Server thread/INFO]: <北梦曦> North_dream >> 我也知道
+[16:34:24] [Server thread/INFO]: <北梦曦> North_dream >> 但是
+[16:34:35] [Server thread/INFO]: <北梦曦> North_dream >> 是睿智同学天天在班里喊
+[16:34:43] [Server thread/INFO]: fly_pigman01 >> 哦哦
+[16:35:27] [Server thread/INFO]: <北梦曦> North_dream >> az
+[16:35:29] [Server thread/INFO]: <北梦曦> North_dream >> 欺负我卡
+[16:35:44] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[16:35:48] [Server thread/INFO]: fly_pigman01 >> 我贼不卡
+[16:35:57] [Server thread/INFO]: fly_pigman01 >> 70帧
+[16:36:03] [Server thread/INFO]: <北梦曦> North_dream >> 你很棒？
+[16:36:03] [Server thread/INFO]: fly_pigman01 >> 欧耶
+[16:36:21] [Server thread/INFO]: <北梦曦> North_dream >> 卡和延迟分不清？
+[16:36:35] [Server thread/INFO]: fly_pigman01 >> 呃呃
+[16:36:44] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[16:36:47] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[16:36:47] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[16:36:47] [Server thread/INFO]: Debug logging is disabled
+[16:36:47] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[16:36:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:36:47] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:36:47] [Server thread/INFO]: View Distance: 12
+[16:36:47] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[16:36:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:36:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[16:36:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:36:47] [Server thread/INFO]: Item Merge Radius: 8.0
+[16:36:47] [Server thread/INFO]: Item Despawn Rate: 3000
+[16:36:47] [Server thread/INFO]: Experience Merge Radius: 8.0
+[16:36:47] [Server thread/INFO]: Mob Spawn Range: 4
+[16:36:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[16:36:47] [Server thread/INFO]: Max TNT Explosions: 100
+[16:36:47] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[16:36:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:36:47] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[16:36:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:36:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:36:47] [Server thread/INFO]: View Distance: 12
+[16:36:47] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[16:36:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:36:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[16:36:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:36:47] [Server thread/INFO]: Item Merge Radius: 8.0
+[16:36:47] [Server thread/INFO]: Item Despawn Rate: 3000
+[16:36:47] [Server thread/INFO]: Experience Merge Radius: 8.0
+[16:36:47] [Server thread/INFO]: Mob Spawn Range: 4
+[16:36:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[16:36:47] [Server thread/INFO]: Max TNT Explosions: 100
+[16:36:47] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[16:36:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:36:47] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[16:36:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:36:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:36:47] [Server thread/INFO]: View Distance: 12
+[16:36:47] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[16:36:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:36:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[16:36:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:36:47] [Server thread/INFO]: Item Merge Radius: 8.0
+[16:36:47] [Server thread/INFO]: Item Despawn Rate: 3000
+[16:36:47] [Server thread/INFO]: Experience Merge Radius: 8.0
+[16:36:47] [Server thread/INFO]: Mob Spawn Range: 4
+[16:36:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:36:47] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[16:36:47] [Server thread/INFO]: Max TNT Explosions: 100
+[16:36:47] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[16:36:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:36:47] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[16:36:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:36:47] [Server thread/INFO]: [TAB] Disabling TAB v2.7.2
+[16:36:47] [Server thread/INFO]: [TAB] Disabled in 1ms
+[16:36:47] [Server thread/INFO]: [Lores] Disabling Lores v1.4.1
+[16:36:47] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[16:36:47] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is disabled!
+[16:36:47] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[16:36:47] [Server thread/INFO]: [CrowdLocator] Disabling CrowdLocator v1.0
+[16:36:47] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v1.7.1
+[16:36:47] [Server thread/INFO]: [ChatC] Disabling ChatC v0.5
+[16:36:47] [Server thread/INFO]: [ChatC] 聊天管理插件已关闭！
+[16:36:47] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[16:36:47] [Server thread/INFO]: [SAML] Disabling SAML v2.0.0
+[16:36:47] [Server thread/INFO]: [SAML] The frozen chunk cache file has been deleted. All chunks should have been accounted for.
+[16:36:47] [Server thread/INFO]: [SAML] Successfully disabled.
+[16:36:47] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[16:36:47] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.3.1
+[16:36:47] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[16:36:47] [Server thread/INFO]: [PxAutoMessage] 正在关闭皮克斯自动公告系统...
+[16:36:47] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[16:36:47] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[16:36:48] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[16:36:48] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[16:36:48] [Server thread/INFO]: Loaded 6 recipes
+[16:36:49] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[16:36:49] [Server thread/INFO]: Loaded 6 recipes
+[16:36:49] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[16:36:49] [Server thread/WARN]: Legacy plugin AdvancedBan v2.1.5-RELEASE does not specify an api-version.
+[16:36:49] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[16:36:49] [Server thread/WARN]: Legacy plugin PlayerPoints v1.7.1 does not specify an api-version.
+[16:36:49] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[16:36:49] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[16:36:49] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[16:36:49] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[16:36:49] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[16:36:49] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.1.5-RELEASE
+[16:36:49] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[16:36:49] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[16:36:49] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[16:36:49] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[16:36:49] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v1.7.1
+[16:36:49] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[16:36:49] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[16:36:49] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[16:36:49] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[16:36:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:36:49] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[16:36:49] [Async Chat Thread - #89/INFO]: <fly_pigman01> 分得清
+[16:36:49] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[16:36:49] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[16:36:49] [Server thread/INFO]: --------------------
+[16:36:49] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[16:36:49] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[16:36:49] [Server thread/INFO]: --------------------
+[16:36:49] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[16:36:49] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[16:36:49] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[16:36:49] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[16:36:49] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[16:36:49] [Server thread/INFO]:  
+[16:36:49] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[16:36:49] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[16:36:49] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[16:36:49] [Server thread/INFO]:  
+[16:36:49] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.1.5-RELEASE*
+[16:36:49] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] Checkpoint start
+[16:36:49] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose start
+[16:36:49] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose synched
+[16:36:49] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose script done
+[16:36:49] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose end
+[16:36:49] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] Checkpoint end - txts: 1
+[16:36:52] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.1.5-RELEASE
+|   Storage: HSQLDB (local)
+| Support:
+|   Skype: Leoko33
+|   Mail: Leoko4433@gmail.com
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Update:
+|   There is a new version available! [2.2.0]
+[]================================[]
+ 
+[16:36:52] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[16:36:52] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[16:36:52] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[16:36:52] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[16:36:52] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[16:36:52] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[16:36:52] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[16:36:52] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[16:36:52] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[16:36:52] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[16:36:52] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[16:36:52] [Server thread/INFO]: [EntityTrackerFixer] Vault not found! using default permission system...
+[16:36:52] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[16:36:52] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[16:36:52] [Server thread/INFO]: [SAML] Loading config.yml...
+[16:36:52] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[16:36:52] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[16:36:52] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[16:36:52] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[16:36:52] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[16:36:52] [Server thread/INFO]: [SAML] Loading messages.yml...
+[16:36:52] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[16:36:52] [Server thread/INFO]: [SAML] Successfully enabled.
+[16:36:52] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5*
+[16:36:52] [Server thread/INFO]: [ChatC] 聊天管理插件已启用！
+[16:36:52] [Server thread/INFO]: [ChatC] 聊天管理插件当前版本：V0.5 （2017年8月24日）
+[16:36:52] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[16:36:52] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v1.7.1*
+[16:36:52] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0*
+[16:36:52] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[16:36:52] [Server thread/INFO]: [GM+] Checking Your version...
+[16:36:52] [Server thread/INFO]: ===============================
+[16:36:52] [Server thread/INFO]: 
+[16:36:52] [Server thread/INFO]:  GroupManager+ is now enable!
+[16:36:52] [Server thread/INFO]:  
+[16:36:52] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[16:36:52] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[16:36:52] [Server thread/INFO]:  Current version: v3.3
+[16:36:52] [Server thread/INFO]:  
+[16:36:52] [Server thread/INFO]: ===============================
+[16:36:52] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[16:36:52] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[16:36:52] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[16:36:52] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[16:36:52] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[16:36:52] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1*
+[16:36:52] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[16:36:52] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[16:36:52] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[16:36:52] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[16:36:52] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[16:37:13] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[16:37:13] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[16:37:13] [Server thread/INFO]: [TAB] Enabled in 21042ms
+[16:37:13] [Server thread/INFO]: CONSOLE: Reload complete.
+[16:37:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26477ms or 529 ticks behind
+[16:37:13] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[16:37:13] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
+[16:37:13] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:37:13] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[16:37:13] [Server thread/INFO]: Timings Reset
+[16:37:13] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:37:13] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[16:37:13] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: false | State: RUNNABLE
+[16:37:13] [Paper Watchdog Thread/ERROR]: 	Stack:
+[16:37:13] [Paper Watchdog Thread/ERROR]: 		java.util.ArrayDeque.clear(Unknown Source)
+[16:37:13] [Paper Watchdog Thread/ERROR]: 		com.google.common.collect.ForwardingCollection.clear(ForwardingCollection.java:117)
+[16:37:13] [Paper Watchdog Thread/ERROR]: 		co.aikar.timings.TimingsManager.resetTimings(TimingsManager.java:114)
+[16:37:13] [Paper Watchdog Thread/ERROR]: 		co.aikar.timings.FullServerTickHandler.startTiming(FullServerTickHandler.java:23)
+[16:37:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1099)
+[16:37:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[16:37:13] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[16:37:13] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:37:13] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[16:37:13] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:37:14] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[16:37:14] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[16:37:14] [Server thread/INFO]: Block_linyi >> ??
+[16:37:14] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 1
+[16:37:14] [Server thread/INFO]: Block_linyi >> ????????
+[16:37:14] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> test
+[16:37:14] [Server thread/WARN]: fly_pigman01 moved too quickly! 6.223974593556704,-6.308816024740352,-5.50914077064715
+[16:37:14] [Server thread/WARN]: HitoShouri moved too quickly! 0.01323962347643004,0.0,27.93989041222474
+[16:37:14] [Craft Scheduler Thread - 1089/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[16:37:14] [Craft Scheduler Thread - 1089/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[16:37:19] [Thread-1205/INFO]: --------------------
+[16:37:19] [Thread-1205/INFO]: [CoreProtect] Version 19.0 is now available.
+[16:37:19] [Thread-1205/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[16:37:19] [Thread-1205/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[16:37:19] [Thread-1205/INFO]: --------------------
+[16:37:21] [Server thread/INFO]: Block_linyi >> 咋卡了一下
+[16:37:42] [Craft Scheduler Thread - 1090/INFO]: AdvancedBan ? North_dream was successfully muted!
+[16:37:46] [Server thread/INFO]: <北梦曦> North_dream >> ?
+[16:37:52] [Server thread/INFO]: fly_pigman01 >> ?
+[16:37:58] [Server thread/INFO]: <北梦曦> North_dream >> 啥万一
+[16:38:00] [Server thread/INFO]: Block_linyi >> 小冷是不是重载了插件
+[16:38:01] [Server thread/INFO]: <北梦曦> North_dream >> 啥玩意
+[16:38:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f802d39[id=<null>,name=Twilight2033,properties={},legacy=false] (/127.0.0.1:58486) lost connection: Disconnected
+[16:38:23] [User Authenticator #68/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[16:38:23] [Server thread/INFO]: Twilight2033[/127.0.0.1:58488] logged in with entity id 1105339 at ([world]5280.8893797410565, 104.0, -617.7414612546967)
+[16:38:30] [Server thread/INFO]: <北梦曦> North_dream >> 这是嘛呀
+[16:38:32] [Server thread/INFO]: <北梦曦> North_dream >> 额
+[16:38:34] [Server thread/INFO]: <北梦曦> North_dream >> ?
+[16:39:10] [Craft Scheduler Thread - 1093/INFO]: AdvancedBan ? North_dream has already been muted!
+[16:39:48] [Server thread/INFO]: North_dream was fireballed by Blaze
+[16:39:51] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> az
+[16:39:56] [Server thread/INFO]: fly_pigman01 >> az
+[16:39:57] [Server thread/INFO]: <北梦曦> North_dream >> az
+[16:40:01] [Server thread/INFO]: Block_linyi >> az
+[16:40:03] [Server thread/INFO]: <北梦曦> North_dream >> 离谱
+[16:40:18] [Craft Scheduler Thread - 1096/INFO]: AdvancedBan ? North_dream has already been muted!
+[16:40:34] [Server thread/INFO]: <北梦曦> North_dream >> bay
+[16:40:38] [Server thread/INFO]: <北梦曦> North_dream >> 收一下尸
+[16:40:38] [Server thread/INFO]: [Server] 重启服务器
+[16:40:41] [Server thread/INFO]: <北梦曦> North_dream >> ?
+[16:40:42] [Server thread/INFO]: <北梦曦> North_dream >> az
+[16:40:44] [Server thread/INFO]: Stopping the server
+[16:40:44] [Server thread/INFO]: Stopping server
+[16:40:44] [Server thread/INFO]: [TAB] Disabling TAB v2.7.2
+[16:40:44] [Server thread/INFO]: [TAB] Disabled in 1ms
+[16:40:44] [Server thread/INFO]: [Lores] Disabling Lores v1.4.1
+[16:40:44] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[16:40:44] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is disabled!
+[16:40:44] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[16:40:44] [Server thread/INFO]: [CrowdLocator] Disabling CrowdLocator v1.0
+[16:40:44] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v1.7.1
+[16:40:44] [Server thread/INFO]: [ChatC] Disabling ChatC v0.5
+[16:40:44] [Server thread/INFO]: [ChatC] 聊天管理插件已关闭！
+[16:40:44] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[16:40:44] [Server thread/INFO]: [SAML] Disabling SAML v2.0.0
+[16:40:44] [Server thread/INFO]: [SAML] The frozen chunk cache file has been deleted. All chunks should have been accounted for.
+[16:40:44] [Server thread/INFO]: [SAML] Successfully disabled.
+[16:40:44] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[16:40:44] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.3.1
+[16:40:44] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.1.5-RELEASE
+[16:40:44] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] Database closed
+[16:40:44] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.1.5-RELEASE
+|   Storage: HSQLDB (local)
+| Support:
+|   Skype: Leoko33
+|   Mail: Leoko4433@gmail.com
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+[]================================[]
+ 
+[16:40:44] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[16:40:44] [Server thread/INFO]: [PxAutoMessage] 正在关闭皮克斯自动公告系统...
+[16:40:44] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[16:40:44] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[16:40:45] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[16:40:45] [Server thread/INFO]: Saving players
+[16:40:45] [Server thread/INFO]: adhesive_tape lost connection: Server closed
+[16:40:45] [Server thread/INFO]: adhesive_tape left the game
+[16:40:45] [Server thread/INFO]: Block_linyi lost connection: Server closed
+[16:40:45] [Server thread/INFO]: Block_linyi left the game
+[16:40:45] [Server thread/INFO]: HitoShouri lost connection: Server closed
+[16:40:45] [Server thread/INFO]: HitoShouri left the game
+[16:40:45] [Server thread/INFO]: Bay_Max_ lost connection: Server closed
+[16:40:45] [Server thread/INFO]: Bay_Max_ left the game
+[16:40:45] [Server thread/INFO]: fly_pigman01 lost connection: Server closed
+[16:40:45] [Server thread/INFO]: fly_pigman01 left the game
+[16:40:45] [Server thread/INFO]: Twilight2033 lost connection: Server closed
+[16:40:45] [Server thread/INFO]: Twilight2033 left the game
+[16:40:45] [Server thread/INFO]: North_dream lost connection: Server closed
+[16:40:45] [Server thread/INFO]: North_dream left the game
+[16:40:45] [Server thread/INFO]: Saving worlds
+[16:40:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[16:40:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:40:47] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[16:40:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:40:48] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[16:40:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:40:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:40:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:40:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -1,0 +1,2083 @@
+[01:09:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:09:57] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[01:09:58] [Worker-Main-4/INFO]: Loaded 7 recipes
+[01:09:59] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[01:09:59] [Server thread/INFO]: Loading properties
+[01:10:00] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-37d799b-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[01:10:01] [Server thread/INFO]: Debug logging is disabled
+[01:10:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:10:01] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[01:10:01] [Server thread/INFO]: Default game type: SURVIVAL
+[01:10:01] [Server thread/INFO]: Generating keypair
+[01:10:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:10:01] [Server thread/INFO]: Using default channel type
+[01:10:01] [Server thread/ERROR]: Ambiguous plugin name `GroupManager' for files `plugins\[1.16]GroupManager+ [v3.3].jar' and `plugins\GroupManager+ [v3.2].jar' in `plugins'
+[01:10:02] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[01:10:04] [Server thread/WARN]: Legacy plugin OnlineRewards v1.0.0 does not specify an api-version.
+[01:10:04] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[01:10:04] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[01:10:04] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[01:10:04] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[01:10:04] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[01:10:04] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[01:10:04] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[01:10:04] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[01:10:04] [Server thread/INFO]: [OnlineRewards] Loading OnlineRewards v1.0.0
+[01:10:04] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[01:10:04] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[01:10:04] [Server thread/INFO]: [TAB] Loading TAB v2.8.10
+[01:10:04] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[01:10:04] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[01:10:04] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[01:10:04] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[01:10:04] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[01:10:04] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[01:10:04] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[01:10:04] [Server thread/INFO]: Preparing level "world"
+[01:10:04] [Server thread/INFO]: -------- World Settings For [world] --------
+[01:10:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:10:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:10:04] [Server thread/INFO]: Item Merge Radius: 8.0
+[01:10:04] [Server thread/INFO]: Item Despawn Rate: 3000
+[01:10:04] [Server thread/INFO]: View Distance: 12
+[01:10:04] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[01:10:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:10:04] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[01:10:04] [Server thread/INFO]: Max TNT Explosions: 100
+[01:10:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:10:04] [Server thread/INFO]: Experience Merge Radius: 8.0
+[01:10:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Mob Spawn Range: 4
+[01:10:04] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[01:10:04] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[01:10:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:10:04] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[01:10:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:10:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:10:04] [Server thread/INFO]: Item Merge Radius: 8.0
+[01:10:04] [Server thread/INFO]: Item Despawn Rate: 3000
+[01:10:04] [Server thread/INFO]: View Distance: 12
+[01:10:04] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[01:10:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:10:04] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[01:10:04] [Server thread/INFO]: Max TNT Explosions: 100
+[01:10:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:10:04] [Server thread/INFO]: Experience Merge Radius: 8.0
+[01:10:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Mob Spawn Range: 4
+[01:10:04] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[01:10:04] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[01:10:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:10:04] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[01:10:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:10:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:10:04] [Server thread/INFO]: Item Merge Radius: 8.0
+[01:10:04] [Server thread/INFO]: Item Despawn Rate: 3000
+[01:10:04] [Server thread/INFO]: View Distance: 12
+[01:10:04] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[01:10:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:10:04] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[01:10:04] [Server thread/INFO]: Max TNT Explosions: 100
+[01:10:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:10:04] [Server thread/INFO]: Experience Merge Radius: 8.0
+[01:10:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:10:04] [Server thread/INFO]: Mob Spawn Range: 4
+[01:10:04] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[01:10:04] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[01:10:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:10:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:10:06] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:06] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:06] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:06] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:06] [Server thread/INFO]: Preparing spawn area: 10%
+[01:10:06] [Server thread/INFO]: Time elapsed: 2440 ms
+[01:10:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:10:07] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:07] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:07] [Server thread/INFO]: Time elapsed: 832 ms
+[01:10:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:10:08] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:08] [Server thread/INFO]: Time elapsed: 489 ms
+[01:10:08] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[01:10:08] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[01:10:08] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[01:10:08] [Server thread/INFO]: --------------------
+[01:10:08] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[01:10:08] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[01:10:08] [Server thread/INFO]: --------------------
+[01:10:08] [Server thread/INFO]: [OnlineRewards] Enabling OnlineRewards v1.0.0
+[01:10:08] [Server thread/INFO]: [OnlineRewards] [OnlineRewards] Loading config...
+[01:10:08] [Server thread/INFO]: [OnlineRewards]  
+[01:10:08] [Server thread/INFO]: [OnlineRewards] >>>>>>>>>>>>>>>>>>>>>>>> OnlineRewards Loaded <<<<<<<<<<<<<<<<<<<<<<<<
+[01:10:08] [Server thread/INFO]: [OnlineRewards] >>>>> If you encounter any bugs, please contact author's QQ: 768318841 <<<<<
+[01:10:08] [Server thread/INFO]: [OnlineRewards]  
+[01:10:08] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3
+[01:10:08] [Server thread/INFO]: [PxAutoMessage] ÕıÔÚÆô¶¯Æ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[01:10:08] [Server thread/INFO]: [PxAutoMessage] ³õÊ¼»¯ĞÅÏ¢Ä£¿é...
+[01:10:08] [Server thread/INFO]: [PxAutoMessage] ×¢²áÃüÁî¼àÌıÏµÍ³...
+[01:10:08] [Server thread/INFO]: [PxAutoMessage] ¼ÓÔØÍê±Ï£¡
+[01:10:08] [Server thread/INFO]:  
+[01:10:08] [Server thread/INFO]: > ×÷Õß£ºAn_ye (QQ:1444691679)
+[01:10:08] [Server thread/INFO]: > ±¾²å¼ş×Ô´øºº»¯£¬ÇëÎğÏàĞÅËùÎ½µÄºº»¯°æ£¡
+[01:10:08] [Server thread/INFO]: > £¨×÷ÕßµÄ»°£ºI'm Chinese.£©
+[01:10:08] [Server thread/INFO]:  
+[01:10:08] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0
+[01:10:08] [Server thread/INFO]: HikariPool-1 - Starting...
+[01:10:09] [Server thread/INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[01:10:09] [Server thread/INFO]: HikariPool-1 - Start completed.
+[01:10:10] [Server thread/INFO]: 
+[01:10:10] [Server thread/INFO]:  
+[01:10:10] [Server thread/INFO]: [0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
+[01:10:10] [Server thread/INFO]: [0;30;1m| [0;31;1mInformation:
+[01:10:10] [Server thread/INFO]: [0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[01:10:10] [Server thread/INFO]: [0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[01:10:10] [Server thread/INFO]: [0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[01:10:10] [Server thread/INFO]: [0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[01:10:10] [Server thread/INFO]: [0;30;1m| [0;31;1mSupport:
+[01:10:10] [Server thread/INFO]: [0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[01:10:10] [Server thread/INFO]: [0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[01:10:10] [Server thread/INFO]: [0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[01:10:10] [Server thread/INFO]: [0;30;1m| [0;31;1mUpdate:
+[01:10:10] [Server thread/INFO]: [0;30;1m|   [0;37;22mThere is a new version available! [2.3.0]
+[01:10:10] [Server thread/INFO]: [0;30;1m[]================================[][m
+[01:10:10] [Server thread/INFO]:  [m
+[01:10:10] [Server thread/INFO]: [TAB] Enabling TAB v2.8.10
+[01:10:10] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.16.4 (v1_16_R3)[m
+[01:10:10] [Server thread/INFO]: [0;31;1m[TAB] Animation "[0;33;1mWelcome[0;31;1m" does not have any texts! [0;36;1mIgnoring.[m
+[01:10:10] [Server thread/INFO]: [0;33;1m[TAB] There was 1 startup warning.[m
+[01:10:10] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 44ms[m
+[01:10:10] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[01:10:10] [Server thread/INFO]: [OpenInv] Your version of CraftBukkit (v1_16_R3) is not supported.
+[01:10:10] [Server thread/INFO]: [OpenInv] If this version is a recent release, check for an update.
+[01:10:10] [Server thread/INFO]: [OpenInv] If this is an older version, ensure that you've downloaded the legacy support version.
+[01:10:10] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5
+[01:10:10] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şÒÑÆôÓÃ£¡
+[01:10:10] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şµ±Ç°°æ±¾£ºV0.5 £¨2017Äê8ÔÂ24ÈÕ£©
+[01:10:10] [Server thread/INFO]: [ChatC] ¸ĞĞ»ÄúµÄÊ¹ÓÃ£¡
+[01:10:10] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT
+[01:10:10] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0
+[01:10:10] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3
+[01:10:10] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;33;1mChecking Your version...[m
+[01:10:10] [Server thread/INFO]: [0;34;1m===============================[m
+[01:10:10] [Server thread/INFO]: [0;32;1m[m
+[01:10:10] [Server thread/INFO]: [0;32;1m GroupManager+ is now enable![m
+[01:10:10] [Server thread/INFO]: [0;32;1m [m
+[01:10:10] [Server thread/INFO]: [0;33;1m Thank you for using GroupManager+ :)[m
+[01:10:10] [Server thread/INFO]: [0;33;1m GroupManager+ is create by HappyAreaBean![m
+[01:10:10] [Server thread/INFO]: [0;36;1m Current version: [0;32;1mv3.3[m
+[01:10:10] [Server thread/INFO]: [0;32;1m [m
+[01:10:10] [Server thread/INFO]: [0;34;1m===============================[m
+[01:10:10] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mWorld Found: world[m
+[01:10:10] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mSuperperms support enabled.[m
+[01:10:10] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is set for every 10 minutes![m
+[01:10:10] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBackups will be retained for 24 hours![m
+[01:10:10] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mGroupManager+ v3.3 is now enabled![m
+[01:10:10] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1
+[01:10:10] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[01:10:10] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[01:10:10] [Server thread/INFO]: [AnGmode] ¡ìaÄãºÃ£¡ÎÒÊÇĞ¡°²£¬¸ĞĞ»ÄãÄÜÊ¹ÓÃÕâ¸ö²å¼ş£¡
+[01:10:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:10:10] [Server thread/INFO]: Done (6.684s)! For help, type "help"
+[01:10:10] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[01:10:10] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBukkit Permissions Updated![m
+[01:10:11] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;31;1mYour version (v3.3) is outdated download the lastest version:[m
+[01:10:11] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;32;1mhttps://www.spigotmc.org/resources/40615/[m
+[01:10:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@28d7aaa2[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:59975) lost connection: Disconnected
+[01:10:52] [User Authenticator #1/INFO]: UUID of player Laffey_Jiang is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[01:10:52] [Server thread/INFO]: Laffey_Jiang[/127.0.0.1:59987] logged in with entity id 403 at ([world]3133.2410275283337, 100.06392101212451, 653.4364192818678)
+[01:11:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@181b51cb[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:59983) lost connection: Disconnected
+[01:11:06] [User Authenticator #2/INFO]: UUID of player Tatsu999999 is 6f70eec2-2625-49ee-bcff-603ab702a4ae
+[01:11:06] [Server thread/INFO]: Tatsu999999[/127.0.0.1:59991] logged in with entity id 739 at ([world]-2044.878800624982, 63.0, 49.02095696655511)
+[01:11:17] [User Authenticator #3/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[01:11:18] [Server thread/INFO]: Ghost_king_[/127.0.0.1:59993] logged in with entity id 951 at ([world]2665.3105441345024, 77.5, -372.2158428477251)
+[01:11:18] [User Authenticator #4/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[01:11:18] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:59996] logged in with entity id 1030 at ([world]3135.384252920022, 66.5, 541.920250807052)
+[01:11:29] [Server thread/INFO]: Li_zi_wei issued server command: /p me
+[01:11:33] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> µÈÒ»ÏÂÎÒÉÏÏß¸ÉÂï[m
+[01:11:36] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÅÀÁË[m
+[01:11:37] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[01:11:37] [Server thread/INFO]: Ghost_king_ left the game
+[01:11:38] [Server thread/INFO]: Li_zi_wei >> 233[m
+[01:14:03] [Server thread/INFO]: Laffey_Jiang issued server command: /chatc user Li_zi_wei prefix &a<À×ÄªÁåÉ­>&f__
+[01:14:07] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ëµ¾ä»°[m
+[01:14:12] [Server thread/INFO]: Laffey_Jiang issued server command: /p me
+[01:14:14] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> wsfw[m
+[01:14:25] [Server thread/INFO]: Laffey_Jiang issued server command: /p set Laffey_Jiang 2
+[01:14:29] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> Ææ¼£[m
+[01:14:31] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ÏÂÁË[m
+[01:14:35] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ¸÷Î»ĞÂÄê¿ìÀÖ[m
+[01:14:40] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Íí°²[m
+[01:14:42] [Server thread/INFO]: Laffey_Jiang issued server command: /qd
+[01:14:43] [Server thread/INFO]: Tatsu999999 >> ĞÂÄê¿ìÀÖ[m
+[01:14:45] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ĞÂÄê¿ìÀÖ[m
+[01:14:49] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> ¼ÇµÃÇ©µ½[m
+[01:15:04] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> àÅ£¨[m
+[01:15:08] [Server thread/INFO]: Li_zi_wei issued server command: /qd
+[01:15:26] [Server thread/INFO]: Laffey_Jiang lost connection: Disconnected
+[01:15:26] [Server thread/INFO]: Laffey_Jiang left the game
+[01:15:29] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[01:15:29] [Server thread/INFO]: Li_zi_wei left the game
+[01:17:02] [Server thread/INFO]: Tatsu999999 issued server command: /qd
+[01:17:03] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mTatsu999999 [0;33;22mÄ¿Ç°ÓĞ [0;32;1m16 [0;33;22m¹±Ï×µãÊı[m
+[01:17:08] [User Authenticator #5/INFO]: UUID of player Fukoooo is f957285b-78cb-4045-9b47-5af0d4e3679b
+[01:17:08] [Server thread/INFO]: Fukoooo[/127.0.0.1:60053] logged in with entity id 2299 at ([world]-2052.5, 64.0, 55.5)
+[01:17:14] [Server thread/INFO]: Tatsu999999 issued server command: /points me
+[01:17:34] [Server thread/INFO]: Fukoooo >> hi[m
+[01:17:45] [Server thread/INFO]: Tatsu999999 >> º£¾§ÃÅ¿Ú[m
+[01:17:52] [Server thread/INFO]: Tatsu999999 >> ËÍÏÂ½ìºÏ½ğ¿é[m
+[01:17:56] [Server thread/INFO]: Tatsu999999 >> Ò»¸öÈËÁ©[m
+[01:18:00] [Server thread/INFO]: Tatsu999999 >> ÎÒÔÚÕâ¸öÃÅ¿Ú[m
+[01:18:40] [User Authenticator #6/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[01:18:40] [Server thread/INFO]: xf998[/127.0.0.1:60061] logged in with entity id 2607 at ([world]17.510297581729592, 66.0, 607.1746092285265)
+[01:19:18] [Server thread/INFO]: Tatsu999999 >> ¸Õ¡°Ë¯¾õ¡±°¡[m
+[01:19:31] [Server thread/INFO]: Fukoooo >> °¡[m
+[01:19:34] [Server thread/INFO]: Tatsu999999 >> hahahahah[m
+[01:19:35] [Server thread/INFO]: Fukoooo >> ²Å»Ø¼Ò[m
+[01:20:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[01:22:35] [Server thread/INFO]: Fukoooo >> ÎÒÈ¥´ò×°±¸ÁË[m
+[01:22:38] [Server thread/INFO]: Tatsu999999 >> ok[m
+[01:22:41] [Server thread/INFO]: xf998 was shot by Stray
+[01:22:49] [Server thread/INFO]: Tatsu999999 >> ÄãÖªµÀÄÄÓĞ¼ôÑòÃ«µÄµØ·½²»[m
+[01:22:54] [Server thread/INFO]: Fukoooo >> ÄãÒª¸ÉÂï[m
+[01:23:06] [Server thread/INFO]: Tatsu999999 >> ÒªÑòÃ«×öÆì[m
+[01:23:10] [Server thread/INFO]: Fukoooo >> niguol[m
+[01:23:13] [Server thread/INFO]: Fukoooo >> Äã¹ıÀ´[m
+[01:23:34] [Server thread/INFO]: Fukoooo >> ³ÔµÄ[m
+[01:24:21] [User Authenticator #7/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[01:24:22] [Server thread/INFO]: adhesive_tape[/127.0.0.1:60088] logged in with entity id 3900 at ([world]3277.699999988079, 202.0, 445.69999998807907)
+[01:24:39] [Server thread/INFO]: Fukoooo >> tape »¹·¢ÇÊ³áÂğQAQ[m
+[01:24:52] [Server thread/INFO]: Tatsu999999 >> tape »¹·¢ÇÊ³áÂğQAQ[m
+[01:25:02] [Server thread/INFO]: xf998 was slain by Zombie
+[01:25:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en[m
+[01:25:19] [Server thread/INFO]: Villager EntityVillager['Villager'/3130, l='ServerLevel[world]', x=2774.56, y=63.87, z=-422.58] died, message: 'Villager suffocated in a wall'
+[01:25:26] [Server thread/INFO]: xf998 was slain by Zombie
+[01:26:11] [Server thread/INFO]: Fukoooo >> Ğ»Ğ»´óÀĞ[m
+[01:26:21] [Server thread/INFO]: Tatsu999999 >> a?ÔÚÄÄ[m
+[01:26:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ±ğ¼±[m
+[01:26:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒ¸ÕÏ´ÍêÔè[m
+[01:27:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Á½¸öÊÇ°É[m
+[01:27:16] [Server thread/INFO]: Fukoooo >> àÅàÅ[m
+[01:27:29] [Server thread/INFO]: Fukoooo >> ÎÒ½ñÌì³åĞé¿ÕÀïÁË[m
+[01:27:32] [Server thread/INFO]: Fukoooo >> Æø¿ŞÁË[m
+[01:27:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Éµ¿É°®[m
+[01:28:08] [Server thread/INFO]: xf998 >> ÔÚÄÄ·¢ÇÊ³á°¡[m
+[01:28:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Åµ[m
+[01:28:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> º£¾§ÃÅ¿Ú°Ñ[m
+[01:28:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> µØÓü[m
+[01:28:52] [Server thread/INFO]: xf998 >> ÎÒÕâ±ß½©Ê¬ÓĞµã¶à[m
+[01:28:54] [Server thread/INFO]: Tatsu999999 has reached the goal [Sky's the Limit]
+[01:28:57] [Server thread/INFO]: Tatsu999999 >> xiexie[m
+[01:29:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ĞÂÄê¿ìÀÖ[m
+[01:29:12] [Server thread/INFO]: Tatsu999999 >> ĞÂÄê¿ìÀÖ~[m
+[01:29:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÇÊ³áÏàµ±ÓÚºì°üÁË[m
+[01:29:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ĞÂÄê¿ìÀÖ[m
+[01:29:31] [Server thread/INFO]: Fukoooo >> Ğ»Ğ»tape[m
+[01:29:38] [Server thread/INFO]: Fukoooo >> ĞÂÄê¿ìÀÖ[m
+[01:29:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> »¹²»Ë¯Ñ½[m
+[01:30:03] [Server thread/INFO]: Fukoooo >> ÎÒÌìÌì3.Ë¯[m
+[01:30:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[01:30:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄÇÄãÕâÅóÓÑÄØ[m
+[01:30:32] [Server thread/INFO]: Fukoooo >> Ëû¿ÉÒÔÅãÎÒ[m
+[01:30:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¡á[m
+[01:30:52] [Server thread/INFO]: Fukoooo >> = =?[m
+[01:31:00] [Server thread/INFO]: Tatsu999999 >> ĞÔ¸£[m
+[01:31:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> gayÀïgayÆø[m
+[01:31:40] [Server thread/INFO]: Fukoooo >> °¦´ò×°±¸È¥à¶[m
+[01:32:09] [Server thread/INFO]: Fukoooo >> Äã¹ıÀ´[m
+[01:32:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> °ïÎÒ´òÒ»°Ñ¸«Í·[m
+[01:32:40] [Server thread/INFO]: Fukoooo >> ¾«×¼Âğ[m
+[01:32:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en'[m
+[01:32:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔÙÀ´Ò»°ÑÊ±ÔË[m
+[01:32:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ÇµÃ´ø·æÀû[m
+[01:33:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÒ²ÒªÂğ[m
+[01:33:11] [Server thread/INFO]: xf998 >> shi de[m
+[01:33:23] [Server thread/INFO]: xf998 >> nice[m
+[01:33:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ĞÂÄê¿ìÀÖ[m
+[01:33:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ëµ»°[m
+[01:33:37] [Server thread/INFO]: xf998 >> ĞÂÄê¿ìÀÖ[m
+[01:33:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en[m
+[01:34:02] [Server thread/INFO]: xf998 >> »°Ëµ[m
+[01:34:03] [Server thread/INFO]: Fukoooo >> Tatsu999999 À´ÕÒÎÒ[m
+[01:34:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÀïÃæ¿ÉÒÔÁìºÏ½ğ¿é[m
+[01:34:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> È¥Áì°É[m
+[01:34:35] [Server thread/INFO]: xf998 >> ÖíÈËËşµ½µÛÔÚÄÄ[m
+[01:34:42] [Server thread/INFO]: xf998 >> µ×[m
+[01:34:53] [Server thread/INFO]: Fukoooo >> 500[m
+[01:35:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã¹ıÀ´[m
+[01:35:33] [Server thread/INFO]: Fukoooo >> tape ÄÜ¸øµãÇà½ğÊ¯²»[m
+[01:36:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ºÃÏñÃ»ÓĞ[m
+[01:36:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãµÃÕÒ´åÃñ»»[m
+[01:36:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÒªÈ¥ÖíÈËËşÂğ[m
+[01:36:24] [Server thread/INFO]: Fukoooo >> ´åÃñÄÜ»»Çà½ğÊ¯°¡[m
+[01:36:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒ´øÄãÈ¥[m
+[01:36:31] [Server thread/INFO]: xf998 >> ºÃ[m
+[01:36:38] [Server thread/INFO]: Fukoooo >> ÎÒÔÚÖ÷ÈÎËû[m
+[01:36:45] [Server thread/INFO]: xf998 >> ÎÒ¸ãµà¾­Ñé¸½Ä§[m
+[01:37:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Íù¶«±ß·É¾Í¿´¼ûÁË[m
+[01:37:55] [Server thread/INFO]: Fukoooo >> ¸ú×Å[m
+[01:37:58] [Server thread/INFO]: Fukoooo >> ÎÒ[m
+[01:39:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Õâ¸öÖíÈËËş[m
+[01:39:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÒÑ¾­ºÜ²»´íÁË[m
+[01:39:47] [Server thread/INFO]: Fukoooo >> Ğ§ÂÊÍ¦¸ßµÄ[m
+[01:39:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ê×ÏÈºÚê×Ê¯¾ÍÊÇË¢À´µÄ[m
+[01:40:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓÃÁË10ºĞ¶à[m
+[01:41:47] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:42:32] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:42:50] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:43:04] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:43:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒµÄ¸«Í·Ê²Ã´Ê±ºòºÃ[m
+[01:43:57] [Server thread/INFO]: Fukoooo >> ÎÒÃ»Çà½ğÊ¯QAQ[m
+[01:44:04] [Server thread/INFO]: Fukoooo >> µÃµÈºÍ[m
+[01:44:06] [Server thread/INFO]: Fukoooo >> µÃµÈ»á[m
+[01:44:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓÃÊ²Ã´Çà½ğÊ¯°¡[m
+[01:44:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ö±½Ó¸½Ä§Êé¸½Ä§°¡[m
+[01:45:26] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:45:31] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:45:33] [Server thread/INFO]: Fukoooo >> Ã»ÓĞÄÍ¾ÃÊé[m
+[01:45:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÈ¥Ä©µØ½»Ò×ËùÕû[m
+[01:46:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÂÌ±¦Ê¯ÔÚÏ®»÷Ëş[m
+[01:48:16] [Server thread/INFO]: Fukoooo has made the advancement [Sticky Situation]
+[01:48:46] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:49:10] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:49:56] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:50:06] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:51:47] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:51:56] [Server thread/INFO]: adhesive_tape issued server command: /co l 2
+[01:52:01] [Server thread/INFO]: adhesive_tape issued server command: /co l 2
+[01:52:03] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:53:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ºÃÁËÂğ[m
+[01:53:29] [Server thread/INFO]: Fukoooo >> mei[m
+[01:55:48] [Server thread/INFO]: xf998 has made the advancement [Enchanter]
+[01:56:47] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:56:51] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[01:57:52] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[01:57:52] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[01:59:51] [Server thread/INFO]: Fukoooo >> ÎÒÅªºÃÁË[m
+[02:00:21] [Server thread/INFO]: Tatsu999999 >> Ë¢»¨»úÔÚÄÄ°¡[m
+[02:01:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> what[m
+[02:01:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[02:02:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÔÚ500[m
+[02:02:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ĞÂÄê¸Ã»»Æ¤·ôÁË[m
+[02:02:14] [Server thread/INFO]: Fukoooo >> ÉÔµÈ¡®[m
+[02:02:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Õâ¸öÆ¤·ô[m
+[02:06:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿ÉÒÔ[m
+[02:06:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ğ»ÁË[m
+[02:06:46] [Server thread/INFO]: Fukoooo >> Ã»ÊÂ[m
+[02:06:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÕÒ¸öÆ¤·ôÖĞ[m
+[02:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[02:10:14] [Server thread/INFO]: Fukoooo issued server command: /qd
+[02:10:14] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mFukoooo [0;33;22mÄ¿Ç°ÓĞ [0;32;1m8 [0;33;22m¹±Ï×µãÊı[m
+[02:10:26] [Thread-19/INFO]: --------------------
+[02:10:26] [Thread-19/INFO]: [CoreProtect] Version 19.4 is now available.
+[02:10:26] [Thread-19/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[02:10:26] [Thread-19/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[02:10:26] [Thread-19/INFO]: --------------------
+[02:14:56] [User Authenticator #8/INFO]: UUID of player Demon_yhy_ is 4f93a6ea-07a0-4a2d-b426-e3f66f4130f7
+[02:14:56] [Server thread/INFO]: Demon_yhy_[/127.0.0.1:60279] logged in with entity id 77734 at ([world]2785.9367312963022, 63.0, -381.2022681038113)
+[02:19:39] [Server thread/WARN]: Fukoooo moved wrongly!
+[02:20:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[02:20:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> az[m
+[02:22:28] [Server thread/INFO]: Fukoooo >> rngÂğ[m
+[02:22:38] [Server thread/INFO]: xf998 >> ?[m
+[02:23:03] [Server thread/INFO]: Fukoooo >> ÄãÇÃÊé¼Ü¸ÉÂï[m
+[02:23:14] [Server thread/INFO]: xf998 >> ¸½Ä§°¡[m
+[02:23:23] [Server thread/INFO]: Fukoooo >> ¹ş[m
+[02:23:35] [Server thread/INFO]: Fukoooo >> ÌúÕèÄØ£¿[m
+[02:23:55] [Server thread/INFO]: xf998 >> ÎÒ¸Õ¸ÕÍÚÁË[m
+[02:39:31] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[02:39:31] [Server thread/INFO]: adhesive_tape left the game
+[02:41:43] [Server thread/INFO]: xf998 issued server command: /co i
+[02:42:04] [Server thread/INFO]: xf998 issued server command: /co inspect
+[02:42:17] [Server thread/INFO]: xf998 lost connection: Disconnected
+[02:42:17] [Server thread/INFO]: xf998 left the game
+[02:43:12] [Server thread/INFO]: Fukoooo >> Äã»»idÁË[m
+[02:43:17] [Server thread/INFO]: Fukoooo >> Ô­À´ÊÇyhy[m
+[02:43:21] [Server thread/INFO]: Fukoooo >> Ã»ÈÏ³öÀ´[m
+[02:43:33] [Server thread/INFO]: Demon_yhy_ >> ¾Í¶àÁËÒ»¸ö[m
+[02:43:56] [Server thread/INFO]: Demon_yhy_ >> ÄãÂôÇÊ³áÂï[m
+[02:44:07] [Server thread/INFO]: Fukoooo >> ²»ÂôÁË[m
+[02:44:11] [Server thread/INFO]: Fukoooo >> ¶¼¶ªÁË[m
+[02:44:15] [Server thread/INFO]: Fukoooo >> Ô­À´¶àµÄÊÇ[m
+[02:44:20] [Server thread/INFO]: Demon_yhy_ >> °¥[m
+[02:44:37] [Server thread/INFO]: Demon_yhy_ >> ÎÒÏÖÔÚ×°±¸¶¼Ã»ÓĞ[m
+[02:44:43] [Server thread/INFO]: Fukoooo >> ÎÒÒ²ÊÇ[m
+[02:47:33] [Server thread/INFO]: Demon_yhy_ >> ÎÒÊÇÖ®Ç°±¾À´È«²¿×°±¸¶¼ÊÇ¼«Æ·¸½Ä§ºóÃæ»»Õı°æ¾ÍÃ»ÁË[m
+[02:47:41] [Server thread/INFO]: Fukoooo >> ÎÒÒ²ÊÇ[m
+[02:47:50] [Server thread/INFO]: Demon_yhy_ >> ![m
+[02:48:22] [Server thread/INFO]: Demon_yhy_ >> ±¯²ÒµÄ¾­Àú¾¹Ò»Ä£Ò»Ñù[m
+[02:51:57] [Server thread/WARN]: Fukoooo moved too quickly! 756.3384563775577,24.392604549951344,1879.0734750192828
+[02:55:24] [Server thread/INFO]: Demon_yhy_ >> ÔÚÔÚÔÚ[m
+[02:55:38] [Server thread/INFO]: Demon_yhy_ >> ¹Ò»úÁË?[m
+[02:55:43] [Server thread/INFO]: Fukoooo >> °¡£¿[m
+[02:56:21] [Server thread/INFO]: Demon_yhy_ >> ÄÚ¸öÓĞÃ»ÓĞ¿ÉÒÔ¹Ò»úÕÇ¾­ÑéµÄµØ·½[m
+[02:56:36] [Server thread/INFO]: Fukoooo >> Ğ¡ºÚËş ÖíÈËËş[m
+[02:57:26] [Server thread/INFO]: Demon_yhy_ >> ÖíÈËËşÔÚÄÄ[m
+[02:57:45] [Server thread/INFO]: Fukoooo >> 500[m
+[02:58:02] [Server thread/INFO]: Demon_yhy_ >> ×Ï¾§ÄÚ¸ö±¨·ÏÁË£¿[m
+[02:58:08] [Server thread/INFO]: Fukoooo >> ²»ÖªµÀ[m
+[02:59:12] [Server thread/INFO]: Demon_yhy_ >> ÎÔ²Û[m
+[02:59:54] [Server thread/INFO]: Demon_yhy_ >> º£¾§ÕâÃ´¸»µÄÂïÏÂ½ìºÏ½ğ¿éÃâ·Ñ·¢šG[m
+[03:00:06] [Server thread/INFO]: Fukoooo >> ĞÂÄê¸£Àû°É[m
+[03:00:59] [Server thread/INFO]: Demon_yhy_ >> Õë²»´Á[m
+[03:01:26] [Server thread/INFO]: Demon_yhy_ >> ÔõÃ´×öÏÂ½ìºÏ¼Æ½ğ×°±¸°¡[m
+[03:01:33] [Server thread/INFO]: Fukoooo >> ²»¼ÇµÃ[m
+[03:02:27] [Server thread/INFO]: Demon_yhy_ >> ÎÒÕÒµ½ÁË[m
+[03:02:35] [Server thread/INFO]: Demon_yhy_ >> Òª¶ÍÔìÌ¨[m
+[03:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[03:10:36] [Server thread/INFO]: Demon_yhy_ issued server command: /co inspect
+[03:10:40] [Server thread/INFO]: Demon_yhy_ issued server command: /co inspect
+[03:12:27] [User Authenticator #9/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[03:12:27] [Server thread/INFO]: anew_tape[/127.0.0.1:60475] logged in with entity id 138501 at ([world]-518.1789533692122, 69.0, -451.92500001192093)
+[03:12:32] [Server thread/INFO]: Demon_yhy_ >> ?[m
+[03:12:38] [Server thread/INFO]: Demon_yhy_ >> ÕâÊÇÉ¶[m
+[03:12:53] [Server thread/INFO]: anew_tape >> ohhhhh[m
+[03:13:11] [Server thread/INFO]: Fukoooo >> a[m
+[03:13:12] [Server thread/INFO]: Demon_yhy_ >> Ğ¡ºÅ![m
+[03:13:15] [Server thread/INFO]: anew_tape >> »»ÁËÆ¤·ôºÍÃû×Ö[m
+[03:13:18] [Server thread/INFO]: Fukoooo >> ÕâÕ¦ÅªµÄ[m
+[03:13:35] [Server thread/INFO]: anew_tape >> ĞÂµÄÒ»ÄêÒ²Òª¸Ä¸ÄÃû×Ö[m
+[03:13:52] [Server thread/INFO]: anew_tape >> Æ¤·ôÊÇsaber[m
+[03:13:57] [Server thread/INFO]: anew_tape >> ÎáÍõ[m
+[03:14:08] [Server thread/INFO]: anew_tape >> ¿ªĞÄ[m
+[03:14:37] [Server thread/INFO]: anew_tape >> ³ÆºÅÓÖÃ»ÁË[m
+[03:14:49] [Server thread/INFO]: anew_tape >> ²»»á¸ÄÃû×ÖÏµÍ³ÈÏ²»³öÀ´°Ñ[m
+[03:15:25] [Server thread/INFO]: anew_tape >> yes[m
+[03:15:29] [Server thread/INFO]: anew_tape >> Yes![m
+[03:16:01] [Server thread/INFO]: anew_tape >> »»¸öÆ¤·ôºÍÃû×ÖÕû¸öÈË¸Ğ¾õ¶¼²»Ò»ÑùÁË[m
+[03:16:03] [Server thread/INFO]: anew_tape >> Æğ·ÉÁË[m
+[03:16:09] [Server thread/INFO]: Demon_yhy_ >> awa[m
+[03:16:12] [Server thread/INFO]: anew_tape >> ±Æ¸ñÉÏÀ´ÁË[m
+[03:16:21] [Server thread/INFO]: anew_tape >> anew±íÊ¾ ÔÙÒ»´Î[m
+[03:16:39] [Server thread/INFO]: anew_tape >> ÊÇÒ»ÖÖÀàËÆÖĞ¹úÎÄÑÔÎÄµÄÓ¢ÎÄ[m
+[03:16:44] [Server thread/INFO]: anew_tape >> ¶àÓÃÓÚÊ«¾ä[m
+[03:16:46] [Server thread/INFO]: anew_tape >> ¹ş¹ş¹ş[m
+[03:17:03] [Server thread/INFO]: Demon_yhy_ >> tapeÄØ[m
+[03:17:12] [Server thread/INFO]: anew_tape >> ´Å´ø[m
+[03:17:38] [Server thread/INFO]: Demon_yhy_ >> ËùÒÔ?[m
+[03:17:45] [Server thread/INFO]: anew_tape >> ¶øÇÒ°´Ó¢ÎÄ×ÖÄ¸¿ªÍ·ÅÅĞò[m
+[03:17:49] [Server thread/INFO]: anew_tape >> ÎÒ»¹ÊÇµÚÒ»¸öe[m
+[03:17:59] [Server thread/INFO]: Demon_yhy_ >> anew_tape=ÔÙÒ»´Î´Å´ø[m
+[03:18:17] [Server thread/INFO]: anew_tape >> ÄãÕâ½â¶ÁµÄÓĞµãµÍÁË[m
+[03:18:21] [Server thread/INFO]: Demon_yhy_ >> ÊÇ°Éawa[m
+[03:19:01] [Server thread/INFO]: Demon_yhy_ >> ÄÇÊÇÉ¶[m
+[03:19:19] [Server thread/INFO]: anew_tape >> ·´Õı¾ÍÊÇºÜÓĞbig[m
+[03:19:40] [Server thread/INFO]: anew_tape >> ¿ªĞÄ[m
+[03:19:59] [Server thread/INFO]: anew_tape >> ÎáÍõÊÇÁ¦Á¿µÄÏóÕ÷[m
+[03:20:10] [Server thread/INFO]: anew_tape >> ÄãÃÇÔÚÄÄ[m
+[03:20:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[03:20:40] [Server thread/INFO]: Demon_yhy_ >> ×Ï¾§ÖíÈËËş[m
+[03:23:29] [Server thread/INFO]: Demon_yhy_ has completed the challenge [Sniper Duel]
+[03:23:43] [Server thread/INFO]: Demon_yhy_ >> ÎÔ²Û[m
+[03:24:01] [Server thread/INFO]: Demon_yhy_ >> ÎÒ¾ÍÕ¾×ÅÂÒÉä[m
+[03:24:07] [Server thread/INFO]: anew_tape >> ÎÒÒÑ¾­È«³É¾ÍÁË[m
+[03:24:15] [Server thread/INFO]: anew_tape >> ²î¸ö¿ñÂÒµÄ¼¦Î²¾Æ[m
+[03:24:22] [Server thread/INFO]: anew_tape >> »¹ÓĞ ÎªÊ²Ã´»á±ä³ÉÕâÑùÄØ[m
+[03:24:30] [Server thread/INFO]: Demon_yhy_ >> É¶[m
+[03:25:07] [Server thread/INFO]: Demon_yhy_ >> ¹Ò»úÁË[m
+[03:25:08] [Server thread/INFO]: anew_tape >> ¿ñÂÒµÄ¼¦Î²¾Æ »ñµÃËùÓĞ³ÖĞøĞÔÒ©Ë®Ğ§¹û[m
+[03:25:22] [Server thread/INFO]: anew_tape >> ÎªÊ²Ã´»á±ä³ÉÕâÑùÄØ »ñµÃËùÓĞ³ÖĞøĞÔĞ§¹û[m
+[03:25:47] [Server thread/INFO]: Tatsu999999 lost connection: Disconnected
+[03:25:47] [Server thread/INFO]: Tatsu999999 left the game
+[03:26:03] [Server thread/INFO]: Demon_yhy_ >> Fuko³öÀ´[m
+[03:26:36] [Server thread/INFO]: Demon_yhy_ >> ÅãÕâ¸öĞË·ÜµÄº¢×ÓÁÄ»á[m
+[03:26:41] [Server thread/INFO]: Fukoooo >> a[m
+[03:26:57] [Server thread/INFO]: Demon_yhy_ >> ÎÒÕâ¸öÀÏ¹ÇÍ·°¾²»¶¯ÁË[m
+[03:27:03] [Server thread/INFO]: Fukoooo >> Äã¶à´ó[m
+[03:27:06] [Server thread/INFO]: Demon_yhy_ >> 14[m
+[03:27:11] [Server thread/INFO]: anew_tape >> ???[m
+[03:27:13] [Server thread/INFO]: Fukoooo >> .[m
+[03:27:17] [Server thread/INFO]: Demon_yhy_ >> awa[m
+[03:27:25] [Server thread/INFO]: anew_tape >> "ÀÏ¹ÇÍ·"[m
+[03:27:30] [Server thread/INFO]: Demon_yhy_ >> hhhhhc[m
+[03:27:35] [Server thread/INFO]: Fukoooo >> ÎÒ»³ÒÉÄãÔÚ°µÊ¾ÎÒ[m
+[03:27:39] [Server thread/INFO]: anew_tape >> µ½µ×ÔÚÄÄ[m
+[03:27:45] [Server thread/INFO]: anew_tape >> ËµºÃµÄ×Ï¾§ÖíÈËËşÄØ[m
+[03:27:55] [Server thread/INFO]: Demon_yhy_ >> ÎÒÔÚ°¡[m
+[03:28:24] [Server thread/INFO]: anew_tape >> Õ¨ÀÃµÄÄÇ¸ö?[m
+[03:28:40] [Server thread/INFO]: Demon_yhy_ >> ²»ÊÇ°¡[m
+[03:28:46] [Server thread/INFO]: anew_tape >> ÄÇÊÇÄÄ¸ö[m
+[03:28:50] [Server thread/INFO]: Demon_yhy_ >> ¿ÉÒÔ¹Ò»úµÄÄÇ¸ö[m
+[03:28:58] [Server thread/INFO]: anew_tape >> Æ½»¬Ê¯Í·>[m
+[03:29:12] [Server thread/INFO]: Demon_yhy_ >> en[m
+[03:29:27] [Server thread/INFO]: anew_tape >> µØÓü?[m
+[03:29:53] [Server thread/INFO]: Demon_yhy_ >> ×Ï¾§ÕòÖ÷ÊÀ½ç[m
+[03:30:03] [Server thread/INFO]: anew_tape >> ²İ...[m
+[03:30:26] [Server thread/INFO]: Demon_yhy_ >> FukoÄã¶à´ó°¡[m
+[03:30:35] [Server thread/INFO]: Fukoooo >> 22[m
+[03:30:40] [Server thread/INFO]: Demon_yhy_ >> ...[m
+[03:30:43] [Server thread/INFO]: anew_tape >> ...[m
+[03:30:55] [Server thread/INFO]: anew_tape >> ÎÒÒÔÎªÎÒ×î´óÁË[m
+[03:30:58] [Server thread/INFO]: Fukoooo >> À´ÁË[m
+[03:31:01] [Server thread/INFO]: Fukoooo >> ÀÏÁË[m
+[03:31:22] [Server thread/INFO]: Demon_yhy_ >> ²»ĞĞÁË[m
+[03:31:31] [Server thread/INFO]: Demon_yhy_ >> ¸Ğ¾õÉöĞé[m
+[03:31:41] [Server thread/INFO]: anew_tape >> ¾ÍÕâ?[m
+[03:31:41] [Server thread/INFO]: Demon_yhy_ >> ÎÒÒªË¯¾õ[m
+[03:31:51] [Server thread/INFO]: anew_tape >> Õâ²»±ÈÎÒµÄÖíÈËËşÀ¬»ø?[m
+[03:32:15] [Server thread/INFO]: anew_tape >> ÕâÒ²Ì«À­ÁË°É?[m
+[03:32:18] [Server thread/INFO]: Demon_yhy_ >> mdÒ»»ØÍ·ÏÅËÀÎÒÁË[m
+[03:32:31] [Server thread/INFO]: Demon_yhy_ >> Õâ[m
+[03:33:06] [Server thread/INFO]: Demon_yhy_ >> Õâ»¹ÊÇÎÒ¸ÕÀ´²»¾ÃÄÇ»áÒ»·«·çË³×öµÄ[m
+[03:33:07] [Server thread/INFO]: anew_tape >> fuko´óÈıÁË?[m
+[03:33:13] [Server thread/INFO]: Fukoooo >> ´óËÄ[m
+[03:33:28] [Server thread/INFO]: anew_tape >> ´óËÄ²»»á×öÎïÆ··ÖÀà...[m
+[03:33:34] [Server thread/INFO]: anew_tape >> Ñ§µÜÎÒÒª³°Ğ¦ÄãÁË[m
+[03:33:38] [Server thread/INFO]: anew_tape >> XD[m
+[03:33:44] [Server thread/INFO]: Fukoooo >> ÀÏÁË[m
+[03:34:01] [Server thread/INFO]: Demon_yhy_ >> ÎÒ»¹Ğ¡[m
+[03:34:10] [Server thread/INFO]: anew_tape >> ÄãÔÚÄÄ[m
+[03:34:18] [Server thread/INFO]: Fukoooo >> É¶[m
+[03:34:24] [Server thread/INFO]: anew_tape >> ÎÒÀ´ÕÒÄã[m
+[03:34:31] [Server thread/INFO]: Fukoooo >> ÖíÈËËş[m
+[03:34:34] [Server thread/INFO]: Demon_yhy_ >> anew_tapeÄãµÄÖíÈËËşÊÇÉ¶ÑùµÄ[m
+[03:34:43] [Server thread/INFO]: anew_tape >> ÄãÃ»¼û¹ıÂğ[m
+[03:34:52] [Server thread/INFO]: Demon_yhy_ >> ²¢Ã»ÓĞ°¡[m
+[03:35:01] [Server thread/INFO]: anew_tape >> ²»»á°É?²»»á»¹ÓĞÈËÃ»¼û¹ıÎÒµÄÖíÈËËş°Ñ?[m
+[03:35:08] [Server thread/INFO]: Demon_yhy_ >> ...[m
+[03:35:10] [Server thread/INFO]: anew_tape >> Ì«À­ÁË°É?[m
+[03:35:18] [Server thread/INFO]: anew_tape >> À´ÎÒ´øÄã¿´¿´[m
+[03:35:30] [Server thread/INFO]: anew_tape >> ×Ï¾§µØÓüÃÅ¿Ú[m
+[03:35:36] [Server thread/INFO]: Demon_yhy_ >> ÎÒÃ»ÇÊ³áµÈµÈÎÒ[m
+[03:36:01] [Server thread/INFO]: anew_tape >> fuko»áÉ¶[m
+[03:36:10] [Server thread/INFO]: Fukoooo >> É¶Ò²²»»á[m
+[03:36:21] [Server thread/INFO]: Fukoooo >> Ìúfw[m
+[03:36:21] [Server thread/INFO]: anew_tape >> µ±¸ömascot¼ªÏéÎïºÃÁË[m
+[03:36:59] [Server thread/INFO]: anew_tape >> Õâ¸öÆ¤·ôºÃ¿´[m
+[03:37:43] [Server thread/INFO]: anew_tape >> ÎÒÔ­À´µÄÆ¤·ôÆäÊµÊÇsenµÄ[m
+[03:37:51] [Server thread/INFO]: anew_tape >> ÎÒÓÃÁËÈ»ºóËû¾Í¸ÄÁË[m
+[03:37:54] [Server thread/INFO]: Fukoooo >> ÎÒËµÔõÃ´ÄÇÃ´Ææ¹Ö[m
+[03:38:01] [Server thread/INFO]: Fukoooo >> Åª»ìÁË[m
+[03:38:03] [Server thread/INFO]: Fukoooo >> ¶¼[m
+[03:39:10] [Server thread/WARN]: Boat (vehicle of Demon_yhy_) moved wrongly! 0.658221485641816
+[03:39:25] [Server thread/INFO]: Demon_yhy_ >> 500?[m
+[03:39:28] [Server thread/INFO]: anew_tape >> en[m
+[03:39:40] [Server thread/INFO]: Demon_yhy_ >> ÎÔ²Û[m
+[03:39:50] [Server thread/INFO]: anew_tape >> Äã¸Ï½ôµÄ[m
+[03:39:56] [Server thread/INFO]: anew_tape >> ¹ıÀ´[m
+[03:39:58] [Server thread/INFO]: Demon_yhy_ >> ÎÒÕâÊÇ¶à¾ÃÃ»À´ÁË[m
+[03:40:56] [Server thread/INFO]: anew_tape >> ¾ÍÎÊÄã±Æ¸ñ¸ß²»[m
+[03:41:15] [Server thread/INFO]: Demon_yhy_ >> ÄãÒ»¸öÈË×öµÄ!![m
+[03:41:23] [Server thread/INFO]: anew_tape >> ²»ÖÁÓÚ[m
+[03:41:28] [Server thread/INFO]: anew_tape >> »¹ÓĞÆäËûÈË°ïÃ¦[m
+[03:41:33] [Server thread/INFO]: Demon_yhy_ >> Å¶Å¶[m
+[03:41:35] [Server thread/INFO]: anew_tape >> µ«ÊÇºÚê×Ê¯»ù±¾¶¼ÊÇÎÒ³öµÄ[m
+[03:41:48] [Server thread/INFO]: Demon_yhy_ >> ÄÇµÃÍÚ¶à¾Ã°¡[m
+[03:41:51] [Server thread/INFO]: anew_tape >> ´ó¼Ò°ïÃ¦ÆÌºÚê×Ê¯²Å½¨µÄ¿ì[m
+[03:42:04] [Server thread/INFO]: anew_tape >> µòÁéË¢µÄ[m
+[03:42:07] [Server thread/INFO]: anew_tape >> Ò»ÍíÉÏ[m
+[03:42:12] [Server thread/INFO]: Demon_yhy_ >> Ä©µØÖù×Ó¿ÖÅÂÃ»ÁË°É[m
+[03:42:19] [Server thread/INFO]: anew_tape >> Ã»°¡[m
+[03:42:33] [Server thread/INFO]: anew_tape >> ÓÃÄ©µØºÚê×Ê¯Æ½Ì¨Ë¢µÄ[m
+[03:42:38] [Server thread/INFO]: anew_tape >> fukoÄØ[m
+[03:42:51] [Server thread/INFO]: anew_tape >> ºÃ¿´²»[m
+[03:43:00] [Server thread/INFO]: Fukoooo >> ĞĞ[m
+[03:43:17] [Server thread/INFO]: Fukoooo >> ºûµû½áÓĞÁéĞÔ[m
+[03:43:50] [Server thread/INFO]: anew_tape >> ÕÒ¹¤×÷»¹ÊÇ¶ÁÑĞ[m
+[03:44:00] [Server thread/INFO]: Demon_yhy_ >> ¹Ò»úÁË[m
+[03:44:02] [Server thread/INFO]: Fukoooo >> Ã»±ÏÒµÄØ»¹[m
+[03:44:16] [Server thread/INFO]: anew_tape >> Å¶...[m
+[03:44:26] [Server thread/INFO]: anew_tape >> Ê²Ã´Ê±ºò¿ªÑ§[m
+[03:44:30] [Server thread/INFO]: Fukoooo >> ²»ÕÒ¹¤×÷ Ò²²»¶ÁÑĞ[m
+[03:44:36] [Server thread/INFO]: anew_tape >> ÎÒÕâ±ßÍÆ³Ùµ½3ÔÂ19[m
+[03:44:47] [Server thread/INFO]: Fukoooo >> Ó¦¸ÃÊÇ15Ö®ºó°É ²»ÖªµÀ ¿´ÒßÇé[m
+[03:44:47] [Server thread/INFO]: Demon_yhy_ lost connection: Disconnected
+[03:44:47] [Server thread/INFO]: Demon_yhy_ left the game
+[03:45:06] [Server thread/INFO]: anew_tape >> ½ñÍí²»Ë¯ÁË?[m
+[03:45:16] [Server thread/INFO]: Fukoooo >> ÀÛÁË¾ÍË¯[m
+[03:45:28] [Server thread/INFO]: anew_tape >> Ô¼µÈÓÚ²»Ë¯[m
+[03:45:32] [Server thread/INFO]: Fukoooo >> ¹ş¹ş¹ş¹ş[m
+[03:45:38] [Server thread/INFO]: Fukoooo >> °×ÌìË¯Ò»Ìì[m
+[03:45:48] [Server thread/INFO]: anew_tape >> ÕæÊµ[m
+[03:46:07] [Server thread/INFO]: Fukoooo >> Äã¶à´ó°¡[m
+[03:46:10] [Server thread/INFO]: anew_tape >> ´ó¶ş[m
+[03:46:23] [Server thread/INFO]: Fukoooo >> QAQ[m
+[03:46:35] [Server thread/INFO]: anew_tape >> ÎÒ»¹ÒÔÎªÄã±ÈÎÒĞ¡[m
+[03:46:45] [Server thread/INFO]: anew_tape >> ½á¹ûÎÒÊÇµÜµÜ...[m
+[03:46:51] [Server thread/INFO]: Fukoooo >> ¹ş¹ş¹ş¹ş[m
+[03:47:07] [Server thread/INFO]: Fukoooo >> ÎÒÖ®Ç°Ñ§Ï°Ã¦ Ã»Ê±¼äÍæÓÎÏ·[m
+[03:47:13] [Server thread/INFO]: Fukoooo >> É¶¶¼²»»á[m
+[03:47:21] [Server thread/INFO]: anew_tape >> ÄÇÄãÂıÂıÑ§¿©[m
+[03:48:12] [Server thread/INFO]: anew_tape >> ´òÁË¶àÉÙ×°±¸[m
+[03:48:15] [Server thread/INFO]: anew_tape >> ÎÒæÎµã[m
+[03:48:19] [Server thread/INFO]: anew_tape >> )[m
+[03:48:40] [Server thread/INFO]: Fukoooo >> ¾ÍÒ»ÕûÌ×°¡[m
+[03:48:49] [Server thread/INFO]: Fukoooo has completed the challenge [Cover Me in Debris]
+[03:48:53] [Server thread/INFO]: anew_tape >> Äã²»ÊÇ´òÁËºÃ¶à¸ä×ÓÂğ[m
+[03:49:20] [Server thread/INFO]: Fukoooo >> ¾ÍÒ»¸öÊ±ÔËÒ»¸ö¾«×¼[m
+[03:49:38] [Server thread/INFO]: anew_tape >> Ã»ÓĞ°É[m
+[03:49:49] [Server thread/INFO]: anew_tape >> 500ÄÇ±ß²»ÊÇÓĞÒ»ºĞ×ÓÂğ[m
+[03:49:54] [Server thread/INFO]: Fukoooo >> É¶[m
+[03:50:23] [Server thread/INFO]: anew_tape issued server command: /co i
+[03:50:27] [Server thread/INFO]: Fukoooo >> .[m
+[03:50:28] [Server thread/INFO]: anew_tape >> e[m
+[03:50:33] [Server thread/INFO]: Fukoooo >> Ã»¸ÒÄÃ°¡[m
+[03:50:39] [Server thread/INFO]: anew_tape issued server command: /co i
+[03:50:47] [Server thread/INFO]: anew_tape >> ÕâÊÇmrµÄ...[m
+[03:50:53] [Server thread/INFO]: Fukoooo >> emm[m
+[03:50:54] [Server thread/INFO]: anew_tape >> ËãÁË[m
+[03:51:02] [Server thread/INFO]: anew_tape >> Äã°ïÎÒ´ò°Ñ½£[m
+[03:51:09] [Server thread/INFO]: anew_tape >> ¾ÍÕâ°É[m
+[03:51:42] [Server thread/INFO]: Fukoooo >> en[m
+[03:52:24] [Server thread/INFO]: anew_tape >> Ãû×Ö½Ğ Saber[m
+[03:59:42] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_16_R3.ChunkMapDistance.b(ChunkMapDistance.java:244) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerChunkMap.movePlayer(PlayerChunkMap.java:956) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer.movePlayer(ChunkProviderServer.java:482) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1112) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PacketPlayInFlying.a(SourceFile:122) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PacketPlayInFlying$PacketPlayInPositionLook.a(SourceFile:18) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:941) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:934) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:918) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:850) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[04:05:05] [Server thread/INFO]: Fukoooo >> ÍêÊÂ[m
+[04:05:19] [Server thread/INFO]: anew_tape >> nice[m
+[04:05:29] [Server thread/INFO]: anew_tape >> Ğ»À²[m
+[04:05:49] [Server thread/INFO]: Fukoooo >> ÕâËãÊÇ[m
+[04:05:52] [Server thread/INFO]: Fukoooo >> ÕâËãÉ¶[m
+[04:08:20] [Server thread/INFO]: Fukoooo >> ´øÎÒÈ¥¿´¿´ÂÌ±¦Ê¯Ëş[m
+[04:08:23] [Server thread/INFO]: Fukoooo >> ßÂ[m
+[04:09:59] [Server thread/INFO]: anew_tape >> o[m
+[04:10:01] [Server thread/INFO]: anew_tape >> À´°É[m
+[04:10:05] [Server thread/INFO]: anew_tape >> ´ø¸öbuff[m
+[04:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[04:10:18] [Server thread/INFO]: anew_tape >> ÄãÈËÄØ[m
+[04:10:21] [Server thread/INFO]: Fukoooo >> É¶ÒâË¼[m
+[04:10:30] [Server thread/INFO]: anew_tape >> ÄãÏÈÀ´500°Ñ[m
+[04:10:32] [Server thread/INFO]: anew_tape >> ÄãÔÚÄÄ[m
+[04:10:41] [Server thread/INFO]: Fukoooo >> ¼Ò[m
+[04:10:45] [Server thread/INFO]: anew_tape >> Äã¼ÒÔÚÄÄ[m
+[04:11:00] [Server thread/INFO]: Fukoooo >> -2064 +30[m
+[04:11:07] [Server thread/INFO]: anew_tape >> ÊÇ²»ÊÇÔÚº£¾§[m
+[04:11:13] [Server thread/INFO]: Fukoooo >> mei[m
+[04:11:32] [Server thread/INFO]: anew_tape >> ÄÇÄãÀ´µØÓüÃÅÕâÀï°Ñ[m
+[04:11:35] [Server thread/INFO]: Fukoooo >> µØÓü -250 +9[m
+[04:11:42] [Server thread/INFO]: anew_tape >> ´óÌüÕâÀï[m
+[04:12:00] [Server thread/INFO]: Fukoooo >> º£¾§µôÖ¡[m
+[04:13:13] [Server thread/INFO]: anew_tape >> ¿ª¹Ø[m
+[04:13:57] [Server thread/INFO]: anew_tape >> ÄãÖªµÀÔ­ÀíÂğ[m
+[04:14:02] [Server thread/INFO]: Fukoooo >> ²»ÖªµÀ[m
+[04:14:09] [Server thread/INFO]: anew_tape >> Ï®»÷Ç£ÒıÔ­Àí[m
+[04:14:20] [Server thread/INFO]: anew_tape >> ÄÇÎÒËµÒ»ÏÂ°É[m
+[04:14:26] [Server thread/INFO]: Fukoooo >> ºÃ[m
+[04:14:36] [Server thread/INFO]: anew_tape >> Ê×ÏÈ,Ï®»÷ËşÀûÓÃÏ®»÷Ç£Òı×°ÖÃÇ£ÒıÏ®»÷[m
+[04:15:14] [Server thread/INFO]: anew_tape >> µ±Íæ¼Ò´¥·¢Ï®»÷Ê±,ËûÀë¿ª´å×¯ÖĞĞÄ112¸ñÒÔÉÏÏ®»÷»á±»Ïû³ı[m
+[04:15:25] [Server thread/INFO]: anew_tape >> Ò²¾ÍÊÇÉÏÃæÄÇ¸ùÌõ»áÏûÊ§[m
+[04:15:32] [Server thread/INFO]: Fukoooo >> en[m
+[04:15:39] [Server thread/INFO]: anew_tape >> È»ºóÕâÊ±ºòÄã¾Í¿ÉÒÔ´¥·¢ĞÂÏ®»÷[m
+[04:16:11] [Server thread/INFO]: anew_tape >> Ï®»÷Ç£Òı×°ÖÃ¾ÍÊÇ°Ñ´å×¯ÒÆµ½ÀëÄã112¸ñÒâÍâ[m
+[04:16:14] [Server thread/INFO]: anew_tape >> Ï®»÷Ç£Òı×°ÖÃ¾ÍÊÇ°Ñ´å×¯ÒÆµ½ÀëÄã112¸ñÒÔÍâ[m
+[04:16:28] [Server thread/INFO]: anew_tape >> ¸Õ²ÅÄã¿ªµÄ¿ª¹Ø¾ÍÊÇÇ£Òı×°ÖÃµÄ¿ª¹Ø[m
+[04:16:44] [Server thread/INFO]: anew_tape >> ÕâÊÇÏ®»÷ËşµÄºËĞÄÔ­Àí[m
+[04:16:59] [Server thread/INFO]: anew_tape >> È»ºóÊ£ÏÂµÄÄã»ù±¾²»ÓÃÀíÁË[m
+[04:17:16] [Server thread/INFO]: anew_tape >> Ê¹ÓÃ·½·¨¾ÍÊÇÄãÏÈÈ¥¸ãÒ»¸ö²»ÏéÖ®Õ×buff[m
+[04:17:24] [Server thread/INFO]: anew_tape >> È»ºó»ØÀ´,´ò¿ª¿ª¹Ø,[m
+[04:17:33] [Server thread/INFO]: anew_tape >> ÉÏÀ´,¶Ô×Å¿ø¼×¼Ü¿³[m
+[04:17:48] [Server thread/INFO]: anew_tape >> ÀûÓÃ½£µÄºáÉ¨Ö®ÈĞ¿ÉÒÔ²¨¼°µ½¹ÖÎï[m
+[04:18:03] [Server thread/INFO]: Fukoooo >> ×òÌìÎÒÀ´µÄÊ±ºò[m
+[04:18:08] [Server thread/INFO]: anew_tape >> µ«ÊÇ²»ÎÈ¶¨,²¢²»¿ÉÒÔ³¤Ê±¼ä¹Ò»ú[m
+[04:18:13] [Server thread/INFO]: anew_tape >> Äã¿ÉÄÜ»á±»´òËÀ[m
+[04:18:15] [Server thread/INFO]: Fukoooo >> ¹Ö¶¼ÔÚÆ½Ì¨ÉÏºÍº£Ãæ[m
+[04:18:52] [Server thread/INFO]: anew_tape issued server command: /co i
+[04:18:53] [Server thread/INFO]: Fukoooo >> ²»ÏêÊÇÉ±ËÀ´øÆìµÄÄÇ¸ö¾ÍĞĞÊÇÂğ[m
+[04:18:55] [Server thread/INFO]: anew_tape issued server command: /co i
+[04:18:59] [Server thread/INFO]: anew_tape >> en[m
+[04:19:52] [Server thread/INFO]: anew_tape >> ¶ÔÁË,¹­¼ÇµÃ¸øÎÒ[m
+[04:19:57] [Server thread/INFO]: anew_tape >> :)[m
+[04:20:01] [Server thread/INFO]: Fukoooo >> en[m
+[04:21:56] [Server thread/INFO]: anew_tape >> ÎÒÏÈĞŞÒ»ÏÂËş[m
+[04:23:01] [Server thread/INFO]: Fukoooo >> ÎÒÏÈ²»¹ıÈ¥ÊÇÂï[m
+[04:23:04] [Server thread/INFO]: anew_tape >> en[m
+[04:23:07] [Server thread/INFO]: Fukoooo >> ÎÒÓĞbuffÁË[m
+[04:25:32] [Server thread/INFO]: anew_tape >> À´°É[m
+[04:25:35] [Server thread/INFO]: anew_tape >> µÈµÈ[m
+[04:26:10] [Server thread/INFO]: anew_tape >> À´°É[m
+[04:27:28] [Server thread/INFO]: anew_tape >> ²î²»¶àÕâÑù[m
+[04:28:00] [Server thread/INFO]: Fukoooo >> ÎÒ²»»á°Ñ¿ø¼×¼Ü¿³ËéÂğ[m
+[04:28:00] [Server thread/INFO]: anew_tape >> ÎÒÏÈÊÔÊÔÎÈ²»ÎÈ¶¨[m
+[04:28:08] [Server thread/INFO]: anew_tape >> Äã±ğ¿³Ì«¿ì¾ÍĞĞ[m
+[04:28:56] [Server thread/INFO]: anew_tape >> ÄãÊÔÊÔ[m
+[04:29:15] [Server thread/INFO]: anew_tape >> ...[m
+[04:29:26] [Server thread/INFO]: anew_tape >> »á±»¼âÑÀ¸ãµ½[m
+[04:29:35] [Server thread/INFO]: anew_tape >> ³öÀ´ÎÒĞŞÒ»ÏÂ[m
+[04:29:51] [Server thread/INFO]: anew_tape >> Õâ[m
+[04:29:57] [Server thread/INFO]: anew_tape >> ÕâÀï[m
+[04:30:15] [Server thread/INFO]: Fukoooo >> ..[m
+[04:30:25] [Server thread/INFO]: Fukoooo >> µôÖ¡ÁËÓÖ[m
+[04:30:41] [Server thread/INFO]: Fukoooo >> ÊÇÎÒÉ±µÄ²»¹»¿ìÂğ[m
+[04:30:45] [Server thread/INFO]: anew_tape >> ²»ÊÇ[m
+[04:30:51] [Server thread/INFO]: anew_tape >> ÊÇÄãÉ±µÄÌ«¿ìÁË[m
+[04:31:44] [Server thread/INFO]: anew_tape >> ok[m
+[04:31:47] [Server thread/INFO]: anew_tape >> ÍêÃÀ½â¾ö[m
+[04:31:58] [Server thread/INFO]: anew_tape >> ÉÏ[m
+[04:32:12] [Server thread/INFO]: anew_tape >> ½øÈ¥Ò»µã[m
+[04:32:19] [Server thread/INFO]: anew_tape >> en[m
+[04:32:43] [Server thread/INFO]: Fukoooo >> ÄÇÉ¶Ê±ºò»á½áÊø°¡[m
+[04:32:51] [Server thread/INFO]: anew_tape >> ÓÀÔ¶²»»á...[m
+[04:33:31] [Server thread/INFO]: anew_tape >> e[m
+[04:33:35] [Server thread/INFO]: anew_tape >> »¹ÊÇ»á[m
+[04:33:49] [Server thread/INFO]: anew_tape >> ÏÈ³öÀ´°É[m
+[04:35:05] [Server thread/INFO]: Fukoooo >> ÓĞÄÖ¹í°¡[m
+[04:35:23] [Server thread/INFO]: anew_tape >> È·ÊµÓĞÕâ¸öÎÊÌâ[m
+[04:36:01] [Server thread/INFO]: Fukoooo lost connection: Disconnected
+[04:36:01] [Server thread/INFO]: Fukoooo left the game
+[04:36:14] [User Authenticator #10/INFO]: UUID of player Fukoooo is f957285b-78cb-4045-9b47-5af0d4e3679b
+[04:36:14] [Server thread/INFO]: Fukoooo[/127.0.0.1:60795] logged in with entity id 222103 at ([world]1363.699999988079, 115.0, -1366.699999988079)
+[04:36:25] [Server thread/INFO]: Fukoooo >> ..[m
+[04:36:31] [Server thread/INFO]: Fukoooo >> Äã¿´ÏÂÏÂÃæÆ½Ì¨[m
+[04:36:39] [Server thread/INFO]: anew_tape >> ...[m
+[04:36:47] [Server thread/INFO]: anew_tape >> Éµ±Æ¶ÓÓÑ°ÑÊ÷Ò¶²ğÁË[m
+[04:36:53] [Server thread/INFO]: Fukoooo >> = =[m
+[04:37:05] [Server thread/INFO]: anew_tape >> ÏÈ´¦Àíµ×ÏÂµÄ°É[m
+[04:37:24] [Server thread/INFO]: anew_tape >> ÎŞÁÄ²ğÃ«ÏßµÄÊ÷Ò¶[m
+[04:38:43] [Server thread/INFO]: Fukoooo >> ËûÃÇÊÇÍöÁéÂğ[m
+[04:39:01] [Server thread/INFO]: anew_tape >> no[m
+[04:41:34] [Server thread/INFO]: anew_tape >> »¹ÊÇÕâÑù´òË¬[m
+[04:41:42] [Server thread/INFO]: Fukoooo >> ¹ş¹ş¹ş[m
+[04:42:04] [Server thread/INFO]: Fukoooo >> ÎÒ¹ØÁË£¿[m
+[04:42:08] [Server thread/INFO]: anew_tape >> àÅ[m
+[04:42:33] [Server thread/INFO]: anew_tape >> ºô[m
+[04:42:41] [Server thread/INFO]: anew_tape >> ²»¹ı²»Òª´òÌ«¶à...[m
+[04:42:47] [Server thread/INFO]: anew_tape >> ¸úÎÒÆÌ²£Á§°Ñ[m
+[04:42:52] [Server thread/INFO]: Fukoooo >> ok[m
+[04:43:52] [Server thread/INFO]: Fukoooo >> ÎªÊ²Ã´ÒªÓÃÊ÷Ò¶[m
+[04:44:02] [Server thread/INFO]: anew_tape >> Ê÷Ò¶²»¿ÉË¢¹Ö[m
+[04:44:11] [Server thread/INFO]: Fukoooo >> ²£Á§²»Ò²ÊÇÂï[m
+[04:44:31] [Server thread/INFO]: anew_tape >> ÄÇÊ±ºòbayĞŞÓÃµÄÊ÷Ò¶[m
+[04:44:39] [Server thread/INFO]: anew_tape >> ¿ÉÄÜ¸øÉÕÁË»¹ÊÇÕ¦µÄ[m
+[04:44:47] [Server thread/INFO]: anew_tape >> ·´Õı²»ÊÇÌØ±ğ±£ÏÕ[m
+[04:45:52] [Server thread/INFO]: anew_tape >> ÄãÉÏÀ´¼ÌĞø°Ñ[m
+[04:46:00] [Server thread/INFO]: anew_tape >> ÏÈ´ò¿ª[m
+[04:46:09] [Server thread/INFO]: anew_tape >> È»ºó¼ÌĞø¿³¾ÍĞĞ[m
+[04:46:14] [Server thread/INFO]: Fukoooo >> ÎÒÏÖÔÚÃ»ÓĞ²»Ïê°¡[m
+[04:46:20] [Server thread/INFO]: anew_tape >> ÉÏÃæÓĞ¶Ó³¤[m
+[04:46:26] [Server thread/INFO]: anew_tape >> Ë¢³öÀ´µÄ¹ÖÎïÓĞ[m
+[04:46:31] [Server thread/INFO]: anew_tape >> È»ºó¾Í¿ÉÒÔÎŞÏŞÑ­»·[m
+[04:46:38] [Server thread/INFO]: anew_tape >> Ö»ÒªÀïÃæ»¹ÓĞ¶Ó³¤[m
+[04:47:22] [Server thread/INFO]: anew_tape >> ±ğ¶ªÂÌ±¦Ê¯[m
+[04:47:24] [Server thread/INFO]: anew_tape >> ...[m
+[04:47:28] [Server thread/INFO]: Fukoooo >> ..[m
+[04:47:28] [Server thread/INFO]: anew_tape >> ËãÁË[m
+[04:47:32] [Server thread/INFO]: anew_tape >> ·´ÕıÒ²ÊÇÎŞÏŞµÄ[m
+[04:47:43] [Server thread/INFO]: anew_tape >> µÈµÈ[m
+[04:47:47] [Server thread/INFO]: anew_tape >> ÏÈ³öÀ´[m
+[04:47:51] [Server thread/INFO]: anew_tape >> ÄÕ¹í[m
+[04:48:31] [Server thread/INFO]: anew_tape >> ÎÒÏÈ×öÌú¿şÀÜ[m
+[04:49:10] [Server thread/INFO]: anew_tape >> ÄãÓĞÌúÂğ[m
+[04:49:21] [Server thread/INFO]: Fukoooo >> ÎŞ[m
+[04:49:40] [Server thread/INFO]: Fukoooo >> ÕâÓĞµã[m
+[04:50:53] [Server thread/INFO]: Fukoooo >> ÕâºĞ×ÓÀïÓĞ[m
+[04:51:26] [Server thread/INFO]: anew_tape >> ok[m
+[04:51:27] [Server thread/INFO]: anew_tape >> ¿³[m
+[04:52:08] [Server thread/INFO]: anew_tape >> »½Ä§ÕßÕÙ»½³öÀ´µÄÄÕ¹íÊıÁ¿ÊÇÓĞÉÏÏŞµÄ[m
+[04:52:14] [Server thread/INFO]: Fukoooo >> àÅ[m
+[04:52:38] [Server thread/INFO]: anew_tape >> ÅÔ±ßÊ¹ÓÃÌú¿şÀÜÎüÒı»½Ä§ÕßÕÙ»½ÄÕ¹í,È»ºóÈÃÄÕ¹íÊıÁ¿´ïµ½ÉÏÏŞ[m
+[04:52:49] [Server thread/INFO]: anew_tape >> ÕâÑù¾Í²»»áË¢ÄÖ¹íÁË[m
+[04:53:01] [Server thread/INFO]: anew_tape >> µ«ÊÇ×°ÖÃ²»ÊÇ100%ÎÈ¶¨[m
+[04:53:06] [Server thread/INFO]: anew_tape >> »áÂ©ÄÕ¹í[m
+[04:53:18] [Server thread/INFO]: anew_tape >> ËùÒÔÌú¿şÀÜ»á±»´òËÀ,¶ñĞÔÑ­»·[m
+[04:53:28] [Server thread/INFO]: anew_tape >> ËùÒÔ¸Õ²ÅÓĞºÜ¶àÄÕ¹í[m
+[04:53:29] [Server thread/INFO]: Fukoooo >> ÄÇÌú¿şÀÜ²»¾ÍÊÇÏûºÄÆ·ÁËÂğ[m
+[04:53:36] [Server thread/INFO]: anew_tape >> Ã»°ì·¨[m
+[04:53:55] [Server thread/INFO]: anew_tape >> ÎÒÔÚÏë°ì·¨¸Ä½ø[m
+[04:54:04] [Server thread/INFO]: anew_tape >> bÕ¾ÓĞÆäËü·½°¸µÄÏ®»÷Ëş[m
+[04:54:21] [Server thread/INFO]: Fukoooo >> ºÃÏñÓĞÓÃ´¬µÄ[m
+[04:54:30] [Server thread/INFO]: anew_tape >> ÄÇÖÖÌ«µÜµÜÁË[m
+[04:54:32] [Server thread/INFO]: anew_tape >> low[m
+[04:54:48] [Server thread/INFO]: anew_tape >> ºÃ¼Ò»ï[m
+[04:54:51] [Server thread/INFO]: anew_tape >> È¥¿³[m
+[04:54:58] [Server thread/INFO]: anew_tape >> ¼ñÊ²Ã´¶«Î÷[m
+[04:55:00] [Server thread/INFO]: anew_tape >> ...[m
+[04:55:22] [Server thread/INFO]: anew_tape >> ¿³ÍêÔÙÊÕ[m
+[04:55:26] [Server thread/INFO]: anew_tape >> ¶àµÄÊÇ[m
+[04:55:39] [Server thread/INFO]: anew_tape >> hhhh[m
+[04:55:43] [Server thread/INFO]: Fukoooo >> ..[m
+[04:56:43] [Server thread/INFO]: anew_tape >> ËùÒÔÏ®»÷ËşµÄºËĞÄÔ­ÀíÊÇÇ£Òı×°ÖÃ[m
+[04:57:11] [Server thread/INFO]: Fukoooo >> àÅ[m
+[04:57:15] [Server thread/INFO]: anew_tape >> Ç£Òı×°ÖÃºÜ¼òµ¥[m
+[04:57:34] [Server thread/INFO]: anew_tape >> µ«ÊÇÕæÕıÌåÏÖÍæ¼Ò´´ÔìĞÔµÄµØ·½¾ÍÊÇÄÕ¹íºÍ¼âÑÀ´¦Àí[m
+[04:57:47] [Server thread/INFO]: Fukoooo >> ¼âÑÀÓÃÑÒ½¬ÊÇÂï[m
+[04:57:55] [Server thread/INFO]: anew_tape >> ²»Ì«¿ÉĞĞ[m
+[04:58:04] [Server thread/INFO]: anew_tape >> ÑÒ½¬Ïú»Ù¾­ÑéÇòµÄ[m
+[04:58:10] [Server thread/INFO]: anew_tape >> Òª²»È»Ì«¿¨[m
+[04:59:40] [Server thread/INFO]: anew_tape >> ÄãÏÖÔÚ´òµÄÊÇºÜ¶à²¨Ï®»÷[m
+[04:59:53] [Server thread/INFO]: anew_tape >> ÒòÎªÇ£Òı×°ÖÃ°ÑÏ®»÷Ç£Òı×ßÁË[m
+[05:00:03] [Server thread/INFO]: Fukoooo >> µ«ÊÇ¹ÖÁôÏÂÁË[m
+[05:00:05] [Server thread/INFO]: Fukoooo >> ÊÇÂï[m
+[05:00:08] [Server thread/INFO]: anew_tape >> àÅ[m
+[05:00:16] [Server thread/INFO]: anew_tape >> È»ºóÄãÉ±Ò»¸ö¶Ó³¤[m
+[05:00:23] [Server thread/INFO]: anew_tape >> ¾ÍÓÖ´¥·¢Ò»´ÎÏ®»÷[m
+[05:00:48] [Server thread/INFO]: Fukoooo >> À÷º¦[m
+[05:00:49] [Server thread/INFO]: anew_tape >> ËùÒÔÄã»á¿´µ½Ï®»÷Ìõ³öÏÖÓÖÏûÊ§[m
+[05:01:33] [Server thread/INFO]: Fukoooo >> Õâ¾­ÑéÒ²Í¦¶à[m
+[05:01:36] [Server thread/INFO]: anew_tape >> en[m
+[05:02:09] [Server thread/INFO]: Fukoooo >> ½ÙÂÓÊŞÄØ[m
+[05:02:24] [Server thread/INFO]: anew_tape >> ¶ªµØÓüÓÃÑÒ½¬ÌÌËÀ[m
+[05:03:13] [Server thread/INFO]: Fukoooo >> Ì«Å£ÁË[m
+[05:03:38] [Server thread/INFO]: anew_tape >> Õ¦ÁË[m
+[05:03:49] [Server thread/INFO]: Fukoooo >> ²»ÏëË¢ÁË[m
+[05:03:53] [Server thread/INFO]: anew_tape >> 23333[m
+[05:04:00] [Server thread/INFO]: anew_tape >> ÊÕÇ®ÊÕµ½ÊÖÈí[m
+[05:04:09] [Server thread/INFO]: Fukoooo >> Ó¡³®»ú[m
+[05:04:10] [Server thread/INFO]: anew_tape >> ÄãÈ¥ÄÃÂÌ±¦Ê¯°É[m
+[05:04:43] [Server thread/INFO]: anew_tape >> ËùÒÔÕâÑù¿´À´[m
+[05:04:52] [Server thread/INFO]: anew_tape >> ³ıÁËÂÌ±¦Ê¯Ê£ÏÂµÄ»ù±¾¶¼ÊÇÀ¬»ø[m
+[05:04:57] [Server thread/INFO]: anew_tape >> °üÀ¨Í¼ÌÚ[m
+[05:04:59] [Server thread/INFO]: Fukoooo >> duid[m
+[05:05:03] [Server thread/INFO]: anew_tape >> ²»ÈçÈ«ÈÓÁË[m
+[05:05:11] [Server thread/INFO]: Fukoooo >> Í¼ÌÚ»¹ÓĞµãÓÃ°É[m
+[05:06:12] [User Authenticator #11/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[05:06:12] [Server thread/INFO]: xf998[/127.0.0.1:60893] logged in with entity id 268447 at ([world]-245.23676030427717, 67.0, -443.70307556977565)
+[05:07:20] [Server thread/INFO]: anew_tape >> ÕâÊÇÒ»¸ö2±¶ËÙ·ÖÀà»ú[m
+[05:07:31] [Server thread/INFO]: anew_tape >> ÏñÎÒÕâÑù·ÅÂÌ±¦Ê¯ºÍÌî³äÎï¾Í¿ÉÒÔ[m
+[05:07:38] [Server thread/INFO]: anew_tape >> Ñ§»áÃ»[m
+[05:07:58] [Server thread/INFO]: Fukoooo >> .[m
+[05:08:27] [Server thread/INFO]: anew_tape >> ¸ÉÉ¶ÄØ[m
+[05:08:34] [Server thread/INFO]: Fukoooo >> ¿´¿´½á¹¹°¡[m
+[05:08:45] [Server thread/INFO]: anew_tape >> Ã»ÓĞtweakrooÂğ[m
+[05:08:52] [Server thread/INFO]: Fukoooo >> ÊÇÉ¶[m
+[05:08:55] [Server thread/INFO]: anew_tape >> e[m
+[05:09:03] [Server thread/INFO]: anew_tape >> emmm[m
+[05:09:05] [Server thread/INFO]: anew_tape >> Ä£×é[m
+[05:09:13] [Server thread/INFO]: anew_tape >> Í¶Ó°ÖªµÀ²»[m
+[05:09:27] [Server thread/INFO]: Fukoooo >> ÌıÃÇËµ¹ı[m
+[05:09:30] [Server thread/INFO]: Fukoooo >> ÌıÄãÃÇËµ¹ı[m
+[05:09:38] [Server thread/INFO]: Fukoooo >> ÔÓÓÃ²»ÖªµÀ[m
+[05:09:58] [Server thread/INFO]: anew_tape >> ´óÑ§ÉúÁËÓ¦¸Ã»áÉÏbÕ¾×Ô¼ºÕÒ°Ñ?[m
+[05:10:06] [Server thread/INFO]: Fukoooo >> àÅ[m
+[05:10:06] [Server thread/INFO]: anew_tape >> Ó¦¸Ã²»ÓÃÎÒËµÁË°É[m
+[05:10:09] [Server thread/INFO]: anew_tape >> ºÃÀÛµÄ[m
+[05:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[05:10:16] [Server thread/INFO]: anew_tape >> Ò»Ê±°ë»áÒ²½²²»Çå³ş[m
+[05:10:28] [Server thread/INFO]: anew_tape >> ÄãÕâĞ©·½¿éÒª´òµô[m
+[05:10:35] [Server thread/INFO]: anew_tape >> ²»È»Ï®»÷»áÔÚÉÏÃæÉú³É[m
+[05:10:38] [Server thread/INFO]: anew_tape >> µ½Ê±ºògg[m
+[05:10:57] [Server thread/INFO]: xf998 lost connection: Disconnected
+[05:10:57] [Server thread/INFO]: xf998 left the game
+[05:11:46] [Server thread/INFO]: anew_tape >> Íê[m
+[05:11:52] [Server thread/INFO]: anew_tape >> µÃÖØĞÂ´òbuffÁË[m
+[05:12:02] [Server thread/INFO]: anew_tape >> ËãÁË[m
+[05:12:17] [Server thread/INFO]: anew_tape >> ÕâÃ´¶àµÃÁË[m
+[05:12:25] [Server thread/INFO]: anew_tape >> Ì«Ì°ÁËÒ²²»ºÃ[m
+[05:12:29] [Server thread/INFO]: anew_tape >> ×ß°É[m
+[05:12:35] [Server thread/INFO]: Fukoooo >> àÅàÅ[m
+[05:12:50] [Server thread/INFO]: Fukoooo >> ÄãÃÇÄÔ×ÓÊ²Ã´×öµÄ[m
+[05:13:17] [Server thread/INFO]: anew_tape >> µòÁé÷¼÷ÃËş¼û¹ıÃ»[m
+[05:13:22] [Server thread/INFO]: Fukoooo >> ¿´µ½ÁË[m
+[05:13:38] [Server thread/INFO]: anew_tape >> ÄÇÊ±ºò¸ãÕâ¸ö¿ÕÖÃÓòÄÇÊÇÒ»°ÑÑªÒ»°ÑÀá°¡[m
+[05:13:45] [Server thread/INFO]: Fukoooo >> ¹­ÓÖÅÜÎÒÕâÀ´ÁË[m
+[05:13:52] [Server thread/INFO]: anew_tape >> ÄÇÊ±ºòÎÒÊ²Ã´¶¼²»»á[m
+[05:14:06] [Server thread/INFO]: anew_tape >> Ó²×ÅÍ·Æ¤Ñ§ºìÊ¯[m
+[05:14:29] [Server thread/INFO]: anew_tape >> ºóÀ´ºÍgkËûÃÇ¸ãÁËÒ»¸ö¶àÔÂ²Å¸ãÍê[m
+[05:14:32] [Server thread/INFO]: Fukoooo >> ÕæÅ£°¡[m
+[05:14:50] [Server thread/INFO]: anew_tape >> È»ºóÕâ¸öº®¼ÙÔÚº£¾§ÓÖ¸ãÁËÒ»¸ö¿ÕÖÃÓò[m
+[05:15:01] [Server thread/INFO]: anew_tape >> ÄãÈËÄØ[m
+[05:15:10] [Server thread/INFO]: Fukoooo >> µØÓüÖ÷Â·[m
+[05:15:30] [Server thread/INFO]: anew_tape >> az[m
+[05:15:44] [Server thread/INFO]: anew_tape >> ´øÄã¿´¿´º£¾§ÊØÎÀÕßÅ©³¡[m
+[05:15:49] [Server thread/INFO]: Fukoooo >> gogogo[m
+[05:17:02] [Server thread/INFO]: anew_tape >> µ±Ê±ºÍsen×öµÄ[m
+[05:17:15] [Server thread/INFO]: anew_tape >> ÕâÂ¥Ìİ±ğÉÏÈ¥[m
+[05:17:33] [Server thread/INFO]: anew_tape >> ÊÕ¼¯[m
+[05:18:40] [Server thread/INFO]: anew_tape >> º£¾§µÄº£¾§Ê¯ÖÆÆ·ÓÃ²»Íê[m
+[05:19:44] [Server thread/INFO]: anew_tape >> Äã¿ª»ØÈ¥[m
+[05:20:31] [Server thread/INFO]: anew_tape >> 2333[m
+[05:20:38] [Server thread/INFO]: anew_tape >> ³å[m
+[05:21:28] [Server thread/INFO]: anew_tape >> È¥ÄÄºÃÄØ[m
+[05:21:53] [Server thread/INFO]: anew_tape >> Ê·À³Ä·¿ÕÖÃÓòÄãÓ¦¸Ã¿´ÁË°É[m
+[05:22:02] [Server thread/INFO]: Fukoooo >> àÅÄØ[m
+[05:22:16] [Server thread/INFO]: Fukoooo >> ÎÒ»¹ÍÚÁËÒ»Ğ¡µã[m
+[05:22:18] [Server thread/INFO]: anew_tape >> µ±Ê±ºÍmrÆÌ²£Á§»¹Í¦ÀÛµÄ[m
+[05:22:27] [Server thread/INFO]: anew_tape >> ÄÇÊ±ºòÎÒ»¹²»ÖªµÀtweakroo[m
+[05:22:44] [Server thread/INFO]: Fukoooo >> Õâ¹Ò»úµãÔÚÄÄ[m
+[05:22:45] [Server thread/INFO]: anew_tape >> »¹ÓĞÉ¶ÄØ[m
+[05:22:49] [Server thread/INFO]: anew_tape >> ÖĞ¼ä°¡[m
+[05:24:54] [Server thread/INFO]: Fukoooo >> Ç±Ó°ºĞ»áË¢¹ÖÂğ[m
+[05:25:14] [Server thread/INFO]: anew_tape >> ²»ÖªµÀ[m
+[05:25:17] [Server thread/INFO]: anew_tape >> ÊÔÊÔßÂ[m
+[05:26:53] [Server thread/INFO]: Fukoooo >> ÄãÕÒµÃµ½¶«Î÷ma[m
+[05:27:01] [Server thread/INFO]: anew_tape >> ¾­³£¶ª[m
+[05:27:11] [Server thread/INFO]: anew_tape >> ¹ÖÁË[m
+[05:27:13] [Server thread/INFO]: anew_tape >> ²»Ë¢[m
+[05:27:33] [Server thread/INFO]: Fukoooo >> Õâ·¶Î§ÊÇ16¸ñÂğ[m
+[05:27:50] [Server thread/INFO]: anew_tape >> Ê·À³Ä·Ã»ÎÊÌâ°¡[m
+[05:28:16] [Server thread/INFO]: anew_tape >> ÔçÉÏÁË[m
+[05:29:06] [Server thread/INFO]: Fukoooo >> ÕâĞ©ÂÒÆß°ËÔãµÄÊÇÉ¶[m
+[05:29:17] [Server thread/INFO]: anew_tape >> Ë¢É³»ú...[m
+[05:29:23] [Server thread/INFO]: anew_tape >> ÎÒÔìµÄÈ»ºó¸ã»µÁË[m
+[05:29:26] [Server thread/INFO]: anew_tape >> ÀÁµÃĞŞ[m
+[05:30:43] [Server thread/INFO]: anew_tape >> ÈÊ¶÷[m
+[05:30:45] [Server thread/INFO]: anew_tape >> ÈËÄØ[m
+[05:30:50] [Server thread/INFO]: Fukoooo >> Ä©µØ[m
+[05:30:57] [Server thread/INFO]: Fukoooo >> ´åÃñ[m
+[05:31:02] [Server thread/INFO]: Fukoooo >> »»µã³ÔµÄ[m
+[05:31:38] [Server thread/INFO]: anew_tape >> senÀÏÊÇ¸ã´åÃñ½»Ò×[m
+[05:31:44] [Server thread/INFO]: anew_tape >> ¸ãÁË¼¸¸öÁË[m
+[05:31:49] [Server thread/INFO]: anew_tape >> ²»¼ÇµÃÁË[m
+[05:31:53] [Server thread/INFO]: anew_tape >> Ôô¶à[m
+[05:32:38] [Server thread/INFO]: anew_tape >> ¶ÔÁË[m
+[05:32:40] [Server thread/INFO]: Fukoooo >> ¸ãÕâ¸ö·¢¼Ò[m
+[05:32:53] [Server thread/INFO]: anew_tape >> ¸Ã²ğÖ÷³ÇÁË[m
+[05:33:13] [Server thread/INFO]: Fukoooo >> °¡[m
+[05:34:10] [Server thread/INFO]: Fukoooo >> Õ¨Âğ[m
+[05:34:26] [Server thread/INFO]: anew_tape >> ÓÃÊ²Ã´Õ¨[m
+[05:34:56] [Server thread/INFO]: Fukoooo >> ²»Öª[m
+[05:35:58] [Server thread/INFO]: Fukoooo >> ÔõÃ´Ã´ÓĞÅ©Ãñ[m
+[05:36:01] [Server thread/INFO]: Fukoooo >> ÔõÃ´Ã»ÓĞÅ©Ãñ[m
+[05:36:26] [Server thread/INFO]: anew_tape >> baz[m
+[05:36:30] [Server thread/INFO]: anew_tape >> bad[m
+[05:36:33] [Server thread/INFO]: anew_tape >> bzd[m
+[05:41:00] [Server thread/INFO]: anew_tape >> xlµÄÕĞÅÆ[m
+[05:41:03] [Server thread/INFO]: anew_tape >> ²ğ²»²ğ[m
+[05:41:13] [Server thread/INFO]: Fukoooo >> ÄÄ¸ö[m
+[05:41:18] [Server thread/INFO]: anew_tape >> ×Ö[m
+[05:42:06] [Server thread/INFO]: Fukoooo >> ÎÒÈ¥ÕÒÄã[m
+[05:43:43] [Server thread/INFO]: anew_tape >> ×ö¸öĞÂ±ê°Ğ[m
+[05:43:46] [Server thread/INFO]: anew_tape >> ĞÅ±ê[m
+[05:44:59] [Server thread/INFO]: anew_tape >> ÄãÓĞĞÅ±êÂğ...[m
+[05:45:09] [Server thread/INFO]: anew_tape >> ÂÌ±¦Ê¯¿éÄØ[m
+[05:45:11] [Server thread/INFO]: anew_tape >> ok[m
+[05:45:23] [Server thread/INFO]: anew_tape >> À´¸ö¼±ÆÈII[m
+[05:45:24] [Server thread/INFO]: Fukoooo >> .[m
+[05:45:28] [Server thread/INFO]: Fukoooo >> ²»¹»[m
+[05:45:50] [Server thread/INFO]: Fukoooo >> ..[m
+[05:46:35] [Server thread/INFO]: anew_tape >> ÍÂÁË[m
+[05:46:39] [Server thread/INFO]: anew_tape >> »ù×ù²»¹»[m
+[05:46:55] [Server thread/INFO]: Fukoooo >> ÎÒÈ¥È¡[m
+[05:49:45] [Server thread/INFO]: anew_tape >> Í»È»¼ä¸Ğ¾õ»¹ÊÇÊÀÍÌºÃ[m
+[05:49:55] [Server thread/INFO]: anew_tape >> ÍÚ¸öÆ¨[m
+[05:49:58] [Server thread/INFO]: anew_tape >> ÀÛËÀÈË[m
+[05:51:53] [Server thread/INFO]: Fukoooo >> Ö÷³Ç¶¼ÊÇËÀÈËÂğ[m
+[05:52:10] [Server thread/INFO]: anew_tape >> Ö÷³Ç»ù±¾·ÏÆú[m
+[05:52:52] [Server thread/INFO]: Fukoooo >> Õâ¸öÊÇË­[m
+[05:53:44] [Server thread/INFO]: anew_tape >> º©Ã÷?[m
+[05:53:55] [Server thread/INFO]: anew_tape >> å«Ã÷?[m
+[05:54:02] [Server thread/INFO]: anew_tape >> bzd[m
+[05:55:02] [Server thread/INFO]: Fukoooo >> ÏÖÔÚ»¹ÓĞË¢Ìú»úÂğ[m
+[05:55:31] [Server thread/INFO]: anew_tape >> ÓĞ[m
+[05:56:05] [Server thread/INFO]: anew_tape >> Äã»¹ÕæÍÚ°¡[m
+[05:56:14] [Server thread/INFO]: anew_tape >> ÒªÍÚµ½y64[m
+[05:56:22] [Server thread/INFO]: Fukoooo >> 3.[m
+[05:56:23] [Server thread/INFO]: Fukoooo >> .[m
+[05:56:36] [Server thread/INFO]: Fukoooo >> ÓĞ¿Õ¾ÍÍÚØ¼[m
+[05:58:11] [Server thread/INFO]: Fukoooo >> ×Ü¸Ğ¾õÔÛÃÇÄ©µØÌ«ÂÒÁË[m
+[05:58:14] [Server thread/INFO]: anew_tape >> 1.17ĞÂ°æ±¾¸üĞÂÄã¿´ÁËÂğ[m
+[05:58:28] [Server thread/INFO]: Fukoooo >> ¸º¸ß¶ÈÊÇÂï[m
+[05:58:33] [Server thread/INFO]: anew_tape >> àÅ[m
+[05:58:41] [Server thread/INFO]: anew_tape >> ÒÔ·şÎñÆ÷ÄòĞÔ[m
+[05:58:50] [Server thread/INFO]: anew_tape >> µ½Ê±ºòÒª²»¾ÍÊÇĞÂµµ[m
+[05:58:55] [Server thread/INFO]: anew_tape >> Òª²»¾ÍÊÇ[m
+[05:58:59] [Server thread/INFO]: anew_tape >> bzd[m
+[05:59:12] [Server thread/INFO]: anew_tape >> ÎÒ¸Ğ¾õÕâÖ÷³ÇÕ¨ÁËÒ²Ã»¶à´óÒâÒå°¡[m
+[05:59:46] [Server thread/INFO]: anew_tape >> ÊÇ°É[m
+[05:59:57] [Server thread/INFO]: Fukoooo >> È·Êµ[m
+[06:00:18] [Server thread/INFO]: Fukoooo >> Õâ¸ö´óÈ¦ÊÇÉ¶[m
+[06:01:04] [Server thread/INFO]: anew_tape >> hmsµÄ¼Ò[m
+[06:01:25] [Server thread/INFO]: anew_tape issued server command: /co i
+[06:01:42] [Server thread/INFO]: anew_tape issued server command: /co i
+[06:01:47] [Server thread/INFO]: anew_tape >> Äê´úÌ«¾ÃÔ¶ÁË[m
+[06:01:52] [Server thread/INFO]: Fukoooo >> Õâ´åÃñÈ«ÏûÊ§ÁË[m
+[06:01:53] [Server thread/INFO]: anew_tape >> co i²é²»³öÀ´[m
+[06:02:06] [Server thread/INFO]: Fukoooo issued server command: /co i
+[06:02:16] [Server thread/INFO]: anew_tape >> Ö÷³Ç»Ø¹ıÒ»´Îµµ[m
+[06:02:24] [Server thread/INFO]: anew_tape >> Ó¦¸ÃÊÇ¸ø»ØÃ»ÁË[m
+[06:02:26] [Server thread/INFO]: Fukoooo issued server command: /
+[06:02:28] [Server thread/INFO]: Fukoooo issued server command: /co i
+[06:03:44] [Server thread/INFO]: anew_tape >> 6µãÁË[m
+[06:03:49] [Server thread/INFO]: anew_tape >> ÊÇ²»ÊÇ¸ÄË¯¾õÁË[m
+[06:04:14] [Server thread/INFO]: Fukoooo >> È·Êµ ÎÒÂè¶¼ÒªĞÑÁË[m
+[06:04:23] [Server thread/INFO]: anew_tape >> ÎÒÂè½ñÌì»¹ÒªÉÏ°à[m
+[06:04:38] [Server thread/INFO]: anew_tape >> ÏÈÕâÑù°É,¿´¿´ÏÂÎçÄÜ²»ÄÜÆğÀ´[m
+[06:04:42] [Server thread/INFO]: anew_tape >> Íí°²[m
+[06:04:43] [Server thread/INFO]: Fukoooo >> 8[m
+[06:04:45] [Server thread/INFO]: Fukoooo >> zaoan[m
+[06:04:45] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[06:04:45] [Server thread/INFO]: anew_tape left the game
+[06:07:06] [Server thread/INFO]: Fukoooo issued server command: /
+[06:07:09] [Server thread/INFO]: Fukoooo issued server command: /co i
+[06:07:18] [Server thread/INFO]: Fukoooo issued server command: /co inspect
+[06:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[07:10:10] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[07:34:53] [Server thread/INFO]: Fukoooo lost connection: Disconnected
+[07:34:53] [Server thread/INFO]: Fukoooo left the game
+[08:10:10] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[08:21:04] [User Authenticator #12/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[08:21:04] [Server thread/INFO]: Twilight2033[/127.0.0.1:61613] logged in with entity id 404265 at ([world]7065.753625347033, 64.0, -538.704785311333)
+[08:25:35] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:26:52] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:28:25] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:28:32] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:29:30] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:29:35] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:30:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[08:31:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@656cc283[id=<null>,name=xf998,properties={},legacy=false] (/127.0.0.1:61665) lost connection: Disconnected
+[08:31:28] [User Authenticator #13/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[08:31:28] [Server thread/INFO]: xf998[/127.0.0.1:61669] logged in with entity id 405201 at ([world]17.328714086880257, 66.0, 600.3078747565046)
+[08:32:23] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:32:52] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:35:45] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:35:52] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:37:50] [Server thread/INFO]: xf998 was slain by Phantom
+[08:47:08] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:47:15] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:47:17] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:47:23] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:50:23] [Server thread/INFO]: Twilight2033 >> xf998ĞÂÈËÄãÊÇ¹ÂÀÇÂğ[m
+[08:50:31] [Server thread/INFO]: Twilight2033 >> awa[m
+[08:53:28] [Server thread/INFO]: xf998 issued server command: /co i
+[08:53:37] [Server thread/INFO]: xf998 issued server command: /co inspect
+[08:53:50] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:54:03] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[08:54:50] [Server thread/INFO]: Twilight2033 issued server command: /tp Twilight2033 2678 66 -357
+[08:54:50] [Server thread/INFO]: Twilight2033 issued server command: /tppos 2678 66 -357
+[08:57:02] [Server thread/INFO]: xf998 lost connection: Disconnected
+[08:57:02] [Server thread/INFO]: xf998 left the game
+[08:59:50] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:00:05] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:01:44] [User Authenticator #14/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[09:01:45] [Server thread/INFO]: xf998[/127.0.0.1:61771] logged in with entity id 412116 at ([world_nether]334.48437645321627, 115.0, -47.01775290756604)
+[09:02:05] [Server thread/INFO]: Twilight2033 >> xf998ÄãÊÇ¹ÂÀÇÍæ¼ÒÂğawa[m
+[09:02:22] [Server thread/INFO]: xf998 >> ËãÊÇ°É[m
+[09:02:35] [Server thread/INFO]: Twilight2033 >> xf998Äã×¡ÄÄÑ¼awa[m
+[09:02:55] [Server thread/INFO]: xf998 >> º£¾§µØÓüÃÅ¿Ú[m
+[09:03:10] [Server thread/INFO]: Twilight2033 >> o[m
+[09:03:18] [Server thread/INFO]: Twilight2033 >> ÄãÒÑ¾­¼ÓÈëº£¾§ÁË[m
+[09:03:26] [Server thread/INFO]: xf998 >> Ã»ÓĞ°¡[m
+[09:03:36] [Server thread/INFO]: Twilight2033 >> awa??[m
+[09:04:33] [Server thread/INFO]: xf998 >> ÎÒÈ¥º£¾§´åÃñ½»Ò×Ëù»»µã¸½Ä§Êé[m
+[09:04:45] [Server thread/INFO]: Twilight2033 >> ÄãÒ»°ã×¡ÄÄ[m
+[09:05:20] [Server thread/INFO]: xf998 >> Ö÷³Ç¸½½ü,Ò»¿éÑ©µØÉÏ[m
+[09:06:10] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:06:17] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:06:30] [Server thread/INFO]: Twilight2033 >> ÒÑ¾­Àë¿ªº£¾§ÁËÂğ[m
+[09:06:42] [Server thread/INFO]: xf998 >> ¶Ô[m
+[09:06:48] [Server thread/WARN]: xf998 moved too quickly! 756.8950251983507,23.945106652967926,1879.6690619374906
+[09:10:05] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[09:10:23] [Server thread/INFO]: xf998 issued server command: /qd
+[09:10:23] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mxf998 [0;33;22mÄ¿Ç°ÓĞ [0;32;1m33 [0;33;22m¹±Ï×µãÊı[m
+[09:10:23] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:11:04] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:11:13] [Server thread/INFO]: Twilight2033 >> Å¶ÕÒµ½Äã¼ÒÁË[m
+[09:11:25] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:11:34] [Server thread/INFO]: xf998 >> ÊÇ²»ÊÇÓĞÒ»Æ¬ÖñÁÖ[m
+[09:11:39] [Server thread/INFO]: Twilight2033 >> ¶Ô[m
+[09:11:41] [Server thread/INFO]: Twilight2033 >> ÈËÉµÁË[m
+[09:12:00] [Server thread/INFO]: xf998 has made the advancement [What a Deal!]
+[09:12:20] [Server thread/INFO]: Twilight2033 >> Äã¶à°ëÔÚºÓÍå[m
+[09:12:41] [Server thread/INFO]: xf998 >> ÆäÊµÔÚº£¾§[m
+[09:12:46] [Server thread/INFO]: Twilight2033 >> awa[m
+[09:12:59] [Server thread/INFO]: xf998 >> ÕıÔÚ»»¶«Î÷[m
+[09:13:20] [Server thread/INFO]: Twilight2033 >> Ä©µØÃ²ËÆÓĞ¸ö¸üÍêÉÆµÄ¹ÇÕÛ»ú[m
+[09:13:26] [Server thread/INFO]: Twilight2033 >> ²»ÖªµÀ×öÃ»×öºÃ[m
+[09:13:47] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:14:07] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:15:47] [Server thread/INFO]: Twilight2033 >> Äã¶¼Îå¿éºÏ½ğ¶§ÁË[m
+[09:15:54] [Server thread/INFO]: Twilight2033 >> Õ¦»¹½ğ¼×[m
+[09:16:04] [Server thread/INFO]: Twilight2033 >> ÎÔ²Û¿ì×ßÎÒ²»ÏëÆ£ÀÍ[m
+[09:16:07] [Server thread/INFO]: Twilight2033 >> ËãÁË[m
+[09:16:12] [Server thread/INFO]: Twilight2033 >> ÍíÁË[m
+[09:16:16] [Server thread/INFO]: xf998 >> ÎÒÃ»Ôì¼×[m
+[09:16:28] [Server thread/INFO]: Twilight2033 >> awa[m
+[09:16:41] [Server thread/INFO]: Twilight2033 >> Äã¼ÒµØÓüÃÅ»¹ÊÇÔôÈİÒ×´íÎ»ÄÇ¸ö[m
+[09:16:55] [Server thread/INFO]: Twilight2033 >> ´íµ½ÄÇ¸öº©ÅúÖíÈËËş[m
+[09:18:31] [Server thread/INFO]: Twilight2033 >> awa[m
+[09:18:42] [Server thread/INFO]: xf998 >> ÎÒ¶¼²»ÖªµÀÕâÃ´Ô¶ÊÇÔõÃ´Á¬ÉÏµÄ[m
+[09:18:51] [Server thread/INFO]: Twilight2033 >> °¡[m
+[09:18:56] [Server thread/INFO]: Twilight2033 >> ËãÔÚ8[m
+[09:19:06] [Server thread/INFO]: Twilight2033 >> ËãÔÚ8X¾àÀëÄÚ[m
+[09:20:21] [Server thread/INFO]: Twilight2033 >> ÄãÔÚÏÂ½ìµÄµØÓüÃÅ¿ÉÄÜÒª·ÅÔÚ2 -- 77 µÄÎ»ÖÃ[m
+[09:20:36] [Server thread/INFO]: Twilight2033 >> ÄÇÀï²ÅËãÖ±´ïÄã¼Ò[m
+[09:21:01] [Server thread/INFO]: Twilight2033 >> »òÕßÄã¿ÉÒÔ°ÑÖíÈËËş¸øawa[m
+[09:21:07] [Server thread/INFO]: Twilight2033 >> ·´Õı·ÏÁË[m
+[09:23:52] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:24:56] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:29:23] [Server thread/WARN]: Boat (vehicle of Twilight2033) moved wrongly! 0.29263435062762255
+[09:29:23] [Server thread/WARN]: Boat (vehicle of Twilight2033) moved wrongly! 0.6551099184606528
+[09:29:23] [Server thread/WARN]: Boat (vehicle of Twilight2033) moved wrongly! 0.4388445420250946
+[09:29:23] [Server thread/WARN]: Boat (vehicle of Twilight2033) moved wrongly! 0.9610582704884791
+[09:33:00] [Server thread/INFO]: xf998 lost connection: Disconnected
+[09:33:00] [Server thread/INFO]: xf998 left the game
+[09:33:23] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:35:34] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:44:33] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:44:43] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[09:58:38] [Server thread/INFO]: Twilight2033 issued server command: /px mod
+[09:58:46] [Server thread/INFO]: Twilight2033 issued server command: /p mod
+[09:58:50] [Server thread/INFO]: Twilight2033 issued server command: /p
+[09:59:03] [Server thread/INFO]: Twilight2033 issued server command: /px Twilight2033 mod
+[09:59:56] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[09:59:56] [Server thread/INFO]: Twilight2033 left the game
+[09:59:59] [User Authenticator #15/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[09:59:59] [Server thread/INFO]: Twilight2033[/127.0.0.1:61981] logged in with entity id 421442 at ([world]7027.394858772958, 54.889116171492, -548.5062793627283)
+[10:00:12] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[10:00:12] [Server thread/INFO]: Twilight2033 left the game
+[10:10:10] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[10:17:26] [User Authenticator #16/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[10:17:26] [Server thread/INFO]: Ghost_king_[/127.0.0.1:62052] logged in with entity id 421603 at ([world]2665.568383364301, 74.0, -377.587018196252)
+[10:20:26] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[10:20:53] [Server thread/INFO]: Ghost_king_ issued server command: /co l 2
+[10:21:13] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[10:49:01] [User Authenticator #17/INFO]: UUID of player Tatsu999999 is 6f70eec2-2625-49ee-bcff-603ab702a4ae
+[10:49:01] [Server thread/INFO]: Tatsu999999[/127.0.0.1:62174] logged in with entity id 424841 at ([world]-2052.5, 64.0, 55.5)
+[10:49:17] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ĞÂÄêºÃ£¨[m
+[10:49:24] [Server thread/INFO]: Tatsu999999 >> ĞÂÄêºÃ°¡[m
+[10:52:23] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:4,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:0,height_rand_a:2,trunk_top_offset:0,max_water_depth:0,foliage_placer:{type:"minecraft:blob_foliage_placer",radius:2,radius_random:0},ignore_vines:1b}}]
+[10:52:23] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{type:"minecraft:plain_flower_provider"},whitelist:[],can_replace:0b}}]
+[10:52:23] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{type:"minecraft:plain_flower_provider"},whitelist:[],can_replace:0b}}]
+[10:52:23] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:4,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:0,height_rand_a:2,trunk_top_offset:0,max_water_depth:0,foliage_placer:{type:"minecraft:blob_foliage_placer",radius:2,radius_random:0},ignore_vines:1b}}]
+[10:52:23] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[10:52:23] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{type:"minecraft:plain_flower_provider"},whitelist:[],can_replace:0b}}]
+[10:52:23] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[10:52:23] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[11:02:41] [Server thread/WARN]: Tatsu999999 moved wrongly!
+[11:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[11:13:10] [Server thread/INFO]: Villager EntityVillager['Villager'/426650, l='ServerLevel[world]', x=2774.59, y=63.85, z=-422.62] died, message: 'Villager suffocated in a wall'
+[11:18:27] [Server thread/INFO]: Villager EntityVillager['Villager'/429179, l='ServerLevel[world]', x=2774.66, y=63.86, z=-422.45] died, message: 'Villager suffocated in a wall'
+[11:20:56] [Server thread/INFO]: Villager EntityVillager['Villager'/422806, l='ServerLevel[world]', x=2775.86, y=63.59, z=-423.33] died, message: 'Villager was squished too much'
+[11:23:32] [Server thread/INFO]: Ghost_king_ issued server command: /qd
+[11:23:33] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[11:23:33] [Server thread/INFO]: Ghost_king_ left the game
+[11:23:50] [Server thread/INFO]: Tatsu999999 lost connection: Disconnected
+[11:23:50] [Server thread/INFO]: Tatsu999999 left the game
+[11:37:26] [User Authenticator #18/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[11:37:26] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:62354] logged in with entity id 465569 at ([world]5121.660425972842, 84.0, -1061.2970919679476)
+[11:37:27] [User Authenticator #19/INFO]: UUID of player Demon_yhy_ is 4f93a6ea-07a0-4a2d-b426-e3f66f4130f7
+[11:37:27] [Server thread/INFO]: Demon_yhy_[/127.0.0.1:62357] logged in with entity id 465791 at ([world]-217.65589272652292, 117.0, -448.4243834274809)
+[11:40:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[12:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[12:10:16] [Server thread/INFO]: YuHuaQingZhu issued server command: /qd
+[12:10:16] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mYuHuaQingZhu [0;33;22mÄ¿Ç°ÓĞ [0;32;1m41 [0;33;22m¹±Ï×µãÊı[m
+[12:24:57] [User Authenticator #20/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[12:24:57] [Server thread/INFO]: Twilight2033[/127.0.0.1:62539] logged in with entity id 482561 at ([world]7017.758106152027, 46.387394771882136, -559.2881417248763)
+[12:25:21] [Server thread/INFO]: Demon_yhy_ >> Tw×Ï¾§»¹ÓĞÈËÂï[m
+[12:25:31] [Server thread/INFO]: Twilight2033 >> YuHuaQingZhu[m
+[12:25:43] [Server thread/INFO]: Twilight2033 >> ³£À´¾ÍËû[m
+[12:25:52] [Server thread/INFO]: Twilight2033 >> ÄãÊÇÄÄ¸öÕòµÄÀ´×Å[m
+[12:25:54] [User Authenticator #21/INFO]: UUID of player ARocket07 is 30a40d55-5d0f-4243-9ea6-2bc251694632
+[12:25:54] [Server thread/INFO]: ARocket07[/127.0.0.1:62546] logged in with entity id 482852 at ([world_nether]188.6355456979964, 115.0625, 106.58596084766421)
+[12:25:59] [Server thread/INFO]: Twilight2033 >> Demon_yhy_[m
+[12:26:10] [Server thread/INFO]: Demon_yhy_ >> ¹²Õò[m
+[12:26:58] [Server thread/INFO]: Twilight2033 >> Ö÷ÒªÊÇÔ­Õò³¤×Ô¼º¿ª·şÈ¥ÁËÊÇÎÒÃ»Ïëµ½µÄ[m
+[12:27:17] [Server thread/INFO]: Demon_yhy_ >> Ò»·«·çË³?[m
+[12:27:18] [Server thread/INFO]: ARocket07 >> Îßºş[m
+[12:27:20] [Server thread/INFO]: Twilight2033 >> en[m
+[12:27:27] [Server thread/INFO]: Villager EntityVillager['Villager'/481156, l='ServerLevel[world]', x=5263.30, y=73.19, z=299.30] died, message: 'Villager was squished too much'
+[12:27:29] [Server thread/INFO]: ARocket07 >> ÎÒÓÖÀ´ÁË[m
+[12:27:31] [Server thread/INFO]: Demon_yhy_ >> ¿ªÁË¸öÉ¶[m
+[12:27:38] [Server thread/INFO]: Twilight2033 >> ÉñÆæ±¦±´[m
+[12:28:00] [Server thread/INFO]: Twilight2033 >> ÎÒÃ»ÍæÏÂÈ¥[m
+[12:28:02] [Server thread/INFO]: Twilight2033 >> ²»Ï°¹ß[m
+[12:28:10] [Server thread/INFO]: Twilight2033 >> »¹ÊÇÏ°¹ßÔ­°æ[m
+[12:28:21] [Server thread/INFO]: Demon_yhy_ >> °¥[m
+[12:28:39] [Server thread/INFO]: Demon_yhy_ >> ÈË¶¼Ã»ÒÔÇ°¶àÁË[m
+[12:28:56] [Server thread/INFO]: Twilight2033 >> Ò²²»ÄÜÄÇÃ´Ëµ[m
+[12:29:17] [Server thread/INFO]: Demon_yhy_ >> °¡?[m
+[12:29:19] [Server thread/INFO]: Twilight2033 >> ÆäÊµ¹Ì¶¨ÓĞÄÇÃ´¶àÈË¾Í¹»ÁË[m
+[12:29:37] [Server thread/INFO]: Twilight2033 >> ÄÜÍæÒ»¹»Ò»Äê»¹ÔÚÕâµÄ[m
+[12:29:41] [Server thread/INFO]: Twilight2033 >> ËãÌúÁË[m
+[12:29:49] [Server thread/INFO]: ARocket07 has reached the goal [Sky's the Limit]
+[12:29:53] [Server thread/INFO]: Demon_yhy_ >> Ò²ÊÇ[m
+[12:29:53] [Server thread/INFO]: ARocket07 >> ÃîÔÕ[m
+[12:29:55] [Server thread/INFO]: Twilight2033 >> Ò»¶ÑÊìÈËÍæµÃ²ÅË¬[m
+[12:30:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[12:30:14] [Server thread/INFO]: Twilight2033 >> ·´ÕıÏÖÔÚ¸÷¸öÕò×Ó¶¼×ßµÃ²î²»¶àÁË[m
+[12:30:15] [Server thread/INFO]: ARocket07 >> ÎÒÈ¥·¢ºÏ½ğ°¡[m
+[12:30:25] [Server thread/INFO]: ARocket07 >> ÄÄ¸ö´óÀĞÕâÃ´ÍÁºÀ[m
+[12:30:29] [Server thread/INFO]: Twilight2033 >> ÆäÊµºÏ²¢Ò²¿ìÁË[m
+[12:30:36] [Server thread/INFO]: Twilight2033 >> Äã¾Í±ğ·¢ÁË°É[m
+[12:30:41] [Server thread/INFO]: Twilight2033 >> É­ÂÃµÄ[m
+[12:30:51] [Server thread/INFO]: ARocket07 >> Å£[m
+[12:30:54] [Server thread/INFO]: Twilight2033 >> »¹ÊÇÈÃÈË×Ô¸öÁìÁËºÃ[m
+[12:31:02] [Server thread/INFO]: Demon_yhy_ >> ĞÂÄê¸£Àû°É[m
+[12:31:14] [Server thread/INFO]: Twilight2033 >> Õâ¸öÃ²ËÆ»¹Ö»ÊÇËûÃÇËùÓĞ×Ê²úµÄ±ùÉ½Ò»½Ç[m
+[12:31:37] [Server thread/INFO]: Twilight2033 >> ÉµÁË[m
+[12:31:39] [Server thread/INFO]: ARocket07 >> ´óÀĞºÀÆø[m
+[12:31:50] [Server thread/INFO]: Twilight2033 >> ÎÒÓĞµãÏë°ÑÄÇÌõÏÌÓãÉ±ÁË[m
+[12:31:50] [Server thread/INFO]: Demon_yhy_ >> Õæ¾Í°ÑÉú´æÍæ³É´´ÔìßÂ[m
+[12:31:58] [Server thread/INFO]: Twilight2033 >> ¶Ô°¡233[m
+[12:32:04] [Server thread/INFO]: ARocket07 >> »ØÍ·ÎÒ¾ÍµÃ¸Î¼«Æ·ºÏ½ğÌ×[m
+[12:32:20] [Server thread/INFO]: Twilight2033 >> ÅªµÃÎÒÈ¥ÕÒ²Ğº¡ÒªÈ¥ºÃÔ¶[m
+[12:32:22] [Server thread/INFO]: ARocket07 >> ²»¹ıÄê¹ıÍêÔÙËµ°É£¬¹ıÄêÆÚ¼äÎÒ°ÖÂèÔÚ¼Ò£¬ÉÏÏßÊ±¼äÉÙ[m
+[12:33:02] [Server thread/INFO]: Demon_yhy_ >> Ö±½ÓÈ¥º£¾§ÁìÁ©¿é²»¾ÍĞĞÁË[m
+[12:33:11] [Server thread/INFO]: ARocket07 >> £¿[m
+[12:33:21] [Server thread/INFO]: ARocket07 >> ºÏ½ğÓĞÁË£¬Ã»×êÊ¯°¡¡£¡£¡£[m
+[12:33:29] [Server thread/INFO]: Demon_yhy_ >> ???[m
+[12:33:32] [Server thread/INFO]: Twilight2033 >> ²»»á°É²»»á»¹ÓĞÈËÃ»×êÊ¯°É233[m
+[12:33:39] [Server thread/INFO]: ARocket07 >> ¾ªÏ²°É£¬ÒâÍâ°É[m
+[12:33:51] [Server thread/INFO]: ARocket07 >> ÏÈÓĞºÏ½ğÔÙÓĞ×êÊ¯[m
+[12:33:57] [Server thread/INFO]: ARocket07 >> ·şÎñÆ÷ĞÂÈËÏÖ×´[m
+[12:34:08] [Server thread/INFO]: ARocket07 >> ´óÀĞÒÔÎªÎÒÃÇÖ»È±ºÏ½ğ£¨¹·Í·[m
+[12:34:19] [Server thread/INFO]: Twilight2033 >> ÎÒµ±³õ±»yffsÍÚÈ¥Ê±ºòË³±ã±ä¸»[m
+[12:34:27] [Server thread/INFO]: Demon_yhy_ >> ÎÒÏÖÔÚÖ»ÓĞ°ë×é×ê¿éÁË[m
+[12:34:43] [Server thread/INFO]: Twilight2033 >> È«Ì×ÂúÅä×êÊ¯È«Ì×¼ÓÇÊ³áÒ»ÌõÁú[m
+[12:34:50] [Server thread/INFO]: Twilight2033 >> ÈËÉµÁË[m
+[12:34:51] [Server thread/INFO]: ARocket07 >> Å£[m
+[12:35:04] [Server thread/INFO]: Twilight2033 >> ÕâÖ®Ç°Ò»¸öÔÂ¶¼ÊÇÌÓ»Ä×´Ì¬[m
+[12:35:21] [Server thread/INFO]: Twilight2033 >> Å¶²»È¥ÁíÒ»¸ö·şµ±opÁË[m
+[12:35:44] [Server thread/INFO]: Twilight2033 >> Demon_yhy_ÄãÕ¦´òËã[m
+[12:35:58] [Server thread/INFO]: ARocket07 >> »ØÍ·×êÊ¯ÒªÃ´ÕÒ´óÀĞ°×æÎµã£¬ÒªÃ´»¹ÊÇ×Ô¼º¶¯ÊÖ[m
+[12:36:05] [Server thread/INFO]: Twilight2033 >> ÉÏÀ´¿´¿´»¹ÊÇÕñĞË¾É¹²ÕòµØÖ·[m
+[12:36:06] [Server thread/INFO]: ARocket07 >> ²»¹ÜÔõÃ´Ëµ[m
+[12:36:10] [Server thread/INFO]: Twilight2033 >> »¹ÊÇÕÒÄºÔÆ[m
+[12:36:17] [Server thread/INFO]: Demon_yhy_ >> ¹²Õò×ßÁËÍ¦¶àÈË[m
+[12:36:28] [Server thread/INFO]: Twilight2033 >> »ù±¾¹²ÕòÈËÈ«ÔÚÇ³ÔÆ[m
+[12:36:31] [Server thread/INFO]: Demon_yhy_ >> ¸´ĞËÎÒÒ»¸ö¹À¼ÆÒ²²»ĞĞ[m
+[12:36:37] [Server thread/INFO]: ARocket07 >> ÏÈÏÂÁË[m
+[12:36:41] [Server thread/INFO]: ARocket07 lost connection: Disconnected
+[12:36:41] [Server thread/INFO]: ARocket07 left the game
+[12:36:42] [Server thread/INFO]: Twilight2033 >> awa[m
+[12:37:08] [Server thread/INFO]: Demon_yhy_ >> ±¾À´Ïë×ÅÈ¥ÕÒÕÒÆäËûÕòµÄÍ¶¿¿Ò»ÏÂ[m
+[12:37:14] [Server thread/INFO]: Twilight2033 >> Ô­À´Äã¹äµ½×Ï¾§ÁË[m
+[12:37:15] [Server thread/INFO]: Twilight2033 >> awa[m
+[12:37:23] [Server thread/INFO]: Demon_yhy_ >> hh[m
+[12:37:49] [Server thread/INFO]: Twilight2033 >> ×Ï¾§Ì«ÇîÁË²»ºÃÒâË¼ÕÒÈËÁË[m
+[12:37:59] [Server thread/INFO]: Twilight2033 >> »°ËµÄãÒª²»ÒªÀ´ÎÒ¼Ò¿´¿´[m
+[12:38:05] [Server thread/INFO]: Demon_yhy_ >> ºÃ°¡[m
+[12:38:33] [Server thread/INFO]: Twilight2033 >> ÓĞÕ³Òº¿é[m
+[12:38:38] [Server thread/INFO]: Twilight2033 >> Ö±½ÓÌø[m
+[12:39:00] [Server thread/INFO]: Demon_yhy_ >> ÎÔ²ÛºÃ¿ì[m
+[12:39:41] [Server thread/INFO]: Twilight2033 >> Ò²Ëã¸öÔçÆÚ×Ï¾§°É[m
+[12:40:03] [Server thread/INFO]: Twilight2033 >> Ä¿Ç°Ö÷Òª¶¼ÊÇÔÚÕâ±ßËş·¢Õ¹[m
+[12:40:15] [Server thread/INFO]: Twilight2033 >> Ö÷µº»¹Ã»¿ªÊ¼ÉîÈë¿ª·¢[m
+[12:40:56] [Server thread/INFO]: Twilight2033 >> ×Ï¾§Ò²ÓĞºÜ¶à¿Õ½¨Öş[m
+[12:41:06] [Server thread/INFO]: Demon_yhy_ >> ÄãÒ»¸öÈËÔìµÄÕâĞ©[m
+[12:41:10] [Server thread/INFO]: Twilight2033 >> Äã²»ÏÓ¼òÂªÒ²¿ÉÒÔÕ¼×Å[m
+[12:41:11] [Server thread/INFO]: Twilight2033 >> àÅ[m
+[12:41:14] [Server thread/INFO]: Demon_yhy_ >> ÎÔ²Û[m
+[12:41:34] [Server thread/INFO]: Demon_yhy_ >> nb[m
+[12:41:34] [Server thread/INFO]: Twilight2033 >> Ä¿Ç°ÔÚÅªÕâ¸öÊ÷³¡[m
+[12:41:39] [Server thread/INFO]: YuHuaQingZhu >> Ò²¿ÉÒÔÀ´¿´¿´ÎÒµÄµ¥ÈËÉú´æ´æµµ£¨»¬»ü[m
+[12:41:47] [Server thread/INFO]: Twilight2033 >> ¸Õ¸Õ±»À×ÅüÁË[m
+[12:41:53] [Server thread/INFO]: Twilight2033 >> ÉÕÁËÒ»°ë2333[m
+[12:42:14] [Server thread/INFO]: Demon_yhy_ >> ÄãÊÇ²»ÊÇ³öÈ¥Õ´»¨ÈÇ²İÁË[m
+[12:42:20] [Server thread/INFO]: Demon_yhy_ >> awa[m
+[12:42:26] [Server thread/INFO]: Twilight2033 >> no°¡ÎÒ²»ÖªµÀ°¡[m
+[12:42:43] [Server thread/INFO]: Twilight2033 >> ÎÒ¶¼ÔÚ¼ÒÀï°ë²½²»³ö[m
+[12:42:49] [Server thread/INFO]: Demon_yhy_ >> hhhhh[m
+[12:43:03] [Server thread/INFO]: YuHuaQingZhu >> qaq[m
+[12:43:03] [Server thread/INFO]: Twilight2033 >> ÆäÊµÏÖÔÚÁôÔÚÄÄ¸ö¸öÕòÒÑ¾­Ã»Çø±ğÁË[m
+[12:43:09] [Server thread/INFO]: Twilight2033 >> awa[m
+[12:43:20] [Server thread/INFO]: Demon_yhy_ >> ÎÒÈ¥¿´¿´·¿×Ó[m
+[12:44:13] [Server thread/WARN]: Boat (vehicle of Demon_yhy_) moved wrongly! 4.4170132931121415
+[12:44:13] [Server thread/WARN]: Boat (vehicle of Demon_yhy_) moved wrongly! 4.4170132931121415
+[12:44:22] [Server thread/INFO]: Demon_yhy_ >> ÕâÉ¶±ùºÃ¿ì[m
+[12:44:34] [Server thread/INFO]: Twilight2033 >> °¡Õâ²»Õı³£²Ù×÷Âğ[m
+[12:44:37] [Server thread/INFO]: Twilight2033 >> ´¬±ù[m
+[12:45:50] [Server thread/INFO]: Twilight2033 >> Õâge[m
+[12:46:04] [Server thread/INFO]: Twilight2033 >> ËÀÓÚÃ»Õı°æ[m
+[12:46:16] [Server thread/INFO]: Demon_yhy_ >> °¥[m
+[12:46:40] [Server thread/INFO]: Demon_yhy_ >> ÏëÆğÎÒµÄ×°±¸¾ÍĞÄÌÛ[m
+[12:46:46] [Server thread/INFO]: Twilight2033 >> Äã×°±¸ÄØ[m
+[12:47:09] [Server thread/INFO]: Demon_yhy_ >> »»Õı°æºÅ¸½Ä§¹ıµÄ¶¼Ã»ÁË[m
+[12:47:12] [Server thread/INFO]: Twilight2033 >> °¡[m
+[12:47:26] [Server thread/INFO]: Demon_yhy_ >> ÇÊ³áÒ²Ã»¸øÎÒ[m
+[12:47:39] [Server thread/INFO]: Twilight2033 >> ²»¸ø»¹Âğ[m
+[12:47:53] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[12:47:57] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[12:48:08] [Server thread/INFO]: Twilight2033 >> Õ¦Ñù[m
+[12:48:20] [Server thread/INFO]: Twilight2033 >> ÄãÏë²»ÓÃÁôÕâ×¡×Å¿©[m
+[12:48:24] [Server thread/INFO]: Demon_yhy_ >> ÎÒ¾õµÃÎÒ×¡ÕâÌ«´óÁË[m
+[12:48:31] [Server thread/INFO]: Twilight2033 >> ´óÕÉ·ò[m
+[12:48:40] [Server thread/INFO]: Twilight2033 >> ÏÖÔÚ×Ï¾§ÀÍ×ÊËµÁËËã[m
+[12:49:14] [Server thread/INFO]: Demon_yhy_ >> ÎÔ²Û[m
+[12:49:25] [Server thread/INFO]: Demon_yhy_ >> ÕâÃ´ºÀºá[m
+[12:49:39] [Server thread/INFO]: Twilight2033 >> ÄãÁôµÄ»°ÎÒ¿Ï¶¨ºÀºá[m
+[12:49:41] [User Authenticator #22/INFO]: UUID of player Tatsu999999 is 6f70eec2-2625-49ee-bcff-603ab702a4ae
+[12:49:41] [Server thread/INFO]: Tatsu999999[/127.0.0.1:62645] logged in with entity id 488546 at ([world_nether]-48.77646259710083, 115.0, -8.627892541563062)
+[12:49:55] [Server thread/INFO]: Demon_yhy_ >> Áô°¡[m
+[12:50:03] [Server thread/INFO]: Twilight2033 >> ×î½ü´òËãÈ¥ÌËÄ©µØ[m
+[12:50:07] [Server thread/INFO]: Twilight2033 >> ¿´Ê±¼ä[m
+[12:50:13] [Server thread/INFO]: Twilight2033 >> YuHuaQingZhu[m
+[12:50:25] [Server thread/INFO]: Twilight2033 >> ¿¼ÂÇÔÙÈ¥Ò»ÌËÂğ[m
+[12:50:36] [Server thread/INFO]: Twilight2033 >> Ê÷³¡±»ÎÒÕ¨ÁË[m
+[12:50:38] [Server thread/INFO]: Demon_yhy_ >> ÎÒÏÖÔÚËùÓĞ²Æ²ú[m
+[12:50:50] [Server thread/INFO]: YuHuaQingZhu >> ÒÂ¿ã×ß[m
+[12:51:16] [Server thread/INFO]: Twilight2033 >> ÀïÃæÇåÇå°É[m
+[12:51:21] [Server thread/INFO]: Twilight2033 >> ËÍÄãÁËºĞ×Ó[m
+[12:51:32] [Server thread/INFO]: Demon_yhy_ >> àÅ[m
+[12:52:22] [Server thread/INFO]: Twilight2033 >> Demon_yhy_×Ï¾§Ö÷ÕòÄãÒ²¿ÉÒÔ¿´×ÅĞÄÇéÈ¥¸Ä¸Ä[m
+[12:52:35] [Server thread/INFO]: Demon_yhy_ >> àÅ[m
+[12:52:38] [Server thread/INFO]: Twilight2033 >> ¶ÔÁËÖíÈËËşºÍÓãËşÎÒ²»ÓÃÖØ¸´½éÉÜÁË°É[m
+[12:52:46] [Server thread/INFO]: Twilight2033 >> ÄãÓ¦¸ÃÖªµÀÔÚÄÄ[m
+[12:52:57] [Server thread/INFO]: Twilight2033 >> YuHuaQingZhu×ß£¿[m
+[12:52:59] [Server thread/INFO]: Demon_yhy_ >> ÓãËşÎÒ»¹Ã»È¥¹ıÚÀ[m
+[12:53:16] [Server thread/INFO]: Twilight2033 >> ·ÖÍ·ÕûÖ½ºÍ»ğÒ©ÈçºÎ[m
+[12:53:26] [Server thread/INFO]: Twilight2033 >> ÎÒ´øÄãÈ¥[m
+[12:53:32] [Server thread/INFO]: Twilight2033 >> ÃÅÕâÀï[m
+[12:53:44] [Server thread/INFO]: Demon_yhy_ >> ÎÒ¶«Î÷[m
+[12:55:10] [Server thread/INFO]: Twilight2033 >> ÓãËşÆäÊµ¾ÍÔÚ×Ï¾§Ë¢¹ÖËşÖĞ¼äÓĞ¸ö³ö¿Ú[m
+[12:55:10] [Server thread/INFO]: YuHuaQingZhu >> ÆäÊµ²»ÓÃ´øÌØ±ğ¶àÑÌ»¨»ğ¼ı[m
+[12:55:24] [Server thread/INFO]: Twilight2033 >> àÅqs[m
+[12:55:43] [Server thread/INFO]: Twilight2033 >> Ö÷ÒªÊÇÇå¿ÕÏä×ÓºÍÄ©Ó°ÏäºÃ×ÔÉ±[m
+[12:56:03] [Server thread/INFO]: YuHuaQingZhu >> ²»ÊÇÓĞ·µ»Ø´«ËÍÃÅÂğ[m
+[12:56:07] [Server thread/INFO]: Demon_yhy_ >> ËãÁËÎÒ¿´ÄãÒ²ÓĞµãÃ¦[m
+[12:56:11] [Server thread/INFO]: Twilight2033 >> Demon_yhy_»¹ÓĞÒ»¼şÊÂÄã¼ÒÅÔ±ß[m
+[12:56:16] [Server thread/INFO]: Twilight2033 >> ÓĞ¸ö²ËÌï[m
+[12:56:24] [Server thread/INFO]: Demon_yhy_ >> ÓãËşÎÒÒ²ÓÃ²»µ½[m
+[12:56:27] [Server thread/INFO]: Twilight2033 >> ²ËÌïÅÔ±ßÓĞ¹¤×÷Ì¨[m
+[12:56:37] [Server thread/INFO]: Twilight2033 >> ÎÒÍüÁËÊÇÄÄ¸öÁË[m
+[12:56:41] [Server thread/INFO]: Twilight2033 >> ÄãËæ±ãÍÚ¿ª[m
+[12:57:00] [Server thread/INFO]: Twilight2033 >> ÄÇÀïÊÇÎÒµØÏÂÊÒ[m
+[12:57:03] [Server thread/INFO]: Demon_yhy_ >> Ã»¿´¼û°¡[m
+[12:58:10] [Server thread/INFO]: Twilight2033 >> Å¶¶ÔÄã¼ÒºóÃæÄÄ¸ö·¿×ÓÄãÒ²¿ÉÒÔæÎÁË[m
+[12:58:18] [Server thread/INFO]: Twilight2033 >> ÔçËûÄï¿´Ëû²»Ë¬ÁË[m
+[12:58:38] [Server thread/INFO]: Twilight2033 >> YuHuaQingZhuÄãÕû»ğÒ©»¹ÊÇÖ½[m
+[12:58:46] [Server thread/INFO]: Demon_yhy_ >> ¾ÍÏÂÕâ¸ö°¡[m
+[12:59:01] [Server thread/INFO]: YuHuaQingZhu >> ÄÇ¸ö¸ÊÕá»ú²»ÊÇ±»²ğÁËÂğ[m
+[12:59:11] [Server thread/INFO]: Twilight2033 >> Äã°ÑÇ±Ó°ºĞ¶ªÔÚµØÏÂ¾Í×ßÎÒ¿´µÃ¶¼ÅÂ[m
+[12:59:18] [Server thread/INFO]: Demon_yhy_ >> hhh[m
+[12:59:22] [Server thread/INFO]: Twilight2033 >> Ğ§ÂÊµÍ¶øÒÑ[m
+[12:59:24] [Server thread/INFO]: Twilight2033 >> awa[m
+[13:00:01] [Server thread/INFO]: Demon_yhy_ >> ÄãµØÏÂÊÒÔÚÄÄ´øÎÒÈ¥Âï[m
+[13:01:17] [Server thread/INFO]: Twilight2033 >> ±ğ¹ÜËûÃÇÁË[m
+[13:02:08] [Server thread/INFO]: Twilight2033 >> ¾Í¸ãÒ»°ë[m
+[13:02:18] [Server thread/INFO]: Twilight2033 >> ×ßÁË[m
+[13:02:21] [Server thread/INFO]: Demon_yhy_ >> àÅ[m
+[13:03:13] [Server thread/INFO]: Twilight2033 >> YuHuaQingZhuÎÒÃ²ËÆ·¢ÏÖÒ»¸ö»ªµã[m
+[13:03:39] [Server thread/INFO]: Twilight2033 >> °ÉµôÂäÎï¶ªÔÚÕ³Òº¿éÉÏÃ²ËÆ²»»á±»Ğ¶ÔØ[m
+[13:03:57] [Server thread/INFO]: YuHuaQingZhu >> ²İ[m
+[13:04:05] [Server thread/INFO]: Twilight2033 >> ²¢ÇÒ¶¯ÄÜÊØºã[m
+[13:04:43] [Server thread/INFO]: Twilight2033 >> YuHuaQingZhuÁ©×éÖ½½í¹»Âğ[m
+[13:04:56] [Server thread/INFO]: YuHuaQingZhu >> ÎÒÒ»×é»ğÒ©[m
+[13:05:02] [Server thread/INFO]: Twilight2033 >> ÎÒ»¹ÓĞÈı×é[m
+[13:05:14] [Server thread/INFO]: YuHuaQingZhu >> ÎÒÏĞÔÓ°®À´ÁË[m
+[13:05:19] [Server thread/INFO]: YuHuaQingZhu >> ÏÖÔÚ[m
+[13:06:18] [Server thread/INFO]: Tatsu999999 lost connection: Disconnected
+[13:06:18] [Server thread/INFO]: Tatsu999999 left the game
+[13:07:07] [Server thread/INFO]: YuHuaQingZhu >> where[m
+[13:09:02] [Server thread/INFO]: Twilight2033 >> ÎÒ¼Ò[m
+[13:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[13:10:23] [Server thread/INFO]: YuHuaQingZhu >> »°ËµµØÓüµÄÁ½ÖÖÊ÷ÔõÃ´ÖÖ[m
+[13:10:36] [Server thread/INFO]: Twilight2033 >> ÖÖÔÚµØÓü¾úË¿ÉÏ[m
+[13:10:44] [Server thread/INFO]: Demon_yhy_ >> ÎÒÏÂÁË[m
+[13:10:57] [Server thread/INFO]: Demon_yhy_ >> »á²»»áÓĞÈËÍµ¶«Î÷[m
+[13:10:57] [Server thread/INFO]: YuHuaQingZhu >> ¸øµãÊ÷Ãç£¿[m
+[13:11:07] [Server thread/INFO]: Twilight2033 >> co i[m
+[13:11:18] [Server thread/INFO]: Demon_yhy_ >> àÅ[m
+[13:11:22] [Server thread/INFO]: Demon_yhy_ lost connection: Disconnected
+[13:11:22] [Server thread/INFO]: Demon_yhy_ left the game
+[13:12:24] [Server thread/INFO]: Twilight2033 >> ÎÒĞèÒªÔÙÕûµã[m
+[13:12:32] [Server thread/INFO]: Twilight2033 >> ÎÒÈ¥ÌËº£¾§[m
+[13:13:54] [Server thread/INFO]: Twilight2033 >> ×ß°É[m
+[13:14:05] [Server thread/INFO]: Twilight2033 >> ¿Õ¼äÇåÀíºÃÁËÂğ[m
+[13:14:29] [Server thread/INFO]: YuHuaQingZhu >> en#[m
+[13:14:32] [Server thread/INFO]: Twilight2033 >> ×ß[m
+[13:15:25] [Server thread/INFO]: Twilight2033 >> Äãµ½ÄÄÁË[m
+[13:15:40] [Server thread/INFO]: YuHuaQingZhu >> ÔÚÄ©µØÁË[m
+[13:15:52] [Server thread/INFO]: Twilight2033 >> »°ËµÄãÕâÑÓ³Ù´ô¾Í²»Âğ[m
+[13:16:22] [Server thread/INFO]: YuHuaQingZhu >> ¸Ğ¾õ»¹ºÃ[m
+[13:16:37] [Server thread/INFO]: Twilight2033 >> È±³ÔµÄÂğ[m
+[13:16:41] [Server thread/INFO]: YuHuaQingZhu >> no[m
+[13:17:49] [Server thread/INFO]: Twilight2033 >> À´ÁË[m
+[13:18:50] [Server thread/INFO]: Twilight2033 >> Äã´øÂ·°É[m
+[13:18:54] [Server thread/INFO]: YuHuaQingZhu >> Ğ¡ºÚËşÔÚÄÄ[m
+[13:21:10] [Server thread/INFO]: YuHuaQingZhu >> zou[m
+[13:21:18] [Server thread/INFO]: Twilight2033 >> ÆäÊµ[m
+[13:21:32] [Server thread/INFO]: Twilight2033 >> ÕâÌõ±ùµºÒ»Ö±×ß¾ÍÊÇawa[m
+[13:21:48] [Server thread/INFO]: YuHuaQingZhu >> ²»ÊÇÕÒÃ»È¥¹ıµÄµØ·½Âğ[m
+[13:21:53] [Server thread/INFO]: Twilight2033 >> àÅ[m
+[13:21:55] [Server thread/INFO]: Twilight2033 >> ×ß°É[m
+[13:21:59] [Server thread/INFO]: YuHuaQingZhu >> ÎÒÏëÑØ35·½Ïò[m
+[13:22:06] [Server thread/INFO]: YuHuaQingZhu >> ¿ªF3[m
+[13:22:06] [Server thread/INFO]: Twilight2033 >> ÎÒ¸ú×ÅÄã[m
+[13:23:45] [User Authenticator #23/INFO]: UUID of player Demon_yhy_ is 4f93a6ea-07a0-4a2d-b426-e3f66f4130f7
+[13:23:46] [Server thread/INFO]: Demon_yhy_[/127.0.0.1:62761] logged in with entity id 496829 at ([world]5147.394350322883, 67.0625, 250.1767471994657)
+[13:23:55] [Server thread/INFO]: Twilight2033 >> ÓïÒô[m
+[13:24:10] [Server thread/INFO]: Demon_yhy_ >> ĞÂÄê¿ìÀÖ[m
+[13:24:51] [Server thread/INFO]: Demon_yhy_ >> awa[m
+[13:25:12] [Server thread/INFO]: Demon_yhy_ >> ÏÂÁË[m
+[13:25:13] [Server thread/INFO]: Demon_yhy_ lost connection: Disconnected
+[13:25:13] [Server thread/INFO]: Demon_yhy_ left the game
+[13:28:56] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[13:29:02] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[14:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[14:16:56] [User Authenticator #24/INFO]: UUID of player Demon_yhy_ is 4f93a6ea-07a0-4a2d-b426-e3f66f4130f7
+[14:16:56] [Server thread/INFO]: Demon_yhy_[/127.0.0.1:62955] logged in with entity id 506222 at ([world]5150.396660159354, 67.0, 253.71827885762764)
+[14:18:14] [User Authenticator #25/INFO]: UUID of player miHoYo_FuHua is 5993cb85-5924-4e1d-b969-8e62a7b337d0
+[14:18:15] [Server thread/INFO]: miHoYo_FuHua[/127.0.0.1:62968] logged in with entity id 507111 at ([world]3040.762499988079, 63.0, 623.202898735282)
+[14:18:23] [Server thread/INFO]: Demon_yhy_ >> Demon_yhy_[m
+[14:18:27] [Server thread/INFO]: Demon_yhy_ >> ...[m
+[14:18:31] [Server thread/INFO]: Demon_yhy_ >> miHoYo_FuHua[m
+[14:19:02] [Server thread/INFO]: Demon_yhy_ >> Ğ¡²ÌÄãÔÚÄÄ[m
+[14:19:09] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> µØÓüÃÅ[m
+[14:19:14] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> Ö÷³ÇÄÇ±ß[m
+[14:20:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[14:21:32] [Server thread/INFO]: YuHuaQingZhu lost connection: Timed out
+[14:21:32] [Server thread/INFO]: YuHuaQingZhu left the game
+[14:21:32] [User Authenticator #26/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[14:21:32] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:62986] logged in with entity id 508237 at ([world_the_end]-15961.482286935643, 57.84319999694824, 21468.160547328214)
+[14:21:55] [Server thread/WARN]: YuHuaQingZhu moved too quickly! 69.08638078454715,-5.56470156684496,4.508421107457252
+[14:22:53] [Server thread/WARN]: YuHuaQingZhu moved too quickly! -27.393008239916526,13.693657091994723,50.054273960697174
+[14:23:16] [Server thread/INFO]: Demon_yhy_ >> ¶öËÀÁË[m
+[14:23:27] [Server thread/INFO]: Twilight2033 >> Äã¼ÒÅÔ±ßÓĞ¿¾¼¦»ú[m
+[14:23:28] [Server thread/INFO]: Demon_yhy_ >> ¿ì¸øµã³ÔµÄ[m
+[14:23:34] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[14:23:34] [Server thread/INFO]: YuHuaQingZhu left the game
+[14:23:40] [User Authenticator #27/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[14:23:41] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:62997] logged in with entity id 508957 at ([world_the_end]-16550.434525723544, 62.0, 22121.93062245602)
+[14:23:47] [Server thread/INFO]: Demon_yhy_ >> àÅ[m
+[14:23:58] [Server thread/INFO]: YuHuaQingZhu lost connection: Disconnected
+[14:23:58] [Server thread/INFO]: YuHuaQingZhu left the game
+[14:23:59] [Server thread/INFO]: Demon_yhy_ >> ÎÒÏÖÔÚÔÚÖ÷³ÇµØÓüÃÅ[m
+[14:24:12] [Server thread/INFO]: Twilight2033 >> ÔÚÄ©µØ[m
+[14:24:42] [Server thread/INFO]: Demon_yhy_ >> ¿ì¸øµã³ÔµÄ[m
+[14:24:51] [Server thread/INFO]: Twilight2033 >> awa[m
+[14:25:38] [Server thread/INFO]: Demon_yhy_ >> TwÓĞÑÌ»¨Âï[m
+[14:25:42] [Server thread/INFO]: Twilight2033 >> ÎŞ[m
+[14:25:45] [Server thread/INFO]: [0;32;1m<²ÔÀ¶ĞÇ>[0;37;1m miHoYo_FuHua >> ÎÒÓĞ[m
+[14:25:45] [Server thread/INFO]: Twilight2033 >> ¶¼ÔÚÉíÉÏ[m
+[14:26:06] [Server thread/INFO]: Demon_yhy_ >> Ğ»Ğ»[m
+[14:31:59] [Server thread/INFO]: miHoYo_FuHua lost connection: Disconnected
+[14:31:59] [Server thread/INFO]: miHoYo_FuHua left the game
+[14:32:32] [Server thread/INFO]: Twilight2033 >> awa[m
+[14:32:41] [Server thread/INFO]: Demon_yhy_ >> awa[m
+[14:32:51] [Server thread/INFO]: Twilight2033 >> ÓĞµã»Å[m
+[14:32:56] [Server thread/INFO]: Demon_yhy_ >> Õ¦ÁË[m
+[14:33:02] [Server thread/INFO]: Twilight2033 >> ¿ìÃ»»ğ¼ıÁË[m
+[14:33:22] [Server thread/INFO]: Demon_yhy_ >> ²»ĞĞ¾Í×ÔÉ±»ØÀ´Âï[m
+[14:41:49] [Server thread/INFO]: Demon_yhy_ >> Äãqq¶àÉÙÎÒ¼ÓÏÂÄã[m
+[14:42:02] [Server thread/INFO]: Twilight2033 >> ÈºÀïÕÒÕıÃ¦[m
+[14:42:07] [Server thread/INFO]: Demon_yhy_ >> ĞĞ°É[m
+[14:43:42] [User Authenticator #28/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[14:43:42] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:63088] logged in with entity id 513910 at ([world]1862.612734440483, 7.0, 259.3556551065549)
+[14:43:51] [Server thread/INFO]: Demon_yhy_ >> ÎÒÏÂÁË[m
+[14:43:54] [Server thread/INFO]: Twilight2033 >> o[m
+[14:44:01] [Server thread/INFO]: Demon_yhy_ >> °×°×[m
+[14:44:04] [Server thread/INFO]: Twilight2033 >> bye[m
+[14:44:06] [Server thread/INFO]: Demon_yhy_ lost connection: Disconnected
+[14:44:06] [Server thread/INFO]: Demon_yhy_ left the game
+[14:46:26] [Server thread/INFO]: There are 2 of a max of 50 players online: Twilight2033, Ttu_nnm
+[14:48:16] [User Authenticator #29/INFO]: UUID of player gendieyiyang is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[14:48:16] [Server thread/INFO]: gendieyiyang[/127.0.0.1:63116] logged in with entity id 515859 at ([world_nether]-8.549278102986568, 115.0, 23.064049466422528)
+[14:49:47] [Server thread/INFO]: gendieyiyang >> 2033 ×î½ü·şÀïÀ´ĞÂÈËÁËÂğ[m
+[14:49:58] [Server thread/INFO]: Twilight2033 >> ²»ÉÙ[m
+[14:50:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[14:50:43] [Server thread/INFO]: gendieyiyang >> ÍÛÎØ »ù±¾ÉÏ¶¼ÓĞË­°¡[m
+[14:51:57] [Server thread/INFO]: Twilight2033 >> ÎÒÔõÃ´¼ÇµÃ[m
+[14:52:02] [Server thread/INFO]: gendieyiyang >> ºÃ°É[m
+[14:52:23] [Server thread/INFO]: gendieyiyang >> ÄÇÕâ¸öTtuÊÇĞÂÈË»¹ÊÇ»Ø¹éµÄ[m
+[14:52:34] [Server thread/INFO]: gendieyiyang >> Ttu_nnm[m
+[14:52:34] [Server thread/INFO]: Twilight2033 >> Ò»Ö±¶¼ÔÚ[m
+[14:52:39] [Server thread/INFO]: gendieyiyang >> Å¶Å¶[m
+[14:54:24] [Server thread/WARN]: gendieyiyang moved too quickly! 9.99783526602323,-0.5522820277777214,-7.367766293671423
+[14:54:36] [Server thread/WARN]: gendieyiyang moved too quickly! 0.0,23.64500042897454,0.0
+[14:54:51] [Server thread/INFO]: Twilight2033 >> Ó´Î÷²»ÓÃËÀÁË[m
+[14:54:56] [Server thread/INFO]: gendieyiyang >> ?[m
+[14:56:07] [User Authenticator #30/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[14:56:07] [Server thread/INFO]: anew_tape[/127.0.0.1:63144] logged in with entity id 518183 at ([world]-160.21640806017058, 73.0, 96.37364555287327)
+[14:56:17] [Server thread/INFO]: Twilight2033 >> ¸ÕÔÚÄ©µØËÑ¹Î[m
+[14:56:23] [Server thread/INFO]: gendieyiyang >> tapeĞ¡ºÅ£¿[m
+[14:56:32] [Server thread/INFO]: Twilight2033 >> Ã»»ğ¼ı¸ÕºÃ¾ÍÓĞ¸öÕÛÔ¾ÃÅ[m
+[14:56:33] [Server thread/INFO]: Twilight2033 >> ²»ÉÙ[m
+[14:56:38] [Server thread/INFO]: Twilight2033 >> ²»ÊÇ[m
+[14:56:41] [Server thread/INFO]: Twilight2033 >> Ëû¸ÄÃûÁË[m
+[14:56:42] [Server thread/INFO]: gendieyiyang >> Å¶[m
+[14:56:48] [Server thread/INFO]: gendieyiyang >> °¥[m
+[14:56:52] [Server thread/INFO]: gendieyiyang >> ÎÒÌ«ÄÑÁË[m
+[14:57:01] [Server thread/INFO]: gendieyiyang >> ÔÚº£¾§Ë¢ÁËÕâÃ´¶àÌì[m
+[14:57:10] [Server thread/INFO]: gendieyiyang >> Ò»°ÑÈı²æêª¶¼Ã»ÓĞ[m
+[14:57:13] [Server thread/INFO]: gendieyiyang >> ÍÂÁË[m
+[14:57:22] [Server thread/INFO]: Twilight2033 >> ¡£¡£¡£[m
+[14:57:34] [Server thread/INFO]: Twilight2033 >> ÎÒËæ±ã¾ÍµôÒ»¸ö[m
+[14:57:40] [Server thread/INFO]: gendieyiyang >> ÕæµÄ ÎÒ¶¼ÏëÈ¥º£ÀïÀÌÁË[m
+[14:57:43] [Server thread/INFO]: gendieyiyang >> ¡£¡£¡£[m
+[14:57:50] [Server thread/INFO]: gendieyiyang >> ÎªÊ²Ã´ÄãÃÇÁ³ÄÇÃ´ºÃ[m
+[14:58:06] [Server thread/INFO]: Twilight2033 >> ÎÒ·½ÖÛ³é¿¨Ã»ÕâÔËÆø[m
+[14:58:08] [Server thread/INFO]: anew_tape issued server command: /c oi
+[14:58:10] [Server thread/INFO]: anew_tape issued server command: /co i
+[14:58:12] [Server thread/INFO]: gendieyiyang >> ËãÁË ÎÒ»¹ÊÇÈ¥º£ÀïÀÌ°É[m
+[14:58:19] [Server thread/INFO]: anew_tape issued server command: /co i
+[14:58:30] [Server thread/INFO]: anew_tape issued server command: /co i
+[14:58:39] [Server thread/INFO]: anew_tape issued server command: /co i
+[14:59:31] [Server thread/INFO]: gendieyiyang >> ·´ÕıÎÒÊÇË¢²»µ½Èı²æêª[m
+[15:00:18] [Server thread/INFO]: Twilight2033 >> Äş¼ÓÓÍ[m
+[15:04:54] [Server thread/INFO]: Twilight2033 >> Ë­°ÑÎÒÖíÁéÉ±ÁË¡£¡£¡£[m
+[15:05:02] [Server thread/INFO]: anew_tape >> ..[m
+[15:05:06] [Server thread/INFO]: gendieyiyang >> ?[m
+[15:05:21] [Server thread/INFO]: Twilight2033 >> anew_tapeÄãÂğawa¡£¡£¡£[m
+[15:05:29] [Server thread/INFO]: anew_tape >> Ã»[m
+[15:05:33] [Server thread/INFO]: Twilight2033 >> Å¶[m
+[15:05:40] [Server thread/INFO]: Twilight2033 >> ·ğÁË[m
+[15:05:43] [User Authenticator #31/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[15:05:43] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:63177] logged in with entity id 521430 at ([world]3191.232854791735, 63.0, 583.8009020108497)
+[15:05:54] [Server thread/INFO]: Twilight2033 >> ×Ï¾§ÊØÎÀ¶¼É±[m
+[15:05:57] [Server thread/INFO]: gendieyiyang >> ÄÄÀïÄÜ¸ßĞ§Ë¢³öÒ»°ÑÈı²æêª°¡£¡£¡£¡[m
+[15:06:05] [Server thread/INFO]: gendieyiyang >> ÎÒÒª·èÁË[m
+[15:06:08] [Server thread/INFO]: Twilight2033 >> ÄÄÀï¶¼ÄÜ[m
+[15:06:23] [Server thread/INFO]: gendieyiyang >> Éºº÷º£²»ĞĞ¡£¡£¡£[m
+[15:06:40] [User Authenticator #32/INFO]: UUID of player qingfeng159 is 56cc75d8-e708-4898-ab75-511d9a1e4e96
+[15:06:40] [Server thread/INFO]: qingfeng159[/127.0.0.1:63183] logged in with entity id 521730 at ([world_nether]345.99373396093665, 115.0, 22.61642962051145)
+[15:06:46] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ÄçÊ¬Ëş£¨[m
+[15:06:50] [Server thread/INFO]: anew_tape issued server command: /co i
+[15:06:53] [Server thread/INFO]: anew_tape issued server command: /co i
+[15:07:00] [Server thread/INFO]: gendieyiyang >> µÃÁË Äã¾Í±ğÌáº£¾§ÄÇ¸öÄçÊ¬ËşÁË[m
+[15:07:22] [Server thread/INFO]: gendieyiyang >> ÎÒË¢ÁËÕâÃ´¶àÌìÃ»±¬³öÀ´Ò»°Ñ[m
+[15:09:06] [Server thread/INFO]: qingfeng159 has completed the challenge [Cover Me in Debris]
+[15:09:13] [Server thread/INFO]: gendieyiyang >> ?[m
+[15:09:15] [Server thread/INFO]: qingfeng159 >> ?[m
+[15:10:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[15:10:12] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[15:10:15] [Server thread/INFO]: qingfeng159 issued server command: /p
+[15:10:20] [Server thread/INFO]: qingfeng159 issued server command: /p m
+[15:10:20] [Server thread/INFO]: anew_tape issued server command: /qd
+[15:10:20] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1manew_tape [0;33;22mÄ¿Ç°ÓĞ [0;32;1m76 [0;33;22m¹±Ï×µãÊı[m
+[15:10:21] [Server thread/INFO]: qingfeng159 issued server command: /p me
+[15:10:28] [Server thread/INFO]: Twilight2033 issued server command: /p me
+[15:10:31] [Server thread/INFO]: gendieyiyang >> ?[m
+[15:13:33] [Server thread/INFO]: gendieyiyang >> ËùÒÔÎÒÎªÊ²Ã´»¹ÊÇË¢²»µ½Èı²æêª[m
+[15:13:37] [Server thread/INFO]: qingfeng159 >> ....[m
+[15:13:39] [Server thread/INFO]: Twilight2033 >> Á³ºÚ[m
+[15:13:44] [Server thread/INFO]: qingfeng159 >> Èı²æêª²»ÊÇËæ±ã¶¼ÓĞÃ´[m
+[15:13:47] [Server thread/INFO]: gendieyiyang >> ¡£¡£¡£[m
+[15:13:50] [Server thread/INFO]: Twilight2033 >> Á³ºÚ[m
+[15:13:57] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[15:13:57] [Server thread/INFO]: Li_zi_wei left the game
+[15:13:59] [Server thread/INFO]: qingfeng159 >> Èı²æêª¸Ğ¾õÃ»É¶ÓÃ[m
+[15:14:04] [Server thread/INFO]: gendieyiyang >> ¸æËßÄã¸öºÃ¶«Î÷ ÎÒË¢ÁË2ÌìÍíÉÏ¶¼Ã»ÓĞ¡®[m
+[15:14:06] [Server thread/INFO]: Twilight2033 >> ÎÒ¸ÕËÍ±ğÈËÁ©¸ö[m
+[15:14:12] [Server thread/INFO]: qingfeng159 >> ÉËº¦²»¸ß£¬ĞîÁ¦»¹Âı[m
+[15:14:15] [Server thread/INFO]: gendieyiyang >> Äã»¹ÓĞ¶àÓàµÄÃ»[m
+[15:14:23] [Server thread/INFO]: gendieyiyang >> Ã»¸½Ä§µÄÄÇÖÖ¾ÍĞĞ[m
+[15:14:29] [Server thread/INFO]: Twilight2033 >> qsÃ»É¶ÓÃ[m
+[15:14:40] [Server thread/INFO]: gendieyiyang >> µ«ÊÇºÃÍæ[m
+[15:14:44] [Server thread/INFO]: qingfeng159 >> ...[m
+[15:14:51] [Server thread/INFO]: gendieyiyang >> Ã»Ïëµ½°É[m
+[15:14:59] [Server thread/INFO]: gendieyiyang >> ÎÒ¾ÍÊÇÎªÁËÄÃÀ´ÍæµÄ[m
+[15:15:02] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[15:15:14] [Server thread/INFO]: Twilight2033 issued server command: /co i
+[15:15:15] [Server thread/INFO]: gendieyiyang >> ËùÒÔ2033Äã»¹ÓĞ¶àµÄÈı²æêªÃ»[m
+[15:16:33] [Server thread/INFO]: qingfeng159 has made the advancement [The Parrots and the Bats]
+[15:17:01] [Server thread/INFO]: gendieyiyang >> ºÙ 2033[m
+[15:17:05] [Server thread/INFO]: gendieyiyang >> Õ¦²»ÀíÈËÁË[m
+[15:17:15] [Server thread/INFO]: Twilight2033 >> ÄãÔ­À´¸úÎÒËµ»°µÄÂğ[m
+[15:17:17] [Server thread/INFO]: qingfeng159 >> ....[m
+[15:17:21] [Server thread/INFO]: gendieyiyang >> ²»È»ÄØ[m
+[15:17:44] [Server thread/INFO]: Twilight2033 >> Ã»ÁË[m
+[15:17:48] [Server thread/INFO]: Twilight2033 >> ËÍÈËÁË[m
+[15:17:52] [Server thread/INFO]: gendieyiyang >> ¡­¡­[m
+[15:17:54] [Server thread/INFO]: Twilight2033 >> ÏÓÃ»ÓÃ[m
+[15:18:08] [Server thread/INFO]: qingfeng159 >> µÄÈ·Ã»É¶ÓÃ[m
+[15:18:12] [Server thread/INFO]: Twilight2033 >> ÓĞÒ»¸ö×öÕ¹Æ·[m
+[15:18:15] [Server thread/INFO]: gendieyiyang >> ÎÒÖªµÀ µ«ÊÇºÃÍæ[m
+[15:18:17] [Server thread/INFO]: qingfeng159 lost connection: Disconnected
+[15:18:17] [Server thread/INFO]: qingfeng159 left the game
+[15:19:00] [Server thread/INFO]: gendieyiyang >> ¶¼Ã»¶àÓàµÄÈı²æêªÁË ÎÒ×Ô¼º»¹Ë¢²»µ½ Ì«Ü³ÁË[m
+[15:20:06] [Server thread/INFO]: gendieyiyang lost connection: Disconnected
+[15:20:06] [Server thread/INFO]: gendieyiyang left the game
+[15:31:46] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[15:31:46] [Server thread/INFO]: Ttu_nnm left the game
+[15:32:54] [Server thread/INFO]: Twilight2033 >> awa[m
+[15:35:32] [Server thread/INFO]: anew_tape >> ÖÕÓÚÕÒµ½Ò»¸öÇÊ³á[m
+[15:35:41] [Server thread/INFO]: Twilight2033 >> °¡Äã»¹ÔÚÄ©µØ°¡[m
+[15:35:54] [Server thread/INFO]: Twilight2033 >> ÄãÕÒÁË¶àÉÙ¸öÁËÒÑ¾­[m
+[15:37:56] [Server thread/INFO]: anew_tape >> ²»¶à[m
+[15:40:25] [Server thread/INFO]: Twilight2033 >> »°ËµÂÓ¶áËşºÃÁËÊÇ°É[m
+[15:40:29] [Server thread/INFO]: anew_tape >> en[m
+[15:43:09] [Server thread/WARN]: anew_tape moved wrongly!
+[15:50:59] [User Authenticator #33/INFO]: UUID of player Fukoooo is f957285b-78cb-4045-9b47-5af0d4e3679b
+[15:50:59] [Server thread/INFO]: Fukoooo[/127.0.0.1:63376] logged in with entity id 536049 at ([world]-217.40389967030922, 118.0, -448.59489106255154)
+[15:52:10] [Server thread/INFO]: Fukoooo lost connection: Disconnected
+[15:52:10] [Server thread/INFO]: Fukoooo left the game
+[15:52:30] [Server thread/INFO]: anew_tape >> µÚÈı¸ö[m
+[15:55:02] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[15:55:03] [Server thread/INFO]: anew_tape left the game
+[16:00:09] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[16:00:09] [Server thread/INFO]: Twilight2033 left the game
+[16:02:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@48337caf[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:63424) lost connection: Disconnected
+[16:03:00] [User Authenticator #34/INFO]: Disconnecting com.mojang.authlib.GameProfile@48337caf[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:63424): Authentication servers are down. Please try again later, sorry!
+[16:03:00] [User Authenticator #34/ERROR]: Couldn't verify username because servers are unavailable
+[16:03:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@ea51b9e[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:63428) lost connection: Disconnected
+[16:10:10] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[16:24:11] [User Authenticator #36/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[16:24:11] [Server thread/INFO]: xf998[/127.0.0.1:63512] logged in with entity id 538673 at ([world]24.356365285696427, 66.0, 601.942413349953)
+[16:32:08] [Server thread/INFO]: Villager EntityVillager['Villager'/539470, l='ServerLevel[world]', x=2774.60, y=63.81, z=-422.49] died, message: 'Villager suffocated in a wall'
+[16:33:08] [Server thread/INFO]: xf998 issued server command: /co i
+[16:33:18] [Server thread/INFO]: xf998 issued server command: /co inspect
+[16:38:18] [Server thread/INFO]: xf998 issued server command: /co i
+[16:38:25] [Server thread/INFO]: xf998 issued server command: /co inspect
+[16:52:47] [Server thread/INFO]: xf998 issued server command: /co i
+[16:55:41] [Server thread/INFO]: xf998 issued server command: /co inspect
+[16:56:35] [Server thread/INFO]: xf998 lost connection: Disconnected
+[16:56:35] [Server thread/INFO]: xf998 left the game
+[16:57:23] [User Authenticator #37/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[16:57:23] [Server thread/INFO]: xf998[/127.0.0.1:63653] logged in with entity id 541561 at ([world]2807.7910450279282, 63.0, -414.2792165191818)
+[17:10:10] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[17:16:15] [User Authenticator #38/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[17:16:15] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:63761] logged in with entity id 543524 at ([world]1095.2859114948951, 65.0, -1783.3252502195808)
+[17:17:22] [Server thread/INFO]: xf998 issued server command: /co i
+[17:17:32] [Server thread/INFO]: xf998 issued server command: /co inspect
+[17:18:48] [User Authenticator #39/INFO]: UUID of player xxuurruuii is e4032104-ba08-4db3-82a0-d4f7323bcaf4
+[17:18:48] [Server thread/INFO]: xxuurruuii[/127.0.0.1:63772] logged in with entity id 543872 at ([world]-269.07934064441906, 127.0, 390.778591316103)
+[17:18:48] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> Connected with MineChat[m
+[17:18:55] [Server thread/INFO]: [0;32;1m<À×ÄªÁåÉ­>[0;37;1m Li_zi_wei >> ?[m
+[17:19:16] [Server thread/INFO]: xf998 lost connection: Disconnected
+[17:19:16] [Server thread/INFO]: xf998 left the game
+[17:19:18] [Server thread/INFO]: xxuurruuii lost connection: Timed out
+[17:19:18] [Server thread/INFO]: xxuurruuii left the game
+[17:20:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[17:20:34] [Server thread/INFO]: Li_zi_wei issued server command: /co i
+[17:20:42] [Server thread/INFO]: Li_zi_wei issued server command: /co i
+[17:49:18] [User Authenticator #40/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[17:49:18] [Server thread/INFO]: Ghost_king_[/127.0.0.1:63915] logged in with entity id 548507 at ([world]2664.906970066108, 70.0, -368.7706873526033)
+[17:49:29] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÈËÕæÉÙ[m
+[17:52:19] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[17:52:19] [Server thread/INFO]: Li_zi_wei left the game
+[17:52:31] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[17:52:31] [Server thread/INFO]: Ghost_king_ left the game
+[18:02:01] [User Authenticator #41/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[18:02:01] [Server thread/INFO]: Twilight2033[/127.0.0.1:63968] logged in with entity id 549616 at ([world]7044.370336853586, 63.0, -542.2994877306523)
+[18:10:10] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[18:21:29] [User Authenticator #42/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[18:21:29] [Server thread/INFO]: xf998[/127.0.0.1:64040] logged in with entity id 550298 at ([world]2761.0614893307556, 63.0, -390.415645129045)
+[18:24:27] [User Authenticator #43/INFO]: UUID of player qingfeng159 is 56cc75d8-e708-4898-ab75-511d9a1e4e96
+[18:24:27] [Server thread/INFO]: qingfeng159[/127.0.0.1:64053] logged in with entity id 551044 at ([world]2681.025106724496, 66.0, -352.7001978193255)
+[18:25:33] [User Authenticator #44/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[18:25:33] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:64059] logged in with entity id 551275 at ([world_nether]347.67019015585316, 116.0, 25.68941904485164)
+[18:25:49] [Server thread/INFO]: qingfeng159 lost connection: Disconnected
+[18:25:49] [Server thread/INFO]: qingfeng159 left the game
+[18:25:52] [User Authenticator #45/INFO]: UUID of player qingfeng159 is 56cc75d8-e708-4898-ab75-511d9a1e4e96
+[18:25:52] [Server thread/INFO]: qingfeng159[/127.0.0.1:64073] logged in with entity id 551405 at ([world_nether]-86.29406898354317, 115.5625, -219.4668221803682)
+[18:29:01] [Server thread/INFO]: Added ARocket08 to the whitelist
+[18:29:11] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[18:29:11] [Server thread/INFO]: Twilight2033 left the game
+[18:30:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[18:31:05] [Server thread/INFO]: xf998 lost connection: Disconnected
+[18:31:05] [Server thread/INFO]: xf998 left the game
+[18:31:23] [Server thread/INFO]: sen_lv_ling_ issued server command: /qd
+[18:31:23] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1msen_lv_ling_ [0;33;22mÄ¿Ç°ÓĞ [0;32;1m147 [0;33;22m¹±Ï×µãÊı[m
+[18:32:37] [User Authenticator #46/INFO]: UUID of player ARocket08 is a16cd5b2-f225-453d-ba38-a91cd5fea380
+[18:32:37] [Server thread/INFO]: ARocket08[/127.0.0.1:64662] logged in with entity id 555241 at ([world]-78.5, 69.0, 260.5)
+[18:32:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> À´ÁË£¨[m
+[18:32:53] [Server thread/INFO]: ARocket08 >> mvx[m
+[18:33:37] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[18:33:39] [Server thread/INFO]: ARocket08 >> £¨[m
+[18:33:47] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[18:34:28] [Server thread/INFO]: ARocket08 has made the advancement [We Need to Go Deeper]
+[18:35:42] [User Authenticator #47/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[18:35:42] [Server thread/INFO]: Twilight2033[/127.0.0.1:64688] logged in with entity id 556208 at ([world]7045.821086003876, 63.0, -539.7624999880791)
+[18:36:37] [Server thread/WARN]: sen_lv_ling_ moved too quickly! 0.009061137448384216,-40.0,0.010084047600400936
+[18:36:37] [User Authenticator #48/INFO]: UUID of player Xiao_Hong_Mao is 3cb3c835-af8d-4e8b-8506-a54938079821
+[18:36:37] [Server thread/INFO]: Xiao_Hong_Mao[/127.0.0.1:64813] logged in with entity id 556357 at ([world]3176.3455624236744, 73.5625, 595.7930158914173)
+[18:36:47] [Server thread/INFO]: sen_lv_ling_ issued server command: /px off
+[18:36:47] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'px' in plugin AnGmode v1.0-SNAPSHOT
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:758) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:1788) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1631) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1584) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:941) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:934) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeAll(SourceFile:103) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:917) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:850) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.lang.NullPointerException
+	at enron.angmode.command.AnGmodeCommand.onCommand(AnGmodeCommand.java:46) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 19 more
+[18:37:01] [Server thread/INFO]: qingfeng159 has made the advancement [Enchanter]
+[18:37:06] [Server thread/INFO]: Twilight2033 >> ÎÒ¶¼²»ÖªµÀ½ñÌìÄÇ¸öÌúº©º©¶ÔÈı²æêªÎªÉ¶ÄÇÃ´Ö´×Å[m
+[18:37:20] [Server thread/INFO]: Twilight2033 >> ÎÒËæ±ã¿³¼¸¸öÄçÊ¬ÓÖµôÈı²æêªÁË[m
+[18:37:26] [Server thread/INFO]: qingfeng159 >> ....[m
+[18:37:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> hhhhh[m
+[18:37:30] [Server thread/INFO]: qingfeng159 >> Õâ²»ÊÇºÜÕı³£Ã´[m
+[18:37:35] [Server thread/INFO]: Twilight2033 >> ¶Ô°¡[m
+[18:37:37] [Server thread/INFO]: Twilight2033 >> ºÜÕı³£°¡[m
+[18:37:44] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºÜÕı³£°¡[m
+[18:37:57] [Server thread/INFO]: Twilight2033 >> ËùÒÔÎÒ²»Àí½âËûÎªÉ¶ÄÇÃ´Á³ºÚ[m
+[18:38:00] [Server thread/INFO]: Twilight2033 >> ÅŞ[m
+[18:38:12] [User Authenticator #49/INFO]: UUID of player Laffey_Jiang is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[18:38:12] [Server thread/INFO]: Laffey_Jiang[/127.0.0.1:64865] logged in with entity id 556969 at ([world]3198.1729010962845, 104.1875, 583.890728602128)
+[18:38:38] [Server thread/INFO]: Xiao_Hong_Mao lost connection: Disconnected
+[18:38:38] [Server thread/INFO]: Xiao_Hong_Mao left the game
+[18:38:38] [Server thread/INFO]: Twilight2033 >> ËãÁË[m
+[18:38:55] [Server thread/WARN]: sen_lv_ling_ was kicked for floating too long!
+[18:38:55] [Server thread/INFO]: sen_lv_ling_ lost connection: Flying is not enabled on this server
+[18:38:55] [Server thread/INFO]: sen_lv_ling_ left the game
+[18:38:56] [Server thread/INFO]: Twilight2033 >> Ò»Ê±°ë»á²»ÖªµÀÔõÃ´ĞÎÈİÕâ¸öÌúº©º©ÁË[m
+[18:39:26] [Server thread/INFO]: Twilight2033 >> Õâº©Åú¹À¼ÆÃ»ÄÃÂÓ¶áÈı[m
+[18:39:33] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laffey_Jiang >> Ä½ÔÆºÃ¿ì[m
+[18:39:34] [Server thread/INFO]: Twilight2033 >> ¸É·¹[m
+[18:39:40] [Server thread/INFO]: Twilight2033 >> ????[m
+[18:39:42] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[18:39:42] [Server thread/INFO]: Twilight2033 left the game
+[18:40:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[18:40:15] [Server thread/INFO]: Laffey_Jiang lost connection: Disconnected
+[18:40:15] [Server thread/INFO]: Laffey_Jiang left the game
+[18:40:49] [User Authenticator #50/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[18:40:49] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:64886] logged in with entity id 558518 at ([world_the_end]198.21368640745172, 44.301484970971735, -307.09863176598174)
+[18:41:53] [Server thread/WARN]: ARocket08 moved wrongly!
+[18:49:10] [Server thread/INFO]: There are 3 of a max of 50 players online: ARocket08, sen_lv_ling_, qingfeng159
+[18:49:17] [Server thread/INFO]: ARocket08 >> Ë­ÓĞ³ÔµÄ[m
+[18:51:07] [Server thread/INFO]: Villager EntityVillager['Villager'/560322, l='ServerLevel[world]', x=2775.54, y=64.39, z=-423.70] died, message: 'Villager was squished too much'
+[18:51:16] [Server thread/INFO]: qingfeng159 has made the advancement [Stone Age]
+[18:51:48] [Server thread/INFO]: ARocket08 has made the advancement [Stone Age]
+[18:54:04] [Server thread/INFO]: Villager EntityVillager['Villager'/564222, l='ServerLevel[world]', x=2775.88, y=63.31, z=-423.35] died, message: 'Villager was squished too much'
+[18:54:08] [Server thread/INFO]: Villager EntityVillager['Villager'/564220, l='ServerLevel[world]', x=2775.80, y=63.60, z=-423.52] died, message: 'Villager was squished too much'
+[18:59:56] [Server thread/INFO]: Villager EntityVillager['Villager'/564219, l='ServerLevel[world]', x=2774.69, y=63.80, z=-422.54] died, message: 'Villager suffocated in a wall'
+[19:02:02] [Server thread/INFO]: ARocket08 has made the advancement [Monster Hunter]
+[19:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[19:10:16] [Server thread/INFO]: qingfeng159 issued server command: /qd
+[19:10:16] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mqingfeng159 [0;33;22mÄ¿Ç°ÓĞ [0;32;1m22 [0;33;22m¹±Ï×µãÊı[m
+[19:10:17] [Server thread/INFO]: ARocket08 issued server command: /qd
+[19:10:17] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;31;1m½»Ò×Ê§°Ü[m
+[19:10:28] [Server thread/INFO]: qingfeng159 issued server command: /qd
+[19:12:38] [Server thread/INFO]: ARocket08 has made the advancement [Getting an Upgrade]
+[19:31:49] [Server thread/INFO]: ARocket08 was blown up by Creeper
+[19:32:28] [User Authenticator #51/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[19:32:28] [Server thread/INFO]: anew_tape[/127.0.0.1:65096] logged in with entity id 571951 at ([world_the_end]4895.813290437097, 109.0, 18266.222834175525)
+[19:32:49] [Server thread/WARN]: qingfeng159 was kicked for floating too long!
+[19:32:49] [Server thread/INFO]: qingfeng159 lost connection: Flying is not enabled on this server
+[19:32:49] [Server thread/INFO]: qingfeng159 left the game
+[19:32:53] [User Authenticator #52/INFO]: UUID of player qingfeng159 is 56cc75d8-e708-4898-ab75-511d9a1e4e96
+[19:32:53] [Server thread/INFO]: qingfeng159[/127.0.0.1:65099] logged in with entity id 572139 at ([world]2549.4049113542706, 63.0, -342.2193517530242)
+[19:35:24] [Server thread/INFO]: qingfeng159 >> .[m
+[19:35:43] [Server thread/INFO]: ARocket08 >> ¡£[m
+[19:37:12] [Server thread/WARN]: qingfeng159 moved wrongly!
+[19:38:01] [Server thread/INFO]: ARocket08 lost connection: Disconnected
+[19:38:01] [Server thread/INFO]: ARocket08 left the game
+[19:39:17] [User Authenticator #53/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[19:39:17] [Server thread/INFO]: Magical7[/127.0.0.1:65143] logged in with entity id 573888 at ([world]1552.857057203674, 64.0, 819.3113954430686)
+[19:39:40] [Server thread/INFO]: qingfeng159 lost connection: Disconnected
+[19:39:40] [Server thread/INFO]: qingfeng159 left the game
+[19:40:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:40:30] [Server thread/INFO]: Magical7 issued server command: /qd
+[19:40:37] [Server thread/INFO]: Magical7 issued server command: /p
+[19:40:40] [Server thread/INFO]: Magical7 issued server command: /p me
+[19:42:01] [User Authenticator #54/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[19:42:01] [Server thread/INFO]: Twilight2033[/127.0.0.1:65161] logged in with entity id 575853 at ([world]7034.541738183448, 91.0, -537.0987853509254)
+[19:42:21] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[19:42:21] [Server thread/INFO]: Magical7 left the game
+[19:44:41] [User Authenticator #55/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[19:44:42] [Server thread/INFO]: Magical7[/127.0.0.1:65175] logged in with entity id 576859 at ([world]1617.6238676082148, 64.75, 906.6754941135641)
+[19:44:55] [Server thread/INFO]: There are 4 of a max of 50 players online: sen_lv_ling_, anew_tape, Twilight2033, Magical7
+[19:45:28] [User Authenticator #56/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[19:45:28] [Server thread/INFO]: xf998[/127.0.0.1:65191] logged in with entity id 577713 at ([world]-9.712063967322988, 68.0, 630.206736622282)
+[19:45:41] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-214.40983136102315,-0.009372726639185203
+[19:49:11] [Server thread/WARN]: Magical7 moved too quickly! -0.0094662119631721,-111.08516031384539,-0.003508671066356328
+[19:49:15] [User Authenticator #57/INFO]: UUID of player YuHuaQingZhu is f7c2a598-482c-4505-b4b6-6ece1a025ef2
+[19:49:15] [Server thread/INFO]: YuHuaQingZhu[/127.0.0.1:65205] logged in with entity id 580402 at ([world_the_end]-16550.434525723544, 62.0, 22121.93062245602)
+[19:49:22] [Server thread/INFO]: Twilight2033 >> YuHuaQingZhuÎØÎØÎØ[m
+[19:49:40] [Server thread/INFO]: Twilight2033 >> ÎÒÍæÕâ¸öÓÎÏ·²»Ïë¶¯ÄÔ×Óµ«ÊÇ½ñÌì¶¯ÁËÎØÎØÎØ[m
+[19:50:09] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-16.0,0.0
+[19:52:13] [User Authenticator #58/INFO]: UUID of player Fukoooo is f957285b-78cb-4045-9b47-5af0d4e3679b
+[19:52:13] [Server thread/INFO]: Fukoooo[/127.0.0.1:65219] logged in with entity id 581539 at ([world]-222.01577903622012, 74.0, -448.4992089877188)
+[19:54:35] [Server thread/INFO]: YuHuaQingZhu >> ÎÒÒ²ÊÇ[m
+[19:54:41] [Server thread/INFO]: YuHuaQingZhu >> »°ËµÅ©³¡ÔÚÄÄ[m
+[19:54:51] [Server thread/INFO]: YuHuaQingZhu >> awa[m
+[19:54:56] [Server thread/INFO]: Twilight2033 >> É¶Å©³¡[m
+[19:55:02] [Server thread/INFO]: Twilight2033 >> ×÷ÎïÂğ[m
+[19:55:05] [Server thread/INFO]: YuHuaQingZhu >> àÅ[m
+[19:55:30] [Server thread/INFO]: Twilight2033 >> ÏÂ´ÎÒ»¶¨×ö[m
+[19:55:40] [Server thread/INFO]: YuHuaQingZhu >> ²İ[m
+[19:57:41] [Server thread/WARN]: Magical7 moved too quickly! -0.003684284317841957,-1683.0950268143563,-0.004557150860932779
+[19:58:40] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-814.6200223969406,0.0
+[20:03:00] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-21.0,0.011273901794538688
+[20:04:05] [Server thread/INFO]: Twilight2033 >> YuHuaQingZhuËµ³öÀ´Äã¿ÉÄÜ²»ĞÅ[m
+[20:04:13] [Server thread/INFO]: Twilight2033 >> ÎÒÔÚÎÒ¼ÒÃÔÂ·ÁË[m
+[20:04:43] [Server thread/INFO]: Fukoooo has made the advancement [A Throwaway Joke]
+[20:05:07] [Server thread/WARN]: Magical7 moved too quickly! 0.010911792371189222,-1540.795691688447,0.0
+[20:06:06] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-1709.132145536884,0.0
+[20:06:07] [Server thread/INFO]: xf998 lost connection: Timed out
+[20:06:07] [Server thread/INFO]: xf998 left the game
+[20:06:34] [Server thread/WARN]: Magical7 moved too quickly! 0.009748214993578586,-607.8678081641359,-0.0035659855439007515
+[20:06:46] [Server thread/INFO]: Villager EntityVillager['Villager'/590757, l='ServerLevel[world]', x=2775.30, y=63.98, z=-423.13] died, message: 'Villager was squished too much'
+[20:06:52] [Server thread/INFO]: Fukoooo >> ´ó¼ÒÈç¹û·¢ÏÖÎÒËÀÁË[m
+[20:06:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@bc4d4df[id=<null>,name=xf998,properties={},legacy=false] (/127.0.0.1:65270) lost connection: Disconnected
+[20:07:01] [Server thread/INFO]: Fukoooo >> ËÙ¶ÈÈºÀï@ÎÒ[m
+[20:07:04] [Server thread/INFO]: Fukoooo >> Ğ»Ğ»´ó¼Ò[m
+[20:07:15] [Server thread/INFO]: anew_tape >> ÎÒËµÖ¡ÊıÔõÃ´ÕâÃ´µÍ[m
+[20:07:16] [Server thread/INFO]: Fukoooo >> ¹Ò»Ø»ú[m
+[20:07:22] [Server thread/INFO]: anew_tape >> Ô­À´Ã»¿ª²å×ù[m
+[20:07:52] [Server thread/WARN]: Magical7 moved too quickly! 0.009419441852514865,-219.65885202316136,0.0035073916035344155
+[20:08:02] [Server thread/INFO]: Villager EntityVillager['Villager'/590769, l='ServerLevel[world]', x=2775.47, y=63.68, z=-423.16] died, message: 'Villager was squished too much'
+[20:08:18] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[20:08:18] [Server thread/INFO]: sen_lv_ling_ left the game
+[20:09:49] [User Authenticator #59/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[20:09:49] [Server thread/INFO]: xf998[/127.0.0.1:65282] logged in with entity id 594398 at ([world]-28.070170804566324, 69.0, 641.1095864516031)
+[20:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[20:11:24] [Server thread/INFO]: xf998 lost connection: Timed out
+[20:11:24] [Server thread/INFO]: xf998 left the game
+[20:12:05] [Server thread/INFO]: Villager EntityVillager['Villager'/590756, l='ServerLevel[world]', x=2774.44, y=63.94, z=-422.68] died, message: 'Villager suffocated in a wall'
+[20:13:18] [User Authenticator #60/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[20:13:18] [Server thread/INFO]: xf998[/127.0.0.1:65296] logged in with entity id 595510 at ([world]-28.070170804566324, 69.0, 641.1095864516031)
+[20:14:03] [Server thread/INFO]: xf998 lost connection: Timed out
+[20:14:03] [Server thread/INFO]: xf998 left the game
+[20:17:19] [Server thread/INFO]: Villager EntityVillager['Villager'/590759, l='ServerLevel[world]', x=2774.47, y=63.81, z=-422.51] died, message: 'Villager suffocated in a wall'
+[20:18:35] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-4100.546295676604,0.0
+[20:18:56] [User Authenticator #61/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[20:18:57] [Server thread/INFO]: xf998[/127.0.0.1:65323] logged in with entity id 597000 at ([world]-21.03681922636673, 68.52866356891413, 638.9065369343414)
+[20:19:17] [Server thread/INFO]: Magical7 issued server command: /co i
+[20:19:29] [Server thread/INFO]: Magical7 issued server command: /co i
+[20:22:56] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-218.1322401772177,0.0
+[20:25:12] [Server thread/WARN]: xf998 moved too quickly! -10.29514773332122,-1.0013359791121417,3.787591592460217
+[20:25:21] [Server thread/INFO]: anew_tape >> Ë¬[m
+[20:30:21] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[20:30:21] [Server thread/INFO]: Magical7 left the game
+[20:34:29] [User Authenticator #62/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[20:34:29] [Server thread/INFO]: Magical7[/127.0.0.1:65416] logged in with entity id 610066 at ([world]3209.456074918357, 64.0, 1535.903476155879)
+[20:39:50] [Server thread/WARN]: Magical7 moved too quickly! -0.009615391373245075,-18.0,0.0
+[20:44:45] [Server thread/WARN]: Magical7 moved too quickly! -0.17238070973371578,-29.833508822349216,0.18255902837267968
+[20:45:49] [Server thread/INFO]: Twilight2033 >> »µÏûÏ¢ºìÊ¯ÏŞÖÆÃ²ËÆ»¹ÔÚ[m
+[20:48:13] [Server thread/WARN]: Magical7 moved too quickly! 0.011496126037400245,-128.3772773672785,0.0
+[20:49:18] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-94.7906589524545,0.0
+[20:51:30] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-32.0,0.0
+[20:51:59] [Server thread/WARN]: Magical7 moved too quickly! -0.005365755876482581,-76.0,-0.004810389416434191
+[21:01:09] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[21:01:09] [Server thread/INFO]: Twilight2033 left the game
+[21:02:12] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-44.0,0.0
+[21:07:27] [Server thread/INFO]: xf998 issued server command: /co i
+[21:07:50] [Server thread/INFO]: xf998 issued server command: /co inspect
+[21:09:15] [Server thread/INFO]: Villager EntityVillager['Villager'/619074, l='ServerLevel[world]', x=2774.56, y=63.82, z=-422.46] died, message: 'Villager suffocated in a wall'
+[21:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[21:11:04] [User Authenticator #63/INFO]: UUID of player Laffey_Jiang is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[21:11:04] [Server thread/INFO]: Laffey_Jiang[/127.0.0.1:49218] logged in with entity id 636414 at ([world]3176.38038738273, 111.61979427079893, 581.5482626905406)
+[21:16:00] [Server thread/INFO]: Laffey_Jiang issued server command: /tp 0 64 0
+[21:16:00] [Server thread/WARN]: Entity EntityPlayer['Laffey_Jiang'/636414, l='ServerLevel[world]', x=0.50, y=64.00, z=0.50](Laffey_Jiang at 0.5,64.0,0.5) left loaded chunk area
+[21:16:00] [Server thread/INFO]: [Laffey_Jiang: Teleported Laffey_Jiang to 0.5, 64.0, 0.5]
+[21:17:21] [Server thread/INFO]: Laffey_Jiang lost connection: Disconnected
+[21:17:21] [Server thread/INFO]: Laffey_Jiang left the game
+[21:19:13] [User Authenticator #64/INFO]: UUID of player upsama is 9618bb26-059b-4501-8ff2-c2c738588057
+[21:19:13] [Server thread/INFO]: upsama[/127.0.0.1:49258] logged in with entity id 643531 at ([world]1531.300000011921, 65.0, 891.7505997560679)
+[21:19:38] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-52.0,0.0
+[21:20:10] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[21:20:29] [Server thread/INFO]: [0;33;22m<Laffey>[0;32;1m<Å®×°×Óup>[0;37;1m upsama >> hi[m
+[21:20:34] [Server thread/INFO]: upsama issued server command: /p
+[21:20:38] [Server thread/INFO]: upsama issued server command: /p me
+[21:20:46] [Server thread/INFO]: upsama lost connection: Disconnected
+[21:20:46] [Server thread/INFO]: upsama left the game
+[21:24:14] [User Authenticator #65/INFO]: UUID of player qingfeng159 is 56cc75d8-e708-4898-ab75-511d9a1e4e96
+[21:24:14] [Server thread/INFO]: qingfeng159[/127.0.0.1:49279] logged in with entity id 648524 at ([world]2569.1385675185816, 63.0, -336.0229651147649)
+[21:26:09] [Server thread/INFO]: Villager EntityVillager['Villager'/630522, l='ServerLevel[world]', x=2774.48, y=63.86, z=-422.62] died, message: 'Villager suffocated in a wall'
+[21:26:28] [Server thread/WARN]: Magical7 moved too quickly! 0.009110380773336146,-1765.3302319900336,-0.0030211798215304952
+[21:27:38] [Server thread/WARN]: Magical7 moved too quickly! -0.025029396653962976,-1918.2857050217362,-0.034886671174035655
+[21:28:58] [Server thread/WARN]: Magical7 moved too quickly! -0.06902778470521298,-49.0,0.0
+[21:30:19] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-14.0,0.011136446520026766
+[21:31:08] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-19.0,0.0
+[21:34:48] [Server thread/INFO]: qingfeng159 has made the advancement [Bring Home the Beacon]
+[21:35:22] [User Authenticator #66/INFO]: UUID of player ARocket08 is a16cd5b2-f225-453d-ba38-a91cd5fea380
+[21:35:22] [Server thread/INFO]: ARocket08[/127.0.0.1:49319] logged in with entity id 655568 at ([world]2680.7866079647533, 66.0, -355.87758391211014)
+[21:35:52] [Server thread/INFO]: qingfeng159 has reached the goal [Beaconator]
+[21:36:41] [Server thread/INFO]: Villager EntityVillager['Villager'/590746, l='ServerLevel[world]', x=2775.81, y=63.66, z=-423.19] died, message: 'Villager was squished too much'
+[21:37:10] [Server thread/INFO]: Villager EntityVillager['Villager'/590741, l='ServerLevel[world]', x=2775.73, y=63.19, z=-423.70] died, message: 'Villager was squished too much'
+[21:37:22] [Server thread/INFO]: Villager EntityVillager['Villager'/590751, l='ServerLevel[world]', x=2775.30, y=63.31, z=-423.70] died, message: 'Villager was squished too much'
+[21:37:49] [Server thread/INFO]: xf998 lost connection: Disconnected
+[21:37:49] [Server thread/INFO]: xf998 left the game
+[21:37:57] [User Authenticator #67/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[21:37:57] [Server thread/INFO]: xf998[/127.0.0.1:49329] logged in with entity id 657163 at ([world_nether]-86.27509197541845, 115.5625, -222.87937095631636)
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -35.89592746559151,0.0,0.0
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -37.8280119452387,0.0,0.0
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -39.77884084463142,0.0,0.0
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -41.74820068890472,0.0,8.934694924391806E-4
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -43.73583514873991,0.0,0.004011723897711761
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -45.741446778361365,0.0,0.010657459060904984
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -47.76469965083646,0.0,0.022096067802401365
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -49.805321973531306,0.0,0.038871871117500234
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -51.86313669369957,0.0,0.060823567818992785
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -53.9379684342249,0.0,0.08779159563885841
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -56.02964299090155,0.0,0.11962191515592124
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -24.155231858694208,0.0,0.15616214924855498
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 67.12154906802704,0.0,-1.0416807776372359
+[21:39:37] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 67.12154906802704,0.0,-1.0416807776372359
+[21:39:39] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 83.2025240608755,0.0,0.0
+[21:39:39] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 83.2025240608755,0.0,0.0
+[21:39:39] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 81.35113654783405,0.0,0.0
+[21:39:39] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -65.57871255480771,0.0,0.0
+[21:39:39] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! -65.57871255480771,0.0,0.0
+[21:39:40] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 68.78516805896513,0.0,0.0
+[21:39:40] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 68.78516805896513,0.0,0.0
+[21:39:40] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 67.19937851349889,0.0,0.0
+[21:39:40] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 65.6310326174931,0.0,0.0
+[21:39:40] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 64.07993849119464,0.0,0.0
+[21:39:40] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 62.54590636552334,0.0,0.0
+[21:39:40] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 61.02874855885469,0.0,0.0
+[21:39:40] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 59.528279454057866,0.0,0.0
+[21:39:40] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 58.04431547578628,0.0,0.0
+[21:39:40] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 56.576675068018034,0.0,0.0
+[21:39:40] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 55.12517867184343,0.0,0.0
+[21:39:40] [Server thread/WARN]: Boat (vehicle of qingfeng159) moved too quickly! 53.68964870349677,0.0,0.0
+[21:39:46] [Server thread/WARN]: Magical7 moved too quickly! 0.01237544404352775,-43.0,0.0
+[21:40:02] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-24.0,0.0
+[21:45:12] [Server thread/WARN]: Fukoooo moved too quickly! 0.5895854141817836,1.0013359791121417,10.20098043776855
+[21:46:10] [Server thread/WARN]: Magical7 moved too quickly! 0.0030921252941880084,-18.62204486952804,0.0
+[21:47:36] [Server thread/INFO]: Villager EntityVillager['Villager'/645492, l='ServerLevel[world]', x=2774.52, y=63.85, z=-422.59] died, message: 'Villager suffocated in a wall'
+[21:49:24] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-671.2155642867299,0.0
+[21:49:38] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-20.0,-0.028186318470488914
+[21:50:12] [Server thread/WARN]: qingfeng159 moved too quickly! 5.15996789723431,0.7753759863052352,-8.85324268384062
+[21:51:12] [Server thread/WARN]: Magical7 moved too quickly! 0.009585114517904003,-102.877226814059,0.0
+[21:51:50] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-245.84069580990035,0.0
+[21:51:55] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-44.0,0.0
+[21:52:40] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-2040.5243372567381,0.0
+[21:52:49] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-16.0,0.0
+[21:52:51] [Server thread/INFO]: xf998 lost connection: Disconnected
+[21:52:51] [Server thread/INFO]: xf998 left the game
+[21:52:58] [User Authenticator #68/INFO]: UUID of player xf998 is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[21:52:58] [Server thread/INFO]: xf998[/127.0.0.1:49406] logged in with entity id 672847 at ([world]6.413734983981339, 66.85721395337279, 623.3598006815936)
+[21:53:28] [Server thread/WARN]: Magical7 moved too quickly! 0.011803736289266453,-18.0625,0.0
+[21:53:56] [Server thread/WARN]: Magical7 moved too quickly! -0.01109751305853024,-22.0,0.7523881093075033
+[21:54:36] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-33.0,-0.010007994361899364
+[21:54:56] [Server thread/INFO]: Fukoooo lost connection: Disconnected
+[21:54:56] [Server thread/INFO]: Fukoooo left the game
+[21:54:59] [User Authenticator #69/INFO]: UUID of player Fukoooo is f957285b-78cb-4045-9b47-5af0d4e3679b
+[21:55:00] [Server thread/INFO]: Fukoooo[/127.0.0.1:49415] logged in with entity id 674364 at ([world]-2042.013718831336, 63.0, 48.60682271256371)
+[21:57:24] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-112.85204215982085,-0.3507867017432318
+[21:58:41] [Server thread/WARN]: Magical7 moved too quickly! 0.5828308255121897,-2529.6424422077052,0.21162163452413552
+[21:58:46] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-64.0771016976341,0.0
+[22:00:13] [Server thread/WARN]: anew_tape moved too quickly! 30.844776587273373,-5.496059873667463,24.70837341108563
+[22:01:28] [Server thread/INFO]: ARocket08 has made the advancement [Acquire Hardware]
+[22:02:44] [Server thread/WARN]: Fukoooo moved too quickly! 756.1850677452495,25.0,1879.527975489766
+[22:05:40] [Server thread/INFO]: anew_tape >> cao[m
+[22:05:42] [Server thread/INFO]: anew_tape >> ÔõÃ´ÕâÃ´¿¨[m
+[22:05:47] [Server thread/INFO]: qingfeng159 >> ...[m
+[22:07:48] [Server thread/INFO]: ARocket08 has made the advancement [Suit Up]
+[22:08:21] [Server thread/INFO]: ARocket08 has made the advancement [Isn't It Iron Pick]
+[22:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[22:10:16] [Server thread/INFO]: ARocket08 issued server command: /qd
+[22:12:04] [Server thread/INFO]: Villager EntityVillager['Villager'/675052, l='ServerLevel[world]', x=2774.53, y=63.85, z=-422.47] died, message: 'Villager suffocated in a wall'
+[22:22:51] [Server thread/WARN]: Magical7 moved too quickly! 0.11723519846103159,-376.948996211738,-0.11723519846106001
+[22:25:31] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[22:25:31] [Server thread/INFO]: anew_tape left the game
+[22:26:58] [User Authenticator #70/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:26:58] [Server thread/INFO]: anew_tape[/127.0.0.1:49540] logged in with entity id 755451 at ([world_the_end]16754.944314043805, 47.0, 49758.22846461803)
+[22:28:47] [Server thread/INFO]: Fukoooo issued server command: /qd
+[22:29:14] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-100.27404066959978,0.0
+[22:29:27] [Server thread/INFO]: ARocket08 fell from a high place
+[22:29:37] [Server thread/INFO]: anew_tape >> ºÃÎŞÁÄ°¡[m
+[22:32:20] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[22:32:20] [Server thread/INFO]: anew_tape left the game
+[22:33:35] [Server thread/INFO]: ARocket08 lost connection: Disconnected
+[22:33:35] [Server thread/INFO]: ARocket08 left the game
+[22:45:37] [Server thread/INFO]: qingfeng159 lost connection: Disconnected
+[22:45:37] [Server thread/INFO]: qingfeng159 left the game
+[22:46:35] [User Authenticator #71/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:46:36] [Server thread/INFO]: anew_tape[/127.0.0.1:49636] logged in with entity id 809763 at ([world_the_end]16754.040786874277, 89.0, 49689.30000001192)
+[22:48:31] [Server thread/INFO]: anew_tape >> t[m
+[22:51:51] [Server thread/INFO]: Fukoooo >> ÓĞÄçÊ¬ËşÂğ[m
+[22:52:06] [Server thread/INFO]: anew_tape >> ÓĞ°¡[m
+[22:52:23] [Server thread/INFO]: Fukoooo >> ĞÂµÄ£¿[m
+[22:52:28] [Server thread/INFO]: anew_tape >> mei[m
+[22:52:52] [Server thread/INFO]: Fukoooo >> º£¾§Õâ¸ö£¿[m
+[22:52:58] [Server thread/INFO]: anew_tape >> en[m
+[22:53:04] [Server thread/INFO]: Fukoooo >> emm[m
+[22:53:14] [Server thread/INFO]: Fukoooo >> Ã²ËÆÃ»Ê²Ã´Ğ§ÂÊ[m
+[22:54:02] [Server thread/INFO]: anew_tape >> Äã¿ÉÒÔ×Ô¼º½¨Ò»¸ö[m
+[22:54:18] [Server thread/INFO]: Fukoooo >> àÅ[m
+[22:54:23] [Server thread/INFO]: Fukoooo >> ÑĞ¾¿ÑĞ¾¿[m
+[23:03:00] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-98.0,0.0
+[23:05:30] [Server thread/INFO]: anew_tape >> ²î²»¶àÁË[m
+[23:05:35] [Server thread/INFO]: anew_tape >> ¸ãÁË¼¸¸öÇÊ³á[m
+[23:10:11] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[23:12:29] [Server thread/INFO]: anew_tape >> Fukoooo[m
+[23:12:32] [Server thread/INFO]: anew_tape >> ¸ÉÉ¶ÄØ[m
+[23:14:57] [Server thread/INFO]: Fukoooo >> °¡ ¹Ò»úÄØ[m
+[23:19:31] [Server thread/INFO]: Fukoooo >> µÈÏÂÍæ[m
+[23:26:19] [Server thread/INFO]: xf998 issued server command: /co i
+[23:26:23] [User Authenticator #72/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[23:26:23] [Server thread/INFO]: Ghost_king_[/127.0.0.1:49798] logged in with entity id 914216 at ([world]2662.333082690701, 74.0, -379.67807616672985)
+[23:26:33] [Server thread/INFO]: xf998 issued server command: /co inspect
+[23:26:39] [Server thread/INFO]: anew_tape >> Ó´[m
+[23:26:45] [Server thread/INFO]: anew_tape >> Õâ²»ÊÇgkÂï[m
+[23:26:48] [Server thread/INFO]: xf998 issued server command: /co i
+[23:26:59] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> £¿[m
+[23:27:05] [Server thread/INFO]: xf998 issued server command: /co inspect
+[23:27:09] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ¸ÄID³ÆºÅÒ²»áÃ»£¿[m
+[23:27:15] [Server thread/INFO]: anew_tape >> en[m
+[23:27:36] [Server thread/INFO]: Villager EntityVillager['Villager'/675044, l='ServerLevel[world]', x=2775.85, y=63.74, z=-423.15] died, message: 'Villager was squished too much'
+[23:27:50] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒ¾õµÃÄãÕâ¸öa ÍêÈ«¾ÍÊÇ Ç¿ĞĞ°ÔÕ¼tabµÚÒ»ĞĞ[m
+[23:27:57] [Server thread/INFO]: anew_tape >> en[m
+[23:27:59] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> a new_tape[m
+[23:28:11] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[23:28:20] [Server thread/INFO]: anew_tape >> Ó¢ÎÄµ¥´ÊÓĞanew[m
+[23:28:24] [Server thread/INFO]: anew_tape >> ²¢²»ÊÇÎÒ[m
+[23:28:26] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> °¡£¿[m
+[23:29:54] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Ë¢É³»ú»¹ÊÇÖ»ÄÜË¢4¸öÂï[m
+[23:30:04] [Server thread/INFO]: anew_tape >> ¶øÇÒ»¹²»ÎÈ¶¨[m
+[23:30:16] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> Õâ£¨[m
+[23:30:29] [Server thread/INFO]: Ghost_king_ issued server command: /co i
+[23:30:54] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÓĞÃ»ÓĞÒ»ÖÖ·ÖÀà Ò»¸öÂ©¶·¿ÉÒÔÂ©Á½ÖÖÎïÆ·µÄ£¨[m
+[23:30:54] [Server thread/INFO]: anew_tape >> ÕâÄêÍ·¿ÇÕæ²»ºÃ´ò[m
+[23:31:19] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-507.15678841162753,0.0
+[23:31:34] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> º£¾§¸ÛÓĞ¿Ç°¡[m
+[23:31:35] [Server thread/WARN]: Magical7 moved too quickly! 0.0,-23.0,0.0
+[23:31:42] [Server thread/INFO]: anew_tape >> ÄÇÊÇÎÒ´òµÄ[m
+[23:32:04] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÄÇÎÒÃÇÔìÒ»¸öÇ±Ó°¿ÇÅ©³¡°É[m
+[23:33:26] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ËäÈ»ÕâÓÖÊÇÒ»¸öÌØĞÂ»ú£¨[m
+[23:33:31] [Server thread/INFO]: anew_tape >> ttttttt[m
+[23:33:32] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÌØĞÔ»ú£¨[m
+[23:34:22] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÎÒÏÈÏÂÁË £¨ ×÷ÒµÃ»Ğ´Íê[m
+[23:34:27] [Server thread/INFO]: anew_tape >> 23333[m
+[23:34:30] [Server thread/INFO]: [0;33;22m<É­Óï´ò²Ğ>[0;32;1m<GKÓÄÁéÍõ>[0;37;1m Ghost_king_ >> ÉÏÏßÁïÒ»È¦¾Í×ß2333[m
+[23:34:35] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[23:34:35] [Server thread/INFO]: Ghost_king_ left the game
+[23:36:42] [Server thread/INFO]: xf998 lost connection: Disconnected
+[23:36:42] [Server thread/INFO]: xf998 left the game
+[23:55:48] [Server thread/INFO]: Villager EntityVillager['Villager'/675041, l='ServerLevel[world]', x=2775.72, y=63.66, z=-423.70] died, message: 'Villager was squished too much'
+[23:56:01] [Server thread/INFO]: Villager EntityVillager['Villager'/675040, l='ServerLevel[world]', x=2775.75, y=63.83, z=-423.17] died, message: 'Villager was squished too much'
+[23:56:04] [Server thread/INFO]: Fukoooo lost connection: Disconnected
+[23:56:04] [Server thread/INFO]: Fukoooo left the game

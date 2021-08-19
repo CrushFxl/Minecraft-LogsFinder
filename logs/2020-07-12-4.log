@@ -1,0 +1,337 @@
+[10:09:12] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[10:09:12] [Server thread/INFO]: Loading properties
+[10:09:12] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[10:09:12] [Server thread/INFO]: Debug logging is disabled
+[10:09:12] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[10:09:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:09:12] [Server thread/INFO]: Default game type: SURVIVAL
+[10:09:12] [Server thread/INFO]: Generating keypair
+[10:09:12] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[10:09:12] [Server thread/INFO]: Using default channel type
+[10:09:13] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[10:09:15] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[10:09:15] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[10:09:15] [Server thread/WARN]: Legacy plugin NoSpawnChunks v2.0-b147 does not specify an api-version.
+[10:09:15] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[10:09:15] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[10:09:15] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[10:09:15] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[10:09:15] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.2.2
+[10:09:15] [Server thread/INFO]: [NoSpawnChunks] Loading NoSpawnChunks v2.0-b147
+[10:09:15] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[10:09:15] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[10:09:15] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[10:09:15] [Server thread/INFO]: [VillagerOptimiser] Loading VillagerOptimiser v1.1.3
+[10:09:15] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[10:09:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:09:15] [Server thread/INFO]: Preparing level "world"
+[10:09:15] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[10:09:22] [Server thread/INFO]: Loaded 6 recipes
+[10:09:23] [Server thread/INFO]: -------- World Settings For [world] --------
+[10:09:23] [Server thread/INFO]: View Distance: 8
+[10:09:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:09:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:09:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:09:23] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[10:09:23] [Server thread/INFO]: Item Merge Radius: 8.0
+[10:09:23] [Server thread/INFO]: Item Despawn Rate: 4000
+[10:09:23] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[10:09:23] [Server thread/INFO]: Mob Spawn Range: 4
+[10:09:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:09:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Experience Merge Radius: 8.0
+[10:09:23] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[10:09:23] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[10:09:23] [Server thread/INFO]: Max TNT Explosions: 100
+[10:09:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[10:09:23] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[10:09:23] [Server thread/INFO]: View Distance: 8
+[10:09:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:09:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:09:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:09:23] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[10:09:23] [Server thread/INFO]: Item Merge Radius: 8.0
+[10:09:23] [Server thread/INFO]: Item Despawn Rate: 4000
+[10:09:23] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[10:09:23] [Server thread/INFO]: Mob Spawn Range: 4
+[10:09:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:09:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Experience Merge Radius: 8.0
+[10:09:23] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[10:09:23] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[10:09:23] [Server thread/INFO]: Max TNT Explosions: 100
+[10:09:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[10:09:23] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[10:09:23] [Server thread/INFO]: View Distance: 8
+[10:09:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:09:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:09:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:09:23] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[10:09:23] [Server thread/INFO]: Item Merge Radius: 8.0
+[10:09:23] [Server thread/INFO]: Item Despawn Rate: 4000
+[10:09:23] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[10:09:23] [Server thread/INFO]: Mob Spawn Range: 4
+[10:09:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:09:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:09:23] [Server thread/INFO]: Experience Merge Radius: 8.0
+[10:09:23] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[10:09:23] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[10:09:23] [Server thread/INFO]: Max TNT Explosions: 100
+[10:09:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[10:09:23] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[10:09:23] [Server thread/INFO]: Preparing spawn area: 0%
+[10:09:23] [Server thread/INFO]: Preparing spawn area: 6%
+[10:09:24] [Server thread/INFO]: Preparing spawn area: 90%
+[10:09:24] [Server thread/INFO]: Preparing spawn area: 91%
+[10:09:25] [Server thread/INFO]: Preparing spawn area: 100%
+[10:09:26] [Server thread/INFO]: Preparing spawn area: 100%
+[10:09:26] [Server thread/INFO]: Preparing spawn area: 100%
+[10:09:26] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[10:09:26] [Server thread/INFO]: Time elapsed: 3110 ms
+[10:09:26] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[10:09:26] [Server thread/INFO]: Preparing spawn area: 0%
+[10:09:26] [Server thread/INFO]: Preparing spawn area: 81%
+[10:09:27] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[10:09:27] [Server thread/INFO]: Time elapsed: 910 ms
+[10:09:27] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[10:09:27] [Server thread/INFO]: Preparing spawn area: 0%
+[10:09:27] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[10:09:27] [Server thread/INFO]: Time elapsed: 405 ms
+[10:09:27] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[10:09:27] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[10:09:27] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[10:09:27] [Server thread/INFO]: --------------------
+[10:09:27] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[10:09:27] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[10:09:27] [Server thread/INFO]: --------------------
+[10:09:27] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[10:09:27] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[10:09:27] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[10:09:27] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[10:09:27] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[10:09:27] [Server thread/INFO]:  
+[10:09:27] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[10:09:27] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[10:09:27] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[10:09:27] [Server thread/INFO]:  
+[10:09:27] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[10:09:27] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[10:09:28] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[10:09:28] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[10:09:33] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[10:09:33] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.2.2
+[10:09:33] [Server thread/INFO]: [NoSpawnChunks] Enabling NoSpawnChunks v2.0-b147*
+[10:09:33] [Server thread/INFO]: [NoSpawnChunks] NoSpawnChunks v2.0-b147 has been enabled. Took 3 ms.
+[10:09:33] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[10:09:33] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[10:09:33] [Server thread/INFO]: [SAML] Loading config.yml...
+[10:09:33] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[10:09:33] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[10:09:33] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[10:09:33] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[10:09:33] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[10:09:33] [Server thread/INFO]: [SAML] Loading messages.yml...
+[10:09:33] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[10:09:34] [Server thread/INFO]: [SAML] Successfully enabled.
+[10:09:34] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[10:09:34] [Server thread/INFO]: [GM+] Checking Your version...
+[10:09:34] [Server thread/INFO]: ===============================
+[10:09:34] [Server thread/INFO]: 
+[10:09:34] [Server thread/INFO]:  GroupManager+ is now enable!
+[10:09:34] [Server thread/INFO]:  
+[10:09:34] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[10:09:34] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[10:09:34] [Server thread/INFO]:  Current version: v3.3
+[10:09:34] [Server thread/INFO]:  
+[10:09:34] [Server thread/INFO]: ===============================
+[10:09:34] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[10:09:34] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[10:09:34] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[10:09:34] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[10:09:34] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[10:09:34] [Server thread/INFO]: [VillagerOptimiser] Enabling VillagerOptimiser v1.1.3
+[10:09:34] [Server thread/INFO]: [VillagerOptimiser] Loading config.yml...
+[10:09:34] [Server thread/INFO]: [VillagerOptimiser] Successfully loaded config.yml.
+[10:09:34] [Server thread/INFO]: [VillagerOptimiser] Successfully enabled.
+[10:09:34] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[10:09:34] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[10:09:34] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[10:09:34] [Server thread/INFO]: [TAB] Animation "MyAnimation1" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[10:09:34] [Server thread/INFO]: [TAB] Animation "ServerName" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[10:09:34] [Server thread/INFO]: [TAB] Animation "web" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[10:09:34] [Server thread/INFO]: [TAB] Animation "online" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[10:09:34] [Server thread/INFO]: [TAB] Animation "vote" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[10:09:34] [Server thread/INFO]: [TAB] Animation "Welcome" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[10:09:34] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[10:09:34] [Server thread/INFO]: [TAB] Animation "time" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[10:09:34] [Server thread/INFO]: [TAB] Animation "versions" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[10:09:36] [Server thread/INFO]: [TAB] Version 2.8.2 is out! Your version: 2.7.2
+[10:09:36] [Server thread/INFO]: [TAB] Get the update at https://www.spigotmc.org/resources/57806/
+[10:09:36] [Server thread/INFO]: [TAB] There were 10 startup warnings.
+[10:09:36] [Server thread/INFO]: [TAB] Enabled in 2309ms
+[10:09:36] [Server thread/INFO]: Done (21.049s)! For help, type "help"
+[10:09:36] [Server thread/INFO]: Timings Reset
+[10:09:36] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[10:09:36] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[10:09:36] [Craft Scheduler Thread - 1/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[10:09:36] [Craft Scheduler Thread - 1/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[10:09:38] [Thread-18/INFO]: --------------------
+[10:09:38] [Thread-18/INFO]: [CoreProtect] Version 19.0 is now available.
+[10:09:38] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[10:09:38] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[10:09:38] [Thread-18/INFO]: --------------------
+[10:09:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5074ms or 101 ticks behind
+[10:09:49] [Server thread/INFO]: [NoSpawnChunks] Unloading chunks...
+[10:09:49] [Server thread/INFO]: [NoSpawnChunks] Unloaded 0 chunks. Took 3 ms.
+[10:09:50] [Server thread/INFO]: [NoSpawnChunks] Freed 1,328 mb!
+[10:09:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@65c6ec65[id=<null>,name=Meister_Petz_,properties={},legacy=false] (/127.0.0.1:61335) lost connection: Disconnected
+[10:10:00] [User Authenticator #1/INFO]: UUID of player DragonRock37 is 6e28f6a9-6d51-48a2-8994-8d54a2bfd109
+[10:10:02] [Server thread/INFO]: DragonRock37[/127.0.0.1:61340] logged in with entity id 119024 at ([world]-50.04448978256249, 64.0, 144.8301564395092)
+[10:10:25] [User Authenticator #1/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[10:10:29] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[10:10:29] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[10:10:29] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:10:29] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[10:10:29] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:10:29] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[10:10:29] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: false | State: RUNNABLE
+[10:10:29] [Paper Watchdog Thread/ERROR]: 	Stack:
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$2$1.accept(Unknown Source)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$2$1.accept(Unknown Source)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		java.util.ArrayList$ArrayListSpliterator.tryAdvance(Unknown Source)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		java.util.stream.StreamSpliterators$WrappingSpliterator.lambda$initPartialTraversalState$0(Unknown Source)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		java.util.stream.StreamSpliterators$WrappingSpliterator$$Lambda$2836/1308857401.getAsBoolean(Unknown Source)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.fillBuffer(Unknown Source)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.doAdvance(Unknown Source)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		java.util.stream.StreamSpliterators$WrappingSpliterator.tryAdvance(Unknown Source)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		java.util.stream.Streams$ConcatSpliterator.tryAdvance(Unknown Source)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.StreamAccumulator$1.tryAdvance(SourceFile:31)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		java.util.stream.Streams$ConcatSpliterator.tryAdvance(Unknown Source)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.StreamAccumulator$1.tryAdvance(SourceFile:31)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		java.util.Spliterators$1Adapter.hasNext(Unknown Source)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VoxelShapes.a(VoxelShapes.java:178)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.a(Entity.java:841)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.a(Entity.java:829)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.e(Entity.java:791)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.move(Entity.java:572)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityItem.tick(EntityItem.java:90)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.entityJoinedWorld(WorldServer.java:759)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer$$Lambda$3031/128907271.accept(Unknown Source)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.a(World.java:858)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:497)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1245)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[10:10:29] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[10:10:29] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:10:29] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[10:10:29] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:10:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[10:10:34] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[10:10:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:10:34] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[10:10:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:10:34] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[10:10:34] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: false | State: RUNNABLE
+[10:10:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[10:10:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Chunk.a(Chunk.java:797)
+[10:10:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.a(World.java:1227)
+[10:10:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityItem.mergeNearby(EntityItem.java:182)
+[10:10:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityItem.tick(EntityItem.java:113)
+[10:10:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.entityJoinedWorld(WorldServer.java:759)
+[10:10:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer$$Lambda$3031/128907271.accept(Unknown Source)
+[10:10:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.a(World.java:858)
+[10:10:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:497)
+[10:10:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1245)
+[10:10:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430)
+[10:10:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[10:10:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[10:10:34] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[10:10:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:10:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[10:10:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:10:39] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-118 (MC: 1.15.2) ---
+[10:10:39] [Paper Watchdog Thread/ERROR]: The server has not responded for 20 seconds! Creating thread dump
+[10:10:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:10:39] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[10:10:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:10:39] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[10:10:39] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: false | State: RUNNABLE
+[10:10:39] [Paper Watchdog Thread/ERROR]: 	Stack:
+[10:10:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Chunk.a(Chunk.java:797)
+[10:10:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.a(World.java:1227)
+[10:10:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityItem.mergeNearby(EntityItem.java:182)
+[10:10:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityItem.tick(EntityItem.java:113)
+[10:10:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.entityJoinedWorld(WorldServer.java:759)
+[10:10:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer$$Lambda$3031/128907271.accept(Unknown Source)
+[10:10:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.a(World.java:858)
+[10:10:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:497)
+[10:10:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1245)
+[10:10:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430)
+[10:10:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[10:10:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[10:10:39] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[10:10:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:10:39] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[10:10:39] [Paper Watchdog Thread/ERROR]: ------------------------------

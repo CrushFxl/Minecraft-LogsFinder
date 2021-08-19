@@ -1,0 +1,34 @@
+[23:14:33] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[23:14:33] [Server thread/INFO]: Loading properties
+[23:14:33] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[23:14:34] [Server thread/INFO]: Debug logging is disabled
+[23:14:34] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[23:14:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:14:34] [Server thread/INFO]: Default game type: SURVIVAL
+[23:14:34] [Server thread/INFO]: Generating keypair
+[23:14:34] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[23:14:34] [Server thread/INFO]: Using default channel type
+[23:14:34] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[23:14:36] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[23:14:36] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[23:14:36] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[23:14:36] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[23:14:36] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[23:14:36] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[23:14:36] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[23:14:36] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[23:14:36] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[23:14:36] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[23:14:36] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[23:14:36] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[23:14:36] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[23:14:36] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[23:14:36] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[23:14:36] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[23:14:36] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[23:14:36] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[23:14:36] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[23:14:36] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[23:14:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:14:36] [Server thread/INFO]: Preparing level "world"
+[23:14:36] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit

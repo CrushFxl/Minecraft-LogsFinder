@@ -1,0 +1,1754 @@
+[08:29:22] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[08:29:22] [Server thread/INFO]: Loading properties
+[08:29:23] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[08:29:23] [Server thread/INFO]: Debug logging is disabled
+[08:29:23] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[08:29:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:29:23] [Server thread/INFO]: Default game type: SURVIVAL
+[08:29:23] [Server thread/INFO]: Generating keypair
+[08:29:23] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[08:29:23] [Server thread/INFO]: Using default channel type
+[08:29:23] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[08:29:26] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[08:29:26] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[08:29:26] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[08:29:26] [Server thread/WARN]: Legacy plugin PlayerPoints v1.7.1 does not specify an api-version.
+[08:29:26] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[08:29:26] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[08:29:26] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[08:29:26] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[08:29:26] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[08:29:26] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[08:29:26] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[08:29:26] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[08:29:26] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[08:29:26] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[08:29:26] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v1.7.1
+[08:29:26] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[08:29:26] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[08:29:26] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[08:29:26] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[08:29:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:29:26] [Server thread/INFO]: Preparing level "world"
+[08:29:26] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[08:29:33] [Server thread/INFO]: Loaded 6 recipes
+[08:29:34] [Server thread/INFO]: -------- World Settings For [world] --------
+[08:29:34] [Server thread/INFO]: View Distance: 12
+[08:29:34] [Server thread/INFO]: Experience Merge Radius: 8.0
+[08:29:34] [Server thread/INFO]: Mob Spawn Range: 4
+[08:29:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[08:29:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:29:34] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[08:29:34] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[08:29:34] [Server thread/INFO]: Max TNT Explosions: 100
+[08:29:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:29:34] [Server thread/INFO]: Item Merge Radius: 8.0
+[08:29:34] [Server thread/INFO]: Item Despawn Rate: 3000
+[08:29:34] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[08:29:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:29:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:29:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[08:29:34] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[08:29:34] [Server thread/INFO]: View Distance: 12
+[08:29:34] [Server thread/INFO]: Experience Merge Radius: 8.0
+[08:29:34] [Server thread/INFO]: Mob Spawn Range: 4
+[08:29:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[08:29:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:29:34] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[08:29:34] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[08:29:34] [Server thread/INFO]: Max TNT Explosions: 100
+[08:29:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:29:34] [Server thread/INFO]: Item Merge Radius: 8.0
+[08:29:34] [Server thread/INFO]: Item Despawn Rate: 3000
+[08:29:34] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[08:29:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:29:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:29:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[08:29:34] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[08:29:34] [Server thread/INFO]: View Distance: 12
+[08:29:34] [Server thread/INFO]: Experience Merge Radius: 8.0
+[08:29:34] [Server thread/INFO]: Mob Spawn Range: 4
+[08:29:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:29:34] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[08:29:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:29:34] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[08:29:34] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[08:29:34] [Server thread/INFO]: Max TNT Explosions: 100
+[08:29:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:29:34] [Server thread/INFO]: Item Merge Radius: 8.0
+[08:29:34] [Server thread/INFO]: Item Despawn Rate: 3000
+[08:29:34] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[08:29:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:29:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:29:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[08:29:34] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[08:29:34] [Server thread/INFO]: Preparing spawn area: 0%
+[08:29:34] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:29:35] [Server thread/INFO]: Preparing spawn area: 17%
+[08:29:35] [Server thread/INFO]: Preparing spawn area: 81%
+[08:29:36] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[08:29:36] [Server thread/INFO]: Time elapsed: 1879 ms
+[08:29:36] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[08:29:36] [Server thread/INFO]: Preparing spawn area: 0%
+[08:29:36] [Server thread/INFO]: Preparing spawn area: 100%
+[08:29:36] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[08:29:36] [Server thread/INFO]: Time elapsed: 610 ms
+[08:29:36] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[08:29:36] [Server thread/INFO]: Preparing spawn area: 0%
+[08:29:37] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[08:29:37] [Server thread/INFO]: Time elapsed: 430 ms
+[08:29:37] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[08:29:37] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[08:29:37] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[08:29:37] [Server thread/INFO]: --------------------
+[08:29:37] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[08:29:37] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[08:29:37] [Server thread/INFO]: --------------------
+[08:29:37] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[08:29:37] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[08:29:37] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[08:29:37] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[08:29:37] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[08:29:37] [Server thread/INFO]:  
+[08:29:37] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[08:29:37] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[08:29:37] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[08:29:37] [Server thread/INFO]:  
+[08:29:37] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[08:29:37] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[08:29:37] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose start
+[08:29:37] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose synched
+[08:29:37] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose script done
+[08:29:37] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] checkpointClose end
+[08:29:37] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[08:29:37] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[08:29:40] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[08:29:40] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[08:29:40] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[08:29:40] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[08:29:40] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[08:29:40] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[08:29:40] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[08:29:40] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[08:29:40] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[08:29:40] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[08:29:40] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[08:29:40] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[08:29:40] [Server thread/INFO]: [EntityTrackerFixer] Vault not found! using default permission system...
+[08:29:40] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[08:29:40] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[08:29:40] [Server thread/INFO]: [SAML] Loading config.yml...
+[08:29:40] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[08:29:40] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[08:29:40] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[08:29:40] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[08:29:40] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[08:29:40] [Server thread/INFO]: [SAML] Loading messages.yml...
+[08:29:40] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[08:29:40] [Server thread/INFO]: [SAML] There is an old chunk cache file. Perhaps the server didn't shut down correctly?
+[08:29:40] [Server thread/INFO]: [SAML] Successfully enabled.
+[08:29:40] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5*
+[08:29:40] [Server thread/INFO]: [ChatC] 聊天管理插件已启用！
+[08:29:40] [Server thread/INFO]: [ChatC] 聊天管理插件当前版本：V0.5 （2017年8月24日）
+[08:29:40] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[08:29:40] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v1.7.1*
+[08:29:40] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0*
+[08:29:40] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[08:29:40] [Server thread/INFO]: [GM+] Checking Your version...
+[08:29:40] [Server thread/INFO]: ===============================
+[08:29:40] [Server thread/INFO]: 
+[08:29:40] [Server thread/INFO]:  GroupManager+ is now enable!
+[08:29:40] [Server thread/INFO]:  
+[08:29:40] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[08:29:40] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[08:29:40] [Server thread/INFO]:  Current version: v3.3
+[08:29:40] [Server thread/INFO]:  
+[08:29:40] [Server thread/INFO]: ===============================
+[08:29:40] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[08:29:40] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[08:29:40] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[08:29:40] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[08:29:40] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[08:29:40] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1*
+[08:29:40] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[08:29:40] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[08:29:40] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[08:29:41] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[08:29:41] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[08:30:02] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[08:30:02] [Server thread/INFO]: [TAB] Enabled in 21315ms
+[08:30:02] [Server thread/INFO]: Done (35.966s)! For help, type "help"
+[08:30:02] [Server thread/INFO]: Timings Reset
+[08:30:02] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[08:30:02] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[08:30:03] [Craft Scheduler Thread - 5/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[08:30:03] [Craft Scheduler Thread - 5/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[08:30:04] [Thread-18/INFO]: --------------------
+[08:30:04] [Thread-18/INFO]: [CoreProtect] Version 19.0 is now available.
+[08:30:04] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[08:30:04] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[08:30:04] [Thread-18/INFO]: --------------------
+[08:30:19] [User Authenticator #1/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[08:30:19] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[08:30:19] [Server thread/INFO]: jason_ji[/127.0.0.1:59909] logged in with entity id 837 at ([world]5270.330211628677, 74.0, 329.69725518631844)
+[08:30:39] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[08:30:39] [Server thread/INFO]: jason_ji left the game
+[08:32:31] [User Authenticator #2/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[08:32:32] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:59940] logged in with entity id 1440 at ([world]2691.4787256940326, 133.5, -393.22198843902146)
+[08:33:01] [User Authenticator #2/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[08:33:01] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:59951] logged in with entity id 2260 at ([world]1094.4665765043605, 63.5625, -1742.6667400620272)
+[08:33:34] [Server thread/INFO]: _YuanXiao_ >> 李子！！！
+[08:33:41] [Server thread/INFO]: Li_zi_wei >> qwq
+[08:33:44] [Server thread/WARN]: _YuanXiao_ moved too quickly! -1.2312686546956684,0.0,10.205986017976443
+[08:33:52] [Server thread/INFO]: Li_zi_wei >> 来白嫖了qwq
+[08:33:59] [Server thread/INFO]: _YuanXiao_ >> 我在海晶溺尸她
+[08:34:04] [Server thread/INFO]: _YuanXiao_ >> 塔
+[08:34:53] [Server thread/INFO]: _YuanXiao_ >> 只准拿一个
+[08:34:58] [Server thread/INFO]: Li_zi_wei >> 嗯
+[08:35:17] [Server thread/INFO]: _YuanXiao_ >> 我旁边的粉色潜影盒里
+[08:36:19] [Server thread/INFO]: Li_zi_wei >> 溺尸塔在哪qwq
+[08:36:54] [Server thread/INFO]: _YuanXiao_ >> 多拿了我会用/co i查的
+[08:37:11] [Server thread/INFO]: Li_zi_wei >> 我找不到溺尸塔qwq
+[08:37:33] [Server thread/INFO]: _YuanXiao_ >> 你站在地狱门哪里我来找你
+[08:38:04] [Server thread/INFO]: Li_zi_wei >> qwq
+[08:38:19] [Server thread/INFO]: Li_zi_wei >> 我跑了qwq
+[08:39:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[08:42:09] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[08:42:09] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[08:45:53] [User Authenticator #3/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[08:45:53] [Server thread/INFO]: Jichen233[/127.0.0.1:60167] logged in with entity id 9995 at ([world]1095.3563640515194, 63.0, -1748.899040130389)
+[08:48:26] [Server thread/INFO]: Li_zi_wei issued server command: /msg Jichen233 我去附魔三叉戟
+[08:48:48] [Server thread/INFO]: Jichen233 issued server command: /msg Li_zi_wei 你这皮肤谁的qwq
+[08:49:05] [Server thread/INFO]: Li_zi_wei issued server command: /msg jichen233 剑圣
+[08:49:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[08:49:49] [Server thread/INFO]: Jichen233 issued server command: /msg Li_zi_wei 是原皮还是皮肤
+[08:49:55] [Server thread/INFO]: Li_zi_wei >> 皮肤
+[08:52:26] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_15_R1.ChunkMapDistance.b(ChunkMapDistance.java:230) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.movePlayer(PlayerChunkMap.java:1363) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.movePlayer(ChunkProviderServer.java:811) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1145) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying.a(SourceFile:122) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying$PacketPlayInPositionLook.a(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1038) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1031) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:1015) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:938) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[08:52:43] [Server thread/INFO]: Li_zi_wei >> 我走了qwq
+[08:52:47] [Server thread/INFO]: Jichen233 >> qwq
+[08:52:52] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[08:52:52] [Server thread/INFO]: Li_zi_wei left the game
+[08:53:21] [User Authenticator #4/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[08:53:22] [Server thread/INFO]: 4022sun[/127.0.0.1:60299] logged in with entity id 13566 at ([world]1753.664419320747, 7.0, 367.4305956060224)
+[08:53:34] [Server thread/INFO]: 4022sun >> XD
+[08:57:23] [User Authenticator #5/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[08:57:23] [Server thread/INFO]: Auston_mc[/127.0.0.1:60366] logged in with entity id 14930 at ([world]-101.5, 66.0, 178.9105189846652)
+[08:58:07] [Server thread/INFO]: Auston_mc lost connection: Timed out
+[08:58:07] [Server thread/INFO]: Auston_mc left the game
+[08:58:46] [User Authenticator #6/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[08:58:46] [Server thread/INFO]: Auston_mc[/127.0.0.1:60391] logged in with entity id 15448 at ([world]-101.5, 66.0, 178.9105189846652)
+[08:59:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[08:59:41] [Server thread/INFO]: Auston_mc has made the advancement [A Seedy Place]
+[09:02:39] [Server thread/INFO]: Auston_mc has made the advancement [We Need to Go Deeper]
+[09:08:08] [Server thread/INFO]: Auston_mc >> 北梦怎么最近不上线呢？
+[09:08:23] [Server thread/INFO]: 4022sun >> 电脑炸了
+[09:12:09] [Server thread/INFO]: Auston_mc has made the advancement [Cover Me With Diamonds]
+[09:15:33] [Server thread/INFO]: Auston_mc has made the advancement [Sweet Dreams]
+[09:16:00] [User Authenticator #7/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[09:16:00] [Server thread/INFO]: Magical7[/127.0.0.1:60675] logged in with entity id 27363 at ([world]1595.871360367183, 68.0, 831.5086509337963)
+[09:16:49] [Server thread/INFO]: 4022sun issued server command: /co i
+[09:16:58] [Server thread/INFO]: 4022sun >> e
+[09:17:01] [Server thread/INFO]: 4022sun issued server command: /co i
+[09:19:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[09:20:59] [Server thread/INFO]: Villager EntityVillager['Mason'/1910, uuid='d356fd80-6813-4d44-b442-da4dd35671ef', l='world', x=2770.30, y=73.58, z=-409.70, cx=173, cz=-26, tl=632932, v=true, d=false] died, message: 'Mason was slain by 森语'
+[09:21:34] [Server thread/INFO]: Villager EntityVillager['Mason'/1920, uuid='cf3b1178-1adb-46c9-b6c6-a2e484407d01', l='world', x=2770.30, y=73.30, z=-409.30, cx=173, cz=-26, tl=564272, v=true, d=false] died, message: 'Mason was slain by 森语'
+[09:21:40] [Server thread/INFO]: Villager EntityVillager['Mason'/1921, uuid='17dbf246-dc1f-4c37-aed3-16a70ac9acfa', l='world', x=2770.30, y=73.52, z=-409.30, cx=173, cz=-26, tl=486509, v=true, d=false] died, message: 'Mason was slain by 森语'
+[09:21:49] [Server thread/INFO]: Villager EntityVillager['Mason'/1849, uuid='88f668e2-ee67-441a-b0e9-7e40239f1d99', l='world', x=2770.47, y=73.70, z=-409.51, cx=173, cz=-26, tl=563771, v=true, d=false] died, message: 'Mason was slain by 森语'
+[09:23:22] [User Authenticator #8/INFO]: UUID of player HGhigh is 601024e8-d318-4d25-881d-fd0ad713fde3
+[09:23:22] [Server thread/INFO]: HGhigh[/127.0.0.1:60798] logged in with entity id 32489 at ([world_nether]335.30395437172785, 115.0, 3.096326073267385)
+[09:25:06] [Server thread/INFO]: Auston_mc >> 4022sun,你在干嘛？
+[09:25:14] [Server thread/INFO]: 4022sun >> 检查村民……
+[09:25:29] [Server thread/INFO]: Auston_mc >> 真辛苦
+[09:25:30] [Server thread/INFO]: 4022sun >> 你是海晶的嘛
+[09:25:43] [Server thread/INFO]: Auston_mc >> 嗯，北梦推荐的
+[09:25:50] [Server thread/INFO]: 4022sun >> 哦
+[09:25:56] [Server thread/INFO]: 4022sun >> 加群了没
+[09:26:15] [Server thread/INFO]: Auston_mc >> na个群？
+[09:26:21] [Server thread/INFO]: 4022sun >> 海晶内部群啊
+[09:26:29] [Server thread/INFO]: Auston_mc >> mei
+[09:26:57] [Server thread/INFO]: 4022sun issued server command: /may anston_mc 1001054828
+[09:27:02] [Server thread/INFO]: 4022sun issued server command: /help
+[09:27:09] [Server thread/INFO]: 4022sun >> 1001054828
+[09:28:02] [Server thread/INFO]: Auston_mc >> 发了
+[09:28:16] [Server thread/INFO]: 4022sun >> 等ghost同意QWQ
+[09:28:21] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[09:28:21] [Server thread/INFO]: Auston_mc left the game
+[09:29:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[09:29:52] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[09:29:52] [Server thread/INFO]: 4022sun left the game
+[09:30:02] [Server thread/INFO]: [公告] [活动·这是我的战争] 现已开放报名，详见群内公告 
+[09:33:21] [User Authenticator #9/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[09:33:21] [Server thread/INFO]: Auston_mc[/127.0.0.1:60962] logged in with entity id 39318 at ([world]2770.1799297768066, 70.0, -346.54696547823704)
+[09:33:24] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[09:33:24] [Server thread/INFO]: Magical7 left the game
+[09:43:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@449dff40[id=<null>,name=Yvette,properties={},legacy=false] (/127.0.0.1:61133) lost connection: Disconnected
+[09:47:09] [Server thread/WARN]: Jichen233 moved too quickly! -1650.8348959405566,16.145106700651638,-234.85100142434808
+[09:50:27] [Server thread/WARN]: fb51cd68-8735-487c-84b9-fe85740f236d (vehicle of Jichen233) moved wrongly!
+[09:50:27] [Server thread/WARN]: fb51cd68-8735-487c-84b9-fe85740f236d (vehicle of Jichen233) moved wrongly!
+[09:50:41] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[09:50:41] [Server thread/INFO]: Jichen233 left the game
+[09:51:36] [Server thread/INFO]: Auston_mc has made the advancement [Acquire Hardware]
+[09:55:26] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[09:55:26] [Server thread/INFO]: _YuanXiao_ left the game
+[09:58:10] [User Authenticator #10/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[09:58:10] [Server thread/INFO]: adhesive_tape[/127.0.0.1:61368] logged in with entity id 48606 at ([world_nether]88.56285659515893, 120.0, 996.8721750042095)
+[09:58:54] [Server thread/INFO]: adhesive_tape >> Auston_mc是大佬？
+[09:59:16] [Server thread/INFO]: Auston_mc >> 不是
+[09:59:29] [Server thread/INFO]: adhesive_tape >> 海晶又收人了
+[09:59:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[09:59:55] [Server thread/INFO]: Auston_mc has made the advancement [Eye Spy]
+[10:00:26] [User Authenticator #11/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[10:00:26] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:61407] logged in with entity id 49291 at ([world]1150.699999988079, 65.0, 2272.5)
+[10:00:32] [Server thread/INFO]: Auston_mc has made the advancement [The End?]
+[10:01:08] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[10:01:42] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[10:01:49] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[10:01:49] [Server thread/INFO]: Auston_mc left the game
+[10:04:05] [Server thread/INFO]: adhesive_tape >> 挂机了
+[10:05:45] [User Authenticator #12/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[10:05:45] [Server thread/INFO]: Auston_mc[/127.0.0.1:61498] logged in with entity id 52677 at ([world_the_end]3.3125, 62.0, 77.87110531157512)
+[10:05:55] [Server thread/INFO]: _YuanXiao_ >> wc
+[10:06:06] [Server thread/INFO]: adhesive_tape >> 挂机了
+[10:06:20] [Server thread/INFO]: adhesive_tape >> 估计下午2点左右回来
+[10:06:59] [Server thread/INFO]: _YuanXiao_ >> 谁tm偷我甘蔗机的活塞
+[10:07:04] [Server thread/INFO]: Auston_mc fell out of the world
+[10:14:15] [Server thread/INFO]: Auston_mc was slain by Spider
+[10:18:19] [User Authenticator #13/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[10:18:19] [Server thread/INFO]: Laohuaji[/127.0.0.1:61687] logged in with entity id 59316 at ([world_nether]198.04986514482894, 115.1875, 764.8572423301515)
+[10:19:37] [Server thread/WARN]: Laohuaji moved wrongly!
+[10:19:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[10:20:20] [Server thread/INFO]: Auston_mc has made the advancement [Monster Hunter]
+[10:22:17] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[10:22:17] [Server thread/INFO]: Auston_mc left the game
+[10:22:26] [User Authenticator #14/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[10:22:26] [Server thread/INFO]: Auston_mc[/127.0.0.1:61754] logged in with entity id 62728 at ([world_the_end]-8.088343615974736, 0.5, 307.240569874323)
+[10:22:37] [Server thread/INFO]: <管理> Laohuaji >> qwq
+[10:22:44] [Server thread/INFO]: _YuanXiao_ >> Laohuaji awa
+[10:29:43] [Server thread/INFO]: HGhigh lost connection: Disconnected
+[10:29:43] [Server thread/INFO]: HGhigh left the game
+[10:29:45] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[10:29:45] [Server thread/INFO]: Laohuaji left the game
+[10:29:50] [Server thread/INFO]: Auston_mc >> ?
+[10:30:02] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[10:30:25] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[10:30:25] [Server thread/INFO]: Auston_mc left the game
+[10:30:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@18385afc[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:61888) lost connection: Disconnected
+[10:31:09] [User Authenticator #15/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[10:31:09] [Server thread/INFO]: Auston_mc[/127.0.0.1:61900] logged in with entity id 70744 at ([world_the_end]-6.813510654308059, 0.5, 310.44678409689726)
+[10:33:20] [Server thread/INFO]: There are 3 of a max 40 players online: adhesive_tape, _YuanXiao_, Auston_mc
+[10:39:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@eba8c95[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:62027) lost connection: Disconnected
+[10:45:13] [User Authenticator #16/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[10:45:13] [Server thread/INFO]: Laohuaji[/127.0.0.1:62111] logged in with entity id 79331 at ([world]2799.53617141211, 63.5, -403.6269663050922)
+[10:45:46] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_15_R1.ChunkMapDistance.b(ChunkMapDistance.java:230) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.movePlayer(PlayerChunkMap.java:1363) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.movePlayer(ChunkProviderServer.java:811) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1145) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying.a(SourceFile:122) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:56) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1038) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1031) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:1015) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:938) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[10:48:36] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[10:48:36] [Server thread/INFO]: Auston_mc left the game
+[10:56:47] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[10:56:47] [Server thread/INFO]: Laohuaji left the game
+[10:58:09] [User Authenticator #17/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[10:58:09] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:62299] logged in with entity id 87721 at ([world]1091.518311931421, 63.0, -1746.4257998833211)
+[10:59:07] [User Authenticator #17/INFO]: UUID of player fly_pigman01 is ee66c593-3d27-4832-911d-b569dd50102f
+[10:59:07] [Server thread/INFO]: fly_pigman01[/127.0.0.1:62319] logged in with entity id 88100 at ([world]5159.697022916601, 64.0, 169.30261716459103)
+[10:59:21] [Server thread/INFO]: Li_zi_wei has made the advancement [A Throwaway Joke]
+[10:59:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[11:00:56] [User Authenticator #18/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[11:00:56] [Server thread/INFO]: Auston_mc[/127.0.0.1:62346] logged in with entity id 89994 at ([world]2768.300000011921, 64.0, -395.18302775697316)
+[11:01:19] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[11:01:19] [Server thread/INFO]: Auston_mc left the game
+[11:01:44] [Server thread/INFO]: fly_pigman01 lost connection: Disconnected
+[11:01:44] [Server thread/INFO]: fly_pigman01 left the game
+[11:02:21] [User Authenticator #19/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[11:02:21] [Server thread/INFO]: Auston_mc[/127.0.0.1:62373] logged in with entity id 91834 at ([world]2773.9903767909955, 63.0, -402.2948249409961)
+[11:02:51] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[11:02:51] [Server thread/INFO]: Auston_mc left the game
+[11:03:35] [User Authenticator #20/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[11:03:35] [Server thread/INFO]: Auston_mc[/127.0.0.1:62397] logged in with entity id 93405 at ([world]2779.17377639452, 63.0, -396.83849475820165)
+[11:08:41] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[11:08:41] [Server thread/INFO]: Li_zi_wei left the game
+[11:16:32] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[11:16:32] [Server thread/INFO]: Auston_mc left the game
+[11:25:40] [User Authenticator #21/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[11:25:40] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:62742] logged in with entity id 106471 at ([world]1089.1912773041342, 67.0, -1778.5450134554155)
+[11:30:02] [Server thread/INFO]: [公告] [活动·这是我的战争] 现已开放报名，详见群内公告 
+[11:31:34] [User Authenticator #22/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[11:31:34] [Server thread/INFO]: 4022sun[/127.0.0.1:62834] logged in with entity id 109779 at ([world]2741.7539924726084, 64.0, -382.00080602280525)
+[11:31:40] [Server thread/INFO]: 4022sun >> e
+[11:31:44] [Server thread/INFO]: 4022sun >> tape
+[11:31:53] [Server thread/INFO]: 4022sun >> 你怎么用森语同款皮肤
+[11:44:25] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[11:44:25] [Server thread/INFO]: Li_zi_wei left the game
+[11:49:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@6457658f[id=<null>,name=SKDR_LikeLovey,properties={},legacy=false] (/127.0.0.1:63098) lost connection: Disconnected
+[11:49:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@42f29325[id=<null>,name=SKDR_LikeLovey,properties={},legacy=false] (/127.0.0.1:63099) lost connection: Disconnected
+[11:53:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@73b72e65[id=<null>,name=SKDR_LikeLovey,properties={},legacy=false] (/127.0.0.1:63157) lost connection: Disconnected
+[11:53:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@381de1bc[id=<null>,name=SKDR_LikeLovey,properties={},legacy=false] (/127.0.0.1:63158) lost connection: Disconnected
+[12:01:04] [User Authenticator #23/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[12:01:04] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:63269] logged in with entity id 130376 at ([world]1091.1039130177155, 65.5, -1780.0315210074862)
+[12:17:11] [Server thread/INFO]: 未知指令.键入"/help"查看帮助
+[12:17:13] [Server thread/INFO]: There are 4 of a max 40 players online: adhesive_tape, _YuanXiao_, 4022sun, Li_zi_wei
+[12:17:18] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 19.99, 20.0, 20.0
+[12:17:22] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[12:17:22] [Server thread/INFO]: 4022sun left the game
+[12:17:37] [User Authenticator #24/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[12:17:37] [Server thread/INFO]: 4022sun[/127.0.0.1:63523] logged in with entity id 142828 at ([world]2522.3342141637672, 66.0, -356.5692805046683)
+[12:22:25] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[12:22:25] [Server thread/INFO]: 4022sun left the game
+[12:23:24] [Server thread/INFO]: There are 3 of a max 40 players online: adhesive_tape, _YuanXiao_, Li_zi_wei
+[12:25:41] [User Authenticator #25/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[12:25:41] [Server thread/INFO]: Auston_mc[/127.0.0.1:63649] logged in with entity id 148349 at ([world]2746.994178896321, 63.0, -379.47517822524435)
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:26:51] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[12:26:51] [Server thread/INFO]: Auston_mc left the game
+[12:27:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@254eee09[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:63674) lost connection: Disconnected
+[12:27:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c933df5[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:63682) lost connection: Disconnected
+[12:30:02] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[12:31:55] [User Authenticator #26/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[12:31:55] [Server thread/INFO]: Auston_mc[/127.0.0.1:63757] logged in with entity id 152508 at ([world]2746.994178896321, 63.0, -379.47517822524435)
+[12:37:51] [Server thread/INFO]: Auston_mc >> 今天有什么肝的？
+[12:38:39] [Server thread/INFO]: Auston_mc lost connection: Timed out
+[12:38:39] [Server thread/INFO]: Auston_mc left the game
+[12:40:21] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[12:40:21] [Server thread/INFO]: Li_zi_wei left the game
+[12:47:53] [Server thread/INFO]: There are 2 of a max 40 players online: adhesive_tape, _YuanXiao_
+[12:48:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@1bcd7831[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:64007) lost connection: Disconnected
+[12:50:23] [User Authenticator #27/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[12:50:23] [Server thread/INFO]: HitoShouri[/127.0.0.1:64037] logged in with entity id 162020 at ([world]1330.699999988079, 60.0, 160.69999998807907)
+[12:51:42] [User Authenticator #28/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[12:51:42] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:64061] logged in with entity id 163165 at ([world_nether]183.69999998807907, 110.0, 1010.9460635070046)
+[12:53:15] [User Authenticator #29/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[12:53:15] [Server thread/INFO]: Auston_mc[/127.0.0.1:64086] logged in with entity id 164181 at ([world_nether]335.03575368840944, 115.0, 18.200295295721126)
+[12:53:44] [User Authenticator #29/INFO]: UUID of player B_lastmess is 908a5f03-1809-4582-bb33-4d411a859fcb
+[12:53:44] [Server thread/INFO]: B_lastmess[/127.0.0.1:64092] logged in with entity id 164749 at ([world]2730.605082714052, 62.84065758990003, -324.69999998807907)
+[12:56:14] [Server thread/INFO]: <管理> B_lastmess >> ohhhhhhh
+[12:56:17] [Server thread/INFO]: B_lastmess issued server command: /
+[12:56:17] [Server thread/INFO]: Auston_mc >> ?
+[12:56:22] [Server thread/INFO]: <管理> B_lastmess >> .
+[12:56:29] [Server thread/INFO]: B_lastmess issued server command: /me .
+[12:58:18] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[12:58:32] [Server thread/INFO]: sen_lv_ling_ issued server command: /co l 2
+[12:58:40] [Server thread/INFO]: sen_lv_ling_ issued server command: /co l 3
+[12:58:41] [Server thread/INFO]: HitoShouri >> 地狱的猪人塔的坐标是多少呀？正方形的.
+[12:58:46] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[12:58:57] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_15_R1.ChunkMapDistance.b(ChunkMapDistance.java:230) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.movePlayer(PlayerChunkMap.java:1363) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.movePlayer(ChunkProviderServer.java:811) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1145) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying.a(SourceFile:122) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:56) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1038) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1031) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeAll(IAsyncTaskHandler.java:95) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1172) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[12:59:04] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我怀疑你们在吃附魔书
+[12:59:14] [Server thread/INFO]: <管理> B_lastmess >> az
+[12:59:17] [Server thread/INFO]: <管理> B_lastmess >> .
+[12:59:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[12:59:49] [Server thread/INFO]: _YuanXiao_ drowned
+[12:59:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 耐久2 经修2 时运
+[12:59:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[13:00:15] [Server thread/INFO]: HitoShouri >> 我严重怀疑我被尽言了。
+[13:00:18] [Server thread/INFO]: Auston_mc issued server command: /co i
+[13:00:27] [Server thread/INFO]: <管理> B_lastmess >> ..
+[13:00:45] [Server thread/INFO]: B_lastmess issued server command: /co i
+[13:00:45] [Server thread/INFO]: Auston_mc issued server command: /co i
+[13:00:51] [Server thread/INFO]: B_lastmess issued server command: /co i 2
+[13:00:56] [Server thread/INFO]: B_lastmess issued server command: /co l 2
+[13:00:57] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[13:00:57] [Server thread/INFO]: Auston_mc left the game
+[13:01:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@21ba0f1b[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:64210) lost connection: Disconnected
+[13:01:56] [Server thread/INFO]: HitoShouri >> 好像。真的禁言了。。。。。
+[13:02:40] [Server thread/INFO]: B_lastmess issued server command: /tell sen_lv_ling_ .
+[13:03:12] [User Authenticator #30/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[13:03:12] [Server thread/INFO]: Auston_mc[/127.0.0.1:64243] logged in with entity id 247627 at ([world]2803.699999988079, 62.0, -427.69999998807907)
+[13:03:28] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这家伙经修敢卖我2绿宝石
+[13:03:33] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 先打死
+[13:03:40] [Server thread/INFO]: Villager EntityVillager[''/165219, uuid='beafdb2a-c901-4922-a20c-4be60ae9bf79', l='world', x=2770.30, y=73.79, z=-409.30, cx=173, cz=-26, tl=1834786, v=true, d=false] died, message: '小泠 was slain by 森语'
+[13:04:37] [Server thread/INFO]: There are 6 of a max 40 players online: adhesive_tape, _YuanXiao_, HitoShouri, sen_lv_ling_, B_lastmess, Auston_mc
+[13:05:25] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[13:05:25] [Server thread/INFO]: Auston_mc left the game
+[13:06:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b710061[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:64300) lost connection: Disconnected
+[13:06:49] [User Authenticator #31/INFO]: Disconnecting com.mojang.authlib.GameProfile@73630f76[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:64312): Authentication servers are down. Please try again later, sorry!
+[13:06:49] [User Authenticator #31/ERROR]: Couldn't verify username because servers are unavailable
+[13:06:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@73630f76[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:64312) lost connection: Authentication servers are down. Please try again later, sorry!
+[13:07:25] [User Authenticator #31/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[13:07:25] [Server thread/INFO]: Auston_mc[/127.0.0.1:64332] logged in with entity id 345951 at ([world]2803.699999988079, 62.0, -427.69999998807907)
+[13:07:47] [User Authenticator #31/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[13:07:47] [Server thread/INFO]: Xin_Sai[/127.0.0.1:64340] logged in with entity id 354584 at ([world]2781.897412641036, 63.0, -405.5065491439843)
+[13:07:55] [Server thread/INFO]: There are 7 of a max 40 players online: adhesive_tape, _YuanXiao_, HitoShouri, sen_lv_ling_, B_lastmess, Auston_mc, Xin_Sai
+[13:08:29] [Server thread/INFO]: Xin_Sai >> .
+[13:09:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[13:10:35] [Server thread/INFO]: HitoShouri lost connection: Timed out
+[13:10:35] [Server thread/INFO]: HitoShouri left the game
+[13:15:57] [Server thread/INFO]: Auston_mc has made the advancement [What a Deal!]
+[13:20:17] [Server thread/INFO]: <管理> B_lastmess >> .
+[13:22:09] [Server thread/ERROR]: Block at 1,132, 62, 2,270 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@28aef708. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[13:23:48] [Server thread/INFO]: Auston_mc issued server command: /co i
+[13:24:33] [Server thread/INFO]: B_lastmess issued server command: /co l a:kill r:3
+[13:25:04] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[13:25:04] [Server thread/INFO]: Auston_mc left the game
+[13:25:29] [User Authenticator #32/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[13:25:29] [Server thread/INFO]: Auston_mc[/127.0.0.1:64629] logged in with entity id 661304 at ([world_nether]451.04869335797963, 115.0, 21.3699183362192)
+[13:25:50] [Server thread/INFO]: Auston_mc issued server command: /co i
+[13:29:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> wtm
+[13:29:20] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[13:29:31] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[13:29:32] [Server thread/INFO]: Auston_mc >> 怎么挂机？
+[13:29:42] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[13:29:53] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[13:30:02] [Server thread/INFO]: [公告] [活动·这是我的战争] 现已开放报名，详见群内公告 
+[13:32:24] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[13:32:36] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[13:33:29] [Server thread/INFO]: _YuanXiao_ >> ???
+[13:33:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你醒了
+[13:34:02] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[13:34:02] [Server thread/INFO]: Auston_mc left the game
+[13:34:22] [User Authenticator #33/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[13:34:22] [Server thread/INFO]: Auston_mc[/127.0.0.1:64763] logged in with entity id 686123 at ([world]109.56880335705013, 67.0, 230.39883720019043)
+[13:34:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@540bfa8[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:64773) lost connection: Disconnected
+[13:35:25] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[13:35:46] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[13:35:52] [Server thread/INFO]: _YuanXiao_ >> 麻了
+[13:36:00] [Server thread/INFO]: _YuanXiao_ >> 装备没了
+[13:36:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> co i 查不了和展示框的交互？？？
+[13:36:23] [Server thread/INFO]: _YuanXiao_ >> 等下用贡献点回档背包把
+[13:36:46] [Server thread/INFO]: Auston_mc >> 好像在女巫塔的箱子
+[13:36:53] [Server thread/INFO]: _YuanXiao_ >> ！！！
+[13:36:56] [Server thread/INFO]: <管理> B_lastmess >> .
+[13:37:00] [Server thread/INFO]: <管理> B_lastmess >> 我活了
+[13:37:12] [Server thread/INFO]: <管理> B_lastmess >> 解除封印！
+[13:37:42] [User Authenticator #34/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[13:37:42] [Server thread/INFO]: HitoShouri[/127.0.0.1:64816] logged in with entity id 695441 at ([world_nether]-22.570870018469346, 115.0, 21.68784002583005)
+[13:37:49] [Server thread/INFO]: Xin_Sai >> hi
+[13:37:56] [Server thread/INFO]: _YuanXiao_ >> 谢谢翰明
+[13:37:59] [Server thread/INFO]: HitoShouri >> hi
+[13:38:06] [Server thread/INFO]: Auston_mc >> hi
+[13:39:29] [Server thread/INFO]: _YuanXiao_ >> 翰明是生存模式吗
+[13:39:32] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 是
+[13:39:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不信你去砍他
+[13:39:49] [Server thread/INFO]: <管理> B_lastmess >> ..
+[13:40:08] [Server thread/INFO]: <管理> B_lastmess >> 就嫖火药的时候顺便安置一下（（
+[13:40:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@181360cd[id=<null>,name=hzh,properties={},legacy=false] (/127.0.0.1:64859) lost connection: Disconnected
+[13:40:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@37ea7f63[id=<null>,name=hzh,properties={},legacy=false] (/127.0.0.1:64863) lost connection: Disconnected
+[13:40:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e35d7c3[id=<null>,name=hzh,properties={},legacy=false] (/127.0.0.1:64864) lost connection: Disconnected
+[13:40:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@58e5499c[id=<null>,name=hzh,properties={},legacy=false] (/127.0.0.1:64865) lost connection: Disconnected
+[13:40:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a3d34a8[id=<null>,name=hzh,properties={},legacy=false] (/127.0.0.1:64867) lost connection: Disconnected
+[13:41:25] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 我在共镇
+[13:41:27] [Server thread/INFO]: _YuanXiao_ >> 等下
+[13:41:40] [Server thread/INFO]: _YuanXiao_ >> 我装鞘翅的盒子不见了
+[13:41:43] [Server thread/INFO]: _YuanXiao_ >> !!!
+[13:41:43] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri !
+[13:41:55] [Server thread/INFO]: _YuanXiao_ >> 还有3个鞘翅在里面啊
+[13:42:04] [Server thread/INFO]: <管理> B_lastmess >> 没拿,我清空背包再捡的东西（（
+[13:42:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 随身把盒子带身上？
+[13:42:15] [Server thread/INFO]: <管理> B_lastmess >> (千真万确
+[13:42:20] [Server thread/INFO]: <管理> B_lastmess >> 我也是（（
+[13:42:21] [Server thread/INFO]: _YuanXiao_ >> 我信你
+[13:42:29] [Server thread/INFO]: Auston_mc >> 真够肝的
+[13:42:38] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 带个末影箱不就对了 = =
+[13:42:44] [Server thread/INFO]: <管理> B_lastmess >> 我没有（（
+[13:42:49] [Server thread/INFO]: Xin_Sai >> 危 我这里三个苦力怕在顶上
+[13:43:01] [Server thread/INFO]: _YuanXiao_ >> 那就是掉在角落里你没捡到
+[13:43:12] [Server thread/INFO]: _YuanXiao_ >> 没事，我在去找几个
+[13:43:13] [Server thread/INFO]: <管理> B_lastmess >> az
+[13:43:30] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 你在哪？
+[13:43:35] [Server thread/INFO]: Auston_mc >> 元宵，带上我？
+[13:43:40] [Server thread/INFO]: _YuanXiao_ >> 可以
+[13:43:49] [Server thread/INFO]: Auston_mc >> 现在？
+[13:43:51] [Server thread/INFO]: _YuanXiao_ >> 我做一盒烟花
+[13:44:17] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 青金石呢？
+[13:44:34] [Server thread/INFO]: Auston_mc lost connection: Timed out
+[13:44:34] [Server thread/INFO]: Auston_mc left the game
+[13:44:56] [User Authenticator #35/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[13:44:56] [Server thread/INFO]: Auston_mc[/127.0.0.1:64930] logged in with entity id 717222 at ([world_nether]333.57448398128093, 115.875, 2.3525340875963643)
+[13:45:36] [Server thread/INFO]: Auston_mc has made the advancement [Isn't It Iron Pick]
+[13:46:00] [Server thread/INFO]: Auston_mc has made the advancement [Suit Up]
+[13:46:22] [Server thread/INFO]: Auston_mc >> 元宵你现在在哪？
+[13:46:25] [Server thread/WARN]: HitoShouri moved wrongly!
+[13:46:33] [Server thread/INFO]: _YuanXiao_ >> 女巫塔
+[13:46:49] [Server thread/INFO]: Auston_mc >> 现在去末地吗？
+[13:46:59] [Server thread/INFO]: _YuanXiao_ >> dx
+[13:47:06] [Server thread/INFO]: Auston_mc >> ?
+[13:47:11] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 都行
+[13:47:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[13:47:48] [Server thread/INFO]: <管理> B_lastmess >> 我不记得我开始的设计了（
+[13:47:51] [Server thread/INFO]: _YuanXiao_ >> 你去海晶拿8个小金人
+[13:47:51] [Server thread/INFO]: <管理> B_lastmess >> az?
+[13:48:01] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 在吗
+[13:48:09] [Server thread/INFO]: Auston_mc >> ok
+[13:48:10] [Server thread/INFO]: _YuanXiao_ >> 反正小金人都是我补的awa
+[13:48:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 给你
+[13:48:27] [Server thread/INFO]: <管理> B_lastmess >> 不用了（（
+[13:48:35] [Server thread/INFO]: <管理> B_lastmess >> 我要这个干嘛（（
+[13:48:36] [Server thread/INFO]: HitoShouri tried to swim in lava
+[13:48:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 装饰
+[13:48:42] [Server thread/INFO]: Xin_Sai >> ?
+[13:48:59] [Server thread/INFO]: <管理> B_lastmess >> 挖山么亲（
+[13:49:09] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你告诉我咋挖
+[13:49:30] [Server thread/INFO]: HitoShouri >> 淦
+[13:49:35] [Server thread/INFO]: _YuanXiao_ >> 还有金胡萝卜
+[13:49:54] [Server thread/INFO]: HitoShouri >> 口吐芬芳
+[13:50:10] [Server thread/INFO]: _YuanXiao_ >> 最好多弄点以防万一
+[13:50:23] [Server thread/INFO]: _YuanXiao_ >> 反正不要钱是把森语awa
+[13:50:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 严禁浪费金萝北
+[13:50:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> = =
+[13:50:33] [Server thread/INFO]: Auston_mc >> 一人一组够了吧？
+[13:50:37] [Server thread/ERROR]: Could not pass event PlayerChatEvent to ChatC v0.5
+java.lang.IllegalArgumentException: Illegal group reference
+	at java.util.regex.Matcher.appendReplacement(Unknown Source) ~[?:1.8.0_181]
+	at java.util.regex.Matcher.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.String.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at cf.cc7w.ChatC.ChatC.onchat(ChatC.java:247) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor33.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:559) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection$5.evaluate(PlayerConnection.java:1743) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.util.Waitable.run(Waitable.java:25) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1198) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[13:50:37] [Server thread/INFO]: <sen_lv_ling_> 我#@(*&(*#@&$#^@&*%$
+[13:50:57] [Server thread/INFO]: _YuanXiao_ >> sen_lv_ling_你的森语参上呢
+[13:51:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 在啊
+[13:51:13] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 在吗
+[13:51:28] [Server thread/INFO]: HitoShouri >> 鼠标太好也有坏处
+[13:51:42] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 我看你房子没有做完，做完我会给你奖励233
+[13:51:52] [Server thread/INFO]: <管理> B_lastmess >> 好就开这些门（
+[13:52:01] [Server thread/INFO]: _YuanXiao_ >> 在去末地的地狱们前集合
+[13:52:57] [Server thread/INFO]: Auston_mc >> 走了
+[13:53:04] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 憨明躺下
+[13:53:08] [Server thread/INFO]: <管理> B_lastmess >> ?
+[13:53:16] [Server thread/INFO]: Xin_Sai >> .
+[13:53:18] [Server thread/INFO]: _YuanXiao_ >> Auston_mc哪里呢
+[13:53:22] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 有会主城了
+[13:53:28] [Server thread/INFO]: Auston_mc >> 在海晶
+[13:53:31] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 会刷幻翼
+[13:53:37] [Server thread/INFO]: <管理> B_lastmess >> t躺下了（（
+[13:53:38] [Server thread/INFO]: _YuanXiao_ >> ???
+[13:53:42] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ok
+[13:53:44] [Server thread/INFO]: Auston_mc >> 我拿些垫脚
+[13:53:50] [Server thread/INFO]: Auston_mc >> 方块
+[13:53:51] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri ？？？
+[13:53:53] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri ？？？
+[13:54:07] [Server thread/INFO]: Auston_mc has made the advancement [Stone Age]
+[13:54:16] [Server thread/INFO]: _YuanXiao_ >> 你没有鞘翅把
+[13:54:21] [Server thread/INFO]: Auston_mc >> mei
+[13:54:36] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 没看见死亡提示？
+[13:55:06] [Server thread/WARN]: Auston_mc moved wrongly!
+[13:55:16] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 不是， 我想说你现在在哪里我去找你
+[13:55:44] [Server thread/INFO]: _YuanXiao_ >> 铁装？？？
+[13:55:52] [Server thread/INFO]: Auston_mc >> 怕死了
+[13:56:00] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> - -
+[13:56:04] [Server thread/INFO]: _YuanXiao_ >> 先借你
+[13:56:07] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 共镇
+[13:56:12] [Server thread/INFO]: Auston_mc has reached the goal [Sky's the Limit]
+[13:56:35] [Server thread/INFO]: Auston_mc >> ok
+[13:57:07] [Server thread/WARN]: _YuanXiao_ moved too quickly! -1649.3920055482374,16.145106700651638,-233.93107137071232
+[13:57:17] [Server thread/WARN]: Auston_mc moved too quickly! -1650.990840482019,16.145106700651638,-234.21983573563136
+[13:57:18] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 新共镇？
+[13:57:29] [User Authenticator #36/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[13:57:29] [Server thread/INFO]: jason_ji[/127.0.0.1:65115] logged in with entity id 743880 at ([world]5305.408270434247, 74.0, 339.4636073472454)
+[13:57:41] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 憨明家疯狂刷怪
+[13:57:43] [Server thread/INFO]: Xin_Sai >> 乞讨中
+[13:57:43] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 旧的
+[13:57:57] [Server thread/INFO]: Auston_mc >> na个方向
+[13:58:03] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[13:58:03] [Server thread/INFO]: sen_lv_ling_ left the game
+[13:58:03] [Server thread/INFO]: _YuanXiao_ >> 先修一下装备
+[13:59:05] [Server thread/INFO]: _YuanXiao_ >> 跳
+[13:59:19] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 马上到
+[13:59:24] [Server thread/INFO]: _YuanXiao_ >> 你是萌新？
+[13:59:29] [Server thread/INFO]: <管理> B_lastmess >> 我是（
+[13:59:30] [Server thread/INFO]: Auston_mc >> 不是
+[13:59:32] [Server thread/INFO]: jason_ji >> 新人》
+[13:59:38] [Server thread/INFO]: _YuanXiao_ >> ...
+[13:59:48] [Server thread/INFO]: jason_ji >> ...
+[14:00:06] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 没穿装备？
+[14:00:10] [Server thread/INFO]: <管理> B_lastmess >> 这个游戏怎么玩呀好害怕嘤嘤嘤
+[14:00:11] [Server thread/INFO]: _YuanXiao_ >> 不死图腾？
+[14:00:17] [Server thread/INFO]: <管理> B_lastmess >> (
+[14:00:23] [Server thread/INFO]: jason_ji >> az
+[14:00:26] [Server thread/INFO]: Auston_mc >> 你不是叫我带？
+[14:00:40] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 被岩浆烧了。
+[14:00:58] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 别太容易死了233
+[14:01:05] [Server thread/INFO]: _YuanXiao_ >> 把稿子和剑拿去
+[14:01:12] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 有不死图腾吗
+[14:01:12] [Server thread/INFO]: jason_ji issued server command: /co i
+[14:01:23] [Server thread/INFO]: jason_ji issued server command: /co i
+[14:01:31] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 没
+[14:02:05] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 你先做套铁装备吧
+[14:02:27] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 不要死了 然后去自己挖矿自己做钻套
+[14:02:39] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 我这里也没多少钻石
+[14:02:57] [Server thread/INFO]: _YuanXiao_ >> 救命用
+[14:03:11] [Server thread/INFO]: Auston_mc >> 我自己就有
+[14:03:16] [Server thread/INFO]: _YuanXiao_ >> ???
+[14:03:35] [Server thread/INFO]: Auston_mc >> 我只是有过恐惧
+[14:03:43] [Server thread/INFO]: Auston_mc >> 死太多次在末地
+[14:03:50] [Server thread/INFO]: _YuanXiao_ >> 小心别看小黑眼睛
+[14:04:08] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 你死的次数多么
+[14:04:34] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 不多
+[14:04:35] [Server thread/INFO]: _YuanXiao_ >> 回来把末影箱给补上
+[14:04:54] [Server thread/INFO]: Auston_mc >> ?
+[14:05:18] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[14:05:18] [Server thread/INFO]: jason_ji left the game
+[14:05:25] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 我给你把时运的稿子 你去挖矿 别挖矿洞了 挖鱼骨如何
+[14:05:47] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 既然你不死
+[14:05:51] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 好
+[14:06:08] [Server thread/INFO]: Auston_mc has reached the goal [Postmortal]
+[14:06:10] [Server thread/INFO]: Auston_mc was slain by Enderman
+[14:06:38] [Server thread/INFO]: Auston_mc >> 突然卡了
+[14:06:42] [Server thread/INFO]: <管理> B_lastmess >> 有人打工吗（
+[14:06:45] [Server thread/INFO]: <管理> B_lastmess >> 义务劳动（
+[14:07:02] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 来海晶拿铁装
+[14:07:05] [Server thread/INFO]: _YuanXiao_ >> 叫你拿钻石装你不听
+[14:07:10] [Server thread/WARN]: B_lastmess moved wrongly!
+[14:07:12] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 坐标
+[14:07:28] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 你知道海晶的门不
+[14:07:33] [Server thread/INFO]: _YuanXiao_ >> 木棍？
+[14:07:40] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 我带你来过 你进来就行
+[14:07:41] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai no
+[14:07:53] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 。。
+[14:08:13] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 我告诉你坐标你走的太慢了
+[14:08:20] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 我在共镇地狱门口
+[14:08:34] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 我接你去 这次你记住
+[14:08:41] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai ok
+[14:09:06] [User Authenticator #37/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[14:09:07] [Server thread/INFO]: jason_ji[/127.0.0.1:65297] logged in with entity id 760216 at ([world]5284.88698432377, 69.0, 322.3159116154818)
+[14:10:25] [Server thread/INFO]: _YuanXiao_ >> 这个好一点
+[14:10:30] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 你在此地不要走动
+[14:10:37] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 好
+[14:11:32] [Server thread/INFO]: Xin_Sai lost connection: Timed out
+[14:11:32] [Server thread/INFO]: Xin_Sai left the game
+[14:11:36] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[14:11:36] [Server thread/INFO]: jason_ji left the game
+[14:11:48] [User Authenticator #38/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[14:11:48] [Server thread/INFO]: Xin_Sai[/127.0.0.1:65342] logged in with entity id 763948 at ([world]2772.604004968742, 63.0, -405.00554781207774)
+[14:12:02] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[14:12:02] [Server thread/INFO]: Auston_mc left the game
+[14:12:37] [User Authenticator #38/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[14:12:37] [Server thread/INFO]: Auston_mc[/127.0.0.1:65357] logged in with entity id 764453 at ([world_the_end]99.1346817380279, 49.0, 8.435461268377836)
+[14:13:10] [Server thread/INFO]: Auston_mc >> 元宵，你人呢？
+[14:13:12] [Server thread/INFO]: _YuanXiao_ >> 50 -76快来
+[14:13:49] [Server thread/INFO]: _YuanXiao_ >> 我原本以为你真的是个大佬
+[14:13:50] [Server thread/INFO]: Xin_Sai >> 你去多做些铁镐
+[14:14:01] [Server thread/INFO]: Xin_Sai >> 然后去挖矿吧
+[14:14:02] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai
+[14:14:09] [Server thread/INFO]: <管理> B_lastmess >> hhh
+[14:14:17] [Server thread/INFO]: Xin_Sai >> 再死了我就不管了
+[14:14:22] [User Authenticator #39/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[14:14:22] [Server thread/INFO]: jason_ji[/127.0.0.1:65389] logged in with entity id 765585 at ([world]5291.14688634465, 69.0, 286.0768162122692)
+[14:14:41] [Server thread/INFO]: <管理> B_lastmess >> 怕死来我这（
+[14:14:48] [Server thread/INFO]: <管理> B_lastmess >> 装备从海晶嫖（
+[14:14:53] [Server thread/INFO]: Xin_Sai >> !!!!
+[14:14:58] [Server thread/INFO]: <管理> B_lastmess >> (((
+[14:15:04] [Server thread/INFO]: _YuanXiao_ >> Auston_mc你人呢
+[14:15:35] [Server thread/INFO]: _YuanXiao_ >> 补给站等你
+[14:16:02] [Server thread/INFO]: Xin_Sai >> HitoShouri
+[14:16:03] [Server thread/INFO]: Auston_mc >> 好卡
+[14:16:11] [Server thread/INFO]: HitoShouri >> 咋啦？
+[14:16:13] [Server thread/INFO]: _YuanXiao_ >> 算了你别去了
+[14:16:16] [Server thread/INFO]: Xin_Sai >> 记得多挖些青金石
+[14:16:22] [Server thread/INFO]: _YuanXiao_ >> 我等会回来送你一个
+[14:16:25] [Server thread/INFO]: HitoShouri >> ok
+[14:16:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a2d4830[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:65434) lost connection: Disconnected
+[14:17:17] [Server thread/INFO]: Xin_Sai >> 我怀疑sen有一大箱子绿宝石块
+[14:17:22] [User Authenticator #40/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[14:17:22] [Server thread/INFO]: Mr_director[/127.0.0.1:65441] logged in with entity id 770397 at ([world]2760.2117126940984, 63.0, -396.0461462543378)
+[14:17:28] [Server thread/INFO]: _YuanXiao_ >> 欸等下，鞘翅
+[14:17:30] [User Authenticator #40/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[14:17:30] [Server thread/INFO]: Bay_Max_[/127.0.0.1:65447] logged in with entity id 770502 at ([world_nether]335.0125618778487, 115.0, -42.5)
+[14:18:27] [Server thread/INFO]: _YuanXiao_ >> 我等会回来送你一个鞘翅
+[14:18:51] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 青金石放不下合成块 总之能挖多少挖多少
+[14:19:12] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 总之回报大大滴
+[14:19:18] [Server thread/INFO]: _YuanXiao_ >> 鞋子。。。
+[14:19:25] [Server thread/INFO]: _YuanXiao_ >> 在
+[14:19:38] [Server thread/INFO]: Xin_Sai >> 憨明你家在哪里？
+[14:19:39] [Server thread/INFO]: Auston_mc >> 没拿啊
+[14:19:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[14:19:49] [Server thread/INFO]: _YuanXiao_ >> 没看到嘻嘻嘻
+[14:20:17] [Server thread/INFO]: Mr_director issued server command: /co i
+[14:20:31] [Server thread/INFO]: Mr_director issued server command: /co i
+[14:20:36] [Server thread/INFO]: Xin_Sai >> 你们起床是给你们统一发放武器么
+[14:20:48] [Server thread/INFO]: Auston_mc >> 待会我重启一下客户端自己探索一下
+[14:20:49] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 另一个服务器吧
+[14:21:06] [Server thread/INFO]: Mr_director >> 另开一个服
+[14:21:14] [Server thread/INFO]: jason_ji >> 对
+[14:21:20] [Server thread/INFO]: Mr_director >> 和hyp的游戏一样的那个
+[14:21:22] [User Authenticator #41/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[14:21:22] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:65519] logged in with entity id 776644 at ([world]2764.989045566761, 80.0, -175.41289470609462)
+[14:21:51] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[14:21:51] [Server thread/INFO]: jason_ji left the game
+[14:21:52] [Server thread/WARN]: Auston_mc was kicked due to keepalive timeout!
+[14:21:52] [Server thread/INFO]: Auston_mc lost connection: Timed out
+[14:21:52] [Server thread/INFO]: Auston_mc left the game
+[14:21:57] [Server thread/INFO]: <管理> B_lastmess >> 森宇 时隐时现（
+[14:22:09] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊
+[14:22:12] [User Authenticator #41/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[14:22:12] [Server thread/INFO]: Laohuaji[/127.0.0.1:49155] logged in with entity id 778081 at ([world]2703.699999988079, 134.0, -387.92500001192093)
+[14:22:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这延迟
+[14:22:21] [Server thread/INFO]: <管理> B_lastmess >> ohhhhhh
+[14:22:24] [User Authenticator #41/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[14:22:25] [Server thread/INFO]: Auston_mc[/127.0.0.1:49161] logged in with entity id 778723 at ([world]2769.5, 63.0000002, -391.5)
+[14:22:26] [Server thread/INFO]: Xin_Sai >> 我怀疑sen有一大箱子绿块
+[14:22:26] [Server thread/INFO]: <管理> B_lastmess >> 小稽稽来啦（
+[14:22:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[14:22:37] [Server thread/INFO]: _YuanXiao_ >> ???
+[14:22:41] [Server thread/INFO]: <管理> B_lastmess >> ???
+[14:22:44] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 啊这
+[14:22:50] [Server thread/INFO]: <管理> B_lastmess >> 啊这
+[14:22:50] [Server thread/INFO]: Xin_Sai >> w
+[14:22:53] [Server thread/INFO]: <管理> B_lastmess >> w
+[14:22:56] [Server thread/INFO]: <管理> Laohuaji >> ？？？？？？？
+[14:23:00] [Server thread/INFO]: <管理> B_lastmess >> ？？？？？？？
+[14:23:01] [Server thread/INFO]: Auston_mc lost connection: Timed out
+[14:23:01] [Server thread/INFO]: Auston_mc left the game
+[14:23:31] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 这路没法修（
+[14:23:33] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 太高了
+[14:23:37] [Server thread/INFO]: Mr_director has made the advancement [A Terrible Fortress]
+[14:23:38] [Server thread/INFO]: <管理> B_lastmess >> 稽桑有事吗（
+[14:23:45] [User Authenticator #42/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[14:23:45] [Server thread/INFO]: Block_linyi[/127.0.0.1:49186] logged in with entity id 783274 at ([world]2753.2415290827544, 63.0, -447.46561588432706)
+[14:23:47] [User Authenticator #42/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[14:23:47] [Server thread/INFO]: jason_ji[/127.0.0.1:49190] logged in with entity id 783389 at ([world]5281.781250254423, 69.0, 322.5910069694208)
+[14:23:55] [Server thread/INFO]: Xin_Sai >> !
+[14:24:01] [Server thread/INFO]: Mr_director >> 直接脚手架吧
+[14:24:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 山：感觉身体被掏空
+[14:24:43] [Server thread/INFO]: <管理> B_lastmess >> (((
+[14:24:44] [Server thread/WARN]: Block_linyi moved wrongly!
+[14:24:50] [Server thread/INFO]: Block_linyi >> 你们在干嘛
+[14:24:59] [Server thread/INFO]: <管理> B_lastmess >> 挖山
+[14:25:02] [Server thread/INFO]: Block_linyi >> 哪里
+[14:25:07] [Server thread/INFO]: <管理> B_lastmess >> 海晶
+[14:25:29] [Server thread/INFO]: Mr_director has made the advancement [Into Fire]
+[14:25:55] [Server thread/INFO]: Block_linyi >> 坐标多少
+[14:25:57] [Server thread/INFO]: <管理> B_lastmess >> 我在想这边要不要开个门
+[14:26:12] [Server thread/INFO]: <管理> B_lastmess >> 2753 -173
+[14:26:35] [User Authenticator #43/INFO]: UUID of player Watg_Aze_Nad is 468dff11-e046-4e4d-b62d-8cd5013641d5
+[14:26:35] [Server thread/INFO]: Watg_Aze_Nad[/127.0.0.1:49234] logged in with entity id 793729 at ([world]2701.6607006486443, 134.0, -392.69999998807907)
+[14:26:42] [Server thread/INFO]: <管理> B_lastmess >> ohhhh
+[14:26:49] [Server thread/INFO]: <管理> Laohuaji >> 哈哈哈哈哈
+[14:26:52] [Server thread/INFO]: Watg_Aze_Nad >> ?
+[14:26:53] [Server thread/INFO]: <管理> B_lastmess >> 小万来了啊（
+[14:26:54] [Server thread/INFO]: Block_linyi >> ???
+[14:26:57] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[14:26:57] [Server thread/INFO]: jason_ji left the game
+[14:27:01] [Server thread/INFO]: Block_linyi >> 老滑稽管理？？？？
+[14:27:01] [Server thread/INFO]: Xin_Sai >> !
+[14:27:05] [Server thread/INFO]: <管理> B_lastmess >> ..
+[14:27:18] [Server thread/INFO]: Watg_Aze_Nad >> 老滑稽终于混成了管理
+[14:27:22] [Server thread/INFO]: <管理> B_lastmess >> hhhh
+[14:27:23] [Server thread/INFO]: <管理> Laohuaji >> 所以说我青金石呢qwq
+[14:27:31] [User Authenticator #43/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[14:27:31] [Server thread/INFO]: jason_ji[/127.0.0.1:49252] logged in with entity id 796366 at ([world]5280.876467072749, 69.0, 320.96691330969264)
+[14:27:38] [Server thread/INFO]: Watg_Aze_Nad >> 要不是今天感冒灵去钓鱼了
+[14:27:43] [Server thread/INFO]: <管理> B_lastmess >> 我有老多了（（
+[14:27:48] [Server thread/INFO]: Watg_Aze_Nad >> 我现在应该在肝ET2
+[14:28:06] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[14:28:06] [Server thread/INFO]: jason_ji left the game
+[14:28:09] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[14:28:09] [Server thread/INFO]: sen_lv_ling_ left the game
+[14:28:18] [User Authenticator #43/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[14:28:18] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:49275] logged in with entity id 799377 at ([world_nether]333.7496703045048, 115.0, 16.403903012295608)
+[14:28:24] [Server thread/INFO]: <管理> Laohuaji >> 那我把你ban了吧qwq
+[14:28:28] [User Authenticator #44/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[14:28:28] [Server thread/INFO]: jason_ji[/127.0.0.1:49284] logged in with entity id 799866 at ([world]5282.509255521676, 69.0, 322.10415459173646)
+[14:28:29] [User Authenticator #43/INFO]: UUID of player mo_shuang is e0e49d35-e688-476c-8c7a-5f2a1230f411
+[14:28:29] [Server thread/INFO]: mo_shuang[/127.0.0.1:49281] logged in with entity id 800337 at ([world]5274.21662756393, 93.0, -635.3000000119209)
+[14:28:33] [Server thread/INFO]: Watg_Aze_Nad >> ???
+[14:28:37] [Server thread/INFO]: <管理> Laohuaji >> 你就可以安心去玩et2
+[14:28:39] [Server thread/INFO]: <管理> Laohuaji >> qwq
+[14:28:56] [Server thread/INFO]: Watg_Aze_Nad >> 主要是这两天被et2支配
+[14:29:12] [Server thread/INFO]: <管理> Laohuaji >> 憨明找到了黑奴qwq
+[14:29:12] [Server thread/INFO]: Watg_Aze_Nad >> 所以说怎么下去
+[14:29:18] [Server thread/INFO]: <管理> B_lastmess >> (((
+[14:29:25] [Server thread/INFO]: Mr_director >> 草，刷黑曜石上面了
+[14:29:27] [Server thread/INFO]: <管理> Laohuaji >> 我来了qwq
+[14:29:29] [Server thread/INFO]: Watg_Aze_Nad fell from a high place
+[14:29:34] [Server thread/INFO]: jason_ji >> ...
+[14:29:34] [Server thread/INFO]: <管理> Laohuaji >> 哈哈哈哈哈哈哈
+[14:29:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[14:29:51] [Server thread/INFO]: <管理> B_lastmess >> ohhhhhhh
+[14:29:52] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 老滑稽的锅
+[14:30:02] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[14:30:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 把万家放溺尸塔上
+[14:30:03] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 烈焰人他ai会走过去的（
+[14:30:35] [Server thread/INFO]: Watg_Aze_Nad >> 别总叫我老玩家
+[14:30:38] [Server thread/INFO]: Watg_Aze_Nad >> 别总叫我老万家
+[14:30:43] [Server thread/INFO]: Watg_Aze_Nad >> 我不老
+[14:30:48] [Server thread/INFO]: <管理> Laohuaji >> 蛤
+[14:30:52] [Server thread/INFO]: jason_ji >> 好的老万家
+[14:30:52] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 1
+[14:30:53] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 好的，老玩家
+[14:30:59] [Server thread/INFO]: Block_linyi >> 好的，老万佳
+[14:31:09] [Server thread/INFO]: mo_shuang >> 怎么的你家是开澳门赌场的qwq？
+[14:31:17] [Server thread/INFO]: Block_linyi >> 延迟爆炸
+[14:31:20] [Server thread/INFO]: Block_linyi >> 延迟爆炸
+[14:31:21] [Server thread/INFO]: mo_shuang >> 好卡
+[14:31:27] [Server thread/INFO]: Watg_Aze_Nad >> 我在想我去哪
+[14:31:29] [Server thread/INFO]: <管理> Laohuaji >> e
+[14:31:34] [Server thread/INFO]: Watg_Aze_Nad >> 哪个镇能收留我
+[14:31:34] [Server thread/INFO]: <管理> Laohuaji >> 来地狱吧qw
+[14:31:35] [Server thread/INFO]: Block_linyi >> 小冷是不是在上传什么东西
+[14:31:36] [Server thread/INFO]: jason_ji >> 来我们这
+[14:31:39] [Server thread/INFO]: <管理> B_lastmess >> 白佬4k＋延迟（
+[14:31:47] [Server thread/INFO]: jason_ji >> 我们收留你
+[14:31:48] [Server thread/INFO]: <管理> B_lastmess >> 我怎么不卡（
+[14:31:54] [Server thread/INFO]: <管理> B_lastmess >> 来
+[14:31:57] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 卡死
+[14:31:57] [Server thread/INFO]: Watg_Aze_Nad >> 我看Bay Max直接瞬移到地狱门里
+[14:31:58] [Server thread/INFO]: <管理> B_lastmess >> 海晶（
+[14:32:12] [Server thread/INFO]: Block_linyi >> 海晶不是不收人了吗？
+[14:32:19] [Server thread/INFO]: <管理> B_lastmess >> az
+[14:32:21] [Server thread/INFO]: Watg_Aze_Nad >> 我看到老滑稽在我面前过去
+[14:32:23] [Server thread/INFO]: mo_shuang >> jason_ji
+[14:32:24] [Server thread/INFO]: <管理> B_lastmess >> 我不知道（
+[14:32:25] [Server thread/INFO]: Watg_Aze_Nad >> 然后我进了地狱
+[14:32:27] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai
+[14:32:28] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 1
+[14:32:36] [Server thread/INFO]: jason_ji >> 啊
+[14:32:37] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[14:32:37] [Server thread/INFO]: Mr_director left the game
+[14:32:43] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[14:32:43] [Server thread/INFO]: Bay_Max_ left the game
+[14:32:50] [User Authenticator #45/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[14:32:50] [Server thread/INFO]: Bay_Max_[/127.0.0.1:49375] logged in with entity id 819082 at ([world_nether]138.40168114718927, 117.80031439930687, 185.51452817288558)
+[14:32:54] [Server thread/INFO]: mo_shuang >> 去练起床吗
+[14:32:58] [Server thread/INFO]: <管理> B_lastmess >> 下了下了（
+[14:33:00] [Server thread/INFO]: B_lastmess lost connection: Disconnected
+[14:33:00] [Server thread/INFO]: B_lastmess left the game
+[14:33:02] [Server thread/INFO]: Watg_Aze_Nad >> 3Q
+[14:33:05] [Server thread/INFO]: jason_ji >> 刚刚打了5局
+[14:33:12] [Server thread/INFO]: jason_ji >> 赢了一局
+[14:33:14] [Server thread/INFO]: mo_shuang >> 我打了3局
+[14:33:21] [Server thread/INFO]: Block_linyi >> 起床我都不用练
+[14:33:24] [User Authenticator #45/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[14:33:24] [Server thread/INFO]: Mr_director[/127.0.0.1:49388] logged in with entity id 821369 at ([world_nether]96.3210521991722, 49.0, 443.4917273149888)
+[14:33:25] [Server thread/INFO]: Watg_Aze_Nad >> y我配置一下
+[14:33:33] [Server thread/INFO]: Watg_Aze_Nad >> 我新下的端不适应
+[14:33:34] [Server thread/INFO]: Block_linyi >> 玩这个服务器之前，我天天玩起床
+[14:33:37] [Server thread/INFO]: jason_ji >> 我先把机器搞好
+[14:33:40] [Server thread/INFO]: <管理> Laohuaji >> 蛤
+[14:33:41] [Server thread/INFO]: mo_shuang >> 赢了一局，还有局遇到挂
+[14:33:51] [Server thread/INFO]: Xin_Sai >> 人好多
+[14:33:52] [Server thread/INFO]: Mr_director >> 退出刷新一下应该好点
+[14:33:59] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[14:33:59] [Server thread/INFO]: jason_ji left the game
+[14:34:17] [Server thread/INFO]: Watg_Aze_Nad >> 我玩整合包玩出后遗症了
+[14:34:22] [Server thread/INFO]: Watg_Aze_Nad >> 现在疯狂点成就
+[14:34:32] [Server thread/INFO]: Xin_Sai >> .
+[14:34:32] [User Authenticator #46/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[14:34:33] [Server thread/INFO]: jason_ji[/127.0.0.1:49410] logged in with entity id 825357 at ([world]5286.076965532455, 69.0, 322.69999998807907)
+[14:34:36] [Server thread/INFO]: mo_shuang lost connection: Disconnected
+[14:34:36] [Server thread/INFO]: mo_shuang left the game
+[14:34:42] [User Authenticator #46/INFO]: UUID of player mo_shuang is e0e49d35-e688-476c-8c7a-5f2a1230f411
+[14:34:43] [Server thread/INFO]: mo_shuang[/127.0.0.1:49416] logged in with entity id 825993 at ([world]5190.712757695431, 68.0, 204.6753858677588)
+[14:34:43] [Server thread/INFO]: jason_ji >> 卡死
+[14:34:46] [Server thread/INFO]: Watg_Aze_Nad >> 根老滑稽走
+[14:35:19] [Server thread/INFO]: mo_shuang >> 这还是人干的吗
+[14:36:21] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[14:36:21] [Server thread/INFO]: jason_ji left the game
+[14:36:22] [Server thread/INFO]: Watg_Aze_Nad >> ?
+[14:36:25] [Server thread/INFO]: HitoShouri lost connection: Disconnected
+[14:36:25] [Server thread/INFO]: HitoShouri left the game
+[14:36:29] [Server thread/INFO]: Watg_Aze_Nad >> 1
+[14:36:33] [Server thread/INFO]: <管理> Laohuaji >> 1
+[14:36:33] [Server thread/INFO]: Block_linyi >> 2
+[14:36:36] [Server thread/INFO]: Mr_director >> ?
+[14:36:44] [User Authenticator #47/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[14:36:44] [Server thread/INFO]: jason_ji[/127.0.0.1:49448] logged in with entity id 835990 at ([world]5281.065085714002, 69.0, 320.6419037280921)
+[14:36:46] [Server thread/INFO]: <管理> Laohuaji >> 延迟有一点大啊
+[14:36:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@407be32b[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:49450) lost connection: Disconnected
+[14:36:52] [Server thread/INFO]: Watg_Aze_Nad >> 亿点大
+[14:37:11] [Server thread/INFO]: mo_shuang >> 我都2000ping了
+[14:37:14] [Server thread/INFO]: <管理> Laohuaji >> 这排随便嫖qwq
+[14:37:25] [Server thread/INFO]: Watg_Aze_Nad >> 我1000ping
+[14:37:25] [Server thread/INFO]: Block_linyi >> 小冷家的宽带撑不住了
+[14:37:26] [Server thread/INFO]: mo_shuang >> 下了下了
+[14:37:27] [Server thread/INFO]: Block_linyi >> 小冷家的宽带撑不住了qwq
+[14:37:30] [Server thread/INFO]: mo_shuang lost connection: Disconnected
+[14:37:30] [Server thread/INFO]: mo_shuang left the game
+[14:37:38] [Server thread/INFO]: <管理> Laohuaji >> 我突然想去后台看看qwq
+[14:37:43] [Server thread/INFO]: Watg_Aze_Nad >> 好卡好卡
+[14:38:18] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[14:38:18] [Server thread/INFO]: jason_ji left the game
+[14:38:29] [Server thread/INFO]: Watg_Aze_Nad >> ?
+[14:38:33] [Server thread/INFO]: Watg_Aze_Nad >> 3q
+[14:38:36] [Server thread/INFO]: _YuanXiao_ >> 有一说一，这末地城是真的难找
+[14:38:41] [Server thread/INFO]: <管理> Laohuaji >> 哎
+[14:38:46] [Server thread/INFO]: Watg_Aze_Nad >> 你盒子
+[14:38:48] [Server thread/INFO]: <管理> Laohuaji >> 我盒子
+[14:38:58] [Server thread/INFO]: <管理> Laohuaji >> ？
+[14:39:01] [Server thread/INFO]: <管理> Laohuaji >> qwq
+[14:39:04] [Server thread/INFO]: Watg_Aze_Nad >> 卡了？
+[14:39:13] [Server thread/INFO]: <管理> Laohuaji >> 非常卡
+[14:39:27] [Server thread/INFO]: Watg_Aze_Nad >> 再卡也没ET2卡习惯了
+[14:39:42] [Server thread/INFO]: <管理> Laohuaji >> e
+[14:39:46] [Server thread/INFO]: <管理> Laohuaji >> 1
+[14:39:50] [User Authenticator #48/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[14:39:50] [Server thread/INFO]: jason_ji[/127.0.0.1:49496] logged in with entity id 851538 at ([world]5280.699999988079, 69.0, 323.2373121088741)
+[14:40:24] [Server thread/INFO]: <管理> Laohuaji >> 老万家丢了
+[14:40:32] [Server thread/INFO]: Watg_Aze_Nad >> 我还在黑云
+[14:40:35] [Server thread/INFO]: <管理> Laohuaji >> 蛤
+[14:40:45] [Server thread/INFO]: Mr_director has made the advancement [Spooky Scary Skeleton]
+[14:40:49] [Server thread/INFO]: <管理> Laohuaji >> 去海晶白嫖啊（
+[14:40:53] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[14:40:57] [Server thread/INFO]: Mr_director >> 离谱
+[14:41:07] [Server thread/INFO]: Mr_director >> 三个凋零骷髅就掉了头
+[14:41:12] [User Authenticator #49/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[14:41:12] [Server thread/INFO]: Auston_mc[/127.0.0.1:49518] logged in with entity id 856498 at ([world]2769.5, 63.0000002, -391.5)
+[14:41:27] [Server thread/INFO]: Watg_Aze_Nad >> 我先来 欧皇寿命极短
+[14:41:29] [Server thread/INFO]: <管理> Laohuaji >> 啊
+[14:41:38] [Server thread/INFO]: <管理> Laohuaji >> 去死吧欧洲人（
+[14:41:51] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[14:41:51] [Server thread/INFO]: jason_ji left the game
+[14:42:01] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[14:42:01] [Server thread/INFO]: sen_lv_ling_ left the game
+[14:42:19] [Server thread/INFO]: <管理> Laohuaji >> 门禁卡别吃了qwq
+[14:42:28] [User Authenticator #50/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[14:42:28] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:49543] logged in with entity id 861128 at ([world_nether]-57.161825009539335, 61.0, 103.20595794575512)
+[14:42:32] [Server thread/INFO]: Watg_Aze_Nad >> 现在都这么高级的吗
+[14:42:39] [Server thread/INFO]: <管理> Laohuaji >> e
+[14:42:41] [Server thread/INFO]: <管理> Laohuaji >> 1
+[14:42:50] [Server thread/INFO]: Watg_Aze_Nad >> 1
+[14:42:53] [Server thread/INFO]: Block_linyi >> 我已经吃过3个门禁卡了
+[14:42:56] [Server thread/INFO]: <管理> Laohuaji >> 1
+[14:42:57] [Server thread/INFO]: Watg_Aze_Nad >> 1
+[14:43:00] [Server thread/INFO]: Block_linyi >> 1
+[14:43:02] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ?
+[14:43:03] [Server thread/INFO]: <管理> Laohuaji >> 1
+[14:43:06] [Server thread/INFO]: <管理> Laohuaji >> ???????
+[14:43:12] [Server thread/INFO]: <管理> Laohuaji >> 卡啊
+[14:43:23] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我除了延迟高
+[14:43:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 其他都不高
+[14:43:41] [User Authenticator #51/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[14:43:41] [Server thread/INFO]: jason_ji[/127.0.0.1:49563] logged in with entity id 864659 at ([world]5279.428311974156, 70.0, 324.92057263032183)
+[14:43:43] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 7914ping
+[14:43:46] [Server thread/INFO]: Watg_Aze_Nad >> 我2643的ping
+[14:43:56] [Server thread/INFO]: jason_ji >> 0ping
+[14:44:08] [Server thread/INFO]: Watg_Aze_Nad >> 森语你的ping哈哈哈
+[14:44:13] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[14:44:17] [Server thread/INFO]: <管理> Laohuaji >> 来了海晶就随便嫖qwq
+[14:44:17] [Server thread/INFO]: jason_ji >> az
+[14:44:30] [Server thread/INFO]: <管理> Laohuaji >> 到时候被举报了我不管（
+[14:44:31] [Server thread/INFO]: Watg_Aze_Nad >> 89ping我是真的酸了
+[14:44:33] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[14:44:33] [Server thread/INFO]: Auston_mc left the game
+[14:44:35] [Server thread/INFO]: Watg_Aze_Nad >> 233
+[14:44:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 迟早举报一手老滑稽
+[14:44:44] [Server thread/INFO]: <管理> Laohuaji >> 蛤
+[14:44:47] [Server thread/INFO]: Watg_Aze_Nad >> y
+[14:44:54] [Server thread/INFO]: Watg_Aze_Nad >> 老滑稽靠白嫖发家的
+[14:45:02] [Server thread/INFO]: Watg_Aze_Nad >> 在那个还没有/co i的年代
+[14:45:14] [User Authenticator #52/INFO]: Disconnecting com.mojang.authlib.GameProfile@5770ce08[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:49586): Authentication servers are down. Please try again later, sorry!
+[14:45:14] [User Authenticator #52/ERROR]: Couldn't verify username because servers are unavailable
+[14:45:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@5770ce08[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:49586) lost connection: Authentication servers are down. Please try again later, sorry!
+[14:45:19] [Server thread/INFO]: Watg_Aze_Nad >> 3q
+[14:45:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@73b50839[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:49598) lost connection: Disconnected
+[14:45:31] [Server thread/INFO]: <管理> Laohuaji >> 没啥事我下了qwq
+[14:45:36] [Server thread/INFO]: Watg_Aze_Nad >> emmm
+[14:45:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不送
+[14:45:53] [Server thread/INFO]: Watg_Aze_Nad >> 看到这瓜田我羡慕了
+[14:45:56] [Server thread/INFO]: <管理> Laohuaji >> 顺道再嫖一组金萝北
+[14:45:59] [Server thread/INFO]: <管理> Laohuaji >> qwq
+[14:46:03] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我举报了啊
+[14:46:05] [Server thread/INFO]: Watg_Aze_Nad >> 看到这瓜田我羡慕了
+[14:46:14] [Server thread/INFO]: <管理> Laohuaji >> 都是海晶的
+[14:46:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@732047c1[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:49617) lost connection: Disconnected
+[14:46:19] [Server thread/INFO]: <管理> Laohuaji >> 说话硬气点
+[14:46:22] [Server thread/INFO]: <管理> Laohuaji >> （
+[14:46:28] [Server thread/WARN]: Block_linyi moved wrongly!
+[14:46:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 掉头了
+[14:46:35] [User Authenticator #53/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[14:46:35] [Server thread/INFO]: Auston_mc[/127.0.0.1:49628] logged in with entity id 871009 at ([world_nether]334.35258235000236, 115.0, -38.626546825311294)
+[14:46:39] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[14:46:39] [Server thread/INFO]: Laohuaji left the game
+[14:46:43] [Server thread/INFO]: Watg_Aze_Nad >> 没事 北梦我熟（
+[14:46:44] [Server thread/WARN]: Block_linyi moved wrongly!
+[14:46:49] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[14:46:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 北梦啊
+[14:46:55] [Server thread/INFO]: Mr_director >> 随便挖挖都能2组石英原矿
+[14:46:56] [Server thread/INFO]: Mr_director >> 绝了
+[14:47:03] [Server thread/INFO]: Watg_Aze_Nad >> Ghost_King我也熟（
+[14:47:43] [Server thread/INFO]: Watg_Aze_Nad >> 可以在海晶挂机吗（
+[14:47:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不死就行
+[14:47:55] [Server thread/INFO]: Xin_Sai >> 可以
+[14:48:07] [Server thread/INFO]: Block_linyi >> 在海晶挂机可能会有人来给你投食
+[14:48:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 噗哈哈哈
+[14:48:22] [Server thread/INFO]: Watg_Aze_Nad >> 2333
+[14:48:24] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 辣条
+[14:49:16] [Server thread/INFO]: Auston_mc >> 看我ping
+[14:49:25] [Server thread/INFO]: Watg_Aze_Nad >> 233
+[14:49:28] [Server thread/INFO]: Auston_mc has made the advancement [Remote Getaway]
+[14:49:30] [Server thread/INFO]: Watg_Aze_Nad >> 我发现老滑稽在的时候特别卡
+[14:49:33] [Server thread/WARN]: Block_linyi moved wrongly!
+[14:49:34] [Server thread/INFO]: Watg_Aze_Nad >> 不在就不卡了
+[14:49:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 对
+[14:49:48] [Server thread/INFO]: Watg_Aze_Nad >> 老滑稽太吃硬件了
+[14:49:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 老滑稽的锅（
+[14:49:56] [Server thread/INFO]: Watg_Aze_Nad >> 建议ban了（
+[14:50:17] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> banip
+[14:50:31] [Server thread/INFO]: Block_linyi >> ip可以变的
+[14:51:20] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[14:51:20] [Server thread/INFO]: jason_ji left the game
+[14:51:31] [Server thread/INFO]: Auston_mc >> 元宵，最近的末地城离主岛多远？
+[14:51:39] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[14:51:39] [Server thread/INFO]: Xin_Sai left the game
+[14:51:43] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 1000
+[14:51:54] [Server thread/INFO]: Block_linyi >> 如果要找鞘翅，推荐去3w格以外
+[14:52:01] [User Authenticator #54/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[14:52:01] [Server thread/INFO]: jason_ji[/127.0.0.1:49721] logged in with entity id 881516 at ([world]5274.402077926371, 72.0, 326.63339059872544)
+[14:52:03] [Server thread/INFO]: Mr_director >> 3w没必要
+[14:52:10] [Server thread/INFO]: Watg_Aze_Nad >> 熟读公约 不能跑到10w以外
+[14:52:18] [Server thread/INFO]: Mr_director >> 我在5000-10000之间就找到7个鞘翅了
+[14:52:24] [Server thread/INFO]: Watg_Aze_Nad >> 熟读公约 不能跑到10w以外
+[14:52:26] [User Authenticator #54/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[14:52:26] [Server thread/INFO]: Laohuaji[/127.0.0.1:49728] logged in with entity id 882797 at ([world]2786.843172389878, 63.0, -378.72731831195074)
+[14:52:32] [Server thread/INFO]: jason_ji >> 完了
+[14:52:39] [Server thread/INFO]: Watg_Aze_Nad >> 老滑稽0ping
+[14:52:41] [Server thread/INFO]: Watg_Aze_Nad >> 呵呵哈哈哈
+[14:52:42] [Server thread/INFO]: Block_linyi >> 公约我都没有读过 233
+[14:52:42] [Server thread/INFO]: jason_ji >> 老滑稽来了
+[14:52:47] [Server thread/INFO]: jason_ji >> 开始卡了
+[14:52:51] [Server thread/INFO]: <管理> Laohuaji >> 好卡
+[14:52:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 老滑稽快走！！！
+[14:53:03] [Server thread/INFO]: Block_linyi >> 卧槽，还真是
+[14:53:05] [Server thread/INFO]: _YuanXiao_ >> 好卡
+[14:53:07] [Server thread/INFO]: jason_ji >> 2975ping...
+[14:53:10] [Server thread/INFO]: Watg_Aze_Nad >> 哈哈哈
+[14:53:12] [Server thread/INFO]: Block_linyi >> 老滑稽来了就卡
+[14:53:15] [Server thread/INFO]: <管理> Laohuaji >> e
+[14:53:21] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ban掉老滑稽吧（
+[14:53:31] [Server thread/INFO]: _YuanXiao_ >> 同意
+[14:53:33] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[14:53:33] [Server thread/INFO]: Laohuaji left the game
+[14:53:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[14:53:44] [Server thread/INFO]: _YuanXiao_ >> 哇流畅了
+[14:53:48] [Server thread/INFO]: jason_ji >> 好了
+[14:54:35] [Server thread/WARN]: Auston_mc moved too quickly! 11.281543485025168,0.0,0.3424153958756051
+[14:54:49] [User Authenticator #55/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[14:54:49] [Server thread/INFO]: Laohuaji[/127.0.0.1:49766] logged in with entity id 887479 at ([world]2783.0563865364643, 63.0, -383.6279186210116)
+[14:54:53] [Server thread/INFO]: jason_ji >> !
+[14:54:54] [Server thread/INFO]: <管理> Laohuaji >> wuhu
+[14:54:54] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[14:54:58] [Server thread/WARN]: _YuanXiao_ moved wrongly!
+[14:54:58] [Server thread/INFO]: Auston_mc >> 准备ban
+[14:54:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 起飞
+[14:55:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 集体ban掉
+[14:55:06] [Server thread/INFO]: Watg_Aze_Nad >> 老滑稽又0ping
+[14:55:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 真的卡
+[14:55:24] [Server thread/INFO]: _YuanXiao_ >> 别呀，我刚刚找到末地船，我可不想就这么没啦
+[14:55:30] [Server thread/INFO]: <管理> Laohuaji >> qwq
+[14:55:34] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 两个头
+[14:56:10] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[14:56:10] [Server thread/INFO]: jason_ji left the game
+[14:56:21] [Server thread/INFO]: Watg_Aze_Nad >> 老滑稽被嫌弃了
+[14:56:23] [Server thread/INFO]: Watg_Aze_Nad >> 2333333333
+[14:56:38] [Server thread/INFO]: <管理> Laohuaji >> .
+[14:56:39] [Server thread/INFO]: Watg_Aze_Nad >> 完了
+[14:56:40] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[14:56:43] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 这
+[14:56:44] [Server thread/INFO]: Watg_Aze_Nad >> 好久不玩新版本了
+[14:56:47] [Server thread/INFO]: Watg_Aze_Nad >> 不会游泳了
+[14:56:52] [Server thread/INFO]: <管理> Laohuaji >> 哈哈哈哈哈
+[14:56:57] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 突然刷出十几只烈焰人
+[14:56:58] [User Authenticator #56/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[14:56:58] [Server thread/INFO]: jason_ji[/127.0.0.1:49809] logged in with entity id 890864 at ([world]5271.918158755158, 74.0, 327.4552676458283)
+[14:57:08] [Server thread/INFO]: Laohuaji issued server command: /p
+[14:57:18] [Server thread/INFO]: Auston_mc was slain by Enderman
+[14:57:20] [Server thread/INFO]: <管理> Laohuaji >> 万家你有给服务器赞助过嘛
+[14:57:25] [Server thread/INFO]: jason_ji >> ...
+[14:57:29] [Server thread/INFO]: Watg_Aze_Nad >> 没（
+[14:57:34] [Server thread/INFO]: <管理> Laohuaji >> nice
+[14:57:40] [Server thread/INFO]: Auston_mc >> ?
+[14:57:46] [Server thread/INFO]: Watg_Aze_Nad >> 明白了，这就联系小泠（
+[14:57:57] [Server thread/INFO]: Mr_director >> 你永远也想不到之前的人为了石英挖了多远（
+[14:57:59] [Server thread/INFO]: Auston_mc >> laohuaji来了果然很卡
+[14:58:10] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[14:58:10] [Server thread/INFO]: sen_lv_ling_ left the game
+[14:58:23] [Server thread/INFO]: <管理> Laohuaji >> az
+[14:58:28] [User Authenticator #57/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[14:58:28] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:49834] logged in with entity id 894557 at ([world_nether]-44.433392205653675, 61.0, 100.03886127305515)
+[14:58:31] [Server thread/INFO]: <管理> Laohuaji >> 难不成我要开加速器嘛
+[14:58:36] [Server thread/INFO]: Watg_Aze_Nad >> 我就知道过分为了挖石英去地狱嗝屁了一次，我给过分捡尸体我也死了（
+[14:58:37] [Server thread/INFO]: Mr_director >> 昂
+[14:58:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 被十几只烈焰人围殴了
+[14:59:23] [Server thread/INFO]: Mr_director >> 对了，当时那三个凋零骷髅打掉我一个图腾
+[14:59:30] [User Authenticator #58/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[14:59:30] [Server thread/INFO]: HitoShouri[/127.0.0.1:49854] logged in with entity id 896673 at ([world]1362.2898254701781, 63.0, -10.395845224800464)
+[14:59:43] [Server thread/INFO]: Mr_director >> 建议大家试试献祭流刷头（
+[14:59:47] [Server thread/WARN]: _YuanXiao_ was kicked for floating too long!
+[14:59:47] [Server thread/INFO]: _YuanXiao_ lost connection: Flying is not enabled on this server
+[14:59:47] [Server thread/INFO]: _YuanXiao_ left the game
+[14:59:47] [Server thread/WARN]: handleDisconnection() called twice
+[14:59:50] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 啊这
+[14:59:51] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[14:59:57] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+[15:00:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 由于延迟
+[15:00:04] [Server thread/INFO]: <管理> Laohuaji >> a
+[15:00:06] [Server thread/INFO]: jason_ji >> az
+[15:00:15] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 一直处于燃烧和凋零状态
+[15:01:20] [Server thread/INFO]: Bay_Max_ issued server command: /co i
+[15:01:41] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 谁又把小黑塔末影箱拿走了（
+[15:01:46] [Server thread/INFO]: <管理> Laohuaji >> co i
+[15:01:47] [User Authenticator #59/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[15:01:47] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:49889] logged in with entity id 901608 at ([world_the_end]11594.639857307962, 123.0, -8526.226062751975)
+[15:01:55] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 换了个地方 = =
+[15:02:09] [Server thread/INFO]: Watg_Aze_Nad >> 遇事不觉 co i
+[15:02:10] [Server thread/INFO]: Bay_Max_ issued server command: /co i
+[15:02:23] [Server thread/INFO]: Laohuaji issued server command: /co i
+[15:02:36] [Server thread/INFO]: Laohuaji issued server command: /co i
+[15:02:41] [Server thread/INFO]: Laohuaji issued server command: /co i
+[15:02:57] [Server thread/INFO]: Mr_director >> 海晶门防熊×
+[15:03:04] [Server thread/INFO]: Laohuaji issued server command: /co i
+[15:03:05] [Server thread/INFO]: Mr_director >> 马其顿防线
+[15:03:08] [Server thread/INFO]: Mr_director >> √
+[15:03:14] [Server thread/INFO]: <管理> Laohuaji >> 马奇诺谢谢
+[15:03:18] [Server thread/INFO]: Watg_Aze_Nad >> 233
+[15:03:48] [Server thread/INFO]: Mr_director >> 我之前说马其顿有人说马奇诺，说马奇诺有人说马其顿
+[15:03:55] [Server thread/INFO]: Mr_director >> 我自己都搞不清是啥了
+[15:04:01] [Server thread/INFO]: <管理> Laohuaji >> 德国佬碾压鹅肝佬
+[15:04:07] [Server thread/INFO]: <管理> Laohuaji >> 不就是马奇诺吗
+[15:04:14] [Server thread/INFO]: Mr_director >> 反正知道啥意思就行了
+[15:04:25] [Server thread/INFO]: Mr_director >> 总是记错
+[15:04:37] [Server thread/INFO]: Block_linyi >> 我会蜂蜜块世吞了
+[15:04:42] [Server thread/INFO]: HitoShouri has made the advancement [What a Deal!]
+[15:05:30] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> emmmm
+[15:05:35] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不刷怪了
+[15:05:53] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[15:05:53] [Server thread/INFO]: jason_ji left the game
+[15:07:01] [User Authenticator #60/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[15:07:01] [Server thread/INFO]: jason_ji[/127.0.0.1:49986] logged in with entity id 914717 at ([world]5276.787832972914, 73.0, 330.369006833194)
+[15:07:04] [Server thread/WARN]: Block_linyi moved wrongly!
+[15:07:04] [Server thread/WARN]: Block_linyi moved wrongly!
+[15:07:27] [Server thread/INFO]: Mr_director issued server command: /co i
+[15:07:30] [Server thread/INFO]: Mr_director issued server command: /co i
+[15:08:15] [Server thread/INFO]: Block_linyi >> 好卡
+[15:08:17] [Server thread/WARN]: Auston_mc moved too quickly! -1650.658875910633,15.837858578973012,-234.4053000758427
+[15:08:24] [Server thread/INFO]: Watg_Aze_Nad >> 看看是不是老滑稽在线
+[15:08:29] [Server thread/INFO]: Watg_Aze_Nad >> 对
+[15:08:29] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 在线
+[15:09:06] [Server thread/INFO]: Watg_Aze_Nad >> 俺先下了
+[15:09:15] [Server thread/INFO]: Watg_Aze_Nad >> 我要去刷骨灰了（
+[15:09:21] [Server thread/INFO]: Watg_Aze_Nad >> 晚上再来玩
+[15:09:29] [Server thread/INFO]: Watg_Aze_Nad >> （（（（（（（（（（（（（（（（（（（
+[15:09:46] [Server thread/INFO]: <淘金热·冠军> Bay_Max_ >> 研究刷花姬（
+[15:09:47] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[15:09:47] [Server thread/INFO]: Bay_Max_ left the game
+[15:10:15] [Server thread/INFO]: Watg_Aze_Nad lost connection: Disconnected
+[15:10:15] [Server thread/INFO]: Watg_Aze_Nad left the game
+[15:10:19] [Server thread/INFO]: Block_linyi >> 1
+[15:10:22] [Server thread/INFO]: Block_linyi >> 卡
+[15:10:35] [Server thread/INFO]: Block_linyi >> 我地形刷不出来了
+[15:10:42] [Server thread/INFO]: Block_linyi lost connection: Disconnected
+[15:10:42] [Server thread/INFO]: Block_linyi left the game
+[15:10:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@7fbd868b[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:50055) lost connection: Disconnected
+[15:10:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@7dfb2616[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:50057) lost connection: Disconnected
+[15:10:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@167ff8ab[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:50058) lost connection: Disconnected
+[15:11:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@5cc14b2b[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:50075) lost connection: Disconnected
+[15:11:57] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[15:11:57] [Server thread/INFO]: sen_lv_ling_ left the game
+[15:12:05] [Server thread/INFO]: _YuanXiao_ issued server command: /seed
+[15:12:07] [User Authenticator #61/INFO]: Disconnecting com.mojang.authlib.GameProfile@6557e9c1[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:50078): Authentication servers are down. Please try again later, sorry!
+[15:12:07] [User Authenticator #61/ERROR]: Couldn't verify username because servers are unavailable
+[15:12:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@6557e9c1[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:50078) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:12:09] [User Authenticator #62/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[15:12:09] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:50086] logged in with entity id 924603 at ([world_nether]-80.30000001192093, 66.0, 103.0930820031386)
+[15:12:13] [User Authenticator #62/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[15:12:13] [Server thread/INFO]: Block_linyi[/127.0.0.1:50089] logged in with entity id 924841 at ([world_nether]382.5999999841054, 115.44659998208284, 75.5)
+[15:12:51] [Server thread/INFO]: HitoShouri lost connection: Timed out
+[15:12:51] [Server thread/INFO]: HitoShouri left the game
+[15:13:28] [Server thread/WARN]: Block_linyi moved wrongly!
+[15:14:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@47f7d571[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:50132) lost connection: Disconnected
+[15:19:08] [Server thread/INFO]: Auston_mc fell out of the world
+[15:20:38] [Server thread/INFO]: Villager EntityVillager['Villager'/914763, uuid='3b861b20-a33d-47d3-bd46-588014423ee4', l='world', x=5304.32, y=76.50, z=324.70, cx=331, cz=20, tl=2725785, v=true, d=false] died, message: 'Villager was slain by DF_yechu'
+[15:20:48] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[15:20:48] [Server thread/INFO]: jason_ji left the game
+[15:21:06] [User Authenticator #63/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[15:21:06] [Server thread/INFO]: jason_ji[/127.0.0.1:50238] logged in with entity id 934494 at ([world]5277.899242024933, 73.0, 330.69999998807907)
+[15:22:08] [Server thread/WARN]: 46cb1a13-700d-43ac-ba0f-161666843ea8 (vehicle of Laohuaji) moved wrongly!
+[15:22:50] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[15:22:50] [Server thread/INFO]: Mr_director left the game
+[15:23:06] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 三个头了
+[15:23:07] [User Authenticator #64/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[15:23:07] [Server thread/INFO]: Mr_director[/127.0.0.1:50272] logged in with entity id 937410 at ([world_nether]96.08759401200933, 49.0, 443.334492490337)
+[15:23:31] [Server thread/WARN]: Auston_mc moved too quickly! -7.422006814145334,0.0,-6.84650784639922
+[15:23:39] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[15:23:39] [Server thread/INFO]: Mr_director left the game
+[15:23:44] [User Authenticator #64/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[15:23:44] [Server thread/INFO]: Mr_director[/127.0.0.1:50288] logged in with entity id 938299 at ([world_nether]96.02134190307635, 49.0, 443.69999998807907)
+[15:26:26] [Server thread/WARN]: _YuanXiao_ moved wrongly!
+[15:28:10] [Server thread/WARN]: Block_linyi moved wrongly!
+[15:28:11] [Server thread/WARN]: Block_linyi moved wrongly!
+[15:30:02] [Server thread/INFO]: [公告] [活动·这是我的战争] 现已开放报名，详见群内公告 
+[15:31:03] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你搁这儿巡逻呢
+[15:31:36] [Server thread/INFO]: <管理> Laohuaji >> ohhhhhhhh
+[15:31:42] [Server thread/INFO]: Block_linyi lost connection: Disconnected
+[15:31:42] [Server thread/INFO]: Block_linyi left the game
+[15:33:19] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 要珍珠去小黑塔拿啊
+[15:33:36] [Server thread/INFO]: Auston_mc >> thanks
+[15:33:42] [Server thread/INFO]: jason_ji has reached the goal [Zombie Doctor]
+[15:34:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@487127ac[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:50465) lost connection: Disconnected
+[15:34:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@3acf6ab8[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:50468) lost connection: Disconnected
+[15:34:32] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[15:34:32] [Server thread/INFO]: Mr_director left the game
+[15:34:39] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[15:34:39] [Server thread/INFO]: Laohuaji left the game
+[15:34:53] [User Authenticator #65/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[15:34:54] [Server thread/INFO]: Mr_director[/127.0.0.1:50483] logged in with entity id 953497 at ([world_nether]96.32264228622296, 49.0, 443.62153777369707)
+[15:37:55] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[15:37:55] [Server thread/INFO]: sen_lv_ling_ left the game
+[15:38:07] [User Authenticator #66/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[15:38:07] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:50551] logged in with entity id 957806 at ([world_nether]335.3720088112369, 115.0, 2.667109565059118)
+[15:38:46] [Server thread/INFO]: Auston_mc >> 末地有人吗？
+[15:38:59] [Server thread/INFO]: Villager EntityVillager['Fletcher'/934497, uuid='368aca3c-ee13-4964-8944-c7d68be82288', l='world', x=5304.30, y=76.33, z=324.50, cx=331, cz=20, tl=3778198, v=true, d=false] died, message: 'Fletcher was slain by DF_yechu'
+[15:39:22] [Server thread/WARN]: sen_lv_ling_ was kicked due to keepalive timeout!
+[15:39:22] [Server thread/INFO]: sen_lv_ling_ lost connection: Timed out
+[15:39:22] [Server thread/INFO]: sen_lv_ling_ left the game
+[15:39:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@70202ee7[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:50574) lost connection: Disconnected
+[15:39:31] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[15:39:31] [Server thread/INFO]: jason_ji left the game
+[15:39:31] [User Authenticator #67/INFO]: Disconnecting com.mojang.authlib.GameProfile@70202ee7[id=<null>,name=HitoShouri,properties={},legacy=false] (/127.0.0.1:50574): Authentication servers are down. Please try again later, sorry!
+[15:39:31] [User Authenticator #67/ERROR]: Couldn't verify username because servers are unavailable
+[15:39:35] [User Authenticator #67/INFO]: UUID of player HitoShouri is 65a0ca08-1f30-4aee-99cd-f57d809b2af8
+[15:39:35] [Server thread/INFO]: HitoShouri[/127.0.0.1:50581] logged in with entity id 958812 at ([world]1311.771943978401, 65.0, 143.8802021209794)
+[15:39:35] [User Authenticator #68/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[15:39:35] [Server thread/INFO]: jason_ji[/127.0.0.1:50585] logged in with entity id 958966 at ([world]5304.6761250331465, 69.0, 320.9556937055444)
+[15:39:50] [User Authenticator #68/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[15:39:50] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:50593] logged in with entity id 959853 at ([world_the_end]100.03083700871291, 49.0, 0.0)
+[15:39:55] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[15:39:55] [Server thread/INFO]: Auston_mc left the game
+[15:40:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@555846a7[id=<null>,name=Auston_mc,properties={},legacy=false] (/127.0.0.1:50604) lost connection: Disconnected
+[15:40:55] [User Authenticator #69/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[15:40:56] [Server thread/INFO]: Auston_mc[/127.0.0.1:50619] logged in with entity id 960662 at ([world_the_end]-543.1773465483972, 76.0, 1225.9064162985756)
+[15:41:08] [Server thread/INFO]: Villager EntityVillager['Librarian'/959034, uuid='8d6e737a-3770-43aa-b315-0b17b9331974', l='world', x=5304.30, y=77.20, z=324.51, cx=331, cz=20, tl=3632766, v=true, d=false] died, message: 'Librarian was slain by DF_yechu'
+[15:43:00] [Server thread/WARN]: jason_ji moved wrongly!
+[15:44:28] [Server thread/WARN]: Auston_mc was kicked for floating too long!
+[15:44:28] [Server thread/INFO]: Auston_mc lost connection: Flying is not enabled on this server
+[15:44:28] [Server thread/INFO]: Auston_mc left the game
+[15:44:28] [Server thread/WARN]: handleDisconnection() called twice
+[15:44:38] [User Authenticator #70/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[15:44:38] [Server thread/INFO]: Auston_mc[/127.0.0.1:50683] logged in with entity id 964871 at ([world_the_end]-591.661460109301, 60.332848729293744, 1590.5086318377323)
+[15:45:21] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[15:45:21] [Server thread/INFO]: Mr_director left the game
+[15:45:29] [User Authenticator #70/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[15:45:29] [Server thread/INFO]: Mr_director[/127.0.0.1:50704] logged in with entity id 965771 at ([world_nether]95.9595891710325, 49.0, 443.5837782191219)
+[15:45:35] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[15:45:35] [Server thread/INFO]: Mr_director left the game
+[15:46:10] [User Authenticator #70/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[15:46:10] [Server thread/INFO]: Mr_director[/127.0.0.1:50719] logged in with entity id 966498 at ([world_nether]95.92230580218036, 49.0, 443.5834147864506)
+[15:47:37] [Server thread/INFO]: Villager EntityVillager['Fletcher'/962900, uuid='2a5ecdbe-2370-4dae-bead-f0b713d515dc', l='world', x=5304.30, y=77.83, z=324.62, cx=331, cz=20, tl=5341, v=true, d=false] died, message: 'Fletcher was slain by DF_yechu'
+[15:47:52] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[15:47:52] [Server thread/INFO]: jason_ji left the game
+[15:49:25] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[15:49:25] [Server thread/INFO]: Mr_director left the game
+[15:49:57] [User Authenticator #71/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[15:49:57] [Server thread/INFO]: Mr_director[/127.0.0.1:50790] logged in with entity id 969805 at ([world_nether]95.84773906447607, 49.0, 443.582687921108)
+[15:50:03] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[15:50:03] [Server thread/INFO]: Mr_director left the game
+[15:50:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@2daa2fb3[id=<null>,name=jason_ji,properties={},legacy=false] (/127.0.0.1:50796) lost connection: Disconnected
+[15:50:21] [User Authenticator #71/INFO]: Disconnecting com.mojang.authlib.GameProfile@2daa2fb3[id=<null>,name=jason_ji,properties={},legacy=false] (/127.0.0.1:50796): Authentication servers are down. Please try again later, sorry!
+[15:50:21] [User Authenticator #71/ERROR]: Couldn't verify username because servers are unavailable
+[15:50:21] [User Authenticator #72/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[15:50:21] [Server thread/INFO]: jason_ji[/127.0.0.1:50804] logged in with entity id 970046 at ([world]5289.011152334122, 69.0, 321.7727803013266)
+[15:50:41] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[15:50:41] [User Authenticator #72/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[15:50:41] [Server thread/INFO]: Mr_director[/127.0.0.1:50810] logged in with entity id 970789 at ([world_nether]95.81036159805792, 49.0, 443.5825070815647)
+[15:50:50] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[15:56:22] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[15:56:22] [Server thread/INFO]: Mr_director left the game
+[15:57:31] [User Authenticator #73/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[15:57:31] [Server thread/INFO]: Mr_director[/127.0.0.1:50942] logged in with entity id 977496 at ([world_nether]95.86233983813338, 49.0, 443.69999998807907)
+[15:58:14] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[15:58:14] [Server thread/INFO]: Mr_director left the game
+[15:59:49] [Server thread/WARN]: Auston_mc was kicked for floating too long!
+[15:59:49] [Server thread/INFO]: Auston_mc lost connection: Flying is not enabled on this server
+[15:59:49] [Server thread/INFO]: Auston_mc left the game
+[15:59:49] [Server thread/WARN]: handleDisconnection() called twice
+[15:59:59] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 折跃门
+[16:00:09] [User Authenticator #74/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[16:00:09] [Server thread/INFO]: Mr_director[/127.0.0.1:50988] logged in with entity id 979136 at ([world_nether]96.69351860966127, 49.0, 443.4278569750619)
+[16:00:23] [User Authenticator #74/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[16:00:23] [Server thread/INFO]: Auston_mc[/127.0.0.1:50982] logged in with entity id 979274 at ([world_the_end]36.83148259035295, 57.86919208369709, 2839.7474214032864)
+[16:01:34] [Server thread/INFO]: Villager EntityVillager['Librarian'/970048, uuid='f3af79c1-46a2-42ff-8d0d-93769cea683a', l='world', x=5304.70, y=77.30, z=324.30, cx=331, cz=20, tl=2571733, v=true, d=false] died, message: 'Librarian was slain by DF_yechu'
+[16:01:44] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[16:01:44] [Server thread/INFO]: jason_ji left the game
+[16:03:48] [Server thread/INFO]: Auston_mc >> 我怎么这个非啊
+[16:04:01] [Server thread/INFO]: Auston_mc >> 我怎么这么非啊
+[16:05:55] [Server thread/WARN]: Auston_mc moved too quickly! 0.7242214172959649,-0.13771733281330256,12.408983406207426
+[16:09:21] [User Authenticator #75/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[16:09:21] [Server thread/INFO]: jason_ji[/127.0.0.1:51132] logged in with entity id 983942 at ([world]5303.053530006349, 69.0, 321.3937580605228)
+[16:11:29] [Server thread/INFO]: Auston_mc has made the advancement [The City at the End of the Game]
+[16:14:52] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[16:14:52] [Server thread/INFO]: jason_ji left the game
+[16:18:49] [User Authenticator #76/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[16:18:49] [Server thread/INFO]: jason_ji[/127.0.0.1:51286] logged in with entity id 990225 at ([world]5272.884760216287, 74.0, 320.64342573254845)
+[16:21:49] [Server thread/INFO]: Auston_mc fell out of the world
+[16:21:54] [Server thread/INFO]: jason_ji >> ...
+[16:21:57] [Server thread/INFO]: HitoShouri >> ?
+[16:22:22] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[16:22:32] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[16:22:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@3c890d78[id=<null>,name=yang_ran,properties={},legacy=false] (/127.0.0.1:51361) lost connection: Disconnected
+[16:23:05] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[16:23:05] [Server thread/INFO]: jason_ji left the game
+[16:23:28] [User Authenticator #77/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[16:23:28] [Server thread/INFO]: jason_ji[/127.0.0.1:51372] logged in with entity id 995260 at ([world]5173.547067571679, 64.0, 213.18498523599442)
+[16:24:28] [User Authenticator #77/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[16:24:28] [Server thread/INFO]: Xin_Sai[/127.0.0.1:51392] logged in with entity id 996803 at ([world]2756.3737457105267, 78.53175642537713, -455.69607007629054)
+[16:26:46] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[16:26:46] [Server thread/INFO]: Auston_mc left the game
+[16:26:55] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 1
+[16:27:12] [Server thread/INFO]: Xin_Sai >> 啊这。。
+[16:27:13] [Server thread/INFO]: Villager EntityVillager['Librarian'/995808, uuid='c87725c8-cc34-4564-bf1e-78dffa391a05', l='world', x=5304.70, y=76.95, z=324.53, cx=331, cz=20, tl=11122, v=true, d=false] died, message: 'Librarian was slain by DF_yechu'
+[16:27:26] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 咋啦，我在挖矿。
+[16:27:27] [Server thread/INFO]: Xin_Sai >> 谁把海晶神兽002杀了
+[16:27:37] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 猪人？
+[16:27:37] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 没事你挖吧
+[16:27:42] [Server thread/INFO]: Xin_Sai >> en
+[16:27:50] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 直接举报吧
+[16:27:54] [Server thread/INFO]: jason_ji >> 草
+[16:28:01] [Server thread/INFO]: Xin_Sai issued server command: /co i
+[16:28:20] [Server thread/INFO]: Xin_Sai >> 怎么查生物丫
+[16:28:29] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 管理才有权限
+[16:28:36] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 所以直接举报
+[16:28:40] [Server thread/INFO]: Xin_Sai >> o
+[16:28:53] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我运回来的潜影贝也不知道被谁杀了
+[16:28:57] [Server thread/INFO]: Xin_Sai >> 无语了 老是背熊
+[16:29:14] [User Authenticator #78/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[16:29:14] [Server thread/INFO]: Auston_mc[/127.0.0.1:51474] logged in with entity id 1001370 at ([world]2786.6247693518035, 63.0, -424.82942363362804)
+[16:29:33] [User Authenticator #78/INFO]: UUID of player rockonnw is f7a5cd3c-e29e-482a-9c43-b7fc7a5cbcd4
+[16:29:33] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@54717155[id=f7a5cd3c-e29e-482a-9c43-b7fc7a5cbcd4,name=rockonnw,properties={textures=[com.mojang.authlib.properties.Property@107ffa3f]},legacy=false] (/127.0.0.1:51483): 你还不在白名单噢 加入审核群1145301933 进行审核
+[16:29:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@54717155[id=f7a5cd3c-e29e-482a-9c43-b7fc7a5cbcd4,name=rockonnw,properties={textures=[com.mojang.authlib.properties.Property@107ffa3f]},legacy=false] (/127.0.0.1:51483) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[16:29:37] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[16:29:50] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[16:30:02] [Server thread/INFO]: [公告] 想要获取更多帮助？查阅空域群文件内的帮助文档吧！ 
+[16:30:37] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[16:30:41] [User Authenticator #79/INFO]: UUID of player rockonnw is f7a5cd3c-e29e-482a-9c43-b7fc7a5cbcd4
+[16:30:41] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6a7c4044[id=f7a5cd3c-e29e-482a-9c43-b7fc7a5cbcd4,name=rockonnw,properties={textures=[com.mojang.authlib.properties.Property@528a369a]},legacy=false] (/127.0.0.1:51503): 你还不在白名单噢 加入审核群1145301933 进行审核
+[16:30:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a7c4044[id=f7a5cd3c-e29e-482a-9c43-b7fc7a5cbcd4,name=rockonnw,properties={textures=[com.mojang.authlib.properties.Property@528a369a]},legacy=false] (/127.0.0.1:51503) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[16:30:43] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[16:32:16] [Server thread/INFO]: Auston_mc issued server command: /list
+[16:32:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 尽量别和村民交易，有啥我来换
+[16:32:51] [Server thread/INFO]: Auston_mc >> sen_lv_ling_ ,有什么活可以干的
+[16:32:56] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 啊这
+[16:33:05] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我没事
+[16:33:06] [Server thread/INFO]: Auston_mc >> 被末地支配的恐惧
+[16:33:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> = =
+[16:33:27] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[16:33:27] [Server thread/INFO]: Mr_director left the game
+[16:34:02] [Server thread/INFO]: Villager EntityVillager['Fletcher'/995807, uuid='a37a59c2-736a-4a7a-a6a4-9c5b9b0347e8', l='world', x=5304.70, y=76.95, z=324.50, cx=331, cz=20, tl=33676, v=true, d=false] died, message: 'Fletcher was slain by DF_yechu'
+[16:34:40] [User Authenticator #80/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[16:34:40] [Server thread/INFO]: Mr_director[/127.0.0.1:51571] logged in with entity id 1005962 at ([world_nether]97.67279397328898, 49.0, 443.6844922857528)
+[16:34:55] [Server thread/INFO]: Auston_mc >> 最近服务器有什么活整
+[16:34:59] [User Authenticator #80/INFO]: UUID of player YiFanFengShun is 6b491d23-aa75-4830-8683-36a79ae50c53
+[16:34:59] [Server thread/INFO]: YiFanFengShun[/127.0.0.1:51581] logged in with entity id 1006447 at ([world]5205.500435585603, 69.0, 233.33291580290216)
+[16:35:15] [Server thread/INFO]: Mr_director >> 最大的活是地狱空置域
+[16:35:17] [Server thread/INFO]: <淘金热·优胜><带善人> YiFanFengShun >> 我来惹awa
+[16:35:21] [Server thread/INFO]: jason_ji >> yffs来
+[16:35:46] [Server thread/INFO]: Auston_mc >> 你们炸，跟我也没太大关系
+[16:35:50] [Server thread/INFO]: Auston_mc >> XD
+[16:36:01] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 对了
+[16:36:08] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 打凋零
+[16:36:32] [Server thread/INFO]: Xin_Sai issued server command: /co i
+[16:36:34] [Server thread/INFO]: Auston_mc >> 不是有杀凋机？
+[16:36:39] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> ???
+[16:36:42] [Server thread/INFO]: jason_ji >> 没有
+[16:36:42] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 半小时62颗钻石，两组青金石，你说我是欧皇还是非酋。
+[16:36:46] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 你建的有嘛~
+[16:36:52] [Server thread/INFO]: YiFanFengShun issued server command: /
+[16:37:13] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 还行吧
+[16:37:58] [Server thread/INFO]: Xin_Sai issued server command: /tell HitoShouri 多弄点青金石
+[16:38:22] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 好?
+[16:38:50] [Server thread/INFO]: jason_ji >> 怎么样
+[16:38:55] [Server thread/INFO]: <淘金热·优胜><带善人> YiFanFengShun >> 不错
+[16:39:00] [Server thread/INFO]: Auston_mc >> ?
+[16:39:10] [Server thread/INFO]: HitoShouri has made the advancement [Ice Bucket Challenge]
+[16:39:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[16:39:44] [Server thread/INFO]: jason_ji >> 以后不缺装备了
+[16:39:47] [Server thread/INFO]: <淘金热·优胜><带善人> YiFanFengShun >> 嗯
+[16:39:55] [Server thread/INFO]: <淘金热·优胜><带善人> YiFanFengShun >> 建议睡觉
+[16:40:11] [Server thread/INFO]: jason_ji >> 我不拍
+[16:41:06] [Server thread/INFO]: <淘金热·优胜><带善人> YiFanFengShun >> 需不需要防下雷
+[16:41:10] [Server thread/INFO]: <淘金热·优胜><带善人> YiFanFengShun >> 应该需要的
+[16:41:37] [Server thread/INFO]: jason_ji >> 嗯
+[16:42:07] [Server thread/INFO]: jason_ji >> 不缺绿宝石了
+[16:42:17] [Server thread/INFO]: jason_ji >> 一个木棍一个宝石
+[16:42:17] [Server thread/INFO]: <淘金热·优胜><带善人> YiFanFengShun >> ,?
+[16:42:27] [Server thread/INFO]: <淘金热·优胜><带善人> YiFanFengShun >> awa
+[16:42:48] [Server thread/INFO]: jason_ji >> 继续打折
+[16:43:07] [Server thread/INFO]: Auston_mc >> 打折机在na？
+[16:43:15] [Server thread/INFO]: jason_ji >> 紫晶
+[16:43:29] [Server thread/INFO]: HitoShouri issued server command: /tell Xin_Sai 海晶树场能随便拿木头吗？
+[16:43:41] [Server thread/INFO]: <淘金热·优胜><带善人> YiFanFengShun >> 好活，当赏
+[16:44:04] [Server thread/INFO]: <淘金热·优胜><带善人> YiFanFengShun >> 然而并不知道赏啥
+[16:44:13] [Server thread/INFO]: sen_lv_ling_ has made the advancement [Withering Heights]
+[16:44:23] [Server thread/INFO]: jason_ji >> 啊这
+[16:44:26] [Server thread/INFO]: Villager EntityVillager['Fletcher'/1010321, uuid='5d97ae7d-7161-413c-a779-859fc226fe59', l='world', x=5304.30, y=77.78, z=324.50, cx=331, cz=20, tl=7560, v=true, d=false] died, message: 'Fletcher was slain by DF_yechu'
+[16:44:32] [Server thread/INFO]: jason_ji >> 好了
+[16:44:40] [Server thread/INFO]: <淘金热·优胜><带善人> YiFanFengShun >> 慢一点而已
+[16:44:43] [Server thread/WARN]: Auston_mc moved too quickly! -1650.606999759431,15.837858578973012,-235.44517773200076
+[16:44:57] [Server thread/INFO]: HitoShouri >> 凋零释放是去全世界都听得到。
+[16:45:16] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 不对
+[16:45:26] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 我突然发现我就一个金萝北
+[16:46:37] [Server thread/INFO]: HitoShouri >> 海晶树场有木头吗？我想去拿两组。
+[16:46:46] [Server thread/INFO]: Auston_mc >> 有
+[16:47:10] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 凋零也是亡灵
+[16:47:12] [Server thread/INFO]: jason_ji >> 说到树场
+[16:47:16] [Server thread/INFO]: Xin_Sai >> e
+[16:47:21] [Server thread/INFO]: Auston_mc >> 末地末影箱呢？
+[16:47:22] [Server thread/INFO]: jason_ji >> yffs你会修吗
+[16:47:29] [Server thread/INFO]: <淘金热·优胜><带善人> YiFanFengShun >> 不会awa
+[16:47:56] [Server thread/INFO]: <淘金热·优胜><带善人> YiFanFengShun >> 我先去hyp刷下级awa
+[16:48:26] [Server thread/INFO]: YiFanFengShun lost connection: Disconnected
+[16:48:26] [Server thread/INFO]: YiFanFengShun left the game
+[16:48:39] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[16:48:39] [Server thread/INFO]: jason_ji left the game
+[16:49:45] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+[16:54:34] [Server thread/INFO]: HitoShouri issued server command: /tell Auston_mc 树场里就俩木棍。
+[16:58:53] [Server thread/INFO]: Auston_mc >> 怎么末地小黑塔这么少小黑
+[16:59:12] [Server thread/INFO]: <森语参上> sen_lv_ling_ >> 说明还有人在末地
+[17:00:06] [Server thread/INFO]: HitoShouri issued server command: /co i
+[17:01:32] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[17:01:32] [Server thread/INFO]: sen_lv_ling_ left the game
+[17:02:25] [Server thread/INFO]: HitoShouri issued server command: /co i
+[17:02:45] [User Authenticator #81/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[17:02:45] [Server thread/INFO]: Crushxl[/127.0.0.1:52070] logged in with entity id 1035652 at ([world_nether]-84.22202508157834, 53.329933099295936, 27.05967037711828)
+[17:04:14] [Server thread/WARN]: Crushxl moved too quickly! 28.058309361912322,7.494331801054777,-8.318347194244609
+[17:08:32] [Server thread/WARN]: c6bf85f1-8473-46c3-8be7-83fc650ce88f (vehicle of HitoShouri) moved wrongly!
+[17:08:32] [Server thread/WARN]: c6bf85f1-8473-46c3-8be7-83fc650ce88f (vehicle of HitoShouri) moved wrongly!
+[17:08:32] [Server thread/WARN]: c6bf85f1-8473-46c3-8be7-83fc650ce88f (vehicle of HitoShouri) moved wrongly!
+[17:08:32] [Server thread/WARN]: c6bf85f1-8473-46c3-8be7-83fc650ce88f (vehicle of HitoShouri) moved wrongly!
+[17:08:33] [Server thread/WARN]: c6bf85f1-8473-46c3-8be7-83fc650ce88f (vehicle of HitoShouri) moved wrongly!
+[17:08:33] [Server thread/WARN]: c6bf85f1-8473-46c3-8be7-83fc650ce88f (vehicle of HitoShouri) moved wrongly!
+[17:08:48] [Server thread/WARN]: c6bf85f1-8473-46c3-8be7-83fc650ce88f (vehicle of HitoShouri) moved wrongly!
+[17:09:40] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[17:18:39] [Server thread/INFO]: <服主> Crushxl >> 10分钟后停服维护1小时
+[17:19:33] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[17:19:33] [Server thread/INFO]: adhesive_tape left the game
+[17:19:48] [User Authenticator #82/INFO]: UUID of player Bai_langLee is b68b3a86-4809-40bc-8d4f-691552f2cdd3
+[17:19:48] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@58421de5[id=b68b3a86-4809-40bc-8d4f-691552f2cdd3,name=Bai_langLee,properties={textures=[com.mojang.authlib.properties.Property@16ed3cd]},legacy=false] (/127.0.0.1:52358): 你还不在白名单噢 加入审核群1145301933 进行审核
+[17:19:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@58421de5[id=b68b3a86-4809-40bc-8d4f-691552f2cdd3,name=Bai_langLee,properties={textures=[com.mojang.authlib.properties.Property@16ed3cd]},legacy=false] (/127.0.0.1:52358) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[17:19:56] [User Authenticator #82/INFO]: UUID of player Bai_langLee is b68b3a86-4809-40bc-8d4f-691552f2cdd3
+[17:19:56] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7bef9815[id=b68b3a86-4809-40bc-8d4f-691552f2cdd3,name=Bai_langLee,properties={textures=[com.mojang.authlib.properties.Property@45a2c880]},legacy=false] (/127.0.0.1:52365): 你还不在白名单噢 加入审核群1145301933 进行审核
+[17:19:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@7bef9815[id=b68b3a86-4809-40bc-8d4f-691552f2cdd3,name=Bai_langLee,properties={textures=[com.mojang.authlib.properties.Property@45a2c880]},legacy=false] (/127.0.0.1:52365) lost connection: 你还不在白名单噢 加入审核群1145301933 进行审核
+[17:20:14] [Server thread/INFO]: Auston_mc fell out of the world
+[17:20:22] [Server thread/INFO]: HitoShouri >> ........
+[17:20:35] [User Authenticator #82/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[17:20:35] [Server thread/INFO]: adhesive_tape[/127.0.0.1:52383] logged in with entity id 1049487 at ([world]4375.297437217428, 17.875, 3920.636590647642)
+[17:21:00] [Server thread/INFO]: Auston_mc >> 提前下线
+[17:21:13] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[17:21:13] [Server thread/INFO]: Auston_mc left the game
+[17:21:59] [User Authenticator #83/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[17:21:59] [Server thread/INFO]: jason_ji[/127.0.0.1:52411] logged in with entity id 1050462 at ([world]5268.385759026615, 74.5, 322.32879672883246)
+[17:24:35] [Server thread/INFO]: <服主> Crushxl >> 5分钟后停服维护1小时
+[17:24:35] [Server thread/INFO]: jason_ji >> xl延迟好高
+[17:24:44] [Server thread/INFO]: adhesive_tape >> 呃
+[17:24:57] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[17:24:57] [Server thread/INFO]: Mr_director left the game
+[17:27:41] [Server thread/INFO]: Crushxl lost connection: Timed out
+[17:27:41] [Server thread/INFO]: Crushxl left the game
+[17:28:10] [Server thread/INFO]: Villager EntityVillager['Armorer'/1050466, uuid='3832c06a-b94b-4e7d-8e13-36fa8988f046', l='world', x=5304.30, y=77.53, z=324.70, cx=331, cz=20, tl=2440320, v=true, d=false] died, message: 'Armorer was slain by DF_yechu'
+[17:30:02] [Server thread/INFO]: [公告] [活动·这是我的战争] 现已开放报名，详见群内公告 
+[17:31:06] [Server thread/INFO]: jason_ji >> 没停服吗
+[17:31:42] [Server thread/INFO]: [Server] 关了
+[17:31:44] [Server thread/INFO]: Stopping the server
+[17:31:44] [Server thread/INFO]: Stopping server
+[17:31:44] [Server thread/INFO]: [TAB] Disabling TAB v2.7.2
+[17:31:44] [Server thread/INFO]: [TAB] Disabled in 1ms
+[17:31:44] [Server thread/INFO]: [Lores] Disabling Lores v1.4.1
+[17:31:44] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[17:31:44] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is disabled!
+[17:31:44] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[17:31:44] [Server thread/INFO]: [CrowdLocator] Disabling CrowdLocator v1.0
+[17:31:44] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v1.7.1
+[17:31:44] [Server thread/INFO]: [ChatC] Disabling ChatC v0.5
+[17:31:44] [Server thread/INFO]: [ChatC] 聊天管理插件已关闭！
+[17:31:44] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[17:31:44] [Server thread/INFO]: [SAML] Disabling SAML v2.0.0
+[17:31:44] [Server thread/INFO]: [SAML] The frozen chunk cache file has been deleted. All chunks should have been accounted for.
+[17:31:44] [Server thread/INFO]: [SAML] Successfully disabled.
+[17:31:44] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[17:31:44] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.3.1
+[17:31:44] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[17:31:44] [Server thread/INFO]: [hsqldb.db.HSQLDB737084AC43.ENGINE] Database closed
+[17:31:44] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[17:31:44] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[17:31:44] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[17:31:44] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[17:31:44] [Server thread/INFO]: [PxAutoMessage] 正在关闭皮克斯自动公告系统...
+[17:31:44] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[17:31:44] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[17:31:45] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[17:31:45] [Server thread/INFO]: Saving players
+[17:31:45] [Server thread/INFO]: _YuanXiao_ lost connection: Server closed
+[17:31:45] [Server thread/INFO]: _YuanXiao_ left the game
+[17:31:45] [Server thread/INFO]: HitoShouri lost connection: Server closed
+[17:31:45] [Server thread/INFO]: HitoShouri left the game
+[17:31:45] [Server thread/INFO]: Xin_Sai lost connection: Server closed
+[17:31:45] [Server thread/INFO]: Xin_Sai left the game
+[17:31:45] [Server thread/INFO]: adhesive_tape lost connection: Server closed
+[17:31:45] [Server thread/INFO]: adhesive_tape left the game
+[17:31:45] [Server thread/INFO]: jason_ji lost connection: Server closed
+[17:31:45] [Server thread/INFO]: jason_ji left the game
+[17:31:45] [Server thread/INFO]: Saving worlds
+[17:31:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:31:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:31:46] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[17:31:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:31:46] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[17:31:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:31:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:31:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:31:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

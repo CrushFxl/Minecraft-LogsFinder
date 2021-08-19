@@ -1,0 +1,67 @@
+[00:00:18] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[00:00:18] [Server thread/INFO]: Security_Winter left the game
+[00:01:49] [User Authenticator #316/INFO]: UUID of player Security_Winter is bcfaf083-b49a-4a47-b8a9-5f7c62b6e381
+[00:01:49] [Server thread/INFO]: Security_Winter[/127.0.0.1:64077] logged in with entity id 12966395 at ([world_the_end]95.10648525035542, 15.0, 1.1181038449501501)
+[00:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[00:56:09] [Server thread/INFO]: Security_Winter lost connection: Disconnected
+[00:56:09] [Server thread/INFO]: Security_Winter left the game
+[01:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[02:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[03:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏÞ£¬Ã¿´ÎÏûºÄ3µãÊý¡£ [m
+[04:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓÐ¹ØµãÊý°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[05:34:08] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øÐÐÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊý¡£ [m
+[06:27:49] [Server thread/INFO]: There are 0 of a max of 50 players online: 
+[06:27:52] [Server thread/INFO]: Î´ÖªÖ¸Áî.¼üÈë"/help"²é¿´°ïÖú[m
+[06:27:54] [Server thread/INFO]: Stopping the server
+[06:27:54] [Server thread/INFO]: Stopping server
+[06:27:54] [Server thread/INFO]: [AnGmode] Disabling AnGmode v1.0-SNAPSHOT
+[06:27:54] [Server thread/INFO]: [AnGmode] ¡ìaÏÂ´ÎÔÙ¼û~~
+[06:27:54] [Server thread/INFO]: [Lores] Disabling Lores v1.4.1
+[06:27:54] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[06:27:54] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is disabled![m
+[06:27:54] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[06:27:54] [Server thread/INFO]: [CrowdLocator] Disabling CrowdLocator v1.0
+[06:27:54] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v2.1.5-SNAPSHOT
+[06:27:54] [Server thread/INFO]: [ChatC] Disabling ChatC v0.5
+[06:27:54] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼þÒÑ¹Ø±Õ£¡
+[06:27:54] [Server thread/INFO]: [ChatC] ¸ÐÐ»ÄúµÄÊ¹ÓÃ£¡
+[06:27:54] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[06:27:54] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[06:27:54] [Server thread/INFO]: Database closed
+[06:27:54] [Server thread/INFO]: HikariPool-6 - Shutdown initiated...
+[06:27:54] [Server thread/INFO]: HikariPool-6 - Shutdown completed.
+[06:27:54] [Server thread/INFO]: 
+[06:27:54] [Server thread/INFO]:  
+[06:27:54] [Server thread/INFO]: [0;30;1m[]=====[[0;37;22mDisabling AdvancedBan[0;30;1m]=====[]
+[06:27:54] [Server thread/INFO]: [0;30;1m| [0;31;1mInformation:
+[06:27:54] [Server thread/INFO]: [0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[06:27:54] [Server thread/INFO]: [0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[06:27:54] [Server thread/INFO]: [0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[06:27:54] [Server thread/INFO]: [0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[06:27:54] [Server thread/INFO]: [0;30;1m| [0;31;1mSupport:
+[06:27:54] [Server thread/INFO]: [0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[06:27:54] [Server thread/INFO]: [0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[06:27:54] [Server thread/INFO]: [0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[06:27:54] [Server thread/INFO]: [0;30;1m[]================================[][m
+[06:27:54] [Server thread/INFO]:  [m
+[06:27:54] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[06:27:54] [Server thread/INFO]: [PxAutoMessage] ÕýÔÚ¹Ø±ÕÆ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[06:27:54] [Server thread/INFO]: [OnlineRewards] Disabling OnlineRewards v1.0.0
+[06:27:54] [Server thread/INFO]: [OnlineRewards]  
+[06:27:54] [Server thread/INFO]: [OnlineRewards] >>>>>>>>>>>>>>>>>>>>>>>> OnlineRewards Unloaded <<<<<<<<<<<<<<<<<<<<<<<<
+[06:27:54] [Server thread/INFO]: [OnlineRewards]  
+[06:27:54] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v19.5
+[06:27:54] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[06:27:55] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v19.5
+[06:27:55] [Server thread/INFO]: Saving players
+[06:27:55] [Server thread/INFO]: Saving worlds
+[06:27:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:27:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:27:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:27:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:27:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:27:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:27:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:27:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:27:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:27:57] [Server thread/INFO]: Saving usercache.json

@@ -1,0 +1,666 @@
+[00:09:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@4be98b5f[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:52299) lost connection: Disconnected
+[00:09:21] [User Authenticator #84/INFO]: Disconnecting com.mojang.authlib.GameProfile@4be98b5f[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:52299): Authentication servers are down. Please try again later, sorry!
+[00:09:21] [User Authenticator #84/ERROR]: Couldn't verify username because servers are unavailable
+[00:15:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ffa52d7[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:52346) lost connection: Disconnected
+[00:15:55] [User Authenticator #85/INFO]: Disconnecting com.mojang.authlib.GameProfile@3de0a300[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:52349): Authentication servers are down. Please try again later, sorry!
+[00:15:55] [User Authenticator #85/ERROR]: Couldn't verify username because servers are unavailable
+[00:15:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@3de0a300[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:52349) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[01:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[02:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[03:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[04:44:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@14e52dd6[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:53780) lost connection: Disconnected
+[04:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[05:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[06:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[07:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[08:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[09:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[10:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[11:17:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@2670c331[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:56033) lost connection: Disconnected
+[11:17:20] [User Authenticator #87/INFO]: Disconnecting com.mojang.authlib.GameProfile@2670c331[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:56033): Authentication servers are down. Please try again later, sorry!
+[11:17:20] [User Authenticator #87/ERROR]: Couldn't verify username because servers are unavailable
+[11:17:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c657513[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:56035) lost connection: Disconnected
+[11:17:36] [User Authenticator #88/INFO]: Disconnecting com.mojang.authlib.GameProfile@1c657513[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:56035): Authentication servers are down. Please try again later, sorry!
+[11:17:36] [User Authenticator #88/ERROR]: Couldn't verify username because servers are unavailable
+[11:17:54] [User Authenticator #89/INFO]: Disconnecting com.mojang.authlib.GameProfile@6eeb36cf[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:56038): Authentication servers are down. Please try again later, sorry!
+[11:17:54] [User Authenticator #89/ERROR]: Couldn't verify username because servers are unavailable
+[11:17:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@6eeb36cf[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:56038) lost connection: Authentication servers are down. Please try again later, sorry!
+[11:18:35] [User Authenticator #90/INFO]: Disconnecting com.mojang.authlib.GameProfile@18dc52b[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:56042): Authentication servers are down. Please try again later, sorry!
+[11:18:35] [User Authenticator #90/ERROR]: Couldn't verify username because servers are unavailable
+[11:18:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@18dc52b[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:56042) lost connection: Authentication servers are down. Please try again later, sorry!
+[11:19:36] [User Authenticator #91/INFO]: Disconnecting com.mojang.authlib.GameProfile@5970c5b0[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:56047): Authentication servers are down. Please try again later, sorry!
+[11:19:36] [User Authenticator #91/ERROR]: Couldn't verify username because servers are unavailable
+[11:19:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@5970c5b0[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:56047) lost connection: Authentication servers are down. Please try again later, sorry!
+[11:20:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@4e207bd4[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:56052) lost connection: Disconnected
+[11:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[12:30:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c04a311[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:56429) lost connection: Disconnected
+[12:30:55] [User Authenticator #92/INFO]: Disconnecting com.mojang.authlib.GameProfile@5c04a311[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:56429): Authentication servers are down. Please try again later, sorry!
+[12:30:55] [User Authenticator #92/ERROR]: Couldn't verify username because servers are unavailable
+[12:38:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@67b6f423[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56479) lost connection: Disconnected
+[12:39:00] [User Authenticator #93/INFO]: Disconnecting com.mojang.authlib.GameProfile@67b6f423[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56479): Authentication servers are down. Please try again later, sorry!
+[12:39:00] [User Authenticator #93/ERROR]: Couldn't verify username because servers are unavailable
+[12:39:32] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1ed3dfef[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56486): Took too long to log in
+[12:39:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ed3dfef[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56486) lost connection: Took too long to log in
+[12:39:33] [User Authenticator #94/INFO]: Disconnecting com.mojang.authlib.GameProfile@1ed3dfef[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56486): Authentication servers are down. Please try again later, sorry!
+[12:39:33] [User Authenticator #94/ERROR]: Couldn't verify username because servers are unavailable
+[12:40:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@4192cb99[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56497) lost connection: Disconnected
+[12:40:37] [User Authenticator #95/INFO]: Disconnecting com.mojang.authlib.GameProfile@4192cb99[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56497): Authentication servers are down. Please try again later, sorry!
+[12:40:37] [User Authenticator #95/ERROR]: Couldn't verify username because servers are unavailable
+[12:41:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@2cfff901[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56511) lost connection: Disconnected
+[12:41:37] [User Authenticator #96/INFO]: Disconnecting com.mojang.authlib.GameProfile@2cfff901[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56511): Authentication servers are down. Please try again later, sorry!
+[12:41:37] [User Authenticator #96/ERROR]: Couldn't verify username because servers are unavailable
+[12:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[13:27:08] [User Authenticator #97/INFO]: Disconnecting com.mojang.authlib.GameProfile@504e7801[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56757): Authentication servers are down. Please try again later, sorry!
+[13:27:08] [User Authenticator #97/ERROR]: Couldn't verify username because servers are unavailable
+[13:27:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@504e7801[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:56757) lost connection: Authentication servers are down. Please try again later, sorry!
+[13:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[14:18:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@24dc2f9d[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:57042) lost connection: Disconnected
+[14:19:03] [User Authenticator #98/INFO]: Disconnecting com.mojang.authlib.GameProfile@24dc2f9d[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:57042): Authentication servers are down. Please try again later, sorry!
+[14:19:03] [User Authenticator #98/ERROR]: Couldn't verify username because servers are unavailable
+[14:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[15:17:05] [User Authenticator #99/INFO]: Disconnecting com.mojang.authlib.GameProfile@710136ae[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:57758): Authentication servers are down. Please try again later, sorry!
+[15:17:05] [User Authenticator #99/ERROR]: Couldn't verify username because servers are unavailable
+[15:17:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@710136ae[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:57758) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[15:46:38] [User Authenticator #100/INFO]: Disconnecting com.mojang.authlib.GameProfile@1bb8ddab[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:57920): Authentication servers are down. Please try again later, sorry!
+[15:46:38] [User Authenticator #100/ERROR]: Couldn't verify username because servers are unavailable
+[15:46:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@1bb8ddab[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:57920) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:47:00] [User Authenticator #101/INFO]: Disconnecting com.mojang.authlib.GameProfile@410fe97c[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:57925): Authentication servers are down. Please try again later, sorry!
+[15:47:00] [User Authenticator #101/ERROR]: Couldn't verify username because servers are unavailable
+[15:47:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@410fe97c[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:57925) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:47:33] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2e05070f[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:57930): Took too long to log in
+[15:47:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@2e05070f[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:57930) lost connection: Took too long to log in
+[15:47:46] [User Authenticator #102/INFO]: Disconnecting com.mojang.authlib.GameProfile@2e05070f[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:57930): Authentication servers are down. Please try again later, sorry!
+[15:47:46] [User Authenticator #102/ERROR]: Couldn't verify username because servers are unavailable
+[15:47:53] [User Authenticator #103/INFO]: Disconnecting com.mojang.authlib.GameProfile@2f05006f[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:57936): Authentication servers are down. Please try again later, sorry!
+[15:47:53] [User Authenticator #103/ERROR]: Couldn't verify username because servers are unavailable
+[15:47:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f05006f[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:57936) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:48:10] [User Authenticator #104/INFO]: Disconnecting com.mojang.authlib.GameProfile@263502b4[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:57939): Authentication servers are down. Please try again later, sorry!
+[15:48:10] [User Authenticator #104/ERROR]: Couldn't verify username because servers are unavailable
+[15:48:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@263502b4[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:57939) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:49:03] [User Authenticator #105/INFO]: Disconnecting com.mojang.authlib.GameProfile@6913959f[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:57944): Authentication servers are down. Please try again later, sorry!
+[15:49:03] [User Authenticator #105/ERROR]: Couldn't verify username because servers are unavailable
+[15:49:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@6913959f[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:57944) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:04:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@2459878d[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58023) lost connection: Disconnected
+[16:04:26] [User Authenticator #106/INFO]: Disconnecting com.mojang.authlib.GameProfile@2459878d[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58023): Authentication servers are down. Please try again later, sorry!
+[16:04:26] [User Authenticator #106/ERROR]: Couldn't verify username because servers are unavailable
+[16:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[17:23:39] [User Authenticator #107/INFO]: Disconnecting com.mojang.authlib.GameProfile@611d78cd[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58455): Authentication servers are down. Please try again later, sorry!
+[17:23:39] [User Authenticator #107/ERROR]: Couldn't verify username because servers are unavailable
+[17:23:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@611d78cd[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58455) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:24:11] [User Authenticator #108/INFO]: Disconnecting com.mojang.authlib.GameProfile@2b3d9cf0[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58460): Authentication servers are down. Please try again later, sorry!
+[17:24:11] [User Authenticator #108/ERROR]: Couldn't verify username because servers are unavailable
+[17:24:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b3d9cf0[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58460) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:29:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@79ba5858[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58494) lost connection: Disconnected
+[17:29:10] [User Authenticator #109/INFO]: Disconnecting com.mojang.authlib.GameProfile@79ba5858[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58494): Authentication servers are down. Please try again later, sorry!
+[17:29:10] [User Authenticator #109/ERROR]: Couldn't verify username because servers are unavailable
+[17:29:27] [User Authenticator #110/INFO]: Disconnecting com.mojang.authlib.GameProfile@30f606cb[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58498): Authentication servers are down. Please try again later, sorry!
+[17:29:27] [User Authenticator #110/ERROR]: Couldn't verify username because servers are unavailable
+[17:29:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@30f606cb[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58498) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:29:36] [User Authenticator #111/INFO]: Disconnecting com.mojang.authlib.GameProfile@590d6e21[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58501): Authentication servers are down. Please try again later, sorry!
+[17:29:36] [User Authenticator #111/ERROR]: Couldn't verify username because servers are unavailable
+[17:29:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@590d6e21[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58501) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:30:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@3aa8102e[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58504) lost connection: Disconnected
+[17:30:02] [User Authenticator #112/INFO]: Disconnecting com.mojang.authlib.GameProfile@3aa8102e[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58504): Authentication servers are down. Please try again later, sorry!
+[17:30:02] [User Authenticator #112/ERROR]: Couldn't verify username because servers are unavailable
+[17:30:02] [User Authenticator #113/INFO]: Disconnecting com.mojang.authlib.GameProfile@6ceb87e[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58507): Authentication servers are down. Please try again later, sorry!
+[17:30:02] [User Authenticator #113/ERROR]: Couldn't verify username because servers are unavailable
+[17:30:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ceb87e[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58507) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:30:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@65dd6fec[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58514) lost connection: Disconnected
+[17:30:25] [User Authenticator #115/INFO]: Disconnecting com.mojang.authlib.GameProfile@65dd6fec[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58514): Authentication servers are down. Please try again later, sorry!
+[17:30:25] [User Authenticator #115/ERROR]: Couldn't verify username because servers are unavailable
+[17:30:28] [User Authenticator #114/INFO]: Disconnecting com.mojang.authlib.GameProfile@17464b71[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58512): Authentication servers are down. Please try again later, sorry!
+[17:30:28] [User Authenticator #114/ERROR]: Couldn't verify username because servers are unavailable
+[17:30:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@17464b71[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58512) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:30:50] [User Authenticator #116/INFO]: Disconnecting com.mojang.authlib.GameProfile@2b8fe03a[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58522): Authentication servers are down. Please try again later, sorry!
+[17:30:50] [User Authenticator #116/ERROR]: Couldn't verify username because servers are unavailable
+[17:30:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b8fe03a[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58522) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:31:52] [User Authenticator #117/INFO]: Disconnecting com.mojang.authlib.GameProfile@1848b44f[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58530): Authentication servers are down. Please try again later, sorry!
+[17:31:52] [User Authenticator #117/ERROR]: Couldn't verify username because servers are unavailable
+[17:31:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@1848b44f[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58530) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:32:12] [User Authenticator #118/INFO]: Disconnecting com.mojang.authlib.GameProfile@4f0bd60e[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58535): Authentication servers are down. Please try again later, sorry!
+[17:32:12] [User Authenticator #118/ERROR]: Couldn't verify username because servers are unavailable
+[17:32:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f0bd60e[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58535) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:32:35] [User Authenticator #119/INFO]: Disconnecting com.mojang.authlib.GameProfile@441151b1[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58539): Authentication servers are down. Please try again later, sorry!
+[17:32:35] [User Authenticator #119/ERROR]: Couldn't verify username because servers are unavailable
+[17:32:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@441151b1[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58539) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:35:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@214360c7[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58551) lost connection: Disconnected
+[17:35:06] [User Authenticator #121/INFO]: Disconnecting com.mojang.authlib.GameProfile@2d76c3de[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58554): Authentication servers are down. Please try again later, sorry!
+[17:35:06] [User Authenticator #121/ERROR]: Couldn't verify username because servers are unavailable
+[17:35:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d76c3de[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58554) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:35:15] [User Authenticator #120/INFO]: Disconnecting com.mojang.authlib.GameProfile@214360c7[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58551): Authentication servers are down. Please try again later, sorry!
+[17:35:15] [User Authenticator #120/ERROR]: Couldn't verify username because servers are unavailable
+[17:35:27] [User Authenticator #122/INFO]: Disconnecting com.mojang.authlib.GameProfile@36cfff18[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58559): Authentication servers are down. Please try again later, sorry!
+[17:35:27] [User Authenticator #122/ERROR]: Couldn't verify username because servers are unavailable
+[17:35:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@36cfff18[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58559) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:35:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b103da1[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58561) lost connection: Disconnected
+[17:35:46] [User Authenticator #123/INFO]: Disconnecting com.mojang.authlib.GameProfile@5b103da1[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58561): Authentication servers are down. Please try again later, sorry!
+[17:35:46] [User Authenticator #123/ERROR]: Couldn't verify username because servers are unavailable
+[17:36:23] [User Authenticator #124/INFO]: Disconnecting com.mojang.authlib.GameProfile@5482ee1a[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58569): Authentication servers are down. Please try again later, sorry!
+[17:36:23] [User Authenticator #124/ERROR]: Couldn't verify username because servers are unavailable
+[17:36:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@5482ee1a[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58569) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:36:45] [User Authenticator #125/INFO]: Disconnecting com.mojang.authlib.GameProfile@3fc8a8c8[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58574): Authentication servers are down. Please try again later, sorry!
+[17:36:45] [User Authenticator #125/ERROR]: Couldn't verify username because servers are unavailable
+[17:36:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@3fc8a8c8[id=<null>,name=Ink_Snow,properties={},legacy=false] (/127.0.0.1:58574) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:40:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ba822eb[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58595) lost connection: Disconnected
+[17:40:40] [User Authenticator #126/INFO]: Disconnecting com.mojang.authlib.GameProfile@5ba822eb[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58595): Authentication servers are down. Please try again later, sorry!
+[17:40:40] [User Authenticator #126/ERROR]: Couldn't verify username because servers are unavailable
+[17:40:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@61573401[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58602) lost connection: Disconnected
+[17:40:52] [User Authenticator #127/INFO]: Disconnecting com.mojang.authlib.GameProfile@61573401[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58602): Authentication servers are down. Please try again later, sorry!
+[17:40:52] [User Authenticator #127/ERROR]: Couldn't verify username because servers are unavailable
+[17:46:24] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[18:03:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@5aa6580f[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58715) lost connection: Disconnected
+[18:03:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@40d00a51[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58716) lost connection: Disconnected
+[18:03:26] [User Authenticator #128/INFO]: Disconnecting com.mojang.authlib.GameProfile@40d00a51[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58716): Authentication servers are down. Please try again later, sorry!
+[18:03:26] [User Authenticator #128/ERROR]: Couldn't verify username because servers are unavailable
+[18:03:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@7ce69cdd[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58723) lost connection: Disconnected
+[18:03:45] [User Authenticator #129/INFO]: Disconnecting com.mojang.authlib.GameProfile@7ce69cdd[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58723): Authentication servers are down. Please try again later, sorry!
+[18:03:45] [User Authenticator #129/ERROR]: Couldn't verify username because servers are unavailable
+[18:04:00] [User Authenticator #130/INFO]: Disconnecting com.mojang.authlib.GameProfile@39064733[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58727): Authentication servers are down. Please try again later, sorry!
+[18:04:00] [User Authenticator #130/ERROR]: Couldn't verify username because servers are unavailable
+[18:04:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@39064733[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58727) lost connection: Authentication servers are down. Please try again later, sorry!
+[18:04:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@33cf9591[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58730) lost connection: Disconnected
+[18:04:20] [User Authenticator #131/INFO]: Disconnecting com.mojang.authlib.GameProfile@33cf9591[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58730): Authentication servers are down. Please try again later, sorry!
+[18:04:20] [User Authenticator #131/ERROR]: Couldn't verify username because servers are unavailable
+[18:04:27] [User Authenticator #132/INFO]: Disconnecting com.mojang.authlib.GameProfile@1e0dfa13[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58734): Authentication servers are down. Please try again later, sorry!
+[18:04:27] [User Authenticator #132/ERROR]: Couldn't verify username because servers are unavailable
+[18:04:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@1e0dfa13[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58734) lost connection: Authentication servers are down. Please try again later, sorry!
+[18:04:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@5bc1c5c7[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58738) lost connection: Disconnected
+[18:05:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b03de6c[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58743) lost connection: Disconnected
+[18:05:06] [User Authenticator #133/INFO]: Disconnecting com.mojang.authlib.GameProfile@5bc1c5c7[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58738): Authentication servers are down. Please try again later, sorry!
+[18:05:06] [User Authenticator #133/ERROR]: Couldn't verify username because servers are unavailable
+[18:05:16] [User Authenticator #134/INFO]: Disconnecting com.mojang.authlib.GameProfile@1b03de6c[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:58743): Authentication servers are down. Please try again later, sorry!
+[18:05:16] [User Authenticator #134/ERROR]: Couldn't verify username because servers are unavailable
+[18:06:21] [User Authenticator #135/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[18:06:21] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:58755] logged in with entity id 1704 at ([world]2743.3310750353185, 65.5, -434.5332617427859)
+[18:06:56] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> 233[m
+[18:09:43] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:09:48] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:10:01] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:10:06] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:12:42] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:12:51] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:15:21] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:15:28] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:15:49] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:15:53] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:16:15] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[18:17:14] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:17:18] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[18:24:44] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[18:24:44] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[18:30:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@556cf8c0[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58882) lost connection: Disconnected
+[18:30:48] [User Authenticator #136/INFO]: Disconnecting com.mojang.authlib.GameProfile@556cf8c0[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58882): Authentication servers are down. Please try again later, sorry!
+[18:30:48] [User Authenticator #136/ERROR]: Couldn't verify username because servers are unavailable
+[18:30:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a884354[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58886) lost connection: Disconnected
+[18:30:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@349ae355[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58888) lost connection: Disconnected
+[18:30:59] [User Authenticator #137/INFO]: Disconnecting com.mojang.authlib.GameProfile@3a884354[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58886): Authentication servers are down. Please try again later, sorry!
+[18:30:59] [User Authenticator #137/ERROR]: Couldn't verify username because servers are unavailable
+[18:31:09] [User Authenticator #138/INFO]: Disconnecting com.mojang.authlib.GameProfile@349ae355[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58888): Authentication servers are down. Please try again later, sorry!
+[18:31:09] [User Authenticator #138/ERROR]: Couldn't verify username because servers are unavailable
+[18:37:10] [User Authenticator #139/INFO]: Disconnecting com.mojang.authlib.GameProfile@633cd813[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58920): Authentication servers are down. Please try again later, sorry!
+[18:37:10] [User Authenticator #139/ERROR]: Couldn't verify username because servers are unavailable
+[18:37:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@633cd813[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58920) lost connection: Authentication servers are down. Please try again later, sorry!
+[18:37:14] [User Authenticator #141/INFO]: Disconnecting com.mojang.authlib.GameProfile@7e67bd6e[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58922): Authentication servers are down. Please try again later, sorry!
+[18:37:14] [User Authenticator #141/ERROR]: Couldn't verify username because servers are unavailable
+[18:37:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@7e67bd6e[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58922) lost connection: Authentication servers are down. Please try again later, sorry!
+[18:37:15] [User Authenticator #140/INFO]: Disconnecting com.mojang.authlib.GameProfile@66207073[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58921): Authentication servers are down. Please try again later, sorry!
+[18:37:15] [User Authenticator #140/ERROR]: Couldn't verify username because servers are unavailable
+[18:37:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@66207073[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58921) lost connection: Authentication servers are down. Please try again later, sorry!
+[18:37:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@79ac4f92[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58928) lost connection: Disconnected
+[18:37:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@76d9a7a8[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58931) lost connection: Disconnected
+[18:37:27] [User Authenticator #142/INFO]: Disconnecting com.mojang.authlib.GameProfile@79ac4f92[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58928): Authentication servers are down. Please try again later, sorry!
+[18:37:27] [User Authenticator #142/ERROR]: Couldn't verify username because servers are unavailable
+[18:37:36] [User Authenticator #143/INFO]: Disconnecting com.mojang.authlib.GameProfile@76d9a7a8[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:58931): Authentication servers are down. Please try again later, sorry!
+[18:37:36] [User Authenticator #143/ERROR]: Couldn't verify username because servers are unavailable
+[18:46:23] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[19:01:21] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[19:01:21] [Server thread/INFO]: the_yellowleaf left the game
+[19:13:41] [User Authenticator #144/INFO]: Disconnecting com.mojang.authlib.GameProfile@677c08a5[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59132): Authentication servers are down. Please try again later, sorry!
+[19:13:41] [User Authenticator #144/ERROR]: Couldn't verify username because servers are unavailable
+[19:13:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@677c08a5[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59132) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:18:29] [User Authenticator #145/INFO]: Disconnecting com.mojang.authlib.GameProfile@6dfab2b4[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59167): Authentication servers are down. Please try again later, sorry!
+[19:18:29] [User Authenticator #145/ERROR]: Couldn't verify username because servers are unavailable
+[19:18:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@6dfab2b4[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59167) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:18:58] [User Authenticator #146/INFO]: Disconnecting com.mojang.authlib.GameProfile@13e4f5ac[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59170): Authentication servers are down. Please try again later, sorry!
+[19:18:58] [User Authenticator #146/ERROR]: Couldn't verify username because servers are unavailable
+[19:18:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@13e4f5ac[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59170) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:19:17] [User Authenticator #147/INFO]: Disconnecting com.mojang.authlib.GameProfile@7d0bec28[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59174): Authentication servers are down. Please try again later, sorry!
+[19:19:17] [User Authenticator #147/ERROR]: Couldn't verify username because servers are unavailable
+[19:19:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@7d0bec28[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59174) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:19:38] [User Authenticator #148/INFO]: Disconnecting com.mojang.authlib.GameProfile@3aa681c7[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59178): Authentication servers are down. Please try again later, sorry!
+[19:19:38] [User Authenticator #148/ERROR]: Couldn't verify username because servers are unavailable
+[19:19:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@3aa681c7[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59178) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:20:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@169f1482[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59181) lost connection: Disconnected
+[19:20:24] [User Authenticator #150/INFO]: Disconnecting com.mojang.authlib.GameProfile@4474e54c[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59186): Authentication servers are down. Please try again later, sorry!
+[19:20:24] [User Authenticator #150/ERROR]: Couldn't verify username because servers are unavailable
+[19:20:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@4474e54c[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59186) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:20:24] [User Authenticator #149/INFO]: Disconnecting com.mojang.authlib.GameProfile@169f1482[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59181): Authentication servers are down. Please try again later, sorry!
+[19:20:24] [User Authenticator #149/ERROR]: Couldn't verify username because servers are unavailable
+[19:20:47] [User Authenticator #151/INFO]: Disconnecting com.mojang.authlib.GameProfile@7a2f6a1c[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59195): Authentication servers are down. Please try again later, sorry!
+[19:20:47] [User Authenticator #151/ERROR]: Couldn't verify username because servers are unavailable
+[19:20:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a2f6a1c[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59195) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:20:51] [User Authenticator #152/INFO]: Disconnecting com.mojang.authlib.GameProfile@47404eae[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59204): Authentication servers are down. Please try again later, sorry!
+[19:20:51] [User Authenticator #152/ERROR]: Couldn't verify username because servers are unavailable
+[19:20:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@47404eae[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59204) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:21:48] [User Authenticator #153/INFO]: Disconnecting com.mojang.authlib.GameProfile@72b70b48[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59211): Authentication servers are down. Please try again later, sorry!
+[19:21:48] [User Authenticator #153/ERROR]: Couldn't verify username because servers are unavailable
+[19:21:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@72b70b48[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59211) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:21:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d7c108d[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59216) lost connection: Disconnected
+[19:21:59] [User Authenticator #154/INFO]: Disconnecting com.mojang.authlib.GameProfile@793281ac[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59214): Authentication servers are down. Please try again later, sorry!
+[19:21:59] [User Authenticator #154/ERROR]: Couldn't verify username because servers are unavailable
+[19:21:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@793281ac[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59214) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:22:12] [User Authenticator #155/INFO]: Disconnecting com.mojang.authlib.GameProfile@4d7c108d[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59216): Authentication servers are down. Please try again later, sorry!
+[19:22:12] [User Authenticator #155/ERROR]: Couldn't verify username because servers are unavailable
+[19:22:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@14f4bf09[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59223) lost connection: Disconnected
+[19:22:26] [User Authenticator #156/INFO]: Disconnecting com.mojang.authlib.GameProfile@14f4bf09[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59223): Authentication servers are down. Please try again later, sorry!
+[19:22:26] [User Authenticator #156/ERROR]: Couldn't verify username because servers are unavailable
+[19:22:27] [User Authenticator #157/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[19:22:27] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:59227] logged in with entity id 6603 at ([world]-510.7960827486355, 71.0, -469.2346847430332)
+[19:23:34] [User Authenticator #158/INFO]: Disconnecting com.mojang.authlib.GameProfile@7d65d329[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59235): Authentication servers are down. Please try again later, sorry!
+[19:23:34] [User Authenticator #158/ERROR]: Couldn't verify username because servers are unavailable
+[19:23:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@7d65d329[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59235) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:24:26] [User Authenticator #159/INFO]: Disconnecting com.mojang.authlib.GameProfile@465a0a1b[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59241): Authentication servers are down. Please try again later, sorry!
+[19:24:26] [User Authenticator #159/ERROR]: Couldn't verify username because servers are unavailable
+[19:24:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@465a0a1b[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59241) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:24:48] [User Authenticator #160/INFO]: Disconnecting com.mojang.authlib.GameProfile@29e2de04[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59244): Authentication servers are down. Please try again later, sorry!
+[19:24:48] [User Authenticator #160/ERROR]: Couldn't verify username because servers are unavailable
+[19:24:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@29e2de04[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59244) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:25:37] [User Authenticator #161/INFO]: Disconnecting com.mojang.authlib.GameProfile@598859ec[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59249): Authentication servers are down. Please try again later, sorry!
+[19:25:37] [User Authenticator #161/ERROR]: Couldn't verify username because servers are unavailable
+[19:25:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@598859ec[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59249) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:26:22] [User Authenticator #162/INFO]: Disconnecting com.mojang.authlib.GameProfile@6c78da99[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59256): Authentication servers are down. Please try again later, sorry!
+[19:26:22] [User Authenticator #162/ERROR]: Couldn't verify username because servers are unavailable
+[19:26:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c78da99[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59256) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:26:48] [User Authenticator #163/INFO]: Disconnecting com.mojang.authlib.GameProfile@1dd155c[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59260): Authentication servers are down. Please try again later, sorry!
+[19:26:48] [User Authenticator #163/ERROR]: Couldn't verify username because servers are unavailable
+[19:26:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@1dd155c[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59260) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:28:22] [User Authenticator #164/INFO]: Disconnecting com.mojang.authlib.GameProfile@26e9c6d6[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59273): Authentication servers are down. Please try again later, sorry!
+[19:28:22] [User Authenticator #164/ERROR]: Couldn't verify username because servers are unavailable
+[19:28:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@26e9c6d6[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59273) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:29:13] [User Authenticator #165/INFO]: Disconnecting com.mojang.authlib.GameProfile@1321f67c[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59278): Authentication servers are down. Please try again later, sorry!
+[19:29:13] [User Authenticator #165/ERROR]: Couldn't verify username because servers are unavailable
+[19:29:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@1321f67c[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59278) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:29:33] [User Authenticator #166/INFO]: Disconnecting com.mojang.authlib.GameProfile@42b48f64[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59281): Authentication servers are down. Please try again later, sorry!
+[19:29:33] [User Authenticator #166/ERROR]: Couldn't verify username because servers are unavailable
+[19:29:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@42b48f64[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59281) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:34:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@335003ce[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:59305) lost connection: Disconnected
+[19:35:10] [User Authenticator #167/INFO]: Disconnecting com.mojang.authlib.GameProfile@7ae0e29[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:59311): Authentication servers are down. Please try again later, sorry!
+[19:35:10] [User Authenticator #167/ERROR]: Couldn't verify username because servers are unavailable
+[19:35:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@7ae0e29[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:59311) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:35:35] [User Authenticator #168/INFO]: Disconnecting com.mojang.authlib.GameProfile@219a793c[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:59316): Authentication servers are down. Please try again later, sorry!
+[19:35:35] [User Authenticator #168/ERROR]: Couldn't verify username because servers are unavailable
+[19:35:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@219a793c[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:59316) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:35:59] [User Authenticator #169/INFO]: Disconnecting com.mojang.authlib.GameProfile@22191f71[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:59323): Authentication servers are down. Please try again later, sorry!
+[19:35:59] [User Authenticator #169/ERROR]: Couldn't verify username because servers are unavailable
+[19:35:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@22191f71[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:59323) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:37:10] [User Authenticator #170/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[19:37:10] [Server thread/INFO]: Mr_director[/127.0.0.1:59335] logged in with entity id 14105 at ([world]1787.3611550077658, 8.0, 262.39868621825394)
+[19:39:34] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[19:39:34] [Server thread/INFO]: the_yellowleaf left the game
+[19:41:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@1667784a[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59356) lost connection: Disconnected
+[19:41:20] [User Authenticator #171/INFO]: Disconnecting com.mojang.authlib.GameProfile@1667784a[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59356): Authentication servers are down. Please try again later, sorry!
+[19:41:20] [User Authenticator #171/ERROR]: Couldn't verify username because servers are unavailable
+[19:41:43] [User Authenticator #172/INFO]: Disconnecting com.mojang.authlib.GameProfile@50f33478[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59361): Authentication servers are down. Please try again later, sorry!
+[19:41:43] [User Authenticator #172/ERROR]: Couldn't verify username because servers are unavailable
+[19:41:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@50f33478[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59361) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:42:03] [User Authenticator #173/INFO]: Disconnecting com.mojang.authlib.GameProfile@32eec3bf[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59365): Authentication servers are down. Please try again later, sorry!
+[19:42:03] [User Authenticator #173/ERROR]: Couldn't verify username because servers are unavailable
+[19:42:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@32eec3bf[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59365) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:42:22] [User Authenticator #174/INFO]: Disconnecting com.mojang.authlib.GameProfile@1c696a97[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59368): Authentication servers are down. Please try again later, sorry!
+[19:42:22] [User Authenticator #174/ERROR]: Couldn't verify username because servers are unavailable
+[19:42:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c696a97[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59368) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:42:54] [User Authenticator #175/INFO]: Disconnecting com.mojang.authlib.GameProfile@60a3e044[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59371): Authentication servers are down. Please try again later, sorry!
+[19:42:54] [User Authenticator #175/ERROR]: Couldn't verify username because servers are unavailable
+[19:42:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@60a3e044[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59371) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:43:24] [User Authenticator #176/INFO]: Disconnecting com.mojang.authlib.GameProfile@252c20b5[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59375): Authentication servers are down. Please try again later, sorry!
+[19:43:24] [User Authenticator #176/ERROR]: Couldn't verify username because servers are unavailable
+[19:43:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@252c20b5[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59375) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:43:44] [User Authenticator #177/INFO]: Disconnecting com.mojang.authlib.GameProfile@686e7caf[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59384): Authentication servers are down. Please try again later, sorry!
+[19:43:44] [User Authenticator #177/ERROR]: Couldn't verify username because servers are unavailable
+[19:43:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@686e7caf[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59384) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:44:04] [User Authenticator #178/INFO]: Disconnecting com.mojang.authlib.GameProfile@64174b43[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59390): Authentication servers are down. Please try again later, sorry!
+[19:44:04] [User Authenticator #178/ERROR]: Couldn't verify username because servers are unavailable
+[19:44:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@64174b43[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59390) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:45:03] [User Authenticator #180/INFO]: Disconnecting com.mojang.authlib.GameProfile@4875b263[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59400): Authentication servers are down. Please try again later, sorry!
+[19:45:03] [User Authenticator #180/ERROR]: Couldn't verify username because servers are unavailable
+[19:45:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@4875b263[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59400) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:45:04] [User Authenticator #179/INFO]: Disconnecting com.mojang.authlib.GameProfile@7f476129[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59398): Authentication servers are down. Please try again later, sorry!
+[19:45:04] [User Authenticator #179/ERROR]: Couldn't verify username because servers are unavailable
+[19:45:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@7f476129[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59398) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:45:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@485efa9e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59407) lost connection: Disconnected
+[19:45:50] [User Authenticator #181/INFO]: Disconnecting com.mojang.authlib.GameProfile@485efa9e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59407): Authentication servers are down. Please try again later, sorry!
+[19:45:50] [User Authenticator #181/ERROR]: Couldn't verify username because servers are unavailable
+[19:46:12] [User Authenticator #182/INFO]: Disconnecting com.mojang.authlib.GameProfile@35370687[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59420): Authentication servers are down. Please try again later, sorry!
+[19:46:12] [User Authenticator #182/ERROR]: Couldn't verify username because servers are unavailable
+[19:46:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@35370687[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59420) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:46:14] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:46:23] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[19:46:56] [User Authenticator #183/INFO]: Disconnecting com.mojang.authlib.GameProfile@6c8f110b[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59425): Authentication servers are down. Please try again later, sorry!
+[19:46:56] [User Authenticator #183/ERROR]: Couldn't verify username because servers are unavailable
+[19:46:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c8f110b[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59425) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:47:13] [Server thread/INFO]: Mr_director issued server command: /co i
+[19:47:22] [Server thread/INFO]: Mr_director issued server command: /co i 2
+[19:47:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@3e994[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59430) lost connection: Disconnected
+[19:47:49] [User Authenticator #184/INFO]: Disconnecting com.mojang.authlib.GameProfile@3e994[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59430): Authentication servers are down. Please try again later, sorry!
+[19:47:49] [User Authenticator #184/ERROR]: Couldn't verify username because servers are unavailable
+[19:47:59] [User Authenticator #185/INFO]: Disconnecting com.mojang.authlib.GameProfile@21891a23[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59434): Authentication servers are down. Please try again later, sorry!
+[19:47:59] [User Authenticator #185/ERROR]: Couldn't verify username because servers are unavailable
+[19:47:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@21891a23[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59434) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:48:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@6674f7d0[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59443) lost connection: Disconnected
+[19:49:01] [User Authenticator #187/INFO]: Disconnecting com.mojang.authlib.GameProfile@361b197e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59446): Authentication servers are down. Please try again later, sorry!
+[19:49:01] [User Authenticator #187/ERROR]: Couldn't verify username because servers are unavailable
+[19:49:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@361b197e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59446) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:49:02] [User Authenticator #186/INFO]: Disconnecting com.mojang.authlib.GameProfile@6674f7d0[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59443): Authentication servers are down. Please try again later, sorry!
+[19:49:02] [User Authenticator #186/ERROR]: Couldn't verify username because servers are unavailable
+[19:49:22] [User Authenticator #188/INFO]: Disconnecting com.mojang.authlib.GameProfile@3fca8c74[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59456): Authentication servers are down. Please try again later, sorry!
+[19:49:22] [User Authenticator #188/ERROR]: Couldn't verify username because servers are unavailable
+[19:49:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@3fca8c74[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59456) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:50:01] [User Authenticator #189/INFO]: Disconnecting com.mojang.authlib.GameProfile@917e3ad[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59465): Authentication servers are down. Please try again later, sorry!
+[19:50:01] [User Authenticator #189/ERROR]: Couldn't verify username because servers are unavailable
+[19:50:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@917e3ad[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59465) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:50:44] [User Authenticator #190/INFO]: Disconnecting com.mojang.authlib.GameProfile@5293f66e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59472): Authentication servers are down. Please try again later, sorry!
+[19:50:44] [User Authenticator #190/ERROR]: Couldn't verify username because servers are unavailable
+[19:50:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@5293f66e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59472) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:52:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@65a1d4f8[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59485) lost connection: Disconnected
+[19:52:23] [User Authenticator #191/INFO]: Disconnecting com.mojang.authlib.GameProfile@65a1d4f8[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59485): Authentication servers are down. Please try again later, sorry!
+[19:52:23] [User Authenticator #191/ERROR]: Couldn't verify username because servers are unavailable
+[19:52:45] [User Authenticator #192/INFO]: Disconnecting com.mojang.authlib.GameProfile@7044b857[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59488): Authentication servers are down. Please try again later, sorry!
+[19:52:45] [User Authenticator #192/ERROR]: Couldn't verify username because servers are unavailable
+[19:52:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@7044b857[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59488) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:53:09] [User Authenticator #193/INFO]: Disconnecting com.mojang.authlib.GameProfile@35360a3b[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59491): Authentication servers are down. Please try again later, sorry!
+[19:53:09] [User Authenticator #193/ERROR]: Couldn't verify username because servers are unavailable
+[19:53:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@35360a3b[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59491) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:53:35] [User Authenticator #194/INFO]: Disconnecting com.mojang.authlib.GameProfile@525ac389[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59496): Authentication servers are down. Please try again later, sorry!
+[19:53:35] [User Authenticator #194/ERROR]: Couldn't verify username because servers are unavailable
+[19:53:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@525ac389[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59496) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:53:56] [User Authenticator #195/INFO]: Disconnecting com.mojang.authlib.GameProfile@14b5acb6[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59499): Authentication servers are down. Please try again later, sorry!
+[19:53:56] [User Authenticator #195/ERROR]: Couldn't verify username because servers are unavailable
+[19:53:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@14b5acb6[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59499) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:54:01] [User Authenticator #196/INFO]: Disconnecting com.mojang.authlib.GameProfile@52141f4d[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59502): Authentication servers are down. Please try again later, sorry!
+[19:54:01] [User Authenticator #196/ERROR]: Couldn't verify username because servers are unavailable
+[19:54:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@52141f4d[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59502) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:54:29] [User Authenticator #197/INFO]: Disconnecting com.mojang.authlib.GameProfile@57352f11[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59505): Authentication servers are down. Please try again later, sorry!
+[19:54:29] [User Authenticator #197/ERROR]: Couldn't verify username because servers are unavailable
+[19:54:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@57352f11[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59505) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:54:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@10c36a00[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59517) lost connection: Disconnected
+[19:54:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@728f88f0[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59508) lost connection: Disconnected
+[19:54:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f9edb25[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59521) lost connection: Disconnected
+[19:54:48] [User Authenticator #198/INFO]: Disconnecting com.mojang.authlib.GameProfile@728f88f0[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:59508): Authentication servers are down. Please try again later, sorry!
+[19:54:48] [User Authenticator #198/ERROR]: Couldn't verify username because servers are unavailable
+[19:55:00] [User Authenticator #200/INFO]: Disconnecting com.mojang.authlib.GameProfile@2f9edb25[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59521): Authentication servers are down. Please try again later, sorry!
+[19:55:00] [User Authenticator #200/ERROR]: Couldn't verify username because servers are unavailable
+[19:55:01] [User Authenticator #199/INFO]: Disconnecting com.mojang.authlib.GameProfile@10c36a00[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59517): Authentication servers are down. Please try again later, sorry!
+[19:55:01] [User Authenticator #199/ERROR]: Couldn't verify username because servers are unavailable
+[19:55:12] [User Authenticator #201/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[19:55:12] [Server thread/INFO]: Jichen233[/127.0.0.1:59526] logged in with entity id 17036 at ([world]1055.3319126481358, 95.55000001192093, -1700.0432477671804)
+[19:56:00] [User Authenticator #202/INFO]: Disconnecting com.mojang.authlib.GameProfile@7c7a7c9c[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59534): Authentication servers are down. Please try again later, sorry!
+[19:56:00] [User Authenticator #202/ERROR]: Couldn't verify username because servers are unavailable
+[19:56:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@7c7a7c9c[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59534) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:56:14] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:56:25] [User Authenticator #203/INFO]: Disconnecting com.mojang.authlib.GameProfile@9404a43[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59540): Authentication servers are down. Please try again later, sorry!
+[19:56:25] [User Authenticator #203/ERROR]: Couldn't verify username because servers are unavailable
+[19:56:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@9404a43[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59540) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:56:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@29de8b48[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59547) lost connection: Disconnected
+[19:56:45] [User Authenticator #204/INFO]: Disconnecting com.mojang.authlib.GameProfile@29de8b48[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59547): Authentication servers are down. Please try again later, sorry!
+[19:56:45] [User Authenticator #204/ERROR]: Couldn't verify username because servers are unavailable
+[19:56:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@77a91098[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59550) lost connection: Disconnected
+[19:56:54] [User Authenticator #205/INFO]: Disconnecting com.mojang.authlib.GameProfile@77a91098[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59550): Authentication servers are down. Please try again later, sorry!
+[19:56:54] [User Authenticator #205/ERROR]: Couldn't verify username because servers are unavailable
+[19:57:10] [User Authenticator #206/INFO]: Disconnecting com.mojang.authlib.GameProfile@e095fa5[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59557): Authentication servers are down. Please try again later, sorry!
+[19:57:10] [User Authenticator #206/ERROR]: Couldn't verify username because servers are unavailable
+[19:57:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@e095fa5[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59557) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:57:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a7ffb86[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59565) lost connection: Disconnected
+[19:57:34] [User Authenticator #207/INFO]: Disconnecting com.mojang.authlib.GameProfile@6a7ffb86[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59565): Authentication servers are down. Please try again later, sorry!
+[19:57:34] [User Authenticator #207/ERROR]: Couldn't verify username because servers are unavailable
+[19:57:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@32c8493a[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59575) lost connection: Disconnected
+[19:57:55] [User Authenticator #208/INFO]: Disconnecting com.mojang.authlib.GameProfile@32c8493a[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59575): Authentication servers are down. Please try again later, sorry!
+[19:57:55] [User Authenticator #208/ERROR]: Couldn't verify username because servers are unavailable
+[19:57:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@668db644[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59590) lost connection: Disconnected
+[19:58:05] [User Authenticator #209/INFO]: Disconnecting com.mojang.authlib.GameProfile@7296f268[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59578): Authentication servers are down. Please try again later, sorry!
+[19:58:05] [User Authenticator #209/ERROR]: Couldn't verify username because servers are unavailable
+[19:58:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@7296f268[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59578) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:58:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@1770f64e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59593) lost connection: Disconnected
+[19:58:20] [User Authenticator #210/INFO]: Disconnecting com.mojang.authlib.GameProfile@1770f64e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59593): Authentication servers are down. Please try again later, sorry!
+[19:58:20] [User Authenticator #210/ERROR]: Couldn't verify username because servers are unavailable
+[19:58:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@4147b86a[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59598) lost connection: Disconnected
+[19:58:52] [User Authenticator #211/INFO]: Disconnecting com.mojang.authlib.GameProfile@4147b86a[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59598): Authentication servers are down. Please try again later, sorry!
+[19:58:52] [User Authenticator #211/ERROR]: Couldn't verify username because servers are unavailable
+[19:59:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@165b930[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59606) lost connection: Disconnected
+[19:59:05] [User Authenticator #212/INFO]: Disconnecting com.mojang.authlib.GameProfile@165b930[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59606): Authentication servers are down. Please try again later, sorry!
+[19:59:05] [User Authenticator #212/ERROR]: Couldn't verify username because servers are unavailable
+[19:59:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@cb1c733[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59614) lost connection: Disconnected
+[19:59:28] [User Authenticator #213/INFO]: Disconnecting com.mojang.authlib.GameProfile@cb1c733[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59614): Authentication servers are down. Please try again later, sorry!
+[19:59:28] [User Authenticator #213/ERROR]: Couldn't verify username because servers are unavailable
+[19:59:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@14f4ec9e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59617) lost connection: Disconnected
+[19:59:54] [User Authenticator #214/INFO]: Disconnecting com.mojang.authlib.GameProfile@14f4ec9e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59617): Authentication servers are down. Please try again later, sorry!
+[19:59:54] [User Authenticator #214/ERROR]: Couldn't verify username because servers are unavailable
+[20:00:10] [User Authenticator #215/INFO]: Disconnecting com.mojang.authlib.GameProfile@56978ea[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59620): Authentication servers are down. Please try again later, sorry!
+[20:00:10] [User Authenticator #215/ERROR]: Couldn't verify username because servers are unavailable
+[20:00:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@56978ea[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59620) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:00:36] [User Authenticator #216/INFO]: Disconnecting com.mojang.authlib.GameProfile@3b331c5b[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59624): Authentication servers are down. Please try again later, sorry!
+[20:00:36] [User Authenticator #216/ERROR]: Couldn't verify username because servers are unavailable
+[20:00:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b331c5b[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59624) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:01:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@79732e86[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59633) lost connection: Disconnected
+[20:01:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@556fb730[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59642) lost connection: Disconnected
+[20:01:18] [User Authenticator #217/INFO]: Disconnecting com.mojang.authlib.GameProfile@79732e86[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59633): Authentication servers are down. Please try again later, sorry!
+[20:01:18] [User Authenticator #217/ERROR]: Couldn't verify username because servers are unavailable
+[20:01:35] [User Authenticator #218/INFO]: Disconnecting com.mojang.authlib.GameProfile@1441cebe[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59644): Authentication servers are down. Please try again later, sorry!
+[20:01:35] [User Authenticator #218/ERROR]: Couldn't verify username because servers are unavailable
+[20:01:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@1441cebe[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59644) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:01:55] [User Authenticator #219/INFO]: Disconnecting com.mojang.authlib.GameProfile@7dadf824[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59660): Authentication servers are down. Please try again later, sorry!
+[20:01:55] [User Authenticator #219/ERROR]: Couldn't verify username because servers are unavailable
+[20:01:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@7dadf824[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59660) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:02:20] [User Authenticator #220/INFO]: Disconnecting com.mojang.authlib.GameProfile@1598713d[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59664): Authentication servers are down. Please try again later, sorry!
+[20:02:20] [User Authenticator #220/ERROR]: Couldn't verify username because servers are unavailable
+[20:02:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@1598713d[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59664) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:02:51] [User Authenticator #221/INFO]: Disconnecting com.mojang.authlib.GameProfile@30b77dc6[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59681): Authentication servers are down. Please try again later, sorry!
+[20:02:51] [User Authenticator #221/ERROR]: Couldn't verify username because servers are unavailable
+[20:02:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@30b77dc6[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59681) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:03:24] [User Authenticator #222/INFO]: Disconnecting com.mojang.authlib.GameProfile@e8b147d[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59774): Authentication servers are down. Please try again later, sorry!
+[20:03:24] [User Authenticator #222/ERROR]: Couldn't verify username because servers are unavailable
+[20:03:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@e8b147d[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59774) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:04:09] [User Authenticator #223/INFO]: Disconnecting com.mojang.authlib.GameProfile@56fe58cb[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59815): Authentication servers are down. Please try again later, sorry!
+[20:04:09] [User Authenticator #223/ERROR]: Couldn't verify username because servers are unavailable
+[20:04:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@56fe58cb[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59815) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:04:32] [User Authenticator #224/INFO]: Disconnecting com.mojang.authlib.GameProfile@5c60cda8[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59818): Authentication servers are down. Please try again later, sorry!
+[20:04:32] [User Authenticator #224/ERROR]: Couldn't verify username because servers are unavailable
+[20:04:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c60cda8[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59818) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:04:57] [User Authenticator #225/INFO]: Disconnecting com.mojang.authlib.GameProfile@7a7d10f8[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59821): Authentication servers are down. Please try again later, sorry!
+[20:04:57] [User Authenticator #225/ERROR]: Couldn't verify username because servers are unavailable
+[20:04:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a7d10f8[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59821) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:05:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ebb659b[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59829) lost connection: Disconnected
+[20:05:29] [User Authenticator #226/INFO]: Disconnecting com.mojang.authlib.GameProfile@4ebb659b[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59829): Authentication servers are down. Please try again later, sorry!
+[20:05:29] [User Authenticator #226/ERROR]: Couldn't verify username because servers are unavailable
+[20:06:42] [User Authenticator #227/INFO]: Disconnecting com.mojang.authlib.GameProfile@3fc84b44[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59841): Authentication servers are down. Please try again later, sorry!
+[20:06:42] [User Authenticator #227/ERROR]: Couldn't verify username because servers are unavailable
+[20:06:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@3fc84b44[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59841) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:07:09] [User Authenticator #228/INFO]: Disconnecting com.mojang.authlib.GameProfile@747d42bf[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59847): Authentication servers are down. Please try again later, sorry!
+[20:07:09] [User Authenticator #228/ERROR]: Couldn't verify username because servers are unavailable
+[20:07:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@747d42bf[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59847) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:07:53] [User Authenticator #229/INFO]: Disconnecting com.mojang.authlib.GameProfile@200f6eba[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59853): Authentication servers are down. Please try again later, sorry!
+[20:07:53] [User Authenticator #229/ERROR]: Couldn't verify username because servers are unavailable
+[20:07:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@200f6eba[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59853) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:09:06] [User Authenticator #230/INFO]: Disconnecting com.mojang.authlib.GameProfile@305381b8[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59866): Authentication servers are down. Please try again later, sorry!
+[20:09:06] [User Authenticator #230/ERROR]: Couldn't verify username because servers are unavailable
+[20:09:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@305381b8[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59866) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:09:25] [User Authenticator #231/INFO]: Disconnecting com.mojang.authlib.GameProfile@3c3c01c9[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59869): Authentication servers are down. Please try again later, sorry!
+[20:09:25] [User Authenticator #231/ERROR]: Couldn't verify username because servers are unavailable
+[20:09:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@3c3c01c9[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59869) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:09:46] [User Authenticator #232/INFO]: Disconnecting com.mojang.authlib.GameProfile@6a7bed16[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59872): Authentication servers are down. Please try again later, sorry!
+[20:09:46] [User Authenticator #232/ERROR]: Couldn't verify username because servers are unavailable
+[20:09:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a7bed16[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59872) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:10:25] [User Authenticator #233/INFO]: Disconnecting com.mojang.authlib.GameProfile@17116f1e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59878): Authentication servers are down. Please try again later, sorry!
+[20:10:25] [User Authenticator #233/ERROR]: Couldn't verify username because servers are unavailable
+[20:10:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@17116f1e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59878) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:10:48] [User Authenticator #234/INFO]: Disconnecting com.mojang.authlib.GameProfile@607aef31[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59885): Authentication servers are down. Please try again later, sorry!
+[20:10:48] [User Authenticator #234/ERROR]: Couldn't verify username because servers are unavailable
+[20:10:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@607aef31[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59885) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:11:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@4083f4fe[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59902) lost connection: Disconnected
+[20:12:12] [User Authenticator #235/INFO]: Disconnecting com.mojang.authlib.GameProfile@3a7be985[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59905): Authentication servers are down. Please try again later, sorry!
+[20:12:12] [User Authenticator #235/ERROR]: Couldn't verify username because servers are unavailable
+[20:12:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a7be985[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59905) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:12:38] [User Authenticator #236/INFO]: Disconnecting com.mojang.authlib.GameProfile@3f1d18ae[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59916): Authentication servers are down. Please try again later, sorry!
+[20:12:38] [User Authenticator #236/ERROR]: Couldn't verify username because servers are unavailable
+[20:12:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@3f1d18ae[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59916) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:13:51] [User Authenticator #237/INFO]: Disconnecting com.mojang.authlib.GameProfile@53ec14d9[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59934): Authentication servers are down. Please try again later, sorry!
+[20:13:51] [User Authenticator #237/ERROR]: Couldn't verify username because servers are unavailable
+[20:13:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@53ec14d9[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59934) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:15:59] [User Authenticator #238/INFO]: Disconnecting com.mojang.authlib.GameProfile@6384c5d2[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59965): Authentication servers are down. Please try again later, sorry!
+[20:15:59] [User Authenticator #238/ERROR]: Couldn't verify username because servers are unavailable
+[20:15:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@6384c5d2[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59965) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:16:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@95f8318[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59971) lost connection: Disconnected
+[20:16:22] [User Authenticator #239/INFO]: Disconnecting com.mojang.authlib.GameProfile@95f8318[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59971): Authentication servers are down. Please try again later, sorry!
+[20:16:22] [User Authenticator #239/ERROR]: Couldn't verify username because servers are unavailable
+[20:16:36] [User Authenticator #240/INFO]: Disconnecting com.mojang.authlib.GameProfile@68a6030f[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59977): Authentication servers are down. Please try again later, sorry!
+[20:16:36] [User Authenticator #240/ERROR]: Couldn't verify username because servers are unavailable
+[20:16:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@68a6030f[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59977) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:17:07] [User Authenticator #241/INFO]: Disconnecting com.mojang.authlib.GameProfile@113badd3[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59983): Authentication servers are down. Please try again later, sorry!
+[20:17:07] [User Authenticator #241/ERROR]: Couldn't verify username because servers are unavailable
+[20:17:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@113badd3[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59983) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:17:48] [User Authenticator #242/INFO]: Disconnecting com.mojang.authlib.GameProfile@7dabddd9[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59994): Authentication servers are down. Please try again later, sorry!
+[20:17:48] [User Authenticator #242/ERROR]: Couldn't verify username because servers are unavailable
+[20:17:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@7dabddd9[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59994) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:18:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f19128f[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59999) lost connection: Disconnected
+[20:18:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@794eaa4a[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60000) lost connection: Disconnected
+[20:18:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ef8a9a1[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60002) lost connection: Disconnected
+[20:18:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@5528f8b8[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60004) lost connection: Disconnected
+[20:18:21] [User Authenticator #243/INFO]: Disconnecting com.mojang.authlib.GameProfile@794eaa4a[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60000): Authentication servers are down. Please try again later, sorry!
+[20:18:21] [User Authenticator #243/ERROR]: Couldn't verify username because servers are unavailable
+[20:18:44] [User Authenticator #244/INFO]: Disconnecting com.mojang.authlib.GameProfile@4ac17066[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60005): Authentication servers are down. Please try again later, sorry!
+[20:18:44] [User Authenticator #244/ERROR]: Couldn't verify username because servers are unavailable
+[20:18:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ac17066[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60005) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:19:16] [User Authenticator #245/INFO]: Disconnecting com.mojang.authlib.GameProfile@389010b9[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60072): Authentication servers are down. Please try again later, sorry!
+[20:19:16] [User Authenticator #245/ERROR]: Couldn't verify username because servers are unavailable
+[20:19:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@389010b9[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60072) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:19:36] [User Authenticator #246/INFO]: Disconnecting com.mojang.authlib.GameProfile@42a75a04[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60075): Authentication servers are down. Please try again later, sorry!
+[20:19:36] [User Authenticator #246/ERROR]: Couldn't verify username because servers are unavailable
+[20:19:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@42a75a04[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60075) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:20:00] [User Authenticator #247/INFO]: Disconnecting com.mojang.authlib.GameProfile@d8b33e0[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60078): Authentication servers are down. Please try again later, sorry!
+[20:20:00] [User Authenticator #247/ERROR]: Couldn't verify username because servers are unavailable
+[20:20:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@d8b33e0[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60078) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:21:13] [User Authenticator #248/INFO]: Disconnecting com.mojang.authlib.GameProfile@1c6946f0[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60088): Authentication servers are down. Please try again later, sorry!
+[20:21:13] [User Authenticator #248/ERROR]: Couldn't verify username because servers are unavailable
+[20:21:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c6946f0[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60088) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:21:36] [User Authenticator #249/INFO]: Disconnecting com.mojang.authlib.GameProfile@2f49a4a5[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60091): Authentication servers are down. Please try again later, sorry!
+[20:21:36] [User Authenticator #249/ERROR]: Couldn't verify username because servers are unavailable
+[20:21:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f49a4a5[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60091) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:22:10] [User Authenticator #250/INFO]: Disconnecting com.mojang.authlib.GameProfile@3475171c[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60096): Authentication servers are down. Please try again later, sorry!
+[20:22:10] [User Authenticator #250/ERROR]: Couldn't verify username because servers are unavailable
+[20:22:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@3475171c[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60096) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:22:37] [User Authenticator #251/INFO]: Disconnecting com.mojang.authlib.GameProfile@516b4366[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60099): Authentication servers are down. Please try again later, sorry!
+[20:22:37] [User Authenticator #251/ERROR]: Couldn't verify username because servers are unavailable
+[20:22:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@516b4366[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60099) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:24:53] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[20:24:53] [Server thread/INFO]: Jichen233 left the game
+[20:27:24] [User Authenticator #252/INFO]: Disconnecting com.mojang.authlib.GameProfile@1a7391bb[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60130): Authentication servers are down. Please try again later, sorry!
+[20:27:24] [User Authenticator #252/ERROR]: Couldn't verify username because servers are unavailable
+[20:27:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a7391bb[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60130) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:27:48] [User Authenticator #253/INFO]: Disconnecting com.mojang.authlib.GameProfile@6b24b0a8[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60134): Authentication servers are down. Please try again later, sorry!
+[20:27:48] [User Authenticator #253/ERROR]: Couldn't verify username because servers are unavailable
+[20:27:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@6b24b0a8[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60134) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:28:17] [User Authenticator #254/INFO]: Disconnecting com.mojang.authlib.GameProfile@4bd07bd8[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60140): Authentication servers are down. Please try again later, sorry!
+[20:28:17] [User Authenticator #254/ERROR]: Couldn't verify username because servers are unavailable
+[20:28:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@4bd07bd8[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60140) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:28:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@54b9a837[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60145) lost connection: Disconnected
+[20:28:59] [User Authenticator #255/INFO]: Disconnecting com.mojang.authlib.GameProfile@54b9a837[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60145): Authentication servers are down. Please try again later, sorry!
+[20:28:59] [User Authenticator #255/ERROR]: Couldn't verify username because servers are unavailable
+[20:29:07] [User Authenticator #256/INFO]: Disconnecting com.mojang.authlib.GameProfile@75175999[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60150): Authentication servers are down. Please try again later, sorry!
+[20:29:07] [User Authenticator #256/ERROR]: Couldn't verify username because servers are unavailable
+[20:29:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@75175999[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60150) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:29:29] [User Authenticator #257/INFO]: Disconnecting com.mojang.authlib.GameProfile@319b24db[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60153): Authentication servers are down. Please try again later, sorry!
+[20:29:29] [User Authenticator #257/ERROR]: Couldn't verify username because servers are unavailable
+[20:29:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@319b24db[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60153) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:29:59] [User Authenticator #258/INFO]: Disconnecting com.mojang.authlib.GameProfile@2ee5a6ee[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60159): Authentication servers are down. Please try again later, sorry!
+[20:29:59] [User Authenticator #258/ERROR]: Couldn't verify username because servers are unavailable
+[20:29:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ee5a6ee[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60159) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:30:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@360b558a[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60169) lost connection: Disconnected
+[20:30:48] [User Authenticator #259/INFO]: Disconnecting com.mojang.authlib.GameProfile@2a77acc6[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60166): Authentication servers are down. Please try again later, sorry!
+[20:30:48] [User Authenticator #259/ERROR]: Couldn't verify username because servers are unavailable
+[20:30:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a77acc6[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60166) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:30:51] [User Authenticator #260/INFO]: Disconnecting com.mojang.authlib.GameProfile@360b558a[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60169): Authentication servers are down. Please try again later, sorry!
+[20:30:51] [User Authenticator #260/ERROR]: Couldn't verify username because servers are unavailable
+[20:31:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f4bb084[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60173) lost connection: Disconnected
+[20:31:20] [User Authenticator #261/INFO]: Disconnecting com.mojang.authlib.GameProfile@5f4bb084[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60173): Authentication servers are down. Please try again later, sorry!
+[20:31:20] [User Authenticator #261/ERROR]: Couldn't verify username because servers are unavailable
+[20:31:22] [User Authenticator #262/INFO]: Disconnecting com.mojang.authlib.GameProfile@20f6b9ed[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60174): Authentication servers are down. Please try again later, sorry!
+[20:31:22] [User Authenticator #262/ERROR]: Couldn't verify username because servers are unavailable
+[20:31:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@20f6b9ed[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60174) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:35:58] [User Authenticator #263/INFO]: Disconnecting com.mojang.authlib.GameProfile@5ee06fe6[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60210): Authentication servers are down. Please try again later, sorry!
+[20:35:58] [User Authenticator #263/ERROR]: Couldn't verify username because servers are unavailable
+[20:35:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ee06fe6[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:60210) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:43:14] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@74db6846[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60255): Took too long to log in
+[20:43:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@74db6846[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60255) lost connection: Took too long to log in
+[20:43:21] [User Authenticator #264/INFO]: Disconnecting com.mojang.authlib.GameProfile@74db6846[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:60255): Authentication servers are down. Please try again later, sorry!
+[20:43:21] [User Authenticator #264/ERROR]: Couldn't verify username because servers are unavailable
+[20:46:23] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼þÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[20:55:06] [Server thread/INFO]: [Server] ÖØÆô·þÎñÆ÷
+[20:55:12] [Server thread/INFO]: Mr_director >> k[m
+[20:55:16] [Server thread/INFO]: Stopping the server
+[20:55:16] [Server thread/INFO]: Stopping server
+[20:55:16] [Server thread/INFO]: [AnGmode] Disabling AnGmode v1.0-SNAPSHOT
+[20:55:16] [Server thread/INFO]: [AnGmode] ¡ìaÏÂ´ÎÔÙ¼û~~
+[20:55:16] [Server thread/INFO]: [Lores] Disabling Lores v1.4.1
+[20:55:16] [Server thread/INFO]: [CrowdLocator] Disabling CrowdLocator v1.0
+[20:55:16] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v2.1.5-SNAPSHOT
+[20:55:16] [Server thread/INFO]: [TAB] Disabling TAB v2.8.4
+[20:55:16] [Server thread/INFO]: [0;32;1m[TAB] Disabled in 1ms[m
+[20:55:16] [Server thread/INFO]: [PiglinFix] Disabling PiglinFix vAlpha 1.1
+[20:55:16] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[20:55:16] [Server thread/INFO]: Database closed
+[20:55:16] [Server thread/INFO]: HikariPool-1 - Shutdown initiated...
+[20:55:16] [Server thread/INFO]: HikariPool-1 - Shutdown completed.
+[20:55:16] [Server thread/INFO]: 
+ 
+[0;30;1m[]=====[[0;37;22mDisabling AdvancedBan[0;30;1m]=====[]
+[0;30;1m| [0;31;1mInformation:
+[0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[0;30;1m| [0;31;1mSupport:
+[0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[0;30;1m[]================================[][m
+ [m
+[20:55:16] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[20:55:16] [Server thread/INFO]: [PxAutoMessage] ÕýÔÚ¹Ø±ÕÆ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[20:55:16] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[20:55:16] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is disabled![m
+[20:55:16] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[20:55:16] [Server thread/INFO]: [ChatC] Disabling ChatC v0.5
+[20:55:16] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼þÒÑ¹Ø±Õ£¡
+[20:55:16] [Server thread/INFO]: [ChatC] ¸ÐÐ»ÄúµÄÊ¹ÓÃ£¡
+[20:55:16] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[20:55:16] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.3.1
+[20:55:16] [Server thread/ERROR]: Error occurred while disabling EntityTrackerFixer v1.3.1 (Is it up to date?)
+java.lang.NullPointerException: null
+	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onDisable(EntityTrackerFixer.java:34) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.disablePlugins(CraftServer.java:426) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.stop(MinecraftServer.java:715) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.stop(DedicatedServer.java:647) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:887) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[20:55:16] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[20:55:16] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[20:55:17] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[20:55:17] [Server thread/INFO]: Saving players
+[20:55:17] [Server thread/INFO]: Mr_director lost connection: Server closed
+[20:55:17] [Server thread/INFO]: Mr_director left the game
+[20:55:17] [Server thread/INFO]: Saving worlds
+[20:55:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:55:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:55:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:55:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:55:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:55:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:55:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:55:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:55:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

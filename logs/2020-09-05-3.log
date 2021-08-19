@@ -1,0 +1,1719 @@
+[19:08:35] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[19:08:35] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[19:08:36] [Worker-Main-5/INFO]: Loaded 7 recipes
+[19:08:37] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[19:08:37] [Server thread/INFO]: Loading properties
+[19:08:38] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-379750e-43c7ff9 (MC: 1.16.2) (Implementing API version 1.16.2-R0.1-SNAPSHOT)
+[19:08:38] [Server thread/INFO]: Debug logging is disabled
+[19:08:38] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[19:08:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:08:38] [Server thread/INFO]: Default game type: SURVIVAL
+[19:08:38] [Server thread/INFO]: Generating keypair
+[19:08:38] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[19:08:38] [Server thread/INFO]: Using default channel type
+[19:08:39] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19:08:41] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[19:08:41] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[19:08:41] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[19:08:41] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[19:08:41] [Server thread/WARN]: Legacy plugin PiglinFix vAlpha 1.1 does not specify an api-version.
+[19:08:41] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[19:08:41] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[19:08:41] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[19:08:41] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[19:08:41] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[19:08:41] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[19:08:41] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[19:08:41] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[19:08:41] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[19:08:41] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[19:08:41] [Server thread/INFO]: [PiglinFix] Loading PiglinFix vAlpha 1.1
+[19:08:41] [Server thread/INFO]: [TAB] Loading TAB v2.8.4
+[19:08:41] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[19:08:41] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[19:08:41] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[19:08:41] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[19:08:41] [Server thread/INFO]: Preparing level "world"
+[19:08:41] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:08:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:08:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:08:41] [Server thread/INFO]: Item Despawn Rate: 3000
+[19:08:41] [Server thread/INFO]: Item Merge Radius: 8.0
+[19:08:41] [Server thread/INFO]: View Distance: 12
+[19:08:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:08:41] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[19:08:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:08:41] [Server thread/INFO]: Experience Merge Radius: 8.0
+[19:08:41] [Server thread/INFO]: Mob Spawn Range: 4
+[19:08:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Max TNT Explosions: 100
+[19:08:41] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[19:08:41] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[19:08:41] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[19:08:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:08:41] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:08:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:08:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:08:41] [Server thread/INFO]: Item Despawn Rate: 3000
+[19:08:41] [Server thread/INFO]: Item Merge Radius: 8.0
+[19:08:41] [Server thread/INFO]: View Distance: 12
+[19:08:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:08:41] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[19:08:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:08:41] [Server thread/INFO]: Experience Merge Radius: 8.0
+[19:08:41] [Server thread/INFO]: Mob Spawn Range: 4
+[19:08:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Max TNT Explosions: 100
+[19:08:41] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[19:08:41] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[19:08:41] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[19:08:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:08:41] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:08:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:08:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:08:41] [Server thread/INFO]: Item Despawn Rate: 3000
+[19:08:41] [Server thread/INFO]: Item Merge Radius: 8.0
+[19:08:41] [Server thread/INFO]: View Distance: 12
+[19:08:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:08:41] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[19:08:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:08:41] [Server thread/INFO]: Experience Merge Radius: 8.0
+[19:08:41] [Server thread/INFO]: Mob Spawn Range: 4
+[19:08:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:08:41] [Server thread/INFO]: Max TNT Explosions: 100
+[19:08:41] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[19:08:41] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[19:08:41] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[19:08:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:08:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:08:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:08:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:08:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:08:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:08:43] [Server thread/INFO]: Preparing spawn area: 83%
+[19:08:44] [Server thread/INFO]: Time elapsed: 2397 ms
+[19:08:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:08:44] [Server thread/INFO]: Preparing spawn area: 0%
+[19:08:44] [Server thread/INFO]: Preparing spawn area: 0%
+[19:08:45] [Server thread/INFO]: Time elapsed: 973 ms
+[19:08:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:08:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:08:45] [Server thread/INFO]: Time elapsed: 431 ms
+[19:08:45] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[19:08:45] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[19:08:45] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[19:08:45] [Server thread/INFO]: --------------------
+[19:08:45] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[19:08:45] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[19:08:45] [Server thread/INFO]: --------------------
+[19:08:45] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[19:08:45] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[19:08:45] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[19:08:45] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[19:08:45] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[19:08:45] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[19:08:45] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[19:08:45] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[19:08:45] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[19:08:45] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[19:08:45] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[19:08:45] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minemora.entitytrackerfixer.v1_16_R2.NMSHandler
+[19:08:45] [Server thread/WARN]: 	at java.net.URLClassLoader.findClass(Unknown Source)
+[19:08:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:167)
+[19:08:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:96)
+[19:08:45] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[19:08:45] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[19:08:45] [Server thread/WARN]: 	at java.lang.Class.forName0(Native Method)
+[19:08:45] [Server thread/WARN]: 	at java.lang.Class.forName(Unknown Source)
+[19:08:45] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.nms.NMSCheck.getNMS(NMSCheck.java:14)
+[19:08:45] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:25)
+[19:08:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[19:08:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351)
+[19:08:45] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480)
+[19:08:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492)
+[19:08:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406)
+[19:08:45] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435)
+[19:08:45] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219)
+[19:08:45] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808)
+[19:08:45] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164)
+[19:08:45] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:08:45] [Server thread/ERROR]: [EntityTrackerFixer] Could not find support for this Spigot version.
+[19:08:45] [Server thread/ERROR]: Error occurred while enabling EntityTrackerFixer v1.3.1 (Is it up to date?)
+java.lang.NullPointerException: null
+	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:26) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[19:08:45] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[19:08:45] [Server thread/INFO]: [OpenInv] Your version of CraftBukkit (v1_16_R2) is not supported.
+[19:08:45] [Server thread/INFO]: [OpenInv] If this version is a recent release, check for an update.
+[19:08:45] [Server thread/INFO]: [OpenInv] If this is an older version, ensure that you've downloaded the legacy support version.
+[19:08:45] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5
+[19:08:45] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şÒÑÆôÓÃ£¡
+[19:08:45] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şµ±Ç°°æ±¾£ºV0.5 £¨2017Äê8ÔÂ24ÈÕ£©
+[19:08:45] [Server thread/INFO]: [ChatC] ¸ĞĞ»ÄúµÄÊ¹ÓÃ£¡
+[19:08:45] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3
+[19:08:45] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;33;1mChecking Your version...[m
+[19:08:45] [Server thread/INFO]: [0;34;1m===============================[m
+[19:08:45] [Server thread/INFO]: [0;32;1m[m
+[19:08:45] [Server thread/INFO]: [0;32;1m GroupManager+ is now enable![m
+[19:08:45] [Server thread/INFO]: [0;32;1m [m
+[19:08:45] [Server thread/INFO]: [0;33;1m Thank you for using GroupManager+ :)[m
+[19:08:45] [Server thread/INFO]: [0;33;1m GroupManager+ is create by HappyAreaBean![m
+[19:08:45] [Server thread/INFO]: [0;36;1m Current version: [0;32;1mv3.3[m
+[19:08:45] [Server thread/INFO]: [0;32;1m [m
+[19:08:45] [Server thread/INFO]: [0;34;1m===============================[m
+[19:08:45] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mWorld Found: world[m
+[19:08:45] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mSuperperms support enabled.[m
+[19:08:45] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is set for every 10 minutes![m
+[19:08:45] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBackups will be retained for 24 hours![m
+[19:08:45] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mGroupManager+ v3.3 is now enabled![m
+[19:08:45] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3
+[19:08:45] [Server thread/INFO]: [PxAutoMessage] ÕıÔÚÆô¶¯Æ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[19:08:45] [Server thread/INFO]: [PxAutoMessage] ³õÊ¼»¯ĞÅÏ¢Ä£¿é...
+[19:08:45] [Server thread/INFO]: [PxAutoMessage] ×¢²áÃüÁî¼àÌıÏµÍ³...
+[19:08:45] [Server thread/INFO]: [PxAutoMessage] ¼ÓÔØÍê±Ï£¡
+[19:08:45] [Server thread/INFO]:  
+[19:08:45] [Server thread/INFO]: > ×÷Õß£ºAn_ye (QQ:1444691679)
+[19:08:45] [Server thread/INFO]: > ±¾²å¼ş×Ô´øºº»¯£¬ÇëÎğÏàĞÅËùÎ½µÄºº»¯°æ£¡
+[19:08:45] [Server thread/INFO]: > £¨×÷ÕßµÄ»°£ºI'm Chinese.£©
+[19:08:45] [Server thread/INFO]:  
+[19:08:45] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0
+[19:08:46] [Server thread/INFO]: HikariPool-1 - Starting...
+[19:08:47] [Server thread/INFO]: checkpointClose start
+[19:08:47] [Server thread/INFO]: checkpointClose synched
+[19:08:47] [Server thread/INFO]: checkpointClose script done
+[19:08:47] [Server thread/INFO]: checkpointClose end
+[19:08:47] [Server thread/INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[19:08:47] [Server thread/INFO]: HikariPool-1 - Start completed.
+[19:08:49] [Server thread/INFO]: 
+ 
+[0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
+[0;30;1m| [0;31;1mInformation:
+[0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[0;30;1m| [0;31;1mSupport:
+[0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[0;30;1m| [0;31;1mUpdate:
+[0;30;1m|   [0;37;22mThere is a new version available! [2.2.1]
+[0;30;1m[]================================[][m
+ [m
+[19:08:49] [Server thread/INFO]: [PiglinFix] Enabling PiglinFix vAlpha 1.1
+[19:08:49] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mFixing Piglin drops [0;35;1m-By RanWhite[m
+[19:08:49] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mLastest version is new[m
+[19:08:49] [Server thread/INFO]: [TAB] Enabling TAB v2.8.4
+[19:08:49] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.16.2 (v1_16_R2)[m
+[19:08:49] [Server thread/INFO]: [0;31;1m[TAB] File [0;33;1mplugins\TAB\errors.txt[0;31;1m exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.[m
+[19:08:49] [Server thread/INFO]: [0;31;1m[TAB] Animation "[0;33;1mWelcome[0;31;1m" does not have any texts! [0;36;1mIgnoring.[m
+[19:08:49] [Server thread/INFO]: [0;33;1m[TAB] There were 2 startup warnings.[m
+[19:08:49] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 60ms[m
+[19:08:49] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT
+[19:08:49] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0
+[19:08:49] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1
+[19:08:49] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[19:08:49] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[19:08:49] [Server thread/INFO]: [AnGmode] ¡ìaÄãºÃ£¡ÎÒÊÇĞ¡°²£¬¸ĞĞ»ÄãÄÜÊ¹ÓÃÕâ¸ö²å¼ş£¡
+[19:08:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:08:49] [Server thread/INFO]: Done (8.301s)! For help, type "help"
+[19:08:49] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBukkit Permissions Updated![m
+[19:08:49] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[19:08:51] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;31;1mYour version (v3.3) is outdated download the lastest version:[m
+[19:08:51] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;32;1mhttps://www.spigotmc.org/resources/40615/[m
+[19:08:51] [Thread-19/INFO]: --------------------
+[19:08:51] [Thread-19/INFO]: [CoreProtect] Version 19.1 is now available.
+[19:08:51] [Thread-19/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[19:08:51] [Thread-19/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[19:08:51] [Thread-19/INFO]: --------------------
+[19:09:00] [User Authenticator #1/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[19:09:02] [Server thread/INFO]: Dong_Miing[/127.0.0.1:63698] logged in with entity id 427 at ([world]5220.308082366168, 108.24918707874468, -507.99425384825986)
+[19:09:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ef4a9d6[id=<null>,name=Jichen233,properties={},legacy=false] (/127.0.0.1:63690) lost connection: Disconnected
+[19:09:09] [User Authenticator #2/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[19:09:10] [Server thread/INFO]: Jichen233[/127.0.0.1:63702] logged in with entity id 629 at ([world]1365.8126298904972, 115.0, -1343.3172368080477)
+[19:09:33] [Server thread/INFO]: Jichen233 >> ÄÃµã½ÅÊÖ¼Ü[m
+[19:10:51] [Server thread/INFO]: [Server] www
+[19:10:55] [Server thread/INFO]: Jichen233 >> www[m
+[19:11:01] [Server thread/INFO]: [Server] ºÃÎŞÁÄ°¡
+[19:11:06] [Server thread/INFO]: Jichen233 >> qwq[m
+[19:11:46] [User Authenticator #3/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[19:11:46] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:63730] logged in with entity id 1950 at ([world]2773.5575258593694, 63.0, -402.5639792601696)
+[19:11:58] [Server thread/INFO]: Jichen233 >> ohhhh[m
+[19:12:04] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡¡á[m
+[19:12:33] [User Authenticator #4/INFO]: UUID of player hence_tape is 2a111da9-f9cb-42dc-8ffc-4f295ba4896b
+[19:12:33] [Server thread/INFO]: hence_tape[/127.0.0.1:63745] logged in with entity id 2965 at ([world]2631.8979120225886, 33.0, -406.5105365708465)
+[19:12:39] [Server thread/INFO]: Jichen233 >> ohhhhh[m
+[19:12:42] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡Õâ[m
+[19:12:44] [Server thread/INFO]: hence_tape >> az[m
+[19:12:55] [Server thread/INFO]: hence_tape >> jichenÈçº£¾§²»[m
+[19:13:01] [Server thread/INFO]: Jichen233 >> ?[m
+[19:13:08] [Server thread/INFO]: hence_tape >> ÄãÊÇÄÄ¸öÕòµÄ[m
+[19:13:17] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ×Ï¾§[m
+[19:13:22] [Server thread/INFO]: hence_tape >> az[m
+[19:13:25] [Server thread/INFO]: Jichen233 >> no[m
+[19:13:39] [Server thread/INFO]: Jichen233 >> »¹Ã»¹éÊô([m
+[19:13:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> À´À´À´[m
+[19:13:52] [Server thread/WARN]: Jichen233 moved too quickly! 5.484495034039355,1.0432796451306245,-14.241471769803866
+[19:13:52] [Server thread/WARN]: sen_lv_ling_ moved too quickly! -1.5670652320909824,-1.6440019412554676,41.285741777469184
+[19:13:52] [Server thread/INFO]: hence_tape >> a233333[m
+[19:14:06] [Server thread/INFO]: Dong_Miing >> ¹şà¶[m
+[19:14:17] [Server thread/INFO]: Dong_Miing >> ´óÀĞÃÇºÃ[m
+[19:14:24] [Server thread/INFO]: Dong_Miing >> ÎÒÊÇĞÂÀ´µÄÃÈĞÂ[m
+[19:14:25] [Server thread/INFO]: hence_tape >> senÒªÀ­Äã½øº£¾§[m
+[19:14:28] [Server thread/INFO]: Dong_Miing >> Çë¶à¶àÖ¸½Ì£¨[m
+[19:14:29] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[19:14:39] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¶«Ú¤±¾ÈË£¿[m
+[19:14:53] [Server thread/INFO]: Dong_Miing >> ¶«Ú¤£¿£¡[m
+[19:15:01] [Server thread/INFO]: Dong_Miing >> ÄÇ¸ö´ó°×ĞÜ£¿£¨[m
+[19:15:39] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎŞÁÄ[m
+[19:15:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÓĞÈËÒªÖÓ²»[m
+[19:15:48] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒËÍ[m
+[19:15:55] [Server thread/INFO]: hence_tape >> az[m
+[19:16:02] [Server thread/INFO]: hence_tape >> ËÍÖÕ¿É»¹ĞĞ[m
+[19:16:04] [Server thread/INFO]: Dong_Miing >> ...[m
+[19:16:38] [Server thread/INFO]: hence_tape >> ÎÒÖªµÀÁË[m
+[19:16:40] [Server thread/INFO]: Dong_Miing >> ÎÒ·¢ÏÖ[m
+[19:16:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º£¾§ºÃ¿¨[m
+[19:16:45] [Server thread/INFO]: Dong_Miing >> º£¾§ºÃÏñ[m
+[19:16:53] [Server thread/INFO]: Dong_Miing >> Ã»½ğÂÜ²·ÁË[m
+[19:17:01] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»Ïë»»[m
+[19:17:03] [Server thread/INFO]: Dong_Miing >> º£¾§²»ÊÇÒ»Ö±¶¼ºÜ¿¨Âğ£¨[m
+[19:17:11] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÓĞ¶ÎÊ±¼ä²»¿¨[m
+[19:17:11] [Server thread/INFO]: hence_tape >> Dong_MiingÊÇº£¾§µÄÂğ[m
+[19:17:37] [Server thread/INFO]: Dong_Miing >> en[m
+[19:17:42] [Server thread/INFO]: Dong_Miing >> ²Â²ÂÎÒÊÇË­[m
+[19:17:46] [Server thread/INFO]: Dong_Miing >> doge[m
+[19:17:48] [Server thread/INFO]: hence_tape >> ÄÇÄãÀ´²¹ºúÂÜ²·[m
+[19:17:56] [Server thread/INFO]: Jichen233 >> ËùÒÔËµ[m
+[19:18:00] [Server thread/INFO]: Dong_Miing >> az[m
+[19:18:10] [Server thread/INFO]: Jichen233 >> ÎÒµ½µ×ÊÇÄÄµÄqwq[m
+[19:18:25] [Server thread/INFO]: hence_tape >> ÏëÀ´º£¾§Âğ[m
+[19:18:34] [Server thread/INFO]: Jichen233 >> Ïëqwq[m
+[19:18:36] [Server thread/INFO]: Dong_Miing >> hence_tape[m
+[19:18:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Bili_CMZ[m
+[19:18:43] [Server thread/INFO]: Dong_Miing >> ÄãÊÇtapeÂğ£¿[m
+[19:18:45] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:18:49] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»ÊÇ[m
+[19:18:52] [Server thread/INFO]: hence_tape >> sen¿¼ºËÏÂ[m
+[19:18:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËûÊÇ¹şÆ¤[m
+[19:18:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ???[m
+[19:19:00] [Server thread/INFO]: Dong_Miing >> ¹şÆ¤£¿[m
+[19:19:11] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿¼ºËË­[m
+[19:19:18] [Server thread/INFO]: Dong_Miing >> Jichen233?[m
+[19:19:22] [Server thread/INFO]: hence_tape >> en[m
+[19:19:35] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡£¬ÊÇ Jichen233 °¡[m
+[19:19:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÇÃ»ÊÂÁË[m
+[19:19:41] [Server thread/INFO]: Jichen233 >> ?[m
+[19:19:53] [Server thread/INFO]: Dong_Miing >> jichenÀÏÍæ¼ÒÁË[m
+[19:19:56] [Server thread/INFO]: Jichen233 >> ²İ£¬ÓÖÒ»²¨Ï®»÷[m
+[19:20:03] [Server thread/INFO]: Dong_Miing >> Ò²ÊÇÄÚ²âÍæ¼Ò[m
+[19:20:06] [Server thread/INFO]: Dong_Miing >> °¡°¡°¡[m
+[19:20:10] [Server thread/INFO]: Dong_Miing >> ¿ìÅÜ[m
+[19:20:12] [Server thread/INFO]: hence_tape >> ÄÇÀ­½øº£¾§ÁË£¿[m
+[19:20:15] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÄÏ®»÷[m
+[19:20:15] [Server thread/INFO]: Dong_Miing >> ±£ÃüÒª½ô[m
+[19:20:20] [Server thread/INFO]: Jichen233 >> Ã»ÊÂ£¬ÄÜÀµËÀ[m
+[19:20:20] [Server thread/INFO]: Dong_Miing >> Ï®»÷Ëş[m
+[19:20:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[19:20:31] [Server thread/INFO]: Jichen233 >> ²İ[m
+[19:20:36] [Server thread/INFO]: Dong_Miing >> emmm£¿[m
+[19:20:42] [Server thread/INFO]: Jichen233 >> Ã»¼ıÁË([m
+[19:20:50] [Server thread/INFO]: Dong_Miing >> az[m
+[19:20:54] [Server thread/INFO]: Dong_Miing >> ¿ìÅÜ[m
+[19:21:17] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ´òÏ®»÷°¡[m
+[19:21:17] [Server thread/INFO]: hence_tape >> ²»Ëµ»°Ä¬ÈÏÁË£¿[m
+[19:21:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÅÜÉ¶[m
+[19:21:26] [Server thread/INFO]: hence_tape >> ÄÇÎÒÔÚº£¾§ÈºÀïËµÏÂ£¿[m
+[19:21:31] [Server thread/INFO]: Jichen233 >> e[m
+[19:21:40] [Server thread/INFO]: Dong_Miing >> sen_lv_ling_[m
+[19:21:46] [Server thread/INFO]: Dong_Miing >> Äã×°±¸ºÅÂğ£¿[m
+[19:21:49] [Server thread/INFO]: Dong_Miing >> ºÃ[m
+[19:21:51] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[19:21:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»ºÃ[m
+[19:22:01] [Server thread/INFO]: Dong_Miing >> emmm[m
+[19:22:13] [Server thread/INFO]: Jichen233 >> ±ÈÎÒºÃ([m
+[19:22:18] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[19:22:23] [Server thread/INFO]: Dong_Miing >> ÄÇ¶¼±ÈÎÒºÃ[m
+[19:22:49] [Server thread/INFO]: Jichen233 >> ÂÛÎŞÏŞ¹­µÄÖØÒªĞÔ[m
+[19:22:58] [Server thread/INFO]: Dong_Miing >> ÎŞÏŞ¹­²»ºÃ[m
+[19:23:05] [Server thread/INFO]: hence_tape >> ÄÇÎÒËµÁËÅ¶[m
+[19:23:06] [Server thread/INFO]: Dong_Miing >> ĞŞ¹ó[m
+[19:23:15] [Server thread/INFO]: Jichen233 >> en[m
+[19:23:18] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ĞŞÉ¶[m
+[19:23:26] [Server thread/INFO]: Dong_Miing >> ÎŞÏŞ[m
+[19:23:28] [Server thread/INFO]: Dong_Miing >> ºÍ[m
+[19:23:29] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÔÙºÏÒ»°Ñ[m
+[19:23:34] [Server thread/INFO]: Dong_Miing >> emmmmm[m
+[19:23:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[19:23:57] [Server thread/INFO]: Jichen233 >> Ã»ÁËÂğ[m
+[19:24:01] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ¾ÍÃ»ÁË£¿[m
+[19:24:04] [Server thread/INFO]: Jichen233 >> az[m
+[19:24:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ²Å´òÁËÒ»²¨ÄØ[m
+[19:24:20] [Server thread/INFO]: Jichen233 >> ÎÒÒ²Ö»´òÁËÒ»²¨([m
+[19:24:24] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[19:24:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ì«½üÁË²»Ë¢°É[m
+[19:24:31] [Server thread/INFO]: Dong_Miing >> ÄãÃÇÏÓ²»¹»µÄ»°[m
+[19:24:40] [Server thread/INFO]: Dong_Miing >> »î×½ËÄ¸ö»½Ä§[m
+[19:24:42] [Server thread/INFO]: Dong_Miing >> ÊÔÊÔ[m
+[19:24:50] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õ¦×½[m
+[19:24:51] [Server thread/INFO]: hence_tape >> ¼òµ¥°É[m
+[19:24:59] [Server thread/INFO]: Dong_Miing >> Ë¢³öÀ´»½Ä§[m
+[19:25:05] [Server thread/INFO]: hence_tape >> Ö±½ÓÈÃËû×Ô¼ºÉÏ´¬¾ÍĞĞ[m
+[19:25:08] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[19:25:10] [Server thread/INFO]: Dong_Miing >> ÒşÉí[m
+[19:25:17] [Server thread/INFO]: Dong_Miing >> ºÃ°É[m
+[19:25:25] [Server thread/INFO]: Dong_Miing >> ÄÇÄã¾ÍÒÔ[m
+[19:25:31] [Server thread/INFO]: Dong_Miing >> ÃÍÄĞµÄ·½Ê½À´°É£¨[m
+[19:25:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ó³µ°É[m
+[19:25:36] [Server thread/INFO]: Dong_Miing >> ¶÷[m
+[19:25:40] [Server thread/INFO]: Dong_Miing >> ¿´ÔËÆø[m
+[19:25:46] [Server thread/INFO]: Dong_Miing >> ÒªÍ¬Ê±Ë¢4¸ö[m
+[19:25:51] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Í¬Ê±£¿[m
+[19:26:02] [Server thread/INFO]: Dong_Miing >> ²»È»ÔõÃ´¸ã£¿[m
+[19:26:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ÉÄÜÃ´[m
+[19:26:15] [Server thread/INFO]: Dong_Miing >> Ï®»÷ÓÀÔ¶²»½áÊø[m
+[19:26:21] [Server thread/INFO]: Dong_Miing >> µÚ°Ë²¨¿ÉÄÜ[m
+[19:26:25] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡Õâ[m
+[19:26:26] [Server thread/INFO]: Jichen233 >> ÓĞÎŞÏŞ¹­Âğ/fad[m
+[19:26:29] [Server thread/INFO]: Dong_Miing >> 3¸öµ¥¸öµÄ[m
+[19:26:37] [Server thread/INFO]: Dong_Miing >> ºÍ1¸öÆïÕßµÄ[m
+[19:26:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> È¥ÒıÏ®»÷°É[m
+[19:26:55] [Server thread/INFO]: Dong_Miing >> ×³Ê¿¹éÈ¥Ùâ²»¸´·µ[m
+[19:26:58] [Server thread/INFO]: Dong_Miing >> ([m
+[19:27:01] [Server thread/INFO]: Dong_Miing >> ±£ÖØ[m
+[19:27:21] [Server thread/INFO]: hence_tape >> ÈºÀïÍ¬ÒâÁË[m
+[19:27:28] [Server thread/INFO]: hence_tape >> Äã×Ô¼º¼ÓÈº°Ñ[m
+[19:27:39] [Server thread/INFO]: Jichen233 >> a[m
+[19:27:44] [Server thread/INFO]: hence_tape >> ÎÒÏÈ¹Ò»úÁË[m
+[19:27:46] [Server thread/INFO]: Jichen233 >> ¶àÉÙ[m
+[19:27:54] [Server thread/INFO]: hence_tape >> º£¾§¸æÊ¾ÅÆÓĞ[m
+[19:27:56] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º£¾§¸æÊ¾°åÓĞ[m
+[19:28:04] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[19:28:16] [Server thread/INFO]: Dong_Miing >> ÎÒÀ´·¢¸øÄã°É[m
+[19:28:17] [Server thread/INFO]: sen_lv_ling_ issued server command: /msg Jichen233 1001054828
+[19:28:17] [Server thread/INFO]: Dong_Miing >> Ë½ÁÄ[m
+[19:28:26] [Server thread/INFO]: Jichen233 >> a²»ÓÃÁË[m
+[19:28:44] [Server thread/INFO]: Dong_Miing >> ok[m
+[19:29:11] [Server thread/INFO]: hence_tape >> Ã»É¶ÊÂÎÒ¹Ò»úÁË[m
+[19:29:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¹ÒÉ¶[m
+[19:29:43] [Server thread/INFO]: hence_tape >> ·ÄÏß[m
+[19:29:49] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[19:29:55] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ö©Öë£¿[m
+[19:29:55] [Server thread/INFO]: hence_tape >> Ö©ÖëË¿[m
+[19:30:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Å¶[m
+[19:30:04] [Server thread/INFO]: Î´ÖªÖ¸Áî.¼üÈë"/help"²é¿´°ïÖú[m
+[19:30:08] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÀ´¸øÄãÈÓ¸öÖÓ[m
+[19:30:12] [Server thread/INFO]: [Server] az
+[19:30:18] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> àÓ[m
+[19:30:57] [Server thread/INFO]: Dong_Miing >> ÎÒÂíÉÏÀ´Ö§Ô®[m
+[19:31:01] [Server thread/INFO]: Dong_Miing >> .-.[m
+[19:31:13] [Server thread/INFO]: Dong_Miing >> Ö§Ô®¡Á °×¸ø¡Ì[m
+[19:33:00] [Server thread/INFO]: Dong_Miing >> ÄãÃÇ¿ªÊ¼ÁËÂğ£¿[m
+[19:33:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»ÈËÒıÏ®»÷[m
+[19:33:23] [Server thread/INFO]: Dong_Miing >> ÎÒÀ´[m
+[19:33:44] [Server thread/INFO]: hence_tape >> halemlgp[m
+[19:33:51] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[19:35:43] [Server thread/INFO]: Dong_Miing >> 2020Äê9ÔÂ5ÈÕ19:49:11[m
+[19:35:46] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[19:35:46] [Server thread/INFO]: Jichen233 left the game
+[19:38:00] [Server thread/INFO]: Dong_Miing >> ²İ£¿[m
+[19:38:14] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmm[m
+[19:39:04] [Server thread/INFO]: Dong_Miing lost connection: Timed out
+[19:39:04] [Server thread/INFO]: Dong_Miing left the game
+[19:39:43] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[19:39:43] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[19:39:51] [User Authenticator #5/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[19:39:51] [Server thread/INFO]: Jichen233[/127.0.0.1:64031] logged in with entity id 13542 at ([world]1085.5656153336909, 65.5625, -1782.6874330824119)
+[19:39:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¸ÎµÛºÃ[m
+[19:40:03] [Server thread/INFO]: Jichen233 >> qaq[m
+[19:41:42] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¸ÎµÛÒªÀ´µãº£¾§ÌØ²úÃ´[m
+[19:42:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@318a20a9[id=<null>,name=xxuurruuii,properties={},legacy=false] (/127.0.0.1:64052) lost connection: Disconnected
+[19:42:21] [Server thread/INFO]: Jichen233 >> qwq[m
+[19:42:42] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÃ²ËÆnÄêÃ»ÓĞ²¹³ä¸½Ä§ÊéÁËemmm[m
+[19:42:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@7106f156[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:64061) lost connection: Disconnected
+[19:42:53] [User Authenticator #7/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[19:42:53] [Server thread/INFO]: Dong_Miing[/127.0.0.1:64069] logged in with entity id 14304 at ([world]299.73089028252554, 83.0, -487.49088569625775)
+[19:43:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º£¾§11µ½14fps[m
+[19:43:35] [Server thread/INFO]: Dong_Miing >> az[m
+[19:43:41] [Server thread/INFO]: Jichen233 >> (Í»È»ÒâÊ¶µ½×Ô¼º²»ÖªµÀÌØ²úÊÇÊ²Ã´/fad[m
+[19:43:52] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡Õâ[m
+[19:43:56] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ¾ÍËµËµ[m
+[19:44:18] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ê§Ã÷ìÀ²ËÒª²»23333[m
+[19:44:20] [Server thread/INFO]: Dong_Miing >> ÎÀ¶Ó[m
+[19:44:25] [Server thread/INFO]: Dong_Miing >> ÅÂ²»ÊÇ[m
+[19:44:30] [Server thread/INFO]: Jichen233 >> a..[m
+[19:44:31] [Server thread/INFO]: Dong_Miing >> ÓÖÈ¥¶È¼ÙÁË£¨[m
+[19:45:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> º£¾§ÌØ²ú½ğÂÜ±±qwq[m
+[19:45:19] [Server thread/INFO]: Dong_Miing >> jojo¤ÎÆæÃî±ÈÓ÷[m
+[19:45:25] [Server thread/INFO]: Jichen233 >> ww[m
+[19:45:55] [Server thread/INFO]: Jichen233 >> tapeÖ®Ç°¸øÎÒµÄ½ğÂÜ±±»¹Ã»Ç¡Íê([m
+[19:46:25] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËûÃÇ³ÔµÄËÙ¶ÈºÍ³ÔÒ»¸öÈÓÒ»×éµÄËÙ¶È²î²»¶à[m
+[19:46:35] [User Authenticator #8/INFO]: UUID of player xxuurruuii is e4032104-ba08-4db3-82a0-d4f7323bcaf4
+[19:46:35] [Server thread/INFO]: xxuurruuii[/127.0.0.1:64108] logged in with entity id 15532 at ([world]-267.62983472053645, 129.0, 393.06791625748826)
+[19:46:37] [Server thread/INFO]: Jichen233 >> ¸ò??[m
+[19:47:06] [Server thread/INFO]: Dong_Miing >> xxuurruuii!!![m
+[19:47:08] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ?[m
+[19:47:18] [Server thread/INFO]: Dong_Miing >> ²»ÊÇ°É£¬²»ÊÇ°É[m
+[19:47:26] [Server thread/INFO]: Dong_Miing >> ÔõÃ´ÉÏÑ§ÆÚ¼ä[m
+[19:47:29] [Server thread/INFO]: Dong_Miing >> ±È[m
+[19:47:38] [Server thread/INFO]: Dong_Miing >> Êî¼ÙÉÏÏßµÄ»¹¶à[m
+[19:47:41] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ?[m
+[19:47:57] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ÎÒ¾Í½ñÌìÉÏ°¡[m
+[19:48:13] [Server thread/INFO]: Jichen233 >> Êî¼Ù×î¶àµÄÒ»ÌìºÃÏñÓĞ16¸ö([m
+[19:48:18] [Server thread/INFO]: Dong_Miing >> ![m
+[19:48:28] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ÉÏ´ÎÉÏÏßÒÑ¾­¿ìÒ»¸öÔÂÇ°ÁË[m
+[19:48:41] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[19:48:41] [Server thread/INFO]: Jichen233 left the game
+[19:48:42] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ¿ªÑ§ºó×î¶àÒ»ÖÜ3h[m
+[19:48:45] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:48:48] [Server thread/INFO]: Dong_Miing >> .-.[m
+[19:49:10] [Server thread/INFO]: Dong_Miing >> À´ÈË¸ÎÏ®»÷Ëş[m
+[19:49:42] [Server thread/INFO]: Dong_Miing >> ohhhhhhhhhhh[m
+[19:49:47] [Server thread/INFO]: Dong_Miing >> ÎÒÒıµ½ÁË[m
+[19:49:49] [Server thread/INFO]: Dong_Miing >> ÖÕÓÚ[m
+[19:49:52] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ?[m
+[19:50:00] [Server thread/INFO]: Dong_Miing >> ¶òÔË¡£¡£¡£¡£[m
+[19:50:16] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> az[m
+[19:50:21] [Server thread/INFO]: Dong_Miing >> À´ÈË[m
+[19:50:24] [Server thread/INFO]: Dong_Miing >> xxuurruuii[m
+[19:50:26] [Server thread/INFO]: Dong_Miing >> sen_lv_ling_[m
+[19:50:32] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> À´¸ÉÂï[m
+[19:50:37] [Server thread/INFO]: Dong_Miing >> Ê£ÏÂ¿´ÄãÃÇµÄÁË£¨[m
+[19:50:49] [Server thread/INFO]: Dong_Miing >> ¼ÓÓÍ[m
+[19:50:52] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ÎÒÔÚÔìË¢±ù»ú[m
+[19:51:09] [Server thread/INFO]: Dong_Miing >> À´¸ãÒ»¸ö¸üÖØÒªµÄ£¨[m
+[19:51:14] [Server thread/INFO]: Dong_Miing >> Ï®»÷Ëş[m
+[19:51:24] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ÎÒ¼ÇµÃÒÑ¾­ÓĞÁË°É[m
+[19:51:27] [Server thread/INFO]: Dong_Miing >> µÄÄÕ¹íÒÖÖÆ[m
+[19:51:33] [Server thread/INFO]: Dong_Miing >> BAY MAX[m
+[19:51:38] [Server thread/INFO]: Dong_Miing >> ĞÂ¸ãµÃ[m
+[19:51:42] [Server thread/INFO]: Dong_Miing >> CCSµÄ[m
+[19:51:42] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ![m
+[19:51:49] [Server thread/INFO]: Dong_Miing >> ÊÇÒÔÇ°µÄ¼¸°Ù±¶[m
+[19:51:51] [Server thread/INFO]: Dong_Miing >> Ğ§ÂÊ[m
+[19:52:09] [Server thread/INFO]: Dong_Miing >> Ã»Ïëµ½°É[m
+[19:52:32] [Server thread/INFO]: Dong_Miing >> baymax¸ãÕâ¸ö[m
+[19:52:37] [Server thread/INFO]: Dong_Miing >> ÒÖÖÆ¸ãÁË°ëÌì[m
+[19:52:40] [Server thread/INFO]: Dong_Miing >> Ã»¸ã³É[m
+[19:52:49] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ÔÚÄÄ[m
+[19:52:55] [Server thread/INFO]: Dong_Miing >> ÀÏµØ·½[m
+[19:53:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ±ğ¿¿½üÁË[m
+[19:53:35] [User Authenticator #9/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[19:53:35] [Server thread/INFO]: Jichen233[/127.0.0.1:64172] logged in with entity id 18239 at ([world]1058.5019842694899, 63.0, -1796.699999988079)
+[19:53:42] [Server thread/INFO]: Dong_Miing >> Jichen233[m
+[19:53:45] [Server thread/INFO]: Jichen233 >> ?[m
+[19:53:46] [Server thread/INFO]: Dong_Miing >> ÎÒÃÇ¿ªÊ¼ÁË[m
+[19:53:56] [Server thread/INFO]: Jichen233 >> ¸ò?[m
+[19:54:01] [Server thread/INFO]: Dong_Miing >> Ï®»÷[m
+[19:54:04] [Server thread/INFO]: Dong_Miing >> À´Íæ£¨[m
+[19:54:14] [Server thread/INFO]: Jichen233 >> ÎÒÃ»ÎŞÏŞ¹­qwq[m
+[19:54:41] [Server thread/INFO]: Dong_Miing >> emmm[m
+[19:54:51] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ?[m
+[19:55:17] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ÄãÈËÄØ[m
+[19:56:31] [Server thread/INFO]: Jichen233 >> ÓÖ²îµã¿¨±Àqwq[m
+[19:57:12] [Server thread/INFO]: Dong_Miing >> ÄãÃÇ¿´CCSÊÓÆµÁËÂğ£¿[m
+[19:57:46] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> Õâ´ò²»ÖĞ°¡awa[m
+[19:57:49] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡Õâ[m
+[19:57:49] [Server thread/INFO]: Dong_Miing >> emmm[m
+[19:58:01] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> µÚ¼¸²¨ÁË[m
+[19:58:05] [Server thread/INFO]: Dong_Miing >> emmmmm[m
+[19:58:12] [Server thread/INFO]: Dong_Miing >> ÄãÃÇ¿ª³öÇÏ[m
+[19:58:14] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Á½¸ö[m
+[19:58:15] [Server thread/INFO]: Dong_Miing >> ¿´¿´£¿[m
+[19:58:17] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ÕâÊÇÔÚÔìÂğ[m
+[19:58:19] [Server thread/INFO]: Dong_Miing >> ²»¹»[m
+[19:58:25] [Server thread/INFO]: Dong_Miing >> ÎÒÃÇÒª4¸ö»½Ä§[m
+[19:58:30] [Server thread/INFO]: Dong_Miing >> »î×½[m
+[19:59:01] [Server thread/INFO]: sen_lv_ling_ was slain by Ravager
+[19:59:05] [Server thread/INFO]: Dong_Miing >> az[m
+[19:59:05] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ´Ì¼¤[m
+[19:59:07] [Server thread/INFO]: Jichen233 >> az?[m
+[19:59:20] [Server thread/INFO]: xxuurruuii lost connection: Disconnected
+[19:59:20] [Server thread/INFO]: xxuurruuii left the game
+[19:59:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»ÉèÖØÉúµãemmm[m
+[19:59:41] [Server thread/INFO]: Dong_Miing >> °¡Õâ[m
+[19:59:42] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »°ËµÁ½¸ö½ÙÂÓÊŞ²»ÊÇËÀÁËÃ´[m
+[19:59:49] [Server thread/INFO]: Dong_Miing >> en[m
+[19:59:55] [Server thread/INFO]: Jichen233 >> ÓĞ¶àµÄºÏ½ğÂğqwq[m
+[19:59:55] [Server thread/INFO]: Dong_Miing >> ×°±¸²»»áË¢Ã»ÁË°É[m
+[20:00:01] [User Authenticator #10/INFO]: UUID of player xxuurruuii is e4032104-ba08-4db3-82a0-d4f7323bcaf4
+[20:00:02] [Server thread/INFO]: xxuurruuii[/127.0.0.1:64244] logged in with entity id 20167 at ([world]1373.946406666151, 183.0, -1344.4896519220433)
+[20:00:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËùÒÔÎÒÕ¦±»½ÙÂÓÊŞÉ±ÁË[m
+[20:00:16] [Server thread/INFO]: Dong_Miing >> ¼«ÏŞ1»»1[m
+[20:00:51] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ×ßÁË×ßÁË([m
+[20:02:14] [Server thread/INFO]: Dong_Miing >> sen_lv_ling_[m
+[20:02:17] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[20:02:19] [Server thread/INFO]: Dong_Miing >> ÈËÄØ[m
+[20:02:24] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÏÂÃæ°¡[m
+[20:02:30] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[20:02:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÉÏ²»È¥emmmm[m
+[20:03:43] [Server thread/INFO]: Dong_Miing >> ..[m
+[20:04:14] [Server thread/INFO]: Dong_Miing >> ¼ÇµÃ´æ´æµµµã[m
+[20:04:24] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿´Õâ¸ö[m
+[20:04:32] [Server thread/INFO]: Jichen233 >> az[m
+[20:05:23] [Server thread/INFO]: Dong_Miing >> »°Ëµ[m
+[20:05:33] [Server thread/INFO]: Dong_Miing >> Ï®»÷µÈºÜ¾ÃºÜ¾ÃÖ®ºó[m
+[20:05:37] [Server thread/INFO]: Dong_Miing >> »á½áÊøÂğ£¿[m
+[20:05:43] [Server thread/INFO]: Jichen233 >> nope[m
+[20:06:03] [Server thread/INFO]: Dong_Miing >> °¡Õâ£¿[m
+[20:06:08] [Server thread/INFO]: Dong_Miing >> ÄÇÕ¦¸ã£¿[m
+[20:06:31] [Server thread/INFO]: Dong_Miing >> ½è¸öÈı²æêª£¨[m
+[20:06:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÇ¾ÍÊÇÁË[m
+[20:06:42] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄÃ¾ÍÊÇÁË[m
+[20:07:03] [Server thread/INFO]: Dong_Miing >> ÖÕ¾ÖÖ®Õ½[m
+[20:07:05] [Server thread/INFO]: Dong_Miing >> È·ĞÅ£¨[m
+[20:07:28] [Server thread/INFO]: Dong_Miing >> »°Ëµ[m
+[20:07:35] [Server thread/INFO]: Dong_Miing >> ÄÇÔõÃ´×¥£¿[m
+[20:07:55] [Server thread/INFO]: Dong_Miing >> ÔõÃ´»î×¥[m
+[20:07:57] [Server thread/INFO]: Dong_Miing >> »½Ä§Õß[m
+[20:08:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ö»ÓĞÄÕ¹íºÍ½ÙÂÓÊŞ´òÈË±È½ÏÌÛ[m
+[20:08:18] [Server thread/INFO]: Dong_Miing >> ÔõÃ´»î×¥[m
+[20:08:19] [Server thread/INFO]: Dong_Miing >> »½Ä§Õß[m
+[20:08:23] [Server thread/INFO]: xxuurruuii has completed the challenge [Bullseye]
+[20:08:39] [Server thread/INFO]: Jichen233 >> ÓĞ¶àµÄºÏ½ğÂğqwq[m
+[20:08:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[20:08:53] [Server thread/INFO]: Dong_Miing >> ÎÒ¶¼ÊÇæÎµÃ£¨[m
+[20:09:00] [Server thread/INFO]: Jichen233 >> az[m
+[20:09:26] [Server thread/INFO]: Dong_Miing >> ???[m
+[20:09:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ï®»÷Ã»ÁË[m
+[20:09:31] [Server thread/INFO]: Dong_Miing >> emmmmmm[m
+[20:09:33] [Server thread/INFO]: Jichen233 >> e[m
+[20:09:44] [Server thread/INFO]: Dong_Miing >> Õâ¿ÉÕ¦Õû[m
+[20:09:51] [Server thread/INFO]: Dong_Miing >> ËùÒÔËµÈçºÎ[m
+[20:10:00] [Server thread/INFO]: Dong_Miing >> »î×½»½Ä§[m
+[20:10:10] [Server thread/INFO]: Dong_Miing >> ¶øÇÒÍùºóÒ²¿ÉÒÔ´òÏ®»÷[m
+[20:10:16] [Server thread/INFO]: Dong_Miing >> ÃüÃû£¿[m
+[20:10:26] [Server thread/INFO]: Dong_Miing >> È»ºóĞ¶ÔØÇø¿é£¿[m
+[20:10:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÆäÊµ°ÑÀ­¿ªÒ»¶¨¾àÀë¾ÍĞĞ[m
+[20:10:47] [Server thread/INFO]: Dong_Miing >> ËùÒÔËµ[m
+[20:10:53] [Server thread/INFO]: Dong_Miing >> ÆäÊµ²»Ò»¶¨Òª[m
+[20:10:58] [Server thread/INFO]: Dong_Miing >> Í¬Ê±³öÏÖ[m
+[20:11:03] [Server thread/INFO]: Dong_Miing >> 4¸öà¶[m
+[20:11:06] [Server thread/WARN]: Dong_Miing moved too quickly! -0.6543658400330514,-10.167067244575904,-2.87969624661082
+[20:11:40] [Server thread/INFO]: Dong_Miing >> ÎÒÈ¥Òı[m
+[20:11:51] [Server thread/INFO]: Dong_Miing >> ÄãÃÇ×¼±¸ºÃ[m
+[20:11:54] [Server thread/INFO]: Dong_Miing >> ÃüÃûÅÆ[m
+[20:11:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[20:12:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»ÊÇ[m
+[20:12:04] [Server thread/INFO]: Dong_Miing >> ?[m
+[20:12:20] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Òª³öÏÖËÄ¸ö²ÅĞĞ[m
+[20:12:34] [Server thread/INFO]: Dong_Miing >> az[m
+[20:12:56] [Server thread/INFO]: Dong_Miing >> ÎÒÃÇÕæ¾Í·ÇÇõà¶¡£¡£¡£[m
+[20:13:05] [Server thread/INFO]: Dong_Miing >> ¸Õ¸Õ×î¶à³öÏÖ[m
+[20:13:09] [Server thread/INFO]: Dong_Miing >> Ò²¾Í2¸ö¡£¡£¡£[m
+[20:13:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °Ñ»½Ä§ÕßÀ­µ½Ô¶ÀëÏ®»÷µÄÖĞĞÄµã£¬Ëü¾Í²»»á¼ÇÂ¼ÔÚÏ®»÷µ±ÖĞ[m
+[20:13:47] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ò²¾ÍÊÇ²»»áËãÔÚÆÁÄ»ÉÏ·½µÄÌõÖĞ[m
+[20:13:51] [Server thread/INFO]: Dong_Miing >> ¿ó³µ½Óµ½ÏÂÃæ[m
+[20:13:56] [Server thread/INFO]: Dong_Miing >> È»ºóÃüÃû[m
+[20:13:58] [Server thread/INFO]: Dong_Miing >> ÅÜÂ·[m
+[20:14:01] [Server thread/INFO]: Dong_Miing >> Íê³É[m
+[20:14:08] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[20:14:56] [Server thread/INFO]: Dong_Miing >> ½ñÌìÎÀ¶Ó·Å¼Ù£¨[m
+[20:15:23] [Server thread/INFO]: Dong_Miing >> Ô±¹¤À´¸°ËÀ[m
+[20:15:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÆäÊµ¿ÉÒÔÒ»¸öÈËÔÚÅÔ±ßµÄÂÌ±¦Ê¯ËşË¢buffµÄemmmm[m
+[20:15:36] [Server thread/INFO]: Dong_Miing >> emmmmm[m
+[20:15:50] [Server thread/INFO]: Dong_Miing >> ÄÇÕâÒ»´Î[m
+[20:15:57] [Server thread/INFO]: Dong_Miing >> ÎÒÃÇÏÈÒı[m
+[20:15:59] [Server thread/INFO]: Dong_Miing >> ÀÏµÄ[m
+[20:16:03] [Server thread/INFO]: Dong_Miing >> ÔÙË¢µ½[m
+[20:16:09] [Server thread/INFO]: Dong_Miing >> ĞÂµÄ[m
+[20:16:13] [Server thread/INFO]: Dong_Miing >> Ò»Ö±Ñ­»·[m
+[20:16:20] [Server thread/INFO]: Dong_Miing >> ÖªµÀ³öÏÖ4¸ö[m
+[20:16:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãÒıµ½ÀÏµÄ£¬ºóÃæÎÒÀ´Òı°É[m
+[20:16:34] [Server thread/INFO]: Dong_Miing >> ok[m
+[20:16:39] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë­´òqwq[m
+[20:16:55] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[20:17:03] [Server thread/INFO]: Dong_Miing >> ÉÏÏßµÄ[m
+[20:17:07] [Server thread/INFO]: Dong_Miing >> »¹ÓĞ»îµÄÂğ[m
+[20:17:11] [Server thread/INFO]: Dong_Miing >> ¶¼À´°É£¨[m
+[20:17:34] [Server thread/INFO]: Dong_Miing >> Òıµ¼ÁË[m
+[20:17:36] [Server thread/INFO]: Dong_Miing >> µ½[m
+[20:18:15] [Server thread/INFO]: Dong_Miing >> ÀÏÏ®»÷Ëş¾ÍÎ»[m
+[20:18:25] [Server thread/INFO]: Dong_Miing >> hence_tape[m
+[20:18:27] [Server thread/INFO]: Dong_Miing >> Jichen233[m
+[20:18:30] [Server thread/INFO]: Dong_Miing >> xxuurruuii[m
+[20:18:39] [Server thread/INFO]: Dong_Miing >> ¿ªÈË°ïÃ¦[m
+[20:18:39] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ?[m
+[20:18:44] [Server thread/INFO]: Dong_Miing >> ÖÆÔìÕâ¸ö[m
+[20:18:51] [Server thread/INFO]: Dong_Miing >> ÔØÈëÊ·²áµÄ»úÆ÷[m
+[20:18:55] [Server thread/INFO]: Dong_Miing >> ([m
+[20:19:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ĞÂÏ®»÷¾ÍÎ»[m
+[20:19:24] [Server thread/INFO]: Dong_Miing >> ok[m
+[20:20:14] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÖªµÀÎªÉ¶ÁË[m
+[20:20:21] [Server thread/INFO]: Dong_Miing >> £¿[m
+[20:20:25] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãµÄÊÇ²»ÏéÖ®Õ×1[m
+[20:20:37] [Server thread/INFO]: Dong_Miing >> Å¶¶Ô£¡[m
+[20:20:45] [Server thread/INFO]: Dong_Miing >> °¡Õâ[m
+[20:20:53] [Server thread/INFO]: Dong_Miing >> ÄÇÄã¸Õ¸ÕÒı¹ıÀ´µÄ[m
+[20:20:55] [Server thread/INFO]: Dong_Miing >> ÊÇ...[m
+[20:20:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ò²ÊÇemmmm[m
+[20:21:08] [Server thread/INFO]: Dong_Miing >> °¡Õâ[m
+[20:21:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãÏÈ´òÍê°É[m
+[20:21:12] [Server thread/INFO]: Dong_Miing >> Ë¢µÄµôÂğ£¿[m
+[20:21:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÕâ¶ùË¢5[m
+[20:21:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë¢²»µô[m
+[20:21:28] [Server thread/INFO]: Dong_Miing >> À´ÈËÖ§Ô®£¨[m
+[20:21:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡Õâ[m
+[20:21:35] [Server thread/INFO]: Dong_Miing >> »ğÁ¦Ñ¹ÖÆ[m
+[20:21:44] [Server thread/INFO]: Dong_Miing >> ÎÒÌ«²ËÁË[m
+[20:21:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Áé»ê³öÇÏ»Ø²»À´ÁË[m
+[20:21:55] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡Õâ[m
+[20:21:59] [Server thread/INFO]: Dong_Miing >> az?[m
+[20:22:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »ØÀ´ÁË[m
+[20:23:51] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -32.27306297402197,0.0,-0.5497495638827807
+[20:23:51] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -33.94627794795713,0.0,-0.5827864585520395
+[20:23:51] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -35.64089648639151,0.0,-0.6115545288600757
+[20:23:51] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -37.35660362682347,0.0,-0.6353610237020284
+[20:23:51] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -39.09307516436638,0.0,-0.6535300197402982
+[20:23:51] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -40.84997936646573,0.0,-0.6654100105146838
+[20:24:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÓĞ5ÁË[m
+[20:24:47] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ´òÍêÁËÃ»[m
+[20:24:53] [Server thread/INFO]: Dong_Miing >> MAYDAY[m
+[20:24:56] [Server thread/INFO]: Dong_Miing >> MAYDAY[m
+[20:25:02] [Server thread/INFO]: Dong_Miing >> »ğÁ¦²»¹»ÃÍ[m
+[20:25:04] [Server thread/INFO]: Dong_Miing >> ([m
+[20:25:05] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡Õâ[m
+[20:25:36] [Server thread/INFO]: Dong_Miing >> È«´ò¿ÕÁË[m
+[20:25:39] [Server thread/INFO]: Dong_Miing >> ²İ[m
+[20:25:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[20:26:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÄãÔÚÕ¦´ò[m
+[20:26:03] [Server thread/INFO]: Dong_Miing >> ²İ[m
+[20:26:08] [Server thread/INFO]: Dong_Miing >> ²îµãËÀÁË[m
+[20:26:58] [Server thread/INFO]: Dong_Miing has made the advancement [A Throwaway Joke]
+[20:27:49] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[20:27:53] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[20:29:45] [Server thread/INFO]: Dong_Miing >> mayday[m
+[20:29:47] [Server thread/INFO]: Dong_Miing >> mayday[m
+[20:29:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÕâ¶ù¶¼ÓĞ3Ö»»½Ä§Õßemmm[m
+[20:29:56] [Server thread/INFO]: Dong_Miing >> ÇëÇó»ğÁ¦Ö§Ô®[m
+[20:30:03] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[20:30:20] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËûÃÇ´ò²»ÉÏÄã°Éemmm[m
+[20:32:02] [Server thread/INFO]: Dong_Miing >> ĞÂËş³öÏÖ»½Ä§Õß[m
+[20:32:07] [Server thread/INFO]: Dong_Miing >> ÇëÇóÖ§Ô®£¨[m
+[20:36:06] [Server thread/INFO]: Dong_Miing >> ÍôÍô¶ÓÇëÇó³öÕ½£¨[m
+[20:36:16] [Server thread/INFO]: Dong_Miing >> ÍôÍô¶Ó¶×´óÀÎ[m
+[20:36:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡Õâ[m
+[20:38:40] [Server thread/WARN]: xxuurruuii moved too quickly! 15.859218886608687,1.3441759966049176,10.210738890734518
+[20:39:44] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ÓĞÈËÄÜÈÃÎÒæÎµãºìÊ¯Âğ((([m
+[20:39:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> µã[m
+[20:40:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¶àÉÙ[m
+[20:40:29] [Server thread/INFO]: xxuurruuii lost connection: Timed out
+[20:40:29] [Server thread/INFO]: xxuurruuii left the game
+[20:40:37] [Server thread/INFO]: Dong_Miing lost connection: Timed out
+[20:40:37] [Server thread/INFO]: Dong_Miing left the game
+[20:40:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@7d474b2d[id=<null>,name=xxuurruuii,properties={},legacy=false] (/127.0.0.1:64616) lost connection: Disconnected
+[20:41:04] [User Authenticator #11/INFO]: UUID of player xxuurruuii is e4032104-ba08-4db3-82a0-d4f7323bcaf4
+[20:41:04] [Server thread/INFO]: xxuurruuii[/127.0.0.1:64619] logged in with entity id 32949 at ([world]5236.684530805064, 72.875, 239.38456545138865)
+[20:41:10] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ´ó¸Å1×é£¿[m
+[20:41:50] [Server thread/INFO]: sen_lv_ling_ issued server command: /tp sen_lv_ling_ 2743 63 -438
+[20:41:50] [Server thread/INFO]: sen_lv_ling_ issued server command: /tppos 2743 63 -438
+[20:41:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> [x:2743, y:63, z:-437][m
+[20:41:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÕâÀïÈ¥ÄÃ[m
+[20:41:58] [User Authenticator #12/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[20:41:58] [Server thread/INFO]: Dong_Miing[/127.0.0.1:64628] logged in with entity id 33897 at ([world]1361.5384578463772, 180.0, -1361.6057744438772)
+[20:42:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÂÌ±¦Ê¯ËşÓĞ[m
+[20:42:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ½üÈı×é[m
+[20:43:03] [Server thread/INFO]: Dong_Miing >> Ê²Ã´£¿[m
+[20:43:08] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºìÊ¯[m
+[20:43:09] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -27.968813678290303,0.0,-0.11507154382211482
+[20:43:09] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -29.145444970301128,0.0,-0.11507154382211482
+[20:43:09] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -30.30913334446973,0.0,-0.11507154382211482
+[20:43:09] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -31.460021172602296,0.0,-0.11507154382211482
+[20:43:09] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -32.59824926041824,0.0,-0.11507154382211482
+[20:43:09] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -33.723956864777506,0.0,-0.11507154382211482
+[20:43:09] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -34.837281710717434,0.0,-0.11507154382211482
+[20:43:09] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -35.93836000830322,0.0,-0.11507154382211482
+[20:43:09] [Server thread/WARN]: Boat (vehicle of xxuurruuii) moved too quickly! -37.02732646929212,0.0,-0.11507154382211482
+[20:43:19] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[20:43:25] [Server thread/INFO]: Dong_Miing >> Íêµ°[m
+[20:43:29] [Server thread/INFO]: Dong_Miing >> À´¸öÈË[m
+[20:43:33] [Server thread/INFO]: Dong_Miing >> ÎÒ²»ĞĞÁË[m
+[20:43:42] [Server thread/INFO]: Dong_Miing >> 2¸ö»½Ä§[m
+[20:43:44] [Server thread/INFO]: Dong_Miing >> ([m
+[20:43:47] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[20:43:55] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Óã²æ²æËü[m
+[20:44:22] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[20:44:24] [Server thread/INFO]: xxuurruuii lost connection: Timed out
+[20:44:24] [Server thread/INFO]: xxuurruuii left the game
+[20:44:34] [Server thread/INFO]: Dong_Miing >> ²å²»¶¯¡£¡£¡£[m
+[20:44:40] [Server thread/INFO]: Jichen233 >> az[m
+[20:44:42] [Server thread/INFO]: Dong_Miing >> ËûÂÒ¶¯[m
+[20:44:51] [Server thread/INFO]: Dong_Miing >> ²æ×Ó²»¹»Ó²¡á[m
+[20:44:56] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²æËÀÎÒ¾Í´ø²»Ïê5À´ÁË[m
+[20:45:09] [Server thread/INFO]: Dong_Miing >> Jichen233[m
+[20:45:11] [Server thread/INFO]: Dong_Miing >> sos[m
+[20:45:23] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »òÕßÄãÈ¥º£¾§¸½¸öÁ¦Á¿5µÄ¹­Ò²ĞĞ[m
+[20:45:30] [Server thread/INFO]: Jichen233 >> ÎÒÃ»¼ıÁËqwq[m
+[20:45:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¼Ó¸öÎŞÏŞ[m
+[20:45:38] [Server thread/INFO]: Dong_Miing >> ÇÄÇÄ¸æËßÄã[m
+[20:45:47] [Server thread/INFO]: Dong_Miing >> ÎÒµÄ¹­ÊÇÃëÉ±¹­¡£¡£¡£¡£¡£[m
+[20:45:52] [Server thread/INFO]: Dong_Miing >> ¿ÉÏ§[m
+[20:46:01] [Server thread/INFO]: Jichen233 >> ¾­ÑéĞŞ²¹?[m
+[20:46:07] [Server thread/INFO]: Dong_Miing >> Õâ¸ö¹­µÄÖ÷ÈË[m
+[20:46:11] [Server thread/INFO]: Dong_Miing >> ²»ºÃ£¨[m
+[20:46:15] [Server thread/INFO]: Dong_Miing >> ÎŞÏŞ[m
+[20:46:19] [Server thread/INFO]: Jichen233 >> e[m
+[20:46:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@7fba02b2[id=<null>,name=xxuurruuii,properties={},legacy=false] (/127.0.0.1:64668) lost connection: Timed out
+[20:46:41] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¾Í´òÏ®»÷Ò»´ÎĞÔµÄ[m
+[20:46:56] [Server thread/INFO]: Jichen233 >> ÎÒÖ»Ê£Ò»°Ñtape¸øµÄ¾­ÑéĞŞ²¹µÄ¹­[m
+[20:47:06] [Server thread/INFO]: Jichen233 >> ÆäËûÈ«°×¸ø[m
+[20:47:08] [Server thread/INFO]: Dong_Miing >> ÎÒ¸øÄã¸ã¸ö[m
+[20:47:14] [Server thread/INFO]: Dong_Miing >> ÎŞÏŞµÃÁË[m
+[20:47:15] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »òÕß Jichen233 À´¾ÉµÄËşË¢buff[m
+[20:47:23] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÈ¥´òÏ®»÷[m
+[20:47:23] [Server thread/INFO]: Dong_Miing >> ÎÒ²»ĞĞÁË[m
+[20:47:43] [Server thread/INFO]: Dong_Miing >> ÎÒÈ¥º£¾§¸øÄãÄÃÎŞÏŞ[m
+[20:47:49] [Server thread/INFO]: Dong_Miing >> ([m
+[20:47:54] [Server thread/INFO]: Dong_Miing >> Jichen233[m
+[20:48:02] [Server thread/INFO]: Dong_Miing >> ÆäËûµÄ×Ô¼º×¼±¸[m
+[20:48:07] [Server thread/INFO]: Jichen233 >> e[m
+[20:48:17] [Server thread/WARN]: Dong_Miing moved too quickly! 26.02744467130273,0.0,0.27249511881329624
+[20:48:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÒÑ¾­×¼±¸ºÃ°×¸øÁË[m
+[20:48:41] [User Authenticator #13/INFO]: Disconnecting com.mojang.authlib.GameProfile@486c76a[id=<null>,name=xxuurruuii,properties={},legacy=false] (/127.0.0.1:64690): Authentication servers are down. Please try again later, sorry!
+[20:48:41] [User Authenticator #13/ERROR]: Couldn't verify username because servers are unavailable
+[20:48:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@486c76a[id=<null>,name=xxuurruuii,properties={},legacy=false] (/127.0.0.1:64690) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:48:45] [Server thread/INFO]: Dong_Miing >> Miaoa[m
+[20:48:50] [User Authenticator #14/INFO]: UUID of player xxuurruuii is e4032104-ba08-4db3-82a0-d4f7323bcaf4
+[20:48:50] [Server thread/INFO]: xxuurruuii[/127.0.0.1:64699] logged in with entity id 36185 at ([world_nether]158.24353297015026, 115.16949023489036, -25.602684607267207)
+[20:48:51] [Server thread/INFO]: Jichen233 >> ÄÄÓĞÉÚÕ¾[m
+[20:48:58] [Server thread/INFO]: Dong_Miing >> buyong[m
+[20:49:01] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ö±½ÓÈ¥ÂÌ±¦Ê¯Ëş[m
+[20:49:07] [Server thread/INFO]: Dong_Miing >> ÎÒÒıºÃÁË[m
+[20:49:16] [Server thread/INFO]: Jichen233 >> ÎÒÔÚÂÌ±¦Ê¯Ëş[m
+[20:49:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Å®Î×»á»ØÑªemmmm[m
+[20:50:15] [Server thread/INFO]: Dong_Miing >> µ¶ÁË[m
+[20:50:15] [Server thread/INFO]: Jichen233 >> ËùÒÔ»¹ÊÇ¹­ºÃ([m
+[20:50:21] [Server thread/INFO]: Dong_Miing >> µ¶ÁËËû£¨[m
+[20:50:29] [Server thread/INFO]: Dong_Miing >> ÎÒÆğÁË[m
+[20:50:33] [Server thread/INFO]: Dong_Miing >> Ò»¼ıÃëÁË[m
+[20:50:41] [Server thread/INFO]: Dong_Miing >> Ã»Ê²Ã´ºÃËµµÄ[m
+[20:50:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÈÓÈı²æêªÈÓ³ÉÕäÖéÁË[m
+[20:50:56] [Server thread/INFO]: Jichen233 >> az[m
+[20:50:56] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÓÖ½øÈ¥ÁË[m
+[20:50:57] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> az[m
+[20:51:03] [Server thread/INFO]: Dong_Miing >> ,,,,[m
+[20:51:10] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ÂÌ±¦Ê¯ËşÎªÊ²Ã´»áÓĞºìÊ¯[m
+[20:51:15] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Å®Î×°¡[m
+[20:51:16] [Server thread/INFO]: Dong_Miing >> Å®Î×[m
+[20:51:22] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> À×Óê[m
+[20:51:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> À´ÒıÀ×[m
+[20:51:27] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> az[m
+[20:51:28] [Server thread/INFO]: Dong_Miing >> Ãî°¡£¡£¡£¡[m
+[20:51:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> xdm[m
+[20:51:35] [Server thread/INFO]: Dong_Miing >> Ò¯À´ÁË£¨[m
+[20:51:44] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Êæ·ş°¡[m
+[20:51:53] [Server thread/INFO]: Dong_Miing >> À×Éñ³ö»÷£¨£©[m
+[20:52:09] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ·´»÷¿ªÊ¼[m
+[20:52:24] [Server thread/INFO]: Dong_Miing >> ÉÏ¡á[m
+[20:52:37] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Êæ·şÁË[m
+[20:52:41] [Server thread/INFO]: Dong_Miing >> ¿ªÊ¼[m
+[20:52:43] [Server thread/INFO]: Jichen233 >> ÄãÃÇÄÇÓĞÓêÂğ[m
+[20:52:45] [Server thread/INFO]: Dong_Miing >> ÉÏ5[m
+[20:52:45] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ´òÍêÁË[m
+[20:52:48] [Server thread/INFO]: Dong_Miing >> ÉÏ5[m
+[20:52:49] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Jichen233[m
+[20:52:56] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÓĞ²»Ïê5²»[m
+[20:53:02] [Server thread/INFO]: Jichen233 >> nope[m
+[20:53:06] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ìË¢[m
+[20:53:09] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[20:53:22] [Server thread/INFO]: Jichen233 >> ÎÒ¹ı»á¶ùÀ´qwq[m
+[20:53:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ìµã[m
+[20:53:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¹ı»á¶ùÃ»À×ÓêÁË[m
+[20:53:41] [Server thread/INFO]: Dong_Miing >> £¨[m
+[20:53:45] [Server thread/INFO]: Jichen233 >> qaq[m
+[20:53:51] [Server thread/INFO]: Dong_Miing >> ÇçÌìÎÒÃÇÎ·Î·ËõËõ[m
+[20:53:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ5°ÑÈı²æêªÒÀ´ÎÈÓ[m
+[20:53:56] [Server thread/INFO]: Dong_Miing >> ÓêÌì[m
+[20:54:01] [Server thread/INFO]: Dong_Miing >> ÎÒÃÇÖØÈ­³ö»÷[m
+[20:54:13] [Server thread/INFO]: Dong_Miing >> ÂÓ¶áÕß£ºWDNMD[m
+[20:54:31] [Server thread/INFO]: Dong_Miing >> ¼¸µãÁË[m
+[20:54:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[20:54:44] [Server thread/INFO]: Dong_Miing >> ÓÎÏ·¿Ì[m
+[20:54:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »¹Ã»ÓĞÃ´[m
+[20:56:18] [Server thread/INFO]: Dong_Miing >> ÓĞÒÚµã¿¨[m
+[20:57:15] [Server thread/INFO]: Dong_Miing >> Jichen233[m
+[20:57:17] [Server thread/INFO]: Dong_Miing >> ÈËÄØ£¿[m
+[20:57:39] [Server thread/INFO]: Jichen233 >> ÂíÉÏ[m
+[20:57:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> À×¶¼Ã»ÁË[m
+[20:57:56] [Server thread/INFO]: Jichen233 >> e[m
+[20:58:32] [Server thread/INFO]: Dong_Miing >> Ã»À×ÁË£¿[m
+[20:58:38] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> àÅ[m
+[20:58:44] [Server thread/INFO]: Dong_Miing >> emmmmm[m
+[21:00:56] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÔÚ£¿ÎªÊ²Ã´´¬·´×Å·Å£¿[m
+[21:01:02] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[21:01:09] [Server thread/INFO]: Dong_Miing >> °¡Õâ[m
+[21:01:47] [Server thread/INFO]: Jichen233 >> ÎÒÉµÁË[m
+[21:01:52] [Server thread/INFO]: Jichen233 >> ²îµã°×¸ø[m
+[21:02:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[21:02:01] [Server thread/INFO]: Dong_Miing >> ÄãÔÚÄÄ£¿[m
+[21:02:16] [Server thread/INFO]: Jichen233 >> Ğ¡ºÚËşµÄË®µçÌİÔõÃ´Õ¨ÁË[m
+[21:02:23] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[21:02:24] [Server thread/INFO]: Dong_Miing >> az[m
+[21:02:32] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿ÉÄÜÊÇÄ©Ó°Áú£¨[m
+[21:02:39] [Server thread/INFO]: Jichen233 >> az[m
+[21:02:54] [Server thread/INFO]: Dong_Miing >> ´òÀ×ÁË£¿[m
+[21:03:02] [Server thread/INFO]: Dong_Miing >> ohhhhhhhhhhhh?[m
+[21:03:06] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ½¨ÒéÏÈÀ´ÁùĞÅ±êbuff[m
+[21:03:10] [Server thread/INFO]: Jichen233 >> Ã»°¡[m
+[21:03:18] [Server thread/INFO]: Dong_Miing >> Ò²ÊÇ[m
+[21:03:18] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÔÙ´òÏ®»÷[m
+[21:03:24] [Server thread/INFO]: Dong_Miing >> sen_lv_ling_[m
+[21:03:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[21:03:33] [Server thread/INFO]: Dong_Miing >> Äãµ½º£¾§È¡£¨[m
+[21:03:36] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[21:03:38] [Server thread/INFO]: Jichen233 >> °¡ÕâÎÒµÃÏÂÁË[m
+[21:03:46] [Server thread/INFO]: Jichen233 >> qwq[m
+[21:03:47] [Server thread/INFO]: Dong_Miing >> az[m
+[21:03:48] [Server thread/INFO]: Jichen233 >> 886[m
+[21:03:50] [Server thread/INFO]: Dong_Miing >> 886[m
+[21:03:54] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 886[m
+[21:04:05] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[21:04:05] [Server thread/INFO]: Jichen233 left the game
+[21:04:07] [Server thread/INFO]: Dong_Miing >> ÔÛÃÇÏÈ¸ã¸ö[m
+[21:04:11] [Server thread/INFO]: Dong_Miing >> ×î¸ß¼¶[m
+[21:04:17] [Server thread/INFO]: Dong_Miing >> ĞÅ±ê[m
+[21:04:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ¸«Í·Ã»ÁË[m
+[21:04:36] [Server thread/INFO]: Dong_Miing >> en?[m
+[21:04:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¾Í²»Ïë´òµòÁã[m
+[21:04:55] [Server thread/INFO]: Dong_Miing >> Õâ¸öÊÇÄãµÄÂğ£¿[m
+[21:04:56] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ±¾À´Ê®¸«Í·Ò»¸öµòÁãµÄ[m
+[21:05:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÍöÁé5µÄ[m
+[21:05:08] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> àÅ[m
+[21:05:12] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[21:05:17] [Server thread/INFO]: Dong_Miing >> ÄÇ[m
+[21:05:20] [Server thread/INFO]: Dong_Miing >> µ××ù[m
+[21:05:23] [Server thread/INFO]: Dong_Miing >> ¹»Âğ£¿[m
+[21:05:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»ÖªµÀ[m
+[21:05:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»ĞŞË¢ÌúËş[m
+[21:05:41] [Server thread/INFO]: Dong_Miing >> Ö÷³ÇÓĞ[m
+[21:05:45] [Server thread/INFO]: Dong_Miing >> È¥²ä£¨[m
+[21:05:51] [Server thread/INFO]: Dong_Miing >> ×Ï¾§ÓĞ£¨[m
+[21:05:59] [Server thread/INFO]: Dong_Miing >> ºÓÍåÓĞ£¨[m
+[21:06:04] [Server thread/INFO]: Dong_Miing >> Ô­¹²ÕòÓĞ£¨[m
+[21:06:09] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ¼ÇµÃÃ»»µÖ®Ç°ÓĞ¼¸ºĞÌú¿éµÄ[m
+[21:06:12] [Server thread/INFO]: Dong_Miing >> ¡£-¡£[m
+[21:06:15] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»ÖªµÀÅÜÄÄÈ¥ÁË[m
+[21:06:27] [Server thread/INFO]: Dong_Miing >> Íêµ°[m
+[21:06:31] [Server thread/INFO]: Dong_Miing >> ÄãÓĞÑÌ»¨Âğ£¿[m
+[21:06:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ã»[m
+[21:06:39] [Server thread/INFO]: Dong_Miing >> emm[m
+[21:06:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¸Õ¸ÕËÀÁË¾ÍÃ»ÁË[m
+[21:06:52] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[21:07:05] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ×Ï¾§ÓĞÁ½¸öË¢ÌúËş[m
+[21:07:14] [Server thread/INFO]: Dong_Miing >> ½èµã£¨[m
+[21:07:23] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ËæÒâ[m
+[21:07:29] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ·´Õı×Ï¾§Ã»ÈË[m
+[21:07:35] [Server thread/INFO]: Dong_Miing >> ÓĞÑÌ»¨Âğ£¨[m
+[21:08:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÕÒµ½ÁËemmm[m
+[21:08:37] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 5ºĞÌú¿é[m
+[21:08:46] [Server thread/INFO]: Dong_Miing >> emmm[m
+[21:08:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[21:09:06] [Server thread/WARN]: Dong_Miing moved wrongly!
+[21:09:06] [Server thread/WARN]: Dong_Miing moved wrongly!
+[21:09:27] [Server thread/INFO]: Dong_Miing >> wnale[m
+[21:09:32] [Server thread/INFO]: Dong_Miing >> Ã»ÑÌ»¨ÁË[m
+[21:09:36] [Server thread/INFO]: Dong_Miing >> ÄÄÓĞ£¿[m
+[21:11:07] [Server thread/WARN]: xxuurruuii moved wrongly!
+[21:11:12] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Dong_Miing º£µ×[m
+[21:11:36] [Server thread/INFO]: Dong_Miing >> £¿[m
+[21:11:40] [Server thread/INFO]: Dong_Miing >> º£µ×£¿[m
+[21:11:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ´òµòÁã[m
+[21:11:56] [Server thread/INFO]: Dong_Miing >> ÔÚÄÄ£¿[m
+[21:12:09] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> zzz[m
+[21:12:25] [Server thread/INFO]: Dong_Miing >> Ë¯²»ÁË¡¢¡£¡£¡£[m
+[21:13:04] [Server thread/INFO]: Dong_Miing >> ÄãÔÚÄÄ£¿[m
+[21:13:06] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> µÚÒ»¸öµòÁã¼á³ÖÁË11¸«Í·[m
+[21:13:06] [Server thread/INFO]: Dong_Miing >> sen_lv_ling_[m
+[21:13:40] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÏÂº£[m
+[21:16:34] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> zzz[m
+[21:17:11] [Server thread/INFO]: Dong_Miing >> ÎªÉ¶[m
+[21:17:13] [Server thread/INFO]: Dong_Miing >> ²»È¥[m
+[21:17:23] [Server thread/INFO]: Dong_Miing >> ×Ï¾§ÄÇÀï[m
+[21:17:27] [Server thread/INFO]: Dong_Miing >> ÓĞÏÖ³ÉµÄ[m
+[21:17:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[21:17:33] [Server thread/INFO]: Dong_Miing >> ¿¨µòÁéµÄ[m
+[21:17:37] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmm[m
+[21:17:39] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> £¿[m
+[21:17:39] [Server thread/INFO]: Dong_Miing >> »ùÑÒ¡£¡£¡£[m
+[21:17:43] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> Ã»[m
+[21:17:44] [Server thread/INFO]: Dong_Miing >> Äã²»ÖªµÀ£¿[m
+[21:17:52] [Server thread/INFO]: Dong_Miing >> ÓĞ°¡[m
+[21:17:56] [Server thread/INFO]: Dong_Miing >> ÄãÃÇ¶¼²»ÖªµÀ£¿[m
+[21:17:56] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ÄÇÊÇ»ùÑÒÆ¬[m
+[21:18:04] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[21:18:08] [Server thread/INFO]: Dong_Miing >> ÄÇ¸ö°²È«[m
+[21:18:28] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> »ùÑÒÆ¬ÊÇµØÍ¼»­°¡[m
+[21:19:43] [Server thread/INFO]: Dong_Miing >> ?[m
+[21:19:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ×ßÄã[m
+[21:20:19] [Server thread/INFO]: Dong_Miing >> È¥×Ï¾§µÄÄÇ¸ö°É[m
+[21:20:24] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[21:20:30] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> È¥×Ï¾§¸ÉÂï[m
+[21:20:38] [Server thread/INFO]: Dong_Miing >> ¿¨µòÁé¡£¡£¡£[m
+[21:20:41] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ´òÍêÁË°¡[m
+[21:20:45] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[21:21:21] [Server thread/INFO]: Dong_Miing >> cao![m
+[21:21:25] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[21:21:33] [Server thread/INFO]: Dong_Miing >> ÎÒ°®£¨Ü³£©ÊØÎÀÕß[m
+[21:21:54] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ×Ï¾§ÔõÃ´¿¨µòÁã°¡[m
+[21:22:01] [Server thread/INFO]: Dong_Miing >> Äã²»ÖªµÀ/[m
+[21:22:04] [Server thread/INFO]: Dong_Miing >> ?[m
+[21:22:06] [Server thread/INFO]: [0;32;1m<È«·ş×î²Ë>[0;37;1m xxuurruuii >> ²»ÖªµÀ[m
+[21:22:16] [Server thread/INFO]: Dong_Miing >> ×Ï¾§µØÓüÃÅºóÃæ[m
+[21:22:27] [Server thread/INFO]: Dong_Miing >> ÓĞ¸ö×¨ÃÅ¿¨µòÁéµÄ»ùÑÒ[m
+[21:22:29] [Server thread/INFO]: Dong_Miing >> Èº[m
+[21:22:48] [Server thread/INFO]: Dong_Miing >> sen_lv_ling_[m
+[21:22:50] [Server thread/INFO]: Dong_Miing >> ÄãÔÚÄÄ£¿[m
+[21:23:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÂëĞÅ±ê[m
+[21:23:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@71083e3d[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:64974) lost connection: Disconnected
+[21:23:15] [User Authenticator #16/INFO]: UUID of player Shallow_dream_ is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[21:23:16] [Server thread/INFO]: Shallow_dream_[/127.0.0.1:64978] logged in with entity id 46887 at ([world_nether]949.9497189254557, 10.0, -1142.156804792793)
+[21:23:26] [User Authenticator #15/INFO]: Disconnecting com.mojang.authlib.GameProfile@71083e3d[id=<null>,name=Shallow_dream_,properties={},legacy=false] (/127.0.0.1:64974): Authentication servers are down. Please try again later, sorry!
+[21:23:26] [User Authenticator #15/ERROR]: Couldn't verify username because servers are unavailable
+[21:23:41] [Server thread/INFO]: Dong_Miing >> Ë¬¡á[m
+[21:23:52] [Server thread/INFO]: Dong_Miing >> Ë¬¡áÍáÍá[m
+[21:23:56] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õâ¼¸¸öÍÚÁË[m
+[21:23:59] [Server thread/INFO]: Shallow_dream_ >> ?[m
+[21:24:03] [Server thread/INFO]: Dong_Miing >> ÍÚ¾òÆ£ÀÍ[m
+[21:24:05] [Server thread/INFO]: Dong_Miing >> ,,,,[m
+[21:24:06] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÓĞÍÚ¾òÆ£ÀÍ[m
+[21:24:07] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ...[m
+[21:24:08] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[21:24:10] [Server thread/INFO]: hence_tape >> az[m
+[21:24:10] [Server thread/INFO]: Dong_Miing >> Ü³[m
+[21:24:13] [Server thread/INFO]: hence_tape >> hahahha[m
+[21:24:16] [Server thread/INFO]: hence_tape >> hhhhhhhhhhhhhhhhhhhhhhhhh[m
+[21:24:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒ»¹ÓĞ1min[m
+[21:24:32] [Server thread/INFO]: Shallow_dream_ >> ¶Ü¹¹»úÍÚºÏ½ğ[m
+[21:24:42] [Server thread/INFO]: hence_tape >> hahahahahahahahaha'[m
+[21:24:54] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:24:54] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:24:58] [Server thread/INFO]: hence_tape >> ÎŞÇéq(¨R¨Œ¨Qq)[m
+[21:25:23] [Server thread/INFO]: hence_tape issued server command: /co i
+[21:25:23] [Server thread/INFO]: Dong_Miing >> emmm[m
+[21:25:39] [Server thread/INFO]: hence_tape issued server command: /co i
+[21:25:47] [Server thread/INFO]: Shallow_dream_ >> Õâ¸ö¶Ü¹¹ºÃ·ÑÑòÃ«ºÍÄ¾Í·°¡[m
+[21:25:50] [Server thread/INFO]: hence_tape >> cmz[m
+[21:25:52] [Server thread/INFO]: Dong_Miing >> ¶÷£¿[m
+[21:25:56] [Server thread/INFO]: hence_tape >> È¥¸ã¸öÊ÷³¡[m
+[21:26:00] [Server thread/INFO]: Dong_Miing >> az?[m
+[21:26:19] [Server thread/INFO]: Dong_Miing >> ÎÒÔÚ¸ãÏ®»÷ËşÚÀ¡£¡£¡£[m
+[21:26:20] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:26:22] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:26:23] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:26:24] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:26:27] [Server thread/INFO]: hence_tape >> ÎÒÈ¥¿´Ò»ÑÛ[m
+[21:26:32] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:26:33] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:26:34] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:26:42] [Server thread/INFO]: Dong_Miing >> ÄãÈ¥Òı[m
+[21:26:45] [Server thread/INFO]: Dong_Miing >> sen_lv_ling_[m
+[21:26:49] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[21:26:51] [Server thread/INFO]: Dong_Miing >> ÀÏ·½·¨[m
+[21:26:56] [Server thread/INFO]: Dong_Miing >> ÏÈ¸ãÀÏµÄ[m
+[21:26:59] [Server thread/INFO]: Dong_Miing >> ËãÁË[m
+[21:27:01] [Server thread/INFO]: Dong_Miing >> ÍæÈ¥°É[m
+[21:27:04] [Server thread/INFO]: Dong_Miing >> w[m
+[21:27:06] [Server thread/INFO]: Dong_Miing >> ÎÒ[m
+[21:27:06] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÖ±½Ó¸øÄãÒı5[m
+[21:27:10] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[21:27:24] [Server thread/INFO]: Dong_Miing >> ÓĞ5ÁË£¿[m
+[21:27:34] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:27:35] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:27:35] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:27:38] [Server thread/INFO]: hence_tape >> s[m
+[21:27:39] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë¢¸ö5ÔÚÈ¥¸øĞÂµÄ[m
+[21:27:39] [Server thread/WARN]: Shallow_dream_ moved wrongly!
+[21:27:50] [Server thread/INFO]: Dong_Miing >> ok[m
+[21:28:21] [Server thread/INFO]: Dong_Miing >> ½ñÌì¾ÍÒªÓĞ[m
+[21:28:25] [Server thread/INFO]: Dong_Miing >> ÀúÊ·ĞÔµÄ[m
+[21:28:27] [Server thread/INFO]: Dong_Miing >> Ê±¿ÌÁË[m
+[21:28:34] [Server thread/INFO]: Dong_Miing >> Ï£ÍûÏÖÔÚÉÏÏßµÄ[m
+[21:28:42] [Server thread/INFO]: Dong_Miing >> ¸÷Î»¿ÉÒÔÒ»ÆğÀ´°ïÃ¦[m
+[21:28:44] [Server thread/INFO]: Dong_Miing >> ÇïÀæ¸à[m
+[21:28:45] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[21:28:48] [Server thread/INFO]: Shallow_dream_ >> ÎÒ¶Ü¹¹±»ÑÒ½¬ÉÕÁË....[m
+[21:28:50] [Server thread/WARN]: hence_tape moved too quickly! -0.004613775310446044,-0.8193052511814045,-18.733291529517004
+[21:28:50] [Server thread/INFO]: Dong_Miing >> °ÑÕâ¸öÏ®»÷Ëş¸ãÍê[m
+[21:28:56] [Server thread/INFO]: Dong_Miing >> ÈËÈËÏí¸£[m
+[21:29:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °¡Õâ[m
+[21:29:10] [Server thread/INFO]: Dong_Miing >> ÈÃÄã¸üË¬¡áµÄÑ¹Õ¥´åÃñ[m
+[21:29:19] [Server thread/INFO]: Dong_Miing >> Õ¥¡á¸ÉËûÃÇ[m
+[21:29:41] [Server thread/INFO]: Dong_Miing >> ÈÃËûÃÇ³¢µ½Éç»áµÄÏÕ¶ñ¡á[m
+[21:29:45] [Server thread/INFO]: Dong_Miing >> ([m
+[21:29:57] [Server thread/INFO]: xxuurruuii lost connection: Disconnected
+[21:29:57] [Server thread/INFO]: xxuurruuii left the game
+[21:30:07] [Server thread/INFO]: hence_tape >> »½Ä§ÕßÄØ[m
+[21:30:11] [Server thread/INFO]: Dong_Miing >> ?[m
+[21:30:32] [Server thread/INFO]: Dong_Miing >> ¡£¡£¡£[m
+[21:30:36] [Server thread/INFO]: Dong_Miing >> Ã»¸ãºÃ[m
+[21:30:40] [Server thread/INFO]: Shallow_dream_ lost connection: Disconnected
+[21:30:40] [Server thread/INFO]: Shallow_dream_ left the game
+[21:30:49] [Server thread/INFO]: Dong_Miing >> ÏÖÔÚ[m
+[21:30:53] [Server thread/INFO]: Dong_Miing >> ÒıÏ®»÷5[m
+[21:31:06] [Server thread/INFO]: hence_tape >> Õâ[m
+[21:31:10] [Server thread/INFO]: hence_tape >> ÓĞÉ¶ÄÑµÃ[m
+[21:31:14] [Server thread/INFO]: Dong_Miing >> ÄãÒ²°ï¸öÃ¦ßÂ[m
+[21:31:19] [Server thread/INFO]: Dong_Miing >> Ï®»÷5²»ºÃ´ò[m
+[21:31:24] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ºÃ´ó[m
+[21:31:25] [Server thread/INFO]: Dong_Miing >> »½Ä§ÕßÒª»îµÄ[m
+[21:31:43] [Server thread/INFO]: Dong_Miing >> ¡£-¡£[m
+[21:31:56] [Server thread/INFO]: Dong_Miing >> ÄãÃÇÈ·¶¨²»»áÎóÉË£¿[m
+[21:32:11] [Server thread/INFO]: hence_tape >> ¶¼ĞĞ[m
+[21:32:19] [Server thread/INFO]: hence_tape >> ×Ü¹²×¥3Ö»¾ÍĞĞ[m
+[21:32:27] [Server thread/INFO]: Dong_Miing >> Ñ¹²»×¡[m
+[21:32:28] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 3?[m
+[21:32:32] [Server thread/INFO]: Dong_Miing >> µ½Ê±ºò[m
+[21:32:38] [Server thread/INFO]: Dong_Miing >> Ë¢³öÀ´Ò»¸ö»½Ä§[m
+[21:32:38] [Server thread/INFO]: hence_tape >> aw[m
+[21:32:42] [Server thread/INFO]: Dong_Miing >> Ö±½ÓGG[m
+[21:32:43] [Server thread/INFO]: hence_tape >> Ë­¹ıÀ´¿´¿´ÎÒ[m
+[21:32:46] [Server thread/INFO]: Dong_Miing >> Òª4¸ö[m
+[21:32:47] [Server thread/INFO]: hence_tape >> ÎÒË¯µØ°å[m
+[21:32:49] [Server thread/INFO]: hence_tape >> ¹ş¹ş¹ş¹ş[m
+[21:32:56] [Server thread/INFO]: Dong_Miing >> ÅÜ×Å[m
+[21:32:59] [Server thread/INFO]: Dong_Miing >> È»ºó[m
+[21:33:00] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Õı³£[m
+[21:33:06] [Server thread/INFO]: Dong_Miing >> µã´²[m
+[21:33:17] [Server thread/INFO]: Dong_Miing >> ÎÒ»¹Ë¯¹ıµØÓüÃÅ£¨[m
+[21:33:29] [Server thread/INFO]: hence_tape >> Ï®»÷ÄØ[m
+[21:33:35] [Server thread/INFO]: Dong_Miing >> Ë¯¡á¹ı[m
+[21:33:50] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ohh[m
+[21:34:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Îßºş[m
+[21:34:07] [Server thread/INFO]: Dong_Miing >> ºÃÁË£¿[m
+[21:34:22] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> °´qÊÍ·Å½£Æø[m
+[21:34:35] [Server thread/INFO]: Dong_Miing >> Ãî°¡[m
+[21:34:46] [Server thread/INFO]: Dong_Miing >> Öî¸ğÁÁÔÚºÎ´¦£¿[m
+[21:34:51] [Server thread/INFO]: Dong_Miing >> Çó¸öÓê[m
+[21:34:53] [Server thread/INFO]: Dong_Miing >> ([m
+[21:34:58] [Server thread/INFO]: hence_tape >> Ê²Ã´Ê±ºò¹ıÀ´ÒıÏ®»÷[m
+[21:35:03] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> À´ÁË[m
+[21:35:24] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ë¢¸ö²»Ïê5¾ÍÀ´[m
+[21:35:48] [Server thread/INFO]: Dong_Miing >> ÓĞÊ²Ã´É§²Ù×÷[m
+[21:35:55] [Server thread/INFO]: Dong_Miing >> ¿ÉÒÔ¸ãµÃÂÓ¶áÕß[m
+[21:36:00] [Server thread/INFO]: Dong_Miing >> Óû°Õ²»ÄÜÂğ£¿[m
+[21:36:01] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿´tape±íÑİ[m
+[21:36:06] [Server thread/INFO]: hence_tape issued server command: /co i
+[21:36:09] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[21:36:11] [Server thread/INFO]: hence_tape issued server command: /co i
+[21:36:12] [Server thread/INFO]: hence_tape >> az[m
+[21:36:32] [Server thread/INFO]: Dong_Miing >> Óû°Õ²»ÄÜ¡á[m
+[21:36:33] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»Ïê3[m
+[21:36:40] [Server thread/INFO]: hence_tape >> Ï®»÷Æ½Ì¨µÄÌú¹ì¸ÉÉ¶ÓÃµÄ[m
+[21:36:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»Ïê4[m
+[21:36:52] [Server thread/INFO]: Dong_Miing >> Òı»½Ä§µÄ[m
+[21:36:59] [Server thread/INFO]: Dong_Miing >> »½Ä§ÕßÒªµôµ½ÏÂÃæ[m
+[21:37:02] [Server thread/INFO]: hence_tape >> ÎÒ¾õµÃ[m
+[21:37:09] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»Ïê5[m
+[21:37:11] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> get[m
+[21:37:16] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÀ´ÁË£¡[m
+[21:37:24] [Server thread/INFO]: hence_tape >> ²»Ïê5ÓĞ¼¸²¨[m
+[21:37:34] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> 8°É[m
+[21:37:37] [Server thread/INFO]: hence_tape >> ok[m
+[21:37:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> À´ÁËÀ´ÁË[m
+[21:38:48] [Server thread/INFO]: hence_tape >> ÈËÄØ[m
+[21:38:51] [Server thread/INFO]: Dong_Miing >> en?[m
+[21:38:58] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¿¿ÄÇÃ´½ü»á²»»á²»Ë¢ÁË[m
+[21:39:16] [Server thread/INFO]: Dong_Miing >> woc?[m
+[21:39:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[21:39:21] [Server thread/INFO]: Dong_Miing >> 1¸ö£¿[m
+[21:39:27] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÔÚÄÄ[m
+[21:39:34] [Server thread/INFO]: hence_tape >> µôË®ÀïÁËÓ¦¸Ã[m
+[21:39:43] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÕæÊÇ[m
+[21:39:43] [Server thread/INFO]: Dong_Miing >> ok[m
+[21:40:20] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> tape´óÕ½²»Ïê5[m
+[21:40:27] [Server thread/INFO]: hence_tape >> Õæ·³[m
+[21:40:30] [Server thread/INFO]: hence_tape >> Ï¹ÅÜ[m
+[21:40:36] [Server thread/INFO]: hence_tape >> ºÃºÃÕ¾×Å²»ĞĞ[m
+[21:40:47] [Server thread/INFO]: hence_tape >> ¸øµãÂÜ²·[m
+[21:40:48] [Server thread/INFO]: Dong_Miing >> ºÃºÃÕ¾×Å¡á[m
+[21:40:57] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÈ¥ÏÂÃæ°É[m
+[21:41:11] [Server thread/INFO]: hence_tape >> ¸øµãÂÜ²·Ñ½[m
+[21:41:19] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmm[m
+[21:41:21] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ÎÒÔÚÏÂÃæ[m
+[21:42:02] [Server thread/INFO]: hence_tape >> xiexie[m
+[21:42:22] [Server thread/INFO]: Dong_Miing >> woc[m
+[21:42:26] [Server thread/INFO]: Dong_Miing >> ËÙË¢[m
+[21:43:02] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ²»À¢ÊÇtape[m
+[21:43:05] [Server thread/INFO]: Dong_Miing >> µÚ¼¸²¨ÁË£¿[m
+[21:43:06] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> yyds[m
+[21:43:35] [Server thread/INFO]: Dong_Miing >> µÚ¼¸²¨ÁË£¿[m
+[21:43:44] [Server thread/INFO]: hence_tape >> ¶¯ÊÕ[m
+[21:43:52] [Server thread/INFO]: Dong_Miing >> ÃüÃû[m
+[21:43:53] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Èı¸ö[m
+[21:43:57] [Server thread/INFO]: Dong_Miing >> °¡Õâ[m
+[21:44:27] [Server thread/INFO]: hence_tape lost connection: Disconnected
+[21:44:27] [Server thread/INFO]: hence_tape left the game
+[21:44:44] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[21:44:48] [Server thread/INFO]: Dong_Miing >> 3¸ö£¿[m
+[21:44:52] [Server thread/INFO]: Dong_Miing >> É±ÁË[m
+[21:44:56] [Server thread/INFO]: Dong_Miing >> ÍËµôÖØÀ´[m
+[21:44:59] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> emmmm[m
+[21:45:15] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> »¹Ê£Ò»¸ö[m
+[21:45:31] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ËÀÍêÁË[m
+[21:45:42] [Server thread/INFO]: Dong_Miing >> ÄÎË¹£¨[m
+[21:45:46] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ?[m
+[21:45:58] [Server thread/INFO]: Dong_Miing >> ÒªËÄ¸öÒ»Æğ²ÅĞĞ¡£¡£¡£[m
+[21:46:02] [Server thread/INFO]: Dong_Miing >> ÄÕ¹í·¹[m
+[21:46:05] [Server thread/INFO]: Dong_Miing >> ·³[m
+[21:46:18] [Server thread/INFO]: Dong_Miing >> tapeÄØ£¿[m
+[21:46:22] [Server thread/INFO]: Dong_Miing >> ????[m
+[21:46:26] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> Ôç¾ÍÃ»ÁË[m
+[21:46:49] [User Authenticator #17/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[21:46:49] [Server thread/INFO]: adhesive_tape[/127.0.0.1:65174] logged in with entity id 53480 at ([world]2656.5418975380608, 63.0, -461.292760550327)
+[21:46:55] [Server thread/INFO]: Dong_Miing >> tape?[m
+[21:46:59] [Server thread/INFO]: Dong_Miing >> ÕâÁ½¸ö£¿[m
+[21:47:02] [Server thread/INFO]: Dong_Miing >> ÄÄ¸öÊÇ£¿[m
+[21:47:04] [Server thread/INFO]: Dong_Miing >> ±¾ÈË[m
+[21:47:07] [Server thread/INFO]: Dong_Miing >> .-.[m
+[21:47:07] [Server thread/INFO]: [0;32;1m<É­Óï²ÎÉÏ>[0;37;1m sen_lv_ling_ >> ¶¼ÊÇ[m
+[21:47:13] [Server thread/INFO]: Dong_Miing >> ´óĞ¡ºÅ£¿[m
+[21:47:29] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[21:47:29] [Server thread/INFO]: sen_lv_ling_ left the game
+[21:47:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×¥×¡ÁË£¿[m
+[21:47:56] [Server thread/INFO]: Dong_Miing >> emi[m
+[21:48:08] [Server thread/INFO]: Dong_Miing >> Ü³[m
+[21:48:14] [Server thread/INFO]: Dong_Miing >> ÕæÕıµÄÀ´ÁË[m
+[21:48:17] [Server thread/INFO]: Dong_Miing >> ×îºóÒ»²¨[m
+[21:48:21] [Server thread/INFO]: Dong_Miing >> ¸Õ¸Õ²»ÊÇ[m
+[21:48:28] [Server thread/INFO]: Dong_Miing >> ¸ãµãÃüÃûÅÉÀ´[m
+[21:48:30] [Server thread/INFO]: Dong_Miing >> ÅÆ×Ó[m
+[21:48:33] [Server thread/INFO]: Dong_Miing >> ×¼±¸¿ª¸ã[m
+[21:48:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ã»ÓĞa[m
+[21:48:36] [Server thread/INFO]: Dong_Miing >> Âò[m
+[21:48:44] [Server thread/INFO]: Dong_Miing >> ÀÏËşÀïÒ»¶Ñ[m
+[21:48:45] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[21:48:47] [Server thread/INFO]: Dong_Miing >> ÂÌ±¦Ê¯[m
+[21:48:53] [Server thread/INFO]: Dong_Miing >> º£¾§ÓĞµÄÊÇ¾«ĞŞ[m
+[21:48:57] [Server thread/INFO]: Dong_Miing >> ÅŞ[m
+[21:48:59] [Server thread/INFO]: Dong_Miing >> ²»ÊÇ[m
+[21:49:05] [Server thread/INFO]: Dong_Miing >> Í¼Êé¹ÜÀíÔ±[m
+[21:49:23] [Server thread/INFO]: Dong_Miing >> senlvÃ»ÁË£¿[m
+[21:49:33] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»Öª[m
+[21:49:36] [Server thread/INFO]: Dong_Miing >> Ë³±ãÄÃµãÒşÉíÒ©Ë®[m
+[21:49:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÉÔµÈ[m
+[21:49:57] [Server thread/INFO]: Dong_Miing >> ol[m
+[21:49:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÏÈµÈ»á[m
+[21:49:58] [Server thread/INFO]: Dong_Miing >> ok[m
+[21:50:10] [Server thread/INFO]: Dong_Miing >> Õâ¸öÎÒ²»È·¶¨ÊÇ²»ÊÇ4¸ö[m
+[21:50:15] [Server thread/INFO]: Dong_Miing >> Ã»Áé»ê³öÇÏ[m
+[21:51:12] [Server thread/INFO]: Dong_Miing >> Õâ¸öºÃ·³[m
+[21:51:17] [Server thread/INFO]: Dong_Miing >> ËûÃÇÅÜÀ´ÅÜÈ¥[m
+[21:51:23] [Server thread/INFO]: Dong_Miing >> ÔÙ¼ÓÉÏ·şÎñÆ÷ÑÓ³Ù¸ß[m
+[21:51:34] [Server thread/INFO]: Dong_Miing >> ²»É±µôÆäËûµÄ²»ºÃ¸ã[m
+[21:51:42] [Server thread/INFO]: Dong_Miing >> ÓÖÅÂÎóÉË[m
+[21:51:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»»Å[m
+[21:51:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ´ıÎÒ¸ÉËû[m
+[21:51:57] [Server thread/INFO]: Dong_Miing >> Ãî°¡[m
+[21:52:06] [Server thread/INFO]: Dong_Miing >> ¾«×¼´ò¼¦¡á[m
+[21:52:08] [Server thread/INFO]: Dong_Miing >> ([m
+[21:52:17] [Server thread/INFO]: Dong_Miing >> ÄãÊÇÀÏPVPÍæ¼Ò£¿[m
+[21:52:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»ÊÇ[m
+[21:52:24] [Server thread/INFO]: Dong_Miing >> emmm[m
+[21:52:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[21:52:45] [Server thread/INFO]: Dong_Miing >> »½Ä§²»ÄÜÉ±µô[m
+[21:53:13] [Server thread/INFO]: Dong_Miing >> ÄãÏÖÔÚÔÚÄÄ£¿[m
+[21:53:16] [Server thread/INFO]: Dong_Miing >> ÎÒË¯¾õ[m
+[21:53:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´ÁË[m
+[21:53:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> µØÓü[m
+[21:53:30] [Server thread/INFO]: Dong_Miing >> zzz'[m
+[21:53:38] [Server thread/INFO]: Dong_Miing >> ok[m
+[21:53:57] [Server thread/INFO]: Dong_Miing >> senlv¿ÉÒÔÉÏÏßÂğ£¿[m
+[21:54:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ò©Ë®[m
+[21:54:05] [Server thread/INFO]: Dong_Miing >> ÎÒQQ¹ØÁË¡£-[m
+[21:54:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÈÃÎÒÏÈ°Ñ×æ°²ÊŞ¸ÉËÀ[m
+[21:54:40] [Server thread/INFO]: Dong_Miing >> ok[m
+[21:55:06] [Server thread/INFO]: Dong_Miing >> ´æµµÃ»£¿[m
+[21:55:12] [Server thread/INFO]: Dong_Miing >> ´²[m
+[21:55:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸ÉËÀÒ»¸ö»½Ä§Õß[m
+[21:55:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿¿[m
+[21:55:20] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[21:55:29] [Server thread/INFO]: Dong_Miing >> »¹ÓĞ¾ÈÂğ£¿[m
+[21:55:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÒşÉíÒ©Ë®ÉÏÈ¥¸É[m
+[21:55:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÀ´[m
+[21:55:54] [Server thread/INFO]: Dong_Miing was slain by Ravager
+[21:56:02] [Server thread/INFO]: Dong_Miing fell from a high place
+[21:56:08] [Server thread/INFO]: Dong_Miing >> az?[m
+[21:56:16] [Server thread/INFO]: Dong_Miing >> ÒşÉíÃ»ÓÃ£¿[m
+[21:56:20] [Server thread/INFO]: Dong_Miing was slain by Ravager
+[21:56:30] [Server thread/INFO]: Dong_Miing was slain by Ravager
+[21:56:43] [Server thread/INFO]: Dong_Miing was slain by Vex
+[21:56:49] [Server thread/INFO]: Dong_Miing was slain by Vex
+[21:57:03] [Server thread/INFO]: Dong_Miing >> ????[m
+[21:57:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒ°Ñ´²ÍÚÁË[m
+[21:57:17] [Server thread/INFO]: Dong_Miing >> ²İ¡£¡£¡£[m
+[21:57:32] [Server thread/INFO]: Dong_Miing >> ÎÒ²»ÖªµÀ»Ø¼ÒµÄÂ·¡£-¡£[m
+[21:58:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> [name:a, x:1368, y:138, z:-1354, dim:minecraft:overworld][m
+[22:00:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ö»ÓĞÒ»Ö»ÁË[m
+[22:00:10] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[22:00:25] [Server thread/INFO]: Dong_Miing >> ÎÒ¾ÍËµÄÑ¸ã°É[m
+[22:00:31] [Server thread/INFO]: Dong_Miing >> È»ºó[m
+[22:00:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»Ó¦¸Ã¸ã²»Ïê5[m
+[22:00:38] [Server thread/INFO]: Dong_Miing >> ÒşÉíÎªÉ¶¶¼Ã»ÓÃµÄ£¿[m
+[22:00:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÕâÃ´¶àÈËÕæ²»ºÃ¸ã[m
+[22:00:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»Ïê1¾ÍĞĞÁË[m
+[22:00:55] [Server thread/INFO]: Dong_Miing >> ²»ĞĞ[m
+[22:00:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ò»´Î×¥Ò»Ö»ßÂ[m
+[22:01:02] [Server thread/INFO]: Dong_Miing >> Ò²ÊÇÅ¶[m
+[22:01:05] [Server thread/INFO]: Dong_Miing >> ¾ÍÊÇ¡£¡£¡£[m
+[22:01:12] [Server thread/INFO]: Dong_Miing >> ÎÒ²»Ö±´ï[m
+[22:01:15] [Server thread/INFO]: Dong_Miing >> ÖªµÀ[m
+[22:01:18] [Server thread/INFO]: Dong_Miing >> ÔõÃ´¸ã[m
+[22:01:31] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mDrops fixed[m
+[22:01:36] [Server thread/INFO]: Dong_Miing >> ¸ãµãÃüÃûÅÆ[m
+[22:01:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÈËÉÙºÃöè°¡[m
+[22:01:45] [Server thread/INFO]: Dong_Miing >> en[m
+[22:01:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÈË¶àÅÜÀ´ÅÜÈ¥ÅÂÎóÉË[m
+[22:02:15] [Server thread/INFO]: Dong_Miing >> Ê£ÏÂµÄÄã¿´ÄÜ²»ÄÜ°ÑÄÇÒ»¸ö¸ãµô[m
+[22:02:21] [Server thread/INFO]: Dong_Miing >> ×°»õ[m
+[22:02:50] [Server thread/INFO]: Dong_Miing >> ÓĞÅÆ×ÓÂğ£¿[m
+[22:02:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> you[m
+[22:03:10] [Server thread/INFO]: Dong_Miing >> ×îºóÒ»¸ö×°»õ[m
+[22:04:06] [Server thread/INFO]: Dong_Miing fell from a high place
+[22:04:12] [Server thread/INFO]: Dong_Miing >> Ü³[m
+[22:04:18] [Server thread/INFO]: Dong_Miing >> °ïÃ¦½£ÏÀ[m
+[22:04:25] [Server thread/INFO]: Dong_Miing >> ¼ñ[m
+[22:04:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄÄ[m
+[22:04:47] [Server thread/INFO]: Dong_Miing >> ¶şÂ¥Æ½Ì¨[m
+[22:04:56] [Server thread/INFO]: Dong_Miing >> Äãµ×ÏÂ[m
+[22:05:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[22:05:15] [Server thread/INFO]: Dong_Miing >> ok[m
+[22:05:26] [Server thread/INFO]: Dong_Miing >> laile[m
+[22:05:34] [User Authenticator #18/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[22:05:34] [Server thread/INFO]: Jichen233[/127.0.0.1:65326] logged in with entity id 56791 at ([world]1365.699999988079, 115.0, -1338.237500011921)
+[22:05:44] [Server thread/INFO]: Dong_Miing >> À´°ïÃ¦£¨[m
+[22:05:57] [Server thread/INFO]: Dong_Miing >> Jichen233[m
+[22:06:25] [Server thread/INFO]: Dong_Miing >> Ö»Ê£ÏÂÒ»¸ö»½Ä§Âğ£¿[m
+[22:06:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en[m
+[22:06:34] [Server thread/INFO]: adhesive_tape issued server command: /give adhesive_tape minecraft:bucket
+[22:06:41] [Server thread/INFO]: Dong_Miing >> ×°±¸¸øÎÒ[m
+[22:06:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÉÏÀ´[m
+[22:07:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> »¹ÓĞÉ¶[m
+[22:07:32] [Server thread/INFO]: Dong_Miing >> ½££¿[m
+[22:07:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÅÂ²»ÊÇµôË®ÀïÁË[m
+[22:07:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ã»¼ûµ½[m
+[22:07:51] [Server thread/INFO]: Dong_Miing >> az?[m
+[22:08:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[22:09:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[22:09:25] [Server thread/INFO]: Dong_Miing >> en[m
+[22:09:28] [Server thread/INFO]: Dong_Miing >> ÃüÃû[m
+[22:09:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m
+[22:09:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×¥ÁËÔÙËµ[m
+[22:11:22] [Server thread/INFO]: Dong_Miing >> µÃÁË[m
+[22:11:25] [Server thread/INFO]: Dong_Miing >> ÃüÃû[m
+[22:11:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[22:11:56] [Server thread/INFO]: Dong_Miing >> ÌÓÀëÇø¿é£¿[m
+[22:12:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> µ«ÊÇÎŞ·¨´¥·¢Ï®»÷[m
+[22:12:09] [Server thread/INFO]: Dong_Miing >> °¡Õâ£¿[m
+[22:12:18] [Server thread/INFO]: Dong_Miing >> ÌÓÀëÇø¿é£¿[m
+[22:12:43] [Server thread/INFO]: Dong_Miing >> Á©¿ªÁËÂğ£¿[m
+[22:12:49] [Server thread/INFO]: Dong_Miing >> Àë¿ª£¿[m
+[22:12:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒ×ßÁË[m
+[22:13:04] [Server thread/INFO]: Dong_Miing >> az?[m
+[22:13:11] [Server thread/INFO]: Dong_Miing >> ÏÂÏß£¿[m
+[22:13:21] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[22:13:21] [Server thread/INFO]: adhesive_tape left the game
+[22:13:26] [Server thread/INFO]: Dong_Miing lost connection: Disconnected
+[22:13:26] [Server thread/INFO]: Dong_Miing left the game
+[22:13:33] [User Authenticator #19/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[22:13:33] [Server thread/INFO]: Dong_Miing[/127.0.0.1:65400] logged in with entity id 58429 at ([world]1545.2637920332472, 92.0, -1096.5184692825942)
+[22:14:32] [User Authenticator #20/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[22:14:32] [Server thread/INFO]: adhesive_tape[/127.0.0.1:65420] logged in with entity id 59012 at ([world]1263.130340640082, 115.5, -1355.699541607274)
+[22:14:40] [Server thread/INFO]: Dong_Miing >> Ã»ÓÃ¡£¡£¡£[m
+[22:14:45] [Server thread/INFO]: Dong_Miing >> ÒªÔõÃ´¸ã¡£¡£¡£[m
+[22:14:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã°ÑjichenÀ­¹ıÀ´[m
+[22:14:57] [Server thread/INFO]: Jichen233 >> ?[m
+[22:15:06] [Server thread/INFO]: Dong_Miing >> en?[m
+[22:15:10] [Server thread/INFO]: Dong_Miing >> É¶ÒâË¼[m
+[22:15:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÈÃËû×ß¿ª[m
+[22:15:21] [Server thread/INFO]: Dong_Miing >> Jichen233[m
+[22:15:24] [Server thread/INFO]: Dong_Miing >> ÄãÔÚÄÄ£¿[m
+[22:15:37] [Server thread/INFO]: Jichen233 >> º£¾§[m
+[22:15:43] [Server thread/INFO]: Dong_Miing >> az?[m
+[22:16:12] [Server thread/INFO]: Dong_Miing >> Õ¦°ì£¿[m
+[22:16:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À­×ß[m
+[22:16:28] [Server thread/INFO]: Dong_Miing >> ÔõÃ´À­×ß£¿[m
+[22:16:35] [Server thread/INFO]: Dong_Miing >> À­×ßË­£¿[m
+[22:16:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> emmm[m
+[22:17:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À­´åÃñ·½±ãÒ»µã[m
+[22:17:14] [Server thread/INFO]: Dong_Miing >> Ê²Ã´ÒâË¼£¿[m
+[22:17:27] [Server thread/WARN]: Jichen233 moved wrongly!
+[22:17:35] [Server thread/INFO]: Dong_Miing >> °İÍĞ[m
+[22:17:40] [Server thread/INFO]: Dong_Miing >> ´åÃñ×°ÔØ[m
+[22:17:46] [Server thread/INFO]: Dong_Miing >> 0tºìÊ¯×°ÖÃÀï[m
+[22:17:53] [Server thread/INFO]: Dong_Miing >> À­×ßºÜÄÑ¸ã»ØÈ¥[m
+[22:18:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄÇÄã°Ñ»½Ä§ÕßÀ­×ß[m
+[22:18:10] [Server thread/INFO]: Dong_Miing >> emmm[m
+[22:18:13] [Server thread/INFO]: Dong_Miing >> ÕâÕ¦¸ã[m
+[22:18:13] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔÙÀ­»ØÀ´[m
+[22:18:57] [Server thread/INFO]: Dong_Miing >> Ã»ÁË£¡£¡[m
+[22:19:01] [Server thread/INFO]: Dong_Miing >> ×ĞÏ¸Ò»¿´[m
+[22:19:11] [Server thread/INFO]: Dong_Miing >> ÄãÏÖÊµÓĞÂğ£¿[m
+[22:19:13] [Server thread/INFO]: Dong_Miing >> ÏÔÊ¾[m
+[22:19:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ã»ÁË[m
+[22:19:30] [Server thread/INFO]: Dong_Miing >> ohhhhhhhhhhhhh[m
+[22:19:32] [Server thread/INFO]: Dong_Miing >> ÏÂÒ»²¨[m
+[22:19:42] [Server thread/INFO]: Dong_Miing >> Ë­È¥Òı£¿[m
+[22:19:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Äã[m
+[22:20:12] [Server thread/INFO]: Dong_Miing >> Huashuo[m
+[22:20:16] [Server thread/INFO]: Dong_Miing >> »°Ëµ[m
+[22:20:22] [Server thread/INFO]: Dong_Miing >> Äã¿´[m
+[22:20:28] [Server thread/INFO]: Dong_Miing >> ÄÇ¸öÊÓÆµÁËÂğ£¿[m
+[22:20:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> öè[m
+[22:20:44] [Server thread/INFO]: Dong_Miing >> CCSµÄ[m
+[22:20:46] [Server thread/INFO]: Dong_Miing >> en[m
+[22:20:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> e[m
+[22:20:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²î²»¶à[m
+[22:20:59] [Server thread/INFO]: Dong_Miing >> ¿´ÁË£¿[m
+[22:21:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿´²»¿´¶¼²î²»¶à[m
+[22:21:11] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[22:21:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Õâ¸öºÃÏñ¿´ÁË[m
+[22:21:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ô­À´ÄÇ¸ö¸ü¿¨[m
+[22:21:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸Ï½ôÒıÏ®»÷[m
+[22:21:54] [Server thread/INFO]: Dong_Miing >> Ï®»÷1[m
+[22:22:05] [Server thread/INFO]: Dong_Miing >> À´ÁË[m
+[22:22:26] [Server thread/INFO]: Dong_Miing >> ºÃÁË[m
+[22:22:29] [Server thread/INFO]: Dong_Miing >> Äã¾ÍÎª[m
+[22:22:34] [Server thread/INFO]: Dong_Miing >> ¾ÍÎ»[m
+[22:23:47] [Server thread/INFO]: Dong_Miing >> Õâ´Î¸ã¼¸¸ö£¿[m
+[22:24:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿´Çé¿ö[m
+[22:24:13] [Server thread/INFO]: Dong_Miing >> ÎÒ¿ìÒªÏÂÏßÁË[m
+[22:24:16] [Server thread/INFO]: Dong_Miing >> ¾¡¿ì[m
+[22:24:32] [Server thread/INFO]: Jichen233 >> ÖÕÓÚÅªºÃÁËqwq[m
+[22:24:40] [Server thread/INFO]: Dong_Miing >> °ë×Ô¶¯£¿[m
+[22:24:45] [Server thread/INFO]: Jichen233 >> ÏÖÔÚÎÒÒª×öÊ²Ã´[m
+[22:24:47] [Server thread/INFO]: Jichen233 >> ²»ÊÇ[m
+[22:26:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Éè×¼µã[m
+[22:26:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ±ğ°Ñ¸ãËÀÁË[m
+[22:26:12] [Server thread/INFO]: Dong_Miing >> Ê±¼ä[m
+[22:26:14] [Server thread/INFO]: Dong_Miing >> 2020Äê9ÔÂ5ÈÕ22:39:42[m
+[22:26:32] [Server thread/INFO]: Dong_Miing >> ÕâÊÇ[m
+[22:26:35] [Server thread/INFO]: Dong_Miing >> ×îºóÒ»²¨£¿[m
+[22:27:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> j¾ÍÎ»ÁË[m
+[22:27:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ËûÃ»ÑªÁË[m
+[22:27:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> jichenÄÃÖÎÁÆÒ©Ë®À´[m
+[22:28:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> º©Åú£¬´ò²»ÖĞÎÒ[m
+[22:29:09] [Server thread/INFO]: Dong_Miing lost connection: Disconnected
+[22:29:09] [Server thread/INFO]: Dong_Miing left the game
+[22:29:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ò©Ë®ºÃÁËÃ»[m
+[22:29:37] [Server thread/INFO]: Jichen233 >> ÔÚÄÃ[m
+[22:29:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ec4444f[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:49171) lost connection: Disconnected
+[22:30:15] [User Authenticator #22/INFO]: Disconnecting com.mojang.authlib.GameProfile@189bd39f[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:49175): Authentication servers are down. Please try again later, sorry!
+[22:30:15] [User Authenticator #22/ERROR]: Couldn't verify username because servers are unavailable
+[22:30:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@189bd39f[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:49175) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:30:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@30b19611[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:49183) lost connection: Disconnected
+[22:30:47] [User Authenticator #24/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[22:30:47] [Server thread/INFO]: Dong_Miing[/127.0.0.1:49187] logged in with entity id 64564 at ([world]2120.6509203381434, 56.579420333728834, -1555.8374706084994)
+[22:31:45] [Server thread/INFO]: Dong_Miing >> Ü³[m
+[22:31:50] [Server thread/INFO]: Dong_Miing >> Ë­·¢¸ö×ø±ê[m
+[22:31:54] [Server thread/INFO]: Dong_Miing >> ÎÒÃÔÂ·ÁË¡£¡£¡£[m
+[22:32:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> [name:a, x:1368, y:138, z:-1354, dim:minecraft:overworld][m
+[22:32:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> È¥ÒıÏ®»÷[m
+[22:32:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸Ï½ô×öÍê[m
+[22:33:08] [Server thread/INFO]: Dong_Miing >> »¹´óÉùµã£¡[m
+[22:33:14] [Server thread/INFO]: Dong_Miing >> º£µ×Ê¥µî[m
+[22:33:21] [Server thread/INFO]: Jichen233 >> az[m
+[22:33:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÒÔºóÔÙËµ[m
+[22:33:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÒıÏ®»÷[m
+[22:33:47] [Server thread/INFO]: Dong_Miing >> ok[m
+[22:33:55] [Server thread/INFO]: Dong_Miing >> 2100´ó¸Å·½Î»[m
+[22:34:04] [Server thread/INFO]: Dong_Miing >> Éºº÷º£+º£µ×Ê¥µî[m
+[22:34:24] [Server thread/INFO]: Dong_Miing >> ÄÇ¸öÃüÃûÃ»£¿[m
+[22:34:58] [Server thread/INFO]: Dong_Miing >> Íêµ°[m
+[22:35:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ï®»÷»¹Ã»½áÊø[m
+[22:35:03] [Server thread/INFO]: Dong_Miing >> ÄãÈ¥Òı°É[m
+[22:35:09] [Server thread/INFO]: Dong_Miing >> ÎÒ¹ÒÒ»»á»ú[m
+[22:35:19] [Server thread/INFO]: Dong_Miing >> ÎÒĞ´µã×÷Òµ[m
+[22:35:22] [Server thread/INFO]: Dong_Miing >> 5min[m
+[22:35:30] [Server thread/INFO]: Dong_Miing >> ÒıºÅ½ĞÎÒ[m
+[22:35:32] [Server thread/INFO]: Dong_Miing >> ºÃ[m
+[22:35:49] [Server thread/INFO]: Dong_Miing >> ¸¸Ä¸Òª¼ì²é×÷Òµ£¨[m
+[22:36:52] [Server thread/INFO]: Jichen233 >> Ë¢ÁËÒ»¸ö[m
+[22:37:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ææ¹Ö£¬Ï®»÷»¹Ã»½áÊø[m
+[22:38:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¶øÇÒ£¬»áÓĞÄÕ¹íÂ©³öÀ´[m
+[22:38:35] [Server thread/INFO]: Dong_Miing >> Ã»ÁË[m
+[22:38:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÕâÑùÏÂÈ¥Ìú¿şÀÜ³ÙÔçÒ©Íè[m
+[22:39:03] [Server thread/INFO]: Dong_Miing >> ²»»á[m
+[22:39:39] [Server thread/INFO]: Dong_Miing >> Jichen233[m
+[22:39:42] [Server thread/INFO]: Jichen233 >> ?[m
+[22:39:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÕâÔõÃ´ÒıÕâ±ßÀ´ÁË[m
+[22:40:00] [Server thread/INFO]: Dong_Miing >> ÄãÏÖÔÚ¶òÔË¼¸£¿[m
+[22:40:10] [Server thread/INFO]: Dong_Miing >> ÎÒÃ»Òı¡£¡£¡£[m
+[22:40:13] [Server thread/INFO]: Jichen233 >> 5[m
+[22:40:20] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[22:40:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿´×¼µã£¬±ğ°Ñ»½Ä§Õß¸ãËÀ[m
+[22:40:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Òª»î×½[m
+[22:40:37] [Server thread/INFO]: Dong_Miing >> £¿[m
+[22:40:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓÃ¸«Í·´ò[m
+[22:41:19] [Server thread/INFO]: Jichen233 >> ÏÖÔÚÊÇÉÏÈ¥Âğ[m
+[22:41:41] [Server thread/INFO]: Dong_Miing >> °¡Õâ[m
+[22:41:56] [Server thread/INFO]: Dong_Miing >> ĞÂµÄÏ®»÷ËşÓĞÈËÂğ£¿[m
+[22:42:00] [Server thread/INFO]: Jichen233 >> ²İ[m
+[22:42:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ã»ÈË[m
+[22:45:45] [Server thread/INFO]: Dong_Miing was slain by Vex
+[22:45:49] [Server thread/INFO]: Jichen233 >> az[m
+[22:45:57] [Server thread/INFO]: adhesive_tape was slain by Vex
+[22:46:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m
+[22:46:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÕâÒıµÄ¶àÉÙ¼¶µÄÏ®»÷[m
+[22:46:26] [Server thread/INFO]: Jichen233 >> ºÃÏñÊÇ5...[m
+[22:46:55] [Server thread/INFO]: Dong_Miing >> ÎÒ£¬£¬£¬£¬[m
+[22:47:00] [Server thread/INFO]: Dong_Miing >> ÎÒÊÇÔÚµØÓü[m
+[22:47:03] [Server thread/INFO]: Dong_Miing >> ÔõÃ´ËÀµÄ£¿[m
+[22:47:28] [Server thread/INFO]: Dong_Miing >> Ë­È¥ÉÚÕ¾¸ã¸öÏ®»÷1[m
+[22:47:36] [Server thread/INFO]: Dong_Miing >> ¶¼Àë¿ªÄÇ¸öÉ¶[m
+[22:47:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÏÈ¼ı[m
+[22:47:54] [Server thread/INFO]: Dong_Miing >> Ï®»÷ËşÓĞÈËÂğ£¿[m
+[22:48:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ñÊ¬Ìå[m
+[22:48:12] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[22:48:36] [Server thread/INFO]: Dong_Miing >> ÄãÃÇ¸Õ¸ÕÒıÁË£¿[m
+[22:48:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔõÃ´ËµÄØ[m
+[22:49:10] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔÚ¾ÉËşÒõµÄ[m
+[22:49:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> È»ºóÌ«À÷º¦ÁË[m
+[22:49:17] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ±»¸ÉËÀÁË[m
+[22:49:21] [Server thread/INFO]: Dong_Miing >> emmmmm[m
+[22:49:26] [Server thread/INFO]: Dong_Miing >> ºÃÏñ[m
+[22:49:42] [Server thread/INFO]: Dong_Miing >> Ó°Ïìµ½ÁË[m
+[22:49:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄÕ¹íÅÜµ½µØÓü°ÑÄã¸ÉËÀ¶î[m
+[22:49:53] [Server thread/INFO]: Dong_Miing >> ĞÂµÄ[m
+[22:50:04] [Server thread/INFO]: Dong_Miing >> ÏÖÔÚ±ä³ÉÊ£Óà2¸ö[m
+[22:50:26] [Server thread/INFO]: Dong_Miing >> Ã»ÈËÔÚÏ®»÷ËûÁË°É[m
+[22:50:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> wÅ¶[m
+[22:50:40] [Server thread/INFO]: Dong_Miing >> ÈÃËûË¢ĞÂ[m
+[22:50:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> en[m
+[22:51:09] [Server thread/INFO]: Jichen233 >> ÎÒÒªÁïÁËqwq[m
+[22:51:14] [Server thread/INFO]: Dong_Miing >> 886[m
+[22:51:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> 88#[m
+[22:51:25] [Server thread/INFO]: Jichen233 >> tape¸«×ÓÒª»¹ÄãÂğ[m
+[22:51:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»»¹Ò²ĞĞ[m
+[22:51:34] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎŞËùÎ½[m
+[22:51:38] [Server thread/INFO]: Jichen233 >> az[m
+[22:51:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ËÍÄãºÃÁË[m
+[22:52:03] [Server thread/INFO]: Dong_Miing >> cao?[m
+[22:52:09] [Server thread/INFO]: Jichen233 >> Ğ»Ğ»ww[m
+[22:52:09] [Server thread/INFO]: Dong_Miing >> Ï®»÷½áÊø²»ÁË[m
+[22:52:24] [Server thread/INFO]: Jichen233 >> 886[m
+[22:52:25] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[22:52:25] [Server thread/INFO]: Jichen233 left the game
+[22:52:30] [Server thread/INFO]: Dong_Miing >> Ï®»÷½áÊø²»ÁË[m
+[22:52:45] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> °Ñ´åÃñÀ­×ß[m
+[22:53:33] [Server thread/INFO]: Dong_Miing >> ÄãÓĞÑÌ»¨Âğ[m
+[22:53:36] [Server thread/INFO]: Dong_Miing >> ÎÒÓÖÃ»ÁË[m
+[22:53:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> you[m
+[22:53:51] [Server thread/INFO]: Dong_Miing >> µÈ»á¸øµã[m
+[22:53:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ìú¹ì[m
+[22:54:02] [Server thread/INFO]: Dong_Miing >> ?[m
+[22:54:56] [Server thread/INFO]: Dong_Miing lost connection: Disconnected
+[22:54:56] [Server thread/INFO]: Dong_Miing left the game
+[22:56:21] [User Authenticator #25/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[22:56:21] [Server thread/INFO]: Dong_Miing[/127.0.0.1:49399] logged in with entity id 74330 at ([world]1285.3945422801073, 120.0, -1356.8154077320387)
+[22:56:47] [Server thread/INFO]: Dong_Miing >> ºÃÍ·ÌÛ[m
+[22:56:52] [Server thread/INFO]: Dong_Miing >> ¾ÍÊä²»ÁË[m
+[22:56:55] [Server thread/INFO]: Dong_Miing >> ½áÊø[m
+[23:00:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´¸ö»îÈû[m
+[23:00:40] [Server thread/INFO]: Dong_Miing >> ?[m
+[23:00:45] [Server thread/INFO]: Dong_Miing >> ÄãÒª¸ãµô´åÃñ£¿£¿£¿[m
+[23:02:17] [Server thread/INFO]: Dong_Miing >> Ã»ÓÃµÄ[m
+[23:02:20] [Server thread/INFO]: Dong_Miing >> ²»Ö¹ÕâÒ»¸ö[m
+[23:02:42] [Server thread/INFO]: Dong_Miing >> ÏÂÃæ»¹ÓĞ[m
+[23:03:07] [Server thread/INFO]: Dong_Miing >> ÇóµãÑÌ»¨[m
+[23:03:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> emmm[m
+[23:03:49] [Server thread/INFO]: Dong_Miing >> ÇóµãÑÌ»¨[m
+[23:03:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÈËÄØ[m
+[23:03:58] [Server thread/INFO]: Dong_Miing >> ĞÅ±ê[m
+[23:04:28] [Server thread/INFO]: Dong_Miing >> ²»ÒªÔÙ¸ãÁË[m
+[23:04:33] [Server thread/INFO]: Dong_Miing >> ´åÃñÊÇ²»¿ÉÄÜµÄ[m
+[23:04:38] [Server thread/INFO]: Dong_Miing >> ×îµ×ÏÂ»¹ÓĞÒ»¸ö[m
+[23:04:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×îµ×ÏÂÓ¦¸Ã³¬³ö·¶Î§ÁË[m
+[23:04:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> °ÑÕâ¸ö¸ã×ß¾ÍĞĞ[m
+[23:06:01] [Server thread/INFO]: Dong_Miing >> Ã»ÁË¡£¡£¡£¡£[m
+[23:06:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> emm[m
+[23:06:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÕâÅĞ¶¨[m
+[23:06:20] [Server thread/INFO]: Dong_Miing >> ÎÒ¶®ÁË[m
+[23:06:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓĞµãÃÔ[m
+[23:06:32] [Server thread/INFO]: Dong_Miing >> Äã²ÂÔõÃ´[m
+[23:06:37] [Server thread/INFO]: Dong_Miing >> Äã¿´ÓĞÉ¶²»Í¬[m
+[23:06:40] [Server thread/INFO]: Dong_Miing >> Ã»´í[m
+[23:06:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ì©°²ºÚÁË[m
+[23:06:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÌìºÚÁË[m
+[23:06:46] [Server thread/INFO]: Dong_Miing >> Ìú¿şÀÜÈ«ËÀÁË[m
+[23:06:50] [Server thread/INFO]: Dong_Miing >> Ìú¿şÀÜÈ«ËÀÁË[m
+[23:06:51] [Server thread/INFO]: Dong_Miing >> Ìú¿şÀÜÈ«ËÀÁË[m
+[23:06:59] [Server thread/INFO]: Dong_Miing >> ²»ÔÙ¹¥»÷[m
+[23:07:05] [Server thread/INFO]: Dong_Miing >> ¾ÍOK[m
+[23:07:09] [Server thread/INFO]: Dong_Miing >> ËùÒÔ[m
+[23:07:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ...[m
+[23:07:19] [Server thread/INFO]: Dong_Miing >> °ÑÆäËûµÄÒ²É±ÁË£¨[m
+[23:07:32] [Server thread/INFO]: Dong_Miing >> ´åÃñ¸ã»ØÈ¥[m
+[23:07:41] [Server thread/INFO]: Dong_Miing >> ÎÒ¹Ò»á»ú[m
+[23:07:49] [Server thread/INFO]: Dong_Miing >> ÒıºÅ½ĞÎÒ[m
+[23:07:51] [Server thread/INFO]: Dong_Miing >> ºÃ[m
+[23:08:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[23:11:48] [Server thread/INFO]: Dong_Miing >> ºÃÁËÂğqwq[m
+[23:12:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> mei[m
+[23:12:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[23:16:54] [Server thread/INFO]: Dong_Miing >> az?[m
+[23:17:44] [Server thread/INFO]: Dong_Miing >> adhesive_tape[m
+[23:17:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> em[m
+[23:18:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> °Ñ´åÃñ°á×ßÊÔÊÔ[m
+[23:19:05] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[23:19:07] [Server thread/INFO]: Dong_Miing >> ²»ÊÇ[m
+[23:19:12] [Server thread/INFO]: Dong_Miing >> ÈÃÁ½¸ö[m
+[23:19:17] [Server thread/INFO]: Dong_Miing >> ²»Òª·¢Æğ¹¥»÷[m
+[23:20:01] [Server thread/INFO]: Dong_Miing >> È¥µØÓü[m
+[23:20:05] [Server thread/INFO]: Dong_Miing >> Ğ¶ÔØÇø¿é[m
+[23:20:37] [Server thread/INFO]: Dong_Miing lost connection: Disconnected
+[23:20:37] [Server thread/INFO]: Dong_Miing left the game
+[23:20:46] [User Authenticator #26/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[23:20:46] [Server thread/INFO]: Dong_Miing[/127.0.0.1:49598] logged in with entity id 77822 at ([world_nether]159.59338655082178, 115.0, -157.59104681119308)
+[23:23:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> haole ?[m
+[23:23:34] [Server thread/INFO]: Dong_Miing >> emi[m
+[23:23:35] [Server thread/INFO]: Dong_Miing >> mei..[m
+[23:23:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãµÈµ½ÌìºÚÊÔÊÔ[m
+[23:24:28] [Server thread/INFO]: Dong_Miing >> Âé½´µÄÃÛÖ­ÅĞ¶Ï[m
+[23:24:31] [Server thread/INFO]: Dong_Miing >> ÅĞ¶¨[m
+[23:27:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> renne[m
+[23:27:56] [Server thread/INFO]: Dong_Miing >> ¹²Õò[m
+[23:28:01] [Server thread/INFO]: Dong_Miing >> Ô­[m
+[23:28:35] [User Authenticator #27/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[23:28:35] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:49684] logged in with entity id 79696 at ([world]1608.924332535731, 64.5, 878.911629669881)
+[23:28:45] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[23:29:11] [Server thread/INFO]: Dong_Miing >> ÏëÄî¹²ÕòÁË[m
+[23:29:16] [Server thread/INFO]: Dong_Miing >> ÀáÄ¿[m
+[23:29:43] [Server thread/INFO]: Dong_Miing >> ÄÇÊ±ºòÎÒ¸Õ½ø·şÎñÆ÷[m
+[23:29:55] [Server thread/INFO]: Dong_Miing >> Ò²ÊÇµÚÒ»´ÎÉî¶È½Ó´¥ºìÊ¯[m
+[23:30:16] [Server thread/INFO]: Dong_Miing >> ¹²ÕòÊÕÁôÁË¿ÉÁ¯ÎŞÖúµÄÎÒ[m
+[23:31:01] [Server thread/INFO]: Dong_Miing >> Ê±¸ô¶àÄê[m
+[23:31:11] [Server thread/INFO]: Dong_Miing >> ÀÏ»¬»ü¶¼µ±ÉÏ¹ÜÀíÁË[m
+[23:31:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÕâ»°ËµµÄ[m
+[23:31:31] [Server thread/INFO]: Dong_Miing >> Ç³ÔÆ¶¼×öºÃÁË[m
+[23:31:37] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[23:31:37] [Server thread/INFO]: Ttu_nnm left the game
+[23:32:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÊÂÎï×ÜÒªĞËÏû°¡[m
+[23:32:17] [Server thread/INFO]: Dong_Miing >> en[m
+[23:32:30] [Server thread/INFO]: Dong_Miing >> ÓĞµã»³Äî[m
+[23:33:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ±ğËµÁË[m
+[23:33:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ganjin×¥»½Ä§Õß[m
+[23:33:19] [Server thread/INFO]: Dong_Miing >> emmm[m
+[23:33:24] [Server thread/INFO]: Dong_Miing >> À´ÁË[m
+[23:33:44] [Server thread/INFO]: Dong_Miing >> ²»¹ıÔÚ¹²ÕòÊ±[m
+[23:33:49] [Server thread/INFO]: Dong_Miing >> ÎÒ¾Í²öº£¾§[m
+[23:33:52] [Server thread/INFO]: Dong_Miing >> ([m
+[23:34:25] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mDrops fixed[m
+[23:34:38] [Server thread/INFO]: Dong_Miing >> az?[m
+[23:35:05] [Server thread/INFO]: adhesive_tape issued server command: /time
+[23:35:05] [Server thread/INFO]: Dong_Miing >> ÎÒ****[m
+[23:35:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÏÂÀ´[m
+[23:35:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´ĞÅ±êÕâ[m
+[23:35:27] [Server thread/INFO]: Dong_Miing >> Âé½´µÄÅĞ¶Ï»úÖÆ°ÑÎÒÃÔ×¡ÁË[m
+[23:35:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔÙÏÂÀ´[m
+[23:36:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔÙÏÂÀ´[m
+[23:36:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÏÂ¿ÓÀïÀ´[m
+[23:37:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> e[m
+[23:37:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ã»ÓÃšG[m
+[23:38:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿´À´»¹ÊÇÒªÒÆ´åÃñ[m
+[23:38:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> À´¸ö¿ó³µ[m
+[23:40:13] [Server thread/INFO]: Dong_Miing >> Âé½«ÕâÊ²Ã´À¬»øÅĞ¶¨[m
+[23:40:59] [Server thread/INFO]: Dong_Miing >> ¿´ÎÒ£¨[m
+[23:41:07] [Server thread/INFO]: Dong_Miing >> Èı²æêª³èÎï£¨[m
+[23:43:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> az[m
+[23:43:25] [Server thread/INFO]: Dong_Miing >> ¹·ÊºÅĞ¶¨£¨È·ĞÅ[m
+[23:43:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> È·Êµ[m
+[23:44:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸É´àÏÈ°Ñ´åÃñÔËµ½µØÓüËãÁË[m
+[23:44:14] [Server thread/INFO]: Dong_Miing >> ²İ[m
+[23:44:16] [Server thread/INFO]: Dong_Miing >> ±ğ[m
+[23:44:58] [Server thread/INFO]: Dong_Miing >> ÎÒÕâÈı²æêª[m
+[23:45:04] [Server thread/INFO]: Dong_Miing >> ÍÂÁË[m
+[23:45:29] [Server thread/INFO]: Dong_Miing >> VIPÌØĞ§£¨È·ĞÅ[m
+[23:45:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> az[m
+[23:46:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔÙ·ÅÒ»Ö»[m
+[23:46:12] [Server thread/INFO]: Dong_Miing >> ?[m
+[23:46:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓÃË©ÉşÌ×Ëû[m
+[23:46:18] [Server thread/INFO]: Dong_Miing >> Ê²Ã´£¿[m
+[23:46:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> òı³æ[m
+[23:46:51] [Server thread/INFO]: Dong_Miing >> ÎŞÁÄ³ÉÕâÑùÁË¡£¡£¡£[m
+[23:47:59] [Server thread/INFO]: Dong_Miing >> emmm[m
+[23:48:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> cao[m
+[23:48:17] [Server thread/INFO]: Dong_Miing >> Ü³´åÃñ£¨[m
+[23:48:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÀÏ»¬»ü×÷¼ë×Ô¸¿[m
+[23:48:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÉÏ²»È¥[m
+[23:48:57] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ò§[m
+[23:49:04] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[23:49:24] [Server thread/INFO]: Dong_Miing >> Ãî°¡[m
+[23:49:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ò§ÀÏ»¬»ü[m
+[23:49:47] [Server thread/INFO]: Dong_Miing >> ¸üÃëÁË[m
+[23:49:50] [Server thread/INFO]: Dong_Miing >> Ãî[m
+[23:51:05] [Server thread/INFO]: Dong_Miing >> ÎÒ³ÆÖ®Îª[m
+[23:51:14] [Server thread/INFO]: Dong_Miing >> ÖÕ¼«ÎŞµĞ×ÔÆÛÆÛÈËÕ½Êõ[m
+[23:52:14] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Õâº©º©´ò²»ÖĞÈË[m
+[23:52:23] [Server thread/INFO]: Dong_Miing >> emmm[m
+[23:53:00] [Server thread/INFO]: Dong_Miing >> wow[m
+[23:53:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¾«×¼´ò¼¦[m
+[23:53:38] [Server thread/INFO]: Dong_Miing >> Âé½´ºÃ¶ñĞÄ[m
+[23:54:50] [Server thread/INFO]: Dong_Miing >> Ë¾ÂíÍæÒâ[m
+[23:54:59] [Server thread/INFO]: Dong_Miing >> ÔÛÃÇ¸É´à[m
+[23:55:09] [Server thread/INFO]: Dong_Miing >> »Øº£¾§Ï¹¹ä¹ä°É[m
+[23:55:53] [Server thread/INFO]: Dong_Miing >> ·şÎñÆ÷ÓĞÊ²Ã´ºÃÍæ¡áµÄµØ·½Âğ£¿[m
+[23:56:01] [Server thread/INFO]: Dong_Miing >> ºÚÔÆ£¿[m
+[23:56:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÷¼÷ÃËş[m
+[23:56:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÈ¥¹ıÃ»[m
+[23:56:56] [Server thread/INFO]: Dong_Miing >> £¿[m
+[23:57:03] [Server thread/INFO]: Dong_Miing >> µòÁã÷¼÷Ã£¿[m
+[23:57:09] [Server thread/INFO]: Dong_Miing >> ÎŞÁÄ£¨[m
+[23:57:26] [Server thread/INFO]: Dong_Miing >> ÕÒµãÓĞÈ¤¡áµÄ£¨[m
+[23:57:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> É±µ÷[m
+[23:57:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÈçºÎ[m
+[23:58:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> È¥÷¼÷ÃËşÄÃÒ»ºĞ×ÓÍ·À´ÍæµòÁé[m
+[23:59:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÌúÍ·ÍŞ[m

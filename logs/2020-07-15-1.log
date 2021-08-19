@@ -1,0 +1,926 @@
+[00:00:06] [Server thread/INFO]: sen_lv_ling_ >> 你旁边那位
+[00:00:12] [Server thread/INFO]: T1anqiong_ >> 666
+[00:00:13] [Server thread/INFO]: adhesive_tape >> 还有sen
+[00:00:21] [Server thread/INFO]: sen_lv_ling_ >> 我负责打工
+[00:00:21] [Server thread/INFO]: T1anqiong_ >> 这个造了多久
+[00:00:29] [Server thread/INFO]: sen_lv_ling_ >> 一天多吧
+[00:01:02] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[00:01:02] [Server thread/INFO]: adhesive_tape left the game
+[00:01:02] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[00:01:02] [Server thread/INFO]: sen_lv_ling_ left the game
+[00:01:02] [Server thread/INFO]: T1anqiong_ lost connection: Disconnected
+[00:01:02] [Server thread/INFO]: T1anqiong_ left the game
+[00:01:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@7ab97ce2[id=<null>,name=T1anqiong_,properties={},legacy=false] (/127.0.0.1:57876) lost connection: Disconnected
+[00:01:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c5ac4c1[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:57885) lost connection: Disconnected
+[00:01:33] [User Authenticator #84/INFO]: Disconnecting com.mojang.authlib.GameProfile@30ac1440[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:57901): Authentication servers are down. Please try again later, sorry!
+[00:01:33] [User Authenticator #84/ERROR]: Couldn't verify username because servers are unavailable
+[00:01:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@30ac1440[id=<null>,name=sen_lv_ling_,properties={},legacy=false] (/127.0.0.1:57901) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:01:37] [User Authenticator #85/INFO]: Disconnecting com.mojang.authlib.GameProfile@2214c3b3[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:57894): Authentication servers are down. Please try again later, sorry!
+[00:01:37] [User Authenticator #85/ERROR]: Couldn't verify username because servers are unavailable
+[00:01:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@2214c3b3[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:57894) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:01:43] [User Authenticator #85/INFO]: UUID of player T1anqiong_ is 6917d0cf-01a8-448f-9d3f-1acb59380ffb
+[00:01:43] [Server thread/INFO]: T1anqiong_[/127.0.0.1:57918] logged in with entity id 865501 at ([world_nether]172.4210706415351, 110.0, 861.7327249788319)
+[00:01:54] [User Authenticator #85/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[00:01:54] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:57919] logged in with entity id 865595 at ([world_nether]190.8956469670617, 111.0, 861.6723815236564)
+[00:02:48] [User Authenticator #85/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[00:02:48] [Server thread/INFO]: adhesive_tape[/127.0.0.1:57929] logged in with entity id 865702 at ([world_nether]198.47301432816656, 111.0, 878.2527216813022)
+[00:02:57] [Server thread/INFO]: adhesive_tape >> 不开机吗、
+[00:03:02] [Server thread/INFO]: sen_lv_ling_ >> 每日零点必掉线
+[00:03:49] [Server thread/INFO]: adhesive_tape >> 开机试试
+[00:03:52] [Server thread/INFO]: adhesive_tape >> sen
+[00:03:54] [Server thread/INFO]: T1anqiong_ >> 看看
+[00:03:56] [Server thread/INFO]: adhesive_tape >> 你去
+[00:03:59] [Server thread/INFO]: sen_lv_ling_ >> ...
+[00:04:11] [Server thread/INFO]: sen_lv_ling_ >> where
+[00:04:25] [User Authenticator #86/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[00:04:26] [Server thread/INFO]: Crushxl[/127.0.0.1:57942] logged in with entity id 865809 at ([world]-152.4088267324806, 61.0, 277.45235384904646)
+[00:04:30] [Server thread/INFO]: T1anqiong_ >> hi
+[00:04:32] [Server thread/INFO]: Crushxl >> [群签到]请使用新版QQ进行查看。
+[00:04:33] [Server thread/INFO]: sen_lv_ling_ >> hi
+[00:04:36] [Server thread/INFO]: sen_lv_ling_ >> 啊这
+[00:04:39] [Server thread/INFO]: Crushxl >> 噢粘贴错了（
+[00:04:42] [Server thread/INFO]: T1anqiong_ >> 小泠给安排个金名吧
+[00:04:48] [Server thread/INFO]: Crushxl >> 我还以为我的剪贴板是指令（
+[00:04:50] [Server thread/INFO]: T1anqiong_ >> 欧尼酱~daisuki
+[00:04:53] [Server thread/INFO]: sen_lv_ling_ >> hhh
+[00:05:12] [Server thread/INFO]: sen_lv_ling_ >> 小泠还有一件事
+[00:05:16] [Server thread/INFO]: T1anqiong_ >> 小泠哥哥daisuki~
+[00:05:30] [Server thread/INFO]: T1anqiong_ >> 老阴阳人了
+[00:05:30] [Server thread/INFO]: sen_lv_ling_ >> 我家的钻甲小白不知道被谁杀了
+[00:05:33] [Server thread/INFO]: Crushxl >> 称号要上线了!
+[00:05:38] [Server thread/INFO]: sen_lv_ling_ >> ohhhhhhhhh
+[00:05:45] [Server thread/INFO]: Crushxl >> 等一下查
+[00:05:57] [Server thread/INFO]: Crushxl issued server command: /chatc user Crushxl prefix 6<服主>f
+[00:05:59] [Server thread/INFO]: 6<服主>fCrushxl >> 1
+[00:06:05] [Server thread/INFO]: sen_lv_ling_ >> 颜色不对
+[00:06:10] [Server thread/INFO]: adhesive_tape >> yi
+[00:06:14] [Server thread/INFO]: adhesive_tape >> 莫的感情
+[00:06:17] [Server thread/INFO]: adhesive_tape >> 不开机吗
+[00:06:24] [Server thread/INFO]: sen_lv_ling_ >> 哪里开
+[00:06:33] [Server thread/INFO]: adhesive_tape >> 音符盒
+[00:06:36] [Server thread/INFO]: T1anqiong_ >> 6服主
+[00:06:37] [Server thread/INFO]: adhesive_tape >> 右键一次
+[00:06:37] [Server thread/INFO]: Crushxl issued server command: /chatc user Crushxl prefix &6<服主>f
+[00:06:39] [Server thread/INFO]: T1anqiong_ >> hhhh
+[00:06:39] [Server thread/INFO]: <服主>fCrushxl >> 1
+[00:06:42] [Server thread/INFO]: sen_lv_ling_ >> 没找到
+[00:06:45] [Server thread/INFO]: T1anqiong_ >> 服主f
+[00:06:48] [Server thread/INFO]: adhesive_tape >> 中间
+[00:07:00] [Server thread/INFO]: Crushxl issued server command: /chatc user Crushxl prefix &6<服主>&f
+[00:07:01] [Server thread/INFO]: <服主>Crushxl >> 1
+[00:07:04] [Server thread/INFO]: T1anqiong_ >> 可以了
+[00:07:11] [Server thread/INFO]: T1anqiong_ >> 恭喜你
+[00:07:17] [Server thread/INFO]: Crushxl issued server command: /chatc user Crushxl prefix &6<服主>&f__
+[00:07:19] [Server thread/INFO]: <服主> Crushxl >> 1
+[00:07:23] [Server thread/INFO]: <服主> Crushxl >> 现在行了XD
+[00:07:27] [Server thread/INFO]: sen_lv_ling_ >> 没找到
+[00:07:48] [Server thread/INFO]: Crushxl issued server command: /gamemode spectator
+[00:07:48] [Server thread/INFO]: [Crushxl: Set own game mode to Spectator Mode]
+[00:07:50] [Server thread/INFO]: adhesive_tape >> ..
+[00:07:54] [Server thread/INFO]: T1anqiong_ >> 僵尸猪人不是说换皮肤了吗
+[00:07:55] [Server thread/INFO]: adhesive_tape >> 鞘翅给我
+[00:08:05] [Server thread/INFO]: <服主> Crushxl >> 哪里的钻石小白
+[00:08:16] [Server thread/INFO]: sen_lv_ling_ >> 啊这
+[00:08:23] [Server thread/INFO]: sen_lv_ling_ >> 我没在家
+[00:08:39] [Server thread/INFO]: adhesive_tape >> 烟花
+[00:09:00] [Server thread/INFO]: T1anqiong_ >> 小泠你搁哪呢
+[00:09:00] [pool-15-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[00:09:11] [Server thread/INFO]: T1anqiong_ >> 来地狱待会
+[00:09:21] [Server thread/INFO]: adhesive_tape blew up
+[00:09:25] [Server thread/INFO]: T1anqiong_ >> ?
+[00:09:26] [Server thread/INFO]: adhesive_tape >> cao
+[00:09:27] [Server thread/INFO]: sen_lv_ling_ >> ???
+[00:09:30] [Server thread/INFO]: T1anqiong_ >> ?
+[00:09:36] [Server thread/INFO]: <服主> Crushxl >> 炸膛了？
+[00:09:37] [Server thread/INFO]: sen_lv_ling_ >> 咋炸了
+[00:09:44] [Server thread/INFO]: adhesive_tape >> 盾构机被哪个人懂了
+[00:09:47] [Server thread/INFO]: T1anqiong_ >> nice try
+[00:09:48] [Server thread/INFO]: adhesive_tape >> 盾构机被哪个人动了
+[00:09:54] [Server thread/INFO]: T1anqiong_ >> 回档吧
+[00:09:59] [Server thread/INFO]: sen_lv_ling_ >> 这个也查一下吧
+[00:10:04] [Server thread/INFO]: sen_lv_ling_ >> 必查
+[00:10:07] [Server thread/INFO]: T1anqiong_ >> 你东西是不是全没了
+[00:10:08] [Server thread/INFO]: adhesive_tape >> 气死了
+[00:10:15] [Server thread/INFO]: sen_lv_ling_ >> 鞘翅呢
+[00:10:17] [Server thread/INFO]: T1anqiong_ >> 机器烂了
+[00:10:18] [Server thread/INFO]: adhesive_tape >> 没了
+[00:10:21] [Server thread/INFO]: T1anqiong_ >> 全烂了
+[00:10:27] [Server thread/INFO]: <服主> Crushxl >> 给你回一下档吧 别外传（
+[00:10:34] [Server thread/INFO]: T1anqiong_ >> 这谁干的啊
+[00:10:37] [Server thread/INFO]: adhesive_tape >> 盾构机给人动了，气死
+[00:10:37] [Server thread/INFO]: sen_lv_ling_ >> 多谢小泠！！！
+[00:10:38] [Server thread/INFO]: T1anqiong_ >> 小泠过来看看
+[00:10:44] [Server thread/INFO]: T1anqiong_ >> 已经全烂了
+[00:10:49] [Server thread/INFO]: Crushxl issued server command: /co rollback r:200 t:2m
+[00:10:59] [Server thread/INFO]: Crushxl issued server command: /co rollback r:100 t:2m
+[00:11:11] [Server thread/INFO]: T1anqiong_ >> ?
+[00:11:14] [Server thread/INFO]: Crushxl issued server command: /co rollback r:100 t:2m
+[00:11:18] [Server thread/INFO]: T1anqiong_ >> 小泠是不是开隐身了
+[00:11:23] [Server thread/INFO]: T1anqiong_ >> 我看见他
+[00:11:24] [Server thread/INFO]: sen_lv_ling_ >> 小泠nb
+[00:11:26] [Server thread/INFO]: Crushxl issued server command: /co rollback r:100 t:2m
+[00:11:47] [Server thread/INFO]: adhesive_tape >> 把我传过去一下谢谢
+[00:11:47] [Server thread/INFO]: sen_lv_ling_ >> 所以 adhesive_tape 的东西呢
+[00:11:51] [Server thread/INFO]: adhesive_tape >> 给你了
+[00:11:54] [Server thread/INFO]: T1anqiong_ >> 这个隐身可以抓熊
+[00:11:55] [Server thread/INFO]: T1anqiong_ >> hhh
+[00:12:18] [Server thread/INFO]: T1anqiong_ >> 我的宝藏潜影盒
+[00:12:25] [Server thread/INFO]: T1anqiong_ >> 那会这里面的东西还是稀罕物
+[00:12:35] [Server thread/INFO]: adhesive_tape >> 把我传过去一下谢谢小冷
+[00:12:36] [Server thread/INFO]: adhesive_tape >> ..
+[00:12:38] [Server thread/INFO]: sen_lv_ling_ >> 比如
+[00:12:38] [Server thread/INFO]: T1anqiong_ >> 绿宝石换附魔书
+[00:12:46] [Server thread/INFO]: T1anqiong_ >> 那个台湾妹子还在吗
+[00:12:52] [Server thread/INFO]: T1anqiong_ >> 我记得以前有个台湾妹子来着
+[00:12:54] [Server thread/INFO]: T1anqiong_ >> 他卖附魔书
+[00:12:57] [Server thread/INFO]: <服主> Crushxl >> HMS？
+[00:13:01] [Server thread/INFO]: T1anqiong_ >> 对
+[00:13:15] [Server thread/INFO]: <服主> Crushxl >> 公测后没上线
+[00:13:28] [Server thread/INFO]: adhesive_tape >> 小冷传送啊
+[00:13:31] [Server thread/INFO]: sen_lv_ling_ >> 啊这
+[00:13:32] [Server thread/INFO]: T1anqiong_ >> R.I.P
+[00:13:36] [Server thread/INFO]: sen_lv_ling_ >> 鞘翅？
+[00:13:37] [Server thread/INFO]: adhesive_tape >> 跑过去段腿的
+[00:13:50] [Server thread/INFO]: <服主> Crushxl >> 传送不行
+[00:13:54] [Server thread/INFO]: adhesive_tape >> yi
+[00:13:58] [Server thread/INFO]: T1anqiong_ >> 地狱就我一个了吗
+[00:14:01] [Server thread/INFO]: T1anqiong_ >> 怎么回去
+[00:14:03] [Server thread/INFO]: sen_lv_ling_ >> 所以身上的东西还在不
+[00:14:06] [Server thread/INFO]: T1anqiong_ >> 你们别把我扔在这啊
+[00:14:15] [Server thread/INFO]: adhesive_tape >> 我身上东西不是给你了吗
+[00:14:24] [Server thread/INFO]: sen_lv_ling_ >> 鞘翅呢？
+[00:14:28] [Server thread/INFO]: adhesive_tape >> 炸没了
+[00:14:31] [Server thread/INFO]: sen_lv_ling_ >> ...
+[00:14:55] [Server thread/INFO]: sen_lv_ling_ >> 小泠来个鞘翅吧qwq
+[00:15:04] [Server thread/INFO]: T1anqiong_ has completed the challenge [Return to Sender]
+[00:15:07] [Server thread/INFO]: T1anqiong_ >> 芜湖
+[00:15:14] [Server thread/INFO]: T1anqiong_ >> 恶魂给爷死
+[00:15:17] [Server thread/INFO]: adhesive_tape >> 救我
+[00:15:20] [Server thread/INFO]: adhesive_tape >> 我要饿死了
+[00:15:25] [Server thread/INFO]: T1anqiong_ >> 你搁哪呢
+[00:15:33] [Server thread/INFO]: adhesive_tape >> 来的路
+[00:15:53] [Server thread/INFO]: T1anqiong_ >> 这里有鱼
+[00:16:07] [Server thread/INFO]: T1anqiong_ >> 你们不做个保护的吗，万一恶魂把这里箱子炸了
+[00:16:34] [Server thread/INFO]: adhesive_tape >> 试一下开机
+[00:16:38] [Server thread/INFO]: adhesive_tape >> hey
+[00:16:40] [Server thread/INFO]: T1anqiong_ >> 小泠这么晚了不睡觉在干什么
+[00:16:43] [Server thread/INFO]: sen_lv_ling_ >> 一天没见俩鞘翅可还行
+[00:17:03] [Server thread/INFO]: adhesive_tape >> 我东西给我一下
+[00:17:09] [Server thread/INFO]: sen_lv_ling_ >> 箱子里
+[00:17:11] [Server thread/INFO]: Crushxl lost connection: Disconnected
+[00:17:11] [Server thread/INFO]: Crushxl left the game
+[00:17:14] [Server thread/INFO]: T1anqiong_ >> 海景镇有耐久3附魔书吗
+[00:17:19] [Server thread/INFO]: T1anqiong_ >> 我这有个盾快烂了
+[00:17:23] [Server thread/INFO]: sen_lv_ling_ >> 一箱
+[00:17:26] [Server thread/INFO]: T1anqiong_ >> 我寻思搞个经验修复和耐久3
+[00:17:35] [Server thread/INFO]: T1anqiong_ >> 这俩能叠加吗
+[00:17:40] [Server thread/INFO]: sen_lv_ling_ >> 能
+[00:17:46] [Server thread/INFO]: adhesive_tape >> 来
+[00:17:51] [Server thread/INFO]: sen_lv_ling_ >> 我回去了
+[00:17:52] [Server thread/INFO]: adhesive_tape >> 别走
+[00:17:55] [Server thread/INFO]: adhesive_tape >> 开机
+[00:17:56] [Server thread/INFO]: sen_lv_ling_ >> ...
+[00:18:03] [Server thread/INFO]: sen_lv_ling_ >> 修好了？
+[00:18:05] [Server thread/INFO]: T1anqiong_ >> 这个盔甲叫瓜点可还行
+[00:18:06] [Server thread/INFO]: T1anqiong_ >> 哈哈哈
+[00:19:02] [Server thread/INFO]: adhesive_tape >> 给点材料
+[00:19:02] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[00:19:02] [Server thread/INFO]: T1anqiong_ >> 你俩去哪了
+[00:19:14] [Server thread/INFO]: T1anqiong_ >> 嘤嘤嘤
+[00:19:16] [Server thread/INFO]: T1anqiong_ >> 别丢下我
+[00:19:31] [Server thread/INFO]: sen_lv_ling_ >> 末影螨
+[00:20:00] [Server thread/INFO]: adhesive_tape >> 矿车都没了
+[00:20:03] [Server thread/INFO]: adhesive_tape >> 不开了
+[00:20:03] [Server thread/INFO]: sen_lv_ling_ >> ...
+[00:20:20] [Server thread/INFO]: adhesive_tape >> 吃的
+[00:21:07] [Server thread/INFO]: sen_lv_ling_ >> 我回去了
+[00:23:20] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[00:23:36] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[00:23:45] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[00:24:09] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[00:24:59] [Server thread/INFO]: adhesive_tape >> 门禁卡没了
+[00:25:02] [Server thread/INFO]: adhesive_tape >> 出来开门
+[00:25:09] [Server thread/INFO]: sen_lv_ling_ >> 啊这
+[00:25:12] [Server thread/INFO]: adhesive_tape >> 嘤嘤嘤
+[00:25:16] [Server thread/INFO]: T1anqiong_ >> 嘤嘤嘤
+[00:25:17] [Server thread/INFO]: adhesive_tape >> 是不是你吃了
+[00:25:53] [Server thread/INFO]: adhesive_tape >> 好烦
+[00:26:00] [Server thread/INFO]: adhesive_tape >> 盾构机老是炸
+[00:26:05] [Server thread/INFO]: T1anqiong_ >> 为什么
+[00:26:17] [Server thread/INFO]: adhesive_tape >> 有人动了
+[00:26:23] [Server thread/INFO]: sen_lv_ling_ >> 我睡了
+[00:26:27] [Server thread/INFO]: T1anqiong_ >> 为什么老有人动
+[00:26:32] [Server thread/INFO]: sen_lv_ling_ >> 明后天应该不会在线
+[00:26:37] [Server thread/INFO]: T1anqiong_ >> 服务器哪来那么多弱智啊
+[00:26:46] [Server thread/INFO]: adhesive_tape >> 动了活塞bud部分
+[00:27:03] [Server thread/INFO]: sen_lv_ling_ >> 这是某人要的一盒岩浆块
+[00:27:11] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[00:27:12] [Server thread/INFO]: There are 3 of a max 40 players online: T1anqiong_, sen_lv_ling_, adhesive_tape
+[00:28:04] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[00:28:04] [Server thread/INFO]: sen_lv_ling_ left the game
+[00:29:20] [Server thread/INFO]: adhesive_tape >> e
+[00:29:26] [Server thread/INFO]: T1anqiong_ >> e
+[00:29:33] [Server thread/INFO]: adhesive_tape >> 你还不睡？
+[00:29:41] [Server thread/INFO]: T1anqiong_ >> 我昨天四点睡的
+[00:30:28] [Server thread/INFO]: T1anqiong_ >> 你怎么不睡
+[00:30:36] [Server thread/INFO]: adhesive_tape >> 咦
+[00:30:39] [Server thread/INFO]: adhesive_tape >> 是个很人
+[00:31:14] [Server thread/INFO]: adhesive_tape >> 你上什么血
+[00:31:21] [Server thread/INFO]: T1anqiong_ >> 高一
+[00:31:24] [Server thread/INFO]: T1anqiong_ >> 开学了高二
+[00:32:04] [Server thread/INFO]: adhesive_tape >> 高中这么浪
+[00:32:10] [Server thread/INFO]: T1anqiong_ >> 还行吧
+[00:32:21] [Server thread/INFO]: T1anqiong_ >> 我才放假
+[00:33:07] [Server thread/INFO]: T1anqiong_ >> 你呢
+[00:33:10] [Server thread/INFO]: T1anqiong_ >> 你多大了
+[00:33:57] [Server thread/INFO]: adhesive_tape >> 大一
+[00:34:00] [Server thread/INFO]: T1anqiong_ >> 啊这
+[00:34:17] [Server thread/INFO]: T1anqiong_ >> 大一还玩我的世界啊
+[00:34:23] [Server thread/INFO]: T1anqiong_ >> 不玩点别的
+[00:35:27] [Server thread/INFO]: adhesive_tape >> ..
+[00:35:35] [Server thread/INFO]: adhesive_tape >> 那你做个盾构机
+[00:35:52] [Server thread/INFO]: T1anqiong_ >> 哎呀没别的意思
+[00:35:56] [Server thread/INFO]: T1anqiong_ >> 我是说你不玩别的游戏吗
+[00:36:14] [Server thread/INFO]: adhesive_tape >> cf
+[00:36:25] [Server thread/INFO]: T1anqiong_ >> 我以前也玩
+[00:36:29] [Server thread/INFO]: T1anqiong_ >> 小学
+[00:36:52] [Server thread/INFO]: T1anqiong_ >> 你玩的厉害不
+[00:38:09] [Server thread/INFO]: T1anqiong_ >> 啊这
+[00:38:25] [Server thread/INFO]: T1anqiong_ >> 你怎么不说话了
+[00:38:52] [Server thread/INFO]: adhesive_tape >> 还不错
+[00:38:58] [Server thread/WARN]: T1anqiong_ moved wrongly!
+[00:38:59] [Server thread/INFO]: adhesive_tape >> 我现在在玩//
+[00:39:09] [Server thread/INFO]: T1anqiong_ >> 你挂机MC在玩CF吗
+[00:39:56] [Server thread/INFO]: adhesive_tape >> sn
+[00:40:01] [Server thread/INFO]: adhesive_tape >> en
+[00:45:17] [Server thread/INFO]: adhesive_tape >> 下了
+[00:45:20] [Server thread/INFO]: T1anqiong_ >> 88
+[00:45:21] [Server thread/INFO]: adhesive_tape >> 晚安
+[00:45:22] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[00:45:22] [Server thread/INFO]: adhesive_tape left the game
+[00:49:02] [Server thread/INFO]: [公告] [警告] 2020.07.15 中午12:00末地刷新。现在请勿在末地建筑以免财产损失。 
+[00:49:13] [Thread-1722/INFO]: --------------------
+[00:49:13] [Thread-1722/INFO]: [CoreProtect] Version 19.0 is now available.
+[00:49:13] [Thread-1722/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[00:49:13] [Thread-1722/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[00:49:13] [Thread-1722/INFO]: --------------------
+[00:50:46] [Server thread/INFO]: T1anqiong_ lost connection: Disconnected
+[00:50:46] [Server thread/INFO]: T1anqiong_ left the game
+[01:19:02] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[01:49:02] [Server thread/INFO]: [公告] [警告] 2020.07.15 中午12:00末地刷新。现在请勿在末地建筑以免财产损失。 
+[02:19:02] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[02:49:02] [Server thread/INFO]: [公告] [警告] 2020.07.15 中午12:00末地刷新。现在请勿在末地建筑以免财产损失。 
+[03:19:02] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[03:49:02] [Server thread/INFO]: [公告] [警告] 2020.07.15 中午12:00末地刷新。现在请勿在末地建筑以免财产损失。 
+[04:19:02] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[04:49:02] [Server thread/INFO]: [公告] [警告] 2020.07.15 中午12:00末地刷新。现在请勿在末地建筑以免财产损失。 
+[05:19:02] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[05:49:00] [Server thread/INFO]: [公告] [警告] 2020.07.15 中午12:00末地刷新。现在请勿在末地建筑以免财产损失。 
+[06:19:00] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[06:49:00] [Server thread/INFO]: [公告] [警告] 2020.07.15 中午12:00末地刷新。现在请勿在末地建筑以免财产损失。 
+[07:18:32] [User Authenticator #87/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[07:18:32] [Server thread/INFO]: Xin_Sai[/127.0.0.1:60727] logged in with entity id 882720 at ([world]3262.825452331566, 63.0, -604.7604137577822)
+[07:18:58] [pool-15-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[07:19:00] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[07:19:21] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[07:19:21] [Server thread/INFO]: Xin_Sai left the game
+[07:24:46] [User Authenticator #88/INFO]: UUID of player fly_pigman02 is 67b61d6e-8357-402c-bd08-5c7bd2bae3e2
+[07:24:46] [Server thread/INFO]: fly_pigman02[/127.0.0.1:60773] logged in with entity id 882913 at ([world]5165.363079189148, 74.0, 213.9529997208418)
+[07:25:19] [Server thread/INFO]: Villager EntityVillager['Villager'/883337, uuid='e9ab8742-1982-460b-8090-f47c7767b10d', l='world', x=5264.70, y=73.17, z=299.30, cx=329, cz=18, tl=1242324, v=true, d=false] died, message: 'Villager was squished too much'
+[07:26:03] [Server thread/INFO]: fly_pigman02 lost connection: Disconnected
+[07:26:03] [Server thread/INFO]: fly_pigman02 left the game
+[07:28:58] [pool-15-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[07:32:19] [User Authenticator #89/INFO]: UUID of player fly_pigman01 is ee66c593-3d27-4832-911d-b569dd50102f
+[07:32:19] [Server thread/INFO]: fly_pigman01[/127.0.0.1:60823] logged in with entity id 883896 at ([world]5163.7620020868035, 64.0, 208.89728040039753)
+[07:32:39] [Server thread/INFO]: fly_pigman01 lost connection: Disconnected
+[07:32:39] [Server thread/INFO]: fly_pigman01 left the game
+[07:38:58] [pool-15-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[07:41:24] [User Authenticator #90/INFO]: UUID of player fly_pigman02 is 67b61d6e-8357-402c-bd08-5c7bd2bae3e2
+[07:41:24] [Server thread/INFO]: fly_pigman02[/127.0.0.1:60883] logged in with entity id 884611 at ([world]5152.303906197358, 64.20000004768372, 210.70799646293563)
+[07:42:42] [Server thread/INFO]: fly_pigman02 fell from a high place
+[07:43:15] [Server thread/INFO]: fly_pigman02 lost connection: Disconnected
+[07:43:15] [Server thread/INFO]: fly_pigman02 left the game
+[07:44:37] [User Authenticator #91/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[07:44:37] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:60906] logged in with entity id 886374 at ([world]2633.6843089553395, 73.0, 679.5014336519683)
+[07:46:57] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[07:46:57] [Server thread/INFO]: Li_zi_wei left the game
+[07:48:58] [pool-15-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[07:49:00] [Server thread/INFO]: [公告] [警告] 2020.07.15 中午12:00末地刷新。现在请勿在末地建筑以免财产损失。 
+[08:03:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@54cb4c77[id=<null>,name=GeorgeHHT,properties={},legacy=false] (/127.0.0.1:61037) lost connection: Disconnected
+[08:06:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ba20d2f[id=<null>,name=Aly_xxx,properties={},legacy=false] (/127.0.0.1:61059) lost connection: Disconnected
+[08:06:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@24d71aae[id=<null>,name=Aly_xxx,properties={},legacy=false] (/127.0.0.1:61060) lost connection: Disconnected
+[08:19:00] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[08:27:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@37ae34e5[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:61206) lost connection: Disconnected
+[08:27:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b7ff909[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:61207) lost connection: Disconnected
+[08:27:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@e9e07b4[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:61210) lost connection: Disconnected
+[08:28:00] [User Authenticator #92/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[08:28:00] [Server thread/INFO]: Block_linyi[/127.0.0.1:61211] logged in with entity id 887257 at ([world]2195.5363287205864, 63.0, 620.7732955187163)
+[08:28:36] [Server thread/INFO]: Block_linyi lost connection: Disconnected
+[08:28:36] [Server thread/INFO]: Block_linyi left the game
+[08:28:58] [pool-15-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[08:46:50] [User Authenticator #93/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[08:46:50] [Server thread/INFO]: Magical7[/127.0.0.1:61336] logged in with entity id 887672 at ([world]1708.4613829306968, 64.0, 867.9256638548651)
+[08:48:58] [pool-15-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[08:49:00] [Server thread/INFO]: [公告] [警告] 2020.07.15 中午12:00末地刷新。现在请勿在末地建筑以免财产损失。 
+[08:52:35] [User Authenticator #94/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[08:52:35] [Server thread/INFO]: Xin_Sai[/127.0.0.1:61386] logged in with entity id 889051 at ([world]3208.5516410166492, 63.0, -602.4881797191097)
+[08:52:49] [Server thread/INFO]: Xin_Sai issued server command: //
+[08:52:52] [Server thread/INFO]: Xin_Sai >> giao
+[08:52:53] [Server thread/INFO]: Magical7 >> 早
+[08:53:11] [Server thread/INFO]: Xin_Sai >> qwq Magical7 你愿意来铺地板么
+[08:53:18] [Server thread/INFO]: Xin_Sai >> 跟我一起
+[08:53:27] [Server thread/INFO]: Magical7 >> 我也在忙
+[08:53:34] [Server thread/INFO]: Xin_Sai >> 我太难了
+[08:53:43] [Server thread/INFO]: Magical7 >> 你铺哪的地板
+[08:54:02] [Server thread/INFO]: Xin_Sai >> 我这几天只有两件事 铺地板 睡觉 铺地板
+[08:54:28] [Server thread/INFO]: Xin_Sai >> 我在 3174 —601
+[08:54:38] [Server thread/INFO]: Magical7 >> 所以你是在建什么
+[08:54:59] [Server thread/INFO]: Xin_Sai >> 我要做一个教堂 需要一个超级大的地方
+[08:55:00] [Server thread/WARN]: Xin_Sai moved wrongly!
+[08:56:46] [Server thread/INFO]: Magical7 >> 到了
+[08:56:57] [Server thread/INFO]: Xin_Sai >> Magical7 你不是在忙么？？
+[08:57:07] [Server thread/INFO]: Xin_Sai >> 我在拿材料
+[08:57:22] [Server thread/INFO]: Magical7 >> 不不 我就看看
+[08:57:27] [Server thread/INFO]: Xin_Sai >> qwq
+[08:57:43] [Server thread/INFO]: Magical7 >> 过会就出门了
+[08:59:08] [Server thread/INFO]: Xin_Sai >> 我地板都铺不完建屁
+[08:59:37] [Server thread/INFO]: Magical7 >> 这也太大叭 还是在海上
+[08:59:44] [Server thread/INFO]: Xin_Sai >> 对
+[09:00:20] [Server thread/INFO]: Xin_Sai >> 。。这个教堂。。是一个建筑群
+[09:00:33] [Server thread/INFO]: Xin_Sai >> 类似与群落
+[09:01:38] [Server thread/INFO]: Xin_Sai >> 我得找人铺地板
+[09:11:59] [User Authenticator #95/INFO]: UUID of player YiFanFengShun is 6b491d23-aa75-4830-8683-36a79ae50c53
+[09:11:59] [Server thread/INFO]: YiFanFengShun[/127.0.0.1:61518] logged in with entity id 901542 at ([world]6333.009702842249, 63.0, 343.8645445734291)
+[09:12:06] [Server thread/INFO]: Xin_Sai >> !!!!!!
+[09:12:07] [Server thread/INFO]: Xin_Sai >> !
+[09:12:34] [Server thread/WARN]: YiFanFengShun moved too quickly! 21.22900896070405,-1.5926045976350593,-2.7755288924830666
+[09:12:57] [User Authenticator #95/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[09:12:57] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:61527] logged in with entity id 902261 at ([world_the_end]-7.354323483053757, 0.5, 311.14742530860855)
+[09:13:05] [Server thread/INFO]: Xin_Sai >> !
+[09:13:22] [Server thread/WARN]: YiFanFengShun moved too quickly! -22.239831880448037,0.0,-19.22888089888204
+[09:13:37] [Server thread/WARN]: YiFanFengShun moved too quickly! -2.7160739643513807,-5.3211070846624295,-11.48995420811292
+[09:13:40] [Server thread/INFO]: Xin_Sai >> YiFanFengShun
+[09:13:52] [Server thread/WARN]: YiFanFengShun moved too quickly! -16.680573141717105,-2.8821110074559613,-1.1950640168192024
+[09:13:57] [Server thread/INFO]: Xin_Sai >> 在吗
+[09:16:43] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[09:16:43] [Server thread/INFO]: Xin_Sai left the game
+[09:18:58] [pool-15-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[09:19:00] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[09:23:04] [Server thread/INFO]: YiFanFengShun issued server command: /co i
+[09:24:02] [Server thread/INFO]: YiFanFengShun issued server command: /co l
+[09:24:05] [Server thread/INFO]: YiFanFengShun issued server command: /co i
+[09:24:08] [Server thread/INFO]: YiFanFengShun issued server command: /co i
+[09:24:09] [Server thread/INFO]: YiFanFengShun issued server command: /co i
+[09:24:12] [Server thread/INFO]: YiFanFengShun issued server command: /co i 1
+[09:24:14] [Server thread/INFO]: YiFanFengShun issued server command: /co i 2
+[09:24:16] [Server thread/INFO]: Villager EntityVillager['Villager'/903932, uuid='17ca2b6b-4338-428e-928e-832427f81ed3', l='world', x=5264.11, y=73.63, z=299.88, cx=329, cz=18, tl=42463, v=true, d=false] died, message: 'Villager was squished too much'
+[09:26:11] [Server thread/INFO]: YiFanFengShun issued server command: /co i
+[09:26:27] [Server thread/INFO]: YiFanFengShun issued server command: /co i
+[09:27:04] [Server thread/INFO]: GinGer_Snow issued server command: /co i
+[09:27:51] [Server thread/INFO]: GinGer_Snow issued server command: /co i
+[09:30:17] [Server thread/INFO]: GinGer_Snow issued server command: /co i
+[09:30:29] [Server thread/INFO]: GinGer_Snow issued server command: /co i
+[09:31:17] [Server thread/WARN]: GinGer_Snow moved wrongly!
+[09:32:41] [Server thread/INFO]: GinGer_Snow issued server command: /co i
+[09:32:47] [Server thread/INFO]: YiFanFengShun >> 我的苦力怕手办QAQ
+[09:33:12] [Server thread/INFO]: GinGer_Snow >> az
+[09:33:23] [Server thread/INFO]: GinGer_Snow >> 就是苦力怕炸的
+[09:33:31] [Server thread/INFO]: GinGer_Snow issued server command: /co l
+[09:33:33] [Server thread/INFO]: YiFanFengShun >> 对啊
+[09:33:41] [Server thread/INFO]: GinGer_Snow >> 那怎么能复原（
+[09:33:53] [Server thread/INFO]: YiFanFengShun >> 区域回档
+[09:34:02] [Server thread/INFO]: GinGer_Snow >> 啊这
+[09:34:17] [Server thread/INFO]: GinGer_Snow >> 回档只能是人为恶意破坏（
+[09:34:21] [Server thread/INFO]: GinGer_Snow >> 才能回档
+[09:34:26] [Server thread/INFO]: YiFanFengShun >> 啊这。。。
+[09:34:32] [Server thread/INFO]: GinGer_Snow issued server command: /co i
+[09:35:37] [Server thread/INFO]: YiFanFengShun >> 损失倒没，关键这玩意我做了半天才过2天就没了太可惜了把
+[09:35:42] [Server thread/INFO]: GinGer_Snow >> awa
+[09:35:57] [Server thread/INFO]: GinGer_Snow >> 问问是谁炸的让他修（
+[09:36:47] [Server thread/INFO]: YiFanFengShun >> 他太菜了，梅开二度怎么办awa
+[09:38:04] [Server thread/INFO]: YiFanFengShun >> 那你说造个什么好
+[09:38:17] [Server thread/INFO]: GinGer_Snow >> 建议摸鱼（
+[09:38:38] [Server thread/INFO]: YiFanFengShun >> 造个女巫的?awa
+[09:39:12] [Server thread/INFO]: YiFanFengShun >> 憨明信不信我能造基岩awa
+[09:39:18] [Server thread/INFO]: GinGer_Snow >> 我信（
+[09:39:28] [Server thread/INFO]: YiFanFengShun >> 给你康个东西
+[09:39:34] [Server thread/INFO]: GinGer_Snow >> 我走了（
+[09:39:48] [Server thread/WARN]: 84a7742e-a048-4491-b27d-ca1fa43cce69 (vehicle of GinGer_Snow) moved wrongly!
+[09:39:48] [Server thread/WARN]: 84a7742e-a048-4491-b27d-ca1fa43cce69 (vehicle of GinGer_Snow) moved wrongly!
+[09:39:48] [Server thread/WARN]: 84a7742e-a048-4491-b27d-ca1fa43cce69 (vehicle of GinGer_Snow) moved wrongly!
+[09:39:48] [Server thread/WARN]: 84a7742e-a048-4491-b27d-ca1fa43cce69 (vehicle of GinGer_Snow) moved wrongly!
+[09:39:48] [Server thread/WARN]: 84a7742e-a048-4491-b27d-ca1fa43cce69 (vehicle of GinGer_Snow) moved wrongly!
+[09:39:48] [Server thread/WARN]: 84a7742e-a048-4491-b27d-ca1fa43cce69 (vehicle of GinGer_Snow) moved wrongly!
+[09:39:48] [Server thread/WARN]: 84a7742e-a048-4491-b27d-ca1fa43cce69 (vehicle of GinGer_Snow) moved wrongly!
+[09:39:48] [Server thread/WARN]: 84a7742e-a048-4491-b27d-ca1fa43cce69 (vehicle of GinGer_Snow) moved wrongly!
+[09:39:48] [Server thread/WARN]: 84a7742e-a048-4491-b27d-ca1fa43cce69 (vehicle of GinGer_Snow) moved wrongly!
+[09:39:48] [Server thread/WARN]: 84a7742e-a048-4491-b27d-ca1fa43cce69 (vehicle of GinGer_Snow) moved wrongly!
+[09:39:51] [Server thread/INFO]: YiFanFengShun >> awa
+[09:39:58] [Server thread/INFO]: GinGer_Snow >> 你这路太窄了啦
+[09:39:59] [Server thread/WARN]: 84a7742e-a048-4491-b27d-ca1fa43cce69 (vehicle of YiFanFengShun) moved wrongly!
+[09:39:59] [Server thread/WARN]: 84a7742e-a048-4491-b27d-ca1fa43cce69 (vehicle of YiFanFengShun) moved wrongly!
+[09:40:06] [Server thread/INFO]: GinGer_Snow >> 还不铺铁轨
+[09:40:10] [Server thread/INFO]: YiFanFengShun >> 帮我保密
+[09:40:12] [Server thread/INFO]: GinGer_Snow >> 全是猪人
+[09:40:19] [Server thread/INFO]: GinGer_Snow >> 蛤
+[09:40:28] [Server thread/INFO]: GinGer_Snow >> 啊这？
+[09:40:34] [Server thread/INFO]: GinGer_Snow >> 这是哪（
+[09:40:45] [Server thread/INFO]: GinGer_Snow lost connection: Disconnected
+[09:40:45] [Server thread/INFO]: GinGer_Snow left the game
+[09:40:45] [Server thread/INFO]: YiFanFengShun >> 我找的一片海
+[09:41:32] [Server thread/INFO]: YiFanFengShun >> Magical7
+[09:41:36] [User Authenticator #96/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[09:41:36] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:61720] logged in with entity id 917225 at ([world_nether]580.1948107183094, 115.0, 22.112498036467652)
+[09:41:42] [Server thread/INFO]: GinGer_Snow lost connection: Disconnected
+[09:41:42] [Server thread/INFO]: GinGer_Snow left the game
+[09:41:51] [Server thread/INFO]: Magical7 >> 怎么了
+[09:41:59] [Server thread/INFO]: YiFanFengShun >> 你在线啊
+[09:42:12] [Server thread/INFO]: Magical7 >> yep
+[09:42:24] [User Authenticator #96/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[09:42:24] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:61729] logged in with entity id 918628 at ([world_nether]575.8593998447421, 115.0, 22.69999998807907)
+[09:42:38] [Server thread/INFO]: YiFanFengShun >> 我在造东西，晚上的时候配合睡觉行不
+[09:42:52] [Server thread/INFO]: Magical7 >> 好
+[09:42:59] [Server thread/INFO]: GinGer_Snow >> 搭嘎
+[09:43:27] [Server thread/INFO]: GinGer_Snow >> 口头洼路
+[09:43:34] [Server thread/INFO]: YiFanFengShun >> 把韩明丢到地狱喂猪人awa
+[09:44:01] [Server thread/INFO]: GinGer_Snow >> 我就在地狱辣
+[09:45:18] [Server thread/INFO]: GinGer_Snow >> 你这路
+[09:45:25] [Server thread/INFO]: GinGer_Snow >> 真得修宽一点
+[09:45:33] [Server thread/INFO]: GinGer_Snow >> 要不就铺铁轨
+[09:45:44] [Server thread/INFO]: GinGer_Snow >> 这猪人一刷
+[09:45:47] [Server thread/INFO]: GinGer_Snow >> 走不动
+[09:45:53] [Server thread/INFO]: YiFanFengShun >> 我懒awa
+[09:49:00] [Server thread/INFO]: [公告] [警告] 2020.07.15 中午12:00末地刷新。现在请勿在末地建筑以免财产损失。 
+[09:49:04] [Server thread/INFO]: GinGer_Snow >> ohhhh
+[09:49:12] [Server thread/INFO]: YiFanFengShun >> 警告海星
+[09:50:11] [Server thread/INFO]: Magical7 >> 睡觉睡觉w
+[09:50:31] [Server thread/INFO]: YiFanFengShun >> 憨明...
+[09:50:39] [Server thread/INFO]: YiFanFengShun >> o
+[09:50:46] [Server thread/INFO]: YiFanFengShun >> ok
+[09:53:53] [Server thread/INFO]: GinGer_Snow lost connection: Timed out
+[09:53:53] [Server thread/INFO]: GinGer_Snow left the game
+[09:55:02] [User Authenticator #97/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[09:55:02] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:61814] logged in with entity id 927177 at ([world_nether]135.30000001192093, 115.5, 68.67924616199996)
+[10:01:02] [Server thread/INFO]: YiFanFengShun >> 睡觉
+[10:01:10] [Server thread/INFO]: Magical7 >> ok
+[10:01:26] [Server thread/INFO]: YiFanFengShun issued server command: /
+[10:02:26] [Server thread/INFO]: YiFanFengShun >> 试问Magical7,回归后想干些啥吗
+[10:02:55] [Server thread/INFO]: Magical7 >> 完善下自己住的地方
+[10:03:06] [Server thread/INFO]: YiFanFengShun issued server command: /
+[10:03:41] [Server thread/INFO]: YiFanFengShun >> 河湾这风景还要完善吗aa
+[10:03:43] [Server thread/INFO]: YiFanFengShun >> 河湾这风景还要完善吗awa
+[10:03:56] [Server thread/INFO]: YiFanFengShun >> 旅游胜地awa
+[10:04:12] [Server thread/INFO]: Magical7 >> 还有好多空地 都没用上
+[10:04:33] [Server thread/INFO]: Magical7 >> 这两天在整改河流
+[10:04:45] [Server thread/INFO]: Magical7 >> 还差一小截
+[10:04:58] [Server thread/INFO]: YiFanFengShun >> 建筑大佬实锤
+[10:06:31] [Server thread/INFO]: Magical7 >> 就是把河的曲线弄得更平滑一些 也没建什么
+[10:07:10] [Server thread/INFO]: YiFanFengShun >> 对了河湾除了你还有人回归吗，之前YellowDon上线过一会
+[10:07:40] [Server thread/INFO]: Magical7 >> 没 他在玩另一个服 不过那个服也不怎么上线
+[10:07:53] [Server thread/WARN]: GinGer_Snow moved too quickly! -0.5026226737526542,0.04450921478037628,-14.517759266964148
+[10:08:58] [Server thread/INFO]: YiFanFengShun >> 我镇好几个人期末没考完，好奇怪，都这么晚的吗，我中考都考完18天了
+[10:09:00] [Server thread/WARN]: GinGer_Snow moved too quickly! -0.01993369483707852,0.0,12.066431768233816
+[10:09:15] [Server thread/INFO]: GinGer_Snow >> az
+[10:09:37] [Server thread/INFO]: Magical7 >> 大一表示考完都一个月了
+[10:12:12] [Server thread/INFO]: YiFanFengShun >> 睡觉
+[10:14:24] [Server thread/WARN]: GinGer_Snow moved too quickly! 0.04224385571164602,0.0,-17.06633854332574
+[10:14:32] [Server thread/INFO]: Magical7 issued server command: /co i
+[10:14:39] [Server thread/INFO]: Magical7 issued server command: /co i
+[10:17:04] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[10:17:04] [Server thread/INFO]: Magical7 left the game
+[10:17:53] [Server thread/INFO]: YiFanFengShun >> 憨明
+[10:18:52] [Server thread/INFO]: GinGer_Snow lost connection: Timed out
+[10:18:52] [Server thread/INFO]: GinGer_Snow left the game
+[10:18:53] [User Authenticator #98/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[10:18:53] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:61970] logged in with entity id 942822 at ([world]58.02219137870228, 28.0, -10811.039175867498)
+[10:19:00] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[10:22:07] [User Authenticator #99/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[10:22:07] [Server thread/INFO]: GinGer_Snow lost connection: You logged in from another location
+[10:22:07] [Server thread/INFO]: GinGer_Snow left the game
+[10:22:07] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:61993] logged in with entity id 943381 at ([world]3.5522225349491476, 18.009999997615814, -10824.879835935964)
+[10:22:07] [Server thread/WARN]: handleDisconnection() called twice
+[10:24:18] [Server thread/INFO]: GinGer_Snow issued server command: /co i
+[10:24:20] [Server thread/INFO]: YiFanFengShun >> 憨明睡觉
+[10:24:23] [Server thread/INFO]: GinGer_Snow issued server command: /co i
+[10:24:29] [Server thread/INFO]: GinGer_Snow >> 口头洼路（
+[10:24:35] [Server thread/INFO]: GinGer_Snow >> 没带床（
+[10:24:42] [Server thread/INFO]: YiFanFengShun >> 下下线
+[10:24:46] [Server thread/INFO]: GinGer_Snow lost connection: Disconnected
+[10:24:46] [Server thread/INFO]: GinGer_Snow left the game
+[10:25:03] [User Authenticator #100/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[10:25:03] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:62015] logged in with entity id 943649 at ([world]-31.100302631228633, 62.07326432466495, -10803.199669127405)
+[10:27:09] [Server thread/WARN]: GinGer_Snow moved wrongly!
+[10:35:06] [Server thread/WARN]: YiFanFengShun moved too quickly! -9.94588641808241,0.0,-16.87590497794747
+[10:35:33] [Server thread/INFO]: YiFanFengShun >> 睡觉
+[10:35:44] [Server thread/INFO]: GinGer_Snow issued server command: /co i
+[10:35:49] [Server thread/INFO]: GinGer_Snow issued server command: /co i
+[10:35:52] [Server thread/INFO]: GinGer_Snow lost connection: Disconnected
+[10:35:52] [Server thread/INFO]: GinGer_Snow left the game
+[10:36:07] [User Authenticator #101/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[10:36:07] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:62092] logged in with entity id 950654 at ([world]-344.3401844452984, 73.0, -3485.894632350316)
+[10:36:43] [Server thread/WARN]: GinGer_Snow moved too quickly! -0.4251814195470871,1.1661092609382138,9.987606743360345
+[10:39:25] [Server thread/INFO]: GinGer_Snow issued server command: /co i
+[10:39:34] [Server thread/INFO]: GinGer_Snow issued server command: /co i
+[10:42:36] [User Authenticator #102/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[10:42:36] [Server thread/INFO]: adhesive_tape[/127.0.0.1:62139] logged in with entity id 954597 at ([world]2774.300000011921, 63.0, -394.23750001192093)
+[10:42:54] [Server thread/INFO]: GinGer_Snow >> wtm
+[10:45:35] [Server thread/WARN]: GinGer_Snow moved too quickly! -0.4315728878586498,-0.15523200451660557,21.232323447745586
+[10:46:09] [Server thread/INFO]: YiFanFengShun >> adhesive_tape一会睡觉吗
+[10:46:14] [Server thread/INFO]: GinGer_Snow >> 啊这
+[10:46:23] [Server thread/INFO]: GinGer_Snow >> 虎狼之词（
+[10:46:31] [Server thread/INFO]: YiFanFengShun >> ,,,
+[10:46:34] [Server thread/INFO]: YiFanFengShun >> 睡觉
+[10:46:41] [Server thread/WARN]: GinGer_Snow moved too quickly! 21.61024104727585,0.6754387601295093,-0.6135214893844747
+[10:46:51] [Server thread/INFO]: GinGer_Snow >> 我突然发现我延迟好高
+[10:47:26] [Server thread/INFO]: YiFanFengShun >> 不睡吗
+[10:47:45] [Server thread/INFO]: GinGer_Snow >> 人家不愿意你就不要强迫人家辣~（？）
+[10:48:02] [Server thread/INFO]: adhesive_tape >> 睡
+[10:48:11] [Server thread/INFO]: GinGer_Snow >> az
+[10:48:13] [Server thread/INFO]: YiFanFengShun >> zzz
+[10:48:26] [Server thread/INFO]: GinGer_Snow >> 就这样被你征服~
+[10:48:28] [Server thread/INFO]: adhesive_tape >> 还有谁
+[10:48:33] [Server thread/INFO]: GinGer_Snow >> 我在地狱
+[10:48:44] [Server thread/INFO]: GinGer_Snow >> 你总不能叫我睡觉吧（
+[10:48:46] [Server thread/INFO]: adhesive_tape >> 一帆睡觉
+[10:49:00] [Server thread/INFO]: [公告] [警告] 2020.07.15 中午12:00末地刷新。现在请勿在末地建筑以免财产损失。 
+[10:49:09] [Server thread/INFO]: YiFanFengShun >> 刚才怪太多了
+[10:49:13] [Server thread/INFO]: adhesive_tape >> en
+[10:49:26] [User Authenticator #103/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[10:49:26] [Server thread/INFO]: GinGer_Snow lost connection: You logged in from another location
+[10:49:26] [Server thread/INFO]: GinGer_Snow left the game
+[10:49:26] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:62186] logged in with entity id 959592 at ([world]1600.1435907280897, 84.0, -39.5)
+[10:49:26] [Server thread/WARN]: handleDisconnection() called twice
+[10:49:46] [Server thread/INFO]: Villager EntityVillager['小泠'/954653, uuid='a8fcfd11-d6f9-46e9-b196-57dde596c9cf', l='world', x=2770.30, y=74.77, z=-409.66, cx=173, cz=-26, tl=109041, v=true, d=false] died, message: '小泠 was slain by 森语'
+[10:51:52] [Server thread/INFO]: adhesive_tape >> 一帆待会末地更新去找鞘翅吗
+[10:52:33] [Server thread/INFO]: YiFanFengShun >> 一块去？？
+[10:53:00] [Server thread/INFO]: adhesive_tape >> 可
+[10:53:10] [Server thread/INFO]: adhesive_tape >> 不过我鞘翅丢了，借我一个呗
+[10:53:15] [Server thread/INFO]: YiFanFengShun >> 。。。
+[10:53:20] [Server thread/INFO]: YiFanFengShun >> 我在外面
+[10:53:24] [Server thread/INFO]: adhesive_tape >> 没事
+[10:53:28] [Server thread/INFO]: adhesive_tape >> 待会再说
+[10:55:02] [Server thread/INFO]: adhesive_tape >> 骨折机真好用
+[10:55:14] [Server thread/INFO]: adhesive_tape >> 1颗绿宝石一本锋利IV
+[10:55:53] [Server thread/INFO]: GinGer_Snow >> .
+[10:56:05] [Server thread/INFO]: GinGer_Snow >> az
+[10:56:12] [Server thread/WARN]: GinGer_Snow moved too quickly! 0.5672968196968782,-1.1661092609382138,-19.759417867169816
+[10:56:19] [Server thread/WARN]: GinGer_Snow moved too quickly! -0.01738485686274771,-0.265495306383869,-18.115954290632544
+[10:57:43] [Server thread/INFO]: GinGer_Snow >> 共镇真的家大业大（
+[10:57:53] [Server thread/INFO]: GinGer_Snow >> 发现共镇有一个烤鱼机（
+[10:58:03] [Server thread/INFO]: YiFanFengShun issued server command: /
+[10:58:31] [Server thread/WARN]: GinGer_Snow moved too quickly! -0.17314422362989035,0.41999998688697815,10.17402285224199
+[10:58:55] [Server thread/WARN]: GinGer_Snow moved too quickly! -0.6578967605211119,-1.1216000461578375,17.373918669149873
+[10:59:30] [Server thread/INFO]: YiFanFengShun >> 睡觉
+[10:59:36] [Server thread/INFO]: GinGer_Snow >> 不睡
+[10:59:45] [Server thread/INFO]: YiFanFengShun >> 爪巴
+[10:59:51] [Server thread/INFO]: adhesive_tape >> 2333
+[10:59:57] [Server thread/INFO]: YiFanFengShun >> 快睡
+[11:00:06] [Server thread/INFO]: GinGer_Snow >> 不睡
+[11:00:19] [Server thread/INFO]: YiFanFengShun >> 下线
+[11:00:27] [Server thread/INFO]: GinGer_Snow >> 不下
+[11:00:46] [Server thread/INFO]: adhesive_tape >> 还有谁没睡觉
+[11:00:49] [Server thread/INFO]: adhesive_tape >> 打断腿
+[11:01:03] [Server thread/INFO]: GinGer_Snow >> 不听不听
+[11:03:07] [Server thread/WARN]: GinGer_Snow moved too quickly! -0.284510325591981,-1.0,-14.232546480039332
+[11:07:59] [Server thread/INFO]: adhesive_tape >> 好无聊
+[11:08:07] [Server thread/INFO]: GinGer_Snow >> 来跟我修地铁（
+[11:08:20] [Server thread/INFO]: adhesive_tape >> 在哪
+[11:08:34] [Server thread/INFO]: GinGer_Snow >> 帮忙整点石英就行（
+[11:08:40] [Server thread/INFO]: adhesive_tape >> ..
+[11:08:45] [Server thread/INFO]: YiFanFengShun >> 帮我烧点石头行不awa
+[11:08:51] [Server thread/INFO]: adhesive_tape >> 石头
+[11:08:55] [Server thread/INFO]: adhesive_tape >> 什么石头
+[11:09:05] [Server thread/INFO]: YiFanFengShun >> 石头
+[11:09:08] [Server thread/INFO]: adhesive_tape >> o
+[11:09:13] [Server thread/INFO]: adhesive_tape >> 一盒子够没
+[11:09:27] [Server thread/INFO]: YiFanFengShun >> 应该够
+[11:10:16] [User Authenticator #104/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[11:10:16] [Server thread/INFO]: 4022sun[/127.0.0.1:62326] logged in with entity id 978240 at ([world]2664.300000011921, 70.0, -375.9481775662422)
+[11:10:29] [Server thread/INFO]: 4022sun >> qwq
+[11:10:34] [Server thread/INFO]: adhesive_tape >> qwq
+[11:10:45] [Server thread/INFO]: GinGer_Snow >> 打工仔来打工！（
+[11:10:51] [Server thread/INFO]: 4022sun >> ???
+[11:11:29] [Server thread/INFO]: YiFanFengShun >> 快睡觉
+[11:11:34] [Server thread/INFO]: GinGer_Snow >> 不睡
+[11:11:36] [Server thread/INFO]: adhesive_tape >> 一帆在哪
+[11:11:40] [Server thread/INFO]: 4022sun >> 睡你麻痹起来嗨
+[11:12:05] [Server thread/INFO]: YiFanFengShun >> 我回到紫晶了
+[11:12:17] [Server thread/INFO]: 4022sun >> e
+[11:12:31] [Server thread/INFO]: adhesive_tape >> 紫晶在哪
+[11:12:37] [Server thread/INFO]: 4022sun >> ???
+[11:12:39] [Server thread/INFO]: 4022sun >> 我卡了？
+[11:12:44] [Server thread/INFO]: 4022sun >> 挖方块不掉？
+[11:12:47] [Server thread/INFO]: adhesive_tape >> 还有人没睡
+[11:12:50] [Server thread/INFO]: adhesive_tape >> 打断腿
+[11:12:51] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[11:12:51] [Server thread/INFO]: 4022sun left the game
+[11:12:57] [User Authenticator #105/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[11:12:57] [Server thread/INFO]: 4022sun[/127.0.0.1:62346] logged in with entity id 981302 at ([world]2769.299999974668, 63.0000002, -391.700000025332)
+[11:13:02] [Server thread/INFO]: 4022sun >> XD
+[11:13:09] [Server thread/INFO]: YiFanFengShun >> 你在哪
+[11:13:16] [Server thread/INFO]: adhesive_tape >> 海晶
+[11:13:19] [Server thread/WARN]: YiFanFengShun moved wrongly!
+[11:13:44] [Server thread/INFO]: GinGer_Snow >> 蓝冰上会刷怪吗（
+[11:13:47] [Server thread/INFO]: 4022sun >> yes
+[11:13:56] [Server thread/INFO]: 4022sun >> 浮冰和蓝冰上都会刷
+[11:14:13] [Server thread/INFO]: GinGer_Snow >> 那我给河湾铺点铁轨（
+[11:14:26] [Server thread/INFO]: 4022sun >> 哪里有TNT啊QWQ
+[11:14:31] [Server thread/INFO]: GinGer_Snow >> az
+[11:15:01] [Server thread/INFO]: adhesive_tape >> 我忘了
+[11:15:03] [Server thread/INFO]: adhesive_tape >> 。。。
+[11:16:25] [User Authenticator #106/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[11:16:25] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:62369] logged in with entity id 985573 at ([world]2633.425000011921, 72.25, 680.465342437883)
+[11:16:34] [Server thread/INFO]: GinGer_Snow >> 打工仔来了（
+[11:16:39] [Server thread/INFO]: 4022sun >> e
+[11:16:42] [Server thread/INFO]: YiFanFengShun >> 我继续整活去了
+[11:16:45] [Server thread/INFO]: Li_zi_wei >> 啊这
+[11:16:49] [Server thread/INFO]: GinGer_Snow >> 打工吗（
+[11:16:52] [Server thread/INFO]: Li_zi_wei >> 打啊
+[11:16:55] [Server thread/INFO]: 4022sun >> 准备去搞猪人塔QWQ
+[11:17:00] [Server thread/INFO]: Li_zi_wei >> 反正慕云不在
+[11:17:04] [Server thread/INFO]: Li_zi_wei >> 赚点外快
+[11:17:15] [Server thread/INFO]: GinGer_Snow >> 帮忙整亿点石英可以吗（
+[11:17:15] [Server thread/INFO]: adhesive_tape >> 谁要搞猪人塔
+[11:17:27] [Server thread/INFO]: 4022sun >> me
+[11:17:28] [Server thread/INFO]: Li_zi_wei >> 亿点石英？
+[11:17:30] [Server thread/INFO]: GinGer_Snow >> 报仇找龙岩（
+[11:17:34] [Server thread/INFO]: GinGer_Snow >> 报酬（
+[11:17:46] [Server thread/INFO]: GinGer_Snow >> 亿点（
+[11:18:21] [Server thread/INFO]: GinGer_Snow >> 我们的人民好干部瀚明
+[11:18:25] [Server thread/INFO]: GinGer_Snow >> 再修地铁（
+[11:18:31] [Server thread/INFO]: 4022sun >> 2333
+[11:18:58] [pool-15-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[11:19:00] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[11:19:30] [Server thread/INFO]: Li_zi_wei >> 延迟有点大（发慌
+[11:20:41] [Server thread/INFO]: Li_zi_wei >> 怂了
+[11:20:46] [Server thread/INFO]: Li_zi_wei >> 我去搞点抗火
+[11:21:30] [Server thread/INFO]: Li_zi_wei >> 不死图腾有抗火吗
+[11:21:33] [Server thread/INFO]: 4022sun >> no
+[11:21:37] [Server thread/INFO]: 4022sun >> 1.16有
+[11:21:52] [Server thread/INFO]: 4022sun >> e
+[11:21:54] [Server thread/INFO]: Li_zi_wei >> 日常走错版本233
+[11:22:03] [Server thread/INFO]: 4022sun >> 那个ZZ又把墙挖了不填
+[11:22:06] [Server thread/INFO]: 4022sun >> 呸
+[11:22:11] [Server thread/INFO]: 4022sun >> 是填了石头
+[11:22:13] [Server thread/INFO]: 4022sun issued server command: /co i
+[11:22:43] [Server thread/INFO]: 4022sun issued server command: /co i
+[11:23:10] [Server thread/INFO]: 4022sun issued server command: /co i
+[11:23:26] [Server thread/INFO]: 4022sun >> WTM
+[11:23:34] [Server thread/INFO]: 4022sun >> yhy?
+[11:23:38] [Server thread/INFO]: Li_zi_wei >> ?
+[11:23:39] [Server thread/INFO]: YiFanFengShun >> 睡觉
+[11:23:42] [Server thread/INFO]: YiFanFengShun >> ?
+[11:23:45] [Server thread/INFO]: 4022sun >> 没事干挖地板？
+[11:23:46] [Server thread/INFO]: Li_zi_wei >> yhy怎么了
+[11:23:56] [Server thread/INFO]: 4022sun >> demon_yhy
+[11:24:07] [Server thread/INFO]: Li_zi_wei >> 我去问问
+[11:24:07] [Server thread/INFO]: 4022sun >> 没事干把海晶地狱门入口的地板挖了
+[11:24:12] [Server thread/INFO]: 4022sun >> = =
+[11:24:15] [Server thread/INFO]: YiFanFengShun >> ???
+[11:24:20] [Server thread/INFO]: 4022sun >> 是蓝冰
+[11:24:26] [Server thread/INFO]: 4022sun issued server command: /co i
+[11:24:29] [Server thread/INFO]: GinGer_Snow >> 迷惑行为大赏
+[11:24:45] [Server thread/INFO]: Li_zi_wei >> 布吉岛
+[11:24:58] [Server thread/INFO]: adhesive_tape >> 去做猪人塔
+[11:25:00] [Server thread/INFO]: Li_zi_wei >> 他人不在
+[11:25:08] [Server thread/INFO]: Li_zi_wei >> 你们走法定程序吧
+[11:25:16] [Server thread/INFO]: 4022sun >> 算了，一个方块……
+[11:25:27] [Server thread/INFO]: 4022sun >> 让他下次注意吧
+[11:25:47] [Server thread/INFO]: 4022sun >> 有TNT吗tape
+[11:26:09] [Server thread/INFO]: adhesive_tape >> 空置域有一点
+[11:26:48] [Server thread/INFO]: adhesive_tape >> 咦
+[11:26:56] [Server thread/INFO]: adhesive_tape >> 我觉得石头不好看
+[11:26:59] [Server thread/INFO]: adhesive_tape >> 嘤
+[11:27:05] [Server thread/INFO]: 4022sun >> XD
+[11:27:12] [Server thread/INFO]: 4022sun >> 没办法啦
+[11:27:14] [Server thread/INFO]: adhesive_tape >> 海晶石如何
+[11:27:21] [Server thread/INFO]: 4022sun >> 算了，太奢侈了
+[11:27:27] [Server thread/INFO]: 4022sun >> 石头工厂那么大产能
+[11:27:29] [Server thread/INFO]: adhesive_tape >> 昨天刚做了个守卫者农场
+[11:27:29] [Server thread/INFO]: GinGer_Snow >> 海晶门口这个顶不修一下吗
+[11:27:35] [Server thread/INFO]: 4022sun >> 不用用可惜了=w=
+[11:27:47] [Server thread/INFO]: adhesive_tape >> 是大叔的吗
+[11:27:50] [Server thread/INFO]: 4022sun >> 找个地挖上去吧
+[11:28:02] [Server thread/INFO]: 4022sun >> 乔哥的
+[11:28:07] [Server thread/INFO]: 4022sun >> 纯掉落物的
+[11:28:07] [Server thread/INFO]: Li_zi_wei has made the advancement [Local Brewery]
+[11:28:16] [Server thread/INFO]: YiFanFengShun issued server command: /
+[11:28:17] [Server thread/INFO]: adhesive_tape >> 主城地狱门有上去的通道
+[11:28:18] [Server thread/INFO]: 4022sun >> 经验式太精神污染了
+[11:28:29] [Server thread/INFO]: 4022sun >> 从海晶上去多香啊XD
+[11:28:38] [Server thread/INFO]: adhesive_tape >> ....
+[11:28:49] [Server thread/INFO]: adhesive_tape >> 你自己搞吧
+[11:28:54] [Server thread/INFO]: adhesive_tape >> 我找憨明玩去
+[11:28:55] [Server thread/INFO]: 4022sun >> XD
+[11:29:05] [Server thread/INFO]: 4022sun >> 反正工程量不大XD
+[11:30:27] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[11:30:27] [Server thread/INFO]: 4022sun left the game
+[11:31:48] [Server thread/INFO]: GinGer_Snow >> 你没事吗（
+[11:32:50] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! -20.534275656880993,0.0,0.7498119555485872
+[11:32:50] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! -21.489792553142763,0.0,0.7498119555485872
+[11:33:09] [Server thread/WARN]: GinGer_Snow moved too quickly! -1651.0843360576825,16.233632006042477,-234.89030173586306
+[11:34:30] [Server thread/INFO]: YiFanFengShun >> 睡觉
+[11:34:43] [Server thread/INFO]: GinGer_Snow >> 口头洼路
+[11:35:06] [Server thread/INFO]: GinGer_Snow >> 主城那个混凝土机修好了吗（
+[11:35:13] [Server thread/INFO]: Li_zi_wei >> 如果我喝抗火掉岩浆了能在岩浆里鞘翅起飞吗
+[11:35:17] [Server thread/INFO]: GinGer_Snow >> az
+[11:35:23] [Server thread/INFO]: GinGer_Snow >> 不知道
+[11:35:28] [Server thread/INFO]: GinGer_Snow >> 没试过
+[11:35:29] [Server thread/INFO]: adhesive_tape >> 应该可以
+[11:35:39] [Server thread/INFO]: adhesive_tape >> 我上次掉岩浆还能飞
+[11:35:44] [Server thread/INFO]: adhesive_tape >> 然后撞死了
+[11:35:52] [Server thread/INFO]: GinGer_Snow >> 233
+[11:36:05] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! -0.8328764895272229,0.0,-31.860294092547008
+[11:36:05] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! -0.858610338889946,0.0,-33.47600793751832
+[11:36:05] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! -0.4478798376351847,0.0,-38.71255423674296
+[11:36:05] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! -0.4539302570841528,0.0,-40.466015857143304
+[11:36:05] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! -0.4584103737548162,0.0,-42.22438201438962
+[11:36:05] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! -0.4612787798471345,0.0,-43.98755190955245
+[11:36:05] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! -0.462502564691988,0.0,-45.75542693476771
+[11:36:05] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! -0.46204564825711714,0.0,-47.52791008445749
+[11:36:05] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! -0.459876508490197,0.0,-49.30490654860424
+[11:36:07] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! 0.5904286997089798,0.0,-39.41309409159953
+[11:36:07] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! 0.6337563269106568,0.0,-41.31464962078756
+[11:36:17] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! -38.74744773739246,0.0,-0.7855696447136076
+[11:36:17] [Server thread/WARN]: Boat (vehicle of GinGer_Snow) moved too quickly! -40.62187572171628,0.0,-0.8389730336070542
+[11:36:27] [Server thread/INFO]: adhesive_tape >> 上次开盾构机的时候，甩珍珠甩岩浆里
+[11:36:28] [Server thread/INFO]: Li_zi_wei >> 憨明行为——等下你就是憨明
+[11:36:33] [Server thread/INFO]: GinGer_Snow >> ?
+[11:36:36] [Server thread/INFO]: adhesive_tape >> 然后用烟花飞出来
+[11:36:43] [Server thread/INFO]: adhesive_tape >> 撞墙死了
+[11:37:00] [Server thread/INFO]: adhesive_tape >> tape感受到了动能
+[11:37:04] [Server thread/INFO]: GinGer_Snow >> 233
+[11:37:27] [Server thread/INFO]: GinGer_Snow >> aaaaaaa
+[11:37:33] [Server thread/INFO]: GinGer_Snow >> 主城混凝土机没修
+[11:37:46] [Server thread/INFO]: GinGer_Snow >> 啧
+[11:38:01] [Server thread/INFO]: GinGer_Snow >> 还有哪里的混凝土机能用吗（
+[11:38:05] [Server thread/INFO]: adhesive_tape >> 海晶
+[11:38:18] [Server thread/INFO]: GinGer_Snow >> 我借用一下（
+[11:38:25] [Server thread/INFO]: adhesive_tape >> ok
+[11:38:34] [Server thread/INFO]: adhesive_tape >> 帮忙固化混凝土
+[11:38:40] [Server thread/INFO]: adhesive_tape >> 黄绿色混凝土
+[11:38:48] [Server thread/INFO]: adhesive_tape >> 末地刷沙机里有
+[11:38:53] [Server thread/INFO]: GinGer_Snow >> az
+[11:39:04] [Server thread/INFO]: adhesive_tape >> 3-4个盒子固化就行，不用太多
+[11:39:05] [Server thread/INFO]: GinGer_Snow >> 我弄完我要弄的就弄（
+[11:39:10] [Server thread/INFO]: GinGer_Snow >> ?
+[11:39:22] [Server thread/INFO]: Li_zi_wei >> 3-4个盒子都不算多了吗
+[11:39:29] [Server thread/INFO]: GinGer_Snow >> <<不用太多》
+[11:39:31] [Server thread/INFO]: GinGer_Snow >> az
+[11:39:36] [Server thread/INFO]: adhesive_tape >> 感觉那个还是固化太慢了
+[11:39:43] [Server thread/INFO]: adhesive_tape >> 得想个办法做个快点的
+[11:39:46] [Server thread/INFO]: Li_zi_wei >> 共镇科技真就赶不上了
+[11:40:43] [Server thread/INFO]: GinGer_Snow >> 在哪（
+[11:40:51] [Server thread/INFO]: GinGer_Snow >> 混凝土机（
+[11:40:59] [Server thread/INFO]: adhesive_tape >> 马赛克
+[11:42:06] [Server thread/INFO]: GinGer_Snow >> 草
+[11:42:15] [Server thread/INFO]: GinGer_Snow >> 又摔坏一个图腾
+[11:42:28] [Server thread/INFO]: adhesive_tape >> XD
+[11:42:35] [Server thread/INFO]: adhesive_tape >> :D
+[11:42:47] [User Authenticator #107/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[11:42:48] [Server thread/INFO]: 4022sun[/127.0.0.1:62543] logged in with entity id 1000125 at ([world_nether]334.90347514545897, 115.0, -12.560880134340088)
+[11:43:28] [Server thread/INFO]: GinGer_Snow >> 总算找到了
+[11:43:33] [Server thread/INFO]: adhesive_tape >> 也许能倒退
+[11:43:34] [Server thread/INFO]: GinGer_Snow >> 怎么用啊（
+[11:43:37] [Server thread/INFO]: 4022sun >> >???
+[11:43:37] [Server thread/INFO]: adhesive_tape >> 还未遇见你
+[11:43:40] [Server thread/INFO]: Li_zi_wei >> ???
+[11:43:47] [Server thread/INFO]: GinGer_Snow >> ?
+[11:43:50] [Server thread/INFO]: adhesive_tape >> 偏离了航道
+[11:44:01] [Server thread/INFO]: adhesive_tape >> 储层全了彼此
+[11:44:11] [Server thread/INFO]: adhesive_tape >> 温柔地阻止
+[11:44:35] [Server thread/INFO]: adhesive_tape >> 一帆记得带我找鞘翅：D
+[11:45:06] [Server thread/INFO]: GinGer_Snow >> 怎么打开tnt啊
+[11:45:08] [Server thread/INFO]: adhesive_tape >> 恰东西
+[11:45:15] [Server thread/INFO]: adhesive_tape >> 真实的
+[11:45:19] [Server thread/INFO]: GinGer_Snow >> 阿巴巴？
+[11:45:23] [Server thread/INFO]: adhesive_tape >> 真的(lll￢ω￢)
+[11:45:30] [Server thread/INFO]: YiFanFengShun >> 睡觉
+[11:45:33] [Server thread/INFO]: adhesive_tape >> 就对着底下放混凝土
+[11:45:40] [Server thread/INFO]: GinGer_Snow >> 就行了？
+[11:45:44] [Server thread/INFO]: GinGer_Snow >> 高级
+[11:45:51] [Server thread/INFO]: 4022sun >> 你们在搞啥
+[11:45:52] [Server thread/INFO]: adhesive_tape >> 就放粉末就行
+[11:46:02] [Server thread/INFO]: adhesive_tape >> 哈皮不会用混凝土及
+[11:46:06] [Server thread/INFO]: adhesive_tape >> 教教他
+[11:46:06] [Server thread/INFO]: 4022sun >> emmm
+[11:46:09] [Server thread/INFO]: GinGer_Snow >> 啧
+[11:46:10] [Server thread/INFO]: YiFanFengShun >> 睡觉啊啊
+[11:46:11] [Server thread/INFO]: GinGer_Snow lost connection: Disconnected
+[11:46:11] [Server thread/INFO]: GinGer_Snow left the game
+[11:46:15] [Server thread/INFO]: 4022sun >> 2333
+[11:46:39] [User Authenticator #108/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[11:46:39] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:62570] logged in with entity id 1005651 at ([world]2803.30087380447, 62.0, -427.69999998807907)
+[11:47:13] [Server thread/INFO]: adhesive_tape >> 一帆记得带我找鞘翅：D
+[11:47:40] [Server thread/INFO]: YiFanFengShun >> 有种子鞘翅一大把
+[11:47:51] [Server thread/INFO]: GinGer_Snow >> 嘘
+[11:49:00] [Server thread/INFO]: [公告] [警告] 2020.07.15 中午12:00末地刷新。现在请勿在末地建筑以免财产损失。 
+[11:50:37] [Server thread/INFO]: adhesive_tape >> 没有鞘翅啥也做不成
+[11:50:41] [Server thread/INFO]: 4022sun >> XD
+[11:50:44] [Server thread/INFO]: 4022sun >> 你没有？
+[11:50:49] [Server thread/INFO]: adhesive_tape >> 我都丢了5/6个了
+[11:50:53] [Server thread/INFO]: 4022sun >> ????
+[11:50:57] [Server thread/INFO]: Li_zi_wei >> ?????
+[11:50:57] [Server thread/INFO]: 4022sun >> 我才丢3个’
+[11:51:00] [Server thread/INFO]: adhesive_tape >> 昨晚还把sen的弄丢了
+[11:51:05] [Server thread/INFO]: 4022sun >> 鞘翅杀手
+[11:51:06] [Server thread/INFO]: Li_zi_wei >> 我丢0个（（（
+[11:51:07] [Server thread/INFO]: GinGer_Snow >> az
+[11:51:13] [Server thread/INFO]: 4022sun >> 以后得限制你的供应了
+[11:51:16] [Server thread/INFO]: Li_zi_wei >> gabe是真正鞘翅杀手
+[11:51:20] [Server thread/INFO]: YiFanFengShun >> 就我稳的一批一个也没掉吗
+[11:51:26] [Server thread/INFO]: Li_zi_wei >> 我也没掉（
+[11:51:36] [Server thread/INFO]: adhesive_tape >> 够了
+[11:51:51] [Server thread/INFO]: adhesive_tape >> XD
+[11:51:51] [Server thread/INFO]: Li_zi_wei >> 反正马上就刷新了
+[11:52:03] [Server thread/INFO]: GinGer_Snow >> 又能白嫖了（bushi
+[11:52:33] [Server thread/INFO]: adhesive_tape >> 4022给个鞘翅呗~
+[11:52:35] [Server thread/INFO]: 4022sun >> 难得有机会榨干石头工厂
+[11:52:37] [Server thread/INFO]: 4022sun >> XD
+[11:52:41] [Server thread/INFO]: 4022sun >> 我也才一个
+[11:52:51] [Server thread/INFO]: 4022sun >> 还是别人的
+[11:52:56] [Server thread/INFO]: 4022sun >> Fuko的
+[11:52:59] [Server thread/INFO]: 4022sun >> XD
+[11:53:01] [Server thread/INFO]: adhesive_tape >> 北梦有没有
+[11:53:07] [Server thread/INFO]: 4022sun >> 她也就一个
+[11:53:12] [Server thread/INFO]: GinGer_Snow >> 她？
+[11:53:19] [Server thread/INFO]: 4022sun >> 她的备用鞘翅被我弄丢了
+[11:53:22] [Server thread/INFO]: 4022sun >> 对的
+[11:53:24] [Server thread/INFO]: 4022sun >> 她
+[11:53:28] [Server thread/INFO]: 4022sun >> =w=
+[11:53:37] [Server thread/INFO]: adhesive_tape >> 好吧
+[11:53:39] [Server thread/INFO]: adhesive_tape >> 一帆
+[11:53:42] [Server thread/INFO]: Li_zi_wei >> Fuko女的？
+[11:53:44] [Server thread/INFO]: adhesive_tape >> 借个鞘翅
+[11:53:54] [Server thread/INFO]: 4022sun >> 北梦女♂的
+[11:54:02] [Server thread/INFO]: adhesive_tape >> 一帆你在哪
+[11:54:17] [Server thread/INFO]: YiFanFengShun >> 在做基岩
+[11:54:31] [Server thread/INFO]: adhesive_tape >> 做掉几个了
+[11:55:06] [Server thread/INFO]: Li_zi_wei >> 我信仰之跃掉岩浆了
+[11:55:11] [Server thread/INFO]: 4022sun >> ??
+[11:56:03] [Server thread/INFO]: adhesive_tape >> 龙岩怎么不上
+[11:56:26] [Server thread/INFO]: adhesive_tape >> 哪呢
+[11:57:08] [Server thread/INFO]: adhesive_tape >> 我发现地吞有点难做
+[11:57:11] [Server thread/INFO]: [Server] 重启服务器 刷新末地
+[11:57:15] [Server thread/INFO]: YiFanFengShun >> 睡觉
+[11:57:19] [Server thread/INFO]: GinGer_Snow >> ohhhhhhhhh
+[11:57:23] [Server thread/INFO]: Stopping the server
+[11:57:23] [Server thread/INFO]: Stopping server
+[11:57:23] [Server thread/INFO]: [TAB] Disabling TAB v2.7.2
+[11:57:23] [Server thread/INFO]: [TAB] Disabled in 2ms
+[11:57:23] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[11:57:23] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is disabled!
+[11:57:23] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[11:57:23] [Server thread/INFO]: [CrowdLocator] Disabling CrowdLocator v1.0
+[11:57:23] [Server thread/INFO]: [ChatC] Disabling ChatC v0.5
+[11:57:23] [Server thread/INFO]: [ChatC] 聊天管理插件已关闭！
+[11:57:23] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[11:57:23] [Server thread/INFO]: [SAML] Disabling SAML v2.0.0
+[11:57:23] [Server thread/INFO]: [SAML] The frozen chunk cache file has been deleted. All chunks should have been accounted for.
+[11:57:23] [Server thread/INFO]: [SAML] Successfully disabled.
+[11:57:23] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[11:57:23] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.3.1
+[11:57:23] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[11:57:23] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] Database closed
+[11:57:23] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-3 - Shutdown initiated...
+[11:57:23] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-3 - Shutdown completed.
+[11:57:23] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[11:57:23] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[11:57:23] [Server thread/INFO]: [PxAutoMessage] 正在关闭皮克斯自动公告系统...
+[11:57:23] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[11:57:23] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[11:57:24] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[11:57:24] [Server thread/INFO]: Saving players
+[11:57:24] [Server thread/INFO]: YiFanFengShun lost connection: Server closed
+[11:57:24] [Server thread/INFO]: YiFanFengShun left the game
+[11:57:24] [Server thread/INFO]: adhesive_tape lost connection: Server closed
+[11:57:24] [Server thread/INFO]: adhesive_tape left the game
+[11:57:24] [Server thread/INFO]: Li_zi_wei lost connection: Server closed
+[11:57:24] [Server thread/INFO]: Li_zi_wei left the game
+[11:57:24] [Server thread/INFO]: 4022sun lost connection: Server closed
+[11:57:24] [Server thread/INFO]: 4022sun left the game
+[11:57:24] [Server thread/INFO]: GinGer_Snow lost connection: Server closed
+[11:57:24] [Server thread/INFO]: GinGer_Snow left the game
+[11:57:24] [Server thread/INFO]: Saving worlds
+[11:57:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[11:57:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:57:25] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[11:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:57:26] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[11:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

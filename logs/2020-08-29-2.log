@@ -1,0 +1,1002 @@
+[16:22:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[16:22:15] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:22:16] [Worker-Main-4/INFO]: Loaded 7 recipes
+[16:22:17] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[16:22:17] [Server thread/INFO]: Loading properties
+[16:22:18] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-379750e-43c7ff9 (MC: 1.16.2) (Implementing API version 1.16.2-R0.1-SNAPSHOT)
+[16:22:18] [Server thread/INFO]: Debug logging is disabled
+[16:22:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:22:18] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[16:22:18] [Server thread/INFO]: Default game type: SURVIVAL
+[16:22:18] [Server thread/INFO]: Generating keypair
+[16:22:18] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[16:22:18] [Server thread/INFO]: Using default channel type
+[16:22:19] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:22:21] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[16:22:21] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[16:22:21] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[16:22:21] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[16:22:21] [Server thread/WARN]: Legacy plugin PiglinFix vAlpha 1.1 does not specify an api-version.
+[16:22:21] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[16:22:21] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[16:22:21] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[16:22:21] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[16:22:21] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[16:22:21] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[16:22:21] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[16:22:21] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[16:22:21] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[16:22:21] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[16:22:21] [Server thread/INFO]: [PiglinFix] Loading PiglinFix vAlpha 1.1
+[16:22:21] [Server thread/INFO]: [TAB] Loading TAB v2.8.4
+[16:22:21] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[16:22:21] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[16:22:21] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[16:22:21] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[16:22:21] [Server thread/INFO]: Preparing level "world"
+[16:22:21] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:22:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:22:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:22:21] [Server thread/INFO]: Item Despawn Rate: 3000
+[16:22:21] [Server thread/INFO]: Item Merge Radius: 8.0
+[16:22:21] [Server thread/INFO]: View Distance: 12
+[16:22:21] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[16:22:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:22:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:22:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Experience Merge Radius: 8.0
+[16:22:21] [Server thread/INFO]: Mob Spawn Range: 4
+[16:22:21] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[16:22:21] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[16:22:21] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[16:22:21] [Server thread/INFO]: Max TNT Explosions: 100
+[16:22:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:22:21] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:22:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:22:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:22:21] [Server thread/INFO]: Item Despawn Rate: 3000
+[16:22:21] [Server thread/INFO]: Item Merge Radius: 8.0
+[16:22:21] [Server thread/INFO]: View Distance: 12
+[16:22:21] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[16:22:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:22:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:22:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Experience Merge Radius: 8.0
+[16:22:21] [Server thread/INFO]: Mob Spawn Range: 4
+[16:22:21] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[16:22:21] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[16:22:21] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[16:22:21] [Server thread/INFO]: Max TNT Explosions: 100
+[16:22:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:22:21] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:22:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:22:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:22:21] [Server thread/INFO]: Item Despawn Rate: 3000
+[16:22:21] [Server thread/INFO]: Item Merge Radius: 8.0
+[16:22:21] [Server thread/INFO]: View Distance: 12
+[16:22:21] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[16:22:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:22:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:22:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:22:21] [Server thread/INFO]: Experience Merge Radius: 8.0
+[16:22:21] [Server thread/INFO]: Mob Spawn Range: 4
+[16:22:21] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[16:22:21] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[16:22:21] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[16:22:21] [Server thread/INFO]: Max TNT Explosions: 100
+[16:22:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:22:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:22:23] [Server thread/INFO]: Preparing spawn area: 0%
+[16:22:23] [Server thread/INFO]: Preparing spawn area: 0%
+[16:22:23] [Server thread/INFO]: Preparing spawn area: 0%
+[16:22:23] [Server thread/INFO]: Preparing spawn area: 0%
+[16:22:23] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[16:22:24] [Server thread/INFO]: Time elapsed: 2351 ms
+[16:22:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:22:24] [Server thread/INFO]: Preparing spawn area: 0%
+[16:22:24] [Server thread/INFO]: Preparing spawn area: 0%
+[16:22:25] [Server thread/INFO]: Time elapsed: 774 ms
+[16:22:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:22:25] [Server thread/INFO]: Preparing spawn area: 0%
+[16:22:25] [Server thread/INFO]: Time elapsed: 458 ms
+[16:22:25] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[16:22:25] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[16:22:25] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[16:22:25] [Server thread/INFO]: --------------------
+[16:22:25] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[16:22:25] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[16:22:25] [Server thread/INFO]: --------------------
+[16:22:25] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[16:22:25] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[16:22:25] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[16:22:25] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[16:22:25] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[16:22:25] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[16:22:25] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[16:22:25] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[16:22:25] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[16:22:25] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[16:22:25] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[16:22:25] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minemora.entitytrackerfixer.v1_16_R2.NMSHandler
+[16:22:25] [Server thread/WARN]: 	at java.net.URLClassLoader.findClass(Unknown Source)
+[16:22:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:167)
+[16:22:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:96)
+[16:22:25] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[16:22:25] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[16:22:25] [Server thread/WARN]: 	at java.lang.Class.forName0(Native Method)
+[16:22:25] [Server thread/WARN]: 	at java.lang.Class.forName(Unknown Source)
+[16:22:25] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.nms.NMSCheck.getNMS(NMSCheck.java:14)
+[16:22:25] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:25)
+[16:22:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[16:22:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351)
+[16:22:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480)
+[16:22:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492)
+[16:22:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406)
+[16:22:25] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435)
+[16:22:25] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219)
+[16:22:25] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808)
+[16:22:25] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164)
+[16:22:25] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:22:25] [Server thread/ERROR]: [EntityTrackerFixer] Could not find support for this Spigot version.
+[16:22:25] [Server thread/ERROR]: Error occurred while enabling EntityTrackerFixer v1.3.1 (Is it up to date?)
+java.lang.NullPointerException: null
+	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:26) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[16:22:25] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[16:22:25] [Server thread/INFO]: [OpenInv] Your version of CraftBukkit (v1_16_R2) is not supported.
+[16:22:25] [Server thread/INFO]: [OpenInv] If this version is a recent release, check for an update.
+[16:22:25] [Server thread/INFO]: [OpenInv] If this is an older version, ensure that you've downloaded the legacy support version.
+[16:22:25] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5
+[16:22:25] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şÒÑÆôÓÃ£¡
+[16:22:25] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şµ±Ç°°æ±¾£ºV0.5 £¨2017Äê8ÔÂ24ÈÕ£©
+[16:22:25] [Server thread/INFO]: [ChatC] ¸ĞĞ»ÄúµÄÊ¹ÓÃ£¡
+[16:22:25] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3
+[16:22:25] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;33;1mChecking Your version...[m
+[16:22:25] [Server thread/INFO]: [0;34;1m===============================[m
+[16:22:25] [Server thread/INFO]: [0;32;1m[m
+[16:22:25] [Server thread/INFO]: [0;32;1m GroupManager+ is now enable![m
+[16:22:25] [Server thread/INFO]: [0;32;1m [m
+[16:22:25] [Server thread/INFO]: [0;33;1m Thank you for using GroupManager+ :)[m
+[16:22:25] [Server thread/INFO]: [0;33;1m GroupManager+ is create by HappyAreaBean![m
+[16:22:25] [Server thread/INFO]: [0;36;1m Current version: [0;32;1mv3.3[m
+[16:22:25] [Server thread/INFO]: [0;32;1m [m
+[16:22:25] [Server thread/INFO]: [0;34;1m===============================[m
+[16:22:25] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mWorld Found: world[m
+[16:22:25] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mSuperperms support enabled.[m
+[16:22:25] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is set for every 10 minutes![m
+[16:22:25] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBackups will be retained for 24 hours![m
+[16:22:25] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mGroupManager+ v3.3 is now enabled![m
+[16:22:25] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3
+[16:22:25] [Server thread/INFO]: [PxAutoMessage] ÕıÔÚÆô¶¯Æ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[16:22:25] [Server thread/INFO]: [PxAutoMessage] ³õÊ¼»¯ĞÅÏ¢Ä£¿é...
+[16:22:25] [Server thread/INFO]: [PxAutoMessage] ×¢²áÃüÁî¼àÌıÏµÍ³...
+[16:22:25] [Server thread/INFO]: [PxAutoMessage] ¼ÓÔØÍê±Ï£¡
+[16:22:25] [Server thread/INFO]:  
+[16:22:25] [Server thread/INFO]: > ×÷Õß£ºAn_ye (QQ:1444691679)
+[16:22:25] [Server thread/INFO]: > ±¾²å¼ş×Ô´øºº»¯£¬ÇëÎğÏàĞÅËùÎ½µÄºº»¯°æ£¡
+[16:22:25] [Server thread/INFO]: > £¨×÷ÕßµÄ»°£ºI'm Chinese.£©
+[16:22:25] [Server thread/INFO]:  
+[16:22:25] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0
+[16:22:26] [Server thread/INFO]: HikariPool-1 - Starting...
+[16:22:26] [Server thread/INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[16:22:26] [Server thread/INFO]: HikariPool-1 - Start completed.
+[16:22:30] [Server thread/INFO]: 
+ 
+[0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
+[0;30;1m| [0;31;1mInformation:
+[0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[0;30;1m| [0;31;1mSupport:
+[0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[0;30;1m| [0;31;1mUpdate:
+[0;30;1m|   [0;37;22mThere is a new version available! [2.2.1]
+[0;30;1m[]================================[][m
+ [m
+[16:22:30] [Server thread/INFO]: [PiglinFix] Enabling PiglinFix vAlpha 1.1
+[16:22:30] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mFixing Piglin drops [0;35;1m-By RanWhite[m
+[16:22:37] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mLastest version is new[m
+[16:22:38] [Server thread/INFO]: [TAB] Enabling TAB v2.8.4
+[16:22:38] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.16.2 (v1_16_R2)[m
+[16:22:38] [Server thread/INFO]: [0;31;1m[TAB] File [0;33;1mplugins\TAB\errors.txt[0;31;1m exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.[m
+[16:22:38] [Server thread/INFO]: [0;31;1m[TAB] Animation "[0;33;1mWelcome[0;31;1m" does not have any texts! [0;36;1mIgnoring.[m
+[16:22:38] [Server thread/INFO]: [0;33;1m[TAB] There were 2 startup warnings.[m
+[16:22:38] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 39ms[m
+[16:22:38] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT
+[16:22:38] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0
+[16:22:38] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1
+[16:22:38] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[16:22:38] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[16:22:38] [Server thread/INFO]: [AnGmode] ¡ìaÄãºÃ£¡ÎÒÊÇĞ¡°²£¬¸ĞĞ»ÄãÄÜÊ¹ÓÃÕâ¸ö²å¼ş£¡
+[16:22:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:22:38] [Server thread/INFO]: Done (16.466s)! For help, type "help"
+[16:22:38] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBukkit Permissions Updated![m
+[16:22:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[16:22:39] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;31;1mYour version (v3.3) is outdated download the lastest version:[m
+[16:22:39] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;32;1mhttps://www.spigotmc.org/resources/40615/[m
+[16:22:39] [Thread-19/INFO]: --------------------
+[16:22:39] [Thread-19/INFO]: [CoreProtect] Version 19.1 is now available.
+[16:22:39] [Thread-19/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[16:22:39] [Thread-19/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[16:22:39] [Thread-19/INFO]: --------------------
+[16:23:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@74257194[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:52601) lost connection: Disconnected
+[16:23:26] [User Authenticator #1/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[16:23:27] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:52605] logged in with entity id 469 at ([world]-527.8722379496628, 75.0, -445.78736948789265)
+[16:23:36] [User Authenticator #2/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[16:23:36] [Server thread/INFO]: Ghost_king_[/127.0.0.1:52609] logged in with entity id 711 at ([world_nether]189.01249998807907, 42.0, 907.7002572010372)
+[16:23:39] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> µÚÒ»awa[m
+[16:32:25] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[16:53:41] [Server thread/INFO]: the_yellowleaf issued server command: /p me
+[17:12:00] [User Authenticator #3/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[17:12:00] [Server thread/INFO]: Dong_Miing[/127.0.0.1:53901] logged in with entity id 11229 at ([world_nether]161.18753120517704, 115.0, 20.6875)
+[17:12:25] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[17:16:20] [Server thread/INFO]: Dong_Miing >> ²»¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª[m
+[17:16:30] [Server thread/INFO]: Dong_Miing >> ¹ú¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª±¦¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª[m
+[17:16:59] [Server thread/INFO]: Dong_Miing >> ÓĞ»îÈËÂğ£¿[m
+[17:17:00] [Server thread/INFO]: Dong_Miing >> ÓĞ»îÈËÂğ£¿[m
+[17:17:04] [Server thread/INFO]: Dong_Miing >> ÓĞ»îÈËÂğ£¿???!e1e1[m
+[17:22:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[17:22:51] [Server thread/INFO]: There are 3 of a max of 40 players online: the_yellowleaf, Ghost_king_, Dong_Miing
+[17:24:15] [Server thread/INFO]: Dong_Miing >> ¡£¡£¡£¡£[m
+[17:24:19] [Server thread/INFO]: Dong_Miing >> Ã»ÓĞ»îÈË£¿[m
+[17:24:35] [Server thread/INFO]: the_yellowleaf lost connection: Timed out
+[17:24:35] [Server thread/INFO]: the_yellowleaf left the game
+[17:33:00] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mDrops fixed[m
+[17:37:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{type:"minecraft:plain_flower_provider"},whitelist:[],can_replace:0b}}]
+[17:37:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{type:"minecraft:plain_flower_provider"},whitelist:[],can_replace:0b}}]
+[17:37:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:4,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:0,height_rand_a:2,trunk_top_offset:0,max_water_depth:0,foliage_placer:{type:"minecraft:blob_foliage_placer",radius:2,radius_random:0},ignore_vines:1b}}]
+[17:37:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:4,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:0,height_rand_a:2,trunk_top_offset:0,max_water_depth:0,foliage_placer:{type:"minecraft:blob_foliage_placer",radius:2,radius_random:0},ignore_vines:1b}}]
+[17:37:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:4,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:0,height_rand_a:2,trunk_top_offset:0,max_water_depth:0,foliage_placer:{type:"minecraft:blob_foliage_placer",radius:2,radius_random:0},ignore_vines:1b}}]
+[17:38:41] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mDrops fixed[m
+[17:51:18] [Server thread/INFO]: Dong_Miing >> zzz[m
+[17:52:57] [Server thread/INFO]: Dong_Miing lost connection: Disconnected
+[17:52:57] [Server thread/INFO]: Dong_Miing left the game
+[17:53:03] [User Authenticator #4/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[17:53:03] [Server thread/INFO]: Dong_Miing[/127.0.0.1:56004] logged in with entity id 17877 at ([world_nether]511.5884937781333, 115.0, 138.48626293465043)
+[18:00:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{type:"minecraft:plain_flower_provider"},whitelist:[],can_replace:0b}}]
+[18:00:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{type:"minecraft:plain_flower_provider"},whitelist:[],can_replace:0b}}]
+[18:00:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:4,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:0,height_rand_a:2,trunk_top_offset:0,max_water_depth:0,foliage_placer:{type:"minecraft:blob_foliage_placer",radius:2,radius_random:0},ignore_vines:1b}}]
+[18:00:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:4,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:0,height_rand_a:2,trunk_top_offset:0,max_water_depth:0,foliage_placer:{type:"minecraft:blob_foliage_placer",radius:2,radius_random:0},ignore_vines:1b}}]
+[18:00:02] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:4,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:0,height_rand_a:2,trunk_top_offset:0,max_water_depth:0,foliage_placer:{type:"minecraft:blob_foliage_placer",radius:2,radius_random:0},ignore_vines:1b}}]
+[18:00:38] [Server thread/INFO]: Dong_Miing lost connection: Disconnected
+[18:00:38] [Server thread/INFO]: Dong_Miing left the game
+[18:00:42] [User Authenticator #5/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[18:00:43] [Server thread/INFO]: Dong_Miing[/127.0.0.1:56206] logged in with entity id 18578 at ([world]4012.8595122842644, 65.0, 1111.061573342831)
+[18:22:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[18:36:53] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[18:36:54] [Server thread/INFO]: Ghost_king_ left the game
+[18:38:39] [Server thread/INFO]: Dong_Miing lost connection: Disconnected
+[18:38:39] [Server thread/INFO]: Dong_Miing left the game
+[18:50:54] [User Authenticator #6/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[18:50:55] [Server thread/INFO]: Dong_Miing[/127.0.0.1:58296] logged in with entity id 25925 at ([world]1297.088183038286, 117.51792048261846, -1356.0911384760375)
+[18:50:55] [Server thread/WARN]: Entity EntityPlayer['Dong_Miing'/25925, l='ServerLevel[world]', x=1295.52, y=117.48, z=-1356.06](Dong_Miing at 1295.5249960655735,117.48459684154491,-1356.0629601214757) left loaded chunk area
+[19:15:31] [Server thread/INFO]: Dong_Miing lost connection: Disconnected
+[19:15:31] [Server thread/INFO]: Dong_Miing left the game
+[19:17:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@38ce955b[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:59209) lost connection: Disconnected
+[19:17:50] [User Authenticator #7/INFO]: Disconnecting com.mojang.authlib.GameProfile@38ce955b[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:59209): Authentication servers are down. Please try again later, sorry!
+[19:17:50] [User Authenticator #7/ERROR]: Couldn't verify username because servers are unavailable
+[19:18:07] [User Authenticator #8/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[19:18:07] [Server thread/INFO]: Dong_Miing[/127.0.0.1:59224] logged in with entity id 26734 at ([world]1368.300000011921, 138.1875, -1364.300000011921)
+[19:20:59] [User Authenticator #9/INFO]: UUID of player Envy_Cloud is c5f83320-e8be-418f-81c1-e1f3ea1f99d5
+[19:20:59] [Server thread/INFO]: Envy_Cloud[/127.0.0.1:59300] logged in with entity id 26994 at ([world]3156.169039898178, 63.231624710863976, 595.8915614120325)
+[19:21:04] [Server thread/INFO]: Dong_Miing >> Ä½ÔÆ¡£¡£¡£[m
+[19:21:17] [Server thread/INFO]: Dong_Miing >> Envy_Cloud[m
+[19:21:38] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> ÎÒ¾ÍÉÏÏß¿´¿´[m
+[19:21:46] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[19:22:25] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:22:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[19:23:42] [Server thread/INFO]: Dong_Miing >> Äã²»»á²»ÈÏÊ¶ÎÒ°É¡£¡£Ä½ÔÆ([m
+[19:23:55] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> linyiÑ½[m
+[19:24:01] [Server thread/INFO]: Dong_Miing >> ´íÁË[m
+[19:24:05] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> awa?[m
+[19:24:18] [Server thread/INFO]: Dong_Miing >> linyiÊÇÁíÒ»¸öºÅ[m
+[19:24:31] [Server thread/INFO]: Dong_Miing >> ²Â²ÂÎÒÊÇË­£¨[m
+[19:24:51] [Server thread/INFO]: Dong_Miing >> linyi»»ºÅÁË[m
+[19:25:02] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> ³¾Ä©ÕßEnderMan[m
+[19:25:08] [Server thread/INFO]: Dong_Miing >> emmmmm[m
+[19:25:13] [Server thread/INFO]: Dong_Miing >> Ò»Õë¼ûÑª[m
+[19:25:17] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> awa[m
+[19:25:23] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> ÄãÔÚÄÄ[m
+[19:25:44] [Server thread/INFO]: Dong_Miing >> ×Ï¾§Ë¢µòÁé×¨ÓÃ»ùÑÒ[m
+[19:25:45] [Server thread/INFO]: Dong_Miing >> Õâ[m
+[19:25:57] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> Ç³ÔÆÀ´¹ä¹ıÂğ[m
+[19:26:01] [Server thread/INFO]: Dong_Miing >> en[m
+[19:26:05] [Server thread/INFO]: Dong_Miing >> ³¬¼¶ºÃ¿´[m
+[19:27:25] [Server thread/INFO]: Dong_Miing >> ·şÎñÆ÷·¢Õ¹ºÃ¿ì[m
+[19:27:48] [Server thread/INFO]: Dong_Miing >> É³µñ¶¼³ÉÎªÓéÀÖ»î¶¯ÁË£¨[m
+[19:28:13] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> ¿´ÎÒ[m
+[19:28:26] [Server thread/INFO]: Dong_Miing >> ¸½Ä§½ğ[m
+[19:28:33] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> ¿´¿´Õâ°Ñ[m
+[19:28:41] [Server thread/INFO]: Dong_Miing >> woc[m
+[19:28:46] [Server thread/INFO]: Dong_Miing >> [º¦ÅÂ][m
+[19:29:47] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> Õâ¸öÎÒ¶àµÃÊÇ[m
+[19:29:54] [Server thread/INFO]: Dong_Miing >> ĞÅ±êÎÒÒ²²»ÉÙ¡£¡£¡£[m
+[19:30:09] [Server thread/INFO]: Dong_Miing >> ÏÂ½çÖ®ĞÇÏÖÔÚÒ»µã¶¼²»ÖµÇ®ÁË¡£-¡£[m
+[19:30:18] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> ¿´¿´ÎÒµÄ´«¼Ò±¦[m
+[19:30:31] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[19:30:49] [Server thread/INFO]: Dong_Miing >> 12ºÏ½ğ[m
+[19:30:53] [Server thread/INFO]: Dong_Miing >> ÎÒËáÁË[m
+[19:31:02] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> ÂôÁËºÜ¶à[m
+[19:31:09] [Server thread/INFO]: Dong_Miing >> ÎÒ¸üËáÁË¡£-¡£[m
+[19:31:13] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> Ö®Ç°ÓĞ°ë×é[m
+[19:31:17] [Server thread/INFO]: Envy_Cloud issued server command: /p me
+[19:31:20] [Server thread/INFO]: Dong_Miing >> ÎÒÕ¨ÁË[m
+[19:31:28] [Server thread/INFO]: Envy_Cloud issued server command: /p Dong_Miing
+[19:31:34] [Server thread/INFO]: Envy_Cloud issued server command: /p help
+[19:31:35] [Server thread/INFO]: Dong_Miing >> Ï®»÷Å©³¡²î²»¶à×öºÃÁË[m
+[19:31:35] [Server thread/INFO]: Envy_Cloud issued server command: /p
+[19:31:40] [Server thread/INFO]: Envy_Cloud issued server command: /p lead
+[19:31:45] [Server thread/INFO]: Dong_Miing >> ÄãÈ¥¿´¹ıÂğ£¨qwq£©[m
+[19:31:49] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> ¿´¹ı[m
+[19:32:05] [Server thread/INFO]: Dong_Miing >> ×ßÀÈ¸ãºÃÁË£¨·è¿ñ°µÊ¾£©[m
+[19:32:20] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> awa[m
+[19:32:27] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> ÏÂÁË[m
+[19:32:28] [Server thread/INFO]: Envy_Cloud lost connection: Disconnected
+[19:32:28] [Server thread/INFO]: Envy_Cloud left the game
+[19:37:53] [User Authenticator #10/INFO]: UUID of player _YuanXiao_ is 4f9774d2-fbbb-463f-878d-3a0eae13ec05
+[19:37:54] [Server thread/INFO]: _YuanXiao_[/127.0.0.1:59727] logged in with entity id 29548 at ([world_nether]642.1182487143562, 128.0, 33.927703954442876)
+[19:37:57] [Server thread/INFO]: Dong_Miing >> emmm[m
+[19:39:49] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mDrops fixed[m
+[19:40:07] [Server thread/INFO]: Dong_Miing >> _YuanXiao_[m
+[19:40:15] [Server thread/INFO]: _YuanXiao_ >> en[m
+[19:41:04] [Server thread/INFO]: Dong_Miing >> ÄãÔÚÄÄ£¿[m
+[19:41:09] [Server thread/INFO]: Dong_Miing >> ÔÚ¸ÉÂï[m
+[19:42:25] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[19:42:33] [Server thread/INFO]: Dong_Miing >> ...[m
+[19:46:27] [Server thread/INFO]: Dong_Miing >> _YuanXiao_[m
+[19:46:36] [Server thread/INFO]: Dong_Miing >> Ò»ÆğÀ´´òÂÓ¶áÕ½Âğ/[m
+[19:55:01] [Server thread/INFO]: _YuanXiao_ >> Dong_MiingÕ¦Æô¶¯[m
+[19:55:07] [Server thread/INFO]: Dong_Miing >> Ê²Ã´¶«Î÷£¿[m
+[19:55:15] [Server thread/INFO]: _YuanXiao_ >> ÂÓ¶áËş[m
+[19:55:24] [Server thread/INFO]: Dong_Miing >> ÄãÒıÁË£¿[m
+[19:55:29] [Server thread/INFO]: _YuanXiao_ >> en[m
+[19:55:34] [Server thread/INFO]: Dong_Miing >> Å¶ºğÍêµ°[m
+[19:55:39] [Server thread/INFO]: _YuanXiao_ >> ???[m
+[19:55:42] [Server thread/INFO]: Dong_Miing >> ÓÖÊÇÒ»¸öºÍÎÒÒ»Ñù×÷ËÀµÄ£¨[m
+[19:55:48] [Server thread/INFO]: _YuanXiao_ >> ²»[m
+[19:55:50] [Server thread/INFO]: Dong_Miing >> »¹Ã»¸ãÍê[m
+[19:56:07] [Server thread/INFO]: _YuanXiao_ >> Äã¹ÊÒâÈ¥ÕĞÈÇËûÃÇ[m
+[19:56:11] [Server thread/INFO]: Dong_Miing >> £¿[m
+[19:56:47] [Server thread/INFO]: _YuanXiao_ >> ËùÒÔ»ÃÄ§Õß»á´òÄã[m
+[19:57:04] [Server thread/INFO]: Dong_Miing >> ºÍ»½Ä§ÕßÃ»¹ØÏµ[m
+[19:57:09] [Server thread/INFO]: Dong_Miing >> Ö÷ÒªÊÇ[m
+[19:57:14] [Server thread/INFO]: Dong_Miing >> »úÆ÷Ã»×öºÃ[m
+[19:57:19] [Server thread/INFO]: Dong_Miing >> ÄãÒ²´ò²»ÁË[m
+[19:57:20] [Server thread/INFO]: _YuanXiao_ >> zhidao[m
+[19:57:50] [Server thread/INFO]: _YuanXiao_ >> ÄÇÄã½ĞÎÒ´òÊ²Ã´ÂÓ¶á[m
+[19:57:59] [Server thread/INFO]: Dong_Miing >> ÀÏµÄËş¡£¡£¡£[m
+[19:59:28] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[19:59:28] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:01:08] [Server thread/INFO]: Dong_Miing >> ÎÒÈ¥Ç¡·¹ÁË¡£-¡£[m
+[20:01:51] [Server thread/INFO]: _YuanXiao_ lost connection: Disconnected
+[20:01:51] [Server thread/INFO]: _YuanXiao_ left the game
+[20:09:21] [User Authenticator #11/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[20:09:21] [Server thread/INFO]: adhesive_tape[/127.0.0.1:60342] logged in with entity id 36968 at ([world_nether]157.9222608594928, 115.0, -169.5)
+[20:12:25] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:13:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ei[m
+[20:18:39] [Server thread/INFO]: Dong_Miing >> tape[m
+[20:18:55] [Server thread/INFO]: Dong_Miing >> adhesive_tape ÔÚÂğ£¿»¹»î×ÅÇë´ò1[m
+[20:19:41] [Server thread/INFO]: Dong_Miing >> adhesive_tape ÔÚÂğ£¿»¹»î×ÅÇë´ò1[m
+[20:21:02] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> si[m
+[20:21:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> 1[m
+[20:21:28] [Server thread/INFO]: Dong_Miing >> tapeĞ±45¶ÈÑöÍûÌì¿Õ[m
+[20:21:36] [Server thread/INFO]: Dong_Miing >> ÏİÈëÁË³ÁË¼[m
+[20:22:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> 2[m
+[20:22:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[20:24:16] [Server thread/INFO]: Dong_Miing >> tape[m
+[20:24:29] [Server thread/INFO]: Dong_Miing >> tapeÎØÎØÎØ[m
+[20:24:35] [Server thread/INFO]: Dong_Miing >> Î¨Ò»µÄ»îÈË[m
+[20:28:22] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> az[m
+[20:28:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÔÚ°ïghost½ÓÌæ[m
+[20:28:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒÔÚ°ïghost½âÌâ[m
+[20:28:39] [Server thread/INFO]: Dong_Miing >> ?[m
+[20:28:42] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[20:28:43] [Server thread/INFO]: Dong_Miing >> Å¶[m
+[20:28:49] [Server thread/INFO]: Dong_Miing >> ÄÇµÀ¼¸ºÎÌâ£¿[m
+[20:29:11] [Server thread/INFO]: Dong_Miing >> ¾ÍÎÒ[m
+[20:29:56] [User Authenticator #12/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[20:29:56] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:60779] logged in with entity id 39450 at ([world_nether]189.5373976183895, 42.0, 905.5124999880791)
+[20:30:10] [Server thread/INFO]: Dong_Miing >> ·ãÒ¶~~[m
+[20:30:17] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ²İ[m
+[20:30:21] [Server thread/INFO]: Dong_Miing >> ?[m
+[20:30:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> cao[m
+[20:30:41] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÎÒ¸úGK¹Ò»ú¹ÒÒ»°ë£¬ÀÏ×Ó¼ÒÀï±£ÏÕË¿ÉÕµôÁË[m
+[20:30:49] [Server thread/INFO]: Dong_Miing >> emmm[m
+[20:30:53] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÎÒ»¹²»ÖªµÀ[m
+[20:30:58] [Server thread/INFO]: Dong_Miing >> ±£ÏÕË¿£¿[m
+[20:31:05] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÌøÕ¢[m
+[20:31:09] [Server thread/INFO]: Dong_Miing >> ¶÷[m
+[20:31:15] [Server thread/INFO]: Dong_Miing >> ÎÒÖªµÀ[m
+[20:31:22] [Server thread/INFO]: Dong_Miing >> ³õÈıµçÑ§£¨[m
+[20:32:09] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÓĞÉ¶»îÒªÎÒ¸ÉµÄÂğ[m
+[20:32:28] [Server thread/INFO]: Dong_Miing >> Ë¢±ù»ú£¨[m
+[20:32:38] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÄãÃÇµÄÂÌËşºÃÁËÂğ[m
+[20:32:46] [Server thread/INFO]: Dong_Miing >> Ã»[m
+[20:32:58] [Server thread/INFO]: Dong_Miing >> ÎÒÒ²¼¤¶¯µØ²»µÃÁË[m
+[20:33:02] [Server thread/INFO]: Dong_Miing >> ¿É¾ÍÊÇÃ»×öºÃ[m
+[20:33:10] [Server thread/INFO]: Dong_Miing >> ÔÛÃÇ´òÂÓ¶á°É[m
+[20:33:15] [Server thread/INFO]: Dong_Miing >> ÁúÀĞµÄ[m
+[20:33:19] [Server thread/INFO]: Dong_Miing >> Ëş[m
+[20:33:49] [Server thread/INFO]: Dong_Miing >> the_yellowleaf[m
+[20:33:54] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ?[m
+[20:33:58] [Server thread/INFO]: Dong_Miing >> ÄãÊÇÄĞµÄ»¹ÊÇÅ®µÄ£¨[m
+[20:34:05] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> Äã¾õµÄÄØawa[m
+[20:34:16] [Server thread/INFO]: Dong_Miing >> ¿É°®µÄÃÃÖ½£¨[m
+[20:34:24] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> Äã¿´ÄÄ¸öÃÃÖ½ÌìÌì°¾Ò¹µÄ[m
+[20:35:05] [Server thread/INFO]: Dong_Miing >> emmm[m
+[20:35:15] [Server thread/INFO]: Dong_Miing >> ·şÎñÆ÷ÓĞÃÃ×ÓÂğ[m
+[20:35:19] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÓĞ°¡[m
+[20:35:26] [Server thread/INFO]: Dong_Miing >> who[m
+[20:35:38] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> Ä½ÔÆ[m
+[20:35:46] [Server thread/INFO]: Dong_Miing >> Ä½ÔÆ²»ÊÇÄĞµÄÂğ¡£-¡£[m
+[20:35:53] [Server thread/INFO]: Dong_Miing >> ÎÒ»¹ÔÚ¹²ÕòµÄÊ±ºò[m
+[20:36:01] [Server thread/INFO]: Dong_Miing >> ËûÃÇ¶¼ËµÄ½ÔÆÊÇÄĞµÄ[m
+[20:36:09] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ±¬ÕÕÁË[m
+[20:36:12] [Server thread/INFO]: Dong_Miing >> £¡[m
+[20:36:32] [Server thread/INFO]: Dong_Miing >> ²»»á¾ÍÒ»¸ö°É[m
+[20:36:42] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> Ğ¡²Ë[m
+[20:36:46] [Server thread/INFO]: Dong_Miing >> en[m
+[20:36:49] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mDrops fixed[m
+[20:36:52] [Server thread/INFO]: Dong_Miing >> ¶¼²»ÉÏÏßÁË¡£-¡£[m
+[20:37:07] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> Ò»¸ö¸ß¿¼£¬Ò»¸ö¿¼ÍêÁË[m
+[20:37:26] [Server thread/INFO]: Dong_Miing >> ºÃÎŞÁÄ°¡[m
+[20:37:31] [Server thread/INFO]: Dong_Miing >> Ã»ÊÂ¸É[m
+[20:37:46] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÄãÕâ¸ö±ùµÀ¸ÄµÄºÃ[m
+[20:37:54] [Server thread/INFO]: Dong_Miing >> qwq[m
+[20:38:16] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> µ«ÎÒ²»ÈÃÄãÌáÒ»¸ñÎÒ¸Ğ¾õĞ§¹û¼õ°ë[m
+[20:38:24] [Server thread/INFO]: Dong_Miing >> µÄÈ·[m
+[20:39:02] [Server thread/INFO]: Dong_Miing >> ¸ã¸öÂÓ¶áÍæÍæ[m
+[20:39:26] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> °ïÎÒÅªµãÂÌ±¦Ê¯[m
+[20:39:32] [Server thread/INFO]: Dong_Miing >> en[m
+[20:39:34] [User Authenticator #13/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:39:34] [Server thread/INFO]: Bay_Max_[/127.0.0.1:60981] logged in with entity id 42098 at ([world]1379.2550574508414, 150.0, -1371.0245643695966)
+[20:39:40] [Server thread/INFO]: Dong_Miing >> Bay_Max_[m
+[20:39:57] [Server thread/INFO]: Dong_Miing >> Äã¿ó³µµÄ·¢ÉäÆ÷»¹Ã»×öÍê°É[m
+[20:40:00] [Server thread/INFO]: Bay_Max_ lost connection: Timed out
+[20:40:00] [Server thread/INFO]: Bay_Max_ left the game
+[20:40:05] [Server thread/INFO]: Dong_Miing >> ...[m
+[20:40:06] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÏÖÔÚ¶¼Ã»ÈËÖªµÀBay MaxÊÇÉ¶Âğ[m
+[20:40:11] [Server thread/INFO]: Dong_Miing >> ?[m
+[20:40:25] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÄãÃÇ¿´µçÓ°¶¼¿´ÖĞÎÄµÄ£¿[m
+[20:40:47] [User Authenticator #14/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:40:47] [Server thread/INFO]: Bay_Max_[/127.0.0.1:61003] logged in with entity id 42306 at ([world]1379.2550574508414, 150.0, -1371.0245643695966)
+[20:40:49] [Server thread/INFO]: Dong_Miing >> .-.[m
+[20:40:53] [Server thread/INFO]: Dong_Miing >> (¡ñ¡ª¡ñ)[m
+[20:40:56] [Server thread/INFO]: Dong_Miing >> ¶®£¿[m
+[20:41:17] [Server thread/INFO]: Dong_Miing >> ´ó°×[m
+[20:41:29] [Server thread/INFO]: Dong_Miing >> ÎÒ¿´µçÓ°´Ó²»¿´ÖĞÎÄµÄ¡£-¡£[m
+[20:41:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> az[m
+[20:41:45] [Server thread/INFO]: Dong_Miing >> Å¶¶Ô[m
+[20:41:55] [Server thread/INFO]: Dong_Miing >> ĞÅÌõÄãÃÇ´òËãÈ¥¿´Âğ£¿[m
+[20:42:06] [Server thread/INFO]: Dong_Miing >> 9ÔÂ¶àÉÏÏß[m
+[20:42:25] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[20:43:04] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> tape,·¿×Ó¸øÄã½¨ÄÄ£¿[m
+[20:47:05] [Server thread/INFO]: Dong_Miing >> ÓĞÈËÍæÃ÷ÈÕ·½ÖÛÂğ£¨[m
+[20:48:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> az[m
+[20:49:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ßÀ[m
+[20:49:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ½¨sen¼ÒÅÔ±ß[m
+[20:49:50] [Server thread/INFO]: Dong_Miing >> ÄãÃÇ¶¼ÓĞ»ú°¡[m
+[20:49:53] [Server thread/INFO]: Dong_Miing >> ¼Ò[m
+[20:49:59] [Server thread/INFO]: Bay_Max_ >> Ã»ÓĞ£¨[m
+[20:50:02] [Server thread/INFO]: Dong_Miing >> ÎÒËáÁË[m
+[20:51:10] [Server thread/INFO]: Dong_Miing >> emmm[m
+[20:51:49] [Server thread/INFO]: Dong_Miing >> ÒªÊÇĞ¡ãöÊÇ¿É°®µÄÃÃÖ½£¨[m
+[20:53:07] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÒªµãÏÖ´ú·ç[m
+[20:53:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> »¹ÓĞ¿Æ¼¼·ç[m
+[20:53:16] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> Ãî[m
+[20:53:20] [Server thread/INFO]: Dong_Miing >> emmmmm[m
+[20:53:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÁíÍâ¼ÓµãĞÅ±ê/×êÊ¯¿é/ÏÂ½ìºÏ½ğ¿éÊ²Ã´µÄ×ö×°ÊÎ[m
+[20:53:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ·À»ğ´ëÊ©×öÒ»ÏÂ[m
+[20:57:19] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[20:57:31] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[20:57:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¹şĞê£¿[m
+[20:57:35] [Server thread/INFO]: Bay_Max_ has reached the goal [Hired Help]
+[20:57:42] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[20:57:42] [Server thread/INFO]: adhesive_tape left the game
+[20:58:49] [Server thread/INFO]: Dong_Miing >> Õâ¸öË®£¿¡¢£¿[m
+[20:59:13] [Server thread/INFO]: Dong_Miing has reached the goal [Hired Help]
+[20:59:28] [Server thread/INFO]: Bay_Max_ >> £¿[m
+[20:59:29] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[20:59:29] [Server thread/INFO]: Bay_Max_ left the game
+[20:59:37] [User Authenticator #15/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:59:37] [Server thread/INFO]: Bay_Max_[/127.0.0.1:61701] logged in with entity id 48375 at ([world]1369.6373454170741, 138.0, -1355.7505704750374)
+[21:00:03] [Server thread/INFO]: Dong_Miing >> ·şÎñÆ÷µÄÒºÌåÊÇ²»ÊÇ¶¼ÊÇËÀµÄ[m
+[21:00:14] [Server thread/INFO]: Dong_Miing >> ¿´ÆğÀ´Ã»ÓĞÁ÷¶¯[m
+[21:00:19] [Server thread/INFO]: Bay_Max_ >> Äã¿´µ½É¶ÁË[m
+[21:00:21] [Server thread/INFO]: Dong_Miing >> »ğÒ²ÊÇ[m
+[21:00:24] [Server thread/INFO]: Bay_Max_ >> ÎÒÕ¦¿´²»µ½[m
+[21:00:25] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ½¨ÒéÀ­È¥¸øtapeÆÌË®[m
+[21:00:38] [Server thread/INFO]: Dong_Miing >> °¡Õâ[m
+[21:00:42] [Server thread/INFO]: Dong_Miing >> ÎÒ¶®ÁË[m
+[21:00:50] [Server thread/INFO]: Dong_Miing >> ÒòÎªÎÒµÄµçÄÔ²î£¨[m
+[21:00:55] [Server thread/INFO]: Bay_Max_ >> ...[m
+[21:01:01] [Server thread/INFO]: Dong_Miing >> ºÃÏñÊÇÒòÎª[m
+[21:01:09] [Server thread/INFO]: Dong_Miing >> ÎÒ¼Ó×°ÁËÁÛ[m
+[21:01:15] [Server thread/INFO]: Dong_Miing >> ÓÅ»¯Ä£×é[m
+[21:01:24] [Server thread/INFO]: Bay_Max_ >> 162ÓĞÂğ[m
+[21:01:28] [Server thread/INFO]: Bay_Max_ >> 1162ÓĞÂğ[m
+[21:01:30] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> Ã»[m
+[21:01:32] [Server thread/INFO]: Dong_Miing >> 162?[m
+[21:01:37] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÎÒ½ñÌì¸Õ¿´[m
+[21:01:56] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[21:02:05] [Server thread/INFO]: Dong_Miing >> ÍüÁËÊ²Ã´ÓÅ»¯Ä£×é£¨[m
+[21:02:12] [Server thread/INFO]: Bay_Max_ >> ¿ªÑ§ÁËÎÒÃ»ĞøÌİ×Ó£¨£¨[m
+[21:03:47] [Server thread/INFO]: Dong_Miing >> »½Ä§ÕßÒÖÖÆÆ÷ÊÇÒª´òÍêµÚÒ»´ÎÏ®»÷²ÅÄÜ¸ã°É[m
+[21:03:54] [Server thread/INFO]: Dong_Miing >> »¹µÃÔØ[m
+[21:03:54] [Server thread/INFO]: Bay_Max_ >> ÒªÒıÒ»²¨[m
+[21:04:12] [Server thread/INFO]: Dong_Miing >> ÒşĞÎÒ©Ë®ÔÚÂğ×öµÄÀ´×Å[m
+[21:04:23] [Server thread/INFO]: Bay_Max_ >> ÓĞÁ½Æ¿£¨[m
+[21:05:30] [Server thread/WARN]: Bay_Max_ moved wrongly!
+[21:06:08] [Server thread/INFO]: Dong_Miing >> ÆäËûµÄ¸ãÍêÁË£¿[m
+[21:06:15] [Server thread/INFO]: Dong_Miing >> Ö»µÈÒıµÚÒ»²¨£¿[m
+[21:06:28] [Server thread/INFO]: Bay_Max_ >> àÅ[m
+[21:06:34] [Server thread/INFO]: Dong_Miing >> ÏÖÔÚ£¿[m
+[21:06:44] [Server thread/INFO]: Bay_Max_ >> Ã÷Ìì°É ÎÒÏÈÏÂÁË£¨£¨£¨[m
+[21:06:48] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[21:06:52] [Server thread/INFO]: Dong_Miing >> en[m
+[21:06:59] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[21:07:05] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[21:07:05] [Server thread/INFO]: Bay_Max_ left the game
+[21:07:35] [User Authenticator #16/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[21:07:35] [Server thread/INFO]: Laohuaji[/127.0.0.1:62050] logged in with entity id 50124 at ([world]1364.9795857681763, 135.61835224654848, -1344.1550981171974)
+[21:07:42] [Server thread/INFO]: Dong_Miing >> ÀÏ»¬»ü¡£--¡£[m
+[21:07:44] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[21:08:29] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[21:09:05] [User Authenticator #17/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[21:09:05] [Server thread/INFO]: adhesive_tape[/127.0.0.1:62071] logged in with entity id 51206 at ([world]2763.8274066762046, 63.0, -400.8543690993964)
+[21:09:11] [Server thread/INFO]: Dong_Miing >> adhesive_tape[m
+[21:09:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[21:09:13] [Server thread/INFO]: Dong_Miing >> ÄãµÄÄÇ¸ö[m
+[21:09:21] [Server thread/INFO]: Dong_Miing >> ¹Ì»¯»ú[m
+[21:09:24] [Server thread/INFO]: Dong_Miing >> ÔÚÄÄ~~[m
+[21:09:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×¼±¸×ö[m
+[21:09:36] [Server thread/INFO]: Dong_Miing >> ×öÔÚÄÇ£¿[m
+[21:09:43] [Server thread/INFO]: Dong_Miing >> ÄÄ£¿[m
+[21:09:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> º£¾§ÂíÈü¿ËÆ½Ì¨ÕâÀï[m
+[21:10:24] [Server thread/INFO]: Dong_Miing >> ¶÷[m
+[21:11:52] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[21:11:52] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[21:11:56] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[21:12:01] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[21:12:25] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[21:12:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÔõÃ´¿¨Ö¡ÑÏÖØ[m
+[21:12:48] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ?[m
+[21:13:16] [Server thread/INFO]: Dong_Miing >> Ã»Ñ½¡£-¡£[m
+[21:13:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> °ïÎÒ×¼±¸²ÄÁÏ[m
+[21:13:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ºÚê×Ê¯À´Ò»µã[m
+[21:13:53] [Server thread/INFO]: Dong_Miing >> ÒÚµã[m
+[21:14:32] [Server thread/INFO]: Dong_Miing >> Ã»ÓĞÁË¡£-¡£[m
+[21:14:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> È¥ÍÚ[m
+[21:14:50] [Server thread/INFO]: Laohuaji issued server command: /gamemode spectator
+[21:14:50] [Server thread/INFO]: [Laohuaji: Set own game mode to Spectator Mode]
+[21:15:14] [Server thread/INFO]: Dong_Miing >> ¸ä×ÓÒªÕ¨ÁË£¨[m
+[21:16:05] [Server thread/WARN]: Dong_Miing moved too quickly! -1651.8188118566916,16.77925736288696,-234.64305984048605
+[21:16:15] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[21:16:21] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[21:16:36] [Server thread/INFO]: Dong_Miing >> Ä©µØÃ»ĞÅ±ê£¿£¡[m
+[21:16:49] [Server thread/INFO]: Laohuaji issued server command: /gamemode creative
+[21:16:49] [Server thread/INFO]: [Laohuaji: Set own game mode to Creative Mode]
+[21:16:54] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÎÒÔç¾ÍÏë·ÅÒ»¸öÁË[m
+[21:17:01] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ([m
+[21:17:06] [Server thread/INFO]: Dong_Miing >> ÄÇÄãÀ´·ÅÒ»¸ö£¨[m
+[21:17:10] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ¡°Ôç¾ÍÏë¡±[m
+[21:17:24] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> È»ºóÎÒ¾Í°ÑÀÏ»¬»üµÄÄÇ¼¸¸öÂÌ¿é²ğÏÂÀ´µ±µ××ùÁË[m
+[21:17:30] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÎÒÍÚÍê¾Í²ğÁË[m
+[21:17:30] [Server thread/INFO]: Dong_Miing >> Ãë[m
+[21:17:35] [Server thread/INFO]: Dong_Miing >> Ãî°¡[m
+[21:17:36] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ¾Ù±¨ÁË[m
+[21:17:44] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> »¹ÔÚÄ©µØµÄ[m
+[21:17:49] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÄãµÄ¿é¶¼ÔÚ[m
+[21:17:55] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ¾Ù±¨¾Ù±¨[m
+[21:18:09] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> az[m
+[21:19:07] [Server thread/INFO]: Dong_Miing >> ºÏ½ğµÄ¶«Î÷¿ÉÒÔÓÃÊ²Ã´ĞŞ£¿[m
+[21:19:12] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ºÏ½ğ[m
+[21:19:15] [Server thread/INFO]: Dong_Miing >> ×êÊ¯¿ÉÒÔÂğ£¨[m
+[21:19:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓÃ»µ¶ªµô[m
+[21:19:29] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÕıÍ¦ºÃ[m
+[21:19:29] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÎÒÄÜÓÃÌúĞŞ×êÊ¯¸åÂğ[m
+[21:19:30] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎÒ¸øÄãÒ»°Ñ[m
+[21:19:33] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ?[m
+[21:19:39] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÓÃ»µ¸øÎÒ[m
+[21:19:43] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ±ğ¶ª[m
+[21:19:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> hhh[m
+[21:20:03] [Server thread/INFO]: Dong_Miing >> ¾«ĞŞ¸ä×Ó[m
+[21:20:12] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÎÒÄÜ¸øÄãÃÇÅªÒ»¶Ñ¾«ĞŞ»ØÀ´[m
+[21:20:13] [Server thread/INFO]: Dong_Miing >> ¿ÉÊÇÆ«Æ«²»Îü¾­Ñé[m
+[21:20:21] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ([m
+[21:20:38] [Server thread/INFO]: Laohuaji issued server command: /tps
+[21:20:42] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÎÒÈ¥ÆÈº¦×Ï¾§´åÃñÁËawa[m
+[21:21:10] [Server thread/INFO]: Dong_Miing >> Òª¶àÉÙºÚê×Ê¯[m
+[21:21:12] [Server thread/INFO]: Dong_Miing >> t[m
+[21:21:14] [Server thread/INFO]: Dong_Miing >> t[m
+[21:21:20] [Server thread/INFO]: Dong_Miing >> adhesive_tape[m
+[21:21:24] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ºÚê×Ê¯£¨[m
+[21:21:42] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[21:21:42] [Server thread/INFO]: Laohuaji left the game
+[21:21:59] [Server thread/INFO]: Dong_Miing >> Òª¶àÉÙºÚê×Ê¯[m
+[21:22:22] [Server thread/INFO]: Dong_Miing >> »¹»î×ÅÂğ£¿[m
+[21:22:28] [User Authenticator #18/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[21:22:28] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:62259] logged in with entity id 55712 at ([world]2765.784362256561, 63.0, -390.65968250507456)
+[21:22:30] [Server thread/WARN]: the_yellowleaf moved wrongly!
+[21:22:31] [Server thread/INFO]: Dong_Miing >> »î×ÅÇë´ò1[m
+[21:22:35] [Server thread/INFO]: Dong_Miing >> LZW!!!!!![m
+[21:22:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[21:22:47] [Server thread/INFO]: Dong_Miing >> LZW£¡£¡£¡£¡[m
+[21:22:50] [Server thread/INFO]: Dong_Miing >> wa[m
+[21:22:56] [Server thread/INFO]: Li_zi_wei >> ?[m
+[21:23:04] [Server thread/INFO]: Dong_Miing >> ²Â²ÂÎÒÊÇË­£¨[m
+[21:23:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> 1[m
+[21:23:08] [Server thread/INFO]: Li_zi_wei >> cmz[m
+[21:23:12] [Server thread/INFO]: Dong_Miing >> emmm[m
+[21:23:24] [Server thread/INFO]: Dong_Miing >> Å¶¶Ô[m
+[21:23:28] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> lzwÊÇË­£¨[m
+[21:23:44] [Server thread/INFO]: Dong_Miing >> ÎÒºÍlinyiÍùÄã¼ÒËÍĞÜÃ¨Ê±[m
+[21:23:50] [Server thread/INFO]: Dong_Miing >> ÎÒµÄÄÇ¸öËÀÁË£¨[m
+[21:23:59] [Server thread/INFO]: Dong_Miing >> ÖÏÏ¢¶øËÀ£¨[m
+[21:24:05] [Server thread/INFO]: Li_zi_wei >> ÎÒ¼Ò£¿[m
+[21:24:24] [Server thread/INFO]: Dong_Miing >> ÄãµÄÒş¾ÓÖ®µØ[m
+[21:24:35] [Server thread/INFO]: Li_zi_wei >> ÄãidÄã·¢ÔÚº£¾§Èº¹ı[m
+[21:24:50] [Server thread/INFO]: Dong_Miing >> emmm[m
+[21:24:53] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ?????[m
+[21:24:55] [Server thread/INFO]: Li_zi_wei >> ¶øÇÒĞÂidµ«ÊÇÈÏÊ¶×î½ü²»ÉÏÏßµÄÎÒ+×î½ü¸ãµ½Õı°æÖ»ÄÜÊÇÄã[m
+[21:25:05] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> º£¾§£¿[m
+[21:25:07] [Server thread/INFO]: Dong_Miing >> £¨[m
+[21:25:14] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> Ô¶¹ÅÊØÎÀ£¿£¿[m
+[21:25:15] [Server thread/INFO]: Dong_Miing >> ¶ÔÑ½[m
+[21:25:20] [Server thread/INFO]: Li_zi_wei >> ÎÒÔÚº£¾§Èº¹Û¹â[m
+[21:25:23] [Server thread/INFO]: Dong_Miing >> ¡£-¡£[m
+[21:25:25] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> 4·ÖÖÓ[m
+[21:25:30] [Server thread/INFO]: Dong_Miing >> ¶Ô[m
+[21:25:35] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> »¹ºÃÎÒÓĞ·äÃÛ[m
+[21:25:38] [Server thread/INFO]: Dong_Miing >> ºÜ¶ñĞÄÊÇ°É[m
+[21:25:45] [Server thread/INFO]: Dong_Miing >> ÎÒÒ²±»¶ñĞÄµ½ÁË[m
+[21:25:59] [Server thread/INFO]: Dong_Miing >> Ë­³ö¸öÇÏÉ±ÁËÔ¶¹ÅÊØÎÀ£¨[m
+[21:26:02] [Server thread/INFO]: Li_zi_wei >> ÎÒÅö²»µ½buf[m
+[21:26:07] [Server thread/INFO]: Li_zi_wei >> buff²»ÖªµÀÎªÊ²Ã´[m
+[21:26:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> öè[m
+[21:26:32] [Server thread/INFO]: Dong_Miing >> ccs?[m
+[21:26:35] [User Authenticator #19/INFO]: UUID of player upsama is 9618bb26-059b-4501-8ff2-c2c738588057
+[21:26:36] [Server thread/INFO]: upsama[/127.0.0.1:62323] logged in with entity id 57743 at ([world_nether]513.1998060354427, 45.0, -1877.2649217482863)
+[21:26:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÎªÉ¶ÒªöèÔ¶¹ÅÊØÎÀ[m
+[21:26:44] [Server thread/INFO]: Dong_Miing >> ¶ñĞÄ£¨[m
+[21:26:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄÇ¿ÉÊÇÎÒĞÁ¿àÅª»ØÀ´µÄ[m
+[21:27:06] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÎÔ²ÛÎÒÇ±Ó°ºĞ¶¼ÄáÂêÍÚ²»µô[m
+[21:27:07] [Server thread/INFO]: Dong_Miing >> ÄÇ¾Í×ªÒÆ×ß£¨[m
+[21:27:25] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×¨ÃÅ·ÀĞÜµÄ[m
+[21:27:31] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> Dong_MiingÊÇË­a[m
+[21:27:31] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[21:27:39] [Server thread/INFO]: Li_zi_wei >> cmz[m
+[21:27:43] [Server thread/INFO]: Dong_Miing >> ÎÒÊÇº©Åú£¨[m
+[21:27:46] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> ĞÂµÄ£¿[m
+[21:27:49] [Server thread/INFO]: Li_zi_wei >> ¾Éid Bili_CMZ[m
+[21:27:55] [Server thread/INFO]: [0;32;1m<Å®×°×Óup>[0;37;1m upsama >> oooooo[m
+[21:27:59] [Server thread/INFO]: Dong_Miing >> ¡£-¡£[m
+[21:28:20] [Server thread/INFO]: Li_zi_wei >> ¾É¹²Õò£¨¹Ø·şÇ°¼ÓÈëº£¾§£©³ÉÔ±[m
+[21:28:22] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> upÕâÃ´ÓĞ³ÆºÅÁË£¨[m
+[21:28:32] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mDrops fixed[m
+[21:28:42] [Server thread/INFO]: Li_zi_wei >> ¹Ò»ú µÈ»á»ØÀ´[m
+[21:28:46] [Server thread/INFO]: Li_zi_wei >> Ï´ÔèÈ¥[m
+[21:28:48] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mDrops fixed[m
+[21:29:20] [Server thread/INFO]: Dong_Miing >> XKµÄÄÌÕæºÃºÈ[m
+[21:29:23] [Server thread/INFO]: Dong_Miing >> °×°×µÄ[m
+[21:29:24] [Server thread/WARN]: Dong_Miing was kicked for floating too long!
+[21:29:24] [Server thread/INFO]: Dong_Miing lost connection: Flying is not enabled on this server
+[21:29:24] [Server thread/INFO]: Dong_Miing left the game
+[21:29:32] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ºÈµ½ÏÂÏß»¹ĞĞ[m
+[21:29:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@21b4b0df[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:62392) lost connection: Disconnected
+[21:29:38] [User Authenticator #21/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[21:29:39] [Server thread/INFO]: Dong_Miing[/127.0.0.1:62401] logged in with entity id 58415 at ([world]2700.6728834762357, 70.02175825308167, -347.072298451332)
+[21:29:44] [Server thread/INFO]: upsama lost connection: Disconnected
+[21:29:44] [Server thread/INFO]: upsama left the game
+[21:29:44] [Server thread/INFO]: Dong_Miing >> ,,,[m
+[21:29:50] [Server thread/INFO]: Dong_Miing >> flying?[m
+[21:30:23] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[21:30:28] [Server thread/INFO]: Villager EntityVillager['Villager'/57218, l='ServerLevel[world]', x=5263.90, y=73.49, z=299.85] died, message: 'Villager was squished too much'
+[21:30:29] [Server thread/INFO]: adhesive_tape issued server command: /vo i
+[21:30:31] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[21:32:25] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[21:35:17] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÏÖÔÚº£¾°ÈË×î¶àÁË[m
+[21:35:25] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ºÓÍå¾ÍÁ©ÈË[m
+[21:35:36] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ×Ï¾§Á©ÈË[m
+[21:35:41] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ¹²ÕòÎŞÁË[m
+[21:35:46] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> Îå°ÙÒ»¸ö[m
+[21:36:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ã»ÓĞºìÊ¯¶öÁË[m
+[21:36:50] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ã»ÓĞÕ³Òº¿éÁË[m
+[21:37:00] [Server thread/INFO]: Dong_Miing >> ÎÒÈ¥ÄÃ[m
+[21:37:11] [Server thread/INFO]: Dong_Miing >> ÚÀ²»¶Ô[m
+[21:37:16] [Server thread/INFO]: Dong_Miing >> º£¾§µÄ[m
+[21:37:17] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÏÖÔÚºĞ×ÓÕæÄáÂê¶à[m
+[21:37:25] [Server thread/INFO]: Dong_Miing >> ËãÁË[m
+[21:37:34] [Server thread/INFO]: Dong_Miing >> ÎÒÈ¥ÄÃ[m
+[21:37:39] [Server thread/INFO]: Dong_Miing >> Õ³ÒºÇò[m
+[21:40:30] [Server thread/INFO]: Dong_Miing >> 1×é[m
+[21:40:37] [Server thread/INFO]: Dong_Miing >> ÄãÔÚÄÄ£¿[m
+[21:41:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> º£¾§¡£¡£[m
+[21:41:26] [Server thread/INFO]: Dong_Miing lost connection: Disconnected
+[21:41:26] [Server thread/INFO]: Dong_Miing left the game
+[21:41:34] [User Authenticator #22/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[21:41:34] [Server thread/INFO]: Dong_Miing[/127.0.0.1:62633] logged in with entity id 61171 at ([world]1866.3703892657973, 7.0, 330.9590262789154)
+[21:42:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÈËÄØ[m
+[21:42:46] [Server thread/INFO]: Dong_Miing >> Â·ÉÏ[m
+[21:44:28] [Server thread/INFO]: Dong_Miing >> ¡¶1 ×é¡·[m
+[21:44:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ºÚê×Ê¯[m
+[21:44:42] [Server thread/INFO]: Dong_Miing >> e,,,,mmm[m
+[21:44:49] [Server thread/INFO]: Dong_Miing >> 55¸ö[m
+[21:47:00] [Server thread/INFO]: Dong_Miing >> ÏÖÔÚÄçÊ¬Ëş¹ÒµÄ³ö[m
+[21:47:05] [Server thread/INFO]: Dong_Miing >> Èı²æêªÂğ£¿[m
+[21:47:13] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> no[m
+[21:47:22] [Server thread/INFO]: Dong_Miing >> weisha[m
+[21:47:25] [Server thread/INFO]: Dong_Miing >> ÎªÉ¶¡£-¡£[m
+[21:47:38] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ½¨Òé°Ù¶È[m
+[21:47:47] [Server thread/INFO]: Dong_Miing >> ÎÒ×ßÁË[m
+[21:47:52] [Server thread/INFO]: Dong_Miing >> Ğ´×÷ÒµÈ¥ÁË[m
+[21:47:58] [Server thread/INFO]: Dong_Miing >> ºóÌì¿ªÑ§[m
+[21:48:19] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ×÷ÒµÕâÖÖ¶«Î÷[m
+[21:48:25] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÔçĞ´Íê£¬ÔçÏíÊÜ[m
+[21:48:33] [Server thread/INFO]: Dong_Miing >> +![m
+[21:48:36] [Server thread/INFO]: Dong_Miing >> +1[m
+[21:48:44] [Server thread/INFO]: Dong_Miing >> ÎÒ»¹²îÒ»µãµã[m
+[21:48:47] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÍÏÏÂÈ¥Ö»»á±ä³É¸ºµ£[m
+[21:49:10] [Server thread/INFO]: Dong_Miing >> ´øÕÜÑ§¼Ò£¨[m
+[21:49:23] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÎÒ¶¼ÊÇ·Å¼ÙÇ°¼¸Ìì¹Ø½û±ÕĞ´×÷ÒµµÄ£¨[m
+[21:49:54] [Server thread/INFO]: Dong_Miing >> ÎÒÔÚº£Ãà±¦±¦µÄ·¿×ÓÀïÁË£¨[m
+[21:49:59] [Server thread/INFO]: Dong_Miing >> ÓĞÊÂÉÕÖ½£¨[m
+[21:50:23] [Server thread/INFO]: Dong_Miing >> ÓÀ±ğÁË£¨[m
+[21:50:33] [Server thread/INFO]: Dong_Miing lost connection: Disconnected
+[21:50:33] [Server thread/INFO]: Dong_Miing left the game
+[21:56:50] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÄãÃÇ¾õµÃÕâtweakrooµÄÕâ¸öÁé»ê³öÇÏËã¹ÒÂğ£¨[m
+[21:56:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> »¹ºÃ[m
+[21:56:59] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿ÉÒÔÍÚ¿ó[m
+[21:57:25] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÕâÖÖ¹¤¾ßÓÃÔÚÍáÃÅĞ°µÀÉÏ¾Í¸ú¹ÒÃ»Çø±ğÁË[m
+[22:01:00] [Server thread/INFO]: Li_zi_wei >> Ê²Ã´ËãÍáÃÅĞ°µÀ[m
+[22:01:21] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> Í¶Ó°¿ÉÒÔÍ¶³öµØÏÂ¿óÎï[m
+[22:01:28] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> °üÀ¨ÒÅº¡[m
+[22:01:56] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> tweakrooµÄÌØÊâĞÔ¿ÉÒÔ¿¨³öGKµÄÄÇÖÖ´ø·æÀûµÄ¸å×Ó[m
+[22:04:44] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Ë­¹ıÀ´[m
+[22:04:47] [Server thread/INFO]: Li_zi_wei >> ?[m
+[22:04:49] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> Ê²Ã´ÊÇ[m
+[22:04:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²âÊÔÒ»ÏÂ»ìÄıÍÁ¹Ì»¯»ú[m
+[22:04:59] [Server thread/INFO]: Li_zi_wei >> ÔÚÄÄ£¿[m
+[22:05:04] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ¹²Õò£¨[m
+[22:05:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÂíÈü¿Ë[m
+[22:07:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> Õ¦ÁË[m
+[22:07:25] [Server thread/INFO]: Li_zi_wei >> ²»ÊÇÒª²âÊÔÂğ[m
+[22:07:33] [Server thread/INFO]: Li_zi_wei >> À´¹¤¾ßÈË¡¤[m
+[22:07:40] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÉÔµÈ[m
+[22:08:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ok[m
+[22:08:43] [Server thread/INFO]: Li_zi_wei >> Õ¾ÔÚÄÄ[m
+[22:09:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿ª¹Ø[m
+[22:09:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿ªÊ¼[m
+[22:09:44] [Server thread/INFO]: Li_zi_wei >> ¸øµã»ìÄıÍÁ£¨[m
+[22:09:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ×Ô¼ºÄÃ[m
+[22:10:43] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓĞµã¿ìÁË[m
+[22:11:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ÌĞø[m
+[22:11:36] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ÌĞø[m
+[22:12:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> emmm[m
+[22:12:06] [Server thread/INFO]: Li_zi_wei >> ?[m
+[22:12:12] [Server thread/INFO]: Li_zi_wei >> ¸Õ²ÅºÃÏñ¿¨ÁËÏÂ[m
+[22:12:25] [Server thread/INFO]: Li_zi_wei >> ÊÇ²»ÊÇÓĞ¸ö»ìÄıÍÁ¡¤¶Â×¡ÁË[m
+[22:13:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> az[m
+[22:13:16] [Server thread/INFO]: Li_zi_wei >> ...£¿[m
+[22:13:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¼ÌĞø[m
+[22:14:35] [Server thread/INFO]: Li_zi_wei >> ?[m
+[22:14:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÄãÁ¬µãÆ÷Ì«¿ìÁË£¿[m
+[22:14:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ·şÎñÆ÷¿¨µÄ[m
+[22:15:06] [Server thread/INFO]: Li_zi_wei >> ÎÒ³¤°´ÓÒ¼üµÄ[m
+[22:15:12] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> emmm[m
+[22:15:12] [Server thread/INFO]: Li_zi_wei >> ÊÖ¶¯[m
+[22:15:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¿´À´×ö¶ÌÁË[m
+[22:16:51] [Server thread/INFO]: Li_zi_wei >> Ô­±¾½ñÌìÏë°ÑÂúÅä×ê½£¸ã»ØÀ´µÄÃ÷ÌìÔÙ¸ã°É/fad[m
+[22:17:06] [Server thread/INFO]: Li_zi_wei >> °×¸øÖ®ºóÕæµÄ¾ÍÒ»ÇîÈË[m
+[22:17:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> soon¸øÄãÒ»°Ñ[m
+[22:17:19] [Server thread/INFO]: Li_zi_wei >> £¿[m
+[22:17:33] [Server thread/INFO]: Li_zi_wei >> ÄãÃÇ¶¼ÕâÃ´¸»µÄÂğ£¨[m
+[22:18:38] [Server thread/INFO]: Li_zi_wei >> ???[m
+[22:18:52] [Server thread/INFO]: Li_zi_wei >> ÏÂ½çºÏ½ğÁ¿²úÊ±´úÁËÂğ²İ[m
+[22:19:00] [Server thread/INFO]: Li_zi_wei >> ×°±¸²»ÓÃµÄ£¨£¨£¨[m
+[22:19:07] [Server thread/INFO]: Li_zi_wei >> linyi¸øÁË£¨[m
+[22:19:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> o[m
+[22:19:25] [Server thread/INFO]: Li_zi_wei >> Ğ»Ğ»ÁËwww[m
+[22:21:21] [Server thread/INFO]: Li_zi_wei >> ÊÔÊÔ£¿[m
+[22:22:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[22:24:31] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÄãÃÇ¶¼ÔÚµØÓüÂğ[m
+[22:25:00] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÄÇÎÒË¯¾õÁË£¨[m
+[22:27:29] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÄãÃÇÆ½Ê±ÍæÓÎÏ·»»²ÄÖÊÂğ[m
+[22:27:49] [Server thread/INFO]: Li_zi_wei >> ²»£¨[m
+[22:28:24] [Server thread/INFO]: Li_zi_wei >> ÓÖ¿¨ÁË£¿[m
+[22:28:46] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> tnt±¬ÆÆÁ¿Ì«ÉÙ[m
+[22:28:55] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸ú²»ÉÏ·Å·Å¿éËÙ¶È[m
+[22:29:23] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> Õâ¸öÌımrËµÒª×öÔÚ³öÉúµã[m
+[22:29:30] [Server thread/INFO]: Li_zi_wei >> ³öÉúµãÈ«×Ô¶¯ÁË[m
+[22:29:35] [Server thread/INFO]: Li_zi_wei >> ÕâÊÇ°ë×Ô¶¯[m
+[22:29:42] [Server thread/INFO]: Li_zi_wei >> ([m
+[22:29:59] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ½¨Òé°ÑÑòÃ«»ú°áµ½³öÉúµãÈ¥[m
+[22:31:10] [Server thread/WARN]: the_yellowleaf moved wrongly!
+[22:31:32] [Server thread/INFO]: Li_zi_wei >> ±»±ÆÏÂÏßÁË/kk[m
+[22:31:49] [Server thread/INFO]: Li_zi_wei >> Ã÷Ìì¡¤Ğ´Íê×÷Òµ¾ÍÀ´²âÊÔ£¨»¹Ê£Ò»Ğ¡µã[m
+[22:31:53] [Server thread/INFO]: Li_zi_wei >> ¼ÓÓÍw[m
+[22:32:02] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> àÅ[m
+[22:32:04] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[22:32:04] [Server thread/INFO]: Li_zi_wei left the game
+[22:33:37] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[22:33:37] [Server thread/INFO]: adhesive_tape left the game
+[22:36:09] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[22:36:09] [Server thread/INFO]: the_yellowleaf left the game
+[23:05:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@13df8115[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:63915): Took too long to log in
+[23:05:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@13df8115[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:63915) lost connection: Took too long to log in
+[23:06:40] [User Authenticator #24/INFO]: Disconnecting com.mojang.authlib.GameProfile@275db9fd[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:63928): Authentication servers are down. Please try again later, sorry!
+[23:06:40] [User Authenticator #24/ERROR]: Couldn't verify username because servers are unavailable
+[23:06:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@275db9fd[id=<null>,name=Ttu_nnm,properties={},legacy=false] (/127.0.0.1:63928) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:06:56] [User Authenticator #25/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[23:06:56] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:63938] logged in with entity id 66958 at ([world_nether]-21.21825659562701, 115.0, 22.260110485414643)
+[23:12:25] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[23:18:16] [User Authenticator #26/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[23:18:16] [Server thread/INFO]: North_dream[/127.0.0.1:64100] logged in with entity id 68237 at ([world_nether]187.69999998807907, 42.0, 907.4240101537006)
+[23:18:35] [Server thread/INFO]: [0;32;1m<±±ÃÎêØ>[0;37;1m North_dream >> £ºw:[m
+[23:21:27] [Server thread/WARN]: Ttu_nnm moved wrongly!
+[23:22:07] [Server thread/INFO]: North_dream lost connection: Disconnected
+[23:22:07] [Server thread/INFO]: North_dream left the game
+[23:22:25] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[23:22:38] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[23:24:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@655ebfbe[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:64230) lost connection: Disconnected
+[23:26:41] [User Authenticator #27/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[23:26:41] [Server thread/INFO]: adhesive_tape[/127.0.0.1:64255] logged in with entity id 70056 at ([world]2798.8841394157967, 64.0, -425.3430305101276)
+[23:29:42] [User Authenticator #28/INFO]: Disconnecting com.mojang.authlib.GameProfile@77cc72e4[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:64298): Authentication servers are down. Please try again later, sorry!
+[23:29:42] [User Authenticator #28/ERROR]: Couldn't verify username because servers are unavailable
+[23:29:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@77cc72e4[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:64298) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:29:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@40af473e[id=<null>,name=Dong_Miing,properties={},legacy=false] (/127.0.0.1:64309) lost connection: Disconnected
+[23:30:00] [User Authenticator #29/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[23:30:00] [Server thread/INFO]: Dong_Miing[/127.0.0.1:64312] logged in with entity id 70833 at ([world]2941.6318389274206, 50.0, -405.3694834590577)
+[23:30:09] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> az[m
+[23:30:17] [Server thread/INFO]: Dong_Miing >> ¶¼»î×ÅÂğ£¿[m
+[23:30:27] [Server thread/INFO]: Dong_Miing >> Ã»ÓĞ¹Ò»úµÄ°É[m
+[23:30:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> wo[m
+[23:30:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> gansha[m
+[23:31:12] [Server thread/INFO]: Dong_Miing >> ×öÍêÁË£¿[m
+[23:31:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ÓĞµãÎÊÌâ[m
+[23:31:18] [Server thread/INFO]: Dong_Miing >> ¹Ì»¯»ú[m
+[23:31:24] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> tnt´¦ÀíËÙ¶È¸ú²»ÉÏ[m
+[23:31:25] [Server thread/INFO]: Dong_Miing >> Ê²Ã´ÎÊÌâ£¿[m
+[23:31:28] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ĞèÒª¸Ï½ô[m
+[23:31:31] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ¸Ä½ø[m
+[23:31:35] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[23:31:50] [Server thread/INFO]: Dong_Miing >> µÈÓÚTNTÍÏÀÛ´¦ÀíËÙ¶È£¿[m
+[23:32:35] [Server thread/INFO]: Dong_Miing >> Ò²¾ÍÖ»ÄÜÕâÑùÁË£¨[m
+[23:32:48] [Server thread/INFO]: Dong_Miing >> ÄãÓĞ¿ÕÂğ£¿[m
+[23:32:52] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> gansha[m
+[23:33:01] [Server thread/INFO]: Dong_Miing >> ¸ãÄÇ¸öÂÓ¶áËş[m
+[23:33:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ²»»á[m
+[23:33:23] [Server thread/INFO]: Dong_Miing >> Äğ¼¸¸öÒşÉíÒ©Ë®¾Í³ö·¢[m
+[23:33:30] [Server thread/INFO]: Dong_Miing >> ÎÒÃÇÒªÒıÒ»²¨[m
+[23:33:31] [User Authenticator #30/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[23:33:31] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:64366] logged in with entity id 71040 at ([world]-524.5928634466405, 67.0, -478.5250659760701)
+[23:33:40] [Server thread/INFO]: Dong_Miing >> ·ãÒ¶»¹Ã»Ë¯°¡¡£-¡£[m
+[23:33:41] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ²»ÈİÒ×°¡[m
+[23:33:46] [Server thread/INFO]: Dong_Miing >> ÔõÃ´ÁË£¿[m
+[23:33:49] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÖÕÓÚ½øÀ´ÁË[m
+[23:34:05] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ´ÓÊ®µã°ëÊÔµ½ÏÖÔÚÁË[m
+[23:34:10] [Server thread/INFO]: Dong_Miing >> emmm[m
+[23:34:35] [Server thread/INFO]: Dong_Miing >> y[m
+[23:34:38] [Server thread/INFO]: Dong_Miing >> the_yellowleaf[m
+[23:34:41] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ?[m
+[23:34:51] [Server thread/INFO]: Dong_Miing >> ÒşÉíÒ©Ë®ÔõÃ´×öÀ´×Å¡£-¡£[m
+[23:35:05] [Server thread/INFO]: Dong_Miing >> Ê±¼ä×î³¤µÄ[m
+[23:35:06] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> »ÃÓ°Ä¤[m
+[23:35:43] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[23:35:54] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[23:35:59] [Server thread/INFO]: Dong_Miing >> Ã»ÊÂÁË[m
+[23:36:13] [Server thread/INFO]: Dong_Miing >> ÄãÏëÀ´VAN¡áÂğ£¿[m
+[23:36:24] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> É¶µØ·½[m
+[23:36:30] [Server thread/INFO]: Dong_Miing >> ÂÓ¶áËş[m
+[23:36:38] [Server thread/INFO]: Dong_Miing >> Òı»½Ä§Õß[m
+[23:36:41] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ½¨ÍêÁË£¿[m
+[23:36:46] [Server thread/INFO]: Dong_Miing >> Ã»[m
+[23:36:57] [Server thread/INFO]: Dong_Miing >> »¹ÓĞ»½Ä§ÕßÒÖÖÆÆ÷[m
+[23:37:10] [Server thread/INFO]: Dong_Miing >> bay maxËµÃ·Ã÷Ìì¸ã[m
+[23:37:16] [Server thread/INFO]: Dong_Miing >> ÎÒ¸É´àÏÖÔÚ£¨[m
+[23:37:35] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> ½¨Òé°×¸ø[m
+[23:37:47] [Server thread/INFO]: Dong_Miing >> Å·Ò®[m
+[23:38:54] [Server thread/INFO]: Dong_Miing >> »°ËµÒşÉíÊÇÉ¶¶¼²»ÄÜÄÃÂğ[m
+[23:39:01] [Server thread/INFO]: Dong_Miing >> Ò²²»ÄÜ´©[m
+[23:39:09] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> en[m
+[23:39:21] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m adhesive_tape >> È¥µ¥ÈË²âÊÔ»ìÄıÍÁ¼°[m
+[23:39:23] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[23:39:23] [Server thread/INFO]: adhesive_tape left the game
+[23:39:28] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[23:39:28] [Server thread/INFO]: Ttu_nnm left the game
+[23:39:42] [Server thread/INFO]: Dong_Miing >> ÒªºÍÎÒÒ»Æğ°×¸øÂğ£¨[m
+[23:40:01] [Server thread/INFO]: Dong_Miing >> »»ÁË¸öÆ¤·ô£¨[m
+[23:40:24] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ÄãÕâºÅ²»ÊÇ½èµÄÂğ[m
+[23:40:30] [Server thread/INFO]: Dong_Miing >> en[m
+[23:40:47] [Server thread/INFO]: Dong_Miing >> ¸ÄÆ¤·ôºÜ¿ì¡£-¡£[m
+[23:40:52] [Server thread/INFO]: Dong_Miing >> Ô­Æ¤·ô±£´æÁË[m
+[23:41:08] [Server thread/INFO]: Dong_Miing >> ¼´½«¿ªÊ¼°×¸ø[m
+[23:41:18] [Server thread/INFO]: Dong_Miing >> ÄãÒªÒ»ÆğÀ´Ã´~~[m
+[23:41:23] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ËãÁË[m
+[23:41:23] [Server thread/INFO]: Dong_Miing >> °ï¸öÃ¦£¿[m
+[23:41:43] [Server thread/INFO]: Dong_Miing >> Ë¯¾õ[m
+[23:41:45] [Server thread/INFO]: Dong_Miing >> zzz[m
+[23:41:48] [Server thread/INFO]: Dong_Miing >> .-.[m
+[23:42:01] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> zzz[m
+[23:43:32] [Server thread/INFO]: Dong_Miing >> ÄãÔÚ¸É¹ş£¨[m
+[23:43:41] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ĞŞÊ÷[m
+[23:45:23] [Server thread/INFO]: Dong_Miing >> °×¸ø´óÊ¦[m
+[23:46:49] [Server thread/INFO]: Dong_Miing >> cao[m
+[23:46:58] [Server thread/INFO]: Dong_Miing >> ÎÀ¶ÓÓÖ²»ÖªµÀÅÜÄÄÈ¥ÁË¡£-¡£[m
+[23:48:31] [Server thread/INFO]: Dong_Miing >> ËÀ»î²»Ë¢ÎÀ¶Ó[m
+[23:48:39] [Server thread/INFO]: Dong_Miing >> Éú²İ[m
+[23:51:06] [Server thread/INFO]: Dong_Miing >> ¸ãµ½ÁË[m
+[23:51:38] [Server thread/INFO]: Dong_Miing >> ¸ãÕâ¶«Î÷»¹ÊÇÓĞ¸öÍÅ¶ÓºÃ£¨[m
+[23:54:48] [User Authenticator #31/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[23:54:48] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:64636] logged in with entity id 75470 at ([world]1900.4241474381322, 62.07294756624446, 5910.987578552691)
+[23:55:48] [Server thread/WARN]: Boat (vehicle of Ttu_nnm) moved wrongly! 0.41648494215314713
+[23:55:48] [Server thread/WARN]: Boat (vehicle of Ttu_nnm) moved wrongly! 0.3570756822068688
+[23:56:07] [Server thread/INFO]: Ttu_nnm was slain by Zombie
+[23:56:39] [Server thread/INFO]: Ttu_nnm was slain by Zombie
+[23:56:49] [Server thread/INFO]: [0;32;1m<´ø¸ë×Ó>[0;37;1m the_yellowleaf >> ?[m
+[23:57:08] [Server thread/INFO]: Dong_Miing >> woc[m
+[23:57:11] [Server thread/INFO]: Dong_Miing >> Íêµ°ÁË[m
+[23:59:21] [Server thread/INFO]: Dong_Miing fell from a high place
+[23:59:25] [Server thread/WARN]: the_yellowleaf was kicked for floating too long!
+[23:59:25] [Server thread/INFO]: the_yellowleaf lost connection: Flying is not enabled on this server
+[23:59:25] [Server thread/INFO]: the_yellowleaf left the game
+[23:59:43] [User Authenticator #32/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[23:59:43] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:64701] logged in with entity id 78715 at ([world]-530.5897957994805, 76.10833952494241, -515.5275054347819)
+[23:59:50] [Server thread/INFO]: Dong_Miing >> °×¸ø*1[m

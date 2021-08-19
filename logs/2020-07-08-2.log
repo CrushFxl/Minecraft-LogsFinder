@@ -1,0 +1,1905 @@
+[14:56:16] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[14:56:16] [Server thread/INFO]: Loading properties
+[14:56:16] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[14:56:16] [Server thread/INFO]: Debug logging is disabled
+[14:56:16] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[14:56:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:56:16] [Server thread/INFO]: Default game type: SURVIVAL
+[14:56:16] [Server thread/INFO]: Generating keypair
+[14:56:16] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[14:56:16] [Server thread/INFO]: Using default channel type
+[14:56:17] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[14:56:19] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[14:56:19] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[14:56:19] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[14:56:19] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[14:56:19] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[14:56:19] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.2.2
+[14:56:19] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[14:56:19] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[14:56:19] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[14:56:19] [Server thread/INFO]: [MySkin] Loading MySkin v3.0
+[14:56:19] [Server thread/INFO]: [VillagerOptimiser] Loading VillagerOptimiser v1.1.2
+[14:56:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:56:19] [Server thread/INFO]: Preparing level "world"
+[14:56:19] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:56:26] [Server thread/INFO]: Loaded 6 recipes
+[14:56:26] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:56:26] [Server thread/INFO]: View Distance: 8
+[14:56:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:56:26] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[14:56:26] [Server thread/INFO]: Mob Spawn Range: 4
+[14:56:26] [Server thread/INFO]: Experience Merge Radius: 8.0
+[14:56:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[14:56:26] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[14:56:26] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[14:56:26] [Server thread/INFO]: Max TNT Explosions: 100
+[14:56:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:56:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:56:26] [Server thread/INFO]: Item Merge Radius: 8.0
+[14:56:26] [Server thread/INFO]: Item Despawn Rate: 4000
+[14:56:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:56:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:56:26] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:56:26] [Server thread/INFO]: View Distance: 8
+[14:56:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:56:26] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[14:56:26] [Server thread/INFO]: Mob Spawn Range: 4
+[14:56:26] [Server thread/INFO]: Experience Merge Radius: 8.0
+[14:56:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[14:56:26] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[14:56:26] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[14:56:26] [Server thread/INFO]: Max TNT Explosions: 100
+[14:56:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:56:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:56:26] [Server thread/INFO]: Item Merge Radius: 8.0
+[14:56:26] [Server thread/INFO]: Item Despawn Rate: 4000
+[14:56:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:56:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:56:26] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:56:26] [Server thread/INFO]: View Distance: 8
+[14:56:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:56:26] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[14:56:26] [Server thread/INFO]: Mob Spawn Range: 4
+[14:56:26] [Server thread/INFO]: Experience Merge Radius: 8.0
+[14:56:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:56:26] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[14:56:26] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[14:56:26] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[14:56:26] [Server thread/INFO]: Max TNT Explosions: 100
+[14:56:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:56:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:56:26] [Server thread/INFO]: Item Merge Radius: 8.0
+[14:56:26] [Server thread/INFO]: Item Despawn Rate: 4000
+[14:56:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:56:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:56:26] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[14:56:26] [Server thread/INFO]: Preparing spawn area: 0%
+[14:56:27] [Server thread/INFO]: Preparing spawn area: 11%
+[14:56:27] [Server thread/INFO]: Preparing spawn area: 75%
+[14:56:28] [Server thread/INFO]: Preparing spawn area: 100%
+[14:56:28] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[14:56:28] [Server thread/INFO]: Time elapsed: 1649 ms
+[14:56:28] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[14:56:28] [Server thread/INFO]: Preparing spawn area: 0%
+[14:56:28] [Server thread/INFO]: Preparing spawn area: 100%
+[14:56:29] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[14:56:29] [Server thread/INFO]: Time elapsed: 661 ms
+[14:56:29] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[14:56:29] [Server thread/INFO]: Preparing spawn area: 0%
+[14:56:29] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[14:56:29] [Server thread/INFO]: Time elapsed: 396 ms
+[14:56:29] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[14:56:29] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[14:56:29] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[14:56:29] [Server thread/INFO]: --------------------
+[14:56:29] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[14:56:29] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[14:56:29] [Server thread/INFO]: --------------------
+[14:56:29] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[14:56:29] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[14:56:29] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[14:56:29] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[14:56:29] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[14:56:29] [Server thread/INFO]:  
+[14:56:29] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[14:56:29] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[14:56:29] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[14:56:29] [Server thread/INFO]:  
+[14:56:29] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[14:56:29] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[14:56:29] [Server thread/INFO]: [TAB] Animation "MyAnimation1" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[14:56:29] [Server thread/INFO]: [TAB] Animation "ServerName" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[14:56:29] [Server thread/INFO]: [TAB] Animation "web" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[14:56:29] [Server thread/INFO]: [TAB] Animation "online" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[14:56:29] [Server thread/INFO]: [TAB] Animation "vote" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[14:56:29] [Server thread/INFO]: [TAB] Animation "Welcome" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[14:56:29] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[14:56:29] [Server thread/INFO]: [TAB] Animation "time" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[14:56:29] [Server thread/INFO]: [TAB] Animation "versions" has refresh interval of 0 milliseconds! Did you forget to configure it? Using 1000.
+[14:56:37] [Server thread/INFO]: [TAB] Version 2.8.2 is out! Your version: 2.7.2
+[14:56:37] [Server thread/INFO]: [TAB] Get the update at https://www.spigotmc.org/resources/57806/
+[14:56:37] [Server thread/INFO]: [TAB] There were 9 startup warnings.
+[14:56:37] [Server thread/INFO]: [TAB] Enabled in 7744ms
+[14:56:37] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.2.2
+[14:56:37] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[14:56:37] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[14:56:37] [Server thread/INFO]: [SAML] Loading config.yml...
+[14:56:37] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[14:56:37] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[14:56:37] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[14:56:37] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[14:56:37] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[14:56:37] [Server thread/INFO]: [SAML] Loading messages.yml...
+[14:56:37] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[14:56:37] [Server thread/INFO]: [SAML] Successfully enabled.
+[14:56:37] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5*
+[14:56:37] [Server thread/INFO]: [ChatC] 聊天管理插件已启用！
+[14:56:37] [Server thread/INFO]: [ChatC] 聊天管理插件当前版本：V0.5 （2017年8月24日）
+[14:56:37] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[14:56:37] [Server thread/INFO]: [MySkin] Enabling MySkin v3.0
+[14:56:37] [Server thread/INFO]: [MySkin] Running on server version v1_15_R1
+[14:56:37] [Server thread/INFO]: [VillagerOptimiser] Enabling VillagerOptimiser v1.1.2
+[14:56:37] [Server thread/INFO]: [VillagerOptimiser] Loading config.yml...
+[14:56:37] [Server thread/INFO]: [VillagerOptimiser] Successfully loaded config.yml.
+[14:56:37] [Server thread/INFO]: [VillagerOptimiser] Successfully enabled.
+[14:56:37] [Server thread/INFO]: Done (18.133s)! For help, type "help"
+[14:56:37] [Server thread/INFO]: Timings Reset
+[14:56:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[14:56:40] [Thread-17/INFO]: --------------------
+[14:56:40] [Thread-17/INFO]: [CoreProtect] Version 19.0 is now available.
+[14:56:40] [Thread-17/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[14:56:40] [Thread-17/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[14:56:40] [Thread-17/INFO]: --------------------
+[14:56:42] [Craft Scheduler Thread - 1/INFO]: [MySkin] You are running outdated version 3.0
+[14:56:42] [Craft Scheduler Thread - 1/INFO]: [MySkin] Please, download the latest update from https://www.spigotmc.org/resources/52303/
+[14:56:44] [User Authenticator #1/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[14:56:44] [Server thread/INFO]: Bay_Max_[/127.0.0.1:49746] logged in with entity id 1040 at ([world]1142.3213691316525, 64.0, 2278.614099097371)
+[14:56:44] [User Authenticator #2/INFO]: UUID of player xxuurruuii is e4032104-ba08-4db3-82a0-d4f7323bcaf4
+[14:56:44] [Server thread/INFO]: xxuurruuii[/127.0.0.1:49744] logged in with entity id 1123 at ([world]5232.299999974668, 71.0000002, 231.29999997466803)
+[14:56:51] [Server thread/INFO]: xxuurruuii >> 淦
+[14:56:57] [Server thread/INFO]: xxuurruuii >> 不是第一
+[14:57:04] [Server thread/INFO]: Bay_Max_ >> e...
+[14:57:08] [Server thread/INFO]: Bay_Max_ >> 233
+[14:58:04] [Server thread/INFO]: xxuurruuii >> 怎么感觉变卡了
+[14:58:17] [Server thread/INFO]: Bay_Max_ >> emm
+[15:00:09] [Server thread/INFO]: xxuurruuii has made the advancement [A Seedy Place]
+[15:01:50] [Server thread/INFO]: xxuurruuii has made the advancement [The Parrots and the Bats]
+[15:01:54] [Server thread/WARN]: Bay_Max_ moved too quickly! 755.6583925637335,25.0,1879.296727335929
+[15:01:54] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[15:01:54] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[15:03:26] [Server thread/INFO]: xxuurruuii lost connection: Disconnected
+[15:03:26] [Server thread/INFO]: xxuurruuii left the game
+[15:03:31] [User Authenticator #3/INFO]: UUID of player xxuurruuii is e4032104-ba08-4db3-82a0-d4f7323bcaf4
+[15:03:31] [Server thread/INFO]: xxuurruuii[/127.0.0.1:49826] logged in with entity id 4487 at ([world]5224.091575392283, 70.0, 230.15437836060283)
+[15:03:49] [Server thread/INFO]: xxuurruuii >> 你卡吗
+[15:03:53] [Server thread/INFO]: Bay_Max_ >> 不卡
+[15:03:54] [Server thread/INFO]: Bay_Max_ >> ..
+[15:04:16] [Server thread/INFO]: Bay_Max_ has made the advancement [Stone Age]
+[15:05:28] [Server thread/INFO]: xxuurruuii >> zzz
+[15:05:40] [Server thread/INFO]: xxuurruuii >> e
+[15:11:01] [Server thread/INFO]: xxuurruuii has made the advancement [We Need to Go Deeper]
+[15:11:11] [Server thread/INFO]: xxuurruuii >> Bay_Max_
+[15:11:13] [Server thread/INFO]: Bay_Max_ >> a
+[15:11:16] [Server thread/INFO]: xxuurruuii >> 你是哪个镇的
+[15:11:48] [Server thread/INFO]: Bay_Max_ >> 海晶
+[15:11:52] [Server thread/INFO]: xxuurruuii has made the advancement [Eye Spy]
+[15:11:55] [Server thread/INFO]: xxuurruuii has made the advancement [The End?]
+[15:11:56] [Server thread/WARN]: xxuurruuii moved too quickly! -1651.248379772658,16.233632006042477,-234.1887090560174
+[15:14:27] [User Authenticator #4/INFO]: UUID of player KingOldFive is 3b2757cb-747b-4d65-8c43-f029aa8f100d
+[15:14:27] [Server thread/WARN]: Using offline mode UUID file for player KingOldFive as it is the only copy we can find.
+[15:14:27] [Server thread/INFO]: KingOldFive has made the advancement [Suit Up]
+[15:14:27] [Server thread/INFO]: KingOldFive has made the advancement [Acquire Hardware]
+[15:14:27] [Server thread/INFO]: KingOldFive has made the advancement [Stone Age]
+[15:14:27] [Server thread/INFO]: KingOldFive has made the advancement [Isn't It Iron Pick]
+[15:14:27] [Server thread/INFO]: KingOldFive[/127.0.0.1:49938] logged in with entity id 8424 at ([world]-212.55543543485027, 65.0, 295.3639461484278)
+[15:14:34] [Server thread/INFO]: Bay_Max_ >> ...
+[15:14:44] [Server thread/INFO]: xxuurruuii >> ...
+[15:15:06] [Server thread/INFO]: KingOldFive lost connection: Disconnected
+[15:15:06] [Server thread/INFO]: KingOldFive left the game
+[15:15:18] [Server thread/INFO]: Bay_Max_ >> 这谁?
+[15:15:28] [Server thread/INFO]: xxuurruuii >> 不知道
+[15:15:49] [Server thread/INFO]: Bay_Max_ >> 群里木有....
+[15:16:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[15:17:07] [User Authenticator #5/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[15:17:07] [Server thread/INFO]: Crushxl[/127.0.0.1:49959] logged in with entity id 8798 at ([world]-121.5008279409214, 76.0, 123.61530748139256)
+[15:17:10] [Server thread/INFO]: xxuurruuii >> !
+[15:17:14] [Server thread/INFO]: Bay_Max_ >> !!!
+[15:17:20] [Server thread/WARN]: xxuurruuii moved wrongly!
+[15:17:23] [Server thread/INFO]: Crushxl >> !
+[15:17:26] [Server thread/INFO]: Crushxl >> 我东西没了！
+[15:17:29] [Server thread/INFO]: Bay_Max_ >> ...
+[15:17:33] [Server thread/INFO]: xxuurruuii >> !!!
+[15:18:13] [Server thread/INFO]: xxuurruuii >> ???
+[15:18:19] [User Authenticator #5/INFO]: Disconnecting com.mojang.authlib.GameProfile@51ae472e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:49967): Authentication servers are down. Please try again later, sorry!
+[15:18:19] [User Authenticator #5/ERROR]: Couldn't verify username because servers are unavailable
+[15:18:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@51ae472e[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:49967) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:18:40] [User Authenticator #5/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[15:18:40] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:49973] logged in with entity id 9114 at ([world_nether]14.82709032868027, 115.0, 35.63408958801174)
+[15:18:45] [Server thread/WARN]: Crushxl moved too quickly! 10.160516633221391,1.1661092609382138,0.3662752613581688
+[15:18:49] [Server thread/WARN]: Crushxl was kicked for floating too long!
+[15:18:49] [Server thread/INFO]: Crushxl lost connection: Flying is not enabled on this server
+[15:18:49] [Server thread/INFO]: Crushxl left the game
+[15:18:49] [Server thread/WARN]: handleDisconnection() called twice
+[15:18:52] [Server thread/INFO]: the_yellowleaf >> ???w
+[15:18:56] [Server thread/INFO]: xxuurruuii >> 233
+[15:19:00] [Server thread/INFO]: Bay_Max_ >> hhhhhh
+[15:19:11] [Server thread/INFO]: the_yellowleaf >> 我一来就走？？
+[15:21:17] [User Authenticator #6/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[15:21:18] [Server thread/INFO]: Twilight2033[/127.0.0.1:49994] logged in with entity id 9759 at ([world]5154.890645802815, 67.0, 256.14515556977506)
+[15:23:27] [Server thread/INFO]: Twilight2033 has made the advancement [Sweet Dreams]
+[15:23:33] [Server thread/INFO]: xxuurruuii >> ?
+[15:23:37] [Server thread/INFO]: xxuurruuii >> 你啥时候来的
+[15:23:50] [Server thread/INFO]: Twilight2033 >> 两分钟前
+[15:25:16] [Server thread/INFO]: xxuurruuii >> 在末地
+[15:25:19] [Server thread/INFO]: xxuurruuii >> :(
+[15:26:26] [Server thread/INFO]: Twilight2033 >> optifine1.15优化真强
+[15:26:31] [Server thread/INFO]: xxuurruuii >> ?
+[15:26:49] [Server thread/INFO]: Twilight2033 >> ptgi我现在都能六十帧运行
+[15:27:17] [Server thread/INFO]: Twilight2033 >> 不会吧不会吧
+[15:27:43] [Server thread/INFO]: Twilight2033 >> yffs不会中考自闭了吧
+[15:27:48] [Server thread/INFO]: xxuurruuii >> e
+[15:27:49] [Server thread/INFO]: Bay_Max_ >> ....
+[15:30:55] [Server thread/INFO]: Twilight2033 >> xu
+[15:31:05] [Server thread/INFO]: Twilight2033 >> 你顺便找几个鞘翅呗
+[15:31:46] [Server thread/INFO]: Twilight2033 issued server command: /tell xxuurruuii .
+[15:32:36] [Server thread/INFO]: xxuurruuii >> ?
+[15:32:44] [Server thread/INFO]: xxuurruuii >> 烟花没带够
+[15:33:02] [Server thread/INFO]: xxuurruuii >> 我也不会打潜影贝
+[15:33:06] [Server thread/INFO]: xxuurruuii >> :(
+[15:33:28] [Server thread/INFO]: Twilight2033 >> :(
+[15:34:09] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[15:34:09] [Server thread/INFO]: Twilight2033 left the game
+[15:35:05] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[15:35:05] [Server thread/INFO]: the_yellowleaf left the game
+[15:35:18] [Server thread/INFO]: xxuurruuii >> 没人了
+[15:35:20] [Server thread/INFO]: xxuurruuii >> :(
+[15:35:20] [Server thread/INFO]: Bay_Max_ >> e
+[15:36:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[15:38:39] [Server thread/INFO]: xxuurruuii >> zzz
+[15:41:46] [Server thread/INFO]: xxuurruuii lost connection: Disconnected
+[15:41:46] [Server thread/INFO]: xxuurruuii left the game
+[15:41:55] [Server thread/INFO]: Bay_Max_ >> ..
+[15:42:37] [Server thread/INFO]: Bay_Max_ has made the advancement [Acquire Hardware]
+[15:50:01] [User Authenticator #7/INFO]: Disconnecting com.mojang.authlib.GameProfile@3e9dd03[id=<null>,name=HGhigh,properties={},legacy=false] (/127.0.0.1:50191): Authentication servers are down. Please try again later, sorry!
+[15:50:01] [User Authenticator #7/ERROR]: Couldn't verify username because servers are unavailable
+[15:50:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@3e9dd03[id=<null>,name=HGhigh,properties={},legacy=false] (/127.0.0.1:50191) lost connection: Authentication servers are down. Please try again later, sorry!
+[15:50:22] [User Authenticator #7/INFO]: UUID of player HGhigh is 601024e8-d318-4d25-881d-fd0ad713fde3
+[15:50:22] [Server thread/INFO]: HGhigh[/127.0.0.1:50199] logged in with entity id 23836 at ([world_nether]-17.77822289896646, 115.0, 24.87190818172144)
+[15:50:25] [Server thread/INFO]: Bay_Max_ >> hi
+[15:50:48] [Server thread/INFO]: HGhigh >> hi
+[15:50:59] [Server thread/INFO]: HGhigh >> 为啥我看不见你的皮肤
+[15:51:07] [Server thread/INFO]: Bay_Max_ >> 我也看不见你的...
+[15:51:10] [Server thread/INFO]: HGhigh >> e...
+[15:51:11] [Server thread/INFO]: Bay_Max_ >> XD
+[15:51:15] [Server thread/INFO]: HGhigh >> 哦我看见了
+[15:53:07] [Server thread/INFO]: Bay_Max_ has made the advancement [Sweet Dreams]
+[15:53:16] [Server thread/WARN]: Bay_Max_ moved too quickly! 756.2794670332923,25.0,1878.4831874150402
+[15:55:49] [Server thread/WARN]: Bay_Max_ moved too quickly! 756.1208671411823,25.0,1882.3530180039893
+[15:56:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[16:00:01] [Server thread/INFO]: HGhigh lost connection: Disconnected
+[16:00:01] [Server thread/INFO]: HGhigh left the game
+[16:05:58] [User Authenticator #8/INFO]: UUID of player ASR2003 is 9f670a33-026f-4c54-86ad-0296e9b51898
+[16:05:58] [Server thread/INFO]: ASR2003[/127.0.0.1:50319] logged in with entity id 61592 at ([world]-112.5, 64.0, 169.5)
+[16:06:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@2e2e9360[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:50322) lost connection: Disconnected
+[16:06:13] [User Authenticator #8/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[16:06:13] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[16:06:13] [Server thread/INFO]: the_yellowleaf left the game
+[16:06:14] [User Authenticator #9/INFO]: Disconnecting com.mojang.authlib.GameProfile@2e2e9360[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:50322): Authentication servers are down. Please try again later, sorry!
+[16:06:14] [User Authenticator #9/ERROR]: Couldn't verify username because servers are unavailable
+[16:06:14] [User Authenticator #9/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[16:06:14] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:50331] logged in with entity id 62664 at ([world]-494.2795257718878, 86.0, -460.80629087276355)
+[16:06:57] [Server thread/WARN]: ASR2003 moved too quickly! 24.362919340734717,1.0244240882136921,-12.78536588016388
+[16:07:10] [Server thread/WARN]: ASR2003 moved too quickly! 10.870424687786496,0.0,11.463913833191583
+[16:07:24] [Server thread/INFO]: ASR2003 >> 就三个人？？
+[16:07:24] [Server thread/INFO]: ASR2003 >> 就三个人？？
+[16:08:03] [Server thread/INFO]: the_yellowleaf >> 我们服务器好像就几个有正版
+[16:08:07] [Server thread/INFO]: ASR2003 >> 这里有只骷髅马
+[16:08:34] [Server thread/INFO]: ASR2003 >> 多少人啊建这么好
+[16:08:34] [Server thread/WARN]: ASR2003 moved too quickly! -0.5482463658946273,-3.792900290626676,-9.302178671024464
+[16:08:44] [Server thread/INFO]: the_yellowleaf >> ……
+[16:09:01] [Server thread/INFO]: the_yellowleaf >> 如果你是来观光的可以自己出去了
+[16:09:10] [Server thread/INFO]: ASR2003 >> 不是啊
+[16:09:36] [User Authenticator #10/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[16:09:36] [Server thread/INFO]: Xin_Sai[/127.0.0.1:50354] logged in with entity id 75853 at ([world]2630.4917704772183, 64.0, -251.95060852821058)
+[16:09:45] [Server thread/WARN]: ASR2003 moved too quickly! 7.163289561124884,5.170812908142295,6.493882087885268
+[16:10:21] [User Authenticator #10/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[16:10:21] [Server thread/INFO]: adhesive_tape[/127.0.0.1:50363] logged in with entity id 79570 at ([world]0.3795958539470697, 64.0, 6.443856070334001)
+[16:10:27] [Server thread/INFO]: ASR2003 >> 延迟有那么亿点点高
+[16:10:27] [Server thread/WARN]: ASR2003 moved too quickly! -8.912041597626796,2.0754440651894868,-4.305629859476042
+[16:10:39] [Server thread/INFO]: the_yellowleaf >> 你好像0延迟
+[16:10:44] [Server thread/INFO]: ASR2003 >> ???
+[16:10:55] [Server thread/INFO]: ASR2003 >> 885
+[16:11:16] [Server thread/INFO]: ASR2003 has made the advancement [Stone Age]
+[16:11:23] [Server thread/INFO]: ASR2003 >> 卡死
+[16:11:40] [Server thread/INFO]: Xin_Sai >> 你的网问题
+[16:11:59] [Server thread/INFO]: ASR2003 has made the advancement [Getting an Upgrade]
+[16:12:18] [Server thread/WARN]: ASR2003 was kicked for floating too long!
+[16:12:18] [Server thread/INFO]: ASR2003 lost connection: Flying is not enabled on this server
+[16:12:18] [Server thread/INFO]: ASR2003 left the game
+[16:12:18] [Server thread/WARN]: handleDisconnection() called twice
+[16:12:43] [User Authenticator #11/INFO]: UUID of player DragonRock37 is 6e28f6a9-6d51-48a2-8994-8d54a2bfd109
+[16:12:43] [Server thread/INFO]: DragonRock37[/127.0.0.1:50385] logged in with entity id 89013 at ([world]2435.23524664743, 6.0, 2479.208791479405)
+[16:12:58] [User Authenticator #11/INFO]: UUID of player ASR2003 is 9f670a33-026f-4c54-86ad-0296e9b51898
+[16:12:58] [Server thread/INFO]: ASR2003[/127.0.0.1:50388] logged in with entity id 90284 at ([world]63.548925616758005, 83.0, 87.36322905104949)
+[16:13:26] [Server thread/INFO]: ASR2003 was blown up by Creeper
+[16:13:35] [Server thread/INFO]: adhesive_tape >> ..
+[16:13:43] [Server thread/INFO]: ASR2003 >> 妈耶
+[16:13:47] [Server thread/INFO]: adhesive_tape >> 我说哪里来的爆炸
+[16:13:54] [Server thread/WARN]: ASR2003 moved too quickly! -18.529821554779886,0.7967356006687112,1.7614404618161927
+[16:14:08] [Server thread/WARN]: ASR2003 moved too quickly! -2.228745412741546,-0.5292232112077642,17.673600288087442
+[16:14:23] [Server thread/WARN]: ASR2003 moved too quickly! 1.6083362388446574,0.4969837384909539,17.87630501052513
+[16:14:49] [Server thread/WARN]: ASR2003 moved too quickly! -0.6425609105543231,-1.7953996215565695,11.566893614191542
+[16:15:05] [Server thread/WARN]: ASR2003 moved too quickly! -12.20090621544773,-5.249187078744683,9.801100769040772
+[16:16:00] [Server thread/INFO]: ASR2003 >> 20006
+[16:16:16] [Server thread/INFO]: ASR2003 >> 这延迟我服了
+[16:16:20] [Server thread/INFO]: DragonRock37 >> ???
+[16:16:22] [Server thread/INFO]: DragonRock37 >> 2333
+[16:16:28] [Server thread/WARN]: ASR2003 moved too quickly! 9.021037509170242,3.249187078744683,4.708442922829249
+[16:16:36] [Server thread/INFO]: the_yellowleaf >> 1
+[16:16:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[16:16:42] [Server thread/WARN]: ASR2003 moved too quickly! 15.646885639440654,-0.9247991098810573,-1.9837549564914525
+[16:16:55] [Server thread/INFO]: ASR2003 was shot by Stray
+[16:17:05] [Server thread/INFO]: ASR2003 >> a
+[16:17:13] [Server thread/INFO]: ASR2003 >> 等白天吧
+[16:17:13] [Server thread/INFO]: DragonRock37 has reached the goal [Postmortal]
+[16:17:21] [Server thread/INFO]: DragonRock37 >> 新人吗-
+[16:17:25] [Server thread/WARN]: ASR2003 moved too quickly! 8.122300642484149,4.166109260938214,-12.765533356908918
+[16:17:30] [Server thread/INFO]: ASR2003 >> 对啊
+[16:17:36] [Server thread/INFO]: adhesive_tape >> 龙岩带我
+[16:17:39] [Server thread/WARN]: ASR2003 moved too quickly! 5.246902347350877,-5.832203353366751,-9.526229307469777
+[16:17:44] [Server thread/INFO]: DragonRock37 >> 欢迎来黑云基地呢(
+[16:17:51] [Server thread/INFO]: adhesive_tape >> 在哪
+[16:17:51] [Server thread/WARN]: ASR2003 was kicked for floating too long!
+[16:17:51] [Server thread/INFO]: ASR2003 lost connection: Flying is not enabled on this server
+[16:17:51] [Server thread/INFO]: ASR2003 left the game
+[16:17:51] [Server thread/WARN]: handleDisconnection() called twice
+[16:18:03] [User Authenticator #12/INFO]: UUID of player ASR2003 is 9f670a33-026f-4c54-86ad-0296e9b51898
+[16:18:03] [Server thread/INFO]: ASR2003[/127.0.0.1:50421] logged in with entity id 110626 at ([world]6.855025874961286, 65.01865970983172, 114.40480680728388)
+[16:18:19] [Server thread/INFO]: DragonRock37 >> 主世界2500 2500
+[16:18:22] [Server thread/WARN]: ASR2003 moved too quickly! -0.54579607359286,0.0,-10.301451818227847
+[16:18:22] [Server thread/INFO]: ASR2003 >> 又掉了
+[16:18:24] [Server thread/INFO]: DragonRock37 >> 所以..有地域交通
+[16:18:32] [Server thread/INFO]: adhesive_tape >> ok
+[16:18:33] [Server thread/WARN]: ASR2003 was kicked for floating too long!
+[16:18:33] [Server thread/INFO]: ASR2003 lost connection: Flying is not enabled on this server
+[16:18:33] [Server thread/INFO]: ASR2003 left the game
+[16:18:34] [Server thread/WARN]: handleDisconnection() called twice
+[16:18:45] [User Authenticator #12/INFO]: UUID of player ASR2003 is 9f670a33-026f-4c54-86ad-0296e9b51898
+[16:18:45] [Server thread/INFO]: ASR2003[/127.0.0.1:50434] logged in with entity id 113597 at ([world]5.92239734040803, 64.0, 88.2849330242766)
+[16:18:56] [Server thread/INFO]: ASR2003 >> 我去
+[16:19:04] [Server thread/WARN]: ASR2003 moved too quickly! -0.4213424475771248,1.2949999868869781,-14.769185626670662
+[16:19:05] [Server thread/INFO]: DragonRock37 >> 在有铁轨的方向,珊瑚海通道,沿着通道走到左侧出现木板
+[16:19:20] [Server thread/INFO]: the_yellowleaf >> 哇哦
+[16:19:20] [Server thread/INFO]: ASR2003 >> 我去康康
+[16:19:26] [Server thread/INFO]: adhesive_tape >> 我还是低于交通吧
+[16:19:27] [Server thread/INFO]: the_yellowleaf >> 龙岩诶
+[16:19:30] [Server thread/WARN]: ASR2003 was kicked for floating too long!
+[16:19:30] [Server thread/INFO]: ASR2003 lost connection: Flying is not enabled on this server
+[16:19:30] [Server thread/INFO]: ASR2003 left the game
+[16:19:30] [Server thread/WARN]: handleDisconnection() called twice
+[16:19:31] [Server thread/INFO]: DragonRock37 >> - -
+[16:19:39] [Server thread/INFO]: the_yellowleaf >> 龙岩你来五百新镇看一眼
+[16:19:42] [Server thread/INFO]: DragonRock37 >> 地狱交通:在有铁轨的方向,珊瑚海通道,沿着通道走到左侧出现木板
+[16:19:43] [Server thread/INFO]: DragonRock37 >> ok
+[16:20:05] [Server thread/INFO]: the_yellowleaf >> （其实是给你看我打造的王冠的）
+[16:20:08] [Server thread/INFO]: DragonRock37 >> 黑云的地狱坐标 279 314- -
+[16:20:12] [Server thread/INFO]: the_yellowleaf >> 绿的（
+[16:20:16] [Server thread/INFO]: DragonRock37 >> ?/?
+[16:20:22] [User Authenticator #13/INFO]: UUID of player ASR2003 is 9f670a33-026f-4c54-86ad-0296e9b51898
+[16:20:22] [Server thread/INFO]: ASR2003[/127.0.0.1:50445] logged in with entity id 120490 at ([world]5.918868886283106, 64.0, 122.27545177908544)
+[16:20:27] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[16:20:27] [Server thread/INFO]: Xin_Sai left the game
+[16:20:34] [User Authenticator #13/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[16:20:34] [Server thread/INFO]: Xin_Sai[/127.0.0.1:50452] logged in with entity id 121464 at ([world]2768.6028276631037, 70.0, -350.3168439171153)
+[16:20:38] [Server thread/INFO]: ASR2003 >> 我TM炸裂
+[16:20:45] [Server thread/INFO]: DragonRock37 >> 悲
+[16:20:53] [Server thread/WARN]: ASR2003 moved too quickly! -7.010517238770615,5.604424101326714,17.437270065389868
+[16:21:04] [Server thread/WARN]: ASR2003 was kicked for floating too long!
+[16:21:04] [Server thread/INFO]: ASR2003 lost connection: Flying is not enabled on this server
+[16:21:04] [Server thread/INFO]: ASR2003 left the game
+[16:21:04] [Server thread/WARN]: handleDisconnection() called twice
+[16:21:53] [Server thread/INFO]: adhesive_tape has made the advancement [We Need to Go Deeper]
+[16:22:12] [Server thread/INFO]: DragonRock37 >> ???
+[16:22:26] [Server thread/INFO]: the_yellowleaf >> 这海龟壳老值钱了
+[16:23:05] [Server thread/INFO]: DragonRock37 >> 可惜我东西都在大号上..暂时拿不回来
+[16:23:21] [User Authenticator #14/INFO]: UUID of player ASR2003 is 9f670a33-026f-4c54-86ad-0296e9b51898
+[16:23:21] [Server thread/INFO]: ASR2003[/127.0.0.1:50470] logged in with entity id 133783 at ([world]-14.40431450011964, 66.0, 219.7414266600872)
+[16:23:27] [Server thread/INFO]: the_yellowleaf >> 你和小泠说一下
+[16:23:37] [Server thread/INFO]: DragonRock37 >> 说了(
+[16:23:41] [Server thread/INFO]: Xin_Sai >> 收恶魂之泪emm
+[16:23:42] [Server thread/WARN]: ASR2003 moved too quickly! 18.381780466717004,1.0013359791121417,1.3069537085804086
+[16:23:46] [Server thread/INFO]: the_yellowleaf >> 找个夜深人静的时间，关一下正版验证
+[16:23:52] [Server thread/WARN]: ASR2003 moved too quickly! 16.409392523006034,2.419999986886978,0.9019288510094441
+[16:24:00] [Server thread/INFO]: DragonRock37 >> 首先是他那边外网开费劲(
+[16:24:06] [Server thread/INFO]: DragonRock37 >> 我现在连不上(
+[16:24:06] [Server thread/WARN]: ASR2003 moved too quickly! 8.886249095770836,3.249187078744683,-3.793034043335865
+[16:24:21] [Server thread/WARN]: ASR2003 moved too quickly! 13.887925170246206,0.8787031594607981,-3.881524100324839
+[16:24:47] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[16:24:47] [Server thread/INFO]: Bay_Max_ left the game
+[16:25:33] [Server thread/WARN]: ASR2003 moved too quickly! 6.35202729509092,7.249187078744683,9.829038036917268
+[16:25:43] [Server thread/WARN]: ASR2003 was kicked for floating too long!
+[16:25:43] [Server thread/INFO]: ASR2003 lost connection: Flying is not enabled on this server
+[16:25:43] [Server thread/INFO]: ASR2003 left the game
+[16:25:43] [Server thread/WARN]: handleDisconnection() called twice
+[16:25:49] [User Authenticator #15/INFO]: UUID of player ASR2003 is 9f670a33-026f-4c54-86ad-0296e9b51898
+[16:25:49] [Server thread/INFO]: ASR2003[/127.0.0.1:50491] logged in with entity id 141274 at ([world]241.74747202173745, 77.34173598704537, 315.94975215121474)
+[16:26:09] [Server thread/INFO]: ASR2003 >> 唉
+[16:26:16] [Server thread/WARN]: ASR2003 moved too quickly! -2.448451483519136,-1.227688487544981,10.57373207357574
+[16:26:33] [Server thread/INFO]: adhesive_tape >> 凋零干嘛的
+[16:26:38] [Server thread/INFO]: DragonRock37 >> 挂名字的
+[16:26:38] [Server thread/INFO]: adhesive_tape has made the advancement [Diamonds!]
+[16:26:42] [Server thread/INFO]: adhesive_tape >> ..
+[16:26:49] [Server thread/INFO]: adhesive_tape >> 谢谢
+[16:26:55] [Server thread/INFO]: DragonRock37 >> 一会登记一波=
+[16:27:01] [Server thread/INFO]: adhesive_tape has made the advancement [Cover Me With Diamonds]
+[16:27:05] [Server thread/INFO]: DragonRock37 >> 你有事情找黑云的人就行了
+[16:27:06] [Server thread/INFO]: DragonRock37 >> 2333
+[16:27:19] [Server thread/INFO]: DragonRock37 >> 全 服 最 大 恶 势 力
+[16:27:40] [Server thread/INFO]: DragonRock37 >> 对了,包间的东西最好是别拿
+[16:28:01] [Server thread/INFO]: adhesive_tape >> 那点木头
+[16:28:03] [Server thread/INFO]: DragonRock37 >> ok
+[16:28:23] [User Authenticator #16/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[16:28:24] [Server thread/INFO]: Block_linyi[/127.0.0.1:50514] logged in with entity id 142818 at ([world]-103.5, 64.0, 169.5)
+[16:28:38] [Server thread/INFO]: Block_linyi >> 卧槽，好流畅
+[16:28:53] [Server thread/INFO]: ASR2003 >> 羡慕啊
+[16:28:53] [Server thread/INFO]: Block_linyi >> 但我装备没了
+[16:28:59] [Server thread/INFO]: Block_linyi >> 啊啊啊啊
+[16:29:05] [Server thread/INFO]: DragonRock37 >> 悲
+[16:29:09] [Server thread/INFO]: Block_linyi >> 我原来的号叫lin_yi_233
+[16:29:15] [Server thread/INFO]: Block_linyi >> 现在用的是正版
+[16:29:18] [Server thread/INFO]: DragonRock37 >> metoo
+[16:29:32] [Server thread/WARN]: ASR2003 moved wrongly!
+[16:29:33] [Server thread/INFO]: DragonRock37 >> 听说可以要回来=-
+[16:29:40] [Server thread/INFO]: Block_linyi >> 有没有什么办法可以转装备
+[16:30:37] [Server thread/INFO]: DragonRock37 >> 小泠转playerdata或者关正版
+[16:30:59] [Server thread/INFO]: Block_linyi >> playerdata是什么
+[16:31:02] [Server thread/INFO]: DragonRock37 >> 数据
+[16:31:03] [Server thread/INFO]: Xin_Sai >> 关正版会对这个号有冲突么
+[16:31:04] [Server thread/WARN]: Xin_Sai moved wrongly!
+[16:31:08] [Server thread/INFO]: DragonRock37 >> 没有
+[16:31:21] [Server thread/INFO]: adhesive_tape >> 老大
+[16:31:22] [Server thread/INFO]: DragonRock37 >> 关的话只能让玩家拿一下东西之类的
+[16:31:26] [Server thread/INFO]: adhesive_tape >> 信标太少
+[16:31:26] [Server thread/INFO]: ASR2003 has made the advancement [Acquire Hardware]
+[16:31:29] [Server thread/INFO]: DragonRock37 >> 2333
+[16:31:33] [Server thread/INFO]: the_yellowleaf >> ?
+[16:31:40] [Server thread/INFO]: DragonRock37 >> 今天我去刷几个头看看-
+[16:31:43] [Server thread/INFO]: Block_linyi >> 可以关一下，我觉得
+[16:31:47] [Server thread/INFO]: the_yellowleaf >> 龙岩你把绿帽子拿走了吗
+[16:31:52] [Server thread/INFO]: DragonRock37 >> yep..
+[16:31:52] [Server thread/INFO]: adhesive_tape >> 凋零农场做了没
+[16:31:53] [Server thread/INFO]: ASR2003 has made the advancement [Suit Up]
+[16:31:55] [Server thread/INFO]: DragonRock37 >> 没有
+[16:32:02] [Server thread/INFO]: DragonRock37 >> the_yellowleaf你算黑云的人吧(
+[16:32:02] [Server thread/INFO]: adhesive_tape >> 吐了
+[16:32:03] [Server thread/INFO]: the_yellowleaf >> well
+[16:32:07] [Server thread/WARN]: ASR2003 moved wrongly!
+[16:32:11] [Server thread/INFO]: the_yellowleaf >> 我随便
+[16:32:11] [Server thread/INFO]: DragonRock37 >> 主要是才开不久-
+[16:32:20] [Server thread/INFO]: Block_linyi >> 现在超级流畅
+[16:32:25] [Server thread/INFO]: DragonRock37 >> 3月到7月关了4个月的服务器
+[16:32:32] [Server thread/INFO]: adhesive_tape >> 我认领一个仓库了
+[16:32:34] [Server thread/INFO]: DragonRock37 >> ok
+[16:32:41] [Server thread/INFO]: DragonRock37 >> 挂个牌子就行
+[16:32:45] [Server thread/INFO]: Block_linyi >> 什么仓库
+[16:32:49] [Server thread/WARN]: ASR2003 moved too quickly! 10.411159210824508,2.747796659746271,4.301519013564985
+[16:32:50] [Server thread/INFO]: DragonRock37 >> 黑云的
+[16:32:51] [Server thread/INFO]: Block_linyi has made the advancement [We Need to Go Deeper]
+[16:32:52] [Server thread/INFO]: DragonRock37 >> 保险-
+[16:33:05] [Server thread/INFO]: ASR2003 >> aaaaaa
+[16:33:07] [Server thread/INFO]: Block_linyi >> 我去看看我们小镇
+[16:33:19] [Server thread/INFO]: Block_linyi >> 我听说我们小镇好像要重修
+[16:33:22] [Server thread/INFO]: adhesive_tape >> 怎么打彩色字体来着
+[16:33:24] [Server thread/INFO]: Block_linyi >> 还要改名字
+[16:33:32] [Server thread/INFO]: DragonRock37 >> 彩色字体是用燃料染的-
+[16:33:36] [Server thread/INFO]: DragonRock37 >> 染料-
+[16:33:39] [Server thread/INFO]: Block_linyi >> 他们说改成资本主义小镇
+[16:33:44] [Server thread/INFO]: DragonRock37 >> ??2333
+[16:33:54] [Server thread/INFO]: Xin_Sai >> 滑稽
+[16:33:55] [Server thread/WARN]: Xin_Sai moved wrongly!
+[16:33:58] [Server thread/INFO]: ASR2003 was slain by Zombie
+[16:34:05] [Server thread/INFO]: ASR2003 >> 啊
+[16:34:13] [Server thread/WARN]: ASR2003 moved too quickly! -7.519825034539082,-0.395575898673286,-6.793954595592339
+[16:34:22] [Server thread/INFO]: Block_linyi >> 地狱刷新了？
+[16:34:25] [Server thread/INFO]: DragonRock37 >> no
+[16:34:27] [Server thread/WARN]: ASR2003 moved too quickly! 17.85571204613484,18.0,0.03807616650357204
+[16:34:33] [Server thread/INFO]: Block_linyi >> 蛤
+[16:34:39] [Server thread/INFO]: ASR2003 has made the advancement [We Need to Go Deeper]
+[16:34:54] [Server thread/INFO]: the_yellowleaf fell from a high place
+[16:35:09] [Server thread/INFO]: the_yellowleaf >> ????
+[16:35:10] [Server thread/WARN]: ASR2003 moved too quickly! -0.5637959851154868,-1.2650870802705754,16.69484527829232
+[16:35:10] [Server thread/INFO]: Block_linyi >> 服务器更不更新1.16
+[16:35:12] [Server thread/INFO]: adhesive_tape >> e
+[16:35:17] [Server thread/INFO]: the_yellowleaf >> 什么xxx
+[16:35:18] [Server thread/INFO]: DragonRock37 >> 暂时不清楚
+[16:35:19] [Server thread/INFO]: adhesive_tape >> 我要下矿
+[16:35:24] [Server thread/INFO]: adhesive_tape >> 怎么出去
+[16:35:25] [Server thread/INFO]: the_yellowleaf >> 最好更新
+[16:35:25] [Server thread/INFO]: DragonRock37 >> o
+[16:35:28] [Server thread/INFO]: DragonRock37 >> 这里
+[16:35:32] [Server thread/INFO]: Block_linyi fell from a high place
+[16:35:44] [Server thread/INFO]: the_yellowleaf >> 我要被幻翼逼疯了
+[16:35:58] [Server thread/INFO]: adhesive_tape >> 给我点火把
+[16:36:07] [Server thread/INFO]: DragonRock37 >> -
+[16:36:29] [Server thread/INFO]: ASR2003 >> 这个延迟 我服了
+[16:36:35] [Server thread/WARN]: ASR2003 moved too quickly! 1.954762472063024,1.0013359791121417,-9.982848760738761
+[16:36:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[16:36:43] [Server thread/INFO]: Xin_Sai >> 你这延迟太恐怖了
+[16:36:46] [Server thread/INFO]: DragonRock37 >> 2010瞩目
+[16:37:03] [Server thread/INFO]: Block_linyi >> 我去我们小镇白票东西了
+[16:37:11] [Server thread/INFO]: ASR2003 >> 不知道为什么我家网差的一批
+[16:37:16] [Server thread/INFO]: DragonRock37 >> juele
+[16:37:29] [Server thread/WARN]: ASR2003 was kicked for floating too long!
+[16:37:29] [Server thread/INFO]: ASR2003 lost connection: Flying is not enabled on this server
+[16:37:29] [Server thread/INFO]: ASR2003 left the game
+[16:37:29] [Server thread/WARN]: handleDisconnection() called twice
+[16:37:44] [Server thread/INFO]: Block_linyi >> 服务器现在有没有全物品
+[16:37:54] [Server thread/INFO]: DragonRock37 >> 有半成品
+[16:38:00] [Server thread/INFO]: DragonRock37 >> 他做一半退服了-
+[16:38:03] [Server thread/INFO]: Block_linyi >> 我哪天来做一个
+[16:38:16] [Server thread/INFO]: Block_linyi issued server command: /co i
+[16:38:36] [Server thread/INFO]: Block_linyi >> 我咋感觉小镇变化这么大呢
+[16:38:43] [Server thread/INFO]: Block_linyi >> 变空了
+[16:38:45] [User Authenticator #17/INFO]: Disconnecting com.mojang.authlib.GameProfile@7d3df93c[id=<null>,name=ASR2003,properties={},legacy=false] (/127.0.0.1:50597): Authentication servers are down. Please try again later, sorry!
+[16:38:45] [User Authenticator #17/ERROR]: Couldn't verify username because servers are unavailable
+[16:38:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@7d3df93c[id=<null>,name=ASR2003,properties={},legacy=false] (/127.0.0.1:50597) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:38:48] [Server thread/INFO]: adhesive_tape >> 老大
+[16:38:59] [User Authenticator #17/INFO]: UUID of player ASR2003 is 9f670a33-026f-4c54-86ad-0296e9b51898
+[16:38:59] [Server thread/INFO]: DragonRock37 >> 咋了-
+[16:38:59] [Server thread/INFO]: ASR2003[/127.0.0.1:50606] logged in with entity id 154745 at ([world]-74.54711178148283, 66.77080861019918, 46.1812121116408)
+[16:39:02] [Server thread/INFO]: adhesive_tape >> 给我弓，还有箭
+[16:39:09] [Server thread/INFO]: adhesive_tape >> 怪太多
+[16:39:12] [Server thread/INFO]: Block_linyi lost connection: Disconnected
+[16:39:12] [Server thread/INFO]: Block_linyi left the game
+[16:39:15] [Server thread/INFO]: adhesive_tape >> 下矿有点危险
+[16:39:27] [Server thread/INFO]: DragonRock37 >> 等一下
+[16:39:32] [Server thread/INFO]: DragonRock37 >> 马上回来
+[16:39:35] [Server thread/INFO]: ASR2003 >> 我吐了
+[16:39:47] [Server thread/WARN]: ASR2003 moved too quickly! 9.9527705119236,1.4199999868869781,-1.0347149680885588
+[16:40:15] [Server thread/WARN]: ASR2003 moved wrongly!
+[16:40:59] [Server thread/WARN]: ASR2003 moved too quickly! 0.09368245228870453,2.5061351021062137,-15.93772897673604
+[16:41:12] [Server thread/WARN]: ASR2003 moved too quickly! -7.455953242616587,5.248135998590939,-4.332408232749906
+[16:41:28] [Server thread/WARN]: ASR2003 moved too quickly! -15.162200519013027,-2.181269999138351,-14.623251747809974
+[16:41:39] [Server thread/WARN]: ASR2003 was kicked for floating too long!
+[16:41:39] [Server thread/INFO]: ASR2003 lost connection: Flying is not enabled on this server
+[16:41:39] [Server thread/INFO]: ASR2003 left the game
+[16:41:39] [Server thread/WARN]: handleDisconnection() called twice
+[16:42:38] [Server thread/INFO]: adhesive_tape >> 有史莱姆农场没
+[16:42:43] [Server thread/INFO]: DragonRock37 >> 有
+[16:43:16] [Server thread/INFO]: DragonRock37 has made the advancement [Enchanter]
+[16:43:42] [Server thread/INFO]: adhesive_tape >> 黑云基地是啥东西炸出来的
+[16:43:48] [Server thread/INFO]: DragonRock37 >> 手挖的
+[16:44:13] [Server thread/INFO]: adhesive_tape >> 黑云基地旁边的空地是啥意思
+[16:44:22] [Server thread/INFO]: DragonRock37 >> 准备建设娱乐设施=
+[16:44:43] [Server thread/INFO]: adhesive_tape >> 服务器最多支持多少个区块渲染
+[16:44:49] [User Authenticator #18/INFO]: UUID of player ASR2003 is 9f670a33-026f-4c54-86ad-0296e9b51898
+[16:44:49] [Server thread/INFO]: ASR2003[/127.0.0.1:50648] logged in with entity id 164624 at ([world]-84.85115904126553, 68.0, -148.63471862192557)
+[16:44:49] [Server thread/INFO]: DragonRock37 >> 不知道-
+[16:45:07] [Server thread/WARN]: ASR2003 moved too quickly! -2.9527728514415514,0.4026908326733505,-9.591792742601058
+[16:45:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@59fd8297[id=<null>,name=Crushxl,properties={},legacy=false] (/127.0.0.1:50654) lost connection: Disconnected
+[16:45:21] [Server thread/WARN]: ASR2003 moved too quickly! 9.790058227972537,1.0146178540372475,-10.902649285762635
+[16:45:31] [Server thread/INFO]: DragonRock37 >> 凑合用吧-
+[16:45:34] [Server thread/WARN]: ASR2003 was kicked for floating too long!
+[16:45:34] [Server thread/INFO]: ASR2003 lost connection: Flying is not enabled on this server
+[16:45:34] [Server thread/INFO]: ASR2003 left the game
+[16:45:34] [Server thread/WARN]: handleDisconnection() called twice
+[16:45:37] [Server thread/INFO]: adhesive_tape >> 谢啦
+[16:45:49] [Server thread/INFO]: adhesive_tape >> 我想造一个
+[16:46:06] [Server thread/INFO]: DragonRock37 >> 啥
+[16:46:14] [Server thread/INFO]: adhesive_tape >> 盾构机
+[16:46:26] [Server thread/INFO]: DragonRock37 >> 和小泠申请一下吧-
+[16:46:33] [Server thread/INFO]: DragonRock37 >> 现在服务器更新了,八成是可以
+[16:46:34] [Server thread/WARN]: adhesive_tape moved wrongly!
+[16:46:45] [User Authenticator #19/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[16:46:45] [Server thread/INFO]: Crushxl[/127.0.0.1:50666] logged in with entity id 167261 at ([world]-169.17351830798833, 64.92293597758626, 205.0533732583537)
+[16:46:49] [Server thread/INFO]: DragonRock37 >> 小泠!
+[16:46:50] [Server thread/INFO]: DragonRock37 >> - -
+[16:46:53] [Server thread/INFO]: adhesive_tape >> 要不挖钻石太慢了
+[16:47:10] [Server thread/INFO]: DragonRock37 >> 他想造个盾构机,小泠认为呢-
+[16:47:19] [Server thread/INFO]: Crushxl >> 行-
+[16:47:36] [Server thread/INFO]: DragonRock37 >> 我 的 东 西
+[16:48:40] [Server thread/INFO]: Crushxl issued server command: /openinv
+[16:48:51] [Server thread/INFO]: Crushxl issued server command: /openinv help
+[16:49:01] [Server thread/INFO]: Crushxl has made the advancement [Cover Me With Diamonds]
+[16:49:04] [Server thread/INFO]: DragonRock37 >> - -
+[16:49:05] [Server thread/INFO]: DragonRock37 >> 我 的 东 西
+[16:49:13] [Server thread/INFO]: the_yellowleaf >> 小泠来了
+[16:49:20] [Server thread/INFO]: the_yellowleaf >> 快把王冠给他
+[16:49:22] [Server thread/INFO]: DragonRock37 >> ok
+[16:49:27] [Server thread/INFO]: the_yellowleaf >> (
+[16:49:39] [Server thread/INFO]: adhesive_tape has made the advancement [Take Aim]
+[16:49:50] [Server thread/INFO]: DragonRock37 >> 人呢
+[16:49:52] [Server thread/INFO]: the_yellowleaf >> 我怕不是要被t
+[16:49:58] [Server thread/INFO]: Crushxl has made the advancement [We Need to Go Deeper]
+[16:51:02] [Server thread/INFO]: Crushxl >> !
+[16:51:10] [Server thread/INFO]: DragonRock37 >> 危
+[16:51:23] [Server thread/INFO]: Crushxl >> 你 不 对 劲
+[16:51:34] [Server thread/INFO]: DragonRock37 >> 绑定诅咒警告(
+[16:51:56] [Server thread/INFO]: DragonRock37 >> 2952的延迟...
+[16:52:03] [Server thread/INFO]: DragonRock37 >> 你在外国吗(
+[16:52:14] [Server thread/INFO]: the_yellowleaf >> 开个加速器试试（
+[16:52:16] [Server thread/WARN]: Crushxl was kicked due to keepalive timeout!
+[16:52:16] [Server thread/INFO]: Crushxl lost connection: Timed out
+[16:52:16] [Server thread/INFO]: Crushxl left the game
+[16:52:16] [Server thread/WARN]: handleDisconnection() called twice
+[16:52:24] [Server thread/INFO]: DragonRock37 >> BOOMMMMMMMMMMMM
+[16:53:21] [Server thread/INFO]: adhesive_tape >> 老大
+[16:53:23] [Server thread/INFO]: DragonRock37 >> ?
+[16:53:29] [Server thread/INFO]: adhesive_tape >> 红石够不够
+[16:53:35] [Server thread/INFO]: DragonRock37 >> 够
+[16:53:41] [Server thread/INFO]: DragonRock37 >> 你有空背包可以挖一点0
+[16:53:49] [Server thread/INFO]: the_yellowleaf >> 龙 老 大
+[16:53:53] [Server thread/INFO]: DragonRock37 >> - -
+[16:53:59] [User Authenticator #20/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[16:53:59] [Server thread/INFO]: North_dream[/127.0.0.1:50722] logged in with entity id 175583 at ([world]2719.760732761728, 63.5, -356.78661929394934)
+[16:54:11] [Server thread/INFO]: DragonRock37 >> 北梦是黑云的人吗(
+[16:54:31] [Server thread/INFO]: [Server] 这就十分离谱（
+[16:54:34] [Server thread/INFO]: DragonRock37 >> = =
+[16:54:36] [Server thread/INFO]: the_yellowleaf >> (
+[16:54:38] [Server thread/INFO]: North_dream >> ？
+[16:54:40] [Server thread/INFO]: North_dream >> （
+[16:54:42] [Server thread/INFO]: DragonRock37 >> 小泠他卡的要死
+[16:54:44] [Server thread/INFO]: the_yellowleaf >> 我甚至没去过黑云
+[16:54:46] [Server thread/INFO]: DragonRock37 >> 不知道为什么(
+[16:54:57] [Server thread/INFO]: North_dream >> 黑云是哪？
+[16:55:08] [Server thread/INFO]: DragonRock37 >> ..............................................
+[16:55:20] [Server thread/INFO]: DragonRock37 >> 我记得你来过来着-
+[16:55:26] [Server thread/INFO]: the_yellowleaf >> 没
+[16:55:32] [Server thread/INFO]: Xin_Sai >> .
+[16:55:34] [Server thread/INFO]: DragonRock37 >> 最 安 全 的 仓 库
+[16:55:54] [Server thread/INFO]: North_dream >> o
+[16:55:59] [Server thread/INFO]: North_dream >> 那个啊
+[16:56:13] [Server thread/INFO]: DragonRock37 >> 挂上名字,以后有需要就能直接来了=
+[16:56:16] [User Authenticator #21/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[16:56:16] [Server thread/INFO]: Crushxl[/127.0.0.1:50745] logged in with entity id 177831 at ([world_nether]175.55762107132801, 115.5, 19.592019418828222)
+[16:56:20] [Server thread/INFO]: North_dream >> awa
+[16:56:27] [Server thread/INFO]: North_dream >> 小泠球！
+[16:56:35] [Server thread/INFO]: Crushxl >> 服务器就在旁边然而我进不去（
+[16:56:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[16:56:38] [Server thread/INFO]: DragonRock37 >> 233333
+[16:56:40] [Server thread/INFO]: North_dream >> 小泠使用芥末攻击
+[16:56:48] [Server thread/INFO]: DragonRock37 >> 那你可以尝试物理上的进去?
+[16:56:50] [Server thread/INFO]: North_dream >> 北梦被辣死了
+[16:56:51] [Server thread/INFO]: DragonRock37 >> -w-
+[16:57:14] [Server thread/INFO]: North_dream >> 小泠
+[16:57:20] [Server thread/INFO]: North_dream >> 你想崩溃吗
+[16:57:24] [Server thread/INFO]: DragonRock37 >> 对辣.之前我的东西咋整(
+[16:57:27] [Server thread/INFO]: Crushxl >> 用服务器玩会消耗算力？
+[16:57:36] [Server thread/INFO]: DragonRock37 >> 应该...吧
+[16:57:36] [Server thread/INFO]: North_dream >> 你想听见噪音吗
+[16:57:44] [Server thread/INFO]: Crushxl >> 好像要改uuid
+[16:57:50] [Server thread/INFO]: North_dream >> 我现在让石头工厂打开
+[16:57:51] [Server thread/INFO]: DragonRock37 >> emm
+[16:58:41] [Server thread/INFO]: North_dream >> 你听见了什么 很吵的声音 了吗awa
+[16:59:23] [Server thread/INFO]: Crushxl >> 我在地狱交通这XD
+[16:59:24] [Server thread/INFO]: DragonRock37 >> 可以找夜深人静的时候关正版验证吗(
+[16:59:29] [Server thread/INFO]: North_dream >> 你听见了什么 很吵的声音 了吗awa
+[16:59:33] [Server thread/WARN]: Crushxl moved too quickly! -15.694430651751915,1.0013359791121417,-1.6083781872824332
+[17:00:18] [Server thread/INFO]: North_dream >> 你卡了吗
+[17:00:29] [Server thread/INFO]: DragonRock37 >> 4676延迟
+[17:00:31] [Server thread/INFO]: North_dream >> 你的主机发出噪音了吗
+[17:00:34] [Server thread/INFO]: DragonRock37 >> 再创新高
+[17:00:36] [Server thread/INFO]: North_dream >> awa
+[17:01:15] [Server thread/INFO]: DragonRock37 issued server command: /locate
+[17:01:23] [Server thread/INFO]: DragonRock37 >> ./locate Crushxl
+[17:02:00] [Server thread/INFO]: North_dream >> ?
+[17:02:08] [Server thread/INFO]: North_dream >> 这是啥？
+[17:02:11] [Server thread/INFO]: DragonRock37 >> ?
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:02:14] [Server thread/WARN]: a7a3d75b-99a0-4166-b6c8-2a673b08e45e (vehicle of Xin_Sai) moved wrongly!
+[17:03:16] [Server thread/ERROR]: Could not pass event PlayerChatEvent to ChatC v0.5
+java.lang.IllegalArgumentException: character to be escaped is missing
+	at java.util.regex.Matcher.appendReplacement(Unknown Source) ~[?:1.8.0_181]
+	at java.util.regex.Matcher.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.String.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at cf.cc7w.ChatC.ChatC.onchat(ChatC.java:247) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor30.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:559) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection$5.evaluate(PlayerConnection.java:1743) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.util.Waitable.run(Waitable.java:25) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1198) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[17:03:16] [Server thread/INFO]: <Crushxl> 毫无游戏体验:\
+[17:03:21] [Server thread/INFO]: North_dream >> awa
+[17:03:45] [Server thread/INFO]: DragonRock37 >> 亲,这边建议您换上铁套在网络很卡的情况来打擂台赛(
+[17:04:59] [Server thread/INFO]: adhesive_tape >> 老大
+[17:05:02] [Server thread/INFO]: DragonRock37 >> ?
+[17:05:05] [Server thread/INFO]: adhesive_tape >> 发现僵尸刷怪笼
+[17:05:07] [Server thread/INFO]: DragonRock37 >> emm
+[17:05:11] [Server thread/INFO]: North_dream >> ..
+[17:05:13] [Server thread/INFO]: DragonRock37 >> 暂时倒是不需要-
+[17:05:18] [Server thread/INFO]: adhesive_tape >> ok
+[17:05:31] [Server thread/WARN]: Crushxl moved too quickly! -0.4551252514987141,0.0,11.664187667152873
+[17:05:46] [Server thread/INFO]: adhesive_tape >> [name:僵尸刷怪笼, x:2097, y:67, z:2479, dim:0]
+[17:05:50] [Server thread/INFO]: adhesive_tape >> 分享了
+[17:06:03] [User Authenticator #22/INFO]: UUID of player DF_yechu is 53cfc767-1c81-46fa-8b77-d5f7f10bb804
+[17:06:03] [Server thread/WARN]: Using offline mode UUID file for player DF_yechu as it is the only copy we can find.
+[17:06:03] [Server thread/INFO]: DF_yechu has reached the goal [Sky's the Limit]
+[17:06:03] [Server thread/INFO]: DF_yechu[/127.0.0.1:50815] logged in with entity id 189904 at ([world]1351.2765752239386, 64.0, 34.804893040090036)
+[17:06:17] [Server thread/INFO]: DF_yechu issued server command: /home
+[17:06:37] [Server thread/WARN]: Crushxl moved too quickly! 2.9153766120497266,1.2491870787446828,37.84821727778831
+[17:07:09] [Server thread/INFO]: Crushxl lost connection: Timed out
+[17:07:09] [Server thread/INFO]: Crushxl left the game
+[17:07:55] [Server thread/INFO]: DF_yechu has made the advancement [We Need to Go Deeper]
+[17:08:15] [Server thread/INFO]: DragonRock37 lost connection: Disconnected
+[17:08:15] [Server thread/INFO]: DragonRock37 left the game
+[17:10:21] [Server thread/INFO]: DF_yechu >> 紫晶的人在吗
+[17:16:35] [Server thread/WARN]: the_yellowleaf was kicked for floating too long!
+[17:16:35] [Server thread/INFO]: the_yellowleaf lost connection: Flying is not enabled on this server
+[17:16:35] [Server thread/INFO]: the_yellowleaf left the game
+[17:16:35] [Server thread/WARN]: handleDisconnection() called twice
+[17:16:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[17:16:40] [User Authenticator #23/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[17:16:40] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:50892] logged in with entity id 207585 at ([world]-495.774798707577, 69.11295602137132, -455.8891806120708)
+[17:17:11] [Server thread/WARN]: North_dream was kicked due to keepalive timeout!
+[17:17:11] [Server thread/INFO]: North_dream lost connection: Timed out
+[17:17:11] [Server thread/INFO]: North_dream left the game
+[17:17:11] [Server thread/WARN]: handleDisconnection() called twice
+[17:20:51] [Server thread/INFO]: DF_yechu has reached the goal [Postmortal]
+[17:20:54] [Server thread/INFO]: the_yellowleaf >> ???
+[17:21:16] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[17:21:16] [Server thread/INFO]: the_yellowleaf left the game
+[17:21:20] [User Authenticator #24/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[17:21:20] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:50926] logged in with entity id 211593 at ([world]-501.29934979800544, 75.0, -440.6188525723237)
+[17:21:24] [Server thread/INFO]: adhesive_tape >> 令人窒息
+[17:21:29] [User Authenticator #24/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[17:21:29] [Server thread/INFO]: the_yellowleaf lost connection: You logged in from another location
+[17:21:29] [Server thread/INFO]: the_yellowleaf left the game
+[17:21:29] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:50930] logged in with entity id 211765 at ([world]-501.29934979800544, 75.0, -440.6188525723237)
+[17:21:30] [Server thread/WARN]: handleDisconnection() called twice
+[17:21:36] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[17:21:36] [Server thread/INFO]: the_yellowleaf left the game
+[17:21:41] [User Authenticator #24/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[17:21:41] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:50936] logged in with entity id 211885 at ([world]-501.29934979800544, 75.0, -440.6188525723237)
+[17:21:47] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[17:21:47] [Server thread/INFO]: the_yellowleaf left the game
+[17:21:52] [User Authenticator #24/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[17:21:53] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:50945] logged in with entity id 212248 at ([world]-501.29934979800544, 75.0, -440.6188525723237)
+[17:22:00] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[17:22:00] [Server thread/INFO]: the_yellowleaf left the game
+[17:22:05] [User Authenticator #24/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[17:22:05] [Server thread/WARN]: Using offline mode UUID file for player jason_ji as it is the only copy we can find.
+[17:22:05] [Server thread/INFO]: jason_ji has reached the goal [Sky's the Limit]
+[17:22:05] [Server thread/INFO]: jason_ji has made the advancement [Cover Me With Diamonds]
+[17:22:05] [Server thread/INFO]: jason_ji has made the advancement [Acquire Hardware]
+[17:22:05] [Server thread/INFO]: jason_ji has made the advancement [Diamonds!]
+[17:22:05] [Server thread/INFO]: jason_ji has made the advancement [Isn't It Iron Pick]
+[17:22:05] [Server thread/INFO]: jason_ji[/127.0.0.1:50949] logged in with entity id 212600 at ([world_nether]169.69983528120514, 115.0, 21.066294312330708)
+[17:22:25] [Server thread/INFO]: jason_ji >> 爷青回
+[17:22:36] [Server thread/INFO]: DF_yechu >> 阿这
+[17:23:16] [Server thread/INFO]: jason_ji has made the advancement [We Need to Go Deeper]
+[17:24:17] [Server thread/INFO]: jason_ji has made the advancement [Monster Hunter]
+[17:26:14] [Server thread/WARN]: Xin_Sai moved wrongly!
+[17:26:19] [Server thread/INFO]: DF_yechu >> 来点吃的
+[17:27:30] [Server thread/INFO]: jason_ji >> 没多少人啊
+[17:27:43] [Server thread/INFO]: jason_ji >> 晚上再上线一次
+[17:27:46] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[17:27:46] [Server thread/INFO]: jason_ji left the game
+[17:27:55] [Server thread/WARN]: Xin_Sai moved wrongly!
+[17:34:00] [Server thread/INFO]: DF_yechu has made the advancement [Sweet Dreams]
+[17:34:42] [Server thread/INFO]: DF_yechu was slain by Zombie
+[17:35:57] [Server thread/INFO]: DF_yechu lost connection: Disconnected
+[17:35:57] [Server thread/INFO]: DF_yechu left the game
+[17:36:03] [Server thread/WARN]: c6b7a54e-b080-4465-a9b0-d77f33fc198d (vehicle of Xin_Sai) moved wrongly!
+[17:36:17] [Server thread/WARN]: Xin_Sai moved wrongly!
+[17:36:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[17:37:08] [Server thread/WARN]: Xin_Sai moved wrongly!
+[17:38:08] [Server thread/WARN]: Xin_Sai moved wrongly!
+[17:40:18] [User Authenticator #25/INFO]: UUID of player North_dream is 7bcb6050-a916-49f2-993e-62007a7d3d89
+[17:40:18] [Server thread/INFO]: North_dream[/127.0.0.1:51066] logged in with entity id 228517 at ([world]2723.601268543278, 63.0, -352.4625262409857)
+[17:40:50] [Server thread/WARN]: Xin_Sai moved wrongly!
+[17:45:13] [Server thread/WARN]: Xin_Sai was kicked for floating too long!
+[17:45:13] [Server thread/INFO]: Xin_Sai lost connection: Flying is not enabled on this server
+[17:45:13] [Server thread/INFO]: Xin_Sai left the game
+[17:45:13] [Server thread/WARN]: handleDisconnection() called twice
+[17:45:19] [User Authenticator #26/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[17:45:19] [Server thread/INFO]: Xin_Sai[/127.0.0.1:51101] logged in with entity id 231373 at ([world]3002.455046057328, 64.0361253090856, -3922.3940844854674)
+[17:45:24] [Server thread/WARN]: Xin_Sai moved too quickly! 8.72705707325531,-3.0,-11.35656662808151
+[17:46:50] [Server thread/INFO]: North_dream lost connection: Disconnected
+[17:46:50] [Server thread/INFO]: North_dream left the game
+[17:47:38] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[17:47:38] [Server thread/INFO]: Xin_Sai left the game
+[17:48:04] [User Authenticator #27/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[17:48:04] [Server thread/INFO]: Xin_Sai[/127.0.0.1:51118] logged in with entity id 232707 at ([world]2965.8737474395944, 62.073264977579974, -3438.187939410735)
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 8.769029446897093,0.0,18.397177608192123
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 8.937171139722523,0.0,18.760094916998696
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 9.105298662382665,0.0,19.12301983414909
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 9.273409952473685,0.0,19.48595321185985
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 9.44150663325263,0.0,19.848894204074895
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 9.609590165650843,0.0,20.21184204934343
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 9.777661864507081,0.0,20.574796062359837
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 9.946353768736117,0.0,20.937456969826144
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 10.11678838647913,0.0,21.299256162035363
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 10.290446846142913,0.0,21.65935878838718
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 10.468455927461491,0.0,22.0170406481775
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 10.651649368513517,0.0,22.371688588325014
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 10.84062470537856,0.0,22.72279323193061
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 11.035780629349574,0.0,23.06994727685651
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 11.237361530976159,0.0,23.412831518254734
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 11.445481472233041,0.0,23.751211727354075
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 11.66015362555936,0.0,24.084926612962136
+[17:49:51] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 11.88131007278298,0.0,24.413880481139586
+[17:51:50] [Server thread/INFO]: Xin_Sai lost connection: Timed out
+[17:51:50] [Server thread/INFO]: Xin_Sai left the game
+[17:52:00] [User Authenticator #28/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[17:52:00] [Server thread/INFO]: Xin_Sai[/127.0.0.1:51149] logged in with entity id 233769 at ([world]3073.8669309835655, 62.073264977579974, -2567.9828606521646)
+[17:52:08] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 1.9610469258136618,0.0,19.910842965452503
+[17:52:08] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 2.000183316471521,0.0,20.308201395976084
+[17:52:08] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 2.0393267526305863,0.0,20.70563136066994
+[17:52:08] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 2.0784765297403283,0.0,21.103125706115407
+[17:52:08] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 2.117632013705588,0.0,21.500677994235502
+[17:52:08] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 2.1567926338407233,0.0,21.89828243076181
+[17:52:08] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 2.1959578765286096,0.0,22.2959338008518
+[17:52:08] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 2.2351272795140176,0.0,22.693627411148555
+[17:52:08] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 2.2743004267667857,0.0,23.091359037630355
+[17:52:08] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 2.3134769438602234,0.0,23.489124878677558
+[17:52:08] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 2.352656493810173,0.0,23.88692151283294
+[17:52:08] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 2.3918387733310738,0.0,24.284745860784824
+[17:52:08] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 2.4310235094653763,0.0,24.682595151153237
+[17:52:09] [Server thread/WARN]: 80839ae9-3179-49e3-a0b0-1d53aca9ee47 (vehicle of Xin_Sai) moved wrongly!
+[17:52:09] [Server thread/WARN]: 80839ae9-3179-49e3-a0b0-1d53aca9ee47 (vehicle of Xin_Sai) moved wrongly!
+[17:52:09] [Server thread/WARN]: 80839ae9-3179-49e3-a0b0-1d53aca9ee47 (vehicle of Xin_Sai) moved wrongly!
+[17:52:09] [Server thread/WARN]: 80839ae9-3179-49e3-a0b0-1d53aca9ee47 (vehicle of Xin_Sai) moved wrongly!
+[17:52:09] [Server thread/WARN]: 80839ae9-3179-49e3-a0b0-1d53aca9ee47 (vehicle of Xin_Sai) moved wrongly!
+[17:52:09] [Server thread/WARN]: 80839ae9-3179-49e3-a0b0-1d53aca9ee47 (vehicle of Xin_Sai) moved wrongly!
+[17:52:09] [Server thread/WARN]: 80839ae9-3179-49e3-a0b0-1d53aca9ee47 (vehicle of Xin_Sai) moved wrongly!
+[17:52:41] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[17:52:41] [Server thread/INFO]: Xin_Sai left the game
+[17:53:41] [User Authenticator #29/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[17:53:41] [Server thread/INFO]: Xin_Sai[/127.0.0.1:51163] logged in with entity id 234281 at ([world]3077.3610320841385, 62.073264977579974, -2532.5545824755663)
+[17:56:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[17:58:37] [User Authenticator #30/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[17:58:37] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:51198] logged in with entity id 236191 at ([world]-501.29934979800544, 75.0, -440.6188525723237)
+[17:58:59] [Server thread/INFO]: the_yellowleaf >> 你们不恰饭吗
+[17:59:40] [User Authenticator #31/INFO]: UUID of player Envy_Cloud is c5f83320-e8be-418f-81c1-e1f3ea1f99d5
+[17:59:40] [Server thread/INFO]: Envy_Cloud[/127.0.0.1:51210] logged in with entity id 236885 at ([world]1355.1616318143545, 63.0, 70.9872531929332)
+[18:00:32] [Server thread/INFO]: adhesive_tape has made the advancement [What a Deal!]
+[18:00:58] [Server thread/INFO]: the_yellowleaf >> 哇哦
+[18:01:07] [Server thread/INFO]: the_yellowleaf >> 有个大佬进来了
+[18:01:10] [Server thread/INFO]: Envy_Cloud >> qwq
+[18:01:20] [Server thread/INFO]: Envy_Cloud >> 萌新了
+[18:01:24] [Server thread/INFO]: the_yellowleaf >> 就是我貌似看不见你皮肤
+[18:01:31] [Server thread/INFO]: Envy_Cloud >> 对
+[18:02:19] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7eec9f34[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:51227): Took too long to log in
+[18:02:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@7eec9f34[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:51227) lost connection: Took too long to log in
+[18:02:26] [User Authenticator #32/INFO]: Disconnecting com.mojang.authlib.GameProfile@7eec9f34[id=<null>,name=Magical7,properties={},legacy=false] (/127.0.0.1:51227): Authentication servers are down. Please try again later, sorry!
+[18:02:26] [User Authenticator #32/ERROR]: Couldn't verify username because servers are unavailable
+[18:02:33] [User Authenticator #32/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[18:02:33] [Server thread/WARN]: Using offline mode UUID file for player Magical7 as it is the only copy we can find.
+[18:02:33] [Server thread/INFO]: Magical7 has reached the goal [Sky's the Limit]
+[18:02:33] [Server thread/INFO]: Magical7 has made the advancement [Cover Me With Diamonds]
+[18:02:33] [Server thread/INFO]: Magical7[/127.0.0.1:51235] logged in with entity id 240702 at ([world_nether]197.90816352799754, 115.0, 69.27488014201984)
+[18:02:39] [Server thread/INFO]: the_yellowleaf >> ?????
+[18:02:50] [Server thread/INFO]: Magical7 >> 回来了
+[18:02:52] [Server thread/INFO]: the_yellowleaf >> 为什么这么多我不认识的
+[18:03:54] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[18:03:54] [Server thread/INFO]: Magical7 left the game
+[18:04:03] [User Authenticator #33/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[18:04:03] [Server thread/INFO]: Magical7[/127.0.0.1:51248] logged in with entity id 242285 at ([world]1572.1805385311698, 63.0, 847.1061523605265)
+[18:04:09] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[18:04:09] [Server thread/INFO]: Xin_Sai left the game
+[18:06:33] [Server thread/WARN]: fb0e44c7-bbb5-41e8-accc-d55631c9bbf4 (vehicle of adhesive_tape) moved wrongly!
+[18:06:33] [Server thread/WARN]: fb0e44c7-bbb5-41e8-accc-d55631c9bbf4 (vehicle of adhesive_tape) moved wrongly!
+[18:06:33] [Server thread/WARN]: fb0e44c7-bbb5-41e8-accc-d55631c9bbf4 (vehicle of adhesive_tape) moved wrongly!
+[18:10:49] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[18:10:49] [Server thread/INFO]: the_yellowleaf left the game
+[18:12:21] [Server thread/INFO]: Envy_Cloud lost connection: Disconnected
+[18:12:21] [Server thread/INFO]: Envy_Cloud left the game
+[18:12:47] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[18:12:47] [Server thread/INFO]: adhesive_tape left the game
+[18:12:47] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[18:12:47] [Server thread/INFO]: Magical7 left the game
+[18:13:03] [User Authenticator #34/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[18:13:03] [Server thread/INFO]: adhesive_tape[/127.0.0.1:51313] logged in with entity id 251275 at ([world]-222.45221132477724, 64.0, 20.68174384459705)
+[18:13:51] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[18:13:51] [Server thread/INFO]: adhesive_tape left the game
+[18:16:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[18:17:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@50d326e4[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:51350) lost connection: Disconnected
+[18:18:13] [User Authenticator #35/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[18:18:13] [Server thread/INFO]: adhesive_tape[/127.0.0.1:51360] logged in with entity id 251416 at ([world]-214.3211668101295, 64.0, 20.200192063532633)
+[18:21:34] [User Authenticator #36/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[18:21:34] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:51384] logged in with entity id 251711 at ([world]-511.08871214159996, 70.0, -470.5550448998566)
+[18:23:22] [User Authenticator #37/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[18:23:22] [Server thread/INFO]: Twilight2033[/127.0.0.1:51399] logged in with entity id 252347 at ([world]5129.601259721404, 69.0, 252.89521128008892)
+[18:23:53] [Server thread/INFO]: Twilight2033 has made the advancement [Monster Hunter]
+[18:24:45] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[18:24:45] [Server thread/INFO]: the_yellowleaf left the game
+[18:25:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@4783048[id=<null>,name=Envy_Cloud,properties={},legacy=false] (/127.0.0.1:51418) lost connection: Disconnected
+[18:28:25] [Server thread/INFO]: Twilight2033 lost connection: Timed out
+[18:28:25] [Server thread/INFO]: Twilight2033 left the game
+[18:33:31] [User Authenticator #38/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[18:33:31] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:51476] logged in with entity id 255003 at ([world]2701.300000011921, 134.0, -392.69999998807907)
+[18:36:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[18:43:40] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[18:43:40] [Server thread/INFO]: adhesive_tape left the game
+[18:44:07] [User Authenticator #39/INFO]: UUID of player huyast111 is 2ad345ca-630c-4467-b213-77de8000ae99
+[18:44:07] [Server thread/WARN]: Using offline mode UUID file for player huyast111 as it is the only copy we can find.
+[18:44:07] [Server thread/INFO]: huyast111[/127.0.0.1:51555] logged in with entity id 260808 at ([world]-110.12872804267685, 64.0, 181.1268809247568)
+[18:44:12] [Server thread/INFO]: sen_lv_ling_ >> hi
+[18:44:27] [Server thread/INFO]: huyast111 >> hi
+[18:44:32] [Server thread/INFO]: huyast111 lost connection: Disconnected
+[18:44:32] [Server thread/INFO]: huyast111 left the game
+[18:44:32] [Server thread/INFO]: sen_lv_ling_ >> 新人？
+[18:51:09] [User Authenticator #40/INFO]: UUID of player huyast111 is 2ad345ca-630c-4467-b213-77de8000ae99
+[18:51:09] [Server thread/INFO]: huyast111[/127.0.0.1:51600] logged in with entity id 262890 at ([world]-109.81650299289264, 64.84900079226159, 178.0570620260273)
+[18:51:15] [Server thread/WARN]: huyast111 was kicked for floating too long!
+[18:51:15] [Server thread/INFO]: huyast111 lost connection: Flying is not enabled on this server
+[18:51:15] [Server thread/INFO]: huyast111 left the game
+[18:51:15] [Server thread/WARN]: handleDisconnection() called twice
+[18:51:37] [User Authenticator #40/INFO]: UUID of player huyast111 is 2ad345ca-630c-4467-b213-77de8000ae99
+[18:51:37] [Server thread/INFO]: huyast111[/127.0.0.1:51607] logged in with entity id 263307 at ([world]-109.81650299289264, 64.47237029402294, 178.0570620260273)
+[18:51:45] [Server thread/INFO]: huyast111 >> hi
+[18:51:51] [Server thread/INFO]: sen_lv_ling_ >> hi
+[18:52:30] [Server thread/INFO]: sen_lv_ling_ >> 新人吗？
+[18:52:33] [Server thread/INFO]: huyast111 >> 不是
+[18:52:45] [Server thread/INFO]: huyast111 has made the advancement [Monster Hunter]
+[18:54:55] [Server thread/INFO]: huyast111 >> 要钻石吗兄弟
+[18:55:06] [Server thread/INFO]: sen_lv_ling_ >> 不要
+[18:55:28] [Server thread/INFO]: huyast111 has made the advancement [Stone Age]
+[18:56:00] [Server thread/INFO]: huyast111 was blown up by Creeper
+[18:56:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[18:56:39] [Server thread/INFO]: huyast111 has made the advancement [Diamonds!]
+[18:57:01] [Server thread/INFO]: huyast111 lost connection: Disconnected
+[18:57:01] [Server thread/INFO]: huyast111 left the game
+[18:58:48] [User Authenticator #42/INFO]: UUID of player Envy_Cloud is c5f83320-e8be-418f-81c1-e1f3ea1f99d5
+[18:58:48] [Server thread/INFO]: Envy_Cloud[/127.0.0.1:51669] logged in with entity id 267651 at ([world]3043.347280256497, 62.9375, 601.3567993974763)
+[18:58:48] [User Authenticator #41/INFO]: UUID of player huyast111 is 2ad345ca-630c-4467-b213-77de8000ae99
+[18:58:48] [Server thread/INFO]: huyast111[/127.0.0.1:51665] logged in with entity id 267823 at ([world]-181.30000001192093, 64.0, 169.33315022405984)
+[18:58:57] [Server thread/INFO]: sen_lv_ling_ >> 大佬来了！！！！！！！！
+[18:59:02] [Server thread/WARN]: huyast111 moved wrongly!
+[18:59:17] [Server thread/INFO]: Envy_Cloud >> qwq
+[18:59:21] [Server thread/INFO]: sen_lv_ling_ >> awa
+[19:00:31] [Server thread/INFO]: huyast111 was slain by Zombie
+[19:00:39] [Server thread/INFO]: huyast111 >> 操。。。
+[19:00:47] [Server thread/INFO]: sen_lv_ling_ >> 需要帮忙不
+[19:00:55] [Server thread/INFO]: huyast111 >> 不需要
+[19:05:00] [Server thread/INFO]: huyast111 tried to swim in lava
+[19:05:05] [Server thread/INFO]: huyast111 >> 啊啊啊啊
+[19:05:09] [Server thread/INFO]: sen_lv_ling_ >> emmmm
+[19:05:16] [Server thread/INFO]: huyast111 >> md，就差
+[19:05:53] [Server thread/INFO]: Envy_Cloud lost connection: Disconnected
+[19:05:53] [Server thread/INFO]: Envy_Cloud left the game
+[19:06:07] [Server thread/INFO]: huyast111 fell from a high place
+[19:15:33] [Server thread/WARN]: huyast111 moved too quickly! -0.627495256827558,0.1216000461578286,15.307326171606931
+[19:16:00] [Server thread/INFO]: huyast111 has made the advancement [Hot Stuff]
+[19:16:09] [Server thread/INFO]: huyast111 burned to death
+[19:16:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[19:22:32] [Server thread/INFO]: huyast111 has made the advancement [A Seedy Place]
+[19:23:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c2d77d4[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:51833) lost connection: Disconnected
+[19:23:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@5447aa73[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:51834) lost connection: Disconnected
+[19:23:41] [User Authenticator #43/INFO]: UUID of player Small_CaiQAQ is 5993cb85-5924-4e1d-b969-8e62a7b337d0
+[19:23:41] [Server thread/WARN]: Using offline mode UUID file for player Small_CaiQAQ as it is the only copy we can find.
+[19:23:41] [Server thread/INFO]: Small_CaiQAQ has reached the goal [Sky's the Limit]
+[19:23:41] [Server thread/INFO]: Small_CaiQAQ has made the advancement [Cover Me With Diamonds]
+[19:23:41] [Server thread/INFO]: Small_CaiQAQ[/127.0.0.1:51845] logged in with entity id 287277 at ([world]257.01202592689685, 63.0, 112.30000001192093)
+[19:23:51] [Server thread/INFO]: sen_lv_ling_ >> 又来一大佬
+[19:23:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@31b92cfb[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:51849) lost connection: Disconnected
+[19:24:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b727719[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:51854) lost connection: Disconnected
+[19:24:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a640f4f[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:51855) lost connection: Disconnected
+[19:24:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ce69f0d[id=<null>,name=yhy,properties={},legacy=false] (/127.0.0.1:51858) lost connection: Disconnected
+[19:24:52] [Server thread/INFO]: huyast111 lost connection: Disconnected
+[19:24:52] [Server thread/INFO]: huyast111 left the game
+[19:28:07] [Server thread/INFO]: Small_CaiQAQ has made the advancement [We Need to Go Deeper]
+[19:32:12] [Server thread/INFO]: Small_CaiQAQ lost connection: Disconnected
+[19:32:12] [Server thread/INFO]: Small_CaiQAQ left the game
+[19:33:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@56f35c11[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:51916) lost connection: Disconnected
+[19:33:16] [User Authenticator #44/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[19:33:17] [Server thread/INFO]: Bay_Max_[/127.0.0.1:51921] logged in with entity id 294750 at ([world]-663.8021158921704, 21.5625, -1878.6399851359783)
+[19:33:30] [Server thread/INFO]: sen_lv_ling_ >> hi
+[19:33:35] [Server thread/INFO]: Bay_Max_ >> hi
+[19:33:38] [Server thread/INFO]: Bay_Max_ >> qwq
+[19:34:43] [Server thread/WARN]: Bay_Max_ moved too quickly! 755.6485712924895,25.0,1878.5481530237778
+[19:36:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[19:38:39] [Server thread/INFO]: There are 2 of a max 40 players online: sen_lv_ling_, Bay_Max_
+[19:44:44] [Server thread/INFO]: There are 2 of a max 40 players online: sen_lv_ling_, Bay_Max_
+[19:45:19] [Server thread/INFO]: Bay_Max_ has made the advancement [Remote Getaway]
+[19:54:49] [User Authenticator #45/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[19:54:49] [Server thread/INFO]: jason_ji[/127.0.0.1:52061] logged in with entity id 308378 at ([world]5170.589772112121, 64.0, 211.22616663175685)
+[19:56:04] [Server thread/INFO]: jason_ji >> 人好少
+[19:56:15] [Server thread/INFO]: sen_lv_ling_ >> 对啊
+[19:56:26] [Server thread/INFO]: sen_lv_ling_ >> 没超过五个人
+[19:56:33] [Server thread/INFO]: jason_ji >> 尴尬
+[19:56:35] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[19:56:35] [Server thread/INFO]: jason_ji left the game
+[19:56:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[20:01:11] [User Authenticator #46/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[20:01:11] [Server thread/WARN]: Using offline mode UUID file for player Laohuaji as it is the only copy we can find.
+[20:01:12] [Server thread/INFO]: Laohuaji[/127.0.0.1:52103] logged in with entity id 312226 at ([world]-147.69315633439766, 64.0, 175.97962787116765)
+[20:01:17] [Server thread/INFO]: sen_lv_ling_ >> !!!
+[20:01:18] [Server thread/INFO]: Bay_Max_ >> 哦豁
+[20:01:23] [Server thread/INFO]: Laohuaji >> 芜湖
+[20:01:30] [Server thread/INFO]: Laohuaji >> !!!
+[20:01:32] [Server thread/INFO]: Bay_Max_ >> 起飞!
+[20:01:39] [Server thread/INFO]: sen_lv_ling_ >> 起飞！！！
+[20:01:39] [Server thread/INFO]: Laohuaji >> 谁有稿子接我一下
+[20:01:43] [Server thread/INFO]: Bay_Max_ >> ...
+[20:01:53] [Server thread/INFO]: Laohuaji >> 为啥我不是在黑云就离谱
+[20:01:59] [Server thread/INFO]: Laohuaji has made the advancement [We Need to Go Deeper]
+[20:02:01] [User Authenticator #46/INFO]: Disconnecting com.mojang.authlib.GameProfile@6b88dfb7[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:52112): Authentication servers are down. Please try again later, sorry!
+[20:02:01] [User Authenticator #46/ERROR]: Couldn't verify username because servers are unavailable
+[20:02:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@6b88dfb7[id=<null>,name=adhesive_tape,properties={},legacy=false] (/127.0.0.1:52112) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:02:01] [Server thread/INFO]: Bay_Max_ >> 你在哪
+[20:02:06] [User Authenticator #46/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[20:02:06] [Server thread/INFO]: adhesive_tape[/127.0.0.1:52117] logged in with entity id 312785 at ([world]-117.82065096942306, 63.0, 194.69999998807907)
+[20:02:22] [Server thread/INFO]: Laohuaji >> 主城低于
+[20:03:13] [Server thread/INFO]: Laohuaji >> 啥都没有就离谱qwq
+[20:03:14] [Server thread/INFO]: sen_lv_ling_ >> 挂机吃饭
+[20:04:15] [Server thread/INFO]: Bay_Max_ >> 要镐子不
+[20:04:16] [Server thread/INFO]: Bay_Max_ >> qwq
+[20:04:25] [Server thread/INFO]: sen_lv_ling_ has made the advancement [Fishy Business]
+[20:04:33] [Server thread/INFO]: Laohuaji has made the advancement [Isn't It Iron Pick]
+[20:05:47] [User Authenticator #47/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[20:05:47] [Server thread/WARN]: Using offline mode UUID file for player Mr_director as it is the only copy we can find.
+[20:05:47] [Server thread/INFO]: Mr_director has reached the goal [Sky's the Limit]
+[20:05:47] [Server thread/INFO]: Mr_director has made the advancement [Cover Me With Diamonds]
+[20:05:47] [Server thread/INFO]: Mr_director has made the advancement [Acquire Hardware]
+[20:05:47] [Server thread/INFO]: Mr_director[/127.0.0.1:52143] logged in with entity id 318125 at ([world]18.30000001192093, 163.5, 348.69999998807907)
+[20:06:32] [Server thread/INFO]: Mr_director >> 先让我想想我之前做什么来着
+[20:06:42] [Server thread/INFO]: Mr_director >> hyp玩玩多了玩傻了
+[20:06:46] [Server thread/INFO]: Bay_Max_ >> 地板姬
+[20:06:50] [Server thread/INFO]: Bay_Max_ >> （doge
+[20:07:04] [Server thread/INFO]: Mr_director has made the advancement [We Need to Go Deeper]
+[20:07:06] [Server thread/WARN]: Mr_director moved too quickly! -70.97246302789367,-9.0,143.93677961256122
+[20:07:51] [Server thread/INFO]: Mr_director has made the advancement [Eye Spy]
+[20:09:34] [Server thread/INFO]: Laohuaji has reached the goal [Sky's the Limit]
+[20:09:34] [Server thread/INFO]: Laohuaji has made the advancement [Cover Me With Diamonds]
+[20:11:03] [Server thread/INFO]: Mr_director has made the advancement [Monster Hunter]
+[20:11:22] [Server thread/INFO]: Mr_director >> 哪来的一堆活塞和粘液块
+[20:11:28] [Server thread/INFO]: Mr_director has made the advancement [Take Aim]
+[20:11:54] [Server thread/INFO]: There are 5 of a max 40 players online: sen_lv_ling_, Bay_Max_, Laohuaji, adhesive_tape, Mr_director
+[20:12:49] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[20:12:49] [Server thread/INFO]: Mr_director left the game
+[20:13:09] [User Authenticator #48/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[20:13:09] [Server thread/INFO]: Mr_director[/127.0.0.1:52195] logged in with entity id 330947 at ([world]1882.3640590249345, 7.0, 332.0733577945486)
+[20:16:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[20:17:58] [Server thread/INFO]: Villager EntityVillager['Villager'/1020, uuid='2e07133c-146f-4eab-8ea5-56541c235c90', l='world_the_end', x=207.70, y=49.05, z=-14.15, cx=12, cz=-1, tl=938779, v=true, d=false] died, message: 'Villager drowned'
+[20:18:28] [User Authenticator #49/INFO]: UUID of player YiFanFengShun is 6b491d23-aa75-4830-8683-36a79ae50c53
+[20:18:28] [Server thread/WARN]: Using offline mode UUID file for player YiFanFengShun as it is the only copy we can find.
+[20:18:28] [Server thread/INFO]: YiFanFengShun has reached the goal [Sky's the Limit]
+[20:18:28] [Server thread/INFO]: YiFanFengShun has made the advancement [Cover Me With Diamonds]
+[20:18:28] [Server thread/INFO]: YiFanFengShun[/127.0.0.1:52230] logged in with entity id 342803 at ([world]5163.744381230105, 64.0, 210.69999998807907)
+[20:18:49] [Server thread/INFO]: YiFanFengShun >> ,
+[20:19:00] [Server thread/INFO]: Villager EntityVillager['Villager'/1019, uuid='bdb47390-804d-4315-a08f-89c53b794922', l='world_the_end', x=207.30, y=50.00, z=-19.70, cx=12, cz=-2, tl=978061, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:01] [Server thread/INFO]: Villager EntityVillager['Villager'/1035, uuid='518513ce-98b8-4328-8800-07e340641b9a', l='world_the_end', x=207.30, y=50.08, z=-18.62, cx=12, cz=-2, tl=648662, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:01] [Server thread/INFO]: Villager EntityVillager['Villager'/1018, uuid='9c996890-6695-492e-81fa-51e636e6a3c5', l='world_the_end', x=207.30, y=50.03, z=-19.16, cx=12, cz=-2, tl=988059, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:01] [Server thread/INFO]: Villager EntityVillager['Villager'/1023, uuid='a6daf4ba-5040-4fd8-80df-9a7b73f15f87', l='world_the_end', x=207.30, y=50.25, z=-18.04, cx=12, cz=-2, tl=913991, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:06] [Server thread/INFO]: Villager EntityVillager['Villager'/1034, uuid='bd60ec92-ad41-47ef-be1a-f908a100612a', l='world_the_end', x=207.30, y=49.01, z=-14.70, cx=12, cz=-1, tl=655185, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:07] [Server thread/INFO]: Villager EntityVillager['Villager'/1036, uuid='59498f8d-5729-4124-9ccb-0e69e247c163', l='world_the_end', x=207.30, y=49.06, z=-13.70, cx=12, cz=-1, tl=616563, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:08] [Server thread/INFO]: Villager EntityVillager['Villager'/1029, uuid='c65f61f2-3e45-4571-a85a-6ecd8c40fb3d', l='world_the_end', x=207.69, y=49.33, z=-12.70, cx=12, cz=-1, tl=852951, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:09] [Server thread/INFO]: Villager EntityVillager['Villager'/1024, uuid='35ae522a-6856-4ce4-b333-0adbd8bb9ad0', l='world_the_end', x=207.58, y=49.15, z=-13.30, cx=12, cz=-1, tl=905988, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:10] [Server thread/INFO]: Villager EntityVillager['Villager'/1028, uuid='ae67cffa-3294-4593-92a5-fb776c5f72d7', l='world_the_end', x=207.31, y=49.47, z=-11.97, cx=12, cz=-1, tl=871476, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:12] [Server thread/INFO]: Villager EntityVillager['Villager'/1030, uuid='6149073d-f51c-4937-bc04-4e7c30c948f7', l='world_the_end', x=207.70, y=48.90, z=-12.34, cx=12, cz=-1, tl=846547, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:13] [Server thread/INFO]: Villager EntityVillager['Villager'/1032, uuid='ddda53d6-0c5e-4e08-82c5-cc021c6f052c', l='world_the_end', x=207.30, y=49.97, z=-11.34, cx=12, cz=-1, tl=675316, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:15] [Server thread/INFO]: Villager EntityVillager['Villager'/1027, uuid='2f28e76f-bdb8-426a-9689-52a1472fba7c', l='world_the_end', x=207.69, y=50.04, z=-10.30, cx=12, cz=-1, tl=884931, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:18] [Server thread/INFO]: Villager EntityVillager['Villager'/1026, uuid='18032b1e-4e63-4ef4-9316-00af2f22159e', l='world_the_end', x=207.70, y=50.20, z=-8.70, cx=12, cz=-1, tl=891338, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:19] [Server thread/INFO]: Villager EntityVillager['Villager'/1031, uuid='f97fdeaa-d17c-41d5-bc35-0cbd505aa800', l='world_the_end', x=207.70, y=50.19, z=-8.70, cx=12, cz=-1, tl=826384, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:21] [Server thread/INFO]: Villager EntityVillager['Villager'/1021, uuid='a818570b-84b2-4db0-9705-d00c8f44e987', l='world_the_end', x=207.70, y=50.28, z=-8.70, cx=12, cz=-1, tl=940420, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:22] [Server thread/INFO]: Villager EntityVillager['Villager'/1033, uuid='7766138f-6f13-4fe3-8912-c8d2e7de89a5', l='world_the_end', x=207.10, y=51.39, z=-8.70, cx=12, cz=-1, tl=667320, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:24] [Server thread/INFO]: Villager EntityVillager['Villager'/1025, uuid='2bfc994e-e9c2-4b62-b9c9-0247d968d43e', l='world_the_end', x=207.70, y=50.17, z=-8.70, cx=12, cz=-1, tl=899523, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:26] [Server thread/INFO]: Villager EntityVillager['Villager'/1017, uuid='f604e831-8993-418f-90ed-35aaa27875de', l='world_the_end', x=205.48, y=50.00, z=-8.31, cx=12, cz=-1, tl=989084, v=true, d=false] died, message: 'Villager was slain by Bay_Max_'
+[20:19:45] [Server thread/INFO]: YiFanFengShun has made the advancement [Take Aim]
+[20:20:03] [Server thread/INFO]: YiFanFengShun has made the advancement [Acquire Hardware]
+[20:20:40] [User Authenticator #50/INFO]: UUID of player jason_ji is daa94b3e-0725-4f0e-acaa-1ffb53e5bf49
+[20:20:40] [Server thread/INFO]: jason_ji[/127.0.0.1:52247] logged in with entity id 349091 at ([world]5174.507820786939, 64.0, 201.80730019119562)
+[20:20:58] [Server thread/INFO]: Laohuaji >> 经验修补换个火焰附加有没有
+[20:21:02] [Server thread/INFO]: jason_ji >> yifanfengshun
+[20:21:05] [Server thread/INFO]: YiFanFengShun >> ,
+[20:21:11] [Server thread/INFO]: jason_ji >> 这些村民可以杀了
+[20:21:17] [Server thread/INFO]: jason_ji >> 优惠没了
+[20:21:25] [Server thread/INFO]: YiFanFengShun >> 。。。
+[20:21:32] [Server thread/INFO]: There are 7 of a max 40 players online: sen_lv_ling_, Bay_Max_, Laohuaji, adhesive_tape, Mr_director, YiFanFengShun, jason_ji
+[20:22:19] [Server thread/INFO]: Mr_director has made the advancement [The End?]
+[20:23:22] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[20:23:22] [Server thread/INFO]: Mr_director left the game
+[20:25:43] [Server thread/INFO]: YiFanFengShun has made the advancement [We Need to Go Deeper]
+[20:26:26] [User Authenticator #51/INFO]: UUID of player YiFanFengShun is 6b491d23-aa75-4830-8683-36a79ae50c53
+[20:26:26] [Server thread/INFO]: YiFanFengShun lost connection: You logged in from another location
+[20:26:26] [Server thread/INFO]: YiFanFengShun left the game
+[20:26:26] [Server thread/INFO]: YiFanFengShun[/127.0.0.1:52288] logged in with entity id 367573 at ([world_nether]370.30707460938345, 115.21103555084088, 21.89104513660895)
+[20:26:26] [Server thread/WARN]: handleDisconnection() called twice
+[20:26:28] [Server thread/INFO]: sen_lv_ling_ >> 啊这
+[20:26:37] [Server thread/WARN]: YiFanFengShun moved too quickly! -10.248250300643178,1.0244240882136921,0.0019302101009337491
+[20:26:42] [Server thread/INFO]: jason_ji has made the advancement [Eye Spy]
+[20:27:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@435ae75d[id=<null>,name=YiFanFengShun,properties={},legacy=false] (/127.0.0.1:52294) lost connection: Disconnected
+[20:27:30] [Server thread/INFO]: YiFanFengShun lost connection: Timed out
+[20:27:30] [Server thread/INFO]: YiFanFengShun left the game
+[20:27:38] [Server thread/INFO]: Laohuaji has made the advancement [What a Deal!]
+[20:28:58] [Server thread/INFO]: jason_ji has made the advancement [The End?]
+[20:28:58] [Server thread/WARN]: jason_ji moved too quickly! -1651.3997807580336,16.233632006042477,-234.3162363058985
+[20:29:05] [Server thread/INFO]: Laohuaji >> ?
+[20:29:13] [Server thread/INFO]: jason_ji >> ?
+[20:29:21] [Server thread/INFO]: sen_lv_ling_ >> ?
+[20:29:26] [Server thread/INFO]: Bay_Max_ >> ?
+[20:29:27] [Server thread/INFO]: There are 5 of a max 40 players online: sen_lv_ling_, Bay_Max_, Laohuaji, adhesive_tape, jason_ji
+[20:30:36] [Server thread/INFO]: Laohuaji has made the advancement [Eye Spy]
+[20:30:42] [Server thread/INFO]: Laohuaji has made the advancement [The End?]
+[20:30:50] [Server thread/INFO]: jason_ji >> laohuaji你还有几天中考
+[20:30:54] [Server thread/INFO]: Laohuaji >> 4
+[20:30:57] [User Authenticator #52/INFO]: Disconnecting com.mojang.authlib.GameProfile@a376353[id=<null>,name=YiFanFengShun,properties={},legacy=false] (/127.0.0.1:52320): Authentication servers are down. Please try again later, sorry!
+[20:30:57] [User Authenticator #52/ERROR]: Couldn't verify username because servers are unavailable
+[20:30:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@a376353[id=<null>,name=YiFanFengShun,properties={},legacy=false] (/127.0.0.1:52320) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:31:13] [Server thread/INFO]: Laohuaji >> 日常压榨小黑
+[20:31:16] [Server thread/INFO]: jason_ji >> 我还有9天
+[20:31:45] [Server thread/INFO]: Laohuaji >> 加油
+[20:31:49] [Server thread/INFO]: sen_lv_ling_ >> 加油
+[20:31:55] [Server thread/INFO]: jason_ji >> 共勉
+[20:31:59] [Server thread/INFO]: Bay_Max_ >> 加油加油
+[20:32:10] [Server thread/INFO]: Laohuaji >> qwq
+[20:32:16] [Server thread/INFO]: sen_lv_ling_ >> 又是快乐刷溺尸的一晚上
+[20:32:26] [Server thread/INFO]: Laohuaji >> 怎么感觉我少了好多东西
+[20:32:37] [Server thread/INFO]: Laohuaji >> 可能是瀚明嫖走了
+[20:32:37] [Server thread/INFO]: jason_ji >> 这应该是考试前我最后一次上线了
+[20:32:44] [Server thread/INFO]: Laohuaji >> 我也差不多
+[20:32:56] [Server thread/INFO]: Laohuaji >> 但是我周末可以来
+[20:33:32] [Server thread/INFO]: jason_ji >> 加油吧
+[20:33:53] [Server thread/INFO]: Laohuaji has made the advancement [Monster Hunter]
+[20:33:57] [Server thread/INFO]: Bay_Max_ has made the advancement [Ice Bucket Challenge]
+[20:36:03] [Server thread/INFO]: adhesive_tape was shot by Skeleton
+[20:36:06] [Server thread/INFO]: Bay_Max_ >> ?
+[20:36:12] [Server thread/INFO]: jason_ji >> ?
+[20:36:16] [Server thread/INFO]: Laohuaji >> ?
+[20:36:30] [Server thread/INFO]: jason_ji >> 新人吗
+[20:36:35] [Server thread/INFO]: Bay_Max_ >> 暴 毙 ?
+[20:36:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[20:37:10] [User Authenticator #53/INFO]: UUID of player YiFanFengShun is 6b491d23-aa75-4830-8683-36a79ae50c53
+[20:37:10] [Server thread/INFO]: YiFanFengShun[/127.0.0.1:52362] logged in with entity id 392359 at ([world_nether]306.42944752824684, 115.22020278590226, 21.248982108627416)
+[20:37:58] [Server thread/INFO]: jason_ji has made the advancement [Ice Bucket Challenge]
+[20:39:20] [User Authenticator #54/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[20:39:20] [Server thread/INFO]: Xin_Sai[/127.0.0.1:52378] logged in with entity id 397530 at ([world]2655.699999988079, 58.0, -263.30000001192093)
+[20:39:51] [Server thread/INFO]: Xin_Sai >> emm
+[20:40:05] [Server thread/INFO]: jason_ji >> 新人吗
+[20:40:17] [Server thread/INFO]: Xin_Sai >> 嗯 新人
+[20:40:18] [Server thread/INFO]: sen_lv_ling_ >> 对2333
+[20:40:25] [Server thread/INFO]: jason_ji >> 你在哪
+[20:40:27] [Server thread/INFO]: Laohuaji >> 你是新人？？？
+[20:40:30] [Server thread/INFO]: Laohuaji >> 不可能
+[20:40:35] [Server thread/INFO]: Xin_Sai >> 对啊我是新人丫
+[20:40:44] [Server thread/INFO]: sen_lv_ling_ >> 对，他是新人
+[20:40:44] [Server thread/INFO]: Xin_Sai >> ??
+[20:40:48] [Server thread/INFO]: Laohuaji >> 关服之前你肯定来了
+[20:40:52] [Server thread/INFO]: sen_lv_ling_ >> hhh
+[20:40:52] [Server thread/INFO]: jason_ji >> 我去接你
+[20:40:55] [Server thread/INFO]: YiFanFengShun >> 我也这么觉得
+[20:40:56] [Server thread/INFO]: jason_ji >> 你在哪
+[20:41:06] [Server thread/INFO]: Laohuaji >> 因为这id我特别熟悉
+[20:41:22] [Server thread/INFO]: Xin_Sai >> 我在地狱传送门
+[20:41:35] [Server thread/INFO]: jason_ji >> 报下坐标
+[20:41:38] [Server thread/INFO]: sen_lv_ling_ has made the advancement [A Seedy Place]
+[20:41:47] [Server thread/WARN]: jason_ji moved wrongly!
+[20:41:53] [Server thread/INFO]: Xin_Sai >> 我先去主城
+[20:42:24] [Server thread/INFO]: jason_ji >> 我在主城大地狱门这里
+[20:42:44] [Server thread/INFO]: YiFanFengShun has made the advancement [Monster Hunter]
+[20:42:48] [Server thread/INFO]: YiFanFengShun has completed the challenge [Return to Sender]
+[20:43:00] [Server thread/INFO]: Xin_Sai >> 我到主城了enn
+[20:43:30] [Server thread/INFO]: Xin_Sai >> 哇 大佬s
+[20:43:42] [Server thread/INFO]: jason_ji >> 你说下坐标
+[20:43:45] [Server thread/INFO]: sen_lv_ling_ >> 下面
+[20:43:47] [Server thread/INFO]: Xin_Sai >> 给个铁套吧qwq
+[20:43:54] [Server thread/INFO]: Laohuaji >> 铁？
+[20:43:58] [Server thread/INFO]: sen_lv_ling_ >> 小地狱门
+[20:44:08] [Server thread/INFO]: Xin_Sai >> 我在小地狱门
+[20:44:10] [Server thread/INFO]: Laohuaji >> 服务器都是钻石哪来的铁
+[20:44:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@643df702[id=<null>,name=4022sun,properties={},legacy=false] (/127.0.0.1:52415): Took too long to log in
+[20:44:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@643df702[id=<null>,name=4022sun,properties={},legacy=false] (/127.0.0.1:52415) lost connection: Took too long to log in
+[20:44:21] [Server thread/INFO]: YiFanFengShun >> 找不到家了awa
+[20:44:24] [Server thread/INFO]: jason_ji >> 跟我来
+[20:44:25] [Server thread/INFO]: sen_lv_ling_ >> 233
+[20:44:27] [Server thread/INFO]: YiFanFengShun >> 死回去算了
+[20:44:27] [User Authenticator #55/INFO]: Disconnecting com.mojang.authlib.GameProfile@643df702[id=<null>,name=4022sun,properties={},legacy=false] (/127.0.0.1:52415): Authentication servers are down. Please try again later, sorry!
+[20:44:27] [User Authenticator #55/ERROR]: Couldn't verify username because servers are unavailable
+[20:44:33] [User Authenticator #55/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[20:44:33] [Server thread/WARN]: Using offline mode UUID file for player 4022sun as it is the only copy we can find.
+[20:44:33] [Server thread/INFO]: 4022sun has reached the goal [Sky's the Limit]
+[20:44:33] [Server thread/INFO]: 4022sun has made the advancement [Cover Me With Diamonds]
+[20:44:33] [Server thread/INFO]: 4022sun has made the advancement [Acquire Hardware]
+[20:44:33] [Server thread/INFO]: 4022sun[/127.0.0.1:52420] logged in with entity id 406555 at ([world_nether]247.23779991242216, 112.0, 775.212289530318)
+[20:44:38] [Server thread/INFO]: sen_lv_ling_ >> ohhhhh
+[20:44:42] [Server thread/INFO]: YiFanFengShun went up in flames
+[20:44:46] [Server thread/INFO]: sen_lv_ling_ >> 大佬上线了
+[20:44:58] [Server thread/INFO]: YiFanFengShun issued server command: /
+[20:45:04] [Server thread/INFO]: 4022sun >> 23333
+[20:45:13] [Server thread/INFO]: 4022sun >> 啊，熟悉的盾构机工地
+[20:45:52] [Server thread/INFO]: Xin_Sai >> ?
+[20:45:55] [Server thread/INFO]: 4022sun >> ??
+[20:46:00] [Server thread/INFO]: jason_ji >> 进地狱门
+[20:46:19] [Server thread/INFO]: Xin_Sai >> wow
+[20:46:28] [Server thread/INFO]: Xin_Sai >> 高科技
+[20:46:30] [Server thread/INFO]: jason_ji >> 你先在这住回吧
+[20:46:35] [Server thread/INFO]: sen_lv_ling_ >> = =
+[20:46:40] [Server thread/INFO]: jason_ji >> 东西随便拿
+[20:46:43] [Server thread/INFO]: sen_lv_ling_ >> 完蛋
+[20:46:47] [Server thread/INFO]: jason_ji >> 机器不要乱动
+[20:46:52] [Server thread/INFO]: Xin_Sai >> 好的
+[20:46:59] [Server thread/INFO]: 4022sun >> ??
+[20:46:59] [Server thread/INFO]: YiFanFengShun >> 也不是东西随便拿吧。。。。
+[20:47:03] [Server thread/INFO]: jason_ji >> 一帆风顺我找回个新人
+[20:47:03] [Server thread/INFO]: 4022sun >> 心塞叛变了？
+[20:47:06] [Server thread/INFO]: jason_ji >> 也是
+[20:47:07] [Server thread/INFO]: sen_lv_ling_ >> hhh
+[20:47:11] [Server thread/INFO]: sen_lv_ling_ >> 嘘
+[20:47:12] [Server thread/INFO]: Laohuaji >> ?
+[20:47:26] [Server thread/INFO]: 4022sun >> 没事
+[20:47:29] [Server thread/INFO]: jason_ji lost connection: Disconnected
+[20:47:29] [Server thread/INFO]: jason_ji left the game
+[20:47:39] [Server thread/WARN]: sen_lv_ling_ moved too quickly! -9.886413598962463,0.0,-2.328251293596878
+[20:50:08] [Server thread/INFO]: Xin_Sai >> 这个地方太棒了233 我从没见过这么多高科技
+[20:50:13] [Server thread/INFO]: 4022sun >> emmmmm
+[20:50:29] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/406839, uuid='3e45578f-5340-4479-b5f6-8ba5273d1da4', l='world', x=5169.61, y=63.90, z=203.80, cx=323, cz=12, tl=682001, v=true, d=false] died, message: 'Leatherworker was slain by Zombie'
+[20:50:41] [Server thread/INFO]: sen_lv_ling_ >> 哇哦
+[20:50:53] [Server thread/INFO]: 4022sun >> 森语你在干啥
+[20:50:55] [Server thread/INFO]: sen_lv_ling_ >> 谁把小黑塔弄得这么简洁
+[20:50:58] [Server thread/INFO]: sen_lv_ling_ >> 大爱
+[20:51:04] [Server thread/INFO]: YiFanFengShun >> 什么时候找小泠安排下头衔
+[20:51:06] [Server thread/INFO]: Laohuaji >> 问题是没顶子啦
+[20:51:11] [Server thread/INFO]: sen_lv_ling_ >> ?
+[20:51:16] [Server thread/INFO]: Laohuaji >> 就是
+[20:51:20] [Server thread/INFO]: sen_lv_ling_ >> 没啥？
+[20:51:23] [Server thread/INFO]: Laohuaji >> 小黑能a你
+[20:51:27] [Server thread/INFO]: 4022sun >> 23333
+[20:51:48] [Server thread/INFO]: sen_lv_ling_ >> 改个名字要32级 = =
+[20:51:53] [Server thread/INFO]: YiFanFengShun >> 我们这个地方太乱了，明天我想办法改一下
+[20:52:27] [Server thread/INFO]: Bay_Max_ >> x小黑塔下午随便搞了搞
+[20:52:28] [Server thread/INFO]: 4022sun >> 只有我刚上服就是在盾构机工地施工吗XD
+[20:52:46] [Server thread/INFO]: sen_lv_ling_ >> 我在挂石头233
+[20:53:25] [User Authenticator #56/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[20:53:25] [Server thread/INFO]: Mr_director[/127.0.0.1:52485] logged in with entity id 413702 at ([world]1756.6044296445891, 33.0, 234.8710495476414)
+[20:54:31] [Server thread/INFO]: 4022sun >> cao
+[20:54:48] [Server thread/INFO]: YiFanFengShun has reached the goal [Postmortal]
+[20:54:49] [Server thread/INFO]: YiFanFengShun was slain by Iron Golem
+[20:54:54] [Server thread/INFO]: Laohuaji >> 哈哈哈哈
+[20:54:55] [Server thread/INFO]: sen_lv_ling_ >> 噗
+[20:55:05] [Server thread/INFO]: Mr_director >> 铁傀儡，永远的神
+[20:56:00] [Server thread/INFO]: Villager EntityVillager['Librarian'/406843, uuid='4a860e63-2e63-4e27-8997-f0b13afde93e', l='world', x=5174.09, y=63.90, z=203.64, cx=323, cz=12, tl=280924, v=true, d=false] died, message: 'Librarian was slain by Zombie'
+[20:56:18] [Server thread/INFO]: Xin_Sai was slain by Zombie
+[20:56:23] [Server thread/INFO]: Xin_Sai >> qwq
+[20:56:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[20:56:40] [Server thread/INFO]: sen_lv_ling_ >> 恭喜
+[20:56:52] [Server thread/INFO]: 4022sun >> aaaaaaaaaa
+[20:56:56] [Server thread/INFO]: sen_lv_ling_ >> ?
+[20:57:01] [Server thread/INFO]: 4022sun >> 放送事故
+[20:57:05] [Server thread/INFO]: 4022sun >> 炸膛
+[20:57:21] [Server thread/INFO]: sen_lv_ling_ >> 我都忘了地狱空置域咋走了
+[20:57:24] [Server thread/INFO]: Xin_Sai has reached the goal [The Next Generation]
+[20:57:27] [Server thread/INFO]: Mr_director >> 共振没啥东西是吧
+[20:57:33] [Server thread/INFO]: Laohuaji >> 有啊
+[20:57:34] [Server thread/INFO]: Mr_director >> 我拿点粘液块
+[20:57:42] [Server thread/INFO]: Laohuaji >> 那东西...
+[20:57:46] [Server thread/INFO]: Laohuaji >> 值钱吗
+[20:57:46] [Server thread/INFO]: Mr_director >> 那一点点
+[20:59:09] [Server thread/INFO]: YiFanFengShun >> Xin_Sai你先自己参观下，我有点事下挂机一会
+[20:59:16] [Server thread/INFO]: Xin_Sai >> en
+[21:00:16] [Server thread/INFO]: sen_lv_ling_ >> 4
+[21:00:19] [Server thread/INFO]: sen_lv_ling_ >> 4022sun
+[21:00:21] [Server thread/INFO]: 4022sun >> ??
+[21:00:23] [Server thread/INFO]: sen_lv_ling_ >> 坐标多少
+[21:00:35] [Server thread/INFO]: 4022sun >> 264 116 784
+[21:01:21] [Server thread/INFO]: Xin_Sai >> 哇 这是史莱姆农场么
+[21:01:32] [Server thread/INFO]: 4022sun >> 沙雕网友23333
+[21:02:29] [Server thread/INFO]: Laohuaji >> 溜了
+[21:02:31] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[21:02:31] [Server thread/INFO]: Laohuaji left the game
+[21:03:42] [Server thread/INFO]: Mr_director issued server command: /give Mr_director minecraft:observer
+[21:05:10] [Server thread/INFO]: Mr_director has made the advancement [Stone Age]
+[21:05:14] [Server thread/INFO]: Xin_Sai >> 这个服务器的龙蛋怎么这么多
+[21:05:27] [Server thread/INFO]: sen_lv_ling_ >> 我终于找到了
+[21:05:41] [Server thread/INFO]: 4022sun >> 然后找到了苦逼的我
+[21:05:47] [Server thread/INFO]: sen_lv_ling_ >> 233
+[21:07:41] [Server thread/INFO]: 4022sun >> ??
+[21:07:50] [Server thread/INFO]: 4022sun >> 没活塞了？
+[21:08:07] [Server thread/INFO]: 4022sun >> 我先死为敬
+[21:08:52] [Server thread/WARN]: Xin_Sai moved wrongly!
+[21:09:47] [Server thread/WARN]: 4022sun moved wrongly!
+[21:09:55] [Server thread/WARN]: 4022sun moved wrongly!
+[21:10:14] [Server thread/INFO]: Mr_director >> 去tmd地板机，我投影地板不就行了
+[21:10:16] [Server thread/INFO]: Mr_director >> 淦
+[21:10:19] [Server thread/INFO]: 4022sun >> 23333
+[21:10:24] [Server thread/INFO]: sen_lv_ling_ >> hhh
+[21:10:29] [Server thread/WARN]: 4022sun moved wrongly!
+[21:10:36] [Server thread/INFO]: Mr_director >> 轻松放置还要自己对准角度
+[21:10:38] [Server thread/INFO]: 4022sun >> 当沙雕发现自己时沙雕
+[21:10:55] [Server thread/INFO]: 4022sun >> 森语
+[21:11:00] [Server thread/INFO]: 4022sun >> 我需要活塞-。-
+[21:11:04] [Server thread/INFO]: sen_lv_ling_ >> 多少
+[21:11:08] [Server thread/INFO]: 4022sun >> 128
+[21:11:14] [Server thread/INFO]: Mr_director >> 来空置域拆
+[21:11:23] [Server thread/INFO]: 4022sun >> 顺带帮我带一组烟花
+[21:11:23] [Server thread/INFO]: Mr_director >> 粘液块，粘性活塞多得是
+[21:11:33] [Server thread/INFO]: 4022sun >> 我要普通XD
+[21:11:38] [Server thread/INFO]: Mr_director >> 普通的也有
+[21:11:44] [Server thread/WARN]: 4022sun moved wrongly!
+[21:11:53] [Server thread/WARN]: 4022sun moved wrongly!
+[21:12:01] [Server thread/WARN]: 4022sun moved wrongly!
+[21:12:03] [Server thread/INFO]: Mr_director >> 重启一下，投影又打不开了
+[21:12:05] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[21:12:05] [Server thread/INFO]: Mr_director left the game
+[21:12:05] [Server thread/INFO]: 4022sun >> 2333
+[21:13:14] [Server thread/INFO]: Xin_Sai >> 好了 考察完毕 回家
+[21:13:23] [Server thread/INFO]: 4022sun >> 记得白嫖
+[21:13:29] [User Authenticator #57/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[21:13:29] [Server thread/INFO]: Mr_director[/127.0.0.1:52628] logged in with entity id 433306 at ([world]1884.0009605239634, 7.0, 335.4507233727188)
+[21:13:37] [Server thread/INFO]: Xin_Sai >> 不忍心白嫖了
+[21:13:50] [Server thread/INFO]: 4022sun >> 再嫖一帆风顺就穷了
+[21:13:52] [Server thread/INFO]: 4022sun >> 2333
+[21:13:55] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! -31.550437307766515,0.0,0.0
+[21:13:55] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! -33.147638042320864,0.0,0.0
+[21:13:55] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! -34.752534500303,0.0,0.0
+[21:13:55] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! -36.36500489056937,0.0,0.0
+[21:13:55] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! -37.98492742518249,0.0,0.0
+[21:13:55] [Server thread/WARN]: 78259495-3516-483a-8097-bc5efc968255 (vehicle of Xin_Sai) moved wrongly!
+[21:13:55] [Server thread/WARN]: 78259495-3516-483a-8097-bc5efc968255 (vehicle of Xin_Sai) moved wrongly!
+[21:13:55] [Server thread/WARN]: 78259495-3516-483a-8097-bc5efc968255 (vehicle of Xin_Sai) moved wrongly!
+[21:13:55] [Server thread/WARN]: 78259495-3516-483a-8097-bc5efc968255 (vehicle of Xin_Sai) moved wrongly!
+[21:13:55] [Server thread/WARN]: 78259495-3516-483a-8097-bc5efc968255 (vehicle of Xin_Sai) moved wrongly!
+[21:13:55] [Server thread/WARN]: 78259495-3516-483a-8097-bc5efc968255 (vehicle of Xin_Sai) moved wrongly!
+[21:13:55] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 33.23387906899143,0.0,0.10316108471439023
+[21:13:55] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 31.60681970581345,0.0,0.10316108471439023
+[21:13:55] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 30.012301498865327,0.0,0.10316108471439023
+[21:13:55] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 28.449673625643186,0.0,0.10316108471439023
+[21:13:55] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 26.91829828008065,0.0,0.10316108471439023
+[21:13:56] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 25.41755041222075,0.0,0.10316108471439023
+[21:13:56] [Server thread/WARN]: Boat (vehicle of Xin_Sai) moved too quickly! 23.946817473093574,0.0,0.10316108471439023
+[21:16:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[21:16:56] [Server thread/INFO]: 4022sun >> thanks
+[21:17:09] [Server thread/INFO]: sen_lv_ling_ >> qwq
+[21:17:26] [Server thread/INFO]: sen_lv_ling_ >> 有需要再说
+[21:17:30] [Server thread/INFO]: 4022sun >> OK
+[21:20:50] [Server thread/INFO]: YiFanFengShun >> Xin_Sai
+[21:20:51] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[21:20:51] [Server thread/INFO]: Bay_Max_ left the game
+[21:22:52] [Server thread/INFO]: There are 6 of a max 40 players online: adhesive_tape, 4022sun, YiFanFengShun, Xin_Sai, sen_lv_ling_, Mr_director
+[21:25:00] [Server thread/INFO]: 4022sun >> cao
+[21:25:00] [Server thread/INFO]: Mr_director >> 谁没事干啊
+[21:25:03] [Server thread/INFO]: sen_lv_ling_ >> = =
+[21:25:04] [Server thread/INFO]: 4022sun >> 铁轨也没了
+[21:25:13] [Server thread/INFO]: 4022sun >> 森语QWQ
+[21:25:14] [Server thread/INFO]: sen_lv_ling_ >> 现场刷？
+[21:25:15] [Server thread/INFO]: Mr_director >> 来和我铺地板
+[21:25:20] [Server thread/INFO]: 4022sun >> 貌似可以
+[21:25:37] [Server thread/INFO]: 4022sun >> 你还有探测铁轨吗
+[21:25:54] [Server thread/INFO]: sen_lv_ling_ >> 现场做
+[21:26:49] [Server thread/INFO]: sen_lv_ling_ >> ok
+[21:27:09] [Server thread/INFO]: sen_lv_ling_ >> 刷
+[21:27:10] [Server thread/INFO]: 4022sun >> 66
+[21:27:11] [Server thread/INFO]: 4022sun >> 233
+[21:27:29] [Server thread/INFO]: YiFanFengShun lost connection: Disconnected
+[21:27:29] [Server thread/INFO]: YiFanFengShun left the game
+[21:27:53] [Server thread/INFO]: sen_lv_ling_ >> 还好我盒子里面刚好有个石质压力板
+[21:28:02] [Server thread/INFO]: 4022sun >> 海星
+[21:30:34] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[21:30:34] [Server thread/INFO]: adhesive_tape left the game
+[21:33:39] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[21:33:39] [Server thread/INFO]: 4022sun left the game
+[21:33:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@3f18d9bf[id=<null>,name=4022sun,properties={},legacy=false] (/127.0.0.1:52782) lost connection: Disconnected
+[21:34:08] [Server thread/WARN]: Mr_director moved wrongly!
+[21:34:09] [User Authenticator #58/INFO]: Disconnecting com.mojang.authlib.GameProfile@1afe3bf2[id=<null>,name=4022sun,properties={},legacy=false] (/127.0.0.1:52784): Authentication servers are down. Please try again later, sorry!
+[21:34:09] [User Authenticator #58/ERROR]: Couldn't verify username because servers are unavailable
+[21:34:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@1afe3bf2[id=<null>,name=4022sun,properties={},legacy=false] (/127.0.0.1:52784) lost connection: Authentication servers are down. Please try again later, sorry!
+[21:34:44] [User Authenticator #58/INFO]: Disconnecting com.mojang.authlib.GameProfile@960f0a4[id=<null>,name=4022sun,properties={},legacy=false] (/127.0.0.1:52791): Authentication servers are down. Please try again later, sorry!
+[21:34:44] [User Authenticator #58/ERROR]: Couldn't verify username because servers are unavailable
+[21:34:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@960f0a4[id=<null>,name=4022sun,properties={},legacy=false] (/127.0.0.1:52791) lost connection: Authentication servers are down. Please try again later, sorry!
+[21:35:19] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[21:35:19] [Server thread/INFO]: sen_lv_ling_ left the game
+[21:35:28] [User Authenticator #58/INFO]: Disconnecting com.mojang.authlib.GameProfile@2d2b53ca[id=<null>,name=4022sun,properties={},legacy=false] (/127.0.0.1:52798): Authentication servers are down. Please try again later, sorry!
+[21:35:28] [User Authenticator #58/ERROR]: Couldn't verify username because servers are unavailable
+[21:35:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d2b53ca[id=<null>,name=4022sun,properties={},legacy=false] (/127.0.0.1:52798) lost connection: Authentication servers are down. Please try again later, sorry!
+[21:35:49] [User Authenticator #58/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[21:35:49] [Server thread/INFO]: 4022sun[/127.0.0.1:52812] logged in with entity id 463190 at ([world_nether]236.42278627735192, 118.0, 782.6579621698897)
+[21:36:01] [Server thread/INFO]: 4022sun >> qwq
+[21:36:05] [User Authenticator #58/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[21:36:05] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:52818] logged in with entity id 463679 at ([world_nether]216.96315960870288, 115.0, 773.6875887689864)
+[21:36:29] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[21:36:29] [Server thread/INFO]: Mr_director left the game
+[21:36:31] [Server thread/INFO]: sen_lv_ling_ has completed the challenge [Return to Sender]
+[21:36:34] [User Authenticator #58/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[21:36:34] [Server thread/INFO]: Mr_director[/127.0.0.1:52823] logged in with entity id 464322 at ([world]1755.8238288195387, 7.0, 312.8885475080627)
+[21:36:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[21:36:43] [Server thread/INFO]: 4022sun >> EOE在哪
+[21:36:55] [Server thread/INFO]: sen_lv_ling_ >> 我打的是个刚刷出来的
+[21:37:03] [Server thread/INFO]: sen_lv_ling_ >> 没在你哪里
+[21:38:42] [Server thread/INFO]: 4022sun >> 基本完工
+[21:39:06] [Server thread/INFO]: 4022sun >> 森语你帮我放下矿车吧QWQ
+[21:39:20] [Server thread/INFO]: sen_lv_ling_ >> 怎么放
+[21:39:26] [Server thread/INFO]: sen_lv_ling_ >> 直接放？
+[21:39:33] [Server thread/INFO]: 4022sun >> yes
+[21:39:36] [Server thread/INFO]: 4022sun >> 下面没TNTN
+[21:40:53] [Server thread/INFO]: 4022sun >> 这一开机得炸服QWQ
+[21:41:14] [Server thread/WARN]: Xin_Sai moved wrongly!
+[21:42:14] [Server thread/INFO]: sen_lv_ling_ has made the advancement [Suit Up]
+[21:42:19] [Server thread/INFO]: sen_lv_ling_ >> wtm
+[21:42:24] [Server thread/INFO]: 4022sun >> ??
+[21:42:36] [Server thread/WARN]: Xin_Sai moved too quickly! -1.6801412854670161,1.1767592750642422,10.046633186012286
+[21:42:36] [Server thread/INFO]: 4022sun >> 我貌似猜到了
+[21:42:37] [Server thread/INFO]: sen_lv_ling_ >> 把铁锭合成铁块
+[21:42:41] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[21:42:41] [Server thread/INFO]: Mr_director left the game
+[21:42:41] [Server thread/INFO]: 4022sun >> QWQ
+[21:42:46] [Server thread/INFO]: sen_lv_ling_ >> 点成了胸甲了
+[21:42:49] [Server thread/INFO]: 4022sun >> 2333333333333
+[21:42:53] [Server thread/INFO]: sen_lv_ling_ >> 合了一背包
+[21:42:55] [Server thread/INFO]: 4022sun >> 新手装备
+[21:43:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b6cb244[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:52869) lost connection: Disconnected
+[21:43:12] [Server thread/INFO]: sen_lv_ling_ >> 送你了，猪人
+[21:43:12] [User Authenticator #59/INFO]: Disconnecting com.mojang.authlib.GameProfile@2b6cb244[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:52869): Authentication servers are down. Please try again later, sorry!
+[21:43:12] [User Authenticator #59/ERROR]: Couldn't verify username because servers are unavailable
+[21:43:14] [User Authenticator #59/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[21:43:14] [Server thread/INFO]: Mr_director[/127.0.0.1:52874] logged in with entity id 470971 at ([world]1786.9343415180354, 8.0, 306.9182687910288)
+[21:43:24] [Server thread/INFO]: sen_lv_ling_ >> 一人一个
+[21:43:27] [Server thread/INFO]: 4022sun >> 海晶港神兽护卫
+[21:43:49] [Server thread/INFO]: 4022sun >> 36神卫
+[21:43:51] [Server thread/INFO]: 4022sun >> 2333
+[21:43:56] [Server thread/WARN]: Xin_Sai moved wrongly!
+[21:44:20] [Server thread/INFO]: 4022sun >> 准备开日
+[21:44:32] [Server thread/INFO]: sen_lv_ling_ >> 猪人还嫌弃
+[21:44:38] [Server thread/INFO]: 4022sun >> 海晶港日穿地狱行动
+[21:44:45] [Server thread/INFO]: 4022sun >> 代号钢板
+[21:44:49] [Server thread/INFO]: 4022sun >> 准备开始
+[21:44:49] [Server thread/INFO]: sen_lv_ling_ >> ??
+[21:44:50] [Server thread/INFO]: 4022sun >> QWQ
+[21:44:57] [Server thread/WARN]: 4022sun moved wrongly!
+[21:45:07] [Server thread/INFO]: Mr_director >> gk和我说他打算换一个地方来着
+[21:45:14] [Server thread/INFO]: 4022sun >> ?
+[21:45:21] [Server thread/INFO]: Mr_director >> 等下
+[21:45:23] [Server thread/INFO]: Mr_director >> 看群
+[21:45:24] [Server thread/WARN]: 4022sun moved wrongly!
+[21:46:02] [Server thread/INFO]: Mr_director >> 内群
+[21:46:09] [Server thread/INFO]: sen_lv_ling_ >> 看到了
+[21:46:18] [Server thread/INFO]: 4022sun >> ??
+[21:46:41] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[21:46:41] [Server thread/INFO]: Mr_director left the game
+[21:47:05] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[21:47:05] [Server thread/INFO]: Xin_Sai left the game
+[21:47:11] [Server thread/INFO]: 4022sun >> cao
+[21:47:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@37bbdaf1[id=<null>,name=Xin_Sai,properties={},legacy=false] (/127.0.0.1:52903) lost connection: Disconnected
+[21:47:22] [User Authenticator #60/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[21:47:22] [Server thread/INFO]: Xin_Sai[/127.0.0.1:52907] logged in with entity id 471887 at ([world]2685.977587611692, 63.0, -544.0722746636012)
+[21:48:40] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[21:48:40] [Server thread/INFO]: Xin_Sai left the game
+[21:49:01] [User Authenticator #61/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[21:49:01] [Server thread/INFO]: Mr_director[/127.0.0.1:52922] logged in with entity id 472556 at ([world]1815.0440456550577, 6.0, 262.5300553004236)
+[21:49:43] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[21:49:43] [Server thread/INFO]: Mr_director left the game
+[21:50:34] [Server thread/WARN]: 4022sun moved wrongly!
+[21:51:45] [Server thread/WARN]: 4022sun moved wrongly!
+[21:55:23] [User Authenticator #62/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[21:55:23] [Server thread/INFO]: Mr_director[/127.0.0.1:52965] logged in with entity id 473108 at ([world]1803.487061961499, 7.0, 264.5373320311787)
+[21:55:48] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[21:55:48] [Server thread/INFO]: 4022sun left the game
+[21:56:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[21:58:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@3024915d[id=<null>,name=4022sun,properties={},legacy=false] (/127.0.0.1:52994) lost connection: Disconnected
+[21:58:56] [User Authenticator #63/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[21:58:56] [Server thread/INFO]: 4022sun[/127.0.0.1:52998] logged in with entity id 475736 at ([world_nether]225.55369142607185, 110.0, 788.9166328259536)
+[21:59:16] [Server thread/INFO]: sen_lv_ling_ >> 从此地狱多了22个穿铁甲的猪人
+[21:59:22] [Server thread/INFO]: 4022sun >> 22铁卫
+[21:59:29] [Server thread/INFO]: 4022sun >> 艹
+[21:59:35] [Server thread/INFO]: 4022sun >> 地狱空置域要该位置
+[21:59:38] [Server thread/INFO]: 4022sun >> 我杀人了
+[21:59:42] [Server thread/INFO]: sen_lv_ling_ >> = =
+[21:59:48] [Server thread/INFO]: sen_lv_ling_ >> 杀猪人
+[22:00:05] [Server thread/INFO]: 4022sun >> 盾构机空间不够了
+[22:00:12] [Server thread/INFO]: 4022sun >> 凸(艹皿艹 )
+[22:00:26] [Server thread/INFO]: 4022sun >> 得单联走一遍
+[22:03:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@17c52db5[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:53030) lost connection: Disconnected
+[22:04:17] [User Authenticator #64/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[22:04:17] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:53035] logged in with entity id 476186 at ([world]1355.0973564894998, 65.0, 54.055083226803944)
+[22:05:19] [Server thread/INFO]: sen_lv_ling_ >> 我抢夺三打上这eoe还啥都没掉
+[22:05:31] [Server thread/INFO]: 4022sun >> 正常
+[22:05:46] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[22:05:46] [Server thread/INFO]: Li_zi_wei left the game
+[22:09:58] [Server thread/INFO]: Mr_director has made the advancement [Sweet Dreams]
+[22:10:00] [Server thread/INFO]: Mr_director >> zzz
+[22:10:08] [Server thread/INFO]: 4022sun >> 睡你麻痹起来嗨
+[22:10:11] [Server thread/INFO]: sen_lv_ling_ >> = =
+[22:10:20] [User Authenticator #65/INFO]: Disconnecting com.mojang.authlib.GameProfile@43431a92[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:53074): Authentication servers are down. Please try again later, sorry!
+[22:10:20] [User Authenticator #65/ERROR]: Couldn't verify username because servers are unavailable
+[22:10:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@43431a92[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:53074) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:10:28] [Server thread/INFO]: sen_lv_ling_ >> 你在沙漠空置域？
+[22:10:29] [User Authenticator #65/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[22:10:29] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:53082] logged in with entity id 478522 at ([world]1298.925316189478, 78.0, 50.70321189598705)
+[22:10:32] [Server thread/INFO]: Mr_director >> en
+[22:10:45] [Server thread/INFO]: sen_lv_ling_ >> 那还是睡一觉安全2333
+[22:11:03] [Server thread/INFO]: sen_lv_ling_ >> 1
+[22:11:40] [Server thread/INFO]: 4022sun >> 啊♂
+[22:11:43] [Server thread/INFO]: sen_lv_ling_ >> 成功击毙eoe
+[22:12:03] [Server thread/INFO]: 4022sun >> 击（强）毙（暴）
+[22:12:06] [Server thread/INFO]: sen_lv_ling_ >> = =
+[22:12:16] [Server thread/INFO]: Li_zi_wei >> 我皮肤没了。。。？
+[22:12:22] [Server thread/INFO]: 4022sun >> 不然那一声啊怎么解释2333
+[22:12:29] [Server thread/INFO]: sen_lv_ling_ >> 。。。
+[22:12:32] [Server thread/INFO]: Mr_director >> CaO
+[22:12:42] [Server thread/INFO]: sen_lv_ling_ >> 我今天上线皮肤还会变
+[22:12:52] [Server thread/INFO]: sen_lv_ling_ >> 一会是以前的皮肤
+[22:13:00] [Server thread/INFO]: sen_lv_ling_ >> 一会又变回来
+[22:13:48] [Server thread/WARN]: 4022sun moved wrongly!
+[22:13:57] [Server thread/WARN]: 4022sun moved wrongly!
+[22:14:20] [Server thread/INFO]: 4022sun >> 单联装就是任性
+[22:14:22] [Server thread/WARN]: 4022sun moved wrongly!
+[22:14:27] [Server thread/WARN]: 4022sun moved wrongly!
+[22:14:53] [Server thread/INFO]: 4022sun >> 岩浆
+[22:15:14] [Server thread/WARN]: 4022sun moved wrongly!
+[22:15:19] [Server thread/WARN]: 4022sun moved wrongly!
+[22:15:25] [Server thread/WARN]: 4022sun moved wrongly!
+[22:15:40] [Server thread/INFO]: 4022sun >> 小黑：艹
+[22:15:52] [Server thread/WARN]: 4022sun moved wrongly!
+[22:15:57] [Server thread/WARN]: 4022sun moved wrongly!
+[22:16:14] [Server thread/INFO]: Mr_director >> 话说你们有固化机么
+[22:16:17] [Server thread/WARN]: 4022sun moved wrongly!
+[22:16:22] [Server thread/INFO]: 4022sun >> 你可以造一个
+[22:16:23] [Server thread/WARN]: 4022sun moved wrongly!
+[22:16:29] [Server thread/WARN]: 4022sun moved wrongly!
+[22:16:34] [Server thread/INFO]: Mr_director >> 我有个凑回事的
+[22:16:36] [Server thread/INFO]: 4022sun >> 岩浆
+[22:16:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[22:16:52] [Server thread/WARN]: 4022sun moved wrongly!
+[22:16:58] [Server thread/INFO]: 4022sun >> ????
+[22:17:09] [Server thread/INFO]: Li_zi_wei lost connection: Disconnected
+[22:17:09] [Server thread/INFO]: Li_zi_wei left the game
+[22:17:11] [Server thread/INFO]: 4022sun >> 危 森语 危
+[22:17:13] [Server thread/INFO]: sen_lv_ling_ >> = =
+[22:17:13] [Server thread/WARN]: 4022sun moved wrongly!
+[22:17:16] [Server thread/INFO]: sen_lv_ling_ >> 又不会死
+[22:17:19] [Server thread/WARN]: 4022sun moved wrongly!
+[22:17:29] [Server thread/INFO]: 4022sun >> 再给你TNT糊个脸
+[22:17:31] [Server thread/WARN]: 4022sun moved wrongly!
+[22:17:32] [Server thread/INFO]: sen_lv_ling_ >> = =
+[22:17:35] [Server thread/INFO]: Mr_director >> hhhc
+[22:17:37] [Server thread/WARN]: 4022sun moved wrongly!
+[22:17:42] [Server thread/WARN]: 4022sun moved wrongly!
+[22:17:47] [Server thread/WARN]: 4022sun moved wrongly!
+[22:17:52] [Server thread/INFO]: 4022sun >> 单联就是任性
+[22:17:53] [Server thread/WARN]: 4022sun moved wrongly!
+[22:17:58] [Server thread/WARN]: 4022sun moved wrongly!
+[22:18:09] [Server thread/WARN]: 4022sun moved wrongly!
+[22:18:14] [Server thread/WARN]: 4022sun moved wrongly!
+[22:18:19] [Server thread/WARN]: 4022sun moved wrongly!
+[22:18:24] [Server thread/WARN]: 4022sun moved wrongly!
+[22:18:37] [Server thread/WARN]: 4022sun moved wrongly!
+[22:18:42] [Server thread/WARN]: 4022sun moved wrongly!
+[22:18:48] [Server thread/WARN]: 4022sun moved wrongly!
+[22:19:01] [Server thread/WARN]: 4022sun moved wrongly!
+[22:19:07] [Server thread/WARN]: 4022sun moved wrongly!
+[22:19:12] [Server thread/WARN]: 4022sun moved wrongly!
+[22:19:17] [Server thread/WARN]: 4022sun moved wrongly!
+[22:19:27] [Server thread/WARN]: 4022sun moved wrongly!
+[22:19:33] [Server thread/WARN]: 4022sun moved wrongly!
+[22:19:39] [Server thread/WARN]: 4022sun moved wrongly!
+[22:19:49] [Server thread/WARN]: 4022sun moved wrongly!
+[22:19:55] [Server thread/WARN]: 4022sun moved wrongly!
+[22:20:02] [Server thread/INFO]: 4022sun >> 要炸到铁卫了
+[22:20:03] [Server thread/WARN]: 4022sun moved wrongly!
+[22:20:09] [Server thread/WARN]: 4022sun moved wrongly!
+[22:20:14] [Server thread/INFO]: sen_lv_ling_ >> 炸不死
+[22:20:14] [Server thread/WARN]: 4022sun moved wrongly!
+[22:20:20] [Server thread/WARN]: 4022sun moved wrongly!
+[22:20:30] [Server thread/INFO]: 4022sun >> 刚刚好像轰死一个
+[22:20:32] [Server thread/INFO]: sen_lv_ling_ >> .
+[22:20:37] [Server thread/WARN]: 4022sun moved wrongly!
+[22:20:42] [Server thread/WARN]: 4022sun moved wrongly!
+[22:21:02] [Server thread/WARN]: 4022sun moved wrongly!
+[22:21:07] [Server thread/INFO]: 4022sun >> 跑了XD
+[22:21:08] [Server thread/WARN]: 4022sun moved wrongly!
+[22:21:15] [Server thread/INFO]: Mr_director >> 建议添加一个单人睡觉就能天亮的插件
+[22:21:28] [Server thread/INFO]: sen_lv_ling_ >> 怕是时空错乱
+[22:21:29] [Server thread/INFO]: 4022sun >> 去叫冷某
+[22:21:30] [Server thread/WARN]: 4022sun moved wrongly!
+[22:21:41] [Server thread/INFO]: 4022sun >> FZ就有
+[22:21:47] [Server thread/INFO]: 4022sun >> 还有活塞瞬间破坏
+[22:21:53] [Server thread/WARN]: 4022sun moved wrongly!
+[22:21:59] [Server thread/WARN]: 4022sun moved wrongly!
+[22:22:00] [Server thread/INFO]: sen_lv_ling_ >> 秒破好评
+[22:22:07] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[22:22:07] [Server thread/INFO]: Mr_director left the game
+[22:22:14] [Server thread/WARN]: 4022sun moved wrongly!
+[22:22:29] [Server thread/WARN]: 4022sun moved wrongly!
+[22:22:39] [Server thread/INFO]: 4022sun >> 才想起对面还有台没拆的盾构机
+[22:22:40] [Server thread/WARN]: 4022sun moved wrongly!
+[22:22:46] [Server thread/WARN]: 4022sun moved wrongly!
+[22:22:51] [Server thread/INFO]: sen_lv_ling_ >> ?
+[22:22:51] [Server thread/WARN]: 4022sun moved wrongly!
+[22:23:02] [User Authenticator #66/INFO]: Disconnecting com.mojang.authlib.GameProfile@63cfd59e[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:53160): Authentication servers are down. Please try again later, sorry!
+[22:23:02] [User Authenticator #66/ERROR]: Couldn't verify username because servers are unavailable
+[22:23:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@63cfd59e[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:53160) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:23:03] [Server thread/INFO]: 4022sun >> 炸到铁卫了
+[22:23:04] [Server thread/WARN]: 4022sun moved wrongly!
+[22:23:07] [Server thread/INFO]: sen_lv_ling_ >> 炸膛的那个？
+[22:23:11] [Server thread/INFO]: 4022sun >> 不是
+[22:23:12] [Server thread/WARN]: 4022sun moved wrongly!
+[22:23:15] [Server thread/INFO]: 4022sun >> 开路的
+[22:23:21] [Server thread/INFO]: sen_lv_ling_ >> e
+[22:23:21] [User Authenticator #66/INFO]: Disconnecting com.mojang.authlib.GameProfile@67f04d3f[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:53165): Authentication servers are down. Please try again later, sorry!
+[22:23:21] [User Authenticator #66/ERROR]: Couldn't verify username because servers are unavailable
+[22:23:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@67f04d3f[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:53165) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:23:24] [Server thread/INFO]: 4022sun >> 谁说炸不死的
+[22:23:26] [Server thread/WARN]: 4022sun moved wrongly!
+[22:23:30] [User Authenticator #66/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[22:23:30] [Server thread/INFO]: Mr_director[/127.0.0.1:53172] logged in with entity id 488336 at ([world]1814.5083114771294, 7.0, 272.49117315966)
+[22:23:31] [Server thread/WARN]: 4022sun moved wrongly!
+[22:23:38] [Server thread/INFO]: sen_lv_ling_ >> 耐久居然没少
+[22:23:39] [Server thread/INFO]: 4022sun >> 岩浆
+[22:23:51] [Server thread/WARN]: 4022sun moved wrongly!
+[22:23:57] [Server thread/WARN]: 4022sun moved wrongly!
+[22:24:00] [Server thread/INFO]: 4022sun >> 2333
+[22:24:01] [Server thread/WARN]: 4022sun moved wrongly!
+[22:24:04] [Server thread/INFO]: 4022sun >> 岩浆
+[22:24:17] [Server thread/WARN]: 4022sun moved wrongly!
+[22:24:25] [Server thread/INFO]: sen_lv_ling_ >> 换两个猪人继续穿
+[22:24:28] [Server thread/WARN]: 4022sun moved wrongly!
+[22:24:32] [Server thread/INFO]: 4022sun >> 继承衣钵
+[22:24:33] [Server thread/WARN]: 4022sun moved wrongly!
+[22:24:38] [Server thread/WARN]: 4022sun moved wrongly!
+[22:24:44] [Server thread/WARN]: 4022sun moved wrongly!
+[22:24:49] [Server thread/WARN]: 4022sun moved wrongly!
+[22:24:54] [Server thread/INFO]: 4022sun >> 岩浆
+[22:25:04] [Server thread/INFO]: 4022sun >> 等十三连的这个开机
+[22:25:10] [Server thread/INFO]: 4022sun >> 铁卫直接全军覆没
+[22:25:12] [Server thread/WARN]: 4022sun moved wrongly!
+[22:25:13] [Server thread/INFO]: sen_lv_ling_ >> = =
+[22:25:14] [Server thread/INFO]: 4022sun >> 2333
+[22:25:19] [Server thread/WARN]: 4022sun moved wrongly!
+[22:25:25] [Server thread/WARN]: 4022sun moved wrongly!
+[22:25:35] [Server thread/WARN]: 4022sun moved wrongly!
+[22:25:46] [Server thread/WARN]: 4022sun moved wrongly!
+[22:25:58] [Server thread/INFO]: 4022sun >> 岩浆
+[22:26:03] [Server thread/WARN]: 4022sun moved wrongly!
+[22:26:10] [Server thread/WARN]: 4022sun moved wrongly!
+[22:26:21] [Server thread/INFO]: 4022sun >> OK
+[22:26:23] [Server thread/INFO]: 4022sun >> 拆解
+[22:26:29] [Server thread/INFO]: sen_lv_ling_ >> 自爆
+[22:26:40] [Server thread/INFO]: 4022sun >> 节约点吧XD
+[22:26:45] [Server thread/INFO]: sen_lv_ling_ >> 23333
+[22:26:51] [Server thread/INFO]: 4022sun >> 浮空我到会考虑自爆233
+[22:27:06] [Server thread/INFO]: 4022sun >> 你来拆2333
+[22:27:11] [Server thread/INFO]: 4022sun >> 我去调试了- -
+[22:27:29] [Server thread/WARN]: 4022sun moved wrongly!
+[22:28:05] [Server thread/INFO]: sen_lv_ling_ >> !
+[22:28:10] [Server thread/INFO]: 4022sun >> ??
+[22:28:38] [Server thread/INFO]: sen_lv_ling_ >> eoe警告
+[22:28:51] [Server thread/INFO]: 4022sun >> where
+[22:29:09] [Server thread/INFO]: sen_lv_ling_ >> 不知道
+[22:29:48] [Server thread/INFO]: sen_lv_ling_ >> 下面
+[22:30:35] [Server thread/INFO]: 4022sun >> ??
+[22:30:37] [Server thread/INFO]: 4022sun >> 惨叫
+[22:30:40] [Server thread/INFO]: sen_lv_ling_ >> 击毙
+[22:30:54] [Server thread/INFO]: 4022sun >> 每次你杀EOE都会有惨叫……
+[22:30:57] [Server thread/INFO]: 4022sun >> 好吓人
+[22:31:04] [Server thread/INFO]: sen_lv_ling_ >> 本来就会叫
+[22:31:07] [Server thread/INFO]: sen_lv_ling_ >> = =w
+[22:31:18] [Server thread/INFO]: 4022sun >> 啊♂
+[22:32:19] [Server thread/INFO]: sen_lv_ling_ >> 拆完的东西放末影箱旁边的箱子里了
+[22:32:27] [Server thread/INFO]: 4022sun >> o
+[22:34:31] [Server thread/INFO]: sen_lv_ling_ >> eoe警告
+[22:36:00] [Server thread/INFO]: sen_lv_ling_ >> 两只
+[22:36:16] [Server thread/INFO]: sen_lv_ling_ >> 击毙一只
+[22:36:27] [Server thread/INFO]: sen_lv_ling_ >> 一只逃跑
+[22:36:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[22:37:06] [Server thread/INFO]: sen_lv_ling_ >> 又发现一只
+[22:37:36] [Server thread/INFO]: sen_lv_ling_ >> 又跑了
+[22:41:48] [Server thread/INFO]: 4022sun >> giao
+[22:41:51] [Server thread/INFO]: sen_lv_ling_ >> = =
+[22:41:54] [Server thread/INFO]: sen_lv_ling_ >> 炸了？
+[22:42:04] [Server thread/INFO]: sen_lv_ling_ >> e
+[22:42:08] [Server thread/INFO]: 4022sun >> 误放TNT
+[22:42:15] [Server thread/INFO]: sen_lv_ling_ >> 反面教材
+[22:42:49] [Server thread/INFO]: Mr_director >> 多灾多难
+[22:43:01] [Server thread/INFO]: 4022sun >> 主要是太大了
+[22:45:01] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[22:45:01] [Server thread/INFO]: Mr_director left the game
+[22:45:20] [User Authenticator #67/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[22:45:20] [Server thread/INFO]: Mr_director[/127.0.0.1:53334] logged in with entity id 491162 at ([world]1881.5932856176262, 7.0, 333.0686351963982)
+[22:45:22] [Server thread/INFO]: 4022sun >> eeee
+[22:45:28] [Server thread/WARN]: 4022sun moved wrongly!
+[22:45:39] [Server thread/INFO]: 4022sun >> 差点炸膛
+[22:46:10] [User Authenticator #67/INFO]: UUID of player Sumer_Light is 73b07a88-6c11-4e16-9643-d52ba3eb705c
+[22:46:10] [Server thread/WARN]: Using offline mode UUID file for player Sumer_Light as it is the only copy we can find.
+[22:46:10] [Server thread/INFO]: Sumer_Light[/127.0.0.1:53343] logged in with entity id 491242 at ([world]1516.9115238261288, 83.0, 85.30000001192093)
+[22:47:02] [Server thread/INFO]: Sumer_Light has made the advancement [We Need to Go Deeper]
+[22:48:07] [Server thread/INFO]: 4022sun >> WTM
+[22:48:50] [User Authenticator #68/INFO]: UUID of player huyast111 is 2ad345ca-630c-4467-b213-77de8000ae99
+[22:48:50] [Server thread/INFO]: huyast111[/127.0.0.1:53387] logged in with entity id 492056 at ([world]-138.36744562301976, 68.0, 235.79140068198026)
+[22:49:18] [Server thread/WARN]: huyast111 moved too quickly! -9.51505563532686,0.0,-3.196770095022316
+[22:50:07] [Server thread/WARN]: huyast111 moved too quickly! 0.07290539077274616,0.0,-10.509493135977522
+[22:50:38] [Server thread/WARN]: huyast111 moved too quickly! 13.901398868632839,0.5,0.5450112560521916
+[22:52:54] [Server thread/INFO]: huyast111 lost connection: Disconnected
+[22:52:54] [Server thread/INFO]: huyast111 left the game
+[22:53:51] [User Authenticator #69/INFO]: UUID of player huyast111 is 2ad345ca-630c-4467-b213-77de8000ae99
+[22:53:51] [Server thread/INFO]: huyast111[/127.0.0.1:53427] logged in with entity id 498627 at ([world]-154.69999998807907, 5.0, 189.69999998807907)
+[22:54:00] [Server thread/INFO]: 4022sun >> 貌似
+[22:54:03] [Server thread/INFO]: 4022sun >> 成了
+[22:54:57] [Server thread/INFO]: Mr_director issued server command: /give Mr_director minecraft:comparator
+[22:55:39] [Server thread/INFO]: Sumer_Light has made the advancement [Sweet Dreams]
+[22:55:43] [Server thread/INFO]: 4022sun >> 来帮忙放下TNT= =
+[22:55:48] [Server thread/INFO]: Sumer_Light lost connection: Disconnected
+[22:55:48] [Server thread/INFO]: Sumer_Light left the game
+[22:56:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[22:57:33] [Server thread/INFO]: 4022sun >> ee
+[22:57:41] [Server thread/INFO]: 4022sun >> 你可别放炸了= =
+[22:57:52] [Server thread/INFO]: sen_lv_ling_ >> 那我不放了 = =
+[22:58:00] [Server thread/INFO]: 4022sun >> 那你还是放吧XD
+[22:58:06] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[22:58:06] [Server thread/INFO]: Mr_director left the game
+[22:58:42] [Server thread/INFO]: 4022sun >> 你来QWQ
+[22:59:05] [User Authenticator #70/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[22:59:05] [Server thread/INFO]: Mr_director[/127.0.0.1:53471] logged in with entity id 501434 at ([world]-213.2149518789026, 87.0, 326.3566015201577)
+[22:59:24] [Server thread/INFO]: 4022sun >> 检查一波
+[22:59:41] [Server thread/INFO]: sen_lv_ling_ >> 少了个
+[23:00:05] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:00:05] [Server thread/INFO]: Mr_director left the game
+[23:00:15] [Server thread/INFO]: sen_lv_ling_ >> 所以我就放了一个tnt = =
+[23:00:23] [Server thread/INFO]: 4022sun >> emmm
+[23:00:33] [Server thread/INFO]: 4022sun >> 这么大其实应该三个人一起检查= =
+[23:00:46] [User Authenticator #71/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[23:00:46] [Server thread/INFO]: Mr_director[/127.0.0.1:53485] logged in with entity id 501815 at ([world]-210.34163330649193, 89.0, 325.9646591247466)
+[23:01:18] [Server thread/INFO]: 4022sun >> 不成功便成仁好吧
+[23:01:27] [Server thread/INFO]: 4022sun >> 炸膛了明天让ghost上
+[23:01:30] [Server thread/INFO]: 4022sun >> 3
+[23:01:31] [Server thread/INFO]: huyast111 was shot by Stray
+[23:01:32] [Server thread/INFO]: 4022sun >> 2
+[23:01:33] [Server thread/INFO]: 4022sun >> 1
+[23:01:35] [Server thread/WARN]: 4022sun moved wrongly!
+[23:01:46] [Server thread/INFO]: sen_lv_ling_ >> ?
+[23:01:51] [Server thread/INFO]: 4022sun >> 上膛……
+[23:01:56] [Server thread/INFO]: sen_lv_ling_ >> 。。。
+[23:02:11] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:02:11] [Server thread/INFO]: Mr_director left the game
+[23:02:12] [Server thread/INFO]: 4022sun >> 最里边少了个粘液块……
+[23:02:18] [Server thread/INFO]: 4022sun >> 弹射的那里……
+[23:02:23] [Server thread/INFO]: 4022sun >> 你来补吧XD
+[23:02:29] [Server thread/INFO]: 4022sun >> 最里边
+[23:02:30] [Server thread/INFO]: sen_lv_ling_ >> 别看我，我可不会
+[23:02:32] [User Authenticator #72/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[23:02:32] [Server thread/INFO]: Mr_director[/127.0.0.1:53506] logged in with entity id 502515 at ([world]-214.3277086967166, 87.0, 325.605589653437)
+[23:02:39] [Server thread/INFO]: 4022sun >> 那你来开车……
+[23:03:37] [Server thread/INFO]: 4022sun >> 3
+[23:03:38] [Server thread/INFO]: 4022sun >> 2
+[23:03:39] [Server thread/INFO]: 4022sun >> 1
+[23:03:48] [Server thread/INFO]: 4022sun >> ohhhhhh
+[23:03:49] [Server thread/INFO]: sen_lv_ling_ >> emmm
+[23:03:58] [Server thread/INFO]: sen_lv_ling_ >> 右边没了
+[23:03:59] [Server thread/INFO]: 4022sun >> 少半边没事XD
+[23:04:01] [Server thread/WARN]: 4022sun moved wrongly!
+[23:04:09] [Server thread/INFO]: 4022sun >> OHHHH
+[23:04:32] [Server thread/INFO]: 4022sun >> 自暴自弃QAQ
+[23:04:50] [Server thread/INFO]: 4022sun >> 还是双联慢慢磨吧QAQ
+[23:05:32] [Server thread/INFO]: 4022sun >> 回家回家
+[23:05:34] [Server thread/INFO]: 4022sun >> 自闭了
+[23:05:45] [Server thread/INFO]: huyast111 has made the advancement [Cover Me With Diamonds]
+[23:05:47] [Server thread/INFO]: 4022sun >> 寒假我应该在这泡了一个多星期差不多……
+[23:07:23] [Server thread/INFO]: 4022sun >> 回家的感觉真好XD
+[23:07:37] [Server thread/INFO]: huyast111 has made the advancement [We Need to Go Deeper]
+[23:08:09] [Server thread/INFO]: sen_lv_ling_ >> 你有三叉戟不
+[23:08:11] [Server thread/INFO]: 4022sun >> yes
+[23:08:33] [Server thread/INFO]: sen_lv_ling_ >> 我从这次开服到现在刷了8个
+[23:08:46] [Server thread/INFO]: 4022sun >> 这TMD和切尔诺贝利一样
+[23:08:58] [Server thread/INFO]: 4022sun >> 石棺
+[23:09:10] [Server thread/INFO]: huyast111 has made the advancement [Eye Spy]
+[23:09:14] [Server thread/INFO]: huyast111 has made the advancement [The End?]
+[23:09:30] [Server thread/WARN]: sen_lv_ling_ moved wrongly!
+[23:09:55] [Server thread/INFO]: huyast111 fell from a high place
+[23:10:09] [Server thread/INFO]: 4022sun >> 我要不要搞个全树种的XD
+[23:10:23] [Server thread/INFO]: sen_lv_ling_ >> 会？
+[23:10:31] [Server thread/INFO]: 4022sun >> 不难啊XD
+[23:10:49] [Server thread/INFO]: 4022sun >> 把地狱的活塞粘液块全拿回来
+[23:10:54] [Server thread/INFO]: 4022sun >> 材料就够了
+[23:11:09] [Server thread/INFO]: 4022sun >> 但是TNT处理部分太精神污染了
+[23:11:12] [Server thread/INFO]: 4022sun >> XD
+[23:11:19] [Server thread/INFO]: sen_lv_ling_ >> 不过现在不缺木头
+[23:11:19] [Server thread/WARN]: huyast111 moved too quickly! 756.3146653514427,25.0,1878.5644509409424
+[23:11:32] [Server thread/INFO]: 4022sun >> 其实不搞建筑，这个傻瓜树场就够了
+[23:14:20] [Server thread/INFO]: 4022sun >> e,mm
+[23:14:28] [Server thread/INFO]: sen_lv_ling_ >> 漏不下去..
+[23:14:50] [Server thread/INFO]: 4022sun >> eeeeee
+[23:14:54] [Server thread/INFO]: 4022sun >> 侦测器反了
+[23:14:57] [Server thread/INFO]: sen_lv_ling_ >> ...
+[23:16:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[23:16:54] [Server thread/INFO]: huyast111 lost connection: Disconnected
+[23:16:54] [Server thread/INFO]: huyast111 left the game
+[23:18:10] [Server thread/INFO]: 4022sun >> 我差点以为刷铁机无了
+[23:19:12] [User Authenticator #73/INFO]: Disconnecting com.mojang.authlib.GameProfile@63e9eea3[id=<null>,name=huyast111,properties={},legacy=false] (/127.0.0.1:53615): Authentication servers are down. Please try again later, sorry!
+[23:19:12] [User Authenticator #73/ERROR]: Couldn't verify username because servers are unavailable
+[23:19:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@63e9eea3[id=<null>,name=huyast111,properties={},legacy=false] (/127.0.0.1:53615) lost connection: Authentication servers are down. Please try again later, sorry!
+[23:20:29] [User Authenticator #74/INFO]: UUID of player huyast111 is 2ad345ca-630c-4467-b213-77de8000ae99
+[23:20:30] [Server thread/INFO]: huyast111[/127.0.0.1:53626] logged in with entity id 546174 at ([world_the_end]67.06632754550378, 58.0, 20.981145547142283)
+[23:21:20] [Server thread/INFO]: 4022sun has made the advancement [Monster Hunter]
+[23:25:37] [Server thread/INFO]: 4022sun has made the advancement [Stone Age]
+[23:28:39] [Server thread/INFO]: huyast111 lost connection: Timed out
+[23:28:39] [Server thread/INFO]: huyast111 left the game
+[23:30:25] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@48e040da[id=<null>,name=huyast111,properties={},legacy=false] (/127.0.0.1:53691): Took too long to log in
+[23:30:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@48e040da[id=<null>,name=huyast111,properties={},legacy=false] (/127.0.0.1:53691) lost connection: Took too long to log in
+[23:30:35] [User Authenticator #75/INFO]: Disconnecting com.mojang.authlib.GameProfile@48e040da[id=<null>,name=huyast111,properties={},legacy=false] (/127.0.0.1:53691): Authentication servers are down. Please try again later, sorry!
+[23:30:35] [User Authenticator #75/ERROR]: Couldn't verify username because servers are unavailable
+[23:34:46] [User Authenticator #76/INFO]: UUID of player huyast111 is 2ad345ca-630c-4467-b213-77de8000ae99
+[23:34:46] [Server thread/INFO]: huyast111[/127.0.0.1:53725] logged in with entity id 596020 at ([world]-155.92500001192093, 64.0, 198.60242420642305)
+[23:36:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[23:37:14] [Server thread/WARN]: huyast111 moved too quickly! 13.474171969229047,0.8322033533667508,-1.0344871051930795
+[23:38:39] [Server thread/WARN]: huyast111 moved too quickly! 755.7181986571362,25.0,1878.5146703160574
+[23:39:24] [Server thread/INFO]: huyast111 has made the advancement [Acquire Hardware]
+[23:47:10] [Server thread/INFO]: sen_lv_ling_ >> 4022sun
+[23:47:14] [Server thread/WARN]: huyast111 was kicked for floating too long!
+[23:47:14] [Server thread/INFO]: huyast111 lost connection: Flying is not enabled on this server
+[23:47:14] [Server thread/INFO]: huyast111 left the game
+[23:47:14] [Server thread/WARN]: handleDisconnection() called twice
+[23:48:20] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[23:48:20] [Server thread/INFO]: Mr_director left the game
+[23:48:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@38c89a93[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:53812) lost connection: Disconnected
+[23:48:49] [User Authenticator #79/INFO]: UUID of player huyast111 is 2ad345ca-630c-4467-b213-77de8000ae99
+[23:48:49] [Server thread/INFO]: huyast111[/127.0.0.1:53818] logged in with entity id 643790 at ([world_the_end]212.28527580146107, 58.14030407930351, 1057.1664768603116)
+[23:48:59] [User Authenticator #78/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[23:48:59] [Server thread/INFO]: Mr_director[/127.0.0.1:53820] logged in with entity id 644279 at ([world]-205.39637244081615, 87.0, 328.69999998807907)
+[23:49:10] [User Authenticator #77/INFO]: Disconnecting com.mojang.authlib.GameProfile@38c89a93[id=<null>,name=Mr_director,properties={},legacy=false] (/127.0.0.1:53812): Authentication servers are down. Please try again later, sorry!
+[23:49:10] [User Authenticator #77/ERROR]: Couldn't verify username because servers are unavailable
+[23:52:18] [Server thread/INFO]: 4022sun lost connection: Timed out
+[23:52:18] [Server thread/INFO]: 4022sun left the game
+[23:53:34] [Server thread/INFO]: huyast111 lost connection: Disconnected
+[23:53:34] [Server thread/INFO]: huyast111 left the game
+[23:56:37] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 

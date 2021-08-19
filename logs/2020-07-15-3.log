@@ -1,0 +1,1289 @@
+[19:06:41] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[19:06:41] [Server thread/INFO]: Loading properties
+[19:06:41] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[19:06:41] [Server thread/INFO]: Debug logging is disabled
+[19:06:41] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[19:06:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:06:41] [Server thread/INFO]: Default game type: SURVIVAL
+[19:06:41] [Server thread/INFO]: Generating keypair
+[19:06:41] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[19:06:41] [Server thread/INFO]: Using default channel type
+[19:06:41] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19:06:43] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[19:06:43] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[19:06:44] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[19:06:44] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[19:06:44] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[19:06:44] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[19:06:44] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[19:06:44] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[19:06:44] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[19:06:44] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[19:06:44] [Server thread/INFO]: [SAML] Loading SAML v2.0.0
+[19:06:44] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[19:06:44] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[19:06:44] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[19:06:44] [Server thread/INFO]: [TAB] Loading TAB v2.7.2
+[19:06:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:06:44] [Server thread/INFO]: Preparing level "world"
+[19:06:44] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[19:06:50] [Server thread/INFO]: Loaded 6 recipes
+[19:06:50] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:06:50] [Server thread/INFO]: View Distance: 32
+[19:06:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:06:50] [Server thread/INFO]: Item Merge Radius: 8.0
+[19:06:50] [Server thread/INFO]: Item Despawn Rate: 3000
+[19:06:50] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[19:06:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:06:50] [Server thread/INFO]: Experience Merge Radius: 8.0
+[19:06:50] [Server thread/INFO]: Mob Spawn Range: 4
+[19:06:50] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[19:06:50] [Server thread/INFO]: Max TNT Explosions: 100
+[19:06:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:06:50] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[19:06:50] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[19:06:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:06:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[19:06:50] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:06:50] [Server thread/INFO]: View Distance: 32
+[19:06:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:06:50] [Server thread/INFO]: Item Merge Radius: 8.0
+[19:06:50] [Server thread/INFO]: Item Despawn Rate: 3000
+[19:06:50] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[19:06:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:06:50] [Server thread/INFO]: Experience Merge Radius: 8.0
+[19:06:50] [Server thread/INFO]: Mob Spawn Range: 4
+[19:06:50] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[19:06:50] [Server thread/INFO]: Max TNT Explosions: 100
+[19:06:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:06:50] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[19:06:50] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[19:06:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:06:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[19:06:50] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:06:50] [Server thread/INFO]: View Distance: 32
+[19:06:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:06:50] [Server thread/INFO]: Item Merge Radius: 8.0
+[19:06:50] [Server thread/INFO]: Item Despawn Rate: 3000
+[19:06:50] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[19:06:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:06:50] [Server thread/INFO]: Experience Merge Radius: 8.0
+[19:06:50] [Server thread/INFO]: Mob Spawn Range: 4
+[19:06:50] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[19:06:50] [Server thread/INFO]: Max TNT Explosions: 100
+[19:06:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:06:50] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[19:06:50] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[19:06:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:06:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:06:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[19:06:50] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[19:06:51] [Server thread/INFO]: Preparing spawn area: 0%
+[19:06:51] [Server thread/INFO]: Preparing spawn area: 6%
+[19:06:51] [Server thread/INFO]: Preparing spawn area: 100%
+[19:06:52] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[19:06:52] [Server thread/INFO]: Time elapsed: 1394 ms
+[19:06:52] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[19:06:52] [Server thread/INFO]: Preparing spawn area: 0%
+[19:06:52] [Server thread/INFO]: Preparing spawn area: 100%
+[19:06:52] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[19:06:52] [Server thread/INFO]: Time elapsed: 641 ms
+[19:06:52] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[19:06:53] [Server thread/INFO]: Preparing spawn area: 0%
+[19:06:53] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[19:06:53] [Server thread/INFO]: Time elapsed: 336 ms
+[19:06:53] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[19:06:53] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[19:06:53] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[19:06:53] [Server thread/INFO]: --------------------
+[19:06:53] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[19:06:53] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[19:06:53] [Server thread/INFO]: --------------------
+[19:06:53] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3*
+[19:06:53] [Server thread/INFO]: [PxAutoMessage] 正在启动皮克斯自动公告系统...
+[19:06:53] [Server thread/INFO]: [PxAutoMessage] 初始化信息模块...
+[19:06:53] [Server thread/INFO]: [PxAutoMessage] 注册命令监听系统...
+[19:06:53] [Server thread/INFO]: [PxAutoMessage] 加载完毕！
+[19:06:53] [Server thread/INFO]:  
+[19:06:53] [Server thread/INFO]: > 作者：An_ye (QQ:1444691679)
+[19:06:53] [Server thread/INFO]: > 本插件自带汉化，请勿相信所谓的汉化版！
+[19:06:53] [Server thread/INFO]: > （作者的话：I'm Chinese.）
+[19:06:53] [Server thread/INFO]:  
+[19:06:53] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0*
+[19:06:53] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[19:06:53] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[19:06:53] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[19:06:55] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[19:06:55] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[19:06:55] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[19:06:55] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[19:06:55] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[19:06:55] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[19:06:55] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[19:06:55] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[19:06:55] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[19:06:55] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[19:06:55] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[19:06:55] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[19:06:55] [Server thread/INFO]: [EntityTrackerFixer] Vault not found! using default permission system...
+[19:06:55] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[19:06:55] [Server thread/INFO]: [SAML] Enabling SAML v2.0.0
+[19:06:55] [Server thread/INFO]: [SAML] Loading config.yml...
+[19:06:55] [Server thread/INFO]: [SAML] Successfully loaded config.yml.
+[19:06:55] [Server thread/INFO]: [SAML] Loading custom_groups.yml...
+[19:06:55] [Server thread/INFO]: [SAML] Successfully loaded custom_groups.yml.
+[19:06:55] [Server thread/INFO]: [SAML] Loading nerfer_goals.yml...
+[19:06:55] [Server thread/INFO]: [SAML] Successfully loaded nerfer_goals.yml.
+[19:06:55] [Server thread/INFO]: [SAML] Loading messages.yml...
+[19:06:55] [Server thread/INFO]: [SAML] Successfully loaded messages.yml.
+[19:06:55] [Server thread/INFO]: [SAML] Successfully enabled.
+[19:06:55] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5*
+[19:06:55] [Server thread/INFO]: [ChatC] 聊天管理插件已启用！
+[19:06:55] [Server thread/INFO]: [ChatC] 聊天管理插件当前版本：V0.5 （2017年8月24日）
+[19:06:55] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[19:06:55] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0*
+[19:06:55] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3*
+[19:06:55] [Server thread/INFO]: [GM+] Checking Your version...
+[19:06:55] [Server thread/INFO]: ===============================
+[19:06:55] [Server thread/INFO]: 
+[19:06:55] [Server thread/INFO]:  GroupManager+ is now enable!
+[19:06:55] [Server thread/INFO]:  
+[19:06:55] [Server thread/INFO]:  Thank you for using GroupManager+ :)
+[19:06:55] [Server thread/INFO]:  GroupManager+ is create by HappyAreaBean!
+[19:06:55] [Server thread/INFO]:  Current version: v3.3
+[19:06:55] [Server thread/INFO]:  
+[19:06:55] [Server thread/INFO]: ===============================
+[19:06:55] [Server thread/INFO]: [GM+] [INFO] World Found: world
+[19:06:55] [Server thread/INFO]: [GM+] [INFO] Superperms support enabled.
+[19:06:55] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is set for every 10 minutes!
+[19:06:55] [Server thread/INFO]: [GM+] [INFO] Backups will be retained for 24 hours!
+[19:06:55] [Server thread/INFO]: [GM+] [INFO] GroupManager+ v3.3 is now enabled!
+[19:06:55] [Server thread/INFO]: [TAB] Enabling TAB v2.7.2
+[19:06:55] [Server thread/INFO]: [TAB] Server version: 1.15.2 (v1_15_R1)
+[19:06:55] [Server thread/INFO]: [TAB] File plugins\TAB\errors.txt exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.
+[19:06:55] [Server thread/INFO]: [TAB] Animation "Welcome" does not have any texts! Ignoring.
+[19:06:57] [Server thread/INFO]: [TAB] Version 2.8.2 is out! Your version: 2.7.2
+[19:06:57] [Server thread/INFO]: [TAB] Get the update at https://www.spigotmc.org/resources/57806/
+[19:06:57] [Server thread/INFO]: [TAB] There were 2 startup warnings.
+[19:06:57] [Server thread/INFO]: [TAB] Enabled in 1493ms
+[19:06:57] [Server thread/INFO]: Done (13.379s)! For help, type "help"
+[19:06:57] [Server thread/INFO]: Timings Reset
+[19:06:57] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[19:06:57] [Server thread/INFO]: [GM+] [INFO] Bukkit Permissions Updated!
+[19:06:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d1a465a[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:50222) lost connection: Disconnected
+[19:06:59] [Craft Scheduler Thread - 1/INFO]: [GM+] Your version (v3.3) is outdated download the lastest version:
+[19:06:59] [Craft Scheduler Thread - 1/INFO]: [GM+] https://www.spigotmc.org/resources/40615/
+[19:07:00] [Thread-18/INFO]: --------------------
+[19:07:00] [Thread-18/INFO]: [CoreProtect] Version 19.0 is now available.
+[19:07:00] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[19:07:00] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[19:07:00] [Thread-18/INFO]: --------------------
+[19:07:00] [User Authenticator #2/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[19:07:01] [Server thread/INFO]: [TAB] Group "Default" is not defined in sorting list! This will result in unwanted behavior.
+[19:07:01] [Server thread/INFO]: Jichen233[/127.0.0.1:50232] logged in with entity id 930 at ([world]1572.741797583877, 64.0, 931.3158789011405)
+[19:07:03] [User Authenticator #1/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[19:07:04] [Server thread/INFO]: Block_linyi[/127.0.0.1:50226] logged in with entity id 1709 at ([world]2733.323871357498, 67.24918707874468, -247.1407898232864)
+[19:07:07] [User Authenticator #1/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[19:07:07] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:50238] logged in with entity id 2444 at ([world]1751.8582825284673, 7.0, 236.16144592952713)
+[19:07:20] [Server thread/INFO]: Block_linyi >> 卧槽
+[19:07:25] [Server thread/INFO]: sen_lv_ling_ >> ohhhhhhhhhhhh
+[19:07:29] [Server thread/INFO]: Block_linyi >> 到处都是怪
+[19:07:33] [User Authenticator #1/INFO]: UUID of player Xin_Sai is b3729594-b5f8-4196-ba5e-4e9c2181d789
+[19:07:33] [Server thread/INFO]: Xin_Sai[/127.0.0.1:50242] logged in with entity id 5837 at ([world_the_end]-14352.04688614524, 64.0, 1395.0504393830727)
+[19:07:38] [Server thread/INFO]: Block_linyi >> 到处都是怪
+[19:07:50] [User Authenticator #1/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[19:07:51] [Server thread/INFO]: Mr_director[/127.0.0.1:50247] logged in with entity id 7237 at ([world]1768.6423486968717, 7.0, 308.97453370478553)
+[19:07:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[19:07:54] [User Authenticator #1/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[19:07:55] [Server thread/INFO]: Crushxl[/127.0.0.1:50251] logged in with entity id 7279 at ([world]5128.530304492461, 67.0, 181.77678573848797)
+[19:08:01] [Server thread/INFO]: Mr_director >> 1
+[19:08:05] [Server thread/INFO]: Crushxl issued server command: /gamemode spectator
+[19:08:05] [Server thread/INFO]: [Crushxl: Set own game mode to Spectator Mode]
+[19:08:05] [Server thread/INFO]: [SAML] TPS low (15.84). Will attempt to freeze some mobs...
+[19:08:06] [Server thread/INFO]: [SAML] 807 mobs affected (807 frozen, 0 nerfed) in 534ms. Total of 767/2507 affected (766 frozen, 411 nerfed).
+[19:08:07] [Server thread/INFO]: Block_linyi >> tps 17
+[19:08:19] [Server thread/INFO]: Block_linyi >> 服务器危
+[19:08:26] [Server thread/INFO]: Block_linyi >> tps 16
+[19:08:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7249ms or 144 ticks behind
+[19:08:37] [Server thread/INFO]: <服主> Crushxl >> 没有哪个正经生存服务器能开32distance的XD
+[19:08:44] [Server thread/INFO]: Block_linyi >> 服务器危
+[19:08:48] [Server thread/INFO]: Xin_Sai >> (⊙o⊙)…
+[19:08:51] [Server thread/INFO]: sen_lv_ling_ >> 15
+[19:08:57] [Server thread/INFO]: Mr_director >> TPS不是个位数就能玩（确信
+[19:08:58] [User Authenticator #3/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[19:08:58] [Server thread/INFO]: Twilight2033[/127.0.0.1:50260] logged in with entity id 10748 at ([world]5112.782426399112, 71.0, 301.30151992955894)
+[19:09:01] [Server thread/WARN]: sen_lv_ling_ moved too quickly! -13.311801221069345,0.37390403646672166,-2.5710790711446236
+[19:09:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9777ms or 195 ticks behind
+[19:09:18] [Server thread/INFO]: Twilight2033 >> 2
+[19:09:21] [Server thread/INFO]: [SAML] TPS low (15.55). Will attempt to freeze some mobs...
+[19:09:21] [Server thread/INFO]: [SAML] 147 mobs affected (147 frozen, 0 nerfed) in 454ms. Total of 864/3625 affected (863 frozen, 411 nerfed).
+[19:09:27] [Server thread/INFO]: Twilight2033 >> 不是吧
+[19:09:33] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[19:09:33] [Server thread/INFO]: Twilight2033 left the game
+[19:09:36] [Server thread/INFO]: sen_lv_ling_ >> 稳定15.9
+[19:09:38] [User Authenticator #3/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[19:09:38] [Server thread/INFO]: Twilight2033[/127.0.0.1:50270] logged in with entity id 11679 at ([world]5112.782426399112, 71.0, 301.30151992955894)
+[19:09:41] [Server thread/INFO]: sen_lv_ling_ >> 16
+[19:09:45] [Server thread/INFO]: sen_lv_ling_ >> 回升了
+[19:09:55] [Server thread/INFO]: Twilight2033 >> 22
+[19:09:55] [Server thread/INFO]: Xin_Sai >> 是因为刷怪的问题么
+[19:09:56] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[19:09:56] [Server thread/INFO]: Twilight2033 left the game
+[19:10:02] [User Authenticator #3/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[19:10:02] [Server thread/INFO]: Twilight2033[/127.0.0.1:50276] logged in with entity id 12505 at ([world]5112.782426399112, 71.0, 301.30151992955894)
+[19:10:05] [Server thread/WARN]: Jichen233 moved too quickly! 19.084854330009733,0.14897696365248692,0.3914205377019897
+[19:10:05] [Server thread/INFO]: sen_lv_ling_ >> 18
+[19:10:07] [Server thread/INFO]: Block_linyi lost connection: Disconnected
+[19:10:07] [Server thread/INFO]: Block_linyi left the game
+[19:10:31] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[19:10:31] [Server thread/INFO]: Twilight2033 left the game
+[19:11:13] [Server thread/INFO]: Mr_director >> 20
+[19:11:28] [Server thread/INFO]: sen_lv_ling_ >> 为何就你ping是两位数
+[19:11:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@41003aa1[id=<null>,name=Block_linyi,properties={},legacy=false] (/127.0.0.1:50300) lost connection: Disconnected
+[19:11:51] [User Authenticator #5/INFO]: UUID of player Block_linyi is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[19:11:51] [Server thread/INFO]: Block_linyi[/127.0.0.1:50301] logged in with entity id 14721 at ([world]3179.423185068624, 61.28271675945384, 695.6885233353548)
+[19:11:53] [Server thread/INFO]: Mr_director >> 电信优势
+[19:11:57] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@2037f0ee[id=<null>,name=Twilight2033,properties={},legacy=false] (/127.0.0.1:50293): Authentication servers are down. Please try again later, sorry!
+[19:11:57] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[19:11:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@2037f0ee[id=<null>,name=Twilight2033,properties={},legacy=false] (/127.0.0.1:50293) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:11:58] [Server thread/INFO]: sen_lv_ling_ >> 啊这
+[19:12:08] [Server thread/INFO]: Mr_director >> 我北方的
+[19:12:08] [User Authenticator #4/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[19:12:08] [Server thread/INFO]: Twilight2033[/127.0.0.1:50310] logged in with entity id 15107 at ([world]5112.782426399112, 71.0, 301.30151992955894)
+[19:12:11] [Server thread/INFO]: Mr_director >> 你们呢
+[19:12:21] [Server thread/INFO]: Block_linyi >> 我差点淹死
+[19:12:30] [Server thread/INFO]: Block_linyi >> 我就换了个光影
+[19:12:34] [Server thread/INFO]: Mr_director >> 小泠又拉视距了，我看出来了
+[19:12:34] [Server thread/INFO]: Block_linyi >> 卡了半天
+[19:12:41] [Server thread/INFO]: Twilight2033 lost connection: Timed out
+[19:12:41] [Server thread/INFO]: Twilight2033 left the game
+[19:12:46] [Server thread/INFO]: sen_lv_ling_ >> 我440
+[19:12:54] [Server thread/INFO]: Block_linyi >> 我40
+[19:12:59] [Server thread/INFO]: Block_linyi >> 47
+[19:13:00] [Server thread/INFO]: sen_lv_ling_ >> 就我3位数
+[19:13:04] [User Authenticator #4/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[19:13:05] [Server thread/INFO]: Twilight2033[/127.0.0.1:50318] logged in with entity id 17032 at ([world]5112.782426399112, 71.0, 301.30151992955894)
+[19:13:05] [Server thread/INFO]: sen_lv_ling_ >> 676l
+[19:13:07] [Server thread/WARN]: Xin_Sai moved too quickly! -16.820944495048025,-2.9152732247532924,-3.5155517211869665
+[19:13:16] [Server thread/INFO]: Mr_director >> 那个0的怎么回事
+[19:13:22] [Server thread/INFO]: Block_linyi >> 344
+[19:13:25] [Server thread/INFO]: Block_linyi >> 273
+[19:13:27] [Server thread/INFO]: sen_lv_ling_ >> 刚进来都是0
+[19:13:27] [Server thread/INFO]: Mr_director >> 玩的小泠的电脑？
+[19:13:37] [Server thread/INFO]: Twilight2033 lost connection: Timed out
+[19:13:37] [Server thread/INFO]: Twilight2033 left the game
+[19:14:07] [Server thread/INFO]: Block_linyi >> 我好卡
+[19:14:09] [Server thread/INFO]: sen_lv_ling_ >> 看着史莱姆
+[19:14:13] [User Authenticator #6/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[19:14:13] [Server thread/INFO]: Twilight2033[/127.0.0.1:50329] logged in with entity id 21339 at ([world]5112.782426399112, 71.0, 301.30151992955894)
+[19:14:17] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[19:14:17] [Server thread/INFO]: Twilight2033 left the game
+[19:14:32] [Server thread/INFO]: Mr_director >> 白天了
+[19:14:42] [Server thread/INFO]: Block_linyi >> 你们给mc分配了多少mb的内存
+[19:14:49] [Server thread/INFO]: Jichen233 >> 4004
+[19:14:50] [Server thread/INFO]: Mr_director >> 5000
+[19:14:52] [Server thread/WARN]: Xin_Sai moved too quickly! -19.168294457904267,-2.6462629267265925,4.778536587798953
+[19:15:08] [Server thread/INFO]: Block_linyi >> 13000
+[19:15:10] [Server thread/INFO]: Mr_director >> 后台挂qq和网易云
+[19:15:12] [Server thread/INFO]: sen_lv_ling_ >> ???
+[19:15:18] [Server thread/INFO]: Crushxl issued server command: /weather clear 30000
+[19:15:18] [Server thread/INFO]: [Crushxl: Set the weather to clear]
+[19:15:28] [Server thread/INFO]: Mr_director >> 10fps(悲
+[19:15:41] [Server thread/INFO]: Block_linyi >> 我给mc分配了12g的内存
+[19:15:57] [User Authenticator #7/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[19:15:57] [Server thread/INFO]: adhesive_tape[/127.0.0.1:50344] logged in with entity id 24458 at ([world]2775.6397580535954, 63.0, -394.7031176114133)
+[19:16:11] [Server thread/INFO]: Jichen233 >> 我分4004m因为最高只能那么多/fad
+[19:16:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[19:16:25] [Server thread/INFO]: [SAML] TPS low (17.11). Will attempt to freeze some mobs...
+[19:16:26] [Server thread/INFO]: [SAML] 555 mobs affected (555 frozen, 0 nerfed) in 486ms. Total of 1090/4022 affected (1086 frozen, 420 nerfed).
+[19:16:33] [Server thread/INFO]: Block_linyi >> 我变成全服最卡的了
+[19:16:42] [Server thread/WARN]: Xin_Sai moved too quickly! -22.58128177292747,-2.878430193317982,-3.945893015737056
+[19:16:55] [Server thread/INFO]: Block_linyi issued server command: /co i
+[19:16:55] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[19:16:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6183ms or 123 ticks behind
+[19:17:01] [Server thread/INFO]: Block_linyi issued server command: /co i
+[19:17:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8232ms or 164 ticks behind
+[19:17:39] [Server thread/INFO]: [SAML] TPS low (15.8). Will attempt to freeze some mobs...
+[19:17:40] [Server thread/INFO]: [SAML] 192 mobs affected (192 frozen, 0 nerfed) in 641ms. Total of 1210/4327 affected (1208 frozen, 531 nerfed).
+[19:17:41] [Server thread/INFO]: Block_linyi issued server command: /co i
+[19:17:54] [Server thread/INFO]: adhesive_tape >> 爽
+[19:18:01] [User Authenticator #8/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[19:18:01] [Server thread/INFO]: Twilight2033[/127.0.0.1:50361] logged in with entity id 34565 at ([world]5112.782426399112, 71.0, 301.30151992955894)
+[19:18:03] [Server thread/INFO]: adhesive_tape >> 20个区块
+[19:18:03] [Server thread/WARN]: Xin_Sai moved too quickly! -17.145979795801395,-2.8434453596020717,2.772422201068366
+[19:18:03] [Server thread/WARN]: Block_linyi moved too quickly! -7.348780899317262,-2.747796659746271,6.373847972923613
+[19:18:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7107ms or 142 ticks behind
+[19:18:17] [Server thread/INFO]: adhesive_tape >> 能不能开32
+[19:18:20] [Server thread/INFO]: adhesive_tape >> 小冷
+[19:18:24] [Server thread/INFO]: Block_linyi issued server command: /
+[19:18:26] [Server thread/INFO]: <服主> Crushxl >> 已经开32了
+[19:18:26] [Server thread/INFO]: Mr_director >> 32tps直接10
+[19:18:31] [Server thread/INFO]: Twilight2033 >> woc
+[19:18:32] [Server thread/INFO]: Mr_director >> 草
+[19:18:35] [Server thread/INFO]: Block_linyi issued server command: /co i
+[19:18:43] [Server thread/INFO]: <服主> Crushxl >> 没有啊 本地可以调整渲染距离的
+[19:18:45] [Server thread/WARN]: Twilight2033 moved too quickly! 4.834470728577799,0.12129684053920187,-9.106939385800956
+[19:18:46] [Server thread/WARN]: Twilight2033 was kicked due to keepalive timeout!
+[19:18:46] [Server thread/INFO]: Twilight2033 lost connection: Timed out
+[19:18:46] [Server thread/INFO]: Twilight2033 left the game
+[19:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6020ms or 120 ticks behind
+[19:18:49] [Server thread/INFO]: adhesive_tape >> 豪爽
+[19:18:52] [Server thread/INFO]: [SAML] TPS low (16.63). Will attempt to freeze some mobs...
+[19:18:53] [Server thread/INFO]: [SAML] 124 mobs affected (124 frozen, 0 nerfed) in 527ms. Total of 1227/3802 affected (1225 frozen, 574 nerfed).
+[19:18:54] [Server thread/INFO]: adhesive_tape >> 32个区块
+[19:19:01] [Server thread/INFO]: <服主> Crushxl >> 觉得高了低了自己可以调
+[19:19:08] [Server thread/INFO]: Block_linyi >> 64个区块
+[19:19:13] [Server thread/INFO]: Block_linyi >> 滑稽
+[19:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7233ms or 144 ticks behind
+[19:19:38] [User Authenticator #9/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[19:19:38] [Server thread/INFO]: Twilight2033[/127.0.0.1:50374] logged in with entity id 41757 at ([world]5115.726911290518, 71.11857037876727, 294.1024785224108)
+[19:19:41] [Server thread/WARN]: Xin_Sai moved too quickly! -21.457321654219413,-3.0394660815897367,3.2504321171245465
+[19:19:50] [Server thread/WARN]: Xin_Sai moved wrongly!
+[19:20:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5788ms or 115 ticks behind
+[19:20:05] [Server thread/INFO]: [SAML] TPS low (16.75). Will attempt to freeze some mobs...
+[19:20:05] [Server thread/INFO]: [SAML] 129 mobs affected (129 frozen, 0 nerfed) in 473ms. Total of 1265/4076 affected (1263 frozen, 607 nerfed).
+[19:20:11] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[19:20:11] [Server thread/INFO]: Twilight2033 left the game
+[19:20:15] [Server thread/INFO]: Crushxl issued server command: /tp Crushxl -200 100 -200
+[19:20:15] [Server thread/INFO]: [Crushxl: Teleported Crushxl to -199.5, 100.0, -199.5]
+[19:20:19] [Server thread/INFO]: Xin_Sai >> ! 我走到2w格了
+[19:20:58] [Server thread/INFO]: Villager EntityVillager['Villager'/24523, uuid='90e67478-eab6-403d-b3d6-e1e5531f4cea', l='world', x=2774.70, y=63.84, z=-422.69, cx=173, cz=-27, tl=24191, v=true, d=false] died, message: 'Villager suffocated in a wall'
+[19:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[19:21:56] [Server thread/INFO]: Xin_Sai >> !!!!
+[19:22:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[19:22:19] [Server thread/INFO]: [SAML] TPS low (16.12). Will attempt to freeze some mobs...
+[19:22:20] [Server thread/INFO]: [SAML] 422 mobs affected (422 frozen, 0 nerfed) in 433ms. Total of 1260/3673 affected (1259 frozen, 491 nerfed).
+[19:22:21] [User Authenticator #10/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[19:22:21] [Server thread/INFO]: Twilight2033[/127.0.0.1:50405] logged in with entity id 53866 at ([world]5115.726911290518, 71.0, 294.1024785224108)
+[19:22:38] [Server thread/INFO]: adhesive_tape >> sen
+[19:22:41] [Server thread/INFO]: sen_lv_ling_ >> ?
+[19:22:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11992ms or 239 ticks behind
+[19:22:49] [Server thread/INFO]: adhesive_tape >> 村民打断腿会涨回来
+[19:22:55] [Server thread/INFO]: sen_lv_ling_ >> ???
+[19:22:58] [Server thread/INFO]: Block_linyi >> ???
+[19:23:02] [Server thread/INFO]: Mr_director >> 别再单方向跑了，半径2w找就算了
+[19:23:13] [Server thread/INFO]: Mr_director >> 不然服务重置也不好重置
+[19:23:21] [Server thread/INFO]: Mr_director >> 等下不对
+[19:23:24] [Server thread/INFO]: Mr_director >> 算了都一样
+[19:23:27] [Server thread/INFO]: sen_lv_ling_ >> ...
+[19:23:31] [Server thread/WARN]: Block_linyi moved wrongly!
+[19:23:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20407ms or 408 ticks behind
+[19:23:39] [Server thread/WARN]: Twilight2033 was kicked due to keepalive timeout!
+[19:23:39] [Server thread/INFO]: Twilight2033 lost connection: Timed out
+[19:23:39] [Server thread/INFO]: Twilight2033 left the game
+[19:23:39] [Server thread/WARN]: handleDisconnection() called twice
+[19:23:42] [Server thread/INFO]: sen_lv_ling_ >> 会涨回来？
+[19:23:52] [Server thread/INFO]: [SAML] TPS low (12.26). Will attempt to freeze some mobs...
+[19:23:52] [Server thread/INFO]: adhesive_tape >> en
+[19:23:53] [Server thread/INFO]: [SAML] 343 mobs affected (343 frozen, 0 nerfed) in 425ms. Total of 1575/3762 affected (1574 frozen, 540 nerfed).
+[19:24:02] [User Authenticator #11/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[19:24:02] [Server thread/INFO]: Twilight2033[/127.0.0.1:50433] logged in with entity id 60871 at ([world]5127.954740554805, 71.0, 295.79500321206166)
+[19:24:12] [Server thread/INFO]: sen_lv_ling_ >> 没材料了铺了
+[19:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10319ms or 206 ticks behind
+[19:24:19] [Server thread/INFO]: adhesive_tape >> 铺啥
+[19:24:21] [Server thread/INFO]: Crushxl issued server command: /time set 0
+[19:24:21] [Server thread/INFO]: [Crushxl: Set the time to 0]
+[19:24:23] [Server thread/INFO]: sen_lv_ling_ >> 涨了多少
+[19:24:32] [Server thread/INFO]: adhesive_tape >> 原价。。
+[19:24:39] [Server thread/INFO]: sen_lv_ling_ >> 怕不是看错了
+[19:24:41] [Server thread/INFO]: Mr_director >> 烧烧玻璃吧就
+[19:24:49] [Server thread/INFO]: Mr_director >> 剩下的我自己来好了
+[19:25:00] [Server thread/INFO]: Mr_director >> 帮我整点混凝土和玻璃（
+[19:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16148ms or 322 ticks behind
+[19:25:21] [Server thread/INFO]: [SAML] TPS low (12.6). Will attempt to freeze some mobs...
+[19:25:22] [Server thread/INFO]: [SAML] 564 mobs affected (564 frozen, 0 nerfed) in 861ms. Total of 2083/5106 affected (2082 frozen, 523 nerfed).
+[19:25:31] [Server thread/INFO]: sen_lv_ling_ >> 13
+[19:25:36] [Server thread/INFO]: sen_lv_ling_ >> tps
+[19:25:37] [Server thread/WARN]: Twilight2033 was kicked due to keepalive timeout!
+[19:25:37] [Server thread/INFO]: Twilight2033 lost connection: Timed out
+[19:25:37] [Server thread/INFO]: Twilight2033 left the game
+[19:25:37] [Server thread/WARN]: handleDisconnection() called twice
+[19:25:40] [Server thread/INFO]: Block_linyi >> 现在服务器的床铺、
+[19:25:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14537ms or 290 ticks behind
+[19:25:48] [Server thread/INFO]: Block_linyi >> 呸
+[19:25:49] [Server thread/INFO]: Block_linyi >> 呸
+[19:25:53] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[19:25:53] [Server thread/INFO]: Mr_director left the game
+[19:26:00] [User Authenticator #12/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[19:26:00] [Server thread/INFO]: Mr_director[/127.0.0.1:50458] logged in with entity id 69682 at ([world]1903.226737909099, 7.0, 310.6019838656043)
+[19:26:07] [Server thread/WARN]: sen_lv_ling_ moved too quickly! -1651.013085473895,15.878703159460805,-234.3536097395643
+[19:26:08] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[19:26:08] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[19:26:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@1cc67268[id=<null>,name=Twilight2033,properties={},legacy=false] (/127.0.0.1:50459) lost connection: Disconnected
+[19:26:18] [Server thread/INFO]: Block_linyi >> 现在服务器的cpu建议超到10GHZ
+[19:26:21] [Server thread/INFO]: Block_linyi >> 滑稽
+[19:26:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7473ms or 149 ticks behind
+[19:26:29] [Server thread/INFO]: Mr_director >> 电费
+[19:26:38] [Server thread/INFO]: [SAML] TPS low (15.95). Will attempt to freeze some mobs...
+[19:26:38] [Server thread/INFO]: [SAML] 171 mobs affected (171 frozen, 0 nerfed) in 490ms. Total of 1468/4093 affected (1467 frozen, 451 nerfed).
+[19:26:53] [User Authenticator #12/INFO]: Disconnecting com.mojang.authlib.GameProfile@1b521475[id=<null>,name=Twilight2033,properties={},legacy=false] (/127.0.0.1:50468): Authentication servers are down. Please try again later, sorry!
+[19:26:53] [User Authenticator #12/ERROR]: Couldn't verify username because servers are unavailable
+[19:26:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b521475[id=<null>,name=Twilight2033,properties={},legacy=false] (/127.0.0.1:50468) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:26:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5755ms or 115 ticks behind
+[19:27:00] [Server thread/INFO]: Block_linyi >> 电表倒转
+[19:27:04] [User Authenticator #12/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[19:27:04] [Server thread/INFO]: Twilight2033[/127.0.0.1:50476] logged in with entity id 75278 at ([world]5119.195855183165, 71.0, 298.69999998807907)
+[19:27:23] [Server thread/INFO]: adhesive_tape >> 心塞找了多少鞘翅
+[19:27:30] [Server thread/WARN]: Block_linyi moved too quickly! 756.0186831329091,24.878703159460812,1878.6983859752322
+[19:27:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12042ms or 240 ticks behind
+[19:27:44] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_15_R1.ChunkMapDistance.b(ChunkMapDistance.java:230) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.movePlayer(PlayerChunkMap.java:1363) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.movePlayer(ChunkProviderServer.java:811) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1145) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying.a(SourceFile:122) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying$PacketPlayInPositionLook.a(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1038) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1031) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1102) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[19:27:56] [Server thread/INFO]: sen_lv_ling_ >> 这箱子干嘛这么放
+[19:27:58] [Server thread/INFO]: [SAML] TPS low (13.85). Will attempt to freeze some mobs...
+[19:27:59] [Server thread/INFO]: [SAML] 520 mobs affected (520 frozen, 0 nerfed) in 669ms. Total of 1908/4814 affected (1907 frozen, 513 nerfed).
+[19:28:00] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[19:28:18] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[19:28:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11984ms or 239 ticks behind
+[19:28:46] [Server thread/INFO]: sen_lv_ling_ >> Mr_director 你在骨折机这儿摆一摞箱子干嘛 = =
+[19:28:55] [Server thread/INFO]: Block_linyi >> 刷沙机用不用有一个人去末地挂机？
+[19:28:57] [Server thread/INFO]: Mr_director >> 没地方放
+[19:29:00] [Server thread/INFO]: sen_lv_ling_ >> 啊这
+[19:29:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11899ms or 237 ticks behind
+[19:29:08] [Server thread/WARN]: Twilight2033 moved wrongly!
+[19:29:22] [Server thread/INFO]: [SAML] TPS low (14.21). Will attempt to freeze some mobs...
+[19:29:23] [Server thread/INFO]: [SAML] 149 mobs affected (149 frozen, 0 nerfed) in 854ms. Total of 1949/5265 affected (1948 frozen, 766 nerfed).
+[19:29:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14214ms or 284 ticks behind
+[19:30:00] [Server thread/INFO]: Block_linyi >> 正在刷沙机挂机
+[19:30:02] [Server thread/WARN]: Crushxl moved too quickly! 0.0,-10.106334702386931,0.0
+[19:30:17] [Server thread/INFO]: Mr_director >> 刷沙机在刷什么
+[19:30:17] [Server thread/INFO]: sen_lv_ling_ >> 建议去固化混凝土
+[19:30:19] [Server thread/INFO]: adhesive_tape >> sen给点烟花
+[19:30:24] [Server thread/INFO]: adhesive_tape >> 我去帮你找鞘翅
+[19:30:26] [Server thread/INFO]: Block_linyi >> 沙子
+[19:30:30] [Server thread/INFO]: sen_lv_ling_ >> 我在空置域
+[19:30:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14762ms or 295 ticks behind
+[19:30:34] [Server thread/INFO]: Xin_Sai >> adhesive_tape
+[19:30:37] [Server thread/INFO]: sen_lv_ling_ >> 等一下下
+[19:30:40] [Server thread/INFO]: Mr_director >> 沙子和浅绿色混凝土
+[19:30:41] [Server thread/INFO]: Xin_Sai >> 找到几个鞘翅了
+[19:30:42] [Server thread/INFO]: Mr_director >> 都刷刷
+[19:30:44] [Server thread/INFO]: Block_linyi >> 好的
+[19:30:47] [Server thread/INFO]: adhesive_tape >> 我找到1个
+[19:30:52] [Server thread/INFO]: [SAML] TPS low (13.21). Will attempt to freeze some mobs...
+[19:30:53] [Server thread/INFO]: [SAML] 165 mobs affected (165 frozen, 0 nerfed) in 679ms. Total of 1914/5268 affected (1913 frozen, 729 nerfed).
+[19:31:10] [Server thread/INFO]: adhesive_tape >> 回来附魔一下继续找
+[19:31:21] [Server thread/INFO]: adhesive_tape >> 就是怕没烟花
+[19:31:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21942ms or 438 ticks behind
+[19:31:32] [Server thread/INFO]: Xin_Sai >> 我做了5组烟花
+[19:31:34] [Server thread/INFO]: sen_lv_ling_ >> 我也没多少烟花
+[19:31:43] [Server thread/INFO]: sen_lv_ling_ >> 给你几组火药吧
+[19:31:53] [Server thread/WARN]: Mr_director moved too quickly! -13.188792593959079,0.0,0.0327220081586006
+[19:32:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34827ms or 696 ticks behind
+[19:32:30] [Server thread/WARN]: sen_lv_ling_ moved too quickly! -1651.2714161172248,16.233632006042477,-234.6010795362921
+[19:32:56] [Server thread/INFO]: [SAML] TPS low (9.38). Will attempt to freeze some mobs...
+[19:32:57] [Server thread/INFO]: [SAML] 967 mobs affected (967 frozen, 0 nerfed) in 1035ms. Total of 2750/5575 affected (2749 frozen, 730 nerfed).
+[19:33:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32857ms or 657 ticks behind
+[19:33:53] [Server thread/INFO]: sen_lv_ling_ >> 这刷沙机收集就离谱
+[19:34:09] [Server thread/INFO]: adhesive_tape >> 别开了
+[19:34:11] [Server thread/INFO]: adhesive_tape >> tps
+[19:34:13] [Server thread/INFO]: Villager EntityVillager['Farmer'/24493, uuid='3764d2c4-efad-4e5a-b3c7-facee6f07dbe', l='world', x=2770.45, y=73.52, z=-409.49, cx=173, cz=-26, tl=772740, v=true, d=false] died, message: 'Farmer was slain by 森语'
+[19:34:17] [Server thread/INFO]: sen_lv_ling_ >> 刷的东西全部飞出来了
+[19:34:19] [Server thread/INFO]: Xin_Sai >> 危
+[19:34:20] [Server thread/INFO]: Mr_director >> 个位数了
+[19:34:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@20bd78a3[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:50530) lost connection: Disconnected
+[19:34:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31329ms or 626 ticks behind
+[19:34:41] [Server thread/INFO]: Xin_Sai >> 把机器全都关一关
+[19:34:54] [Server thread/INFO]: Xin_Sai >> 这tps一会崩了233
+[19:34:59] [Server thread/INFO]: [SAML] TPS low (9.79). Will attempt to freeze some mobs...
+[19:35:00] [Server thread/INFO]: [SAML] 147 mobs affected (147 frozen, 0 nerfed) in 993ms. Total of 2838/5729 affected (2837 frozen, 805 nerfed).
+[19:35:01] [User Authenticator #13/INFO]: UUID of player Li_zi_wei is 03f744dd-f5b7-42cf-8626-935e6dfb3462
+[19:35:01] [Server thread/INFO]: Li_zi_wei[/127.0.0.1:50534] logged in with entity id 111581 at ([world_the_end]-11.037222300544414, 0.7170230032721565, 304.55957974621765)
+[19:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34387ms or 687 ticks behind
+[19:35:57] [Server thread/INFO]: Li_zi_wei >> 延迟737...?
+[19:36:07] [Server thread/INFO]: Li_zi_wei >> TPS9.3？
+[19:36:40] [Server thread/INFO]: adhesive_tape >> 机器关一关
+[19:36:40] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[19:36:40] [Server thread/INFO]: Twilight2033 left the game
+[19:36:47] [Server thread/INFO]: adhesive_tape >> 要不服炸了
+[19:36:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39005ms or 780 ticks behind
+[19:36:55] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[19:37:08] [Server thread/INFO]: Xin_Sai >> 我先退八点上
+[19:37:10] [Server thread/INFO]: [SAML] TPS low (9.3). Will attempt to freeze some mobs...
+[19:37:11] [Server thread/INFO]: [SAML] 307 mobs affected (307 frozen, 0 nerfed) in 850ms. Total of 2459/5085 affected (2458 frozen, 554 nerfed).
+[19:37:13] [Server thread/INFO]: Xin_Sai lost connection: Disconnected
+[19:37:13] [Server thread/INFO]: Xin_Sai left the game
+[19:37:31] [Server thread/INFO]: adhesive_tape >> 没胡萝卜了
+[19:37:36] [Server thread/INFO]: sen_lv_ling_ >> 这里
+[19:37:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24609ms or 492 ticks behind
+[19:37:45] [Server thread/INFO]: adhesive_tape >> ..
+[19:37:54] [Server thread/INFO]: sen_lv_ling_ >> 不知道谁搬得
+[19:38:17] [User Authenticator #14/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[19:38:17] [Server thread/INFO]: Twilight2033[/127.0.0.1:50563] logged in with entity id 123999 at ([world]5124.135824290813, 71.0, 295.8159569951328)
+[19:38:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22917ms or 458 ticks behind
+[19:39:01] [Server thread/WARN]: Mr_director moved too quickly! -11.992346926683695,0.0,1.4487546860347607
+[19:39:03] [Server thread/INFO]: [SAML] TPS low (10.37). Will attempt to freeze some mobs...
+[19:39:04] [Server thread/INFO]: [SAML] 466 mobs affected (466 frozen, 0 nerfed) in 1430ms. Total of 2635/5427 affected (2634 frozen, 558 nerfed).
+[19:39:12] [Server thread/WARN]: Mr_director moved too quickly! 0.18534371297391772,0.0,-15.709224278760928
+[19:39:17] [Server thread/INFO]: Block_linyi issued server command: /
+[19:39:30] [Server thread/WARN]: Jichen233 moved too quickly! -1651.4584609368217,16.233632006042477,-234.68229726846963
+[19:39:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32379ms or 647 ticks behind
+[19:40:02] [Server thread/WARN]: Li_zi_wei was kicked due to keepalive timeout!
+[19:40:02] [Server thread/INFO]: Li_zi_wei lost connection: Timed out
+[19:40:02] [Server thread/INFO]: Li_zi_wei left the game
+[19:40:02] [Server thread/WARN]: handleDisconnection() called twice
+[19:40:04] [Server thread/INFO]: Mr_director >> 3757
+[19:40:09] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[19:40:19] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[19:40:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@3310ff86[id=<null>,name=Li_zi_wei,properties={},legacy=false] (/127.0.0.1:50582) lost connection: Disconnected
+[19:40:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29954ms or 599 ticks behind
+[19:40:50] [Server thread/INFO]: adhesive_tape >> 刷沙机收集装置那边没人不加载
+[19:40:58] [Server thread/INFO]: adhesive_tape >> 实体多了炸服
+[19:41:02] [Server thread/INFO]: [SAML] TPS low (10.04). Will attempt to freeze some mobs...
+[19:41:04] [Server thread/INFO]: [SAML] 358 mobs affected (358 frozen, 0 nerfed) in 1755ms. Total of 2741/5529 affected (2740 frozen, 738 nerfed).
+[19:41:05] [Server thread/INFO]: Mr_director >> 我去
+[19:41:09] [Server thread/INFO]: adhesive_tape >> 要开也得两个人a
+[19:41:09] [Server thread/INFO]: sen_lv_ling_ >> 不会吧
+[19:41:18] [Server thread/INFO]: Mr_director >> 其实真不会
+[19:41:20] [Server thread/INFO]: Mr_director >> 但是漏斗
+[19:41:20] [Server thread/INFO]: adhesive_tape >> 难道不是吗
+[19:41:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29528ms or 590 ticks behind
+[19:41:47] [Server thread/INFO]: adhesive_tape >> 我在的服务器就是单人挂刷沙机然后一去末地直接崩服
+[19:41:48] [Server thread/WARN]: Mr_director moved too quickly! -1651.2429408710084,16.233632006042477,-234.06023976037656
+[19:42:14] [Server thread/INFO]: Block_linyi issued server command: /
+[19:42:18] [Server thread/INFO]: Mr_director >> 淦，又堆积了
+[19:42:26] [Server thread/INFO]: sen_lv_ling_ >> 对啊
+[19:42:34] [Server thread/INFO]: sen_lv_ling_ >> 刚刚我进去就堆积了
+[19:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28220ms or 564 ticks behind
+[19:42:51] [Server thread/INFO]: adhesive_tape >> 要两个人挂机，一个在主世界，一个在末地
+[19:42:59] [Server thread/INFO]: [SAML] TPS low (10.17). Will attempt to freeze some mobs...
+[19:42:59] [Server thread/INFO]: Mr_director >> 不用
+[19:43:00] [Server thread/INFO]: [SAML] 362 mobs affected (362 frozen, 0 nerfed) in 968ms. Total of 2792/5542 affected (2791 frozen, 749 nerfed).
+[19:43:01] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[19:43:01] [Server thread/INFO]: Twilight2033 left the game
+[19:43:01] [Server thread/INFO]: Mr_director >> 一个人就行
+[19:43:06] [Server thread/INFO]: Villager EntityVillager['Villager'/24522, uuid='bfc73316-3d48-47cc-8c4c-117bd5d836a8', l='world', x=2774.62, y=63.92, z=-422.50, cx=173, cz=-27, tl=24191, v=true, d=false] died, message: 'Villager suffocated in a wall'
+[19:43:06] [Server thread/INFO]: Mr_director >> 之前我都是一个人挂的
+[19:43:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21619ms or 432 ticks behind
+[19:44:04] [Server thread/INFO]: Mr_director >> 但是这玩意有堆积
+[19:44:06] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_15_R1.ChunkMapDistance.b(ChunkMapDistance.java:230) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.movePlayer(PlayerChunkMap.java:1363) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.movePlayer(ChunkProviderServer.java:811) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1145) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying.a(SourceFile:122) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:56) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1038) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1031) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1102) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[19:44:09] [Server thread/WARN]: sen_lv_ling_ moved too quickly! -1650.9662420869224,16.233632006042477,-234.4884415730085
+[19:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14436ms or 288 ticks behind
+[19:44:20] [Server thread/INFO]: adhesive_tape >> 堆积是因为区块不加载？
+[19:44:26] [Server thread/INFO]: [SAML] TPS low (14.14). Will attempt to freeze some mobs...
+[19:44:26] [Server thread/INFO]: [SAML] 37 mobs affected (37 frozen, 0 nerfed) in 435ms. Total of 1814/3529 affected (1813 frozen, 381 nerfed).
+[19:44:30] [Server thread/INFO]: adhesive_tape >> 还是漏斗速度跟不上？
+[19:44:31] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[19:44:31] [Server thread/INFO]: Jichen233 left the game
+[19:44:32] [Server thread/INFO]: Mr_director >> 不是，就是卡着了
+[19:44:58] [Server thread/INFO]: sen_lv_ling_ >> 刚刚这里栅栏门拦水流
+[19:45:02] [Server thread/INFO]: adhesive_tape >> 改一下线路？
+[19:45:08] [Server thread/INFO]: sen_lv_ling_ >> 东西全部飞出来了
+[19:45:23] [Server thread/INFO]: Mr_director >> 我截图发群里
+[19:45:27] [Server thread/INFO]: Block_linyi issued server command: /
+[19:45:38] [Server thread/INFO]: sen_lv_ling_ >> 看到了
+[19:45:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[19:45:52] [Server thread/INFO]: sen_lv_ling_ >> 漏斗跟不上
+[19:46:04] [Server thread/INFO]: sen_lv_ling_ >> 前面漏斗都没满啊
+[19:46:18] [Server thread/INFO]: sen_lv_ling_ >> 还是你清了
+[19:46:20] [Server thread/INFO]: Mr_director >> 速度太快了
+[19:46:33] [User Authenticator #16/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[19:46:33] [Server thread/INFO]: 4022sun[/127.0.0.1:50633] logged in with entity id 166815 at ([world_nether]336.4666283788987, 256.0, -5.452005269186683)
+[19:46:40] [Server thread/INFO]: 4022sun >> e
+[19:46:47] [Server thread/INFO]: 4022sun >> 我是不是白挂机了
+[19:46:55] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[19:46:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
+[19:47:03] [Server thread/INFO]: sen_lv_ling_ >> 你在挂啥
+[19:47:05] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[19:47:05] [Server thread/INFO]: Mr_director left the game
+[19:47:15] [Server thread/INFO]: 4022sun >> 猪人塔
+[19:47:21] [Server thread/INFO]: Block_linyi issued server command: /
+[19:47:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5825ms or 116 ticks behind
+[19:47:35] [Server thread/INFO]: Block_linyi >> 我停止挂机了
+[19:47:39] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[19:47:39] [Server thread/INFO]: [SAML] TPS low (17.09). Will attempt to freeze some mobs...
+[19:47:39] [Server thread/INFO]: [SAML] 25 mobs affected (25 frozen, 0 nerfed) in 187ms. Total of 1255/2393 affected (1254 frozen, 233 nerfed).
+[19:47:49] [Server thread/INFO]: sen_lv_ling_ >> 17tps
+[19:47:50] [Server thread/WARN]: Block_linyi moved too quickly! 755.8711392741131,25.0,1878.5798675926665
+[19:48:34] [Server thread/INFO]: 4022sun >> e
+[19:48:45] [Server thread/INFO]: sen_lv_ling_ >> 淦
+[19:48:46] [Server thread/INFO]: sen_lv_ling_ fell out of the world
+[19:48:47] [Server thread/INFO]: 4022sun >> 拍照了拍照了
+[19:48:50] [Server thread/INFO]: 4022sun >> 2333333
+[19:49:04] [Server thread/INFO]: sen_lv_ling_ >> 卡的jio滑
+[19:49:07] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[19:49:16] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[19:49:31] [Server thread/WARN]: Block_linyi moved wrongly!
+[19:49:39] [Server thread/INFO]: sen_lv_ling_ was shot by Skeleton
+[19:49:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5054ms or 101 ticks behind
+[19:50:32] [Server thread/INFO]: Block_linyi >> e
+[19:50:36] [Server thread/INFO]: Block_linyi >> 6000ms
+[19:50:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[19:50:50] [Server thread/INFO]: [SAML] TPS low (18.04). Will attempt to freeze some mobs...
+[19:50:50] [Server thread/INFO]: [SAML] 278 mobs affected (278 frozen, 0 nerfed) in 251ms. Total of 1036/2762 affected (1035 frozen, 260 nerfed).
+[19:51:02] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[19:51:18] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[19:51:38] [User Authenticator #17/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[19:51:38] [Server thread/INFO]: Bay_Max_[/127.0.0.1:50674] logged in with entity id 194673 at ([world]2769.885811880414, 63.0, -388.96931119200644)
+[19:51:41] [Server thread/WARN]: adhesive_tape moved too quickly! -0.5405701171597457,-4.837018937856584,-62.25544968070653
+[19:51:44] [Server thread/INFO]: 4022sun >> 你妈的才16组金粒
+[19:51:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[19:51:45] [Server thread/INFO]: 4022sun >> = =
+[19:51:56] [Server thread/INFO]: [SAML] TPS low (18.43). Will attempt to freeze some mobs...
+[19:51:57] [Server thread/INFO]: [SAML] 0 mobs affected (0 frozen, 0 nerfed) in 399ms. Total of 1030/3166 affected (1029 frozen, 260 nerfed).
+[19:52:11] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[19:52:24] [Server thread/INFO]: sen_lv_ling_ issued server command: /co i
+[19:52:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[19:52:41] [Server thread/INFO]: Crushxl issued server command: /time set 0
+[19:52:41] [Server thread/INFO]: [Crushxl: Set the time to 0]
+[19:53:06] [Server thread/INFO]: [SAML] TPS low (16.82). Will attempt to freeze some mobs...
+[19:53:06] [Server thread/INFO]: [SAML] 138 mobs affected (138 frozen, 0 nerfed) in 405ms. Total of 1141/3320 affected (1139 frozen, 270 nerfed).
+[19:53:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7459ms or 149 ticks behind
+[19:53:10] [Server thread/WARN]: adhesive_tape moved too quickly! 1.1026226344773136,-8.252903137213679,-79.86138171783796
+[19:53:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8359ms or 167 ticks behind
+[19:53:49] [Server thread/WARN]: sen_lv_ling_ was kicked due to keepalive timeout!
+[19:53:49] [Server thread/INFO]: sen_lv_ling_ lost connection: Timed out
+[19:53:49] [Server thread/INFO]: sen_lv_ling_ left the game
+[19:53:49] [Server thread/WARN]: handleDisconnection() called twice
+[19:54:03] [User Authenticator #18/INFO]: UUID of player sen_lv_ling_ is d6f9adbf-ee57-4d94-b70d-13a1ec4da9c2
+[19:54:03] [Server thread/INFO]: sen_lv_ling_[/127.0.0.1:50692] logged in with entity id 214502 at ([world]1753.5, 33.0, 234.72393980045325)
+[19:54:22] [Server thread/INFO]: [SAML] TPS low (16.17). Will attempt to freeze some mobs...
+[19:54:22] [Server thread/INFO]: [SAML] 164 mobs affected (164 frozen, 0 nerfed) in 395ms. Total of 937/3327 affected (936 frozen, 251 nerfed).
+[19:54:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7030ms or 140 ticks behind
+[19:54:52] [Server thread/INFO]: adhesive_tape >> 我在跑末地
+[19:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11628ms or 232 ticks behind
+[19:55:22] [Server thread/INFO]: sen_lv_ling_ >> ping8000，我真开心
+[19:55:43] [Server thread/INFO]: [SAML] TPS low (14.8). Will attempt to freeze some mobs...
+[19:55:43] [Server thread/INFO]: [SAML] 176 mobs affected (176 frozen, 0 nerfed) in 408ms. Total of 1109/3708 affected (1108 frozen, 365 nerfed).
+[19:55:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9820ms or 196 ticks behind
+[19:56:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9837ms or 196 ticks behind
+[19:56:25] [Server thread/WARN]: adhesive_tape moved too quickly! 0.9408455080868237,3.0,-12.795193861798907
+[19:56:32] [Server thread/WARN]: sen_lv_ling_ moved too quickly! -1649.715983631641,15.878703159460805,-235.07688232946344
+[19:56:55] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[19:57:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@52ea96ca[id=<null>,name=DF_yechu,properties={},legacy=false] (/127.0.0.1:50718) lost connection: Disconnected
+[19:57:31] [User Authenticator #20/INFO]: UUID of player DF_yechu is 53cfc767-1c81-46fa-8b77-d5f7f10bb804
+[19:57:31] [Server thread/INFO]: DF_yechu[/127.0.0.1:50725] logged in with entity id 234302 at ([world]5164.863718036016, 74.0, 217.05477684758105)
+[19:57:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[19:57:45] [User Authenticator #19/INFO]: Disconnecting com.mojang.authlib.GameProfile@52ea96ca[id=<null>,name=DF_yechu,properties={},legacy=false] (/127.0.0.1:50718): Authentication servers are down. Please try again later, sorry!
+[19:57:45] [User Authenticator #19/ERROR]: Couldn't verify username because servers are unavailable
+[19:57:50] [Server thread/INFO]: sen_lv_ling_ lost connection: Disconnected
+[19:57:50] [Server thread/INFO]: sen_lv_ling_ left the game
+[19:58:04] [Server thread/INFO]: Block_linyi issued server command: /
+[19:58:07] [Server thread/INFO]: [SAML] TPS low (13.87). Will attempt to freeze some mobs...
+[19:58:08] [Server thread/INFO]: [SAML] 662 mobs affected (662 frozen, 0 nerfed) in 473ms. Total of 1315/3540 affected (1314 frozen, 223 nerfed).
+[19:58:16] [Server thread/INFO]: Crushxl issued server command: /gamemode creative
+[19:58:16] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[19:58:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12477ms or 249 ticks behind
+[19:58:58] [Server thread/INFO]: 4022sun >> 甘蔗收了啊
+[19:59:06] [Server thread/INFO]: adhesive_tape lost connection: Disconnected
+[19:59:06] [Server thread/INFO]: adhesive_tape left the game
+[19:59:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16582ms or 331 ticks behind
+[19:59:36] [Server thread/INFO]: [SAML] TPS low (12.39). Will attempt to freeze some mobs...
+[19:59:37] [Server thread/INFO]: [SAML] 683 mobs affected (683 frozen, 0 nerfed) in 859ms. Total of 1973/4405 affected (1972 frozen, 573 nerfed).
+[19:59:38] [User Authenticator #21/INFO]: UUID of player adhesive_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[19:59:38] [Server thread/INFO]: adhesive_tape[/127.0.0.1:50742] logged in with entity id 245695 at ([world_the_end]397.1618942603056, 81.70000004768372, -6389.287961515419)
+[19:59:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16742ms or 334 ticks behind
+[20:00:07] [Server thread/INFO]: DF_yechu lost connection: Disconnected
+[20:00:07] [Server thread/INFO]: DF_yechu left the game
+[20:00:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9679ms or 193 ticks behind
+[20:00:58] [Server thread/INFO]: [SAML] TPS low (15.73). Will attempt to freeze some mobs...
+[20:00:58] [Server thread/INFO]: [SAML] 30 mobs affected (30 frozen, 0 nerfed) in 438ms. Total of 1246/3392 affected (1245 frozen, 303 nerfed).
+[20:01:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6933ms or 138 ticks behind
+[20:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[20:02:07] [Server thread/INFO]: [SAML] TPS low (17.4). Will attempt to freeze some mobs...
+[20:02:08] [Server thread/INFO]: [SAML] 108 mobs affected (108 frozen, 0 nerfed) in 424ms. Total of 1326/3393 affected (1325 frozen, 303 nerfed).
+[20:02:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8699ms or 173 ticks behind
+[20:03:13] [User Authenticator #22/INFO]: UUID of player YiFanFengShun is 6b491d23-aa75-4830-8683-36a79ae50c53
+[20:03:13] [Server thread/INFO]: YiFanFengShun[/127.0.0.1:50771] logged in with entity id 267151 at ([world]5183.353961404448, 64.0, 222.04563455608957)
+[20:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8086ms or 161 ticks behind
+[20:03:21] [Server thread/INFO]: <服主> Crushxl >> 1371 67 56来个人？
+[20:03:26] [Server thread/INFO]: [SAML] TPS low (15.57). Will attempt to freeze some mobs...
+[20:03:27] [Server thread/INFO]: [SAML] 308 mobs affected (308 frozen, 0 nerfed) in 536ms. Total of 1633/3797 affected (1632 frozen, 409 nerfed).
+[20:03:29] [Server thread/INFO]: <服主> Crushxl >> 主世界共镇
+[20:03:41] [Server thread/INFO]: Bay_Max_ >> 我刚走...
+[20:03:45] [Server thread/INFO]: YiFanFengShun >> 有称号了?awa
+[20:03:55] [Server thread/INFO]: 4022sun >> ??
+[20:03:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14586ms or 291 ticks behind
+[20:04:03] [Server thread/INFO]: 4022sun >> 好烦啊
+[20:04:09] [Server thread/INFO]: 4022sun >> 帧数26
+[20:04:18] [Server thread/INFO]: 4022sun >> 但是显卡才吃到36%
+[20:04:20] [Server thread/INFO]: Bay_Max_ lost connection: Disconnected
+[20:04:20] [Server thread/INFO]: Bay_Max_ left the game
+[20:04:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ba89414[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:50782) lost connection: Disconnected
+[20:04:26] [Server thread/INFO]: Crushxl issued server command: /gamemode spectator
+[20:04:26] [Server thread/INFO]: [Crushxl: Set own game mode to Spectator Mode]
+[20:04:29] [Server thread/INFO]: 4022sun >> CPU也是
+[20:04:31] [Server thread/INFO]: YiFanFengShun >> 我李十帧说话了吗awa
+[20:04:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10103ms or 202 ticks behind
+[20:04:47] [Server thread/INFO]: [SAML] TPS low (15.56). Will attempt to freeze some mobs...
+[20:04:48] [Server thread/INFO]: [SAML] 42 mobs affected (42 frozen, 0 nerfed) in 420ms. Total of 1425/3549 affected (1424 frozen, 484 nerfed).
+[20:04:53] [User Authenticator #24/INFO]: Disconnecting com.mojang.authlib.GameProfile@43822e4a[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:50785): Authentication servers are down. Please try again later, sorry!
+[20:04:53] [User Authenticator #24/ERROR]: Couldn't verify username because servers are unavailable
+[20:04:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@43822e4a[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:50785) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:05:13] [Server thread/INFO]: 4022sun >> 好像也不是那么卡的感觉
+[20:05:13] [User Authenticator #24/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:05:13] [Server thread/INFO]: Bay_Max_[/127.0.0.1:50789] logged in with entity id 279825 at ([world]1354.9323374781422, 65.0, 54.5)
+[20:05:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5044ms or 100 ticks behind
+[20:05:27] [Server thread/INFO]: Block_linyi >> 共镇要来人吗？
+[20:05:48] [Server thread/INFO]: Block_linyi issued server command: /
+[20:05:53] [Server thread/INFO]: 4022sun >> 我还是拍好海晶吧XD
+[20:05:56] [Server thread/INFO]: <服主> Crushxl >> 来
+[20:05:57] [Server thread/INFO]: [SAML] TPS low (16.23). Will attempt to freeze some mobs...
+[20:05:58] [Server thread/INFO]: [SAML] 84 mobs affected (84 frozen, 0 nerfed) in 360ms. Total of 1166/3342 affected (1165 frozen, 478 nerfed).
+[20:06:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6132ms or 122 ticks behind
+[20:06:07] [Server thread/INFO]: 4022sun >> 有啥光影推荐嘛
+[20:06:16] [Server thread/INFO]: 4022sun >> 我现在用的是SEUS V11.0
+[20:06:24] [Server thread/INFO]: Crushxl issued server command: /tp Crushxl 1371 70 60
+[20:06:24] [Server thread/INFO]: [Crushxl: Teleported Crushxl to 1371.5, 70.0, 60.5]
+[20:06:28] [Server thread/INFO]: YiFanFengShun >> 光追awa
+[20:06:41] [Server thread/INFO]: 4022sun >> 醒醒，MC没有光追
+[20:06:46] [Server thread/INFO]: Crushxl issued server command: /
+[20:06:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[20:06:52] [Server thread/INFO]: Crushxl issued server command: /gamemode creative
+[20:06:52] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[20:06:53] [Server thread/INFO]: YiFanFengShun >> RTX ON
+[20:06:55] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[20:07:04] [Server thread/INFO]: Bay_Max_ >> awa
+[20:07:06] [Server thread/INFO]: [SAML] TPS low (17.18). Will attempt to freeze some mobs...
+[20:07:07] [Server thread/INFO]: [SAML] 19 mobs affected (19 frozen, 0 nerfed) in 384ms. Total of 1172/3514 affected (1171 frozen, 539 nerfed).
+[20:07:18] [Server thread/INFO]: Crushxl issued server command: /time set 8000
+[20:07:18] [Server thread/INFO]: [Crushxl: Set the time to 8000]
+[20:07:18] [Server thread/INFO]: Block_linyi >> ?
+[20:07:25] [Server thread/INFO]: Bay_Max_ >> e
+[20:07:26] [Server thread/INFO]: <服主> Crushxl >> 站这
+[20:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6575ms or 131 ticks behind
+[20:07:38] [Server thread/INFO]: 4022sun >> PTGI E12海星
+[20:08:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[20:08:15] [Server thread/INFO]: [SAML] TPS low (17.82). Will attempt to freeze some mobs...
+[20:08:15] [Server thread/INFO]: [SAML] 10 mobs affected (10 frozen, 0 nerfed) in 368ms. Total of 1164/3535 affected (1162 frozen, 555 nerfed).
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-26.656505953238195
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-28.07581270058546
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-29.50673333916285
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-30.94903559136725
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-32.402491825143215
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-33.866878961072075
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-35.34197838131928
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-36.827575840402744
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-38.323461377746014
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-39.8294292319801
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-41.34527775695949
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-42.87080933945771
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-44.40583031850912
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-45.950150906363604
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-47.50358511102252
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-49.06595066032361
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-50.63706892754436
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-52.21676485849332
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-53.80486690005955
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-55.40120693019105
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-57.0056201892736
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-58.617945212882205
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-60.23802376587719
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-61.865700777818745
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-63.500824279672884
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-65.14324534178337
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-66.79281801308429
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-68.44939926152824
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-70.11284891570602
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-71.78302960763392
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-73.45980671668536
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-75.14304831464369
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-76.8326251118541
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-78.52841040445236
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-80.23028002264908
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-81.93811228004841
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-83.65178792398001
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-85.37119008682464
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-87.0962042383133
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-88.82671813878017
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-90.56262179335056
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-92.30380740704521
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-94.05016934078236
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-95.8016040682599
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-97.55801013369984
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-74.07023799535892
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-75.83629044526162
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-77.60702187895703
+[20:08:30] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-79.38233871685844
+[20:08:32] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-80.4875288610321
+[20:08:32] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-81.19064297299201
+[20:08:32] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-81.65251141412858
+[20:08:32] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-81.96963248892826
+[20:08:32] [Server thread/WARN]: 1bdb649a-6d71-41b9-95aa-1982d0269c78 (vehicle of YiFanFengShun) moved wrongly!
+[20:08:32] [Server thread/WARN]: 1bdb649a-6d71-41b9-95aa-1982d0269c78 (vehicle of YiFanFengShun) moved wrongly!
+[20:08:32] [Server thread/WARN]: 1bdb649a-6d71-41b9-95aa-1982d0269c78 (vehicle of YiFanFengShun) moved wrongly!
+[20:08:32] [Server thread/WARN]: 1bdb649a-6d71-41b9-95aa-1982d0269c78 (vehicle of YiFanFengShun) moved wrongly!
+[20:08:32] [Server thread/WARN]: 1bdb649a-6d71-41b9-95aa-1982d0269c78 (vehicle of YiFanFengShun) moved wrongly!
+[20:08:32] [Server thread/WARN]: 1bdb649a-6d71-41b9-95aa-1982d0269c78 (vehicle of YiFanFengShun) moved wrongly!
+[20:08:32] [Server thread/WARN]: 1bdb649a-6d71-41b9-95aa-1982d0269c78 (vehicle of YiFanFengShun) moved wrongly!
+[20:08:32] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-82.82040387506856
+[20:08:32] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-82.83036795713349
+[20:08:32] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-82.83634640661
+[20:08:32] [Server thread/WARN]: Boat (vehicle of YiFanFengShun) moved too quickly! 0.0,0.0,-82.83993347643843
+[20:08:35] [Server thread/INFO]: <服主> Crushxl >> ok
+[20:08:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[20:09:23] [Server thread/INFO]: [SAML] TPS low (17.22). Will attempt to freeze some mobs...
+[20:09:24] [Server thread/INFO]: [SAML] 74 mobs affected (74 frozen, 0 nerfed) in 444ms. Total of 947/3372 affected (946 frozen, 333 nerfed).
+[20:09:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5592ms or 111 ticks behind
+[20:09:41] [User Authenticator #25/INFO]: UUID of player GinGer_Snow is 4f43c18b-84a1-4ee3-b4c4-9834ec2fca64
+[20:09:41] [Server thread/INFO]: GinGer_Snow[/127.0.0.1:50824] logged in with entity id 298477 at ([world]1129.299999974668, 116.0000002, 2271.299999974668)
+[20:10:09] [Server thread/INFO]: Block_linyi >> 拍照时左手 tnt，右手打火石{滑稽}
+[20:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6965ms or 139 ticks behind
+[20:10:13] [Server thread/INFO]: 4022sun >> 23333
+[20:10:16] [Server thread/INFO]: 4022sun >> 合影？
+[20:10:20] [Server thread/INFO]: Block_linyi >> 没有
+[20:10:22] [Server thread/INFO]: 4022sun >> 我也来XD
+[20:10:28] [Server thread/INFO]: Block_linyi >> 只是拍一下建筑
+[20:10:36] [Server thread/INFO]: [SAML] TPS low (16.78). Will attempt to freeze some mobs...
+[20:10:37] [Server thread/INFO]: [SAML] 172 mobs affected (172 frozen, 0 nerfed) in 420ms. Total of 618/3350 affected (617 frozen, 179 nerfed).
+[20:10:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5458ms or 109 ticks behind
+[20:10:54] [Server thread/INFO]: 4022sun >> 小冷来拍海晶呗XD
+[20:10:59] [Server thread/INFO]: Crushxl issued server command: /gamemode spectator
+[20:10:59] [Server thread/INFO]: [Crushxl: Set own game mode to Spectator Mode]
+[20:11:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[20:11:38] [Server thread/INFO]: 4022sun >> E12在地狱好伤眼……
+[20:11:47] [User Authenticator #26/INFO]: UUID of player YiFanFengShun is 6b491d23-aa75-4830-8683-36a79ae50c53
+[20:11:47] [Server thread/INFO]: YiFanFengShun lost connection: You logged in from another location
+[20:11:47] [Server thread/INFO]: YiFanFengShun left the game
+[20:11:47] [Server thread/INFO]: YiFanFengShun[/127.0.0.1:50848] logged in with entity id 307297 at ([world]5215.623783841988, 107.0, -506.4422335125448)
+[20:11:50] [Server thread/WARN]: 4022sun moved too quickly! 4.870202802952008,0.5,-9.992474841254307
+[20:11:50] [Server thread/INFO]: [SAML] TPS low (15.45). Will attempt to freeze some mobs...
+[20:11:51] [Server thread/INFO]: [SAML] 445 mobs affected (445 frozen, 0 nerfed) in 378ms. Total of 950/3224 affected (949 frozen, 193 nerfed).
+[20:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10929ms or 218 ticks behind
+[20:12:12] [Server thread/INFO]: 4022sun >> WC，PTGI E12可以把我的显卡吃到73%
+[20:12:15] [Server thread/WARN]: Crushxl was kicked due to keepalive timeout!
+[20:12:15] [Server thread/INFO]: Crushxl lost connection: Timed out
+[20:12:15] [Server thread/INFO]: Crushxl left the game
+[20:12:15] [Server thread/WARN]: handleDisconnection() called twice
+[20:12:29] [Server thread/INFO]: Block_linyi >> 我是直接100%
+[20:12:38] [Server thread/INFO]: 4022sun >> 现在是55%
+[20:12:44] [Server thread/INFO]: 4022sun >> 没了日光亮度的计算
+[20:12:50] [Server thread/INFO]: 4022sun >> 怎么调夜晚亮度啊
+[20:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[20:12:55] [Server thread/INFO]: 4022sun >> 好暗XD
+[20:12:59] [Server thread/INFO]: [SAML] TPS low (18.44). Will attempt to freeze some mobs...
+[20:12:59] [Server thread/INFO]: [SAML] 59 mobs affected (59 frozen, 0 nerfed) in 482ms. Total of 943/3492 affected (942 frozen, 326 nerfed).
+[20:13:04] [Server thread/INFO]: 4022sun >> 你的是啥光影
+[20:13:05] [Server thread/INFO]: Block_linyi >> 我PTGI E12 显卡100% cpu34%
+[20:13:23] [Server thread/INFO]: 4022sun >> CPU最高吃到54%
+[20:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[20:13:44] [User Authenticator #27/INFO]: UUID of player Crushxl is 73cb5d0a-9578-42d7-8096-e35458abd65f
+[20:13:44] [Server thread/INFO]: Crushxl[/127.0.0.1:50862] logged in with entity id 315454 at ([world]2803.4154691351564, 62.0, -427.6973413501809)
+[20:13:46] [Server thread/INFO]: 4022sun >> 是我显卡太菜了吗
+[20:13:52] [Server thread/INFO]: Block_linyi >> 我显卡更菜
+[20:13:56] [Server thread/INFO]: Block_linyi >> GTX660
+[20:14:02] [Server thread/INFO]: 4022sun >> ........
+[20:14:06] [Server thread/INFO]: [SAML] TPS low (17.95). Will attempt to freeze some mobs...
+[20:14:06] [Server thread/INFO]: [SAML] 48 mobs affected (48 frozen, 0 nerfed) in 449ms. Total of 934/3545 affected (933 frozen, 326 nerfed).
+[20:14:07] [User Authenticator #27/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[20:14:07] [Server thread/INFO]: Mr_director[/127.0.0.1:50867] logged in with entity id 316761 at ([world]1756.299999974668, 33.0000002, 235.29999997466803)
+[20:14:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
+[20:14:33] [Server thread/INFO]: Crushxl issued server command: /gamemode creative
+[20:14:33] [Server thread/INFO]: [Crushxl: Set own game mode to Creative Mode]
+[20:14:39] [Server thread/INFO]: Bay_Max_ issued server command: /tell Crushxl 泠酱你刚才调时间用的time set 游戏天数归零了awa
+[20:14:53] [Server thread/INFO]: <服主> Crushxl >> XD
+[20:14:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6799ms or 135 ticks behind
+[20:15:10] [Server thread/INFO]: Block_linyi >> 你们海晶骨折机这里为啥有一个村民不会向上游
+[20:15:22] [Server thread/INFO]: Block_linyi >> 一直在那个区域
+[20:15:24] [Server thread/INFO]: [SAML] TPS low (15.25). Will attempt to freeze some mobs...
+[20:15:24] [Server thread/INFO]: [SAML] 383 mobs affected (383 frozen, 0 nerfed) in 680ms. Total of 1262/4310 affected (1261 frozen, 326 nerfed).
+[20:15:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13315ms or 266 ticks behind
+[20:15:47] [Server thread/INFO]: Block_linyi >> 小冷2800ms延迟
+[20:15:58] [Server thread/INFO]: GinGer_Snow >> 233
+[20:16:08] [Server thread/INFO]: <服主> Crushxl >> 可烦死我了（
+[20:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11789ms or 235 ticks behind
+[20:16:22] [Server thread/INFO]: Bay_Max_ >> 23333
+[20:16:23] [Server thread/WARN]: 4022sun moved too quickly! 7.879857451016051,0.5,-8.454259059408287
+[20:16:48] [Server thread/INFO]: [SAML] TPS low (14.18). Will attempt to freeze some mobs...
+[20:16:48] [Server thread/INFO]: [SAML] 141 mobs affected (141 frozen, 0 nerfed) in 808ms. Total of 1327/4543 affected (1326 frozen, 445 nerfed).
+[20:16:55] [pool-8-thread-1/INFO]: [GM+] [INFO]  Data files refreshed.
+[20:17:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11023ms or 220 ticks behind
+[20:17:15] [Server thread/ERROR]: Could not pass event PlayerChatEvent to ChatC v0.5
+java.lang.IllegalArgumentException: character to be escaped is missing
+	at java.util.regex.Matcher.appendReplacement(Unknown Source) ~[?:1.8.0_181]
+	at java.util.regex.Matcher.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.String.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at cf.cc7w.ChatC.ChatC.onchat(ChatC.java:247) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor33.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:559) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.PlayerConnection$5.evaluate(PlayerConnection.java:1743) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at org.bukkit.craftbukkit.v1_15_R1.util.Waitable.run(Waitable.java:25) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1198) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[PaperSpigot1.15.2.jar:git-Paper-118]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[20:17:15] [Server thread/INFO]: <adhesive_tape> \
+[20:17:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9268ms or 185 ticks behind
+[20:17:58] [Server thread/INFO]: Block_linyi issued server command: /
+[20:18:08] [Server thread/INFO]: [SAML] TPS low (14.94). Will attempt to freeze some mobs...
+[20:18:09] [Server thread/INFO]: [SAML] 87 mobs affected (87 frozen, 0 nerfed) in 975ms. Total of 1347/4693 affected (1346 frozen, 435 nerfed).
+[20:18:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11157ms or 223 ticks behind
+[20:18:32] [Server thread/INFO]: Bay_Max_ issued server command: /?
+[20:18:39] [Server thread/INFO]: Bay_Max_ issued server command: /? 2
+[20:18:42] [Server thread/INFO]: 4022sun >> 2333
+[20:18:55] [Server thread/INFO]: Bay_Max_ issued server command: /? TAB
+[20:18:59] [Server thread/INFO]: Bay_Max_ issued server command: /tab
+[20:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9190ms or 183 ticks behind
+[20:19:07] [Server thread/INFO]: Bay_Max_ issued server command: /? SAML
+[20:19:20] [Server thread/INFO]: Bay_Max_ issued server command: /? Minecraft
+[20:19:27] [Server thread/INFO]: [SAML] TPS low (15.39). Will attempt to freeze some mobs...
+[20:19:28] [Server thread/INFO]: [SAML] 46 mobs affected (46 frozen, 0 nerfed) in 839ms. Total of 1317/4416 affected (1316 frozen, 445 nerfed).
+[20:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9545ms or 190 ticks behind
+[20:19:42] [Server thread/INFO]: adhesive_tape >> 在干啥
+[20:20:09] [Server thread/INFO]: Mr_director issued server command: /co i
+[20:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6495ms or 129 ticks behind
+[20:20:26] [Server thread/INFO]: Mr_director issued server command: /co i
+[20:20:39] [Server thread/INFO]: [SAML] TPS low (17.7). Will attempt to freeze some mobs...
+[20:20:39] [Server thread/INFO]: [SAML] 55 mobs affected (55 frozen, 0 nerfed) in 483ms. Total of 989/3551 affected (988 frozen, 316 nerfed).
+[20:20:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
+[20:21:23] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[20:21:23] [Server thread/INFO]: Mr_director left the game
+[20:21:37] [User Authenticator #28/INFO]: Disconnecting /127.0.0.1:50919: Failed to verify username!
+[20:21:37] [User Authenticator #28/ERROR]: Username 'Mr_director' tried to join with an invalid session
+[20:21:37] [Server thread/INFO]: /127.0.0.1:50919 lost connection: Failed to verify username!
+[20:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[20:21:47] [Server thread/INFO]: [SAML] TPS low (17.83). Will attempt to freeze some mobs...
+[20:21:47] [User Authenticator #28/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[20:21:47] [Server thread/INFO]: Mr_director[/127.0.0.1:50922] logged in with entity id 344082 at ([world_nether]330.3895154101107, 114.0, -9.898258029300807)
+[20:21:47] [Server thread/INFO]: [SAML] 47 mobs affected (47 frozen, 0 nerfed) in 428ms. Total of 953/3482 affected (952 frozen, 316 nerfed).
+[20:22:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[20:22:36] [Server thread/INFO]: adhesive_tape >> 我想改名
+[20:22:39] [Server thread/INFO]: 4022sun >> 2333
+[20:22:50] [Server thread/INFO]: GinGer_Snow >> 啊这
+[20:22:53] [Server thread/INFO]: 4022sun >> NMD
+[20:22:55] [Server thread/INFO]: [SAML] TPS low (18.21). Will attempt to freeze some mobs...
+[20:22:55] [Server thread/INFO]: [SAML] 50 mobs affected (50 frozen, 0 nerfed) in 527ms. Total of 959/3513 affected (958 frozen, 316 nerfed).
+[20:22:55] [Server thread/INFO]: GinGer_Snow >> 谁给我丢了铁块
+[20:22:58] [Server thread/INFO]: 4022sun >> 再高的配置
+[20:23:01] [Server thread/INFO]: 4022sun >> 遇上MC
+[20:23:05] [Server thread/INFO]: 4022sun >> 绝对GG
+[20:23:15] [Server thread/INFO]: Block_linyi >> 3990x都不好使
+[20:23:25] [Server thread/INFO]: 4022sun >> 你用AMD可以去死了
+[20:23:32] [Server thread/INFO]: Block_linyi >> 一核有难，8核围观
+[20:23:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[20:23:35] [Server thread/INFO]: 4022sun >> MC和AMD一向不和
+[20:23:55] [Server thread/INFO]: Block_linyi >> 核心再多也没用
+[20:24:02] [Server thread/INFO]: 4022sun >> 县城撕裂者
+[20:24:06] [Server thread/INFO]: [公告] 卫星地图 | 玩家举报 | 赞助支持 | 动态 >> http://airspace.ink/ 
+[20:24:06] [Server thread/INFO]: [SAML] TPS low (15.1). Will attempt to freeze some mobs...
+[20:24:07] [Server thread/INFO]: [SAML] 367 mobs affected (367 frozen, 0 nerfed) in 538ms. Total of 1210/3738 affected (1209 frozen, 288 nerfed).
+[20:24:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11384ms or 227 ticks behind
+[20:24:41] [Server thread/INFO]: GinGer_Snow >> md
+[20:24:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[20:25:00] [Server thread/INFO]: GinGer_Snow >> 不要往我身上扔垃圾
+[20:25:07] [Server thread/INFO]: GinGer_Snow >> (
+[20:25:16] [Server thread/INFO]: Block_linyi >> 谁啊
+[20:25:17] [Server thread/INFO]: [SAML] TPS low (16.72). Will attempt to freeze some mobs...
+[20:25:18] [Server thread/INFO]: [SAML] 81 mobs affected (81 frozen, 0 nerfed) in 548ms. Total of 1243/3813 affected (1242 frozen, 522 nerfed).
+[20:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6420ms or 128 ticks behind
+[20:25:33] [Server thread/INFO]: adhesive_tape >> 小冷
+[20:25:57] [Server thread/WARN]: adhesive_tape moved too quickly! -18.21412413769758,-3.955814919559103,-27.997062190912402
+[20:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6578ms or 131 ticks behind
+[20:26:32] [Server thread/INFO]: [SAML] TPS low (15.65). Will attempt to freeze some mobs...
+[20:26:33] [Server thread/INFO]: [SAML] 89 mobs affected (89 frozen, 0 nerfed) in 586ms. Total of 1272/3975 affected (1271 frozen, 543 nerfed).
+[20:26:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11394ms or 227 ticks behind
+[20:27:03] [Server thread/WARN]: Bay_Max_ was kicked due to keepalive timeout!
+[20:27:03] [Server thread/INFO]: Bay_Max_ lost connection: Timed out
+[20:27:03] [Server thread/INFO]: Bay_Max_ left the game
+[20:27:03] [Server thread/WARN]: handleDisconnection() called twice
+[20:27:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10934ms or 218 ticks behind
+[20:27:42] [Server thread/INFO]: Crushxl issued server command: /time set 10000
+[20:27:42] [Server thread/INFO]: [Crushxl: Set the time to 10000]
+[20:27:44] [User Authenticator #29/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:27:44] [Server thread/INFO]: Bay_Max_[/127.0.0.1:50965] logged in with entity id 368159 at ([world]2191.6462167955233, 66.0, 629.5)
+[20:27:46] [Server thread/INFO]: Crushxl issued server command: /time set 11000
+[20:27:46] [Server thread/INFO]: [Crushxl: Set the time to 11000]
+[20:27:54] [Server thread/INFO]: [SAML] TPS low (15.4). Will attempt to freeze some mobs...
+[20:27:54] [Server thread/INFO]: [SAML] 103 mobs affected (103 frozen, 0 nerfed) in 631ms. Total of 1326/4354 affected (1325 frozen, 572 nerfed).
+[20:27:57] [Server thread/INFO]: Crushxl issued server command: /time set 12000
+[20:27:57] [Server thread/INFO]: [Crushxl: Set the time to 12000]
+[20:28:05] [Server thread/INFO]: Crushxl issued server command: /time set 13000
+[20:28:05] [Server thread/INFO]: [Crushxl: Set the time to 13000]
+[20:28:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10076ms or 201 ticks behind
+[20:28:13] [Server thread/INFO]: Crushxl issued server command: /time set 8000
+[20:28:13] [Server thread/INFO]: [Crushxl: Set the time to 8000]
+[20:28:20] [Server thread/INFO]: Crushxl issued server command: /time set 3000
+[20:28:20] [Server thread/INFO]: [Crushxl: Set the time to 3000]
+[20:28:29] [Server thread/WARN]: Bay_Max_ was kicked due to keepalive timeout!
+[20:28:29] [Server thread/INFO]: Bay_Max_ lost connection: Timed out
+[20:28:29] [Server thread/INFO]: Bay_Max_ left the game
+[20:28:30] [Server thread/WARN]: handleDisconnection() called twice
+[20:28:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8506ms or 170 ticks behind
+[20:28:59] [User Authenticator #30/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:28:59] [Server thread/INFO]: Bay_Max_[/127.0.0.1:50975] logged in with entity id 373234 at ([world]2190.296058465249, 64.04289683901332, 621.0197897664319)
+[20:29:03] [Server thread/WARN]: Crushxl moved too quickly! -14.563389820212706,2.99474534065898,-14.40798779962654
+[20:29:13] [Server thread/INFO]: [SAML] TPS low (15.19). Will attempt to freeze some mobs...
+[20:29:14] [Server thread/INFO]: [SAML] 87 mobs affected (87 frozen, 0 nerfed) in 709ms. Total of 1341/4372 affected (1340 frozen, 612 nerfed).
+[20:29:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11771ms or 235 ticks behind
+[20:29:44] [Server thread/WARN]: Bay_Max_ was kicked due to keepalive timeout!
+[20:29:44] [Server thread/INFO]: Bay_Max_ lost connection: Timed out
+[20:29:44] [Server thread/INFO]: Bay_Max_ left the game
+[20:29:45] [Server thread/WARN]: handleDisconnection() called twice
+[20:30:10] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[20:30:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10273ms or 205 ticks behind
+[20:30:23] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[20:30:26] [Server thread/INFO]: Mr_director >> 有人没事做么
+[20:30:35] [Server thread/INFO]: [SAML] TPS low (14.86). Will attempt to freeze some mobs...
+[20:30:36] [Server thread/INFO]: [SAML] 85 mobs affected (85 frozen, 0 nerfed) in 752ms. Total of 1352/4275 affected (1351 frozen, 617 nerfed).
+[20:30:44] [Server thread/INFO]: Villager EntityVillager['小泠'/305041, uuid='b67674e5-50c5-4328-a63d-0554a9c1afb2', l='world', x=2770.30, y=73.67, z=-409.30, cx=173, cz=-26, tl=15822964, v=true, d=false] died, message: '小泠 was slain by 森语'
+[20:30:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10117ms or 202 ticks behind
+[20:31:12] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[20:31:12] [Server thread/INFO]: 4022sun left the game
+[20:31:16] [Server thread/INFO]: Crushxl issued server command: /time set 11000
+[20:31:16] [Server thread/INFO]: [Crushxl: Set the time to 11000]
+[20:31:21] [Server thread/INFO]: Crushxl issued server command: /time set 13000
+[20:31:21] [Server thread/INFO]: [Crushxl: Set the time to 13000]
+[20:31:25] [Server thread/INFO]: Crushxl issued server command: /time set 12000
+[20:31:25] [Server thread/INFO]: [Crushxl: Set the time to 12000]
+[20:31:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@39e92870[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:50996) lost connection: Disconnected
+[20:31:33] [Server thread/INFO]: Crushxl issued server command: /time set 11500
+[20:31:33] [Server thread/INFO]: [Crushxl: Set the time to 11500]
+[20:31:37] [Server thread/INFO]: Crushxl issued server command: /time set 11000
+[20:31:37] [Server thread/INFO]: [Crushxl: Set the time to 11000]
+[20:31:53] [User Authenticator #31/INFO]: Disconnecting com.mojang.authlib.GameProfile@2f17d196[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:50997): Authentication servers are down. Please try again later, sorry!
+[20:31:53] [User Authenticator #31/ERROR]: Couldn't verify username because servers are unavailable
+[20:31:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f17d196[id=<null>,name=Bay_Max_,properties={},legacy=false] (/127.0.0.1:50997) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:32:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[20:33:13] [User Authenticator #32/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[20:33:13] [Server thread/INFO]: 4022sun[/127.0.0.1:51009] logged in with entity id 392228 at ([world]2662.057739390159, 63.0, -334.40968061299225)
+[20:33:46] [Server thread/INFO]: Crushxl issued server command: /time set 11500
+[20:33:46] [Server thread/INFO]: [Crushxl: Set the time to 11500]
+[20:33:49] [User Authenticator #32/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:33:49] [Server thread/INFO]: Bay_Max_[/127.0.0.1:51017] logged in with entity id 395114 at ([world_nether]273.5, 115.0, 77.75235008381833)
+[20:33:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5050ms or 101 ticks behind
+[20:34:08] [Server thread/INFO]: Block_linyi has made the advancement [Local Brewery]
+[20:34:16] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[20:34:16] [Server thread/INFO]: 4022sun left the game
+[20:34:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[20:34:55] [Server thread/INFO]: [SAML] TPS low (18.11). Will attempt to freeze some mobs...
+[20:34:55] [Server thread/INFO]: [SAML] 56 mobs affected (56 frozen, 0 nerfed) in 321ms. Total of 1027/3027 affected (1026 frozen, 412 nerfed).
+[20:35:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[20:35:34] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[20:35:36] [User Authenticator #33/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[20:35:37] [Server thread/INFO]: 4022sun[/127.0.0.1:51034] logged in with entity id 403581 at ([world]2673.249830542881, 63.0, -334.52400494594656)
+[20:35:49] [Server thread/INFO]: Crushxl issued server command: /gamemode spectator
+[20:35:49] [Server thread/INFO]: [Crushxl: Set own game mode to Spectator Mode]
+[20:35:52] [Server thread/WARN]: Bay_Max_ was kicked due to keepalive timeout!
+[20:35:52] [Server thread/INFO]: Bay_Max_ lost connection: Timed out
+[20:35:52] [Server thread/INFO]: Bay_Max_ left the game
+[20:35:52] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[20:35:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10307ms or 206 ticks behind
+[20:36:05] [Server thread/INFO]: 4022sun >> e
+[20:36:12] [Server thread/INFO]: [SAML] TPS low (15.76). Will attempt to freeze some mobs...
+[20:36:12] [Server thread/INFO]: [SAML] 92 mobs affected (92 frozen, 0 nerfed) in 264ms. Total of 994/2753 affected (993 frozen, 434 nerfed).
+[20:36:22] [Server thread/WARN]: 4022sun was kicked due to keepalive timeout!
+[20:36:22] [Server thread/INFO]: 4022sun lost connection: Timed out
+[20:36:22] [Server thread/INFO]: 4022sun left the game
+[20:36:22] [Server thread/WARN]: handleDisconnection() called twice
+[20:36:30] [User Authenticator #33/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[20:36:30] [Server thread/INFO]: 4022sun[/127.0.0.1:51041] logged in with entity id 407925 at ([world]2674.4528927108427, 63.0, -335.7796984060379)
+[20:36:31] [Server thread/INFO]: Crushxl has made the advancement [The City at the End of the Game]
+[20:36:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11009ms or 220 ticks behind
+[20:36:41] [Server thread/INFO]: 4022sun >> 1
+[20:37:05] [Server thread/INFO]: 4022sun >> 2
+[20:37:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13055ms or 261 ticks behind
+[20:37:19] [Server thread/INFO]: 4022sun >> 光影好操蛋
+[20:37:21] [User Authenticator #33/INFO]: UUID of player Bay_Max_ is cf940dbc-2f87-4ef6-916b-e4e7d623d32d
+[20:37:21] [Server thread/INFO]: Bay_Max_[/127.0.0.1:51049] logged in with entity id 411161 at ([world]1571.9967554004647, 64.0, 851.5)
+[20:37:23] [Server thread/WARN]: Crushxl moved too quickly! -27.932359968258424,0.0,1.903242333801245
+[20:37:24] [Server thread/INFO]: 4022sun >> 唉
+[20:37:44] [Server thread/INFO]: [SAML] TPS low (13.0). Will attempt to freeze some mobs...
+[20:37:45] [Server thread/INFO]: [SAML] 652 mobs affected (652 frozen, 0 nerfed) in 766ms. Total of 1580/4210 affected (1579 frozen, 434 nerfed).
+[20:37:53] [Server thread/INFO]: Bay_Max_ lost connection: Timed out
+[20:37:53] [Server thread/INFO]: Bay_Max_ left the game
+[20:38:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14758ms or 295 ticks behind
+[20:38:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6006ms or 120 ticks behind
+[20:38:55] [Server thread/INFO]: [SAML] TPS low (16.96). Will attempt to freeze some mobs...
+[20:38:55] [Server thread/INFO]: [SAML] 64 mobs affected (64 frozen, 0 nerfed) in 378ms. Total of 1071/3035 affected (1070 frozen, 386 nerfed).
+[20:39:17] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[20:39:42] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[20:39:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[20:39:45] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[20:39:51] [Server thread/INFO]: adhesive_tape issued server command: /co i
+[20:39:52] [Server thread/INFO]: 4022sun >> 3225
+[20:39:58] [Server thread/INFO]: 4022sun >> 什么操作
+[20:40:00] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[20:40:00] [Server thread/INFO]: 4022sun left the game
+[20:40:01] [Server thread/INFO]: [SAML] TPS low (17.73). Will attempt to freeze some mobs...
+[20:40:01] [Server thread/INFO]: [SAML] 10 mobs affected (10 frozen, 0 nerfed) in 335ms. Total of 1054/2902 affected (1053 frozen, 428 nerfed).
+[20:40:06] [User Authenticator #34/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[20:40:06] [Server thread/INFO]: 4022sun[/127.0.0.1:51069] logged in with entity id 424386 at ([world_nether]334.82578443222803, 115.0, -14.99045497307404)
+[20:40:21] [Server thread/INFO]: 4022sun >> aa
+[20:40:21] [Server thread/INFO]: <服主> Crushxl >> 选个地方一起合影？
+[20:40:22] [Server thread/INFO]: Block_linyi >> 小冷说要合影
+[20:40:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[20:40:27] [Server thread/INFO]: Mr_director >> 去哪
+[20:40:31] [Server thread/INFO]: Block_linyi >> 海晶？
+[20:40:51] [Server thread/WARN]: 4022sun was kicked due to keepalive timeout!
+[20:40:51] [Server thread/INFO]: 4022sun lost connection: Timed out
+[20:40:51] [Server thread/INFO]: 4022sun left the game
+[20:40:51] [Server thread/WARN]: handleDisconnection() called twice
+[20:40:57] [Server thread/INFO]: Block_linyi >> 我延迟爆炸
+[20:40:58] [User Authenticator #34/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[20:40:58] [Server thread/INFO]: 4022sun[/127.0.0.1:51080] logged in with entity id 428244 at ([world_nether]334.82578443222803, 115.0, -14.99045497307404)
+[20:41:01] [Server thread/WARN]: adhesive_tape moved too quickly! -5.55746470489288,-6.141596939172786,-15.789418273558113
+[20:41:07] [Server thread/INFO]: [SAML] TPS low (18.06). Will attempt to freeze some mobs...
+[20:41:07] [Server thread/INFO]: [SAML] 1 mobs affected (1 frozen, 0 nerfed) in 125ms. Total of 867/2102 affected (866 frozen, 315 nerfed).
+[20:41:10] [Server thread/WARN]: Mr_director moved too quickly! -17.578791169636617,0.0,10.199999988079071
+[20:41:16] [Server thread/INFO]: YiFanFengShun lost connection: Disconnected
+[20:41:16] [Server thread/INFO]: YiFanFengShun left the game
+[20:41:23] [Server thread/INFO]: 4022sun lost connection: Disconnected
+[20:41:23] [Server thread/INFO]: 4022sun left the game
+[20:41:27] [Server thread/INFO]: Mr_director >> 离谱，我走门卡方块里了
+[20:41:31] [Server thread/INFO]: Mr_director lost connection: Disconnected
+[20:41:31] [Server thread/INFO]: Mr_director left the game
+[20:41:53] [User Authenticator #34/INFO]: UUID of player Mr_director is ad82c331-f637-4e55-8488-2a38fc6adee9
+[20:41:53] [Server thread/INFO]: Mr_director[/127.0.0.1:51092] logged in with entity id 432608 at ([world_nether]246.61173885215277, 115.0, 22.194469952832442)
+[20:41:54] [Server thread/INFO]: <服主> Crushxl >> 延迟我重启一下服务器 会好很多
+[20:42:12] [Server thread/INFO]: <服主> Crushxl >> 10s后重启
+[20:42:18] [Server thread/INFO]: Block_linyi >> GinGer_Snow挂机没了
+[20:42:26] [Server thread/INFO]: Stopping the server
+[20:42:26] [Server thread/INFO]: Stopping server
+[20:42:26] [Server thread/INFO]: [TAB] Disabling TAB v2.7.2
+[20:42:26] [Server thread/INFO]: [TAB] Disabled in 0ms
+[20:42:26] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.3
+[20:42:26] [Server thread/INFO]: [GM+] [INFO] Scheduled Data Saving is disabled!
+[20:42:26] [Server thread/INFO]: GroupManager version 3.3 is disabled!
+[20:42:26] [Server thread/INFO]: [CrowdLocator] Disabling CrowdLocator v1.0
+[20:42:26] [Server thread/INFO]: [ChatC] Disabling ChatC v0.5
+[20:42:26] [Server thread/INFO]: [ChatC] 聊天管理插件已关闭！
+[20:42:26] [Server thread/INFO]: [ChatC] 感谢您的使用！
+[20:42:26] [Server thread/INFO]: [SAML] Disabling SAML v2.0.0
+[20:42:26] [Server thread/INFO]: [SAML] The frozen chunk cache file has been deleted. All chunks should have been accounted for.
+[20:42:26] [Server thread/INFO]: [SAML] Successfully disabled.
+[20:42:26] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[20:42:26] [Server thread/INFO]: [EntityTrackerFixer] Disabling EntityTrackerFixer v1.3.1
+[20:42:26] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[20:42:26] [Server thread/INFO]: [hsqldb.db.HSQLDB73392FA9CE.ENGINE] Database closed
+[20:42:26] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[20:42:26] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[20:42:26] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[20:42:26] [Server thread/INFO]: [PxAutoMessage] Disabling PxAutoMessage v0.1.3
+[20:42:26] [Server thread/INFO]: [PxAutoMessage] 正在关闭皮克斯自动公告系统...
+[20:42:26] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[20:42:26] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[20:42:27] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[20:42:27] [Server thread/INFO]: Saving players
+[20:42:27] [Server thread/INFO]: Block_linyi lost connection: Server closed
+[20:42:27] [Server thread/INFO]: Block_linyi left the game
+[20:42:27] [Server thread/INFO]: adhesive_tape lost connection: Server closed
+[20:42:27] [Server thread/INFO]: adhesive_tape left the game
+[20:42:27] [Server thread/INFO]: GinGer_Snow lost connection: Server closed
+[20:42:27] [Server thread/INFO]: GinGer_Snow left the game
+[20:42:27] [Server thread/INFO]: Crushxl lost connection: Server closed
+[20:42:27] [Server thread/INFO]: Crushxl left the game
+[20:42:27] [Server thread/INFO]: Mr_director lost connection: Server closed
+[20:42:27] [Server thread/INFO]: Mr_director left the game
+[20:42:27] [Server thread/INFO]: Saving worlds
+[20:42:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:42:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:42:31] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[20:42:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:42:33] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[20:42:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:42:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:42:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:42:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -1,0 +1,530 @@
+[16:25:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[16:25:40] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:25:41] [Worker-Main-5/INFO]: Loaded 7 recipes
+[16:25:42] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[16:25:42] [Server thread/INFO]: Loading properties
+[16:25:43] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-379750e-43c7ff9 (MC: 1.16.2) (Implementing API version 1.16.2-R0.1-SNAPSHOT)
+[16:25:43] [Server thread/INFO]: Debug logging is disabled
+[16:25:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:25:43] [Server thread/INFO]: Server Ping Player Sample Count: 0
+[16:25:43] [Server thread/INFO]: Default game type: SURVIVAL
+[16:25:43] [Server thread/INFO]: Generating keypair
+[16:25:43] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[16:25:43] [Server thread/INFO]: Using default channel type
+[16:25:44] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:25:46] [Server thread/WARN]: Legacy plugin ChatC v0.5 does not specify an api-version.
+[16:25:46] [Server thread/WARN]: Legacy plugin GroupManager v3.3 does not specify an api-version.
+[16:25:46] [Server thread/WARN]: Legacy plugin PxAutoMessage v0.1.3 does not specify an api-version.
+[16:25:46] [Server thread/WARN]: Legacy plugin AdvancedBan v2.2.0 does not specify an api-version.
+[16:25:46] [Server thread/WARN]: Legacy plugin PiglinFix vAlpha 1.1 does not specify an api-version.
+[16:25:46] [Server thread/WARN]: Legacy plugin PlayerPoints v2.1.5-SNAPSHOT does not specify an api-version.
+[16:25:46] [Server thread/WARN]: Legacy plugin CrowdLocator v1.0 does not specify an api-version.
+[16:25:46] [Server thread/WARN]: Legacy plugin Lores v1.4.1 does not specify an api-version.
+[16:25:46] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[16:25:46] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.1
+[16:25:46] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[16:25:46] [Server thread/INFO]: [ChatC] Loading ChatC v0.5
+[16:25:46] [Server thread/INFO]: [GroupManager] Loading GroupManager v3.3
+[16:25:46] [Server thread/INFO]: [PxAutoMessage] Loading PxAutoMessage v0.1.3
+[16:25:46] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.2.0
+[16:25:46] [Server thread/INFO]: [PiglinFix] Loading PiglinFix vAlpha 1.1
+[16:25:46] [Server thread/INFO]: [TAB] Loading TAB v2.8.4
+[16:25:46] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[16:25:46] [Server thread/INFO]: [CrowdLocator] Loading CrowdLocator v1.0
+[16:25:46] [Server thread/INFO]: [Lores] Loading Lores v1.4.1
+[16:25:46] [Server thread/INFO]: [AnGmode] Loading AnGmode v1.0-SNAPSHOT
+[16:25:46] [Server thread/INFO]: Preparing level "world"
+[16:25:46] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:25:46] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[16:25:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:25:46] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:25:46] [Server thread/INFO]: View Distance: 12
+[16:25:46] [Server thread/INFO]: Item Despawn Rate: 3000
+[16:25:46] [Server thread/INFO]: Item Merge Radius: 8.0
+[16:25:46] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:25:46] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:25:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:25:46] [Server thread/INFO]: Experience Merge Radius: 8.0
+[16:25:46] [Server thread/INFO]: Mob Spawn Range: 4
+[16:25:46] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[16:25:46] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[16:25:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:25:46] [Server thread/INFO]: Max TNT Explosions: 100
+[16:25:46] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[16:25:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:25:47] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[16:25:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:25:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:25:47] [Server thread/INFO]: View Distance: 12
+[16:25:47] [Server thread/INFO]: Item Despawn Rate: 3000
+[16:25:47] [Server thread/INFO]: Item Merge Radius: 8.0
+[16:25:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:25:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:25:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:25:47] [Server thread/INFO]: Experience Merge Radius: 8.0
+[16:25:47] [Server thread/INFO]: Mob Spawn Range: 4
+[16:25:47] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[16:25:47] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[16:25:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Max TNT Explosions: 100
+[16:25:47] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[16:25:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:25:47] [Server thread/INFO]: Arrow Despawn Rate: 200 Trident Respawn Rate:1200
+[16:25:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:25:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:25:47] [Server thread/INFO]: View Distance: 12
+[16:25:47] [Server thread/INFO]: Item Despawn Rate: 3000
+[16:25:47] [Server thread/INFO]: Item Merge Radius: 8.0
+[16:25:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:25:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:25:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:25:47] [Server thread/INFO]: Experience Merge Radius: 8.0
+[16:25:47] [Server thread/INFO]: Mob Spawn Range: 4
+[16:25:47] [Server thread/INFO]: Hopper Transfer: 10 Hopper Check: 10 Hopper Amount: 1
+[16:25:47] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Ra 48 / Mi 3 / Tiv false
+[16:25:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:25:47] [Server thread/INFO]: Max TNT Explosions: 100
+[16:25:47] [Server thread/INFO]: Tile Max Tick Time: 20ms Entity max Tick Time: 25ms
+[16:25:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:25:48] [Server thread/INFO]: Preparing spawn area: 0%
+[16:25:48] [Server thread/INFO]: Preparing spawn area: 0%
+[16:25:48] [Server thread/INFO]: Preparing spawn area: 0%
+[16:25:48] [Server thread/INFO]: Preparing spawn area: 0%
+[16:25:49] [Server thread/INFO]: Preparing spawn area: 84%
+[16:25:49] [Server thread/INFO]: Time elapsed: 2322 ms
+[16:25:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:25:49] [Server thread/INFO]: Preparing spawn area: 0%
+[16:25:49] [Server thread/INFO]: Preparing spawn area: 0%
+[16:25:50] [Server thread/INFO]: Time elapsed: 760 ms
+[16:25:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:25:50] [Server thread/INFO]: Preparing spawn area: 0%
+[16:25:50] [Server thread/INFO]: Time elapsed: 531 ms
+[16:25:50] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[16:25:50] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[16:25:50] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[16:25:50] [Server thread/INFO]: --------------------
+[16:25:50] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[16:25:50] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[16:25:50] [Server thread/INFO]: --------------------
+[16:25:50] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.1
+[16:25:50] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 200
+[16:25:50] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[16:25:50] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[16:25:50] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.0
+[16:25:50] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[16:25:50] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[16:25:50] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[16:25:50] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[16:25:50] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: false
+[16:25:50] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: false
+[16:25:50] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minemora.entitytrackerfixer.v1_16_R2.NMSHandler
+[16:25:50] [Server thread/WARN]: 	at java.net.URLClassLoader.findClass(Unknown Source)
+[16:25:50] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:167)
+[16:25:50] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:96)
+[16:25:50] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[16:25:50] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[16:25:50] [Server thread/WARN]: 	at java.lang.Class.forName0(Native Method)
+[16:25:50] [Server thread/WARN]: 	at java.lang.Class.forName(Unknown Source)
+[16:25:50] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.nms.NMSCheck.getNMS(NMSCheck.java:14)
+[16:25:50] [Server thread/WARN]: 	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:25)
+[16:25:50] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[16:25:50] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351)
+[16:25:50] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480)
+[16:25:50] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492)
+[16:25:50] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406)
+[16:25:50] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435)
+[16:25:50] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219)
+[16:25:50] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808)
+[16:25:50] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164)
+[16:25:50] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:25:50] [Server thread/ERROR]: [EntityTrackerFixer] Could not find support for this Spigot version.
+[16:25:50] [Server thread/ERROR]: Error occurred while enabling EntityTrackerFixer v1.3.1 (Is it up to date?)
+java.lang.NullPointerException: null
+	at net.minemora.entitytrackerfixer.EntityTrackerFixer.onEnable(EntityTrackerFixer.java:26) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:492) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:406) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:219) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.2.jar:git-Spigot-379750e-43c7ff9]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[16:25:50] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[16:25:50] [Server thread/INFO]: [OpenInv] Your version of CraftBukkit (v1_16_R2) is not supported.
+[16:25:50] [Server thread/INFO]: [OpenInv] If this version is a recent release, check for an update.
+[16:25:50] [Server thread/INFO]: [OpenInv] If this is an older version, ensure that you've downloaded the legacy support version.
+[16:25:50] [Server thread/INFO]: [ChatC] Enabling ChatC v0.5
+[16:25:50] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şÒÑÆôÓÃ£¡
+[16:25:50] [Server thread/INFO]: [ChatC] ÁÄÌì¹ÜÀí²å¼şµ±Ç°°æ±¾£ºV0.5 £¨2017Äê8ÔÂ24ÈÕ£©
+[16:25:50] [Server thread/INFO]: [ChatC] ¸ĞĞ»ÄúµÄÊ¹ÓÃ£¡
+[16:25:50] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.3
+[16:25:50] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;33;1mChecking Your version...[m
+[16:25:50] [Server thread/INFO]: [0;34;1m===============================[m
+[16:25:50] [Server thread/INFO]: [0;32;1m[m
+[16:25:50] [Server thread/INFO]: [0;32;1m GroupManager+ is now enable![m
+[16:25:50] [Server thread/INFO]: [0;32;1m [m
+[16:25:50] [Server thread/INFO]: [0;33;1m Thank you for using GroupManager+ :)[m
+[16:25:50] [Server thread/INFO]: [0;33;1m GroupManager+ is create by HappyAreaBean![m
+[16:25:50] [Server thread/INFO]: [0;36;1m Current version: [0;32;1mv3.3[m
+[16:25:50] [Server thread/INFO]: [0;32;1m [m
+[16:25:50] [Server thread/INFO]: [0;34;1m===============================[m
+[16:25:51] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mWorld Found: world[m
+[16:25:51] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mSuperperms support enabled.[m
+[16:25:51] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mScheduled Data Saving is set for every 10 minutes![m
+[16:25:51] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBackups will be retained for 24 hours![m
+[16:25:51] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mGroupManager+ v3.3 is now enabled![m
+[16:25:51] [Server thread/INFO]: [PxAutoMessage] Enabling PxAutoMessage v0.1.3
+[16:25:51] [Server thread/INFO]: [PxAutoMessage] ÕıÔÚÆô¶¯Æ¤¿ËË¹×Ô¶¯¹«¸æÏµÍ³...
+[16:25:51] [Server thread/INFO]: [PxAutoMessage] ³õÊ¼»¯ĞÅÏ¢Ä£¿é...
+[16:25:51] [Server thread/INFO]: [PxAutoMessage] ×¢²áÃüÁî¼àÌıÏµÍ³...
+[16:25:51] [Server thread/INFO]: [PxAutoMessage] ¼ÓÔØÍê±Ï£¡
+[16:25:51] [Server thread/INFO]:  
+[16:25:51] [Server thread/INFO]: > ×÷Õß£ºAn_ye (QQ:1444691679)
+[16:25:51] [Server thread/INFO]: > ±¾²å¼ş×Ô´øºº»¯£¬ÇëÎğÏàĞÅËùÎ½µÄºº»¯°æ£¡
+[16:25:51] [Server thread/INFO]: > £¨×÷ÕßµÄ»°£ºI'm Chinese.£©
+[16:25:51] [Server thread/INFO]:  
+[16:25:51] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.2.0
+[16:25:51] [Server thread/INFO]: HikariPool-1 - Starting...
+[16:25:51] [Server thread/INFO]: checkpointClose start
+[16:25:52] [Server thread/INFO]: checkpointClose synched
+[16:25:52] [Server thread/INFO]: checkpointClose script done
+[16:25:52] [Server thread/INFO]: checkpointClose end
+[16:25:52] [Server thread/INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[16:25:52] [Server thread/INFO]: HikariPool-1 - Start completed.
+[16:26:00] [Server thread/INFO]: 
+ 
+[0;30;1m[]=====[[0;37;22mEnabling AdvancedBan[0;30;1m]=====[]
+[0;30;1m| [0;31;1mInformation:
+[0;30;1m|   [0;31;1mName: [0;37;22mAdvancedBan
+[0;30;1m|   [0;31;1mDeveloper: [0;37;22mLeoko
+[0;30;1m|   [0;31;1mVersion: [0;37;22m2.2.0
+[0;30;1m|   [0;31;1mStorage: [0;37;22mHSQLDB (local)
+[0;30;1m| [0;31;1mSupport:
+[0;30;1m|   [0;31;1mGithub: [0;37;22mhttps://github.com/DevLeoko/AdvancedBan/issues
+[0;30;1m|   [0;31;1mDiscord: [0;37;22mhttps://discord.gg/ycDG6rS
+[0;30;1m| [0;31;1mTwitter: [0;37;22m@LeokoGar
+[0;30;1m| [0;31;1mUpdate:
+[0;30;1m|   [0;37;22mThere is a new version available! [2.2.1]
+[0;30;1m[]================================[][m
+ [m
+[16:26:00] [Server thread/INFO]: [PiglinFix] Enabling PiglinFix vAlpha 1.1
+[16:26:00] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mFixing Piglin drops [0;35;1m-By RanWhite[m
+[16:26:00] [Server thread/INFO]: [0;36;1m[PiglinFix][0;32;1mLastest version is new[m
+[16:26:00] [Server thread/INFO]: [TAB] Enabling TAB v2.8.4
+[16:26:00] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.16.2 (v1_16_R2)[m
+[16:26:00] [Server thread/INFO]: [0;31;1m[TAB] File [0;33;1mplugins\TAB\errors.txt[0;31;1m exists and is not empty. Please take a look at the errors and try to correct them. You can also join our discord for assistance. After you resolve them, delete the file.[m
+[16:26:00] [Server thread/INFO]: [0;31;1m[TAB] Animation "[0;33;1mWelcome[0;31;1m" does not have any texts! [0;36;1mIgnoring.[m
+[16:26:01] [Server thread/INFO]: [0;33;1m[TAB] There were 2 startup warnings.[m
+[16:26:01] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 195ms[m
+[16:26:01] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT
+[16:26:01] [Server thread/INFO]: [CrowdLocator] Enabling CrowdLocator v1.0
+[16:26:01] [Server thread/INFO]: [Lores] Enabling Lores v1.4.1
+[16:26:01] [Server thread/INFO]: [Lores] Lores 1.4.1 (Build 45) is enabled!
+[16:26:01] [Server thread/INFO]: [AnGmode] Enabling AnGmode v1.0-SNAPSHOT
+[16:26:01] [Server thread/INFO]: [AnGmode] ¡ìaÄãºÃ£¡ÎÒÊÇĞ¡°²£¬¸ĞĞ»ÄãÄÜÊ¹ÓÃÕâ¸ö²å¼ş£¡
+[16:26:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:26:01] [Server thread/INFO]: Done (14.330s)! For help, type "help"
+[16:26:01] [Server thread/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1mBukkit Permissions Updated![m
+[16:26:01] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[16:26:02] [Thread-19/INFO]: --------------------
+[16:26:02] [Thread-19/INFO]: [CoreProtect] Version 19.1 is now available.
+[16:26:02] [Thread-19/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[16:26:02] [Thread-19/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[16:26:02] [Thread-19/INFO]: --------------------
+[16:26:03] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;31;1mYour version (v3.3) is outdated download the lastest version:[m
+[16:26:03] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;32;1mhttps://www.spigotmc.org/resources/40615/[m
+[16:26:12] [User Authenticator #1/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[16:26:13] [Server thread/INFO]: Jichen233[/127.0.0.1:61873] logged in with entity id 427 at ([world]1080.370235333867, 63.0, -1791.3062601122706)
+[16:32:47] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:32:47] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[16:35:51] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[16:56:02] [Server thread/INFO]: Jichen233 fell from a high place
+[16:57:56] [Server thread/INFO]: Jichen233 hit the ground too hard
+[16:59:48] [Server thread/INFO]: Jichen233 was slain by Vindicator
+[17:00:01] [Server thread/INFO]: Jichen233 was slain by Vindicator
+[17:00:32] [Server thread/INFO]: Jichen233 was slain by Vindicator
+[17:01:22] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[17:01:22] [Server thread/INFO]: Jichen233 left the game
+[17:01:26] [User Authenticator #2/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[17:01:26] [Server thread/INFO]: Jichen233[/127.0.0.1:62238] logged in with entity id 5804 at ([world]1097.5926657901166, 63.0, -1776.2649612564865)
+[17:22:18] [Server thread/WARN]: Jichen233 was kicked for floating too long!
+[17:22:18] [Server thread/INFO]: Jichen233 lost connection: Flying is not enabled on this server
+[17:22:18] [Server thread/INFO]: Jichen233 left the game
+[17:22:30] [User Authenticator #3/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[17:22:30] [Server thread/INFO]: Jichen233[/127.0.0.1:62457] logged in with entity id 7009 at ([world]1063.770485643338, 64.03862516632056, -1797.6198303299605)
+[17:26:01] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[18:22:49] [User Authenticator #4/INFO]: UUID of player Dong_Miing is 428b1da3-2990-4eaf-b8c9-cb66dfbfb6c6
+[18:22:49] [Server thread/INFO]: Dong_Miing[/127.0.0.1:63112] logged in with entity id 10252 at ([world_nether]168.84521350686032, 115.0, 23.0107773049226)
+[18:22:54] [Server thread/INFO]: Jichen233 >> ohhhhh[m
+[18:23:02] [Server thread/INFO]: Dong_Miing >> ohhhhhhhhhhh[m
+[18:23:07] [Server thread/INFO]: Dong_Miing >> jichen!!![m
+[18:23:12] [Server thread/INFO]: Dong_Miing >> ÎÒÊÇCMZ[m
+[18:23:19] [Server thread/INFO]: Jichen233 >> awa[m
+[18:23:21] [Server thread/INFO]: Dong_Miing >> ¾¹È»ÓĞ»îÈË£¡[m
+[18:23:31] [Server thread/INFO]: Dong_Miing >> ¸Ğ¶¯[m
+[18:23:43] [Server thread/INFO]: Dong_Miing >> ÄãÔÚÄÄ£¿[m
+[18:23:52] [Server thread/INFO]: Jichen233 >> ¼ÒÀï[m
+[18:23:56] [Server thread/INFO]: Jichen233 >> ([m
+[18:23:59] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[18:24:27] [Server thread/INFO]: Dong_Miing >> ·Å¼ÙÁË£¿£¨ÖÜÄ©[m
+[18:24:43] [Server thread/INFO]: Dong_Miing issued server command: /co i
+[18:24:52] [Server thread/INFO]: Jichen233 >> ÖÜÄ©([m
+[18:24:52] [Server thread/INFO]: Dong_Miing issued server command: /co i
+[18:25:25] [Server thread/INFO]: Jichen233 >> Ò»µ½¾ÅÔÂ¾ÍÃ»ÈËÁË[m
+[18:25:27] [Server thread/INFO]: Jichen233 >> º¦[m
+[18:25:30] [Server thread/INFO]: Dong_Miing >> ¶÷[m
+[18:25:34] [Server thread/INFO]: Dong_Miing >> Õı³£[m
+[18:25:47] [Server thread/INFO]: Dong_Miing >> »°Ëµ[m
+[18:25:51] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[18:25:58] [Server thread/INFO]: Dong_Miing >> Êî¼ÙÃ»¿´ÄãÔõÃ´ÉÏÏß¡£-¡£[m
+[18:26:01] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÏëÒª»ñÈ¡¸ü¶à°ïÖú£¿²éÔÄ¿ÕÓòÈºÎÄ¼şÄÚµÄ°ïÖúÎÄµµ°É£¡ [m
+[18:26:30] [Server thread/INFO]: Jichen233 >> 22-30ºÅÃ»ÉÏ¹ıÏß[m
+[18:26:43] [Server thread/INFO]: Dong_Miing >> ÎÒÕıºÃ»ØÀ´[m
+[18:26:46] [Server thread/INFO]: Dong_Miing >> »Ø¸´ÎäÆ÷[m
+[18:26:46] [Server thread/INFO]: Jichen233 >> Éú»îËùÆÈ(Ö¸×÷Òµ[m
+[18:26:48] [Server thread/INFO]: Dong_Miing >> ·şÎñÆ÷[m
+[18:26:50] [Server thread/INFO]: Jichen233 >> az[m
+[18:27:03] [Server thread/INFO]: Dong_Miing >> ÕâÊÇÔªÏü´ó´ó½èÎÒµÄºÅ[m
+[18:27:14] [Server thread/INFO]: Jichen233 >> emm[m
+[18:27:18] [User Authenticator #5/INFO]: UUID of player Envy_Cloud is c5f83320-e8be-418f-81c1-e1f3ea1f99d5
+[18:27:18] [Server thread/INFO]: Envy_Cloud[/127.0.0.1:63162] logged in with entity id 10951 at ([world]3051.459647478359, 62.9375, 606.6876590623881)
+[18:27:22] [Server thread/INFO]: Jichen233 >> ohhhhh[m
+[18:27:22] [Server thread/INFO]: Dong_Miing >> Ä½ÔÆ£¡[m
+[18:27:27] [Server thread/INFO]: Jichen233 >> Ä½ÔÆ![m
+[18:27:35] [Server thread/INFO]: Dong_Miing >> »îÈË+1[m
+[18:27:47] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[18:27:50] [Server thread/INFO]: Dong_Miing >> Ä½ÔÆ£¿[m
+[18:27:56] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> ²»ÊÇ±¾ÈË[m
+[18:28:01] [Server thread/INFO]: Dong_Miing >> ????[m
+[18:28:04] [Server thread/INFO]: Jichen233 >> qwq[m
+[18:28:15] [Server thread/INFO]: Jichen233 >> ÖÁÉÙÊÇ»îÈË([m
+[18:28:24] [Server thread/INFO]: Dong_Miing >> ÄÇÄãÊÇ...[m
+[18:28:47] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> ÅóÓÑ£¨[m
+[18:29:04] [Server thread/INFO]: Dong_Miing >> Ä½ÔÆµÄÅóÓÑºÃ£¨[m
+[18:29:08] [Server thread/INFO]: Jichen233 >> az[m
+[18:29:24] [Server thread/INFO]: [0;32;1m<Éîº£ÁµÈË>[0;37;1m Envy_Cloud >> ËıÔÚÍâÃæ[m
+[18:30:07] [Server thread/INFO]: Dong_Miing >> aaaa[m
+[18:30:13] [Server thread/INFO]: Dong_Miing >> ÎÒÈË¶¼¿ì·èÁË[m
+[18:30:20] [Server thread/INFO]: Dong_Miing >> ¸ãÕâ¸öÏ®»÷Ëş[m
+[18:30:28] [Server thread/INFO]: Dong_Miing >> ÓĞÈËÀ´°ïÃ¦Âğ£¿[m
+[18:30:44] [Server thread/INFO]: Jichen233 >> ÎÒÔÚÖÖÌï([m
+[18:31:06] [Server thread/INFO]: Envy_Cloud lost connection: Disconnected
+[18:31:06] [Server thread/INFO]: Envy_Cloud left the game
+[18:31:10] [Server thread/INFO]: Jichen233 >> qwq[m
+[18:31:16] [Server thread/INFO]: Dong_Miing >> Ä½ÔÆµÄÅóÓÑÔÙ¼û[m
+[18:31:19] [Server thread/INFO]: Dong_Miing >> ([m
+[18:32:06] [Server thread/INFO]: Dong_Miing >> Jichen233[m
+[18:32:09] [Server thread/INFO]: Jichen233 >> ?[m
+[18:32:16] [Server thread/INFO]: Dong_Miing >> ÄãÓĞºÏ½ğ×°±¸ÁËÂğ£¿[m
+[18:32:33] [Server thread/INFO]: Jichen233 >> Ö»ÓĞ½£ºÍ¸ä×Ó[m
+[18:33:16] [Server thread/INFO]: Dong_Miing >> µÈ»áÔ¸ÒâÀ´°ïÃ¦Âğ£¿[m
+[18:33:32] [Server thread/INFO]: Jichen233 >> ¿ÉÄÜ²»ĞĞqwq[m
+[18:33:39] [Server thread/INFO]: Dong_Miing >> emmm[m
+[18:33:58] [Server thread/INFO]: Jichen233 >> lzwÏÂÎç¾ÍÔÚ´ßÎÒ°Ñ°ë×Ô¶¯Å©³¡×öºÃqwq[m
+[18:34:10] [Server thread/INFO]: Dong_Miing >> ºÃ°Éqwq[m
+[18:34:35] [Server thread/INFO]: Dong_Miing >> ÎÒÃÇ°ÑÏ®»÷Ëş×öºÃÒª¸ãÉ³µñ»úÁË[m
+[18:35:02] [Server thread/INFO]: Jichen233 >> Ô­±¾µÄÏ®»÷Ëş»µÁËÂğ[m
+[18:35:08] [Server thread/INFO]: Dong_Miing >> ²»ÊÇ[m
+[18:35:20] [Server thread/INFO]: Dong_Miing >> ±ÈÒÔÇ°¸ßĞ§¼¸°Ù±¶µÄ[m
+[18:35:27] [Server thread/INFO]: Dong_Miing >> È«×Ô¶¯[m
+[18:35:37] [Server thread/INFO]: Jichen233 >> awa[m
+[18:35:42] [Server thread/INFO]: Dong_Miing >> ÎÒÃÇÒª¸ãĞĞĞÇ·¢¶¯»úÁË£¨[m
+[18:35:45] [Server thread/INFO]: Dong_Miing >> Ô¤¼Æº®¼Ù[m
+[18:35:51] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[18:36:02] [Server thread/INFO]: Jichen233 >> ÄÇÊÇÊ²Ã´qwq[m
+[18:36:23] [Server thread/INFO]: Dong_Miing >> Á÷ÀËµØÇòµÄÄÇ¸ö[m
+[18:36:33] [Server thread/INFO]: Jichen233 >> az[m
+[18:36:44] [Server thread/INFO]: Dong_Miing >> HIT·şÎñÆ÷Ò²ÓĞ[m
+[18:36:56] [Server thread/INFO]: Dong_Miing >> ·½±ãË¯¾õÂğ£¿[m
+[18:37:01] [Server thread/INFO]: Dong_Miing >> ÏÖÔÚ[m
+[18:37:02] [Server thread/INFO]: Jichen233 >> en[m
+[18:37:08] [Server thread/INFO]: Dong_Miing >> Ë¯Ò»ÏÂ~~~qwq[m
+[18:37:09] [User Authenticator #6/INFO]: UUID of player Laohuaji is 6b964e9d-569f-44a7-9ad5-a0b50af836cb
+[18:37:09] [Server thread/INFO]: Laohuaji[/127.0.0.1:63298] logged in with entity id 13531 at ([world]3046.578248090129, 74.0, 607.3000000119209)
+[18:37:11] [Server thread/INFO]: Dong_Miing >> zzzzzz[m
+[18:37:14] [Server thread/INFO]: Jichen233 >> ohhhh[m
+[18:37:15] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[18:37:15] [Server thread/INFO]: Jichen233 >> zzz[m
+[18:37:19] [Server thread/INFO]: Dong_Miing >> »¬»ü¸ç[m
+[18:37:25] [Server thread/INFO]: Dong_Miing >> ·½±ãË¯¾õÂğ£¿[m
+[18:37:35] [Server thread/INFO]: Dong_Miing >> Ë¯²»ÁËÈ¥ÏÂµØÓü£¨[m
+[18:37:39] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÕâÄ½ÔÆÒ»¿´¾ÍÊÇÕæµÄ£¨[m
+[18:37:43] [Server thread/INFO]: Jichen233 >> e[m
+[18:37:44] [Server thread/INFO]: Dong_Miing >> °¡Õâ£¿[m
+[18:37:55] [Server thread/INFO]: Dong_Miing >> ÄÇ[m
+[18:38:01] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÄãÃÇ£¬¾ÓÈ»ĞÅÁËËûµÄ¹í»°[m
+[18:38:10] [Server thread/INFO]: Dong_Miing >> Ëû£¿[m
+[18:38:14] [Server thread/INFO]: Dong_Miing >> ÒªËØ²ì¾õ£¨[m
+[18:38:15] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> Ëû[m
+[18:38:18] [Server thread/INFO]: Jichen233 >> ÎÒÊÇÃ»ĞÅ[m
+[18:38:22] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> Ëı[m
+[18:38:26] [Server thread/INFO]: Dong_Miing >> ÎÒÒ²Ã»ÓĞ£¨[m
+[18:38:36] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÊäÈë·¨Õ¦±äµÃ×ÀÃæº©Åú[m
+[18:38:40] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> (((((((((((([m
+[18:38:46] [Server thread/INFO]: Jichen233 >> Ä½ ÔÆ µÄ Åó ÓÑ ÔÙ ¼û[m
+[18:38:49] [Server thread/INFO]: Jichen233 >> (([m
+[18:38:54] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[18:39:04] [Server thread/INFO]: Jichen233 >> ÎÒÈ¥Ç¡·¹qwq[m
+[18:39:11] [Server thread/INFO]: Dong_Miing >> 886[m
+[18:39:13] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> È¥°É£¨[m
+[18:39:16] [Server thread/INFO]: Jichen233 lost connection: Disconnected
+[18:39:16] [Server thread/INFO]: Jichen233 left the game
+[18:39:27] [Server thread/INFO]: Laohuaji issued server command: /tp Dong_Miing
+[18:39:27] [Server thread/INFO]: [Laohuaji: Teleported Laohuaji to Dong_Miing]
+[18:40:01] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[18:40:25] [Server thread/INFO]: Dong_Miing >> ¶ñĞÄÂğ£¿¶ñĞÄ¾ÍÊÇºÃÏ®»÷Ëş[m
+[18:40:28] [Server thread/INFO]: Dong_Miing >> ([m
+[18:41:28] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÕâÎïÆ··ÖÀà¼ÙµÄ°É£¨[m
+[18:41:33] [Server thread/INFO]: Dong_Miing >> az?[m
+[18:41:38] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> Õ¦É¶Ò²Ã»ÓĞ£¨[m
+[18:41:44] [Server thread/INFO]: Dong_Miing >> ÒòÎª[m
+[18:41:55] [Server thread/INFO]: Dong_Miing >> Ï®»÷Ëş»¹ÊÇ¼ÙµÄ£¨[m
+[18:42:00] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÎªÉ¶£¨[m
+[18:42:08] [Server thread/INFO]: Dong_Miing >> ÄÕ¹íÒÖÖÆ[m
+[18:42:11] [Server thread/INFO]: Dong_Miing >> Ã»×ö[m
+[18:42:11] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ([m
+[18:42:17] [Server thread/INFO]: Dong_Miing >> ÎÒµÄÈÎÎñÊÇ[m
+[18:42:28] [Server thread/INFO]: Dong_Miing >> »î×½4¸öÄÕ¹í[m
+[18:42:30] [Server thread/INFO]: Dong_Miing >> ²İ[m
+[18:42:32] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ([m
+[18:45:28] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> Äã¼ÓÓÍ[m
+[18:45:33] [Server thread/INFO]: [0;33;22m<¹ÜÀí>[0;37;1m Laohuaji >> ÎÒsteamÈ¥ÁË[m
+[18:45:33] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[18:45:40] [Server thread/INFO]: Dong_Miing >> 886[m
+[18:45:51] [pool-5-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[18:46:15] [Server thread/INFO]: Laohuaji lost connection: Disconnected
+[18:46:15] [Server thread/INFO]: Laohuaji left the game
+[18:47:38] [User Authenticator #7/INFO]: UUID of player Jichen233 is ba422888-c323-43f5-9002-eda655f75e57
+[18:47:39] [Server thread/INFO]: Jichen233[/127.0.0.1:63409] logged in with entity id 14952 at ([world]1047.300000011921, 67.0, -1804.699999988079)
+[18:48:34] [Server thread/INFO]: Dong_Miing >> ÎÒµÄÂèÑ½[m
+[18:48:40] [Server thread/INFO]: Jichen233 >> ?[m
+[18:48:50] [Server thread/INFO]: Dong_Miing >> ÎÒÌ«ÄÑÁË[m
+[18:48:54] [Server thread/INFO]: Jichen233 >> az[m
+[18:49:18] [Server thread/INFO]: Dong_Miing was slain by Ravager
+[18:49:23] [Server thread/INFO]: Jichen233 >> qaq[m
+[18:49:29] [Server thread/INFO]: Dong_Miing >> ¾ÈÃü[m
+[18:49:52] [Server thread/INFO]: Dong_Miing >> woc[m
+[18:49:56] [Server thread/INFO]: Jichen233 >> ÔÚÄÄ[m
+[18:49:58] [Server thread/INFO]: Jichen233 >> ?[m
+[18:50:02] [Server thread/INFO]: Dong_Miing >> Ï®»÷Ëş[m
+[18:50:17] [Server thread/INFO]: Jichen233 >> Ô­±¾ÄÇÀïÂğ[m
+[18:50:24] [Server thread/INFO]: Dong_Miing >> ÁíÒ»±ß[m
+[18:50:44] [Server thread/INFO]: Jichen233 >> ÁíÒ»±ßÊÇÄÄ±ßqwq[m
+[18:50:47] [Server thread/INFO]: Dong_Miing >> emmm[m
+[18:51:27] [Server thread/INFO]: Dong_Miing was slain by Vex
+[18:52:37] [Server thread/INFO]: Dong_Miing >> sos[m
+[18:52:45] [Server thread/INFO]: Dong_Miing >> ³å²»ÉÏÈ¥[m
+[18:52:59] [Server thread/INFO]: Jichen233 >> ÎÒ²îµã¿¨±À[m
+[18:53:06] [Server thread/INFO]: Jichen233 >> ×ø±ê[m
+[18:53:15] [Server thread/INFO]: Dong_Miing fell from a high place
+[18:53:19] [Server thread/INFO]: Jichen233 >> e[m
+[18:53:21] [Server thread/INFO]: Dong_Miing >> sos[m
+[18:53:36] [Server thread/INFO]: Dong_Miing >> sos[m
+[18:53:40] [Server thread/INFO]: Jichen233 >> ×ø±ê[m
+[18:53:51] [Server thread/INFO]: Dong_Miing >> ¾ÍÊÇÏ®»÷ËşµØÓüÃÅ[m
+[18:53:55] [Server thread/INFO]: Dong_Miing >> ½øÀ´[m
+[18:54:04] [Server thread/INFO]: Dong_Miing was slain by Vex
+[18:54:45] [Server thread/INFO]: Dong_Miing >> Ü³[m
+[18:54:47] [Server thread/INFO]: Dong_Miing >> ÍêÁË[m
+[18:54:58] [Server thread/INFO]: Dong_Miing >> ×°±¸Ë¢Ã»ÁË[m
+[18:55:04] [Server thread/INFO]: Dong_Miing >> ÎÒµÄÇÊ³á°¡[m
+[18:55:10] [Server thread/INFO]: Jichen233 >> qaq[m
+[18:55:27] [Server thread/INFO]: Dong_Miing >> aaaa[m
+[18:55:33] [Server thread/INFO]: Dong_Miing >> aaaa[m
+[18:56:18] [Server thread/INFO]: Dong_Miing >> ĞÄÌ¬±ÀÁË[m
+[18:56:29] [Server thread/INFO]: Dong_Miing >> ÎÒ¡­¡­¡­¡­¡­¡­¡­¡­[m
+[18:57:23] [Server thread/INFO]: Jichen233 >> ÎÒµÄtps¼«²»ÎÈ¶¨[m
+[18:57:27] [Server thread/INFO]: Dong_Miing >> °¡°¡°¡[m
+[18:57:30] [Server thread/INFO]: Dong_Miing >> °¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡[m
+[18:57:52] [Server thread/INFO]: Dong_Miing >> ÎÒµÄÊÀ½çÌ«»ÙÈËĞÄÌ¬ÁË°¡°¡°¡°¡[m
+[18:58:30] [Server thread/INFO]: Dong_Miing >> ·îÈ°Äã[m
+[18:58:32] [Server thread/INFO]: Dong_Miing >> ±ğÈ¥ÁË[m
+[18:58:37] [Server thread/INFO]: Jichen233 >> az?[m
+[18:58:43] [Server thread/INFO]: Dong_Miing >> ÏÈ´æ¸ö[m
+[18:58:46] [Server thread/INFO]: Dong_Miing >> ´æµµµã[m
+[18:58:49] [Server thread/INFO]: Dong_Miing >> ÔÙËµ[m
+[18:59:03] [Server thread/INFO]: Dong_Miing >> Ì«ÃÍÁË[m
+[18:59:28] [Server thread/INFO]: Dong_Miing >> ¼ÇµÃÄÃÍ¼ÌÚ[m
+[18:59:45] [Server thread/INFO]: Jichen233 >> ÄÄÓĞ[m
+[18:59:50] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[18:59:53] [Server thread/INFO]: Dong_Miing >> Ô­À´µÄ[m
+[18:59:55] [Server thread/INFO]: Dong_Miing >> Ï®»÷Ëş[m
+[18:59:57] [Server thread/INFO]: Dong_Miing >> ¹À¼ÆÓĞ[m
+[18:59:59] [Server thread/INFO]: Jichen233 >> Ä©Ó°ÏäÓĞÂğ[m
+[19:00:03] [Server thread/INFO]: Dong_Miing >> ÓĞ[m
+[19:00:29] [Server thread/INFO]: Dong_Miing >> Ñ¹¸ù´ò²»µ½µÚ8²¨[m
+[19:00:46] [Server thread/INFO]: Dong_Miing >> ÎÒÃÇµÃ´òµ½µÚ°Ë²¨[m
+[19:00:58] [Server thread/INFO]: Dong_Miing >> ½ñÌì²»Ò»¶¨Òª[m
+[19:01:00] [Server thread/INFO]: Dong_Miing >> Ì«ÄÑÁË[m
+[19:01:07] [Server thread/INFO]: Dong_Miing >> »¹ÊÇ·Åº®¼Ù[m
+[19:01:12] [Server thread/INFO]: Jichen233 >> ÎÒÉµÁË[m
+[19:01:19] [Server thread/INFO]: Dong_Miing >> ÈÃÈ«·şÎñÆ÷µÄÈËÀ´°É£¨[m
+[19:01:26] [Server thread/INFO]: Jichen233 >> ²Å·¢ÏÖÄÃÁË°Ñ¾­ÑéĞŞ²¹µÄ¹­[m
+[19:01:35] [Server thread/INFO]: Dong_Miing >> emmmm[m
+[19:02:24] [Server thread/INFO]: Dong_Miing >> ÎÒÊÇº£¾§×îÇ¿°Ü¼ÒÃ»´íÁË[m
+[19:02:50] [Server thread/INFO]: Dong_Miing >> ÎÒÈ¥×Ï¾§ÖíÈËËş¹Òµã¾­Ñé[m
+[19:02:54] [Server thread/INFO]: Jichen233 >> en[m
+[19:02:59] [Server thread/INFO]: Dong_Miing >> ÖØĞÂ¸ã×°±¸[m
+[19:03:09] [Server thread/INFO]: Dong_Miing >> ÇÊ³áµÄ»°[m
+[19:03:11] [Server thread/INFO]: Dong_Miing >> ²»ºÃËµ[m
+[19:03:23] [Server thread/INFO]: Dong_Miing >> Äã±£ÖØ[m
+[19:03:59] [Server thread/INFO]: Dong_Miing >> Äã½ñÌì´òÍêÕâ¸öÏ®»÷¾Í¹»ÁË[m
+[19:04:03] [Server thread/INFO]: Jichen233 >> en[m
+[19:04:17] [Server thread/INFO]: Dong_Miing >> µ½Ê±ºòÕÙ¼¯È«·şÎñÆ÷µÄÈËÀ´£¨[m
+[19:04:32] [Server thread/INFO]: Dong_Miing >> Ò»Æğ°×¸ø£¨[m
+[19:04:35] [Server thread/INFO]: Jichen233 >> az[m
+[19:05:25] [Server thread/INFO]: Dong_Miing >> ÓĞĞ©ÈË[m
+[19:05:28] [Server thread/INFO]: Dong_Miing >> ¹Ò»ú[m
+[19:05:33] [Server thread/INFO]: Dong_Miing >> ¹Ò×Å¹Ò×Å¾ÍÃ»ÁË[m
+[19:06:08] [Server thread/INFO]: Dong_Miing >> ¹Ò»úÁË[m
+[19:06:09] [Server thread/INFO]: Dong_Miing >> 886[m
+[19:06:12] [Server thread/INFO]: Jichen233 >> en[m
+[19:06:24] [Server thread/INFO]: Dong_Miing >> ¹Ò»úĞ´ÎïÀí£¨[m
+[19:06:27] [Server thread/INFO]: Jichen233 >> az[m

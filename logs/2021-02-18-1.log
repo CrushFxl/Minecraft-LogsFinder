@@ -1,0 +1,782 @@
+[00:01:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[00:43:35] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1b6c1a08[id=<null>,name=Fukoooo,properties={},legacy=false] (/127.0.0.1:56836): Took too long to log in
+[00:43:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b6c1a08[id=<null>,name=Fukoooo,properties={},legacy=false] (/127.0.0.1:56836) lost connection: Took too long to log in
+[00:43:43] [User Authenticator #34/INFO]: UUID of player Fukoooo is f957285b-78cb-4045-9b47-5af0d4e3679b
+[00:43:43] [Server thread/INFO]: Fukoooo[/127.0.0.1:56840] logged in with entity id 114671 at ([world]-217.30000001192093, 99.0, -448.43980903507537)
+[00:43:45] [User Authenticator #33/INFO]: UUID of player Tatsu999999 is 6f70eec2-2625-49ee-bcff-603ab702a4ae
+[00:43:45] [Server thread/INFO]: Tatsu999999[/127.0.0.1:56843] logged in with entity id 114816 at ([world]-2046.6668926174598, 75.0, 38.30584926454435)
+[00:43:45] [User Authenticator #32/INFO]: Disconnecting com.mojang.authlib.GameProfile@1b6c1a08[id=<null>,name=Fukoooo,properties={},legacy=false] (/127.0.0.1:56836): Authentication servers are down. Please try again later, sorry!
+[00:43:45] [User Authenticator #32/ERROR]: Couldn't verify username because servers are unavailable
+[00:51:50] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[01:01:51] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[01:01:56] [Server thread/INFO]: Tatsu999999 issued server command: /qd
+[01:01:56] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mTatsu999999 [0;33;22mÄ¿Ç°ÓĞ [0;32;1m21 [0;33;22m¹±Ï×µãÊı[m
+[01:04:08] [Server thread/INFO]: Tatsu999999 has reached the goal [Postmortal]
+[01:51:14] [Server thread/WARN]: Tatsu999999 moved wrongly!
+[01:55:16] [Server thread/INFO]: Fukoooo has made the advancement [Suit Up]
+[01:59:23] [Server thread/INFO]: Fukoooo lost connection: Disconnected
+[01:59:23] [Server thread/INFO]: Fukoooo left the game
+[01:59:25] [Server thread/INFO]: Tatsu999999 lost connection: Disconnected
+[01:59:25] [Server thread/INFO]: Tatsu999999 left the game
+[02:01:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[03:01:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[04:01:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[05:01:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[06:01:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[07:01:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[08:01:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[09:01:50] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[09:05:03] [User Authenticator #35/INFO]: UUID of player Auston_mc is 35ef1ee7-074f-4c20-9a2c-979058ac2fbf
+[09:05:03] [Server thread/INFO]: Auston_mc[/127.0.0.1:59170] logged in with entity id 130531 at ([world]2756.74067498114, 76.0, -370.1597011891928)
+[09:05:25] [Server thread/INFO]: Auston_mc lost connection: Disconnected
+[09:05:25] [Server thread/INFO]: Auston_mc left the game
+[09:11:50] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[09:27:33] [User Authenticator #36/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[09:27:33] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:59357] logged in with entity id 131170 at ([world]-517.6834620565517, 68.5625, -560.1547953263433)
+[09:29:06] [User Authenticator #37/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[09:29:06] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:59368] logged in with entity id 131573 at ([world_nether]-62.64232101873106, 116.00210009663522, -53.5679287808182)
+[09:29:17] [Server thread/WARN]: Minecraft_xyzj was kicked for floating too long!
+[09:29:17] [Server thread/INFO]: Minecraft_xyzj lost connection: Flying is not enabled on this server
+[09:29:17] [Server thread/INFO]: Minecraft_xyzj left the game
+[09:29:24] [User Authenticator #38/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[09:29:24] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:59371] logged in with entity id 131589 at ([world_nether]-62.64232101873106, 115.0, -53.5679287808182)
+[09:29:55] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Õæ¾Í»ØµµÁË[m
+[09:29:59] [Server thread/INFO]: Minecraft_xyzj >> ?[m
+[09:30:13] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Ò»µãµã[m
+[09:31:50] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[09:32:20] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ¶«Î÷É¶µÄÏÈ·ÅºĞ×ÓÀïÁË[m
+[09:32:28] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> º¢×ÓÒªĞ´×÷Òµ[m
+[09:32:41] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[09:32:41] [Server thread/INFO]: Minecraft_xyzj left the game
+[10:01:51] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[10:01:55] [Server thread/INFO]: the_yellowleaf issued server command: /qd
+[10:01:55] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mthe_yellowleaf [0;33;22mÄ¿Ç°ÓĞ [0;32;1m46 [0;33;22m¹±Ï×µãÊı[m
+[10:02:03] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[10:02:03] [Server thread/INFO]: the_yellowleaf left the game
+[10:30:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@1bbdc018[id=<null>,name=the_yellowleaf,properties={},legacy=false] (/127.0.0.1:59661) lost connection: Disconnected
+[10:30:39] [User Authenticator #40/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[10:30:39] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:59665] logged in with entity id 194601 at ([world]-217.65017852541595, 117.0, -448.43568680674025)
+[10:48:01] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[10:48:04] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[11:01:01] [User Authenticator #41/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[11:01:01] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:59821] logged in with entity id 202697 at ([world_nether]-53.86946252221852, 115.0, 21.32612197464029)
+[11:01:23] [Server thread/INFO]: Minecraft_xyzj issued server command: /CO I
+[11:01:23] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ºÚÊ¯²»¹»ÁË£º£¨[m
+[11:01:30] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÏÈ³Ô·¹°É£º£¨[m
+[11:01:31] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[11:01:31] [Server thread/INFO]: the_yellowleaf left the game
+[11:01:36] [Server thread/INFO]: Minecraft_xyzj issued server command: /CO I
+[11:01:51] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[11:04:12] [Server thread/WARN]: Minecraft_xyzj was kicked for floating too long!
+[11:04:12] [Server thread/INFO]: Minecraft_xyzj lost connection: Flying is not enabled on this server
+[11:04:12] [Server thread/INFO]: Minecraft_xyzj left the game
+[11:04:16] [User Authenticator #42/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[11:04:16] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:59837] logged in with entity id 203782 at ([world_nether]21.48960385471428, 51.0, 1571.699999988079)
+[11:13:50] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[11:13:50] [Server thread/INFO]: Minecraft_xyzj left the game
+[11:17:58] [User Authenticator #43/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[11:17:58] [Server thread/INFO]: Ghost_king_[/127.0.0.1:59895] logged in with entity id 211619 at ([world]5273.300000011921, 115.0, -615.9875000119209)
+[11:18:12] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[11:18:12] [Server thread/INFO]: Ghost_king_ left the game
+[11:18:19] [User Authenticator #44/INFO]: UUID of player Ghost_king_ is 6002c9d3-cab7-400d-ab30-91efe77f93e3
+[11:18:20] [Server thread/INFO]: Ghost_king_[/127.0.0.1:59899] logged in with entity id 211764 at ([world]5274.241797124393, 113.0, -624.4326470234831)
+[11:34:18] [Server thread/INFO]: Ghost_king_ lost connection: Disconnected
+[11:34:18] [Server thread/INFO]: Ghost_king_ left the game
+[12:01:43] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[12:12:01] [User Authenticator #45/INFO]: UUID of player YJL5709 is a634820e-3500-46c4-9e22-250a3e9c34fc
+[12:12:01] [Server thread/INFO]: YJL5709[/127.0.0.1:60159] logged in with entity id 214223 at ([world]-118.83152031406675, 65.0, 262.0825464455634)
+[12:15:37] [Server thread/INFO]: YJL5709 has made the advancement [A Terrible Fortress]
+[12:16:46] [Server thread/INFO]: YJL5709 has made the advancement [Stone Age]
+[12:16:57] [Server thread/INFO]: YJL5709 has made the advancement [Into Fire]
+[12:19:42] [Server thread/INFO]: YJL5709 has made the advancement [Monster Hunter]
+[12:21:43] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[12:26:36] [Server thread/WARN]: YJL5709 moved too quickly! -7.271967868262493,-13.0,7.4436836186068405
+[12:26:53] [Server thread/WARN]: YJL5709 moved too quickly! -2.989128983617796,-62.0,-7.888550832228752
+[12:27:23] [Server thread/INFO]: YJL5709 >> ÓĞÈËÂğ£¿[m
+[12:27:46] [Server thread/WARN]: YJL5709 moved too quickly! -0.8396886476486092,-13.0,6.070149055749241
+[12:30:23] [Server thread/INFO]: YJL5709 has made the advancement [Suit Up]
+[12:35:36] [Server thread/INFO]: YJL5709 has made the advancement [Sweet Dreams]
+[12:41:23] [Server thread/INFO]: YJL5709 has made the advancement [Take Aim]
+[12:43:19] [Server thread/INFO]: YJL5709 has made the advancement [Hidden in the Depths]
+[12:48:34] [User Authenticator #46/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[12:48:34] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:60304] logged in with entity id 215903 at ([world_nether]-55.71802362259928, 115.79673560066871, -28.372894808568333)
+[12:48:44] [Server thread/WARN]: Minecraft_xyzj was kicked for floating too long!
+[12:48:44] [Server thread/INFO]: Minecraft_xyzj lost connection: Flying is not enabled on this server
+[12:48:44] [Server thread/INFO]: Minecraft_xyzj left the game
+[12:48:51] [User Authenticator #47/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[12:48:51] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:60307] logged in with entity id 215924 at ([world_nether]-55.71802362259928, 114.89130324819143, -28.372894808568333)
+[12:48:59] [Server thread/INFO]: YJL5709 >> ÓĞÈËÂğ£¿[m
+[12:49:07] [Server thread/INFO]: Minecraft_xyzj >> ÓĞ[m
+[12:50:36] [Server thread/INFO]: Minecraft_xyzj >> ÖĞÎç¹À¼ÆÈË¶¼È¥¸É·¹ÁË[m
+[12:51:56] [Server thread/INFO]: YJL5709 >> ´«ËÍ[m
+[12:52:04] [Server thread/INFO]: Minecraft_xyzj >> ?[m
+[12:52:35] [Server thread/INFO]: YJL5709 >> -13 72 196[m
+[12:52:37] [Server thread/INFO]: There are 2 of a max of 50 players online: YJL5709, Minecraft_xyzj
+[12:53:12] [Server thread/INFO]: Minecraft_xyzj issued server command: /home
+[12:53:13] [Server thread/INFO]: Minecraft_xyzj issued server command: /home
+[12:53:59] [Server thread/INFO]: YJL5709 >> xyzj ×ø±ê¸æËßÎÒ[m
+[12:54:12] [Server thread/INFO]: Minecraft_xyzj >> ?[m
+[12:54:22] [Server thread/INFO]: YJL5709 >> F3[m
+[12:54:36] [Server thread/INFO]: Minecraft_xyzj >> ÄãÒª×ø±ê¸ÉÉ¶[m
+[12:54:54] [Server thread/INFO]: YJL5709 >> ÎÒÀ´ÕÒÄã[m
+[12:56:04] [Server thread/INFO]: YJL5709 >> ÎÒÏÂÏßÁË[m
+[12:56:05] [Server thread/INFO]: YJL5709 lost connection: Disconnected
+[12:56:05] [Server thread/INFO]: YJL5709 left the game
+[12:57:10] [User Authenticator #48/INFO]: UUID of player XIAONNNN is 4ee2d1d2-4623-4269-8970-d510eea89e8f
+[12:57:10] [Server thread/INFO]: XIAONNNN[/127.0.0.1:60394] logged in with entity id 218221 at ([world]-78.5, 69.0, 260.5)
+[12:57:58] [Server thread/INFO]: XIAONNNN has made the advancement [We Need to Go Deeper]
+[12:59:30] [Server thread/WARN]: Minecraft_xyzj moved wrongly!
+[12:59:30] [Server thread/WARN]: Minecraft_xyzj moved wrongly!
+[12:59:30] [Server thread/WARN]: Minecraft_xyzj moved wrongly!
+[12:59:30] [Server thread/WARN]: Minecraft_xyzj moved wrongly!
+[12:59:30] [Server thread/WARN]: Minecraft_xyzj moved wrongly!
+[13:01:43] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[13:01:44] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[13:01:51] [Server thread/INFO]: Minecraft_xyzj issued server command: /qd
+[13:01:51] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mMinecraft_xyzj [0;33;22mÄ¿Ç°ÓĞ [0;32;1m82 [0;33;22m¹±Ï×µãÊı[m
+[13:01:52] [Server thread/INFO]: XIAONNNN issued server command: /p
+[13:02:01] [Server thread/INFO]: XIAONNNN issued server command: /points me
+[13:02:14] [Server thread/INFO]: XIAONNNN issued server command: /points Minecraft_xyzj
+[13:07:37] [Server thread/INFO]: XIAONNNN has made the advancement [Monster Hunter]
+[13:08:43] [Server thread/INFO]: XIAONNNN has made the advancement [Stone Age]
+[13:09:08] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[13:09:08] [Server thread/INFO]: Minecraft_xyzj left the game
+[13:09:20] [Server thread/INFO]: XIAONNNN issued server command: /points me
+[13:10:02] [Server thread/INFO]: XIAONNNN has made the advancement [Getting an Upgrade]
+[13:18:54] [Server thread/INFO]: XIAONNNN has made the advancement [Suit Up]
+[13:19:05] [Server thread/INFO]: XIAONNNN has made the advancement [Acquire Hardware]
+[13:19:16] [Server thread/INFO]: XIAONNNN has made the advancement [Isn't It Iron Pick]
+[13:20:08] [User Authenticator #49/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[13:20:08] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:60484] logged in with entity id 223915 at ([world]2775.5669262145216, 63.0, -395.6606497990554)
+[13:23:43] [Server thread/INFO]: XIAONNNN lost connection: Disconnected
+[13:23:43] [Server thread/INFO]: XIAONNNN left the game
+[13:34:59] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[13:35:06] [Server thread/INFO]: the_yellowleaf issued server command: /co i
+[13:41:53] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[13:41:53] [Server thread/INFO]: the_yellowleaf left the game
+[13:49:40] [User Authenticator #50/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[13:49:40] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:60591] logged in with entity id 228388 at ([world_nether]205.5163389372922, 84.0, 1755.512682739172)
+[13:50:06] [Server thread/INFO]: Minecraft_xyzj issued server command: /px mode
+[13:50:09] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[13:50:09] [Server thread/INFO]: Minecraft_xyzj left the game
+[13:55:15] [Server thread/INFO]: There are 0 of a max of 50 players online: 
+[13:59:46] [User Authenticator #51/INFO]: UUID of player Bili_CMZ is d306ea0e-dc75-46d4-a023-1381982930d6
+[13:59:46] [Server thread/INFO]: Bili_CMZ[/127.0.0.1:60684] logged in with entity id 228481 at ([world]4003.748261014414, 67.0, 1172.8032612331372)
+[14:01:43] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[14:01:44] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/qd"½øĞĞÃ¿ÈÕÇ©µ½£¬»ñÈ¡¹±Ï×µãÊı¡£ [m
+[14:01:46] [Server thread/INFO]: Bili_CMZ issued server command: /qd
+[14:01:46] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mBili_CMZ [0;33;22mÄ¿Ç°ÓĞ [0;32;1m31 [0;33;22m¹±Ï×µãÊı[m
+[14:02:42] [User Authenticator #52/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[14:02:43] [Server thread/INFO]: anew_tape[/127.0.0.1:60700] logged in with entity id 229057 at ([world]-518.742767247435, 69.0, -453.07499998807907)
+[14:03:09] [Server thread/INFO]: Bili_CMZ >> ohhhhhhhh[m
+[14:03:14] [Server thread/INFO]: Bili_CMZ >> ÊÇ»îÈË[m
+[14:03:16] [Server thread/INFO]: Bili_CMZ >> ÚÀ[m
+[14:03:18] [Server thread/INFO]: Bili_CMZ >> ([m
+[14:03:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ËÀµÄ[m
+[14:03:32] [Server thread/INFO]: Bili_CMZ >> ×î½üÓĞÊ²Ã´½ø¶È£¿[m
+[14:03:42] [Server thread/INFO]: Bili_CMZ >> Ï®»÷ËşÔõÃ´ÑùÁË£¿[m
+[14:03:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÔÚ¸ÄÎÒµÄÏ®»÷Ëş[m
+[14:03:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÖÔÚÄÜÓÃ[m
+[14:04:01] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µ«ÊÇĞ§ÂÊÓĞµãµÍ[m
+[14:04:05] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¶øÇÒÓĞbug[m
+[14:04:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ÉÄÜ»á±»´ïµ½[m
+[14:04:15] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¿ÉÄÜ»á±»´òµ½[m
+[14:04:19] [Server thread/INFO]: Bili_CMZ issued server command: /-/
+[14:04:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×òÍíÏëÁËÒ»ÍíÉÏ[m
+[14:04:21] [Server thread/INFO]: Bili_CMZ >> .-.[m
+[14:04:37] [Server thread/INFO]: Bili_CMZ >> ÎÒÊÇÉµ±Æ£¨[m
+[14:04:54] [Server thread/INFO]: Bili_CMZ >> ÎÒ¶Ô·şÎñÆ÷0¹±Ï×[m
+[14:05:02] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[14:05:21] [Server thread/INFO]: Bili_CMZ >> ÄãµÄÏ®»÷ËşÔÚ·şÎñÆ÷ÀïÂğ£¿[m
+[14:05:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> »¹ÔÚ¸Ä[m
+[14:05:32] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µ¥ÈËµµÀï[m
+[14:05:34] [Server thread/INFO]: Bili_CMZ >> »¹ÊÇÒÔCCSµÄÔ­ĞÍ»ú½øĞĞĞŞ¸Ä£¨[m
+[14:05:47] [Server thread/INFO]: Bili_CMZ >> µ½Ê±ºò´òËã°áµ½·şÎñÆ÷Âğ£¨[m
+[14:05:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È·Êµ[m
+[14:06:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ccsµÄÉú³ÉÆ½Ì¨ºÜ²»´í[m
+[14:06:20] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºóÎÒ¸ÄÁË¹éÖĞºÍ¿³¹ÖµÄµØ·½[m
+[14:06:41] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ã»ÓĞÄÕ¹íÒÖÖÆÆ÷ÁË[m
+[14:06:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»ĞèÒªÌú¿şÀÜ[m
+[14:06:52] [Server thread/INFO]: Bili_CMZ >> ![m
+[14:07:08] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ö±½Ó±©Á¦ÆøÅİÖù°ÑÄÕ¹í¶¥³öË®Ãæ[m
+[14:07:21] [Server thread/INFO]: Bili_CMZ >> ÄÇ±ÈCCSµÄ½¨Ôì³É±¾µÍà¶£¿[m
+[14:07:29] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÄÇ±ØĞë[m
+[14:07:32] [Server thread/INFO]: Bili_CMZ >> ·½±ã¿ì½İ[m
+[14:07:34] [Server thread/INFO]: Bili_CMZ >> NB[m
+[14:08:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ»¹µÃ¸ÄÒ»¸ÄÄÇĞ©¶«Î÷µÄ¼¤»î·½Ê½[m
+[14:08:06] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ccs[m
+[14:08:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ö±½Ó¿³¿ó³µ[m
+[14:08:19] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> È»ºó¿³Ò»´Î¼¤»îÒ»´Î[m
+[14:08:25] [Server thread/INFO]: Bili_CMZ >> ÏÖÔÚµÄÏ®»÷ËşÎÒÕû¸öÏğÄ¾Ê÷Ò¶¹ıµÀÖ±Í¨´æ´¢µãÄã²»½éÒâ°É[m
+[14:08:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÔÚÕâÀï²»ÊÇºÜºÃ[m
+[14:08:39] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²£Á§¶àºÃ([m
+[14:08:42] [Server thread/INFO]: Bili_CMZ >> £¨[m
+[14:08:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ê÷Ò¶ÈİÒ×»µ[m
+[14:08:54] [Server thread/INFO]: Bili_CMZ >> ·ÀË¢¹Ö·½¿é»¹ÓĞÊ²Ã´À´×Å£¨[m
+[14:09:10] [Server thread/INFO]: Bili_CMZ >> µØÌº Ê÷Ò¶ ²£Á§[m
+[14:09:13] [Server thread/INFO]: Bili_CMZ >> »¹ÓĞÂğ£¨[m
+[14:09:24] [Server thread/INFO]: Bili_CMZ >> ÎÒÊÇº©º©[m
+[14:10:11] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µÆ[m
+[14:10:20] [Server thread/INFO]: Bili_CMZ >> ºìÊ¯£¿[m
+[14:10:49] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> º£¾§µÆ[m
+[14:10:53] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ·¢¹â¾úÌå[m
+[14:10:55] [Server thread/INFO]: Bili_CMZ >> ![m
+[14:10:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ó©Ê¯µÆ[m
+[14:11:00] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ä©µØÖò[m
+[14:11:03] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> µÈµÈ[m
+[14:11:11] [Server thread/INFO]: Bili_CMZ >> Ä©µØÖò£¨Ãî°¡[m
+[14:13:23] [Server thread/INFO]: Bili_CMZ >> ÄÇ¾Íº£¾§µÆ+²£Á§+Ê÷Ò¶+µØÌº°É£¨[m
+[14:16:17] [Server thread/INFO]: Bili_CMZ >> ÎÒµÄÌìÄÄ£¨[m
+[14:16:35] [Server thread/INFO]: Bili_CMZ >> ÎÒµÄÔü»ú¾¹È»ÄÜÉÏ72FPS[m
+[14:19:16] [Server thread/INFO]: Bili_CMZ >> ×¢ÒâÒ»ÏÂ·şÎñÆ÷ÑÓ³Ù[m
+[14:19:21] [Server thread/INFO]: Bili_CMZ >> ÎÒ¿ªË¢»¨»úÁË[m
+[14:20:07] [User Authenticator #53/INFO]: UUID of player Ttu_nnm is b1ba0763-c0c0-4a8e-b036-db7c78dc6b43
+[14:20:07] [Server thread/INFO]: Ttu_nnm[/127.0.0.1:60769] logged in with entity id 232636 at ([world]3275.132820314918, 64.0, 52.48184562086029)
+[14:20:35] [Server thread/INFO]: Bili_CMZ >> ×¢ÒâÒ»ÏÂ·şÎñÆ÷ÑÓ³Ù[m
+[14:20:37] [Server thread/INFO]: Bili_CMZ >> ÎÒ¿ªË¢»¨»úÁË[m
+[14:20:42] [Server thread/INFO]: Bili_CMZ >> ([m
+[14:21:43] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[14:22:07] [Server thread/INFO]: Bili_CMZ >> ¾ÍÀëÆ×£¡[m
+[14:22:19] [Server thread/INFO]: Bili_CMZ >> Ë­ÉÏ´ÎÀ´Ë¢»¨»úÃ»¹Ø»ú¾Í×ßÁË£¨[m
+[14:23:40] [User Authenticator #54/INFO]: UUID of player new_chara is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[14:23:40] [Server thread/INFO]: new_chara[/127.0.0.1:60785] logged in with entity id 233413 at ([world]-2016.0135720594494, 63.0, 28.19813459522367)
+[14:23:48] [Server thread/INFO]: Bili_CMZ >> chara?[m
+[14:23:56] [Server thread/INFO]: Bili_CMZ >> ÄãÊÇĞÂÀ´µÄÂğ£¨[m
+[14:24:04] [Server thread/INFO]: new_chara >> ²»ÊÇ[m
+[14:24:21] [Server thread/INFO]: Bili_CMZ >> ÄÇÄãÊÇ.....[m
+[14:24:37] [Server thread/INFO]: new_chara >> Ô­xf998[m
+[14:24:38] [User Authenticator #55/INFO]: UUID of player Minecraft_xyzj is 6dd389e7-c052-4a51-abc7-d6543cf7932c
+[14:24:39] [Server thread/INFO]: Minecraft_xyzj[/127.0.0.1:60791] logged in with entity id 234011 at ([world_nether]205.5163389372922, 84.0, 1755.512682739172)
+[14:24:46] [Server thread/INFO]: Bili_CMZ >> ![m
+[14:24:48] [Server thread/INFO]: new_chara issued server command: /co i
+[14:24:49] [Server thread/INFO]: Bili_CMZ >> ÈÏÊ¶[m
+[14:24:54] [Server thread/INFO]: Bili_CMZ >> »¹¼ÇµÃÕâ¸öID[m
+[14:25:00] [Server thread/INFO]: new_chara issued server command: /co inspect
+[14:25:04] [Server thread/INFO]: Bili_CMZ >> Minecraft_xyzjÄãÊÇ....([m
+[14:25:12] [Server thread/INFO]: Minecraft_xyzj >> Äã²Â[m
+[14:25:20] [Server thread/INFO]: Bili_CMZ >> zhl?[m
+[14:25:40] [Server thread/INFO]: Minecraft_xyzj >> lin_yi[m
+[14:25:53] [Server thread/INFO]: Bili_CMZ >> emmmmm[m
+[14:26:41] [Server thread/INFO]: Bili_CMZ >> ĞÂÉ³»ú¸ãºÃÁË£¿[m
+[14:27:00] [Server thread/INFO]: Minecraft_xyzj issued server command: /
+[14:27:07] [Server thread/INFO]: Minecraft_xyzj issued server command: /help
+[14:29:10] [Server thread/INFO]: Minecraft_xyzj lost connection: Disconnected
+[14:29:10] [Server thread/INFO]: Minecraft_xyzj left the game
+[14:30:00] [Server thread/INFO]: Bili_CMZ >> ?![m
+[14:30:13] [Server thread/INFO]: Bili_CMZ >> ĞÂÉ³»ú¸Ä³ÉÒ»ÌåÊ½µÄÁË£¿[m
+[14:31:40] [Server thread/INFO]: Bili_CMZ >> ohhhhhhhh[m
+[14:31:43] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[14:31:55] [Server thread/INFO]: Bili_CMZ >> ÎÒµÄÅ©»ú¾¹È»ÓĞÓÃÁË£¨[m
+[14:34:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@5efb4bf5[id=<null>,name=Shallow_dream,properties={},legacy=false] (/127.0.0.1:60972) lost connection: Disconnected
+[14:35:00] [Server thread/INFO]: Ttu_nnm lost connection: Disconnected
+[14:35:00] [Server thread/INFO]: Ttu_nnm left the game
+[14:35:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> É¶[m
+[14:35:34] [Server thread/INFO]: Bili_CMZ >> Ã»É¶£¨[m
+[14:35:43] [Server thread/INFO]: Bili_CMZ >> Ò»¸öµÍĞ§»úÆ÷µÄÊµÑé£¨[m
+[14:35:53] [Server thread/INFO]: Bili_CMZ >> ´óÊåµÄÅ©»ú[m
+[14:36:17] [Server thread/INFO]: Bili_CMZ >> µ¥´åÃñ»î°åÃÅĞÍ[m
+[14:37:05] [Server thread/INFO]: Bili_CMZ >> ¾ÍÊÇ²»ºÃ¶àµ¥Ôª¶Ñµş£¨»¹ÔÚÑĞ¾¿ÖĞ[m
+[14:37:12] [Server thread/INFO]: new_chara has completed the challenge [Serious Dedication]
+[14:37:16] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> a[m
+[14:37:18] [Server thread/INFO]: Bili_CMZ >> ?????[m
+[14:37:21] [Server thread/INFO]: Bili_CMZ >> ¾ÍÀëÆ×[m
+[14:37:27] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¼ÌĞøµ¥ÈË¸ÄÏ®»÷Ëş[m
+[14:37:34] [Server thread/INFO]: Bili_CMZ >> 886[m
+[14:37:52] [Server thread/INFO]: Bili_CMZ >> anew_tape[m
+[14:38:02] [Server thread/INFO]: Bili_CMZ >> »°ËµÕ¨¹ÖËşºÃÁËÂğ£¨[m
+[14:40:52] [Server thread/INFO]: new_chara issued server command: /co i
+[14:41:53] [Server thread/INFO]: new_chara issued server command: /co inspect
+[14:44:51] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»ÊÇÔçºÃÁËÂğ[m
+[14:44:59] [Server thread/INFO]: Bili_CMZ >> emmmmm[m
+[14:45:03] [Server thread/INFO]: Bili_CMZ >> »°Ëµ[m
+[14:45:12] [Server thread/INFO]: Bili_CMZ >> ÔõÃ´²éÑ¯ÎïÆ·¼ÇÂ¼À´×Å£¿[m
+[14:45:17] [Server thread/INFO]: Bili_CMZ >> ·½¿é¼ÇÂ¼£¨[m
+[14:45:58] [Server thread/INFO]: Bili_CMZ issued server command: /help
+[14:46:06] [Server thread/INFO]: Bili_CMZ issued server command: /help 2
+[14:46:11] [Server thread/INFO]: Bili_CMZ issued server command: /help 3
+[14:46:21] [Server thread/INFO]: Bili_CMZ issued server command: /help 4
+[14:46:57] [Server thread/INFO]: Bili_CMZ issued server command: /help 5
+[14:47:00] [Server thread/INFO]: Bili_CMZ issued server command: /help 11
+[14:47:04] [Server thread/INFO]: Bili_CMZ issued server command: /help 10
+[14:47:17] [Server thread/INFO]: Bili_CMZ issued server command: /qd
+[14:47:42] [Server thread/INFO]: new_chara lost connection: Disconnected
+[14:47:42] [Server thread/INFO]: new_chara left the game
+[14:48:36] [User Authenticator #56/INFO]: UUID of player Magical7 is 0f4a4292-fc4a-4b8d-98c9-7e1aa2a33750
+[14:48:36] [Server thread/INFO]: Magical7[/127.0.0.1:61026] logged in with entity id 242301 at ([world]1615.0936872098814, 62.0, 826.9646171746828)
+[14:48:53] [Server thread/INFO]: Bili_CMZ >> »îÈËÒ®£¨[m
+[14:49:10] [Server thread/INFO]: Magical7 >> Ç©µ½ ×ßÈË£¨[m
+[14:49:13] [Server thread/INFO]: Bili_CMZ >> emmmmm[m
+[14:49:14] [Server thread/INFO]: Magical7 issued server command: /qd
+[14:49:14] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1mMagical7 [0;33;22mÄ¿Ç°ÓĞ [0;32;1m75 [0;33;22m¹±Ï×µãÊı[m
+[14:49:40] [Server thread/WARN]: Magical7 moved too quickly! -0.004177881659416016,-3219.442897472508,0.0050639215949104255
+[14:51:37] [Server thread/INFO]: Magical7 lost connection: Disconnected
+[14:51:37] [Server thread/INFO]: Magical7 left the game
+[14:51:43] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[14:57:50] [Server thread/INFO]: anew_tape issued server command: /qd
+[14:57:50] [Server thread/INFO]: [0;37;22m[PlayerPoints] [0;33;22mÍæ¼Ò [0;32;1manew_tape [0;33;22mÄ¿Ç°ÓĞ [0;32;1m89 [0;33;22m¹±Ï×µãÊı[m
+[14:57:54] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ./co i[m
+[15:01:44] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/px mode"¶Ò»»ÅÔ¹ÛÕßÈ¨ÏŞ£¬Ã¿´ÎÏûºÄ3µãÊı¡£ [m
+[15:01:49] [User Authenticator #57/INFO]: UUID of player new_chara is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[15:01:49] [Server thread/INFO]: new_chara[/127.0.0.1:61131] logged in with entity id 255459 at ([world]-2038.5133474567804, 63.0625, 70.33550610784422)
+[15:14:16] [Server thread/INFO]: new_chara lost connection: Disconnected
+[15:14:16] [Server thread/INFO]: new_chara left the game
+[15:14:51] [Server thread/INFO]: anew_tape lost connection: Disconnected
+[15:14:51] [Server thread/INFO]: anew_tape left the game
+[15:15:13] [User Authenticator #58/INFO]: UUID of player the_yellowleaf is db81d5ec-a1c2-4cd3-a585-d1a2a3ff71bd
+[15:15:14] [Server thread/INFO]: the_yellowleaf[/127.0.0.1:61205] logged in with entity id 262312 at ([world]-449.69999998807907, 127.0, -486.6005388056689)
+[15:15:19] [Server thread/INFO]: Bili_CMZ >> ·ãÒ¶£¡[m
+[15:15:28] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> az[m
+[15:15:39] [Server thread/INFO]: Bili_CMZ >> »îÈË£¡ºÃÒ®£¡[m
+[15:15:41] [Server thread/INFO]: Bili_CMZ >> ([m
+[15:16:24] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒÔÚÎªÕâÀïÍ·ÌÛ[m
+[15:16:28] [Server thread/INFO]: Bili_CMZ >> 500´òËã½¨µØÓü´óÌüÂğ[m
+[15:16:40] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> »»¸öÍ¨µÀ¶øÒÑ[m
+[15:16:43] [Server thread/INFO]: Bili_CMZ >> Äã¿ÉÒÔ²Î¿¼ÏÂÄ½ÔÆ×öµÄÄÇ¸ö£¨[m
+[15:16:48] [Server thread/INFO]: Bili_CMZ >> ÎÒ¾õµÃÂùºÃ£¨[m
+[15:16:50] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÄÇ¸öÊÇÎÒ·¢ËûµÄ[m
+[15:16:54] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[15:17:12] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒÔÚÏëÎÒÕâÃ´·Å¹Õ½ÇÔõÃ´°ì[m
+[15:17:19] [Server thread/INFO]: Bili_CMZ >> ĞŞµô[m
+[15:17:27] [Server thread/INFO]: Bili_CMZ >> Ö±½Ó²»¹Õ½Ç£¨[m
+[15:17:35] [Server thread/INFO]: Bili_CMZ >> ²»ºÃ»®´¬£¨[m
+[15:17:44] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÄÇÓÖµÃÍÚºÃ¾Ã£¨[m
+[15:17:46] [Server thread/INFO]: Bili_CMZ >> ÑÌ»¨×²Ç½£¨[m
+[15:18:00] [Server thread/INFO]: Bili_CMZ >> ÎÒÃ»Ê²Ã´ÊÂ[m
+[15:18:06] [Server thread/INFO]: Bili_CMZ >> ¿ÉÒÔ°ïÄãÍÚÍÚ£¨[m
+[15:18:08] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Í·ÌÛ£¨[m
+[15:18:28] [Server thread/INFO]: Bili_CMZ >> ¸Ğ¾õ»¹ÊÇÕû¸öÏñºÓÍåÄÇÑùµÄĞ¡ĞÍ´óÌü´óÆø[m
+[15:18:38] [Server thread/INFO]: Bili_CMZ >> »òÕßÄ½ÔÆÄÇÖÖ£¨[m
+[15:18:47] [User Authenticator #59/INFO]: UUID of player anew_tape is 4c96318f-887a-42ea-a266-2e19af41d6cd
+[15:18:48] [Server thread/INFO]: anew_tape[/127.0.0.1:61226] logged in with entity id 262939 at ([world]-517.9250000119209, 69.0, -453.07499998807907)
+[15:18:54] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒÈ¥×¼±¸×¼±¸[m
+[15:20:26] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ×¼±¸É¶[m
+[15:20:35] [Server thread/INFO]: Bili_CMZ >> 500µØÓü½»Í¨[m
+[15:20:39] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> À´µØÓü¾ÍÖªµÀÁË[m
+[15:20:56] [Server thread/WARN]: Bili_CMZ moved too quickly! -1649.9760589382722,16.145106700651638,-233.85237273181636
+[15:21:38] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ²»ÊÇÀ¶±ù²îÆÀ[m
+[15:21:44] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[15:21:48] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> º¢×ÓÇî£¨[m
+[15:21:58] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÏÈ´ÕºÏ×ÅÓÃ°É[m
+[15:22:18] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ¹Ò¸ö»ú[m
+[15:22:23] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> cuc·ş²âÊÔÏ®»÷Ëş[m
+[15:22:37] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> Ö÷ÒªÊÇËûÃÇÓĞµØÌº¶Î[m
+[15:22:44] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[15:22:47] [Server thread/INFO]: Bili_CMZ >> bot[m
+[15:22:48] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÒ»×°µØÌºÄ£×é¾Í±ÀÀ£[m
+[15:22:48] [Server thread/INFO]: Bili_CMZ >> ([m
+[15:23:28] [Server thread/INFO]: Bili_CMZ >> ÕÕÕâÑùÏÂÈ¥[m
+[15:23:45] [Server thread/INFO]: Bili_CMZ >> ·şÎñÆ÷Ö»ÄÜµ½1.16.5ÁË£¨Õâ¸ö´æµµ[m
+[15:23:58] [Server thread/INFO]: Bili_CMZ >> ¾Í¿´BUGJUMPÔõÃ´¼æÈİÁË[m
+[15:24:13] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> bugjump²»ÊÇËµ»áÖ§³ÖµÄÂğ[m
+[15:24:36] [Server thread/INFO]: Bili_CMZ >> az[m
+[15:24:52] [Server thread/INFO]: Bili_CMZ >> µ½Ê±ºòÔÙ¿´°É£¨[m
+[15:25:36] [User Authenticator #60/INFO]: UUID of player Twilight2033 is 98662d18-6c0e-42a2-a077-e2a8abd740e5
+[15:25:36] [Server thread/INFO]: Twilight2033[/127.0.0.1:61259] logged in with entity id 264235 at ([world]7047.47485364213, 84.5, -541.7836601396012)
+[15:26:41] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> cmzÔÚ¸ÉÂï[m
+[15:26:52] [User Authenticator #61/INFO]: UUID of player new_chara is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[15:26:52] [Server thread/INFO]: new_chara[/127.0.0.1:61267] logged in with entity id 264662 at ([world]-1903.459984779256, 70.0, -136.20044483377)
+[15:26:53] [Server thread/INFO]: Bili_CMZ >> Éİ³ŞµØÏû·Ñ£¨[m
+[15:27:04] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> hhh[m
+[15:27:14] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÏĞµÄ»°°ïÎÒ°ÑµÚÒ»²ãÆÌÒ»ÆÌ[m
+[15:27:14] [Server thread/INFO]: Bili_CMZ >> ÂòµãµÆºÍÃüÃûÅÆ[m
+[15:27:23] [Server thread/INFO]: Bili_CMZ >> µÈ»á¾ÍÈ¥[m
+[15:27:43] [Server thread/INFO]: Bili_CMZ >> µÆÁıÉÏ²»Ë¢¹ÖµÄ°É£¨[m
+[15:28:00] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ±È»ğ°ÑÁÁÒ»µã[m
+[15:29:01] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ²»µÃ²»°Ñ¾ÉÎå°ÙµÄµØÓüÃÅ²ğÁË£º£¨[m
+[15:29:33] [Server thread/INFO]: Bili_CMZ >> ºÃ¿Ö²À°¡[m
+[15:29:43] [Server thread/INFO]: Bili_CMZ >> Ä©µØÀï×ßÒ»²½¿¨Ò»²½[m
+[15:29:56] [Server thread/INFO]: Twilight2033 >> »­ÔõÃ´ºÏ³ÉÀ´×Å[m
+[15:30:09] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Ä¾¹÷Ò»È¦ÖĞ¼äÑòÃ«[m
+[15:30:30] [Server thread/INFO]: Bili_CMZ >> ¾ÍÀëÆ×°¡[m
+[15:30:33] [Server thread/INFO]: Bili_CMZ >> Ä©µØÀï×ßÒ»²½¿¨Ò»²½[m
+[15:30:41] [Server thread/INFO]: Bili_CMZ >> ÎªºÎÄØ£¨[m
+[15:30:50] [Server thread/INFO]: Bili_CMZ >> FPS77ÄØ¡£-¡£[m
+[15:31:40] [Server thread/INFO]: Bili_CMZ >> ÎÒÀ´ÀÖ||©c(*£ş¨Œ£ş*)¥Î¥ß|§À[m
+[15:31:44] [Server thread/INFO]: Bili_CMZ >> À´ÁË[m
+[15:32:21] [Server thread/INFO]: Bili_CMZ >> Òª¸ÉÉ¶£¨[m
+[15:32:28] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÑªÑ¹Éı¸ßing[m
+[15:32:40] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> °ÑÕâ¸öÇ½ĞŞºÃ[m
+[15:32:44] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[15:32:58] [Server thread/INFO]: Bili_CMZ >> ĞèÒªÍÚÊ²Ã´Âğ£¨[m
+[15:32:58] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ²ÄÁÏÔÚÇ°Ãæ·ÛºìÉ«ºĞ×ÓÀï[m
+[15:33:06] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÍÚµÄÎÒÀ´°É[m
+[15:33:11] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒÏÖÔÚ»¹ÔÚ¹æ»®[m
+[15:33:26] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÕâÍæÒâÈı²ãµÄ£¬[m
+[15:33:34] [Server thread/INFO]: Bili_CMZ >> ?![m
+[15:33:41] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÈçºÎÊÊÅä±ùµÀÊÇ¸öÎÊÌâ[m
+[15:34:26] [Server thread/INFO]: Bili_CMZ >> woc[m
+[15:34:32] [Server thread/INFO]: Bili_CMZ >> ÎÒ´òÁËÖíÈË£¨[m
+[15:34:40] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ²»»Å[m
+[15:34:47] [Server thread/INFO]: Bili_CMZ >> ÎÒ»Å£¨[m
+[15:35:43] [Server thread/INFO]: Bili_CMZ >> Õı¾­ÈËË­ÓÃ±ùµÀ£¨[m
+[15:35:47] [Server thread/INFO]: Bili_CMZ >> ¶¼ÓÃÇÊ³á£¨[m
+[15:36:05] [Server thread/INFO]: Twilight2033 >> Ä©Ó°ÕäÖéÅä²»ËÀÍ¼ÌÚ£¨[m
+[15:36:13] [Server thread/INFO]: Bili_CMZ >> ZBC([m
+[15:36:30] [Server thread/INFO]: Bili_CMZ >> ÕäÖé²»È±£¬ÏÖÔÚ²»ËÀÍ¼ÌÚÒ²²»È±ÁË[m
+[15:36:35] [Server thread/INFO]: Bili_CMZ >> ÓÃÊ²Ã´·À»ğÒ©Ë®[m
+[15:36:41] [Server thread/INFO]: Bili_CMZ >> Ö±½Ó²»ËÀÍ¼ÌÚ£¨[m
+[15:36:47] [Server thread/INFO]: Twilight2033 >> µôĞé¿ÕÁíËµ[m
+[15:36:50] [Server thread/INFO]: Bili_CMZ >> ([m
+[15:37:00] [Server thread/INFO]: Twilight2033 >> ÁïÁËÔ¼»áÈ¥[m
+[15:37:02] [Server thread/INFO]: Twilight2033 lost connection: Disconnected
+[15:37:02] [Server thread/INFO]: Twilight2033 left the game
+[15:37:05] [Server thread/INFO]: Bili_CMZ >> Å¶ºğ[m
+[15:37:25] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒ»¹ÔÚÏë°ì·¨[m
+[15:37:38] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÕâÃæÇ½ÏÈ²»¹Ü[m
+[15:37:41] [Server thread/INFO]: Bili_CMZ >> Äã³öÇÏ¿´ÏÂÃæ£¨[m
+[15:37:48] [Server thread/INFO]: Bili_CMZ >> º¦ÅÂ£¨[m
+[15:38:11] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ³ğºŞ¾ÓÈ»»¹ÓĞ[m
+[15:38:19] [Server thread/INFO]: Bili_CMZ >> ÎÒµÄ£¨[m
+[15:41:34] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> µÚ¶ş²ãÓĞÒÚµãµã¸´ÔÓ[m
+[15:41:42] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[15:42:30] [Server thread/INFO]: Bili_CMZ >> Í·ÌÛ[m
+[15:42:36] [Server thread/INFO]: Bili_CMZ >> ÎÒ»¹ÓĞ2Æª×÷ÎÄ£¨[m
+[15:42:40] [Server thread/INFO]: Bili_CMZ >> ´óºóÌì±¨µÀ£¨[m
+[15:42:48] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Ê²Ã´ÄÚÈİ£¨[m
+[15:43:04] [Server thread/INFO]: Bili_CMZ >> "Ê®ËÄÎå"£¬·Ü¶·ÓĞÎÒ£¡[m
+[15:43:06] [Server thread/INFO]: Bili_CMZ >> ([m
+[15:43:18] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Ê²Ã´º©º©ÀÏÊ¦[m
+[15:43:31] [Server thread/INFO]: Bili_CMZ >> Ğ´³ö¶ÔÊ®ËÄÎåÀ¶Í¼µÄÃÀºÃã¿ã½ºÍ×Ô¼ºµÄÊ®ËÄÎåĞ¡¼Æ»®[m
+[15:43:55] [Server thread/INFO]: Bili_CMZ >> È»¶øÎÒTMÖ»ÖªµÀÊ®ËÄÎå¾ÍÊÇ14*5=70[m
+[15:44:02] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> µÚ¶ş²ã¿ªÊ¼[m
+[15:44:12] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> az[m
+[15:44:41] [Server thread/INFO]: Bili_CMZ >> µÚ¶ş²ãÔÚÄÄ£¨[m
+[15:44:47] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÔÚÎÒµÄÍ¶Ó°Àï[m
+[15:44:52] [Server thread/INFO]: Bili_CMZ >> ²İ£¨[m
+[15:44:52] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒÈ¥£¨[m
+[15:44:57] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÓĞÄÏ¹ÏÂğ[m
+[15:45:07] [Server thread/INFO]: Bili_CMZ >> ´ó¸ç[m
+[15:45:10] [Server thread/INFO]: Bili_CMZ >> ¶ñ»ê£¡[m
+[15:45:12] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ?????[m
+[15:45:18] [Server thread/INFO]: Bili_CMZ >> ¶ñ»ê£¡[m
+[15:45:25] [Server thread/INFO]: Bili_CMZ >> Éä¡áËÀÁË£¨[m
+[15:45:37] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÀëÆ×[m
+[15:45:38] [Server thread/INFO]: Bili_CMZ >> Äã¸Ï½ô·â¶¥£¨[m
+[15:45:45] [Server thread/INFO]: Bili_CMZ >> ÕâÊÇ¿ÉÒÔË¢¶ñ»êµÄ[m
+[15:45:56] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÄÏ¹ÏÔõÃ´°ì£¨£¨£¨[m
+[15:46:04] [Server thread/INFO]: Bili_CMZ >> ÄãÒªÄÏ¹Ï£¿[m
+[15:46:08] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[15:46:08] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> yes[m
+[15:46:16] [Server thread/INFO]: Bili_CMZ >> º£¾§ºÃÏñÓĞÄÏ¹ÏÌï°É£¨[m
+[15:46:29] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> hms¼ÒÓĞ[m
+[15:46:42] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒÈ¥Åªµã´ÔÁÖÄ¾[m
+[15:46:50] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Ã»ÓĞ´ÔÁÖÊ÷Ãç°¡[m
+[15:46:51] [Server thread/INFO]: Bili_CMZ >> ÎÒÅªµãÄÏ¹Ï[m
+[15:47:26] [Server thread/INFO]: Bili_CMZ >> ÄÏ¹Ï»¹ÊÇÄÏ¹ÏµÆ£¿[m
+[15:47:32] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> µÆ[m
+[15:47:53] [Server thread/INFO]: Villager EntityVillager['Villager'/274518, l='ServerLevel[world]', x=2774.52, y=63.83, z=-422.60] died, message: 'Villager suffocated in a wall'
+[15:47:53] [Server thread/INFO]: Bili_CMZ >> Ã»ÊÂÁË[m
+[15:47:59] [Server thread/INFO]: Bili_CMZ >> º£¾§Ê¯Î÷¹ÏÌï£¨[m
+[15:48:03] [Server thread/INFO]: Bili_CMZ >> ÊÇ[m
+[15:48:07] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> hms¼Ò°¡[m
+[15:48:21] [Server thread/INFO]: new_chara lost connection: Disconnected
+[15:48:21] [Server thread/INFO]: new_chara left the game
+[15:48:24] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÄãÏÈµØÓü´ô×Å[m
+[15:48:30] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒË¯¸ö¾õ[m
+[15:48:31] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[15:48:35] [Server thread/INFO]: Bili_CMZ >> en[m
+[15:48:43] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ok[m
+[15:48:55] [Server thread/INFO]: Bili_CMZ >> hmsÊÇ....[m
+[15:49:10] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒ¼ÇµÃÄãÊÇÄÚ²âÍæ¼Ò°¡£¨£¨£¨[m
+[15:49:13] [Server thread/INFO]: Bili_CMZ >> enw[m
+[15:49:16] [Server thread/INFO]: Bili_CMZ >> en[m
+[15:49:22] [Server thread/INFO]: Bili_CMZ >> ÎÒÖªµÀID[m
+[15:49:27] [Server thread/INFO]: Bili_CMZ >> ²»ÖªµÀËû¼Ò£¨[m
+[15:49:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@45c9d70f[id=<null>,name=new_chara,properties={},legacy=false] (/127.0.0.1:61373) lost connection: Disconnected
+[15:49:45] [User Authenticator #63/INFO]: UUID of player new_chara is 6f63c602-4997-42bc-b3ad-2e798041ad87
+[15:49:45] [Server thread/INFO]: new_chara[/127.0.0.1:61375] logged in with entity id 275982 at ([world]-2037.8059672905424, 63.5, 34.12556207450015)
+[15:49:47] [User Authenticator #62/INFO]: Disconnecting /127.0.0.1:61373: Failed to verify username!
+[15:49:47] [User Authenticator #62/ERROR]: Username 'new_chara' tried to join with an invalid session
+[15:49:48] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> º£¾§·½Ïò£¬Ö÷³ÇµØÓüÃÅÅÔ±ß[m
+[15:49:49] [Server thread/INFO]: Bili_CMZ >> µØÓü½»Í¨Ê²Ã´·½Ïò£¿[m
+[15:49:57] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> »¹ÓĞÒ»½ØÌú¹ì[m
+[15:50:04] [Server thread/INFO]: Bili_CMZ >> ÏëÆğÀ´ÁË£¨[m
+[15:50:15] [User Authenticator #64/INFO]: UUID of player 4022sun is ee411d13-6d25-49da-baca-07d867fa73fe
+[15:50:15] [Server thread/INFO]: 4022sun[/127.0.0.1:61382] logged in with entity id 276397 at ([world]2801.441370700024, 63.0, -404.61139648552785)
+[15:50:55] [Server thread/INFO]: Bili_CMZ >> ÎÒÒÔÇ°Ò»Ö»°×æÎÕâÀïµÄ¿¾¼¦£¨[m
+[15:50:59] [Server thread/INFO]: Bili_CMZ >> Ò»Ö±[m
+[15:51:08] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ¼¦¡ª¡ª[m
+[15:51:14] [Server thread/INFO]: 4022sun >> awa[m
+[15:51:18] [Server thread/ERROR]: Could not pass event PlayerChatEvent to ChatC v0.5
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.PlayerConnection$4.evaluate(PlayerConnection.java:1719) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.util.Waitable.run(Waitable.java:25) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1072) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:355) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1007) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.lang.IllegalArgumentException: character to be escaped is missing
+	at java.util.regex.Matcher.appendReplacement(Unknown Source) ~[?:1.8.0_181]
+	at java.util.regex.Matcher.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.String.replaceAll(Unknown Source) ~[?:1.8.0_181]
+	at cf.cc7w.ChatC.ChatC.onchat(ChatC.java:247) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor42.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_181]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_181]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[Spigot1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	... 11 more
+[15:51:18] [Server thread/INFO]: <4022sun> \[m
+[15:51:43] [pool-6-thread-1/INFO]: [0;30;1m[[0;31;1m[21mGM[0;37;1m[21m+[0;30;1m] [0;30;1m[[0;32;1mINFO[0;30;1m] [0;33;1m Data files refreshed.[m
+[15:56:30] [Server thread/INFO]: Bili_CMZ >> ÄÏ¹ÏÉÏ»áË¢¹ÖÂğ[m
+[15:56:33] [Server thread/INFO]: 4022sun >> yes[m
+[15:56:54] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Äã¿ÉÒÔ°Ñ±ùÉÏ·Å°´Å¥[m
+[15:57:31] [Server thread/INFO]: Bili_CMZ >> ÎÒÔÚ²ÉÄÏ¹Ï£¨[m
+[15:57:42] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ºÃÄÑ¸Ä[m
+[15:57:47] [Server thread/INFO]: Bili_CMZ >> µ½Ê±ºòÄãÔÙ¼ô°É£¨[m
+[15:57:47] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒ¿ŞÁË[m
+[15:57:56] [Server thread/INFO]: [0;32;1m<HAPPY>[0;37;1m anew_tape >> ÎÒÌ«²ËÁË[m
+[15:58:02] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[15:58:06] [Server thread/INFO]: 4022sun >> e[m
+[15:58:50] [Server thread/INFO]: Bili_CMZ >> ´óÔ¼5×éÄÏ¹Ï[m
+[15:58:52] [Server thread/INFO]: Bili_CMZ >> ¹»Âğ£¿[m
+[15:58:57] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ¹»ÁË[m
+[15:59:14] [Server thread/WARN]: Boat (vehicle of new_chara) moved wrongly! 0.38233070623437015
+[15:59:14] [Server thread/WARN]: Boat (vehicle of new_chara) moved wrongly! 0.2966232386269212
+[15:59:14] [Server thread/WARN]: Boat (vehicle of new_chara) moved wrongly! 0.500564398749475
+[15:59:14] [Server thread/WARN]: Boat (vehicle of new_chara) moved wrongly! 0.41245855671286336
+[15:59:14] [Server thread/WARN]: Boat (vehicle of new_chara) moved wrongly! 0.6511986340669864
+[15:59:33] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒÈ¥£¨[m
+[15:59:45] [Server thread/INFO]: Bili_CMZ >> ?[m
+[15:59:55] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÍüÁËÓĞÖØÉúÃªÕâÍæÒâ[m
+[16:00:09] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[16:00:25] [Server thread/INFO]: 4022sun >> ÍÚµØÏÂÂ¥ÌİÍÚµ½Ï¿¹È¿É»¹ĞĞ[m
+[16:00:32] [Server thread/INFO]: Bili_CMZ >> ÎÒÈ¥¿´Ò»ÑÛ´æµµ[m
+[16:00:33] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÎÒÏëÖªµÀ¿ŞÆüºÚê×Ê¯ÕâÃ´¸ã£¨[m
+[16:00:43] [Server thread/INFO]: Bili_CMZ >> ¿ªÏäºÍÒÅ¼£[m
+[16:00:51] [Server thread/INFO]: Bili_CMZ >> ÄÑ¶ÈÏµÊıÂú·Ö£¨[m
+[16:01:06] [Server thread/INFO]: Bili_CMZ >> »¹µÃµ½»ÄÎŞÈËÑÌµÄĞÂÇø¿é[m
+[16:01:14] [Server thread/INFO]: 4022sun >> az[m
+[16:01:14] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÖíÁé¿ÉÒÔ½»Ò×[m
+[16:01:19] [Server thread/INFO]: Bili_CMZ >> az[m
+[16:01:23] [Server thread/INFO]: Bili_CMZ >> ÎÒÊÇÉµ×Ó[m
+[16:01:36] [Server thread/INFO]: Bili_CMZ >> ÎÒ¸øÄãÄÃµã£¨´Ó×Ï¾§ÄÇæÎµã[m
+[16:01:43] [Server thread/INFO]: 4022sun >> awa[m
+[16:01:44] [Server thread/INFO]: [0;33;22m[¹«¸æ] [0;33;22mÊ¹ÓÃ"/p"²éÑ¯ÓĞ¹ØµãÊı°ïÖúµÄ¸ü¶àÃüÁî¡£ [m
+[16:01:48] [Server thread/INFO]: Bili_CMZ issued server command: /p
+[16:01:52] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Ôç±»ÎÒ½»Ò×¹âÁË£¨[m
+[16:01:53] [Server thread/INFO]: Bili_CMZ >> qwq[m
+[16:02:15] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÄãÉíÉÏÓĞ½ğ×ÓÂğ[m
+[16:02:38] [Server thread/INFO]: Bili_CMZ >> ÓĞ[m
+[16:02:42] [Server thread/INFO]: Bili_CMZ >> º£ëàÍå[m
+[16:03:00] [Server thread/INFO]: Bili_CMZ >> °ëÏä£¨[m
+[16:03:02] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> º£ëà¸ÛÊÇÉ¶£¨[m
+[16:03:45] [Server thread/INFO]: Bili_CMZ >> Ä³É³µñ×öµÄÉ³µñÓ¾³Ø[m
+[16:03:51] [Server thread/INFO]: Bili_CMZ >> ÀïÃæÈ«ÊÇº£ëà[m
+[16:03:57] [Server thread/INFO]: 4022sun >> xswl[m
+[16:04:04] [Server thread/INFO]: Bili_CMZ >> ÔõÃ´ÓÎ¶¼ÊÇ¼ÓËÙ£¨[m
+[16:04:10] [Server thread/WARN]: Boat (vehicle of new_chara) moved wrongly! 0.2502834539604919
+[16:04:10] [Server thread/WARN]: Boat (vehicle of new_chara) moved wrongly! 0.27169603970378375
+[16:04:10] [Server thread/WARN]: Boat (vehicle of new_chara) moved wrongly! 0.3022371488759745
+[16:04:18] [Server thread/INFO]: Bili_CMZ >> ÆäÊµÊÇÎÒ¸ãµÄ£¨[m
+[16:04:44] [Server thread/INFO]: 4022sun >> MMP,ÍÚ¸öÈË·À»¹ÍÚµ½¿ó¶´[m
+[16:04:55] [Server thread/INFO]: Bili_CMZ >> emmm[m
+[16:04:59] [Server thread/INFO]: Bili_CMZ >> ÈË·À£¿[m
+[16:05:02] [Server thread/INFO]: Bili_CMZ >> ÀëÆ×£¨[m
+[16:05:05] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> µØ·½£¨[m
+[16:05:21] [Server thread/INFO]: 4022sun >> ÈËÃñ·À¿Õ.jpg[m
+[16:05:29] [Server thread/INFO]: 4022sun >> £¨Ëµ°×ÁË¾ÍÊÇµØÏÂÊÒ[m
+[16:05:43] [Server thread/INFO]: Bili_CMZ >> ÄãÍÚÄÇÃ´´ò[m
+[16:05:45] [Server thread/INFO]: Bili_CMZ >> ´ó[m
+[16:06:03] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÄãÄÏ¹ÏÄØ£¨[m
+[16:06:06] [Server thread/INFO]: Bili_CMZ >> Ïë±Ø¾ÍÊÇĞ¡ĞÍÈ«ÎŞÆ·µØÏÂ²Ö¿â£¨[m
+[16:06:11] [Server thread/INFO]: Bili_CMZ >> À´ÁË[m
+[16:06:13] [Server thread/INFO]: 4022sun >> ??[m
+[16:06:22] [Server thread/INFO]: 4022sun >> ±»Äã·¢ÏÖÁËawa[m
+[16:06:23] [Server thread/INFO]: Bili_CMZ >> az[m
+[16:07:10] [Server thread/INFO]: 4022sun >> ÉîÍÚ¶´£¬¹ã»ıÁ¸[m
+[16:07:38] [Server thread/INFO]: Bili_CMZ >> ¶Ú»ıÁ¸Ê³£¬Ëµ°É£¬¸Ãµ±ºÎ×ï£¨[m
+[16:07:47] [Server thread/INFO]: 4022sun >> £¿[m
+[16:07:56] [Server thread/INFO]: 4022sun >> ÎÒ¿ÉÃ»ºåÌ§Îï¼Û[m
+[16:07:58] [Server thread/INFO]: 4022sun >> awa[m
+[16:07:58] [Server thread/INFO]: Bili_CMZ >> £¨[m
+[16:09:07] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ·ÅÍêÄÏ¹ÏµÆÎÒĞ´×÷ÒµÈ¥ÁË[m
+[16:09:12] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ÍíÉÏÔÙÀ´[m
+[16:09:30] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ²»Ö¹Ò»´¦ÓÃµ½[m
+[16:09:57] [Server thread/INFO]: new_chara has made the advancement [Who is Cutting Onions?]
+[16:10:06] [Server thread/INFO]: 4022sun >> xswl[m
+[16:10:08] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ¿ŞÆüºÚê×Ê¯ÄØ£¨[m
+[16:12:45] [Server thread/INFO]: Bili_CMZ >> az[m
+[16:13:04] [Server thread/INFO]: Bili_CMZ >> ÎÒÈ¥¿´ÑÛ´æµµ[m
+[16:13:10] [Server thread/INFO]: Bili_CMZ >> ÄãµÄ´æµµÎÒÏÂÁË£¨[m
+[16:13:16] [Server thread/INFO]: Bili_CMZ lost connection: Disconnected
+[16:13:16] [Server thread/INFO]: Bili_CMZ left the game
+[16:14:12] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> tape?[m
+[16:14:25] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> Äã×îºÃÈ¥Ö÷ÊÀ½ç£¬²»È»ÕâÀïÓĞ¿ÉÄÜË¢¶ñ»ê£¨[m
+[16:14:45] [Server thread/INFO]: [0;32;1m<¶àÀ´AÒ¶>[0;37;1m the_yellowleaf >> ¶øÇÒÖíÈË±»cmzÀ­³ğºŞÁË[m
+[16:15:30] [Server thread/INFO]: the_yellowleaf lost connection: Disconnected
+[16:15:30] [Server thread/INFO]: the_yellowleaf left the game
+[16:17:02] [User Authenticator #65/INFO]: UUID of player Bili_CMZ is d306ea0e-dc75-46d4-a023-1381982930d6
+[16:17:02] [Server thread/INFO]: Bili_CMZ[/127.0.0.1:61534] logged in with entity id 284408 at ([world_nether]-44.609622888877105, 115.0, 22.044064497314043)
+[16:17:08] [Server thread/INFO]: Bili_CMZ >> ²İ[m
+[16:17:11] [Server thread/INFO]: Bili_CMZ >> ¿´ÁË°ëÌì[m
+[16:17:13] [Server thread/INFO]: Bili_CMZ >> ²Å·¢ÏÖ[m
+[16:17:16] [Server thread/INFO]: Bili_CMZ >> Ã»ÓĞ£¨[m
+[16:18:09] [Server thread/INFO]: new_chara has made the advancement [Not Quite "Nine" Lives]
+[16:18:15] [Server thread/INFO]: 4022sun >> aw[m
+[16:21:09] [Server thread/INFO]: Bili_CMZ >> ·ãÒ¶ÄØ£¿[m
+[16:21:37] [Server thread/INFO]: new_chara >> Ğ´×÷ÒµÈ¥ÁË[m
+[16:21:44] [Server thread/INFO]: Bili_CMZ >> ÄÇÃ»ÊÂÁË[m
+[16:21:50] [Server thread/INFO]: Bili_CMZ >> ÎÒÒ²ÒªĞ´ÄØ£¨[m
+[16:22:02] [Server thread/INFO]: Bili_CMZ >> new_chara[m
+[16:22:13] [Server thread/INFO]: Bili_CMZ >> ÔÚ¸ÉÊ²Ã´ÄØ£¨[m
+[16:22:33] [Server thread/INFO]: new_chara >> ÕÒµòÁã÷¼÷Ã[m
+[16:22:51] [Server thread/INFO]: Bili_CMZ >> az?[m
+[16:23:01] [Server thread/INFO]: Bili_CMZ >> µòÁãËş²»ºÃÓÃÂğ£¨[m
+[16:23:11] [Server thread/INFO]: new_chara >> ?[m
+[16:23:19] [Server thread/INFO]: new_chara >> ÓĞÂğ[m
+[16:23:20] [Server thread/INFO]: Bili_CMZ >> ÄãÒª»îµÄ£¿[m
+[16:23:24] [Server thread/INFO]: Bili_CMZ >> »¹ÊÇÍ·£¿[m
+[16:23:42] [Server thread/INFO]: new_chara >> Í·[m
+[16:23:52] [Server thread/INFO]: Bili_CMZ >> µòÁãËşÒ»¶Ñ[m
+[16:24:01] [Server thread/INFO]: 4022sun >> az[m
+[16:24:06] [Server thread/INFO]: 4022sun >> ĞÂÈË£¿[m
+[16:24:30] [Server thread/INFO]: new_chara >> Ò²Ã»À´¶à¾Ã[m
+[16:24:40] [Server thread/INFO]: Bili_CMZ >> ÄãÊÇË­À´×Å£¨[m
+[16:24:54] [Server thread/INFO]: new_chara >> xf998[m
+[16:24:58] [Server thread/INFO]: Bili_CMZ >> À´ºÓÍåµØÓüÃÅ[m
+[16:25:10] [Server thread/INFO]: Bili_CMZ >> ÄãÊÇÄÚ²âÍæ¼Ò»Ø¹é°É£¨[m
+[16:25:16] [Server thread/INFO]: 4022sun >> az[m
+[16:25:20] [Server thread/INFO]: new_chara >> ²»[m
+[16:25:29] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[16:25:40] [Server thread/INFO]: Bili_CMZ >> ÄãÓĞÇÊ³áÂğ£¨[m
+[16:25:45] [Server thread/INFO]: new_chara >> ÓĞ°¡[m
+[16:25:51] [Server thread/INFO]: Bili_CMZ >> À´ºÓÍå[m
+[16:26:29] [Server thread/INFO]: Bili_CMZ >> emmmm[m
+[16:26:46] [Server thread/INFO]: Bili_CMZ >> Äã²»»á²»ÖªµÀºÓÍå°É£¨[m
+[16:26:52] [Server thread/INFO]: new_chara >> ...[m
+[16:26:52] [Server thread/INFO]: Bili_CMZ >> ÈËÄØ£¨[m
+[16:27:02] [Server thread/INFO]: new_chara >> ÔÚµØÓüÃÔÂ·ÁË[m
+[16:27:12] [Server thread/INFO]: Bili_CMZ >> ÓĞĞ¡µØÍ¼Âğ£¿[m
+[16:27:18] [Server thread/INFO]: Bili_CMZ >> ÎÒ¿´µ½ÄãµÄIDÁË[m
+[16:27:38] [Server thread/INFO]: Bili_CMZ >> az[m
+[16:27:44] [Server thread/INFO]: Bili_CMZ >> ÄãÕâÓĞµãÔ¶°¡£¨[m
+[16:30:32] [Server thread/INFO]: Bili_CMZ >> ¾ÍÕâ[m
+[16:30:42] [Server thread/INFO]: Bili_CMZ >> µòÁãËş£¨[m
+[16:30:50] [Server thread/INFO]: Bili_CMZ >> ÏÂÃæÏä×ÓÀï[m
+[16:30:53] [Server thread/INFO]: 4022sun >> tapeÈÙÓş³öÆ·[m
+[16:30:57] [Server thread/INFO]: Bili_CMZ >> Ó¦¸ÃÓĞ²ĞÁôµÄÍ·[m
+[16:31:01] [Server thread/INFO]: new_chara has made the advancement [Spooky Scary Skeleton]
+[16:31:38] [Server thread/INFO]: Bili_CMZ >> ÔõÃ´²éÑ¯·½¿éÀúÊ·À´×Å4022[m
+[16:31:43] [Server thread/INFO]: 4022sun >> co i[m
+[16:31:44] [Server thread/INFO]: new_chara >> co i[m
+[16:31:48] [Server thread/INFO]: Bili_CMZ issued server command: /co i
+[16:31:57] [Server thread/INFO]: Bili_CMZ issued server command: /co i
+[16:33:57] [Server thread/INFO]: Bili_CMZ >> Å¶¶Ô[m
+[16:34:06] [Server thread/INFO]: Bili_CMZ >> ÄãÊÇÒª¸ãĞÅ±êÂğ£¿[m
+[16:34:23] [Server thread/INFO]: new_chara >> en[m
+[16:34:31] [Server thread/INFO]: Bili_CMZ >> ×Ï¾§ºóÃæÓĞ¿¨µòÁéµÄÎ»ÖÃ[m
+[16:37:54] [Server thread/INFO]: Bili_CMZ >> new_chara[m
+[16:37:57] [Server thread/INFO]: Bili_CMZ >> ¼Ò²»´í[m
+[16:37:59] [Server thread/INFO]: Bili_CMZ >> ([m
+[16:38:02] [Server thread/INFO]: 4022sun >> ?[m
+[16:38:52] [Server thread/INFO]: Bili_CMZ >> ¾ÍÊÇµØÓü½»Í¨±È½Ï¼òÂª£¨ËäÈ»ËµÎÒÃÇ·şÎñÆ÷µ½ÏÖÔÚ¶¼Ã»ÓĞË¢±ù»ú[m
+[16:39:00] [Server thread/INFO]: 4022sun >> ???????[m
+[16:39:05] [Server thread/INFO]: 4022sun >> ÄÇÄÇĞ©±ù¿é[m
+[16:39:05] [Server thread/INFO]: Bili_CMZ >> ?[m
+[16:39:07] [Server thread/INFO]: 4022sun >> ÄÄÀ´µÄ[m
+[16:39:13] [Server thread/INFO]: Bili_CMZ >> ÊÖÍÚ£¨[m
+[16:39:15] [Server thread/INFO]: 4022sun >> ??[m
+[16:39:20] [Server thread/INFO]: Bili_CMZ >> ÒÔÇ°ÓĞ¸ö[m
+[16:39:23] [Server thread/INFO]: Bili_CMZ >> ÔÚÖ÷³Ç[m
+[16:39:24] [Server thread/INFO]: 4022sun >> ±ù´¨¶¼¸øÄãÔä¿ÕÁË[m
+[16:39:27] [Server thread/INFO]: Bili_CMZ >> »µÁË£¨[m
+[16:39:29] [Server thread/INFO]: 4022sun >> az[m
+[16:39:42] [Server thread/INFO]: Bili_CMZ >> ÎÒ²»ÊÇµØÓü½»Í¨½¨ÔìÕß£¨[m
+[16:39:55] [Server thread/INFO]: Bili_CMZ >> ÎÒÖ»ÖªµÀÓĞ¸öµØÓüÃÅµÄ¶³ÑóÃ»ÁË±ù£¨[m
+[16:40:07] [Server thread/INFO]: 4022sun >> e[m
+[16:40:34] [Server thread/INFO]: 4022sun >> ½¨ÒéÔä±ù´Ì[m
+[16:40:47] [Server thread/INFO]: Bili_CMZ >> Õ¦¾ÍÃ»ÈË¸ãË¢±ù»úÄØ£¨[m
+[16:41:04] [Server thread/INFO]: Bili_CMZ issued server command: /co i
+[16:41:12] [Server thread/INFO]: Bili_CMZ issued server command: /co i
+[16:42:31] [Server thread/INFO]: 4022sun >> az[m
+[16:42:36] [Server thread/INFO]: Bili_CMZ >> az[m
+[16:42:41] [Server thread/INFO]: 4022sun >> ÕâÔõÃ´ÓĞ¸öÇæÌìÖù[m
+[16:42:47] [Server thread/INFO]: Bili_CMZ >> ÄÄ£¿[m
+[16:42:50] [Server thread/INFO]: 4022sun >> HJ[m
+[16:42:55] [Server thread/INFO]: Bili_CMZ >> HJ?[m
+[16:43:13] [Server thread/INFO]: 4022sun >> º£¾§Ê¯Í·¹¤³§ÃÅ¿Ú[m
+[16:43:19] [Server thread/INFO]: 4022sun >> ¶¥ÉÏÓĞ¸ö·¢ÉäÆ÷= =[m
+[16:43:23] [Server thread/INFO]: Bili_CMZ >> ????[m
+[16:43:25] [Server thread/INFO]: new_chara >> c[m
+[16:43:41] [Server thread/INFO]: Bili_CMZ >> °¡ÎÒ²»Òªµ±Ãë¶®ÄĞº¢[m
+[16:43:44] [Server thread/INFO]: Bili_CMZ >> ([m
+[16:43:49] [Server thread/INFO]: new_chara >> ¿¨·şµÄ?[m
+[16:43:50] [Server thread/INFO]: 4022sun >> ???[m
+[16:43:53] [Server thread/INFO]: 4022sun >> ²»ÖªµÀ[m
+[16:43:56] [Server thread/INFO]: 4022sun >> Õâ¸ùÖù×Ó[m
+[16:44:08] [Server thread/INFO]: 4022sun >> ³¬¹ıÁËÊé¼ÜËşºÍÉ³Ê¯Ëş[m
+[16:44:09] [Server thread/INFO]: Bili_CMZ >> Öù¡á×Ó[m
+[16:44:14] [Server thread/INFO]: 4022sun >> ³ÉÎªÁËº£¾§×î¸ßµÄ½¨Öş[m
+[16:44:17] [Server thread/INFO]: 4022sun issued server command: /co i
+[16:44:29] [Server thread/INFO]: new_chara >> ÈÃÎÒ¿µ¿µ[m
+[16:44:31] [Server thread/INFO]: Bili_CMZ >> ÉÏÃæ·Å·¢ÉäÆ÷¼¸¸öÒâË¼£¿£¨[m
+[16:44:46] [Server thread/INFO]: 4022sun >> minecraft_xyzjÊÇË­°¡[m
+[16:44:50] [Server thread/INFO]: 4022sun issued server command: /co io
+[16:44:53] [Server thread/INFO]: Bili_CMZ >> linyi[m
+[16:44:58] [Server thread/INFO]: Bili_CMZ >> ([m
+[16:45:19] [Server thread/INFO]: 4022sun >> az[m
+[16:45:23] [Server thread/INFO]: Bili_CMZ >> º£¾§µÆÉÏË¢¹ÔÂï£¿[m
+[16:45:27] [Server thread/INFO]: 4022sun >> no[m
+[16:45:28] [Server thread/INFO]: Bili_CMZ >> ¹Ö[m
+[16:45:28] [Server thread/INFO]: 4022sun >> ???[m
+[16:45:33] [Server thread/INFO]: Bili_CMZ >> Ï®»÷[m
+[16:45:39] [Server thread/INFO]: 4022sun >> ºÃÏñ[m
+[16:45:42] [Server thread/INFO]: 4022sun >> ²»Ë¢°É[m
+[16:45:47] [Server thread/INFO]: Bili_CMZ >> Ó¦¸Ã°É[m
+[16:45:56] [Server thread/INFO]: Bili_CMZ >> ÎÒ»¹ÊÇÆÌ²ãµØÌº±£ÏÕ£¨[m
+[16:45:57] [Server thread/INFO]: 4022sun >> ÇæÌìÖù[m
+[16:46:16] [Server thread/INFO]: Bili_CMZ >> linyi¸ãÇæÌìÖù¡á[m
+[16:46:17] [Server thread/INFO]: Bili_CMZ >> ([m
+[16:46:19] [Server thread/INFO]: 4022sun >> xswl[m
+[16:46:57] [Server thread/INFO]: 4022sun issued server command: /co i
+[16:47:56] [Server thread/INFO]: Bili_CMZ >> »ÃÒí£¨[m
+[16:48:01] [Server thread/INFO]: Bili_CMZ >> ÑªÑ¹ì­Éı[m
+[16:48:05] [Server thread/INFO]: 4022sun >> ËŞ¹Ü[m
+[16:48:16] [Server thread/INFO]: Bili_CMZ >> ²éÇŞ£¨[m
+[16:51:13] [Server thread/INFO]: new_chara lost connection: Disconnected
+[16:51:13] [Server thread/INFO]: new_chara left the game
+[16:51:30] [Server thread/INFO]: Bili_CMZ >> ²İ[m
+[16:51:34] [Server thread/INFO]: Bili_CMZ >> ´®ÃÅ[m
+[16:51:45] [Server thread/INFO]: 4022sun >> az[m
+[16:53:20] [Server thread/INFO]: Bili_CMZ >> 4022[m
+[16:53:23] [Server thread/INFO]: 4022sun >> ?[m
+[16:53:29] [Server thread/INFO]: Bili_CMZ >> À´Ï®»÷Ëş°ï¸öÃ¦ßÂ£¨[m
+[16:53:38] [Server thread/INFO]: 4022sun >> ÎÒ×¼±¸ÁïÁË= =[m
+[16:53:42] [Server thread/INFO]: Bili_CMZ >> az[m
+[16:53:51] [Server thread/INFO]: 4022sun >> ĞŞÍêº£¾§µÄÂ·[m
+[16:53:53] [Server thread/INFO]: 4022sun >> ÎÒ¾ÍÁïÁË[m
+[16:53:57] [Server thread/INFO]: 4022sun >> qwq[m
+[16:53:58] [Server thread/INFO]: Bili_CMZ >> az[m
+[16:56:12] [Server thread/INFO]: Bili_CMZ >> µØÓüÃÅºÍ[m
+[16:56:15] [Server thread/INFO]: 4022sun >> az[m
+[16:56:22] [Server thread/INFO]: Bili_CMZ >> yÖáÃ»¹ØÏµ°É[m
+[16:56:25] [Server thread/INFO]: 4022sun >> yes[m
+[16:57:15] [Server thread/INFO]: Bili_CMZ >> ²İ£¨[m
+[16:57:21] [Server thread/WARN]: Bili_CMZ moved wrongly!
+[16:57:23] [Server thread/WARN]: Bili_CMZ moved wrongly!
+[16:57:28] [Server thread/WARN]: Bili_CMZ moved wrongly!
+[16:58:07] [Server thread/INFO]: Bili_CMZ >> ´óÀĞ[m
+[16:58:10] [Server thread/INFO]: Bili_CMZ >> °ï°ïÎÒ°É[m
+[16:58:13] [Server thread/INFO]: 4022sun >> az[m
+[16:58:19] [Server thread/INFO]: Bili_CMZ >> Ò»Ö±´®ÃÅ[m
+[16:58:23] [Server thread/INFO]: Bili_CMZ >> ÎÒÒª·èÁË[m
+[16:58:24] [Server thread/INFO]: 4022sun >> Ï®»÷ËşÎÒ²»»á°¡= =[m
+[16:58:27] [Server thread/INFO]: 4022sun >> ¶î[m
+[16:58:29] [Server thread/INFO]: Bili_CMZ >> µØÓüÃÅ[m
+[16:58:34] [Server thread/INFO]: 4022sun >> °ÑµØÓüµÄÇÃÁË[m
+[16:58:45] [Server thread/INFO]: 4022sun >> s»ØÀ´ÔÙ¿ª[m
+[16:58:58] [Server thread/INFO]: Bili_CMZ >> ÎÒ108¼¶£¨[m
+[16:59:03] [Server thread/INFO]: 4022sun >> emmmmm[m
+[16:59:07] [Server thread/INFO]: 4022sun >> ¾­ÑéÃ»ÊÂµÄ[m
+[16:59:09] [Server thread/INFO]: 4022sun >> awa[m
+[16:59:12] [Server thread/INFO]: Bili_CMZ >> cao[m
+[16:59:33] [Server thread/INFO]: 4022sun >> ÎÒgiao[m
+[16:59:36] [Server thread/INFO]: 4022sun >> º£¾§µØÀíÎ»ÖÃ[m
+[16:59:38] [Server thread/INFO]: 4022sun >> 6°¡[m
+[16:59:44] [Server thread/INFO]: 4022sun >> ºó±ß¾ÍÊÇÉ³Ä®ºÍÈøÍßÄÉ[m
